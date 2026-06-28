@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:16:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795599310",
+  "records": [
+    {
+      "aadhar": "845526729810",
+      "address": "S/O  Ram Keval!285!ajmeri badshah pur Tanda!!ajmeri badshah pur!Tanda Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "6306823326",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Keval",
+      "name": "Shashank",
+      "num": "9795599310"
+    },
+    {
+      "aadhar": "845526729810",
+      "address": "S/O  Ram Keval!285!ajmeri badshah pur Tanda!!ajmeri badshah pur!Tanda Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "6306823326",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Keval",
+      "name": "Shashank",
+      "num": "9795599310"
+    },
+    {
+      "aadhar": "845526729810",
+      "address": "RAM KEVAL!285 AJMERI BADSHAH PUR TANDA AMBEDKAR NA!285 AJMERI BADSHAH PUR tanda!tanda!balrampur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9795599310",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAM KEVAL",
+      "name": "MR SHASHANK ",
+      "num": "8112599310"
+    },
+    {
+      "aadhar": "845526729810",
+      "address": "RAM KEVAL!285 AJMERI BADSHAH PUR TANDA AMBEDKAR NA!285 AJMERI BADSHAH PUR tanda!tanda!balrampur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9795599310",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAM KEVAL",
+      "name": "MR SHASHANK ",
+      "num": "8112599310"
+    }
+  ]
+}
