@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:32:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985174309",
+  "records": [
+    {
+      "aadhar": "899475566610",
+      "address": "S/O: Mohd Fuzail!!285 zamaniya road!!Dharammarpur Gangbarar Ghazipur!Uttar Pradesh!233232",
+      "alt": "917309853278",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohd Fuzail",
+      "name": "Zyaur Rahaman",
+      "num": "7985174309"
+    },
+    {
+      "aadhar": "899475566610",
+      "address": "S/O: Mohd Fuzail!!285 zamaniya road!!Dharammarpur Gangbarar Ghazipur!Uttar Pradesh!233232",
+      "alt": "917309853278",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohd Fuzail",
+      "name": "Zyaur Rahaman",
+      "num": "7985174309"
+    }
+  ]
+}
