@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:08:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9565325877",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!.!. SHITALGANJ!. Gonda!SHITALGANJ!Gonda!UTTAR PRADESH!271305",
+      "alt": "9792108071",
+      "circle": null,
+      "email": null,
+      "fname": "Hari Ram",
+      "name": "SHIV KUMARI",
+      "num": "9565325877"
+    },
+    {
+      "aadhar": null,
+      "address": "!.!. SHITALGANJ!. Gonda!SHITALGANJ!Gonda!UTTAR PRADESH!271305",
+      "alt": "9792108071",
+      "circle": null,
+      "email": null,
+      "fname": "Hari Ram",
+      "name": "SHIV KUMARI",
+      "num": "9565325877"
+    }
+  ]
+}
