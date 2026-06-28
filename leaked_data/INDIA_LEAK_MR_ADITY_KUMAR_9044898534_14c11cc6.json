@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:07:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9044898534",
+  "records": [
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR. ADITY KUMAR",
+      "num": "9044898534"
+    },
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR ADITY KUMAR",
+      "num": "9044898534"
+    },
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR ADITY KUMAR",
+      "num": "9044898534"
+    }
+  ]
+}
