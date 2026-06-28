@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:52:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303526371",
+  "records": [
+    {
+      "aadhar": "351071810102",
+      "address": "!5!kirpasankar nagar!!machhli shahar!Jaunpur!Jaunpur!Uttar Pradesh!222143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsingar Chaurasia",
+      "name": "Sushama Ramsingar Chaurasia",
+      "num": "8303526371"
+    },
+    {
+      "aadhar": "351071810102",
+      "address": "!5!kirpasankar nagar!!machhli shahar!Jaunpur!Jaunpur!Uttar Pradesh!222143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsingar Chaurasia",
+      "name": "Sushama Ramsingar Chaurasia",
+      "num": "8303526371"
+    },
+    {
+      "aadhar": "351071810102",
+      "address": "! 35/A!kripa shankar nagar!!machhali Shahar!Jaunpur!Jaunpur!Uttar Pradesh!222143",
+      "alt": "8303526371",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramsingar chaurasia",
+      "name": "Sushama Ramsingar Chaurasia",
+      "num": "7388869449"
+    },
+    {
+      "aadhar": "351071810102",
+      "address": "! 35/A!kripa shankar nagar!!machhali Shahar!Jaunpur!Jaunpur!Uttar Pradesh!222143",
+      "alt": "8303526371",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramsingar chaurasia",
+      "name": "Sushama Ramsingar Chaurasia",
+      "num": "7388869449"
+    }
+  ]
+}
