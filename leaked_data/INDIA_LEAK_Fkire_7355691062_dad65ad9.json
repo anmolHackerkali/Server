@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:25:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7355691062",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Said!!!!Shahpur Fatehpur!Uttar Pradesh!212652",
+      "alt": "919565924934",
+      "circle": "JIO UPE",
+      "email": "asifs9513@gmail.com",
+      "fname": "Said",
+      "name": "Fkire",
+      "num": "7355691062"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Said!!!!Shahpur Fatehpur!Uttar Pradesh!212652",
+      "alt": "919565924934",
+      "circle": "JIO UPE",
+      "email": "asifs9513@gmail.com",
+      "fname": "Said",
+      "name": "Fkire",
+      "num": "7355691062"
+    }
+  ]
+}
