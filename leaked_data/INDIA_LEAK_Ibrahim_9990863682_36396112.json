@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863682",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!House no A-121 street no -12!New Kardam Puri!Delhi East North East!Delhi!110094",
+      "alt": "916393569972",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ilyas",
+      "name": "Ibrahim",
+      "num": "9990863682"
+    },
+    {
+      "aadhar": " 477874506285 ",
+      "address": "! House No 15gali No 1kabir Nagar ! Siw Mandir RoadSiw Mandir RoadEAST DELHI ! Siw Mandir ! Siw Mandir ! BABU NAGAR ! EAST DELHI ! Delhi ! 110094",
+      "alt": "7827581932",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MAKSOOD .",
+      "name": "JISHAN ALI",
+      "num": "9990863682"
+    },
+    {
+      "aadhar": "477874506285",
+      "address": "! House No 15gali No 1kabir Nagar ! Siw Mandir RoadSiw Mandir RoadEAST DELHI ! Siw Mandir ! Siw Mandir ! BABU NAGAR ! EAST DELHI ! Delhi ! 110094",
+      "alt": "7827581932",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MAKSOOD ",
+      "name": "JISHAN ALI",
+      "num": "9990863682"
+    },
+    {
+      "aadhar": null,
+      "address": "!!House no A-121street no -12!New Kardam Puri!Delhi EastNorth East!Delhi!110094",
+      "alt": "916393569972",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ilyas",
+      "name": "Ibrahim",
+      "num": "9990863682"
+    },
+    {
+      "aadhar": "477874506285",
+      "address": "! House No 15gali No 1kabir Nagar ! Siw Mandir RoadSiw Mandir RoadEAST DELHI ! Siw Mandir ! Siw Mandir ! BABU NAGAR ! EAST DELHI ! Delhi ! 110094",
+      "alt": "7827581932",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MAKSOOD ",
+      "name": "JISHAN ALI",
+      "num": "9990863682"
+    },
+    {
+      "aadhar": null,
+      "address": "!!House no A-121street no -12!New Kardam Puri!Delhi EastNorth East!Delhi!110094",
+      "alt": "916393569972",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ilyas",
+      "name": "Ibrahim",
+      "num": "9990863682"
+    }
+  ]
+}
