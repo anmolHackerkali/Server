@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:16:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9621377629",
+  "records": [
+    {
+      "aadhar": "815767547768",
+      "address": "D/O Rayees Ahmad Khan!152/23!RASSI BATAN!Aminabad!MOULVIGANJ!Lucknow!Lucknow!Uttar Pradesh!226018",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rayees Ahmad Khan",
+      "name": "Urusa Khan",
+      "num": "9621377629"
+    },
+    {
+      "aadhar": "815767547768",
+      "address": "D/O Rayees Ahmad Khan!152/23!RASSI BATAN!Aminabad!MOULVIGANJ!Lucknow!Lucknow!Uttar Pradesh!226018",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rayees Ahmad Khan",
+      "name": "Urusa Khan",
+      "num": "9621377629"
+    }
+  ]
+}
