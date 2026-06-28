@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:26:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393995137",
+  "records": [
+    {
+      "aadhar": "UP3220140017575",
+      "address": "! 183/15 ka!moulviganj astbal charbagh!moulviganj!lucknow!Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "8853915210",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "abdul latif",
+      "name": "Mohammad ahmad",
+      "num": "6393995137"
+    },
+    {
+      "aadhar": "UP3220140017575",
+      "address": "! 183/15 ka!moulviganj astbal charbagh!moulviganj!lucknow!Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "8853915210",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "abdul latif",
+      "name": "Mohammad ahmad",
+      "num": "6393995137"
+    }
+  ]
+}
