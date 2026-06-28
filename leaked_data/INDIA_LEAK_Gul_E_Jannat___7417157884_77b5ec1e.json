@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:20:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417157884",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O  Qamar Uz Zama!!72Beharipur Memaran!!BareillyBareilly!Uttar Pradesh!243003",
+      "alt": "+918126496092",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Qamar Uz Zama",
+      "name": "Gul E Jannat  ",
+      "num": "7417157884"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Qamar Uz Zama!!72 Beharipur Memaran!!Bareilly Bareilly!Uttar Pradesh!243003",
+      "alt": "918126496092",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Qamar Uz Zama",
+      "name": "Gul E Jannat",
+      "num": "7417157884"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Qamar Uz Zama!!72 Beharipur Memaran!!Bareilly Bareilly!Uttar Pradesh!243003",
+      "alt": "918126496092",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Qamar Uz Zama",
+      "name": "Gul E Jannat",
+      "num": "7417157884"
+    }
+  ]
+}
