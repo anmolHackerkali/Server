@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:45:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9559495807",
+  "records": [
+    {
+      "aadhar": "205367477025",
+      "address": "S/O Chottan!buddha purwa!Milik!!Kheri Durgapur Padari!Kheri!Kheri!Uttar Pradesh!261502",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chottan",
+      "name": "Layakram",
+      "num": "9559495807"
+    },
+    {
+      "aadhar": "205367477025",
+      "address": "S/O Chottan!buddha purwa!Milik!!Kheri Durgapur Padari!Kheri!Kheri!Uttar Pradesh!261502",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chottan",
+      "name": "Layakram",
+      "num": "9559495807"
+    }
+  ]
+}
