@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 11:37:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9580018505",
+  "records": [
+    {
+      "aadhar": "754247015663",
+      "address": "w/o  radheshyam!139!Tarauli Mubarakpur!gram akbalpur post tarauli mubarakpur!tarauli mubarakpur!akbelpur Tanda!ambedkar nagar!Uttar Pradesh!224143",
+      "alt": "7054789331",
+      "circle": "JIO UPE",
+      "email": "shivam80p90@gmail.com",
+      "fname": "radheshyam",
+      "name": "Suryamukhi",
+      "num": "9580018505"
+    },
+    {
+      "aadhar": "754247015663",
+      "address": "w/o  radheshyam!139!Tarauli Mubarakpur!gram akbalpur post tarauli mubarakpur!tarauli mubarakpur!akbelpur Tanda!ambedkar nagar!Uttar Pradesh!224143",
+      "alt": "7054789331",
+      "circle": "JIO UPE",
+      "email": "shivam80p90@gmail.com",
+      "fname": "radheshyam",
+      "name": "Suryamukhi",
+      "num": "9580018505"
+    },
+    {
+      "aadhar": "250763038645",
+      "address": "s/o  radheshyam!139!gram akbalpur post tarauli mubarakpur Akbelpur!gram akbalpur post s tarauli mubarakpur!Tanda!akbelpur!ambedkar nagar!Uttar Pradesh!224143",
+      "alt": "9580018505",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "radheshyam",
+      "name": "Shivam",
+      "num": "8299196463"
+    },
+    {
+      "aadhar": "250763038645",
+      "address": "s/o  radheshyam!139!gram akbalpur post tarauli mubarakpur Akbelpur!gram akbalpur post s tarauli mubarakpur!Tanda!akbelpur!ambedkar nagar!Uttar Pradesh!224143",
+      "alt": "9580018505",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "radheshyam",
+      "name": "Shivam",
+      "num": "8299196463"
+    }
+  ]
+}
