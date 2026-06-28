@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:40:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7237019331",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Mohammad Sufiyan!258!Astbal Charbagh!Patthar Wali Gali   Aminabad Lucknow!!Lucknow!UTTAR PRADESH!226018",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Mohammad Sufiyan",
+      "name": "Asad ",
+      "num": "7237019331"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohammad Sufiyan!258!Astbal Charbagh!Patthar Wali Gali   Aminabad Lucknow!!Lucknow!UTTAR PRADESH!226018",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Mohammad Sufiyan",
+      "name": "Asad ",
+      "num": "7237019331"
+    }
+  ]
+}
