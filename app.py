@@ -13,7 +13,7 @@ API_KEY = "demo"
 API_URL = "https://exploitsindia.site/osint/api.php"
 
 # ✅ GitHub Configuration - APNA DALO
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")"  # ← GitHub se Personal Access Token banao
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # ← GitHub se Personal Access Token banao
 GITHUB_REPO = "anmolHackerkali/Server"  # ← Apna repo name
 GITHUB_LEAK_FOLDER = "leaked_data"  # ← Is folder mein data save hoga
 
