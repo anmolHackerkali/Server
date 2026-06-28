@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:48:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936958553",
+  "records": [
+    {
+      "aadhar": "379542516782",
+      "address": "!00!pure brajnagar sursana!!post bharsana  dalmau  surasana  rea bareli!Raibareilly!Raibareilly!Uttar Pradesh!229404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "moolchandra",
+      "name": "brajesh kumar",
+      "num": "9936958553"
+    },
+    {
+      "aadhar": "379542516782",
+      "address": "!00!pure brajnagar sursana!!post bharsana  dalmau  surasana  rea bareli!Raibareilly!Raibareilly!Uttar Pradesh!229404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "moolchandra",
+      "name": "brajesh kumar",
+      "num": "9936958553"
+    }
+  ]
+}
