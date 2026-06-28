@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:43:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792055291",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "H NO 450/128/18/1!MUFTI GANJ!NA!LUCKNOW!UTTAR PRADESH!226003",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "MAHESHRAJ",
+      "name": "AUSAF HUSAIN RIZVI",
+      "num": "9792055291"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 450/128/18/1!MUFTI GANJ!NA!LUCKNOW!UTTAR PRADESH!226003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "MAHESHRAJ",
+      "name": "AUSAF HUSAIN RIZVI",
+      "num": "9792055291"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 450/128/18/1!MUFTI GANJ!NA!LUCKNOW!UTTAR PRADESH!226003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "MAHESHRAJ",
+      "name": "AUSAF HUSAIN RIZVI",
+      "num": "9792055291"
+    }
+  ]
+}
