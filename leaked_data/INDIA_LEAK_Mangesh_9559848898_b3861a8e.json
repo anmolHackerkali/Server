@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 11:17:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9559848898",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Mansha Ram!!217!gaon- darbeshpur post- rampur manguradila!Rampur Maguradela Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": "916346464946",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mansha Ram Yadav",
+      "name": "Mangesh",
+      "num": "9559848898"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Mansha Ram!!217!gaon- darbeshpur post- rampur manguradila!Rampur Maguradela Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": "916346464946",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mansha Ram Yadav",
+      "name": "Mangesh",
+      "num": "9559848898"
+    },
+    {
+      "aadhar": "990326612423",
+      "address": "!217 gaon darbeshpur post rampur mangurad!rampur manguradila rampur maguradela!gaon- darbeshpur post- rampur manguradil!Surapurambedkar nagargaon- darbeshpur!RAMPUR MAGURADELA-AM!UP!224227",
+      "alt": "9559848898",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "MANSHARAM  .",
+      "name": "MANGESH  .",
+      "num": "9682207804"
+    },
+    {
+      "aadhar": "990326612423",
+      "address": "c/o  mansha ram!217!gaon- darbeshpur post- rampur manguradila!!gaon- darbeshpur post- rampur manguradila!rampur maguradela!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "9559848898",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mansha Ram",
+      "name": "Mangesh",
+      "num": "9984426031"
+    },
+    {
+      "aadhar": "990326612423",
+      "address": "!217 gaon darbeshpur post rampur mangurad!rampur manguradila rampur maguradela!gaon- darbeshpur post- rampur manguradil!Surapur ambedkar nagar gaon- darbeshpur!RAMPUR MAGURADELA-AM!UP!224227",
+      "alt": "9559848898",
+      "circle": null,
+      "email": null,
+      "fname": "MANSHARAM  .",
+      "name": "MANGESH  ",
+      "num": "9682207804"
+    },
+    {
+      "aadhar": "368004870027",
+      "address": "s/o  rajesh kumar! rampur maguradela surapur ambedkar nagar!Surapur!!rampur maguradela!surapur Akbarpur!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "9559848898",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar",
+      "name": "Shani",
+      "num": "6388286138"
+    },
+    {
+      "aadhar": "990326612423",
+      "address": "c/o  mansha ram!217!gaon- darbeshpur post- rampur manguradila!!gaon- darbeshpur post- rampur manguradila!rampur maguradela!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "9559848898",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mansha Ram",
+      "name": "Mangesh",
+      "num": "9984426031"
+    },
+    {
+      "aadhar": "990326612423",
+      "address": "!217 gaon darbeshpur post rampur mangurad!rampur manguradila rampur maguradela!gaon- darbeshpur post- rampur manguradil!Surapur ambedkar nagar gaon- darbeshpur!RAMPUR MAGURADELA-AM!UP!224227",
+      "alt": "9559848898",
+      "circle": null,
+      "email": null,
+      "fname": "MANSHARAM  .",
+      "name": "MANGESH  ",
+      "num": "9682207804"
+    },
+    {
+      "aadhar": "368004870027",
+      "address": "s/o  rajesh kumar! rampur maguradela surapur ambedkar nagar!Surapur!!rampur maguradela!surapur Akbarpur!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "9559848898",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar",
+      "name": "Shani",
+      "num": "6388286138"
+    }
+  ]
+}
