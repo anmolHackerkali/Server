@@ -232,9 +232,9 @@ HTML_TEMPLATE = """
         <div class="sub">Yaha aap aap 📱 number enter kare <br> Fir <storage>Ditels</storage> per 🔘 Click kare agar Number ka Ditels na nikale to uska data leak ℹ️ hai <br>Ab aap dusara 📱 Number daal kar 🔘 chick kare</div>
         
         <form method="POST">
-            <input type="text" name="phone" placeholder="+91 9876543210" 
+            <input type="text" name="phone" placeholder="9876543210" 
                    value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}">
-            <button type="submit">⚡ EXECUTE_QUERY</button>
+            <button type="submit">⚡ Ditels </button>
         </form>
         
         {% if result %}
