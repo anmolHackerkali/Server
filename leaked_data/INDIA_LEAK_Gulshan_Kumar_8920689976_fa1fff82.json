@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:35:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920689976",
+  "records": [
+    {
+      "aadhar": "755964266720",
+      "address": "S/O Maan Singh!!!VILLAGE-BAROULA SECTOR-49 NOIDA!SALARPUR GAUTAM BUDDHA NAGAR!Uttar Pradesh!201304",
+      "alt": "917838770437",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Maan Singh",
+      "name": "Gulshan Kumar",
+      "num": "8920689976"
+    },
+    {
+      "aadhar": "755964266720",
+      "address": "S/O Maan Singh!!!VILLAGE-BAROULASECTOR-49NOIDA!SalarpurGautam Buddha Nagar!Uttar Pradesh!201304",
+      "alt": "917838770437",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Maan Singh",
+      "name": "Gulshan Kumar",
+      "num": "8920689976"
+    },
+    {
+      "aadhar": "755964266720",
+      "address": "S/O Maan Singh!!!VILLAGE-BAROULASECTOR-49NOIDA!SalarpurGautam Buddha Nagar!Uttar Pradesh!201304",
+      "alt": "917838770437",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Maan Singh",
+      "name": "Gulshan Kumar",
+      "num": "8920689976"
+    }
+  ]
+}
