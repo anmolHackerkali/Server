@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:49:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554394906",
+  "records": [
+    {
+      "aadhar": "544798451625",
+      "address": "S/O: Rajendra Prasad!18!!Narayanpur Pretampur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Arvind Kumar",
+      "num": "9554394906"
+    },
+    {
+      "aadhar": "544798451625",
+      "address": "S/O: Rajendra Prasad!18!!Narayanpur Pretampur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Arvind Kumar",
+      "num": "9554394906"
+    }
+  ]
+}
