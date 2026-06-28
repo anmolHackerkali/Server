@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:36:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8447287785",
+  "records": [
+    {
+      "aadhar": "308777243132",
+      "address": "Mohd  Sarif!H N0 - T - 664!Street N0 - 12 Near Jain Mandir!Gautmpuri!New Seelampur- -North East!Delhi!110053",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd  Sarif",
+      "name": "Mohd Aslam",
+      "num": "8447287785"
+    },
+    {
+      "aadhar": "308777243132",
+      "address": "Mohd Sarif!H N0 - T - 664!Street N0 - 12 Near Jain Mandir!Gautmpuri!New Seelampur- -North East!Delhi!110053",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd Sarif",
+      "name": "MohdAslam",
+      "num": "8447287785"
+    },
+    {
+      "aadhar": "308777243132",
+      "address": "Mohd Sarif!H N0 - T - 664!Street N0 - 12 Near Jain Mandir!Gautmpuri!New Seelampur- -North East!Delhi!110053",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd Sarif",
+      "name": "MohdAslam",
+      "num": "8447287785"
+    },
+    {
+      "aadhar": " 620165979553 ",
+      "address": "S/O Aslam ! H. No - T - 664 ! Street No - 12New Seelam Pur North East ! New Seelam Pur North East ! Gautam Puri NORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR. MOHD AAMIR",
+      "num": "7836084495"
+    },
+    {
+      "aadhar": " 620165979553 ",
+      "address": "S/O Aslam ! H. No - T - 664 ! Street No - 12 !  ! Gautam Puri New Seelam Pur North EastNORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR. MOHD AAMIR",
+      "num": "7836084610"
+    },
+    {
+      "aadhar": " 620165979553 ",
+      "address": "S/O Aslam ! H. No - T - 664 ! Street No - 12 !  ! Gautam Puri New Seelam Pur North EastNORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHD AAMIR",
+      "num": "7836084610"
+    },
+    {
+      "aadhar": "620165979553",
+      "address": "S/O Aslam ! H No - T - 664 ! Street No - 12New Seelam Pur North East ! New Seelam Pur North East ! Gautam Puri NORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHD AAMIR",
+      "num": "7836084495"
+    },
+    {
+      "aadhar": "620165979553",
+      "address": "S/O Aslam ! H No - T - 664 ! Street No - 12New Seelam Pur North East ! New Seelam Pur North East ! Gautam Puri NORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHD AAMIR",
+      "num": "7836084495"
+    },
+    {
+      "aadhar": " 620165979553 ",
+      "address": "S/O Aslam ! H. No - T - 664 ! Street No - 12 !  ! Gautam Puri New Seelam Pur North EastNORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "8447287785",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHD AAMIR",
+      "num": "7836084610"
+    }
+  ]
+}
