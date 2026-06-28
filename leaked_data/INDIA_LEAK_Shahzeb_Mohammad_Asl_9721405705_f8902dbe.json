@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:31:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721405705",
+  "records": [
+    {
+      "aadhar": "448221581178",
+      "address": " !456/108/21!DAULAT GANJ  ALAAFIYAT City/District: Lucknow State Uttar Pradesh!SAJJAD BAGH COLONY!LUCKNOW!UTTAR PRADESH!226003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Mohammad Aslam Siddiqui",
+      "name": "Shahzeb Mohammad Aslam",
+      "num": "9721405705"
+    },
+    {
+      "aadhar": "448221581178",
+      "address": " !456/108/21!DAULAT GANJ  ALAAFIYAT City/District: Lucknow State Uttar Pradesh!SAJJAD BAGH COLONY!LUCKNOW!UTTAR PRADESH!226003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Mohammad Aslam Siddiqui",
+      "name": "Shahzeb Mohammad Aslam",
+      "num": "9721405705"
+    },
+    {
+      "aadhar": "720844918134",
+      "address": " !-  -!HAJAREMALPUR  Belau!Gambhirpur  Lalganj !BELAU-AZAMGARH!UP!276302",
+      "alt": "9721405705",
+      "circle": null,
+      "email": null,
+      "fname": "BUDDHURAM  .",
+      "name": "RAMRUP  .",
+      "num": "8577094194"
+    },
+    {
+      "aadhar": "720844918134",
+      "address": " !-  -!HAJAREMALPUR  Belau!Gambhirpur  Lalganj !BELAU-AZAMGARH!UP!276302",
+      "alt": "9721405705",
+      "circle": null,
+      "email": null,
+      "fname": "BUDDHURAM  .",
+      "name": "RAMRUP  .",
+      "num": "8577094194"
+    }
+  ]
+}
