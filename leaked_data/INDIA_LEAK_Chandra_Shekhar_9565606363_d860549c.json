@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:46:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9565606363",
+  "records": [
+    {
+      "aadhar": "934298014012",
+      "address": "S/O Ram Bahadur Sharma!360!masra mohanpur!!Belaparsa Baskhari!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Bahadur Sharma",
+      "name": "Chandra Shekhar",
+      "num": "9565606363"
+    },
+    {
+      "aadhar": "934298014012",
+      "address": "S/O Ram Bahadur Sharma!360!masra mohanpur!!Belaparsa Baskhari!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Bahadur Sharma",
+      "name": "Chandra Shekhar",
+      "num": "9565606363"
+    }
+  ]
+}
