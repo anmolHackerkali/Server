@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 11:29:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8896045235",
+  "records": [
+    {
+      "aadhar": "289303992846",
+      "address": "!529/k/48 near Mount berry school Khurram Nagar!vikas Nagar!!lucknow!Lucknow!Lucknow!Uttar Pradesh!226022",
+      "alt": "7905210988",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "fareeduddin beg",
+      "name": "Kalimuddin Beg",
+      "num": "8896045235"
+    },
+    {
+      "aadhar": "289303992846",
+      "address": "!529/k/48 near Mount berry school Khurram Nagar!vikas Nagar!!lucknow!Lucknow!Lucknow!Uttar Pradesh!226022",
+      "alt": "7905210988",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "fareeduddin beg",
+      "name": "Kalimuddin Beg",
+      "num": "8896045235"
+    },
+    {
+      "aadhar": "289303992846",
+      "address": " !529 / K / 48!Near Mount Berry School Vikas Nagar!Khurram Nagar!Vikas Nagar-Bakshi K!Uttar Pradesh!226022",
+      "alt": "8896045235",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Fareeduddin Beg",
+      "name": "Kalimuddin Beg",
+      "num": "9792161256"
+    },
+    {
+      "aadhar": "289303992846",
+      "address": " !529 / K / 48!Near Mount Berry School Vikas Nagar!Khurram Nagar!Vikas Nagar-Bakshi K!Uttar Pradesh!226022",
+      "alt": "8896045235",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Fareeduddin Beg",
+      "name": "Kalimuddin Beg",
+      "num": "9792161256"
+    }
+  ]
+}
