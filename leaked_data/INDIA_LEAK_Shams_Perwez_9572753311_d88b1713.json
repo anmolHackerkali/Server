@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:57:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9572753311",
+  "records": [
+    {
+      "aadhar": "921754871612",
+      "address": "S/O Abdul Muttalib Ansari!!Naseman Near Karbala Bazar Barhria!Tola Hardia!Barharia Siwan!Bihar!841232",
+      "alt": "918340444483",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Muttalib Ansari",
+      "name": "Shams Perwez",
+      "num": "9572753311"
+    },
+    {
+      "aadhar": "921754871612",
+      "address": "S/O Abdul Muttalib Ansari!!Naseman Near Karbala Bazar Barhria!Tola Hardia!Barharia Siwan!Bihar!841232",
+      "alt": "918340444483",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Muttalib Ansari",
+      "name": "Shams Perwez",
+      "num": "9572753311"
+    },
+    {
+      "aadhar": "921754871612",
+      "address": "S/O Abdul Muttalib Ansari!!Naseman Near Karbala Bazar Barhria!Tola Hardia!Barharia Siwan!Bihar!841232",
+      "alt": "918340444483",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Muttalib Ansari",
+      "name": "Shams Perwez",
+      "num": "9572753311"
+    }
+  ]
+}
