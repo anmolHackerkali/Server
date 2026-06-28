@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:44:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795557219",
+  "records": [
+    {
+      "aadhar": "625696582960",
+      "address": "W/O Shohrat Ali!Shahidwari post Goshainganj!Amsin!!Faizabad!Faizabad!Ayodhya!Uttar Pradesh!224141",
+      "alt": "9795557219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shohrat Ali",
+      "name": "Yasmeen Bano",
+      "num": "9795557219"
+    },
+    {
+      "aadhar": "625696582960",
+      "address": "W/O Shohrat Ali!Shahidwari post Goshainganj!Amsin!!Faizabad!Faizabad!Ayodhya!Uttar Pradesh!224141",
+      "alt": "9795557219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shohrat Ali",
+      "name": "Yasmeen Bano",
+      "num": "9795557219"
+    },
+    {
+      "aadhar": "625696582960",
+      "address": "W/O Shohrat Ali!Shahidwari post Goshainganj!Amsin!!Faizabad!Faizabad!Ayodhya!Uttar Pradesh!224141",
+      "alt": "9795557219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shohrat Ali",
+      "name": "Yasmeen Bano",
+      "num": "9795557219"
+    },
+    {
+      "aadhar": "625696582960",
+      "address": "W/O Shohrat Ali!Shahidwari post Goshainganj!Amsin!!Faizabad!Faizabad!Ayodhya!Uttar Pradesh!224141",
+      "alt": "9795557219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shohrat Ali",
+      "name": "Yasmeen Bano",
+      "num": "9795557219"
+    }
+  ]
+}
