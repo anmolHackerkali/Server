@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:29:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8726223983",
+  "records": [
+    {
+      "aadhar": "821586104267",
+      "address": " !129!  Lakhimpur!Kheri  Lakhimpur MAHARAJ NAGAR!LAKHIMPUR-KHERI!UP!262701",
+      "alt": "8299715166",
+      "circle": null,
+      "email": null,
+      "fname": "DO MOHDZIYA MohdZiya KHAN",
+      "name": "SAMAN  KHAN",
+      "num": "8726223983"
+    },
+    {
+      "aadhar": "821586104267",
+      "address": " !129!  Lakhimpur!Kheri  Lakhimpur MAHARAJ NAGAR!LAKHIMPUR-KHERI!UP!262701",
+      "alt": "8299715166",
+      "circle": null,
+      "email": null,
+      "fname": "DO MOHDZIYA MohdZiya KHAN",
+      "name": "SAMAN  KHAN",
+      "num": "8726223983"
+    }
+  ]
+}
