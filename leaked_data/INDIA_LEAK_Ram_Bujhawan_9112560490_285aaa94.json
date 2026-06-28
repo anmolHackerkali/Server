@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:33:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9112560490",
+  "records": [
+    {
+      "aadhar": "731823868166",
+      "address": "S/O: Badri!kataT majeesa Majesa!!!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Badri",
+      "name": "Ram Bujhawan",
+      "num": "9112560490"
+    },
+    {
+      "aadhar": "731823868166",
+      "address": "S/O: Badri!kataT majeesa Majesa!!!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Badri",
+      "name": "Ram Bujhawan",
+      "num": "9112560490"
+    }
+  ]
+}
