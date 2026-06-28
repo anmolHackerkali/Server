@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:34:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9044967571",
+  "records": [
+    {
+      "aadhar": "596302415930",
+      "address": "S/O Rajitram Verma!04!umrapur meenapur!!Umrapur Manapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajitram Verma",
+      "name": "Shobharam",
+      "num": "9044967571"
+    },
+    {
+      "aadhar": "596302415930",
+      "address": "S/O Rajitram Verma!04!umrapur meenapur!!Umrapur Manapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajitram Verma",
+      "name": "Shobharam",
+      "num": "9044967571"
+    }
+  ]
+}
