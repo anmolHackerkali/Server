@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:46:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863691",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Ajay Jindal! MCD Flat 63/4  Ground Floor !Sector 20!Rohini!Sultanpuri C BlockNorth West Delhi!Delhi!110086",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ajay Jindal",
+      "name": "KUSUM JINDAL",
+      "num": "9990863691"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Ajay Jindal!MCD Flat 63/4 Ground Floor!Sector 20!Rohini!Sultanpuri C BlockNorth West Delhi!Delhi!110086",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ajay Jindal",
+      "name": "KUSUM JINDAL",
+      "num": "9990863691"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Ajay Jindal!MCD Flat 63/4 Ground Floor!Sector 20!Rohini!Sultanpuri C BlockNorth West Delhi!Delhi!110086",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ajay Jindal",
+      "name": "KUSUM JINDAL",
+      "num": "9990863691"
+    }
+  ]
+}
