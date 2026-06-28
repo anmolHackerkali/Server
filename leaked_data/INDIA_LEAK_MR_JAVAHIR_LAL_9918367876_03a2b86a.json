@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:06:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918367876",
+  "records": [
+    {
+      "aadhar": "685643636305",
+      "address": "S/O RAJARAM!33  GRAM MUHAMMADPUR SABUKPUR POST HUSAI!33  GRAM MUHAMMADPUR SABUKPUR POST HUSAI!Mohammed pur!Mohammed pur AMBEDKAR NAGAR!TANDA!UTTAR PRADESH!224190",
+      "alt": "8874082464",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajaram",
+      "name": "MR JAVAHIR LAL",
+      "num": "9918367876"
+    },
+    {
+      "aadhar": "685643636305",
+      "address": "S/O RAJARAM!33 GRAM MUHAMMADPUR SABUKPUR POST HUSAI!33 GRAM MUHAMMADPUR SABUKPUR POST HUSAI!Mohammed pur!Mohammed purAMBEDKAR NAGAR!TANDA!UTTAR PRADESH!224190",
+      "alt": "8874082464",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajaram",
+      "name": "MR. JAVAHIR LAL",
+      "num": "9918367876"
+    },
+    {
+      "aadhar": "685643636305",
+      "address": "S/O RAJARAM!33  GRAM MUHAMMADPUR SABUKPUR POST HUSAI!33  GRAM MUHAMMADPUR SABUKPUR POST HUSAI!Mohammed pur!Mohammed pur AMBEDKAR NAGAR!TANDA!UTTAR PRADESH!224190",
+      "alt": "8874082464",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajaram",
+      "name": "MR JAVAHIR LAL",
+      "num": "9918367876"
+    }
+  ]
+}
