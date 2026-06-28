@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:50:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554394903",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "H NO 314!VILL SHANKARPUR TEH HARRAIYA!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "GENARAM",
+      "name": "JAG PRASAD",
+      "num": "9554394903"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 314!VILL SHANKARPUR TEH HARRAIYA!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "GENARAM",
+      "name": "JAG PRASAD",
+      "num": "9554394903"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 314!VILL SHANKARPUR TEH HARRAIYA!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "GENARAM",
+      "name": "JAG PRASAD",
+      "num": "9554394903"
+    }
+  ]
+}
