@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:51:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052507645",
+  "records": [
+    {
+      "aadhar": "747508315768",
+      "address": " !65!Husainpur Girant!Muhammadpur Sabukpur!Baraiya Mafe-Tanda-A!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Seeta Ram Maurya",
+      "name": "Harishchandra",
+      "num": "8052507645"
+    },
+    {
+      "aadhar": "747508315768",
+      "address": " !65!Husainpur Girant!Muhammadpur Sabukpur!Baraiya Mafe-Tanda-A!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Seeta Ram Maurya",
+      "name": "Harishchandra",
+      "num": "8052507645"
+    }
+  ]
+}
