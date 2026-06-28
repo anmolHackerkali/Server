@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:47:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863699",
+  "records": [
+    {
+      "aadhar": "490090331443",
+      "address": "S/O Chandra Bhushan Chand!21/3 top floor!gita mandir Marg new Rajendra Nagar CENTRAL DELHI!!JANPATH!Delhi!110001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDRA BHUSHAN Bhushan CHAND",
+      "name": "SHAKTI BHUSHAN CHAND",
+      "num": "9990863699"
+    },
+    {
+      "aadhar": "490090331443",
+      "address": "S/O Chandra Bhushan Chand!21/3 top floor!gita mandir Margnew Rajendra NagarCENTRAL DELHI!!JANPATH!Delhi!110001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDRA BHUSHAN Bhushan CHAND",
+      "name": "SHAKTIBHUSHANCHAND",
+      "num": "9990863699"
+    },
+    {
+      "aadhar": "490090331443",
+      "address": "S/O Chandra Bhushan Chand!21/3 top floor!gita mandir Margnew Rajendra NagarCENTRAL DELHI!!JANPATH!Delhi!110001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDRA BHUSHAN Bhushan CHAND",
+      "name": "SHAKTIBHUSHANCHAND",
+      "num": "9990863699"
+    },
+    {
+      "aadhar": "490090331443",
+      "address": "!2/19!gomti nagar!!Vishal Khand!Lucknow!!Uttar Pradesh!226010",
+      "alt": "9990863699",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chandra Bhushan Chand  ",
+      "name": "Shakti Bhushan Chand",
+      "num": "7388520102"
+    },
+    {
+      "aadhar": "490090331443",
+      "address": "!2/19!gomti nagar!!Vishal Khand!Lucknow!!Uttar Pradesh!226010",
+      "alt": "9990863699",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chandra Bhushan Chand  ",
+      "name": "Shakti Bhushan Chand",
+      "num": "7388520102"
+    }
+  ]
+}
