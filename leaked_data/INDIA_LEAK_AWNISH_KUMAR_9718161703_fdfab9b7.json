@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:36:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9718161703",
+  "records": [
+    {
+      "aadhar": "629870515132",
+      "address": "S/O  Sarnaam Singh!S/O  Sarnaam Singh  DX 3539!SUBHASH colony  WARD NO 35!Ballabgarh  Ballabgarh NEAR JANATA MODERN SCHOOL!BALLABGARH-FARIDABAD!HR!121004",
+      "alt": "9911961824",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SARNAAM SINGH  ",
+      "name": "AWNISH KUMAR",
+      "num": "9718161703"
+    },
+    {
+      "aadhar": "629870515132",
+      "address": "S/O: Sarnaam Singh!S/O: Sarnaam Singh DX 3539!SUBHASH colony WARD NO 35!Ballabgarh BallabgarhNEAR JANATA MODERN SCHOOL!BALLABGARH-FARIDABAD!HR!121004",
+      "alt": "9911961824",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SARNAAM SINGH ",
+      "name": "AWNISHKUMAR",
+      "num": "9718161703"
+    },
+    {
+      "aadhar": "629870515132",
+      "address": "S/O: Sarnaam Singh!S/O: Sarnaam Singh DX 3539!SUBHASH colony WARD NO 35!Ballabgarh BallabgarhNEAR JANATA MODERN SCHOOL!BALLABGARH-FARIDABAD!HR!121004",
+      "alt": "9911961824",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SARNAAM SINGH ",
+      "name": "AWNISHKUMAR",
+      "num": "9718161703"
+    }
+  ]
+}
