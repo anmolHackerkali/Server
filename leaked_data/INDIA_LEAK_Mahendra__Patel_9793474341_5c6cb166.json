@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:16:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9793474341",
+  "records": [
+    {
+      "aadhar": "487635720039",
+      "address": "S/O: Ghanshyam!Bharon!!!Lalitpur!Uttar Pradesh!284403",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ghanshyam  ",
+      "name": "Mahendra  Patel",
+      "num": "9793474341"
+    },
+    {
+      "aadhar": "487635720039",
+      "address": "S/O: Ghanshyam!Bharon!!!Lalitpur!Uttar Pradesh!284403",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ghanshyam  ",
+      "name": "Mahendra  Patel",
+      "num": "9793474341"
+    }
+  ]
+}
