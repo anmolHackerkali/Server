@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863687",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Sunil Tiwari!C-8!Pooth Khurd!Bawana NORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sunil Tiwari",
+      "name": "Suraj Kumar Tiwari",
+      "num": "9990863687"
+    },
+    {
+      "aadhar": "813922638302",
+      "address": "S/O Annant Ray!28!sadhna enclave!malviya nagarpost office!KHRIKI VILLAGE-SOUTH DELHI!DL!110017",
+      "alt": "9540836244",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANNANT  RAY",
+      "name": "KAPIL DEV PRASAD",
+      "num": "9990863687"
+    },
+    {
+      "aadhar": "813922638302",
+      "address": "S/O Annant Ray!28!sadhna enclave!malviya nagarpost office!KHRIKI VILLAGE-SOUTH DELHI!DL!110017",
+      "alt": "9540836244",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANNANT  RAY",
+      "name": "KAPIL DEV PRASAD",
+      "num": "9990863687"
+    },
+    {
+      "aadhar": null,
+      "address": "Sunil Tiwari!C-8!Pooth Khurd!BawanaNORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sunil Tiwari",
+      "name": "Suraj Kumar Tiwari",
+      "num": "9990863687"
+    },
+    {
+      "aadhar": null,
+      "address": "Sunil Tiwari!C-8!Pooth Khurd!BawanaNORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sunil Tiwari",
+      "name": "Suraj Kumar Tiwari",
+      "num": "9990863687"
+    },
+    {
+      "aadhar": "813922638302",
+      "address": "S/O Annant Ray!28!sadhna enclave!malviya nagarpost office!KHRIKI VILLAGE-SOUTH DELHI!DL!110017",
+      "alt": "9540836244",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANNANT  RAY",
+      "name": "KAPIL DEV PRASAD",
+      "num": "9990863687"
+    }
+  ]
+}
