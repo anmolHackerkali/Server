@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:37:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9451105024",
+  "records": [
+    {
+      "aadhar": "960238792863",
+      "address": "!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !TANDA!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9005079901",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Santram",
+      "name": "MR. SURENDRA KUMAR",
+      "num": "9451105024"
+    },
+    {
+      "aadhar": "960238792863",
+      "address": "!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !TANDA!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9005079901",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santram",
+      "name": "MR SURENDRA KUMAR",
+      "num": "9451105024"
+    },
+    {
+      "aadhar": "960238792863",
+      "address": "!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !VILL MOHOMMADPUR SABUKPUR POST HUSANPUR !TANDA!VILL MOHOMMADPUR SABUKPUR POST HUSANPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9005079901",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santram",
+      "name": "MR SURENDRA KUMAR",
+      "num": "9451105024"
+    }
+  ]
+}
