@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:25:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7268868557",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Vijay Kumar!123!! singhpur post semra nseerpur Semra Naserpur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vijay Kumar",
+      "name": "Shimla Devi",
+      "num": "7268868557"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Vijay Kumar!123!! singhpur post semra nseerpur Semra Naserpur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vijay Kumar",
+      "name": "Shimla Devi",
+      "num": "7268868557"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Vijay Kumar!123!! singhpur post semra nseerpur Semra Naserpur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vijay Kumar",
+      "name": "Shimla Devi",
+      "num": "7268868557"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Vijay Kumar!123!! singhpur post semra nseerpur Semra Naserpur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vijay Kumar",
+      "name": "Shimla Devi",
+      "num": "7268868557"
+    }
+  ]
+}
