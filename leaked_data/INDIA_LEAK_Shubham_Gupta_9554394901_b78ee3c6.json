@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:50:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554394901",
+  "records": [
+    {
+      "aadhar": "692062144084",
+      "address": "S/O Sanjay Gupta!saadatnagar!Saadat Nagar!mandir!Hardoi Saadat Nagar!Hardoi!Hardoi!Uttar Pradesh!241407",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Shubham Gupta",
+      "num": "9554394901"
+    },
+    {
+      "aadhar": "692062144084",
+      "address": "S/O Sanjay Gupta!saadatnagar!Saadat Nagar!mandir!Hardoi Saadat Nagar!Hardoi!Hardoi!Uttar Pradesh!241407",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Shubham Gupta",
+      "num": "9554394901"
+    }
+  ]
+}
