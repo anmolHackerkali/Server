@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:06:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9429717876",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " PATEL FALI RODHARA SABARKANTHA KHEDBRAHMA GUJARAT 383275 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " DAXABEN ASHOKBHAI PATEL ",
+      "num": "9429717876"
+    },
+    {
+      "aadhar": null,
+      "address": " PATEL FALI RODHARA SABARKANTHA KHEDBRAHMA GUJARAT 383275 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " DAXABEN ASHOKBHAI PATEL ",
+      "num": "9429717876"
+    }
+  ]
+}
