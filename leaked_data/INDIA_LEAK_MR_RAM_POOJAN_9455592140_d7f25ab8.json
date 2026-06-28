@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:35:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9455592140",
+  "records": [
+    {
+      "aadhar": "260200221712",
+      "address": "S/O BAHAU!42 GRAM MUHAMMADPUR SABOOKPUR!42 GRAM MUHAMMADPUR SABOOKPUR42 GRAM !42 GRAM MUHAMMADPUR SABOOKPUR!akdallaAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Bahau",
+      "name": "MR. RAM POOJAN",
+      "num": "9455592140"
+    }
+  ]
+}
