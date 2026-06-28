@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:27:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9120411162",
+  "records": [
+    {
+      "aadhar": "238055680350",
+      "address": "!32!bhagvanpur akdalla!!post husainpur girant!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "9519110805",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vinod Kumar ",
+      "name": "Suneel Kumar ",
+      "num": "9120411162"
+    },
+    {
+      "aadhar": "238055680350",
+      "address": "!32!bhagvanpur akdalla!!post husainpur girant!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "9519110805",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vinod Kumar ",
+      "name": "Suneel Kumar ",
+      "num": "9120411162"
+    },
+    {
+      "aadhar": "554834025347",
+      "address": "!32!Ambedkar Nagar!Ambedkar Nagar!akdalla AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9120411162",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vinod",
+      "name": "MS SITARA ",
+      "num": "8874962173"
+    },
+    {
+      "aadhar": "554834025347",
+      "address": "!32!Ambedkar Nagar!Ambedkar Nagar!akdalla AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9120411162",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vinod",
+      "name": "MS SITARA ",
+      "num": "8874962173"
+    }
+  ]
+}
