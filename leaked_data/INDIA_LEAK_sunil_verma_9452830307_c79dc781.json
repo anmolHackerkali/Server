@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:54:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9452830307",
+  "records": [
+    {
+      "aadhar": "907932575660",
+      "address": "! 21!kondra kodra!!Ambedkar Nagar!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9026848090",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "9452830307"
+    },
+    {
+      "aadhar": "907932575660",
+      "address": "! 21!kondra kodra!!Ambedkar Nagar!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9026848090",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "9452830307"
+    },
+    {
+      "aadhar": "786243909218",
+      "address": "!0000!gram kondra post hajlapur doultpur!hajlapur!doultpur hajalpatti!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9452830307",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suneel verma",
+      "name": "Soumya Patel",
+      "num": "7897690498"
+    },
+    {
+      "aadhar": "786243909218",
+      "address": "!0000!gram kondra post hajlapur doultpur!hajlapur!doultpur hajalpatti!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9452830307",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suneel verma",
+      "name": "Soumya Patel",
+      "num": "7897690498"
+    }
+  ]
+}
