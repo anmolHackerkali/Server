@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:39:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990862604",
+  "records": [
+    {
+      "aadhar": "246497843044",
+      "address": " a 34 tyagi enclave  gali no 3 balaji chowk mohan garden uttam nagar Delhi West Delhi Delhi 110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "prabhakar gupta",
+      "name": "Sakshi Gupta",
+      "num": "9990862604"
+    },
+    {
+      "aadhar": "246497843044",
+      "address": "!a 34!tyagi enclave  gali no 3!balaji chowk!mohan garden uttam nagar!Delhi!West Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "prabhakar gupta",
+      "name": "Sakshi Gupta",
+      "num": "9990862604"
+    },
+    {
+      "aadhar": "246497843044",
+      "address": "!a 34!tyagi enclave  gali no 3!balaji chowk!mohan garden uttam nagar!Delhi!West Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "prabhakar gupta",
+      "name": "Sakshi Gupta",
+      "num": "9990862604"
+    },
+    {
+      "aadhar": "941667171917",
+      "address": "D/O Prabhakar Gupta!D/O Prabhakar Gupta  H  N0  A - 34!Gali N0  - 3  Tyagi Enclave  Mohan Garden!  !UTTAM NAGAR-WEST DELHI!DL!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": "komalgupta16595@gmail.com",
+      "fname": "DO PRABHAKAR Prabhakar GUPTA",
+      "name": "SUSHMA GUPTA",
+      "num": "9891419780"
+    },
+    {
+      "aadhar": "432309455718",
+      "address": "Prabhakar Gupta!H  N0  A - 34!Gali N0  - 3  Tyagi Enclave Mohan Garden City/District  West Delhi! !WEST DELHI!Delhi!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Magru ram",
+      "name": "Sarita Devi",
+      "num": "8882253743"
+    },
+    {
+      "aadhar": "941667171917",
+      "address": "D/O Prabhakar Gupta!D/O Prabhakar Gupta H N0 A - 34!Gali N0 - 3 Tyagi Enclave Mohan Garden!!UTTAM NAGAR-WEST DELHI!DL!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": "komalgupta16595@gmail.com",
+      "fname": "DO PRABHAKAR Prabhakar GUPTA",
+      "name": "SUSHMAGUPTA",
+      "num": "9891419780"
+    },
+    {
+      "aadhar": "432309455718",
+      "address": "Prabhakar Gupta!H N0 A - 34!Gali N0 - 3 Tyagi EnclaveMohan Garden City/District: West Delhi!!WEST DELHI!Delhi!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Magru ram",
+      "name": "SaritaDevi",
+      "num": "8882253743"
+    },
+    {
+      "aadhar": "941667171917",
+      "address": "D/O Prabhakar Gupta!D/O Prabhakar Gupta H N0 A - 34!Gali N0 - 3 Tyagi Enclave Mohan Garden!!UTTAM NAGAR-WEST DELHI!DL!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": "komalgupta16595@gmail.com",
+      "fname": "DO PRABHAKAR Prabhakar GUPTA",
+      "name": "SUSHMAGUPTA",
+      "num": "9891419780"
+    },
+    {
+      "aadhar": "432309455718",
+      "address": "Prabhakar Gupta!H N0 A - 34!Gali N0 - 3 Tyagi EnclaveMohan Garden City/District: West Delhi!!WEST DELHI!Delhi!110059",
+      "alt": "9990862604",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Magru ram",
+      "name": "SaritaDevi",
+      "num": "8882253743"
+    }
+  ]
+}
