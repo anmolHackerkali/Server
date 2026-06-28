@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:16:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8173010902",
+  "records": [
+    {
+      "aadhar": "740137484601",
+      "address": "!09!bhasda!!Balya Jagdishpur  Tanda!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "9793547288",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay  Kumar",
+      "name": "Pooja  ",
+      "num": "8173010902"
+    },
+    {
+      "aadhar": "740137484601",
+      "address": "!09!bhasda!!Balya Jagdishpur  Tanda!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "9793547288",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay  Kumar",
+      "name": "Pooja  ",
+      "num": "8173010902"
+    }
+  ]
+}
