@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:40:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8765491811",
+  "records": [
+    {
+      "aadhar": "495796524633",
+      "address": "0",
+      "alt": "7379891426",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Dayaram",
+      "name": "MR. RAM RATAN",
+      "num": "8765491811"
+    },
+    {
+      "aadhar": "495796524633",
+      "address": "S/O DAYARAM!196 !GRAMMOHAMMADPUR SABUKPUR POSTHUSENPUR GI!Tanda!196  GRAMMOHAMMADPUR SABUKPUR POSTHUSENP!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7379891426",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dayaram",
+      "name": "MR RAM RATAN",
+      "num": "8765491811"
+    },
+    {
+      "aadhar": "495796524633",
+      "address": "S/O DAYARAM!196 !GRAMMOHAMMADPUR SABUKPUR POSTHUSENPUR GI!Tanda!196  GRAMMOHAMMADPUR SABUKPUR POSTHUSENP!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7379891426",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dayaram",
+      "name": "MR RAM RATAN",
+      "num": "8765491811"
+    },
+    {
+      "aadhar": "495796524633",
+      "address": " !196!gram mohammadpur sabukpur post husenpur girant Tanda!!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": "8765491811",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dayaram",
+      "name": "Ram Ratan",
+      "num": "7379891426"
+    },
+    {
+      "aadhar": "495796524633",
+      "address": " !196!gram mohammadpur sabukpur post husenpur girant Tanda!!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": "8765491811",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dayaram",
+      "name": "Ram Ratan",
+      "num": "7379891426"
+    }
+  ]
+}
