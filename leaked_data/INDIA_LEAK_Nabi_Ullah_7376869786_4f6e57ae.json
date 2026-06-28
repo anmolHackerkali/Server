@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 11:27:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7376869786",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Habeeb Ullah!!. .!Gram Jahangeernagar!Jahangir Nagar Fatehpur!Uttar Pradesh!212656",
+      "alt": "919451767786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Habeeb Ullah",
+      "name": "Nabi Ullah",
+      "num": "7376869786"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Habeeb Ullah!!. .!Gram Jahangeernagar!Jahangir Nagar Fatehpur!Uttar Pradesh!212656",
+      "alt": "919451767786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Habeeb Ullah",
+      "name": "Nabi Ullah",
+      "num": "7376869786"
+    },
+    {
+      "aadhar": "478343584196",
+      "address": "s/o raees ahmad!!Aboonagar!jwalaganj!jwalaganj new colony!fatehpur Fatehpur!fatehpur!Uttar Pradesh!212601",
+      "alt": "7376869786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raees ahmad",
+      "name": "Mohd Mohtesham",
+      "num": "8957479260"
+    },
+    {
+      "aadhar": "478343584196",
+      "address": "s/o raees ahmad!!Aboonagar!jwalaganj!jwalaganj new colony!fatehpur Fatehpur!fatehpur!Uttar Pradesh!212601",
+      "alt": "7376869786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raees ahmad",
+      "name": "Mohd Mohtesham",
+      "num": "8957479260"
+    }
+  ]
+}
