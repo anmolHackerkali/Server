@@ -3,8 +3,9 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "KEY_344C3EE8_WEBCYBER"
-API_URL = "https://anishexploits.com/api/api.php"
+# ✅ Changed API to exploitsindia.site with demo key
+API_KEY = "demo"
+API_URL = "https://exploitsindia.site/osint/api.php"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
@@ -45,7 +46,6 @@ HTML_TEMPLATE = """
             overflow-x: hidden;
         }
 
-        /* Animated Matrix Rain Background */
         body::before {
             content: '';
             position: fixed;
@@ -71,7 +71,6 @@ HTML_TEMPLATE = """
             100% { transform: translateY(-50px); }
         }
 
-        /* Scanline overlay */
         body::after {
             content: '';
             position: fixed;
@@ -111,7 +110,6 @@ HTML_TEMPLATE = """
             50% { border-color: rgba(0, 243, 255, 0.15); box-shadow: 0 0 30px rgba(0, 243, 255, 0.1); }
         }
 
-        /* Header with glitch effect */
         .header {
             text-align: center;
             margin-bottom: 8px;
@@ -224,7 +222,6 @@ HTML_TEMPLATE = """
             font-weight: 600;
         }
 
-        /* Form */
         form {
             display: flex;
             flex-direction: column;
@@ -291,7 +288,6 @@ HTML_TEMPLATE = """
             font-size: 14px;
         }
 
-        /* Terminal typing effect on button */
         .btn-wrapper {
             position: relative;
             margin-top: 6px;
@@ -357,7 +353,6 @@ HTML_TEMPLATE = """
             letter-spacing: 1px;
         }
 
-        /* Result Box - Hacker Terminal Style */
         .result-box {
             margin-top: 24px;
             background: rgba(0, 0, 0, 0.7);
@@ -445,7 +440,6 @@ HTML_TEMPLATE = """
             opacity: 0.7;
         }
 
-        /* Error Box */
         .error {
             margin-top: 20px;
             background: rgba(255, 0, 0, 0.08);
@@ -464,7 +458,6 @@ HTML_TEMPLATE = """
             font-weight: 600;
         }
 
-        /* Footer */
         .footer {
             text-align: center;
             margin-top: 20px;
@@ -495,99 +488,25 @@ HTML_TEMPLATE = """
             50% { opacity: 0; }
         }
 
-        /* Loading animation */
-        .loading {
-            display: inline-block;
-            position: relative;
-        }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: var(--dark-bg); }
+        ::-webkit-scrollbar-thumb { background: var(--dark-border); border-radius: 2px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--neon-cyan); }
 
-        .loading::after {
-            content: '...';
-            animation: loadingDots 1.5s steps(3, end) infinite;
-        }
-
-        @keyframes loadingDots {
-            0% { content: '.'; }
-            33% { content: '..'; }
-            66% { content: '...'; }
-            100% { content: '.'; }
-        }
-
-        /* Scrollbar styling */
-        ::-webkit-scrollbar {
-            width: 4px;
-        }
-        ::-webkit-scrollbar-track {
-            background: var(--dark-bg);
-        }
-        ::-webkit-scrollbar-thumb {
-            background: var(--dark-border);
-            border-radius: 2px;
-        }
-        ::-webkit-scrollbar-thumb:hover {
-            background: var(--neon-cyan);
-        }
-
-        /* Responsive */
         @media (max-width: 480px) {
-            .container {
-                padding: 20px 16px 25px;
-                border-radius: 12px;
-            }
-            .glitch-title {
-                font-size: 16px;
-                letter-spacing: 1px;
-            }
-            input[type="text"] {
-                font-size: 18px;
-                padding: 12px 14px 12px 38px;
-            }
-            .detail-row {
-                padding: 8px 14px;
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 2px;
-            }
-            .detail-value {
-                text-align: left;
-                max-width: 100%;
-                width: 100%;
-            }
-            .status-bar {
-                font-size: 9px;
-                flex-wrap: wrap;
-                gap: 4px;
-            }
-            button {
-                font-size: 14px;
-                padding: 14px;
-                letter-spacing: 2px;
-            }
-            .result-header {
-                flex-direction: column;
-                gap: 4px;
-                align-items: flex-start;
-            }
-        }
-
-        @media (min-width: 768px) {
-            .container {
-                padding: 40px 35px 45px;
-            }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-            *, *::before, *::after {
-                animation-duration: 0.01ms !important;
-                animation-iteration-count: 1 !important;
-                transition-duration: 0.01ms !important;
-            }
+            .container { padding: 20px 16px 25px; border-radius: 12px; }
+            .glitch-title { font-size: 16px; letter-spacing: 1px; }
+            input[type="text"] { font-size: 18px; padding: 12px 14px 12px 38px; }
+            .detail-row { padding: 8px 14px; flex-direction: column; align-items: flex-start; gap: 2px; }
+            .detail-value { text-align: left; max-width: 100%; width: 100%; }
+            .status-bar { font-size: 9px; flex-wrap: wrap; gap: 4px; }
+            button { font-size: 14px; padding: 14px; letter-spacing: 2px; }
+            .result-header { flex-direction: column; gap: 4px; align-items: flex-start; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- Status Bar -->
         <div class="status-bar">
             <div class="status-led">
                 <span class="led green"></span>
@@ -603,18 +522,16 @@ HTML_TEMPLATE = """
             </div>
         </div>
 
-        <!-- Title with Glitch -->
         <div class="header">
             <div class="glitch-wrapper">
                 <h1 class="glitch-title">● PHONE_LOOKUP v2.0 ●</h1>
             </div>
             <div class="sub">
                 <span class="highlight">⦿</span> TARGETED_QUERY_ENGINE <span class="highlight">⦿</span><br>
-                <span style="font-size:10px; opacity:0.5;">API :: @Cyb3rS0ldier :: SECURED_CONNECTION</span>
+                <span style="font-size:10px; opacity:0.5;">API :: exploitsindia.site :: DEMO_MODE</span>
             </div>
         </div>
 
-        <!-- Form -->
         <form method="POST" autocomplete="off">
             <div class="input-group">
                 <label>
@@ -622,7 +539,7 @@ HTML_TEMPLATE = """
                 </label>
                 <div class="input-wrapper">
                     <span class="prefix">+91</span>
-                    <input type="text" id="phone" name="phone" placeholder="XXXXXXXXXX" value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}" inputmode="numeric">
+                    <input type="text" id="phone" name="phone" placeholder="9876543210" value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}" inputmode="numeric">
                 </div>
             </div>
 
@@ -634,7 +551,6 @@ HTML_TEMPLATE = """
             </div>
         </form>
 
-        <!-- Result -->
         {% if result %}
         <div class="result-box">
             <div class="result-header">
@@ -652,12 +568,12 @@ HTML_TEMPLATE = """
                     <span class="detail-value found">{{ r.fname }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> ADDRESS</span>
-                    <span class="detail-value">{{ r.address }}</span>
-                </div>
-                <div class="detail-row">
                     <span class="detail-label"><span class="arrow">▶</span> AADHAAR</span>
                     <span class="detail-value found">{{ r.aadhar }}</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label"><span class="arrow">▶</span> ADDRESS</span>
+                    <span class="detail-value">{{ r.address }}</span>
                 </div>
                 <div class="detail-row">
                     <span class="detail-label"><span class="arrow">▶</span> ALT_NUM</span>
@@ -680,7 +596,6 @@ HTML_TEMPLATE = """
         <div class="error">{{ error }}</div>
         {% endif %}
 
-        <!-- Footer -->
         <div class="footer">
             <span class="brand">◆ PYAURA_OSINT_ENGINE ◆</span> &nbsp;//&nbsp; SESSION_ACTIVE
             <span class="cursor-blink"></span>
@@ -688,7 +603,6 @@ HTML_TEMPLATE = """
     </div>
 
     <script>
-        // Live clock
         function updateClock() {
             const now = new Date();
             const time = now.toTimeString().split(' ')[0];
@@ -697,8 +611,6 @@ HTML_TEMPLATE = """
         updateClock();
         setInterval(updateClock, 1000);
 
-        // Keyboard shortcut: Enter triggers submit (already default)
-        // ESC clears input
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape') {
                 const input = document.getElementById('phone');
@@ -707,14 +619,12 @@ HTML_TEMPLATE = """
             }
         });
 
-        // Button loading state
         document.querySelector('form').addEventListener('submit', function(e) {
             const btn = document.getElementById('submitBtn');
             const input = document.getElementById('phone');
             if (input.value.length === 10) {
                 btn.disabled = true;
                 btn.textContent = '⏳ PROCESSING...';
-                // Re-enable after 30s timeout as fallback
                 setTimeout(() => {
                     btn.disabled = false;
                     btn.textContent = '⚡ EXECUTE_QUERY';
@@ -722,12 +632,10 @@ HTML_TEMPLATE = """
             }
         });
 
-        // Auto-focus input on load
         window.addEventListener('load', function() {
             document.getElementById('phone').focus();
         });
 
-        // Input validation
         document.getElementById('phone').addEventListener('input', function(e) {
             this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10);
         });
@@ -746,7 +654,7 @@ def index():
         phone = request.form.get('phone', '').strip()
 
         if not phone or not phone.isdigit() or len(phone) != 10:
-            error = "कृपया सिर्फ 10 अंकों का मोबाइल नंबर डालें (जैसे 6209876775)"
+            error = "कृपया सिर्फ 10 अंकों का मोबाइल नंबर डालें (जैसे 9876543210)"
         else:
             try:
                 params = {
@@ -754,13 +662,16 @@ def index():
                     'type': 'number',
                     'num': phone
                 }
+                print(f"[*] Sending request to API: {params}")
                 resp = requests.get(API_URL, params=params, timeout=15)
+                print(f"[*] Response status: {resp.status_code}")
                 data = resp.json()
+                print(f"[*] Response data: {data}")
 
                 if data.get('status') == 'success' and data.get('result'):
                     result = data['result']
                 else:
-                    error = "API से कोई डेटा नहीं मिला। नंबर सही है? या API key वैलिड है?"
+                    error = f"API से कोई डेटा नहीं मिला। संदेश: {data.get('message', 'अज्ञात त्रुटि')}"
             except requests.exceptions.Timeout:
                 error = "API ने समय सीमा में रिस्पॉन्स नहीं दिया। बाद में प्रयास करें।"
             except requests.exceptions.ConnectionError:
