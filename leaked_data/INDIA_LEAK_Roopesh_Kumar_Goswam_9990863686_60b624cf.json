@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863686",
+  "records": [
+    {
+      "aadhar": "970329307094",
+      "address": "s/o radhe shyam goswami!d-4/197!Sultanpuri C Block!near raghu nath mandir!sultan puri nithari!sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9990861686",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe shyam goswami",
+      "name": "Roopesh Kumar Goswami",
+      "num": "9990863686"
+    },
+    {
+      "aadhar": "970329307094",
+      "address": "s/o radhe shyam goswami!d-4/197!Sultanpuri C Block!near raghu nath mandir!sultan puri nithari!sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9990861686",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe shyam goswami",
+      "name": "Roopesh Kumar Goswami",
+      "num": "9990863686"
+    },
+    {
+      "aadhar": "970329307094",
+      "address": "s/o radhe shyam goswami!d-4/197!Sultanpuri C Block!near raghu nath mandir!sultan puri nithari!sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9990861686",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe shyam goswami",
+      "name": "Roopesh Kumar Goswami",
+      "num": "9990863686"
+    }
+  ]
+}
