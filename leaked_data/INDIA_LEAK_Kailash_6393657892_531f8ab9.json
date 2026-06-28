@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:36:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393657892",
+  "records": [
+    {
+      "aadhar": "265125533237",
+      "address": "S/O  Mohanlal!!Neri Kalan!!Villege Kuchkapur post nerikalan!Nere Kalan Biswan!Sitapur!Uttar Pradesh!261001",
+      "alt": "7084783704",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohanlal",
+      "name": "Kailash",
+      "num": "6393657892"
+    },
+    {
+      "aadhar": "265125533237",
+      "address": "S/O  Mohanlal!!Neri Kalan!!Villege Kuchkapur post nerikalan!Nere Kalan Biswan!Sitapur!Uttar Pradesh!261001",
+      "alt": "7084783704",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohanlal",
+      "name": "Kailash",
+      "num": "6393657892"
+    },
+    {
+      "aadhar": "744577646019",
+      "address": "d/o  ayodhya prasad!54 nib hari nera!Nibhari Neri kalan sitapur!!nib hari!nere kalan!sitapur!Uttar Pradesh!261001",
+      "alt": "6393657892",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ayodhya prasad",
+      "name": "Geeta Devi",
+      "num": "9580892156"
+    },
+    {
+      "aadhar": "744577646019",
+      "address": "d/o  ayodhya prasad!54 nib hari nera!Nibhari Neri kalan sitapur!!nib hari!nere kalan!sitapur!Uttar Pradesh!261001",
+      "alt": "6393657892",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ayodhya prasad",
+      "name": "Geeta Devi",
+      "num": "9580892156"
+    }
+  ]
+}
