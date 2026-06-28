@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:47:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863698",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!D 80 Ghazipur Village Delhi!ASHOK DAIRY!Ghazipur Sabji Mandi Delhi EAST DELHI!!DELHI!EAST DELHI!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jamil Ali",
+      "name": "Sarfuddin  ",
+      "num": "9990863698"
+    },
+    {
+      "aadhar": " 424754228371 ",
+      "address": "S/O Ramsewak Mehto ! p.v.farm house ! p.v.farm house !  ! bijwasanSOUTH WEST DELHI ! DELHI ! SOUTH WEST DELHI ! Delhi ! 110061",
+      "alt": "9990951428",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramsewak Mehto",
+      "name": "MR. RAMSWAROOP MEHTO",
+      "num": "9990863698"
+    },
+    {
+      "aadhar": null,
+      "address": "!D 80 Ghazipur Village Delhi!ASHOK DAIRY!Ghazipur Sabji Mandi DelhiEAST DELHI!!DELHI!EAST DELHI!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jamil Ali",
+      "name": "Sarfuddin ",
+      "num": "9990863698"
+    },
+    {
+      "aadhar": "424754228371",
+      "address": "S/O Ramsewak Mehto ! pvfarm house ! pvfarm house !  ! bijwasanSOUTH WEST DELHI ! DELHI ! SOUTH WEST DELHI ! Delhi ! 110061",
+      "alt": "9990951428",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramsewak Mehto",
+      "name": "MR RAMSWAROOP MEHTO",
+      "num": "9990863698"
+    },
+    {
+      "aadhar": null,
+      "address": "!D 80 Ghazipur Village Delhi!ASHOK DAIRY!Ghazipur Sabji Mandi DelhiEAST DELHI!!DELHI!EAST DELHI!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jamil Ali",
+      "name": "Sarfuddin ",
+      "num": "9990863698"
+    },
+    {
+      "aadhar": "424754228371",
+      "address": "S/O Ramsewak Mehto ! pvfarm house ! pvfarm house !  ! bijwasanSOUTH WEST DELHI ! DELHI ! SOUTH WEST DELHI ! Delhi ! 110061",
+      "alt": "9990951428",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramsewak Mehto",
+      "name": "MR RAMSWAROOP MEHTO",
+      "num": "9990863698"
+    }
+  ]
+}
