@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:37:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795756082",
+  "records": [
+    {
+      "aadhar": "261775730635",
+      "address": " !89/3A  -!-  Unnao!Unnao  Safipur KASEEM NAGAR!UNNAO-UNNAO!UP!209801",
+      "alt": "9023652874",
+      "circle": null,
+      "email": null,
+      "fname": "MOHAMMAD  ARIF",
+      "name": "RIHANA  BANO",
+      "num": "9795756082"
+    },
+    {
+      "aadhar": "261775730635",
+      "address": " !89/3A  -!-  Unnao!Unnao  Safipur KASEEM NAGAR!UNNAO-UNNAO!UP!209801",
+      "alt": "9023652874",
+      "circle": null,
+      "email": null,
+      "fname": "MOHAMMAD  ARIF",
+      "name": "RIHANA  BANO",
+      "num": "9795756082"
+    }
+  ]
+}
