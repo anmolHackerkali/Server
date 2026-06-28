@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863688",
+  "records": [
+    {
+      "aadhar": "368043754041",
+      "address": "!House no 335!Street No 1 Adarsh calony!near Harijan Chopal!sector 20 Dundahera gurgaon industrial complex dundahera!Gurgaon!Gurgaon!Haryana!122016",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "manju@gmail.com",
+      "fname": "Rakesh Kumar",
+      "name": "Manju Devi",
+      "num": "9990863688"
+    },
+    {
+      "aadhar": "368043754041",
+      "address": "!House no 335!Street No 1 Adarsh calony!near Harijan Chopal!sector 20 Dundahera gurgaon industrial complex dundahera!Gurgaon!Gurgaon!Haryana!122016",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "manju@gmail.com",
+      "fname": "Rakesh Kumar",
+      "name": "Manju Devi",
+      "num": "9990863688"
+    },
+    {
+      "aadhar": "368043754041",
+      "address": "!House no 335!Street No 1 Adarsh calony!near Harijan Chopal!sector 20 Dundahera gurgaon industrial complex dundahera!Gurgaon!Gurgaon!Haryana!122016",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "manju@gmail.com",
+      "fname": "Rakesh Kumar",
+      "name": "Manju Devi",
+      "num": "9990863688"
+    }
+  ]
+}
