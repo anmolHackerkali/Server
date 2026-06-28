@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:06:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9988305649",
+  "records": [
+    {
+      "aadhar": "432077540559",
+      "address": "S/O SOHAN SINGH NEGI!2550/1 PIPLI WALA TOWN!MANIMAJRA!!MANI MAJRA MANIMAJRA!CHANDIGARH!CHANDIGHAR!CHANDIGARH!160101",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SOHAN SINGH NEGI",
+      "name": "DARMIYAN SINGH",
+      "num": "9988305649"
+    },
+    {
+      "aadhar": "432077540559",
+      "address": "S/O SOHAN SINGH NEGI!2550/1 PIPLI WALA TOWN!MANIMAJRA!!MANI MAJRA MANIMAJRA!CHANDIGARH!CHANDIGHAR!CHANDIGARH!160101",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SOHAN SINGH NEGI",
+      "name": "DARMIYAN SINGH",
+      "num": "9988305649"
+    },
+    {
+      "aadhar": "xxxx-xxxx-0559",
+      "address": "S/O: Sohan Singh Negi!S/O: Sohan Singh Negi 2550/1!Pipli wala Town Manimajra!!MANI MAJRA-Chandigarh!CH!160101",
+      "alt": "9988305649",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "SOHAN SINGH NEGI",
+      "name": "DARMIYAN SINGH",
+      "num": "8872170602"
+    }
+  ]
+}
