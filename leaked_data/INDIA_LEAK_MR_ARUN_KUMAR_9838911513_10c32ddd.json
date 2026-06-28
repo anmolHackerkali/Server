@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:44:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9838911513",
+  "records": [
+    {
+      "aadhar": "208880443179",
+      "address": "DINESH PRSAD!o!shahpur!shahpur!CHAKRA MAU!MAU!UTTAR PRADESH!121705",
+      "alt": "9151335215",
+      "circle": "UPE",
+      "email": null,
+      "fname": "DINESH PRSAD",
+      "name": "MR ARUN KUMAR",
+      "num": "9838911513"
+    },
+    {
+      "aadhar": "208880443179",
+      "address": "DINESH PRSAD!o!shahpur!shahpur!CHAKRA MAU!MAU!UTTAR PRADESH!121705",
+      "alt": "9151335215",
+      "circle": "UPE",
+      "email": null,
+      "fname": "DINESH PRSAD",
+      "name": "MR ARUN KUMAR",
+      "num": "9838911513"
+    }
+  ]
+}
