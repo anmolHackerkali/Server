@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:53:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9425181097",
+  "records": [
+    {
+      "aadhar": "370000584606",
+      "address": "S/O  Dayaram Sharma! gurudarashan bhawan!new bus stand road behind mulla kabadi!!ward no.17 shahdol!Sohagpur!Shahdol!Madhya Pradesh!484001",
+      "alt": "8319685673",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Dayaram Sharma",
+      "name": "Heeralal Sharma",
+      "num": "9425181097"
+    },
+    {
+      "aadhar": null,
+      "address": " ward no 17 new bus stand road behind mulla kabadi  gurudarashan bhawan Sohagpur Shahdol  Madhya Pradesh 484001",
+      "alt": "9425181097",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Dayaram Sharma",
+      "name": "Heeralal Sharma",
+      "num": "8109011097 "
+    },
+    {
+      "aadhar": null,
+      "address": "ward no 17 new bus stand road behind mulla kabadi  gurudarashan bhawan Sohagpur Shahdol  Madhya Pradesh 484001",
+      "alt": "9425181097",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Dayaram Sharma",
+      "name": "Heeralal Sharma",
+      "num": "7415721097 "
+    }
+  ]
+}
