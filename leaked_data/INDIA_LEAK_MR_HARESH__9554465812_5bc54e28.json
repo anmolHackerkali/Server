@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:16:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554465812",
+  "records": [
+    {
+      "aadhar": "452282268450",
+      "address": "TUNNA!96 BADAKAPURVA!96 BADAKAPURVAGURERA!GURERA!GURERASITAPUR!SITAPUR!UTTAR PRADESH!261201",
+      "alt": "9721817642",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Tunna",
+      "name": "MR. HARESH .",
+      "num": "9554465812"
+    },
+    {
+      "aadhar": "452282268450",
+      "address": "TUNNA!96  BADAKAPURVA!96  BADAKAPURVA GURERA!GURERA!GURERA SITAPUR!SITAPUR!UTTAR PRADESH!261201",
+      "alt": "9721817642",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Tunna",
+      "name": "MR HARESH ",
+      "num": "9554465812"
+    },
+    {
+      "aadhar": "452282268450",
+      "address": "TUNNA!96  BADAKAPURVA!96  BADAKAPURVA GURERA!GURERA!GURERA SITAPUR!SITAPUR!UTTAR PRADESH!261201",
+      "alt": "9721817642",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Tunna",
+      "name": "MR HARESH ",
+      "num": "9554465812"
+    }
+  ]
+}
