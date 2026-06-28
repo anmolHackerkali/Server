@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:44:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863605",
+  "records": [
+    {
+      "aadhar": "277212723885",
+      "address": "W/O  Vinod Singh Negi!W/O  Vinod Singh Negi  house no-89!gali no-05 B-block  himgiri enclave sant nagar burari!Burari  Civil Lines !BURARI-NORTH DELHI!DL!110084",
+      "alt": "7827063458",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "VINOD SINGH Singh NEGI",
+      "name": "NEERAJ NEGI",
+      "num": "9990863605"
+    },
+    {
+      "aadhar": "277212723885",
+      "address": "W/O: Vinod Singh Negi!W/O: Vinod Singh Negi house no-89!gali no-05 B-block himgiri enclave sant nagar burari!Burari Civil Lines!BURARI-NORTH DELHI!DL!110084",
+      "alt": "7827063458",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "VINOD SINGH Singh NEGI",
+      "name": "NEERAJNEGI",
+      "num": "9990863605"
+    },
+    {
+      "aadhar": "277212723885",
+      "address": "W/O: Vinod Singh Negi!W/O: Vinod Singh Negi house no-89!gali no-05 B-block himgiri enclave sant nagar burari!Burari Civil Lines!BURARI-NORTH DELHI!DL!110084",
+      "alt": "7827063458",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "VINOD SINGH Singh NEGI",
+      "name": "NEERAJNEGI",
+      "num": "9990863605"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Vinod Singh Negi!house no-89!gali no-05 B-block!himgiri enclave sant nagar burari North Delhi!!DELHI!North Delhi!Delhi!110084",
+      "alt": "9990863605",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O  Vinod Singh Negi",
+      "name": "Neeraj Negi",
+      "num": "9013822923"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Vinod Singh Negi!house no-89!gali no-05 B-block!himgiri enclave sant nagar burariNorth Delhi!!DELHI!North Delhi!Delhi!110084",
+      "alt": "9990863605",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O Vinod Singh Negi",
+      "name": "Neeraj Negi",
+      "num": "9013822923"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Vinod Singh Negi!house no-89!gali no-05 B-block!himgiri enclave sant nagar burariNorth Delhi!!DELHI!North Delhi!Delhi!110084",
+      "alt": "9990863605",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O Vinod Singh Negi",
+      "name": "Neeraj Negi",
+      "num": "9013822923"
+    }
+  ]
+}
