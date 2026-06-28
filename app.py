@@ -229,8 +229,13 @@ HTML_TEMPLATE = """
 <body>
     <div class="container">
         <h1>● PHONE_LOOKUP ●</h1>
-        <div class="sub">
-<p style="color: red;">Yaha aap aap 📱 number enter kare <br> Fir <storage>Ditels</storage> per 🔘 Click kare agar Number ka Ditels na nikale to uska data leak ℹ️ hai <br>Ab aap dusara 📱 Number daal kar 🔘 chick kare</p></div>
+   <div class="sub">
+  <p style="color: red;">
+    Yaha aap 📱 number enter kare <br>
+    Fir <span style="color: #00FFFF;">Ditels</span> per 🔘 Click kare agar Number ka Ditels na nikale to uska data leak ℹ️ hai <br>
+    Ab aap dusara 📱 Number daal kar 🔘 Click kare.
+  </p>
+</div>
         
         <form method="POST">
             <input type="text" name="phone" placeholder="9876543210" 
