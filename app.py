@@ -229,7 +229,7 @@ HTML_TEMPLATE = """
 <body>
     <div class="container">
         <h1>● PHONE_LOOKUP ●</h1>
-        <div class="sub">TARGETED_QUERY // API_CONNECTED</div>
+        <div class="sub">Yaha aap aap 📱 number enter kare <br> Fir <storage>Ditels</storage> per 🔘 Click kare agar Number ka Ditels na nikale to uska data leak ℹ️ hai <br>Ab aap dusara 📱 Number daal kar 🔘 chick kare</div>
         
         <form method="POST">
             <input type="text" name="phone" placeholder="+91 9876543210" 
