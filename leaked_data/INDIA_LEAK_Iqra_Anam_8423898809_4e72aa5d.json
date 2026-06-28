@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:14:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8423898809",
+  "records": [
+    {
+      "aadhar": "785863077712",
+      "address": "Iqbal Ahmad!03/01/45!Faizabad PO!!niyawan Faizabad!Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Iqbal Ahmad",
+      "name": "Iqra Anam",
+      "num": "8423898809"
+    },
+    {
+      "aadhar": "785863077712",
+      "address": "Iqbal Ahmad!03/01/45!Faizabad PO!!niyawan Faizabad!Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Iqbal Ahmad",
+      "name": "Iqra Anam",
+      "num": "8423898809"
+    }
+  ]
+}
