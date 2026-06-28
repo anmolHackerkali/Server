@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:05:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795595945",
+  "records": [
+    {
+      "aadhar": "716562935420",
+      "address": "!00!NAUBARAR DEWARA JADEED KITA 2 MAHARAJ GA!NAUBARAR DEWARA JADEED KITA 2!MAHARAJ GANJ MAHARAJ GANJAZAMGARH!AZAMGARH!UTTAR PRADESH!276137",
+      "alt": "9598191626",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Brijbhan Yadav",
+      "name": "MR. SANJAY YADAV",
+      "num": "9795595945"
+    },
+    {
+      "aadhar": "716562935420",
+      "address": "!00!NAUBARAR DEWARA JADEED KITA 2 MAHARAJ GA!NAUBARAR DEWARA JADEED KITA 2!MAHARAJ GANJ MAHARAJ GANJ AZAMGARH!AZAMGARH!UTTAR PRADESH!276137",
+      "alt": "9598191626",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Brijbhan Yadav",
+      "name": "MR SANJAY YADAV",
+      "num": "9795595945"
+    },
+    {
+      "aadhar": "716562935420",
+      "address": "!00!NAUBARAR DEWARA JADEED KITA 2 MAHARAJ GA!NAUBARAR DEWARA JADEED KITA 2!MAHARAJ GANJ MAHARAJ GANJ AZAMGARH!AZAMGARH!UTTAR PRADESH!276137",
+      "alt": "9598191626",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Brijbhan Yadav",
+      "name": "MR SANJAY YADAV",
+      "num": "9795595945"
+    }
+  ]
+}
