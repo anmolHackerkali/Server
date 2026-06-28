@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:50:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554394902",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Abbas Ali Quraishi!.!.!mohalla darjiyan post Mungra badshahpur Jau!!Jaunpur!UTTAR PRADESH!222202",
+      "alt": "9889752839",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Abbas Ali Quraishi",
+      "name": "Anas Quraishi",
+      "num": "9554394902"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Abbas Ali Quraishi!.!.!mohalla darjiyan post Mungra badshahpur Jau!!Jaunpur!UTTAR PRADESH!222202",
+      "alt": "9889752839",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Abbas Ali Quraishi",
+      "name": "Anas Quraishi",
+      "num": "9554394902"
+    }
+  ]
+}
