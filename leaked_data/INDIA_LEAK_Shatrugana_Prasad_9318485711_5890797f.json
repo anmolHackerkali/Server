@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:09:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9318485711",
+  "records": [
+    {
+      "aadhar": "582875932741",
+      "address": "S/O Ram Gulam Sah!!!RZ -A20 GALI NO3 DWARKA PURI!Vijay Enclave South West Delhi!Delhi!110045",
+      "alt": "919990123885",
+      "circle": "JIO DELHI",
+      "email": "prasadshatrughna1975@gmail.com",
+      "fname": "Ram Gulam Sah",
+      "name": "Shatrugana Prasad",
+      "num": "9318485711"
+    },
+    {
+      "aadhar": "582875932741",
+      "address": "S/O Ram Gulam Sah!!!RZ -A20 GALI NO3 DWARKA PURI!Vijay EnclaveSouth West Delhi!Delhi!110045",
+      "alt": "919990123885",
+      "circle": "JIO DELHI",
+      "email": "prasadshatrughna1975@gmail.com",
+      "fname": "Ram Gulam Sah",
+      "name": "Shatrugana Prasad",
+      "num": "9318485711"
+    },
+    {
+      "aadhar": "582875932741",
+      "address": "S/O Ram Gulam Sah!!!RZ -A20 GALI NO3 DWARKA PURI!Vijay EnclaveSouth West Delhi!Delhi!110045",
+      "alt": "919990123885",
+      "circle": "JIO DELHI",
+      "email": "prasadshatrughna1975@gmail.com",
+      "fname": "Ram Gulam Sah",
+      "name": "Shatrugana Prasad",
+      "num": "9318485711"
+    }
+  ]
+}
