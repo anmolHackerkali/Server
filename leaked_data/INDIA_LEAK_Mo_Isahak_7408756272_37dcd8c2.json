@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:59:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7408756272",
+  "records": [
+    {
+      "aadhar": "748372636827",
+      "address": " ! !AJEEMABAD    City/District: Sitapur State Uttar Pradesh! !SITAPUR!UTTAR PRADESH!261206",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Mo Eliyas",
+      "name": "Mo Isahak",
+      "num": "7408756272"
+    },
+    {
+      "aadhar": "748372636827",
+      "address": " ! !AJEEMABAD    City/District: Sitapur State Uttar Pradesh! !SITAPUR!UTTAR PRADESH!261206",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Mo Eliyas",
+      "name": "Mo Isahak",
+      "num": "7408756272"
+    }
+  ]
+}
