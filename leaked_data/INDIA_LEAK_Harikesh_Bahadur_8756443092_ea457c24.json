@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:40:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8756443092",
+  "records": [
+    {
+      "aadhar": "337981475356",
+      "address": "S/O: Hariram Rajbhar!296!!mohaddipur paharpur Balya Jagdishpur!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "8009149250",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hariram Rajbhar",
+      "name": "Harikesh Bahadur",
+      "num": "8756443092"
+    },
+    {
+      "aadhar": "337981475356",
+      "address": "S/O: Hariram Rajbhar!296!!mohaddipur paharpur Balya Jagdishpur!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "8009149250",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hariram Rajbhar",
+      "name": "Harikesh Bahadur",
+      "num": "8756443092"
+    }
+  ]
+}
