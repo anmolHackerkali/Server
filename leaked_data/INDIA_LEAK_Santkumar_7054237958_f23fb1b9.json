@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:20:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7054237958",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Omprakash!!! Katohi Madiapar!Azamgarh!Uttar Pradesh!223223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "Santkumar",
+      "num": "7054237958"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Omprakash!!! Katohi Madiapar!Azamgarh!Uttar Pradesh!223223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "Santkumar",
+      "num": "7054237958"
+    }
+  ]
+}
