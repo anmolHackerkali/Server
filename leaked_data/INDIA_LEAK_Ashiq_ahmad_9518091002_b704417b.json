@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:04:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9518091002",
+  "records": [
+    {
+      "aadhar": "672433021579",
+      "address": "!88!VPO alipura!!gharaunda!Karnal!Karnal!Haryana!132114",
+      "alt": "9950219124",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "amir ahmad",
+      "name": "Ashiq ahmad",
+      "num": "9518091002"
+    }
+  ]
+}
