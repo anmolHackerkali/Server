@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:46:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721213092",
+  "records": [
+    {
+      "aadhar": "867814127708",
+      "address": "S/O RAM UJAGIR!217 MUJAHIDPUR POST!217 MUJAHIDPUR POST!!MUJAHIDPURAMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "6386606641",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "MR. MANOJ KUMAR",
+      "num": "9721213092"
+    },
+    {
+      "aadhar": "867814127708",
+      "address": "S/O RAM UJAGIR!217  MUJAHIDPUR POST!217  MUJAHIDPUR POST!!MUJAHIDPUR AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "6386606641",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "MR MANOJ KUMAR",
+      "num": "9721213092"
+    },
+    {
+      "aadhar": "867814127708",
+      "address": "S/O RAM UJAGIR!217  MUJAHIDPUR POST!217  MUJAHIDPUR POST!!MUJAHIDPUR AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "6386606641",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "MR MANOJ KUMAR",
+      "num": "9721213092"
+    }
+  ]
+}
