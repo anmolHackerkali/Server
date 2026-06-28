@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:17:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554465823",
+  "records": [
+    {
+      "aadhar": "624809665022",
+      "address": "W/O PHARUK!PRTHMIK VIDYAALAY!LALGANJ ROAD LALGANJ ROAD!!BAHUTA BHUTAPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230135",
+      "alt": "9554254872",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "pharuk",
+      "name": "MRS. PARVIN BANO",
+      "num": "9554465823"
+    },
+    {
+      "aadhar": "624809665022",
+      "address": "W/O PHARUK!PRTHMIK VIDYAALAY!LALGANJ ROAD LALGANJ ROAD!!BAHUTA BHUTA PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230135",
+      "alt": "9554254872",
+      "circle": "UPE",
+      "email": null,
+      "fname": "pharuk",
+      "name": "MRS PARVIN BANO",
+      "num": "9554465823"
+    },
+    {
+      "aadhar": "624809665022",
+      "address": "W/O PHARUK!PRTHMIK VIDYAALAY!LALGANJ ROAD LALGANJ ROAD!!BAHUTA BHUTA PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230135",
+      "alt": "9554254872",
+      "circle": "UPE",
+      "email": null,
+      "fname": "pharuk",
+      "name": "MRS PARVIN BANO",
+      "num": "9554465823"
+    }
+  ]
+}
