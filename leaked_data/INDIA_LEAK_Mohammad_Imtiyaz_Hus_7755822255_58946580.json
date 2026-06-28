@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:07:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7755822255",
+  "records": [
+    {
+      "aadhar": "900959617163",
+      "address": "S/O Mohd Tahir Husain!228!Begariya Road!Dubagga Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "6392617878",
+      "circle": "UP EAST",
+      "email": "iimitiyaz@gmail.com",
+      "fname": "Mohd Tahir Husain",
+      "name": "Mohammad Imtiyaz Husain",
+      "num": "7755822255"
+    },
+    {
+      "aadhar": "900959617163",
+      "address": "S/O Mohd Tahir Husain!228!Begariya Road!Dubagga Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "6392617878",
+      "circle": "UP EAST",
+      "email": "iimitiyaz@gmail.com",
+      "fname": "Mohd Tahir Husain",
+      "name": "Mohammad Imtiyaz Husain",
+      "num": "7755822255"
+    },
+    {
+      "aadhar": "xxxxxxxx7163",
+      "address": "S/O Mohd Tahir Husain!228!Begariya Road!Dubagga Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "7755822255",
+      "circle": "UPEAST",
+      "email": "iimitiyaz@gmail.com",
+      "fname": "Mohd Tahir Husain",
+      "name": "Mohammad Imtiyaz Husain",
+      "num": "7525959222"
+    },
+    {
+      "aadhar": "xxxxxxxx7163",
+      "address": "S/O Mohd Tahir Husain!228!Begariya Road!Dubagga Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "7755822255",
+      "circle": "UPEAST",
+      "email": "iimitiyaz@gmail.com",
+      "fname": "Mohd Tahir Husain",
+      "name": "Mohammad Imtiyaz Husain",
+      "num": "7525959222"
+    }
+  ]
+}
