@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:14:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7800062152",
+  "records": [
+    {
+      "aadhar": "328125334754",
+      "address": "S/O Ram Narayan!27!!gaon- meerupur maukh post- rampur manguradila Maukh!Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Narayan",
+      "name": "Dayashankar Singh Gaud",
+      "num": "7800062152"
+    },
+    {
+      "aadhar": "328125334754",
+      "address": "S/O Ram Narayan!27!!gaon- meerupur maukh post- rampur manguradila Maukh!Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Narayan",
+      "name": "Dayashankar Singh Gaud",
+      "num": "7800062152"
+    },
+    {
+      "aadhar": "818682300106",
+      "address": "w/o  dayashankar! 27!Surapur!!gaon- meerupur maukh post- rampur manguradila surapur!rampur maguradela Akbarpur!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "7800062152",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "dayashankar",
+      "name": "Narvada",
+      "num": "9696756780"
+    },
+    {
+      "aadhar": "818682300106",
+      "address": "w/o  dayashankar! 27!Surapur!!gaon- meerupur maukh post- rampur manguradila surapur!rampur maguradela Akbarpur!ambedkar nagar!Uttar Pradesh!224227",
+      "alt": "7800062152",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "dayashankar",
+      "name": "Narvada",
+      "num": "9696756780"
+    }
+  ]
+}
