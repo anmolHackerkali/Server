@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:56:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905876536",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Nandlal!!214!doultpur hajlpatti amauliya!Doultpur Hajalpatti Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918556325865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "Shani Verma",
+      "num": "7905876536"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Nandlal!!214!doultpur hajlpatti amauliya!Doultpur Hajalpatti Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918556325865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "Shani Verma",
+      "num": "7905876536"
+    },
+    {
+      "aadhar": "697695529064",
+      "address": "!266!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Arvind Kumar Dubey",
+      "name": "MR. RAJ DUBEY",
+      "num": "9621887045"
+    },
+    {
+      "aadhar": "260200221712",
+      "address": "S/O BAHAU!42 GRAM MUHAMMADPUR SABOOKPUR!42 GRAM MUHAMMADPUR SABOOKPUR42 GRAM !42 GRAM MUHAMMADPUR SABOOKPUR!akdallaAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Bahau",
+      "name": "MR. RAM POOJAN",
+      "num": "9455592140"
+    },
+    {
+      "aadhar": "789087176213",
+      "address": "!137!PURA CHAUBE akdalla ambedkar nagarPURA !PURA CHAUBE akdalla ambedkar nagar!PURA CHAUBE akdalla ambedkar nagarAMBED!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Omkar Maurya",
+      "name": "MR. SHYAM SUNDAR MAURYA",
+      "num": "9454584058"
+    },
+    {
+      "aadhar": "653148911624",
+      "address": "S/O RAM KUMAR!GRAM - UMRAPUR SARAIVAL PO -!GRAM - UMRAPUR SARAIVAL PO -GRAM - UMRA!GRAM - UMRAPUR SARAIVAL PO -!GRAM - UMRAPUR SARAIVAL PO -AMBEDKAR NA!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Kumar",
+      "name": "MR. MATHURA PRASAD",
+      "num": "7704088650"
+    },
+    {
+      "aadhar": "716871866211",
+      "address": "!135!GRAM UMRAPUR POST BANIYANEGRAM UMRAPUR !GRAM UMRAPUR POST BANIYANE!baniyane baskhariAMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Ashok",
+      "name": "MRS. MEERA DEVI",
+      "num": "7408700860"
+    },
+    {
+      "aadhar": "509795038164",
+      "address": "!doultpur hajalpatti ambedkar nagar!doultpur hajalpatti ambedkar nagardoult!doultpur hajalpatti ambedkar nagar!doultpur hajalpatti ambedkar nagarAMBED!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "MR. SAHIL KUMAR",
+      "num": "7080266083"
+    },
+    {
+      "aadhar": "697695529064",
+      "address": "!266!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!DAULATPUR POST HAJALAPUR HAJLAPUR HAJLAP!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Arvind Kumar Dubey",
+      "name": "MR RAJ DUBEY",
+      "num": "9621887045"
+    },
+    {
+      "aadhar": "348905447027",
+      "address": "!249!tanda!tanda!tanda!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224129",
+      "alt": "7905876536",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "BILGU RAM",
+      "name": "JAI RAM",
+      "num": "9013356831"
+    },
+    {
+      "aadhar": "653148911624",
+      "address": "S/O RAM KUMAR!GRAM - UMRAPUR SARAIVAL PO -!GRAM - UMRAPUR SARAIVAL PO - GRAM - UMRA!GRAM - UMRAPUR SARAIVAL PO -!GRAM - UMRAPUR SARAIVAL PO - AMBEDKAR NA!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Kumar",
+      "name": "MR MATHURA PRASAD",
+      "num": "7704088650"
+    },
+    {
+      "aadhar": "716871866211",
+      "address": "!135!GRAM UMRAPUR POST BANIYANE GRAM UMRAPUR !GRAM UMRAPUR POST BANIYANE!baniyane baskhari AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ashok",
+      "name": "MRS MEERA DEVI",
+      "num": "7408700860"
+    },
+    {
+      "aadhar": "301578375272",
+      "address": "!300!HUSAINPUR GIRANT BARAIYA MAFEE!BARAIYA MAFEE!BARAIYA MAFE AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "INDRAJEET CHAURSIYA",
+      "name": "MR SHISHIR CHAURSIYA",
+      "num": "7237876509"
+    },
+    {
+      "aadhar": "509795038164",
+      "address": "!doultpur hajalpatti ambedkar nagar!doultpur hajalpatti ambedkar nagar doult!doultpur hajalpatti ambedkar nagar!doultpur hajalpatti ambedkar nagar AMBED!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "MR SAHIL KUMAR",
+      "num": "7080266083"
+    },
+    {
+      "aadhar": "786963457080",
+      "address": "!56!KONDRA KODRA AMBEDKAR NAGAR HAJLAPUR KON!KONDRA KODRA AMBEDKAR NAGAR!HAJLAPUR AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7905876536",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Sanjay",
+      "name": "MS MANJU ",
+      "num": "7052483538"
+    }
+  ]
+}
