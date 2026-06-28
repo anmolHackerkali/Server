@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:35:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7510084234",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Krisan Kumar!!!  Brahimpur!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Krisan Kumar",
+      "name": "Vikas",
+      "num": "7510084234"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Krisan Kumar!!!  Brahimpur!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Krisan Kumar",
+      "name": "Vikas",
+      "num": "7510084234"
+    }
+  ]
+}
