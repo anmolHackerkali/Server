@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:39:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863604",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!21!Patel Nagar gurgaon!Ravi Kumar GURGAON!gurgaon!GURGAON!GURGAON!HARYANA!122001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Arun Ray",
+      "name": "Rangila Kumar",
+      "num": "9990863604"
+    },
+    {
+      "aadhar": "318181267239",
+      "address": "S/O Ramphal!S/O Ramphal H N0-1-196/224!DDA FLATS!Bhajan Pura!NEW SEELAMPUR-NORTH EAST!DL!110053",
+      "alt": "9999956652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "RAMPHAL  .",
+      "name": "MUKESH  .",
+      "num": "9990863604"
+    },
+    {
+      "aadhar": "318181267239",
+      "address": "S/O Ramphal!S/O Ramphal H N0-1-196/224!DDA FLATS!Bhajan Pura!NEW SEELAMPUR-NORTH EAST!DL!110053",
+      "alt": "9999956652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "RAMPHAL  ",
+      "name": "MUKESH  ",
+      "num": "9990863604"
+    },
+    {
+      "aadhar": null,
+      "address": "!21!Patel Nagargurgaon!Ravi KumarGURGAON!gurgaon!GURGAON!GURGAON!HARYANA!122001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Arun Ray",
+      "name": "Rangila Kumar",
+      "num": "9990863604"
+    },
+    {
+      "aadhar": "318181267239",
+      "address": "S/O Ramphal!S/O Ramphal H N0-1-196/224!DDA FLATS!Bhajan Pura!NEW SEELAMPUR-NORTH EAST!DL!110053",
+      "alt": "9999956652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "RAMPHAL  ",
+      "name": "MUKESH  ",
+      "num": "9990863604"
+    },
+    {
+      "aadhar": null,
+      "address": "!21!Patel Nagargurgaon!Ravi KumarGURGAON!gurgaon!GURGAON!GURGAON!HARYANA!122001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Arun Ray",
+      "name": "Rangila Kumar",
+      "num": "9990863604"
+    }
+  ]
+}
