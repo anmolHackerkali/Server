@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:01:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911371367",
+  "records": [
+    {
+      "aadhar": "890559870506",
+      "address": "S/O  Nurul Hasan!H  No B-16 Gali No 2 Poonam Vihar!H  No B-16 Gali No 2 Poonam Vihar Vikas Nagar uttam nagar WEST DELHI!!!UTTAM NAGAR!WEST DELHI!Delhi!110059",
+      "alt": "9958517016",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "NURUL HASAN",
+      "name": "MUZAFFAR ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": " 890559870506 ",
+      "address": "S/O  Nurul Hasan ! H. No B-16 Gali No.2 Poonam Vihar ! H. No B-16 Gali No.2 Poonam Vihar !  ! Vikas Nagar uttam nagar ! UTTAM NAGAR-WEST DELHI ! WEST DELHI ! DL ! 110059",
+      "alt": "9958517016",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "NURUL  HASAN",
+      "name": "MUZAFFAR  ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": "890559870506",
+      "address": "S/O: Nurul Hasan!H No B-16 Gali No2 Poonam Vihar!H No B-16 Gali No2 Poonam ViharVikas Nagar uttam nagarWEST DELHI!!!UTTAM NAGAR!WEST DELHI!Delhi!110059",
+      "alt": "9958517016",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "NURUL HASAN",
+      "name": "MUZAFFAR ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": " 890559870506 ",
+      "address": "S/O: Nurul Hasan ! H. No B-16 Gali No.2 Poonam Vihar ! H. No B-16 Gali No.2 Poonam Vihar !  ! Vikas Nagar uttam nagar ! UTTAM NAGAR-WEST DELHI ! WEST DELHI ! DL ! 110059",
+      "alt": "9958517016",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "NURUL  HASAN",
+      "name": "MUZAFFAR  ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": " 890559870506 ",
+      "address": "S/O: Nurul Hasan ! H. No B-16 Gali No.2 Poonam Vihar ! H. No B-16 Gali No.2 Poonam Vihar !  ! Vikas Nagar uttam nagar ! UTTAM NAGAR-WEST DELHI ! WEST DELHI ! DL ! 110059",
+      "alt": "9958517016",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "NURUL  HASAN",
+      "name": "MUZAFFAR  ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": "890559870506",
+      "address": "S/O: Nurul Hasan!H No B-16 Gali No2 Poonam Vihar!H No B-16 Gali No2 Poonam ViharVikas Nagar uttam nagarWEST DELHI!!!UTTAM NAGAR!WEST DELHI!Delhi!110059",
+      "alt": "9958517016",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "NURUL HASAN",
+      "name": "MUZAFFAR ALAM",
+      "num": "9911371367"
+    },
+    {
+      "aadhar": "927777984252",
+      "address": "! b 16!street 2!!near shiv shakti chok vikas nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9911371367",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Muzaffar Alam",
+      "name": "Fatma Alam",
+      "num": "7678415909"
+    },
+    {
+      "aadhar": "927777984252",
+      "address": "!b 16!street 2!!near shiv shakti chok vikas nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9911371367",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Muzaffar Alam",
+      "name": "Fatma Alam",
+      "num": "7678415909"
+    },
+    {
+      "aadhar": "927777984252",
+      "address": "!b 16!street 2!!near shiv shakti chok vikas nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9911371367",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Muzaffar Alam",
+      "name": "Fatma Alam",
+      "num": "7678415909"
+    }
+  ]
+}
