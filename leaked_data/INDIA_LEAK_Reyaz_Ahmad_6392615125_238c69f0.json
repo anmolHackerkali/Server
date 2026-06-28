@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:45:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6392615125",
+  "records": [
+    {
+      "aadhar": "795107606010",
+      "address": "S/O  Noor Mohammad!!Village And Post- Koilari Bujurg Rani Ki Sarai!!!Avak Nizamabad!Azamgarh!Uttar Pradesh!276207",
+      "alt": "7388623402",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Noor Mohammad",
+      "name": "Reyaz Ahmad",
+      "num": "6392615125"
+    },
+    {
+      "aadhar": "795107606010",
+      "address": "S/O  Noor Mohammad!!Village And Post- Koilari Bujurg Rani Ki Sarai!!!Avak Nizamabad!Azamgarh!Uttar Pradesh!276207",
+      "alt": "7388623402",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Noor Mohammad",
+      "name": "Reyaz Ahmad",
+      "num": "6392615125"
+    }
+  ]
+}
