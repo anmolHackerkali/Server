@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:35:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9026921160",
+  "records": [
+    {
+      "aadhar": "768793524164",
+      "address": "s/o  mohd taiyyab!!habib nagar Amethi!!habib nagar gangaganj amethi!amethi Amethi!amethi!Uttar Pradesh!227405",
+      "alt": "9559220686",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mohd taiyyab",
+      "name": "Mohd Tauheed",
+      "num": "9026921160"
+    },
+    {
+      "aadhar": "768793524164",
+      "address": "s/o  mohd taiyyab!!habib nagar Amethi!!habib nagar gangaganj amethi!amethi Amethi!amethi!Uttar Pradesh!227405",
+      "alt": "9559220686",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mohd taiyyab",
+      "name": "Mohd Tauheed",
+      "num": "9026921160"
+    }
+  ]
+}
