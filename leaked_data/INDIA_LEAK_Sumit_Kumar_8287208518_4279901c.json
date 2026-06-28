@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:53:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287208518",
+  "records": [
+    {
+      "aadhar": "400874688423",
+      "address": "Mukesh Kumar!House No 373!Harijan Basti Wali Gali Rampura City/District  North West Delhi!Near Katta Market!NORTH WEST DELHI!Delhi!110035",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh Kumar",
+      "name": "Sumit Kumar",
+      "num": "8287208518"
+    },
+    {
+      "aadhar": "400874688423",
+      "address": "Mukesh Kumar!House No373!Harijan Basti Wali GaliRampura City/District: North West Delhi!Near Katta Market!NORTH WEST DELHI!Delhi!110035",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh Kumar",
+      "name": "SumitKumar",
+      "num": "8287208518"
+    },
+    {
+      "aadhar": "400874688423",
+      "address": "Mukesh Kumar!House No373!Harijan Basti Wali GaliRampura City/District: North West Delhi!Near Katta Market!NORTH WEST DELHI!Delhi!110035",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh Kumar",
+      "name": "SumitKumar",
+      "num": "8287208518"
+    }
+  ]
+}
