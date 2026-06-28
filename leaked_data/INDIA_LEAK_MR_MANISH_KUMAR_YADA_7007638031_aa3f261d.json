@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:51:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007638031",
+  "records": [
+    {
+      "aadhar": "UP4520160012130",
+      "address": "!meeranpuur!khajawan!!ahirauli!AMBEDKAR NAGAR UP!UTTAR PRADESH!224151",
+      "alt": "7007638031",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Baburram yadav",
+      "name": "MR. MANISH KUMAR YADAV",
+      "num": "7800374064"
+    },
+    {
+      "aadhar": "UP4520160012130",
+      "address": "!meeranpuur!khajawan!!ahirauli!AMBEDKAR NAGAR UP!UTTAR PRADESH!224151",
+      "alt": "7007638031",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Baburram yadav",
+      "name": "MR MANISH KUMAR YADAV",
+      "num": "7800374064"
+    },
+    {
+      "aadhar": "UP4520160012130",
+      "address": "!meeranpuur!khajawan!!ahirauli!AMBEDKAR NAGAR UP!UTTAR PRADESH!224151",
+      "alt": "7007638031",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Baburram yadav",
+      "name": "MR MANISH KUMAR YADAV",
+      "num": "7800374064"
+    }
+  ]
+}
