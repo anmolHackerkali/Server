@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863684",
+  "records": [
+    {
+      "aadhar": "522199435183",
+      "address": "W/O Ali Raza!W/O Ali Raza  C-53!Gali No  3  Shri Ram Colony!Khajoori Khas !KHAJOORI KHAS-NORTH EAST DELHI!DL!110094",
+      "alt": "9899213536",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ALI RAZA",
+      "name": "NAZNEEN FATMA",
+      "num": "9990863684"
+    },
+    {
+      "aadhar": "522199435183",
+      "address": "W/OAli Raza!W/OAli Raza C-53!Gali No 3 Shri Ram Colony!Khajoori Khas!KHAJOORI KHAS-NORTH EAST DELHI!DL!110094",
+      "alt": "9899213536",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ALI RAZA",
+      "name": "NAZNEENFATMA",
+      "num": "9990863684"
+    },
+    {
+      "aadhar": "522199435183",
+      "address": "W/OAli Raza!W/OAli Raza C-53!Gali No 3 Shri Ram Colony!Khajoori Khas!KHAJOORI KHAS-NORTH EAST DELHI!DL!110094",
+      "alt": "9899213536",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ALI RAZA",
+      "name": "NAZNEENFATMA",
+      "num": "9990863684"
+    },
+    {
+      "aadhar": " 522199435183 ",
+      "address": "W/O Ali Raza ! H No 55 khajoori khas ! C Block Gali No 3 !  ! Shri Ram Colony Rajeev NagarNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9990863684",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ali raza",
+      "name": "MS. NAZNEEN FATMA",
+      "num": "8447816583"
+    },
+    {
+      "aadhar": " 522199435183 ",
+      "address": "W/O Ali Raza ! H No 55 khajoori khas ! C Block Gali No 3 !  ! Shri Ram Colony Rajeev NagarNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9990863684",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ali raza",
+      "name": "MS NAZNEEN FATMA",
+      "num": "8447816583"
+    },
+    {
+      "aadhar": " 522199435183 ",
+      "address": "W/O Ali Raza ! H No 55 khajoori khas ! C Block Gali No 3 !  ! Shri Ram Colony Rajeev NagarNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9990863684",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ali raza",
+      "name": "MS NAZNEEN FATMA",
+      "num": "8447816583"
+    }
+  ]
+}
