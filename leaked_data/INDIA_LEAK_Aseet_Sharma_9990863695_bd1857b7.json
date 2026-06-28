@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:47:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863695",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!House Number 8!Aliyar!Sector 8 GURGAON18!!GURGAON!GURGAON18!HARYANA!122051",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shriram Sharma",
+      "name": "Aseet Sharma",
+      "num": "9990863695"
+    },
+    {
+      "aadhar": " 562021509097 ",
+      "address": "S/O  Yakub Khan ! B-69A Face- 1 2 3 ! B-69A Face- 1 2 3Vikas NagarWEST DELHI !  !  ! UTTAM NAGAR ! WEST DELHI ! Delhi ! 110059",
+      "alt": "7835017775",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "YAKUB KHAN",
+      "name": "ASIF KHAN",
+      "num": "9990863695"
+    },
+    {
+      "aadhar": null,
+      "address": "!House Number 8!Aliyar!Sector 8GURGAON18!!GURGAON!GURGAON18!HARYANA!122051",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shriram Sharma",
+      "name": "Aseet Sharma",
+      "num": "9990863695"
+    },
+    {
+      "aadhar": "562021509097",
+      "address": "S/O  Yakub Khan ! B-69A Face- 1 2 3 ! B-69A Face- 1 2 3Vikas NagarWEST DELHI !  !  ! UTTAM NAGAR ! WEST DELHI ! Delhi ! 110059",
+      "alt": "7835017775",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "YAKUB KHAN",
+      "name": "ASIF KHAN",
+      "num": "9990863695"
+    },
+    {
+      "aadhar": "562021509097",
+      "address": "S/O  Yakub Khan ! B-69A Face- 1 2 3 ! B-69A Face- 1 2 3Vikas NagarWEST DELHI !  !  ! UTTAM NAGAR ! WEST DELHI ! Delhi ! 110059",
+      "alt": "7835017775",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "YAKUB KHAN",
+      "name": "ASIF KHAN",
+      "num": "9990863695"
+    },
+    {
+      "aadhar": null,
+      "address": "!House Number 8!Aliyar!Sector 8GURGAON18!!GURGAON!GURGAON18!HARYANA!122051",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shriram Sharma",
+      "name": "Aseet Sharma",
+      "num": "9990863695"
+    }
+  ]
+}
