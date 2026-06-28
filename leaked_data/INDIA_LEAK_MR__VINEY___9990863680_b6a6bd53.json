@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:47:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863680",
+  "records": [
+    {
+      "aadhar": "409252715528",
+      "address": "Nathuni Gupta!N-123!lal bagh Azad pur Vishal Durga Mandir!Vishal Durga Mandir!Azad pur NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8595422190",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nathuni Gupta",
+      "name": "MR  VINEY  ",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": null,
+      "address": "HNO C 76 GALINO 8 KHAJOORKHAS !  !  ! DELHI ! Delhi ! 110001",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "- - VINOD KUMAR GUPTA",
+      "name": "NITIN KUMAR GUTPA",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": null,
+      "address": "HNO C 76 GALINO 8 KHAJOORKHAS !  !  ! DELHI ! Delhi ! 110001",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "  VINOD KUMAR GUPTA",
+      "name": "NITIN KUMAR GUTPA",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": "409252715528",
+      "address": "Nathuni Gupta!N-123!lal bagh Azad purVishal Durga Mandir!Vishal Durga Mandir!Azad purNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8595422190",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nathuni Gupta",
+      "name": "MR VINEY ",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": "409252715528",
+      "address": "Nathuni Gupta!N-123!lal bagh Azad purVishal Durga Mandir!Vishal Durga Mandir!Azad purNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8595422190",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nathuni Gupta",
+      "name": "MR VINEY ",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": null,
+      "address": "HNO C 76 GALINO 8 KHAJOORKHAS !  !  ! DELHI ! Delhi ! 110001",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "  VINOD KUMAR GUPTA",
+      "name": "NITIN KUMAR GUTPA",
+      "num": "9990863680"
+    },
+    {
+      "aadhar": "Gzv7013113",
+      "address": "Gali No 8/2 Wazirabad Burari   Delhi Delhi! ! !!!",
+      "alt": "9990863680",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Buddh Pd Yadav",
+      "name": "Ranjit  Kumar",
+      "num": "7859838031"
+    },
+    {
+      "aadhar": "Gzv7013113",
+      "address": "!Gali No 8/2 Wazirabad Burari   Delhi Delhi!!!!!!!",
+      "alt": "9990863680",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Buddh Pd Yadav",
+      "name": "Ranjit  Kumar",
+      "num": "7859838031"
+    },
+    {
+      "aadhar": "Gzv7013113",
+      "address": "Gali No 8/2 Wazirabad Burari   Delhi Delhi! ! !!!",
+      "alt": "9990863680",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Buddh Pd Yadav",
+      "name": "Ranjit  Kumar",
+      "num": "7859838031"
+    },
+    {
+      "aadhar": "Gzv7013113",
+      "address": "Gali No 8/2 Wazirabad Burari   Delhi Delhi! ! !!!",
+      "alt": "9990863680",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Buddh Pd Yadav",
+      "name": "Ranjit  Kumar",
+      "num": "7859838031"
+    }
+  ]
+}
