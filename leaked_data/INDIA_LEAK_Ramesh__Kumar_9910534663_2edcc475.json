@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:08:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9910534663",
+  "records": [
+    {
+      "aadhar": "766232175118",
+      "address": "S/O Jagdish Sah!RZ A 20 GALI N0 3 VIJAY ENCLAVE DABRI!!!South West Delhi!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish Sah",
+      "name": "Ramesh  Kumar",
+      "num": "9910534663"
+    },
+    {
+      "aadhar": "766232175118",
+      "address": "S/O Jagdish Sah!RZ A 20 GALI N0 3 VIJAY ENCLAVEDABRI!!!South West Delhi!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish Sah",
+      "name": "Ramesh  Kumar",
+      "num": "9910534663"
+    },
+    {
+      "aadhar": "766232175118",
+      "address": "S/O Jagdish Sah!RZ A 20 GALI N0 3 VIJAY ENCLAVEDABRI!!!South West Delhi!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish Sah",
+      "name": "Ramesh  Kumar",
+      "num": "9910534663"
+    },
+    {
+      "aadhar": "766232175118",
+      "address": "!RZ B-40!B BLOCK SHIV MAIN MARKET palam village!!Vijay Enclave!New Delhi West!South West!Delhi!110045",
+      "alt": "9910534663",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jagdish",
+      "name": "Ramesh Kumar",
+      "num": "9899835878"
+    },
+    {
+      "aadhar": "766232175118",
+      "address": "!RZ B-40!B BLOCK SHIV MAIN MARKET palam village!!Vijay Enclave!New Delhi West!South West!Delhi!110045",
+      "alt": "9910534663",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jagdish",
+      "name": "Ramesh Kumar",
+      "num": "9899835878"
+    },
+    {
+      "aadhar": "766232175118",
+      "address": "!RZ B-40!B BLOCK SHIV MAIN MARKET palam village!!Vijay Enclave!New Delhi West!South West!Delhi!110045",
+      "alt": "9910534663",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jagdish",
+      "name": "Ramesh Kumar",
+      "num": "9899835878"
+    }
+  ]
+}
