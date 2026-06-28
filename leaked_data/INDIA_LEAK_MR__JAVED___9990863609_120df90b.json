@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:45:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863609",
+  "records": [
+    {
+      "aadhar": "697709495770",
+      "address": "!House No 19!Jivan Nagar Sanjay Colony!Jivan Nagar Sanjay Colony!Sanjay Colony FARIDABAD!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9654972799",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Hamid khan",
+      "name": "MR  JAVED  ",
+      "num": "9990863609"
+    },
+    {
+      "aadhar": " 697709495770 ",
+      "address": "! House No 19 ! Jivan Nagar Sanjay Colony !  ! Sanjay ColonyFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9654972799",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Hamid khan",
+      "name": "MR. JAVED .",
+      "num": "9990863609"
+    },
+    {
+      "aadhar": " 697709495770 ",
+      "address": "! House No 19 ! Jivan Nagar Sanjay Colony !  ! Sanjay ColonyFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9654972799",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Hamid khan",
+      "name": "MR JAVED ",
+      "num": "9990863609"
+    },
+    {
+      "aadhar": " 697709495770 ",
+      "address": "! House No 19 ! Jivan Nagar Sanjay Colony !  ! Sanjay ColonyFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9654972799",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Hamid khan",
+      "name": "MR JAVED ",
+      "num": "9990863609"
+    },
+    {
+      "aadhar": "588140630353",
+      "address": "S/O  Javed Khan!Hosue No 234!Faridabad Near Badwali Maszid!Near Badwali Maszid!Jecwan Nagar  Gaurichhi Ballabgarh FARIDABAD!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9990863609",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Javed Khan",
+      "name": "MR  JISHAN  ",
+      "num": "9654584309"
+    },
+    {
+      "aadhar": "588140630353",
+      "address": "S/O: Javed Khan!Hosue No 234!FaridabadNear Badwali Maszid!Near Badwali Maszid!Jecwan Nagar Gaurichhi BallabgarhFARIDABAD!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9990863609",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Javed Khan",
+      "name": "MR JISHAN ",
+      "num": "9654584309"
+    },
+    {
+      "aadhar": "588140630353",
+      "address": "S/O: Javed Khan!Hosue No 234!FaridabadNear Badwali Maszid!Near Badwali Maszid!Jecwan Nagar Gaurichhi BallabgarhFARIDABAD!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9990863609",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Javed Khan",
+      "name": "MR JISHAN ",
+      "num": "9654584309"
+    }
+  ]
+}
