@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 14:13:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6388671961",
+  "records": [
+    {
+      "aadhar": "257857117995",
+      "address": "!221B!KODRAHAJLAPUR!HAJLAPUR!KONDRA AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8004527499",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Awadh Yadav",
+      "name": "MR. LALMAN YADAV",
+      "num": "6388671961"
+    }
+  ]
+}
