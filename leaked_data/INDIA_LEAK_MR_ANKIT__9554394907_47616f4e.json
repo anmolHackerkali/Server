@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:49:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554394907",
+  "records": [
+    {
+      "aadhar": "287892382823",
+      "address": "Ram Baran!GRAM- BEHTAKALAN!GRAM- BEHTAKALANPOST- BEHTAKALAN!POST- BEHTAKALAN!BEHTA BEHTARAEBARELI!RAEBARELI!UTTAR PRADESH!229201",
+      "alt": "9554394907",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Baran",
+      "name": "MR. ANKIT .",
+      "num": "9554592748"
+    }
+  ]
+}
