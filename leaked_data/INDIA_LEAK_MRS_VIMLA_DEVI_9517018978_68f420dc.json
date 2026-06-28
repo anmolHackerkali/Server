@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:31:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9517018978",
+  "records": [
+    {
+      "aadhar": "993444617714",
+      "address": "!bhidoor bhidoor!Bidhar Khas!!Bhidur!AMBEDKAR NAGAR!UTTAR PRADESH!224155",
+      "alt": "8127864929",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "suneel kumar",
+      "name": "MRS. VIMLA DEVI",
+      "num": "9517018978"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Suneel Kumar!bhidoor!! bhidoor Bidhar Khas!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Suneel Kumar",
+      "name": "Vimla Devi",
+      "num": "9517018978"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Suneel Kumar!bhidoor!! bhidoor Bidhar Khas!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Suneel Kumar",
+      "name": "Vimla Devi",
+      "num": "9517018978"
+    }
+  ]
+}
