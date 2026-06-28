@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:46:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863692",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!Bharat Vihar D Block!Some Bazar Road!Kakrola SOUTH WEST DELHI!!DELHI!SOUTH WEST DELHI!Delhi!110078",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Kharga Raikwar",
+      "name": "Ramesh Kumar Raikwar",
+      "num": "9990863692"
+    },
+    {
+      "aadhar": "292511150700",
+      "address": "W/O  Mohd Alam!W/O  Mohd Alam b-5/6!JJ bandhu camp!Vasant Kunj Vasant Vihar!VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9718855466",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD ALAM  .",
+      "name": "KUSAM  BEGAM",
+      "num": "9990863692"
+    },
+    {
+      "aadhar": "292511150700",
+      "address": "W/O  Mohd Alam!W/O  Mohd Alam b-5/6!JJ bandhu camp!Vasant Kunj Vasant Vihar!VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9718855466",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD ALAM  ",
+      "name": "KUSAM  BEGAM",
+      "num": "9990863692"
+    },
+    {
+      "aadhar": null,
+      "address": "!Bharat Vihar D Block!Some Bazar Road!KakrolaSOUTH WEST DELHI!!DELHI!SOUTH WEST DELHI!Delhi!110078",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Kharga Raikwar",
+      "name": "Ramesh Kumar Raikwar",
+      "num": "9990863692"
+    },
+    {
+      "aadhar": null,
+      "address": "!Bharat Vihar D Block!Some Bazar Road!KakrolaSOUTH WEST DELHI!!DELHI!SOUTH WEST DELHI!Delhi!110078",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Kharga Raikwar",
+      "name": "Ramesh Kumar Raikwar",
+      "num": "9990863692"
+    },
+    {
+      "aadhar": "292511150700",
+      "address": "W/O  Mohd Alam!W/O  Mohd Alam b-5/6!JJ bandhu camp!Vasant Kunj Vasant Vihar!VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9718855466",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD ALAM  ",
+      "name": "KUSAM  BEGAM",
+      "num": "9990863692"
+    }
+  ]
+}
