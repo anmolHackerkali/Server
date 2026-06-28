@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:06:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7408332794",
+  "records": [
+    {
+      "aadhar": "221695539503",
+      "address": " !!Tanda!gram muhammadpur sabukpur post husenpur girant!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Javahir Lal",
+      "name": "Akhilesh Kumar",
+      "num": "7408332794"
+    },
+    {
+      "aadhar": "221695539503",
+      "address": " !!Tanda!gram muhammadpur sabukpur post husenpur girant!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Javahir Lal",
+      "name": "Akhilesh Kumar",
+      "num": "7408332794"
+    }
+  ]
+}
