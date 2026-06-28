@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:45:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9876543210",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!Tower 9 Flat 1506!Lotus Boulevard!NoidaSector 100!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "devjroy@gmail com",
+      "fname": "Salil Kumar Roy",
+      "name": "Dev Jyoti Roy",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": "886553666165",
+      "address": "D71 ! KAMLA NAGAR ! KAMLA NAGARNORTH DELHI ! DELHI ! DELHI ! 110007",
+      "alt": "9999400000",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "CHANDER PRAKASH MEHTA",
+      "name": "MR. DEEPAK MEHTA",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": "8337007000",
+      "address": "FARAH SHAZIA",
+      "alt": "QAISER ALAM",
+      "circle": "8/2/1B!DR BIRESH GUHA STREET!CIRCUS AVENUE!KOLKATA!West Bengal!700017",
+      "email": null,
+      "fname": " \"9836307000",
+      "name": "VODAFONE KOLKATA",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": null,
+      "address": "!Tower 9 Flat 1506!Lotus Boulevard!NoidaSector 100!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "devjroy@gmail.com",
+      "fname": "Salil Kumar Roy",
+      "name": "Dev Jyoti Roy",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": "886553666165",
+      "address": "D71 ! KAMLA NAGAR ! KAMLA NAGARNORTH DELHI ! DELHI ! DELHI ! 110007",
+      "alt": "9999400000",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "CHANDER PRAKASH MEHTA",
+      "name": "MR DEEPAK MEHTA",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": "886553666165",
+      "address": "D71 ! KAMLA NAGAR ! KAMLA NAGARNORTH DELHI ! DELHI ! DELHI ! 110007",
+      "alt": "9999400000",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "CHANDER PRAKASH MEHTA",
+      "name": "MR DEEPAK MEHTA",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": null,
+      "address": "!Tower 9 Flat 1506!Lotus Boulevard!NoidaSector 100!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "devjroy@gmail.com",
+      "fname": "Salil Kumar Roy",
+      "name": "Dev Jyoti Roy",
+      "num": "9876543210"
+    },
+    {
+      "aadhar": "572783453594",
+      "address": "S/O B D Dobriyal!H No 2651/67 A!!Molarband Extn 60 Futa Road 3 Badarpur!South Delhi!Delhi!110044",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "B D Dobriyal",
+      "name": "Sampurna Nand Dobriyal",
+      "num": "9999883039"
+    },
+    {
+      "aadhar": null,
+      "address": "!barrack no 2!police station!delhichanakyapuri!delhi!Delhi!110001",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pappu",
+      "name": "Sachin",
+      "num": "9999866575"
+    },
+    {
+      "aadhar": "254944943909",
+      "address": "S/O Suraj Prakash Dhingra!M-2/23 GF!!MODEL TOWN-3 MODEL TOWN!North West Delhi!Delhi!110009",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Suraj Prakash Dhingra",
+      "name": "Nitin  Dhingra",
+      "num": "9999772425"
+    },
+    {
+      "aadhar": "550759224898",
+      "address": "!132 Milansaar Appartment!paschim vihar new delhi!!Paschim Vihar!Delhi!110063",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Subhash  Kwatra",
+      "name": "Puneet  Kwatra",
+      "num": "9999565653"
+    },
+    {
+      "aadhar": "386605929525",
+      "address": "!New T-56  1st Floor!Gali No -1  New T Block Near Shukkar Bazar Axis Atm!Uttam Nagar Uttam Nagar D k Mohan GardenWest Delhi!!Delhi!110059",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "sameer  chakraborty",
+      "name": "Abhishek  Chakraborty",
+      "num": "9990905121"
+    },
+    {
+      "aadhar": "487080720599",
+      "address": "S/O Qamrul Hasan Usmani!H no-482!2nd Floor!Zakir Nagar Jamia Nagar!South Delhi!Delhi!110025",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Qamrul Hasan Usmani",
+      "name": "Naved Sajid Usmani",
+      "num": "9990278168"
+    },
+    {
+      "aadhar": "901139751977",
+      "address": "!01!na!ghaziabadghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Yogi  Mehto",
+      "name": "Sudhir  Mehto",
+      "num": "9971995142"
+    },
+    {
+      "aadhar": "666762808344",
+      "address": "!01!na!ghaziabadghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9876543210",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Madan Lal",
+      "name": "Anil  Sharma",
+      "num": "9971846361"
+    }
+  ]
+}
