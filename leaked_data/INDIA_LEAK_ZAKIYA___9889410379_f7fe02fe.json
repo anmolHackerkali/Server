@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:24:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9889410379",
+  "records": [
+    {
+      "aadhar": "952448458865",
+      "address": " !181/16  Mashak Ganj!  Lucknow!Aminabad Park  Lucknow !LUCKNOW-LUCKNOW!UP!226018",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "MOHD  SHAFEEQ",
+      "name": "ZAKIYA  .",
+      "num": "9889410379"
+    },
+    {
+      "aadhar": "952448458865",
+      "address": " !181/16  Mashak Ganj!  Lucknow!Aminabad Park  Lucknow !LUCKNOW-LUCKNOW!UP!226018",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "MOHD  SHAFEEQ",
+      "name": "ZAKIYA  .",
+      "num": "9889410379"
+    },
+    {
+      "aadhar": "952448458865",
+      "address": "!3526!Mashak Ganj Lucknow!Mashak Ganj Lucknow!Aminabad Park Lucknow LUCKNOW!LUCKNOW!UTTAR PRADESH!226018",
+      "alt": "9889410379",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohd Shafeeq",
+      "name": "MS ZAKIYA ",
+      "num": "9889520926"
+    },
+    {
+      "aadhar": "952448458865",
+      "address": "!3526!Mashak Ganj Lucknow!Mashak Ganj Lucknow!Aminabad Park Lucknow LUCKNOW!LUCKNOW!UTTAR PRADESH!226018",
+      "alt": "9889410379",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohd Shafeeq",
+      "name": "MS ZAKIYA ",
+      "num": "9889520926"
+    }
+  ]
+}
