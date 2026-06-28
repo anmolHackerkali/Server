@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:35:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393689257",
+  "records": [
+    {
+      "aadhar": "907932575660",
+      "address": "s/o  ram piyare!21!kondra kondra!!kondra!kodra!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9026848090",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "6393689257"
+    },
+    {
+      "aadhar": "907932575660",
+      "address": "s/o  ram piyare!21!kondra kondra!!kondra!kodra!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9026848090",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "6393689257"
+    },
+    {
+      "aadhar": "907932575660",
+      "address": "!!21 kondra Kodra ambedkr nager!NA!tanda!Ambedkar Nagar Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "6393689257",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "9026848090"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Piyare!21!.!.!!Ambedkar Nagar!Ambedkar Nagar!224190",
+      "alt": "6393689257",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ram Piyare",
+      "name": "Sunil Verma",
+      "num": "8726689257"
+    },
+    {
+      "aadhar": "907932575660",
+      "address": "!!21 kondra Kodra ambedkr nager!NA!tanda!Ambedkar Nagar Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "6393689257",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram piyare",
+      "name": "sunil verma",
+      "num": "9026848090"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Piyare!21!.!.!!Ambedkar Nagar!Ambedkar Nagar!224190",
+      "alt": "6393689257",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ram Piyare",
+      "name": "Sunil Verma",
+      "num": "8726689257"
+    }
+  ]
+}
