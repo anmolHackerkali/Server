@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 11:33:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8601002224",
+  "records": [
+    {
+      "aadhar": "854748087723",
+      "address": "H NO 538KHA/17!LUCKNOW!MOH GOMTI VIHAR COLONY FAIJULLAGANJ GHAILA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RPSINGH",
+      "name": "SHIVAM SINGH",
+      "num": "8601002224"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd Ilham Siddiqui!B 341!INDIRA NAGAR!  Indira Nagar!Lucknow!Uttar Pradesh!226016",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohd Ilham Siddiqui",
+      "name": "Mohd Tariq Siddiqui",
+      "num": "8601002224"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd Ilham Siddiqui!B 341!INDIRA NAGAR!  Indira Nagar!Lucknow!Uttar Pradesh!226016",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohd Ilham Siddiqui",
+      "name": "Mohd Tariq Siddiqui",
+      "num": "8601002224"
+    }
+  ]
+}
