@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:34:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8840770249",
+  "records": [
+    {
+      "aadhar": "500041564298",
+      "address": "! 32!akdalla bhagwanpur tanda road!!heerapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9830415611",
+      "circle": "JIO UPE",
+      "email": "sanjaypal33483@gmail.com",
+      "fname": "Jheengur",
+      "name": "Vinod Kumar",
+      "num": "8840770249"
+    },
+    {
+      "aadhar": "500041564298",
+      "address": "! 32!akdalla bhagwanpur tanda road!!heerapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9830415611",
+      "circle": "JIO UPE",
+      "email": "sanjaypal33483@gmail.com",
+      "fname": "Jheengur",
+      "name": "Vinod Kumar",
+      "num": "8840770249"
+    }
+  ]
+}
