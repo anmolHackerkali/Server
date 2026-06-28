@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:47:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863689",
+  "records": [
+    {
+      "aadhar": "462005000000",
+      "address": "House No-6/103 Sector-2 Rajender Nagar Sahibabad Ghaziabad Near-budha Park Ghaziabad  Uttar Pradesh 201001! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dina Nath Chaubey",
+      "name": "Vikas  Chaubey",
+      "num": "9990863689"
+    },
+    {
+      "aadhar": "462005000000",
+      "address": "!House No6/103 Sector2 Rajender Nagar Sahibabad Ghaziabad Nearbudha Park Ghaziabad  Uttar Pradesh 201001!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dina Nath Chaubey",
+      "name": "Vikas  Chaubey",
+      "num": "9990863689"
+    },
+    {
+      "aadhar": "462004739287",
+      "address": "House No6/103 Sector2 Rajender Nagar Sahibabad Ghaziabad Nearbudha Park Ghaziabad  Uttar Pradesh 201001! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dina Nath Chaubey",
+      "name": "Vikas  Chaubey",
+      "num": "9990863689"
+    },
+    {
+      "aadhar": "462004739287",
+      "address": "House No6/103 Sector2 Rajender Nagar Sahibabad Ghaziabad Nearbudha Park Ghaziabad  Uttar Pradesh 201001! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dina Nath Chaubey",
+      "name": "Vikas  Chaubey",
+      "num": "9990863689"
+    }
+  ]
+}
