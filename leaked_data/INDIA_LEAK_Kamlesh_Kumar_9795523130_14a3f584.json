@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:32:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795523130",
+  "records": [
+    {
+      "aadhar": "652303091478",
+      "address": "!69!MISHRAULIYA CHHANGURPUR!prathmik vidyalay!tanda husainpur girant!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "shriram",
+      "name": "Kamlesh Kumar",
+      "num": "9795523130"
+    },
+    {
+      "aadhar": "652303091478",
+      "address": "!69!MISHRAULIYA CHHANGURPUR!prathmik vidyalay!tanda husainpur girant!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "shriram",
+      "name": "Kamlesh Kumar",
+      "num": "9795523130"
+    }
+  ]
+}
