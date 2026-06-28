@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 10:33:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388842334",
+  "records": [
+    {
+      "aadhar": "744295134502",
+      "address": "S/O  Nahar Singh!! Nadaura!NA!nagla bahadur!Nadaura Kaimganj Farrukhabad!NA!Uttar Pradesh!205302",
+      "alt": "7388842334",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nahar Singh",
+      "name": "Raju Singh",
+      "num": "9369846819"
+    },
+    {
+      "aadhar": "744295134502",
+      "address": "S/O  Nahar Singh!! Nadaura!NA!nagla bahadur!Nadaura Kaimganj Farrukhabad!NA!Uttar Pradesh!205302",
+      "alt": "7388842334",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nahar Singh",
+      "name": "Raju Singh",
+      "num": "9369846819"
+    }
+  ]
+}
