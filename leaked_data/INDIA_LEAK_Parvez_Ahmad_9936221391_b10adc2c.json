@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:55:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936221391",
+  "records": [
+    {
+      "aadhar": "625554742736",
+      "address": "!00!Mohalla Gadurhawa!!Balrampur!Balrampur!Balrampur!Uttar Pradesh!271201",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Afzal Ahmad",
+      "name": "Parvez Ahmad",
+      "num": "9936221391"
+    },
+    {
+      "aadhar": "625554742736",
+      "address": "!00!Mohalla Gadurhawa!!Balrampur!Balrampur!Balrampur!Uttar Pradesh!271201",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Afzal Ahmad",
+      "name": "Parvez Ahmad",
+      "num": "9936221391"
+    }
+  ]
+}
