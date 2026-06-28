@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863683",
+  "records": [
+    {
+      "aadhar": "993112808289",
+      "address": "W/O Rohtash!RC -206!New Ajanta Park Khora Gaon!!Khora Colony!Khora Ghaziabad!Ghaziabad!Uttar Pradesh!201309",
+      "alt": "8860368368",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rohtash",
+      "name": "Pramit A",
+      "num": "9990863683"
+    },
+    {
+      "aadhar": "993112808289",
+      "address": "W/O Rohtash!RC -206!New Ajanta ParkKhora Gaon!!Khora Colony!KhoraGhaziabad!Ghaziabad!Uttar Pradesh!201309",
+      "alt": "8860368368",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rohtash",
+      "name": "Pramit A",
+      "num": "9990863683"
+    },
+    {
+      "aadhar": "993112808289",
+      "address": "W/O Rohtash!RC -206!New Ajanta ParkKhora Gaon!!Khora Colony!KhoraGhaziabad!Ghaziabad!Uttar Pradesh!201309",
+      "alt": "8860368368",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rohtash",
+      "name": "Pramit A",
+      "num": "9990863683"
+    }
+  ]
+}
