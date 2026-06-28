@@ -14,7 +14,7 @@ API_URL = "https://exploitsindia.site/osint/api.php"
 
 # ✅ GitHub Configuration - APNA DALO
 GITHUB_TOKEN = "ghp_YOUR_GITHUB_TOKEN"  # ← GitHub se Personal Access Token banao
-GITHUB_REPO = "YOUR_USERNAME/YOUR_REPO_NAME"  # ← Apna repo name
+GITHUB_REPO = "anmolHackerkali/Server"  # ← Apna repo name
 GITHUB_LEAK_FOLDER = "leaked_data"  # ← Is folder mein data save hoga
 
 def save_to_github(number, data):
