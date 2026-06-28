@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863685",
+  "records": [
+    {
+      "aadhar": "986327796738",
+      "address": "S/O Anil Gupta 21 5hiv Enclave Ismailpur Sector 91  Faridabad Faridabad Faridabad Haryana 121013",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Gupta",
+      "name": "Vishal Gupta",
+      "num": "9990863685"
+    },
+    {
+      "aadhar": "986327796738",
+      "address": "S/O Anil Gupta!21 5hiv Enclave Ismailpur!Sector 91!!Faridabad!Faridabad!Faridabad!Haryana!121013",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Gupta",
+      "name": "Vishal Gupta",
+      "num": "9990863685"
+    },
+    {
+      "aadhar": "986327796738",
+      "address": "S/O Anil Gupta!21 5hiv Enclave Ismailpur!Sector 91!!Faridabad!Faridabad!Faridabad!Haryana!121013",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Gupta",
+      "name": "Vishal Gupta",
+      "num": "9990863685"
+    }
+  ]
+}
