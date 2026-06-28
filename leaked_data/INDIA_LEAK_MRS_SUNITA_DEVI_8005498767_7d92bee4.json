@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:33:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8005498767",
+  "records": [
+    {
+      "aadhar": "696656459084",
+      "address": "W/O RAM PRAKASH!25 ITAHIYA!25 ITAHIYAambedkar nagar!ambedkar nagar!dewhat Bariyawan AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224210",
+      "alt": "8347377172",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Prakash",
+      "name": "MRS. SUNITA DEVI",
+      "num": "8005498767"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Prakash!25!! itahiya Dewhat!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Prakash",
+      "name": "Abhishek",
+      "num": "8005498767"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Prakash!25!! itahiya Dewhat!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Prakash",
+      "name": "Abhishek",
+      "num": "8005498767"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Prakash!25!.!itahiya Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224210",
+      "alt": "8005498767",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "Abhishek ",
+      "num": "8418005836"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Prakash!25!.!itahiya Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224210",
+      "alt": "8005498767",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "Abhishek ",
+      "num": "8418005836"
+    }
+  ]
+}
