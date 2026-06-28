@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:48:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863681",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Jalaluddin!H-218!J J COLONY!  North West Delhi!!DELHI!North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Jalaluddin",
+      "name": "Aarif  ",
+      "num": "9990863681"
+    },
+    {
+      "aadhar": null,
+      "address": "48 C SAVITRI NAGAR !  !  ! DELHI ! Delhi ! 110001",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MUNSHI",
+      "name": "RAJINDER . GUPTA",
+      "num": "9990863681"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jalaluddin!H-218!J J COLONY!North West Delhi!!DELHI!North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Jalaluddin",
+      "name": "Aarif ",
+      "num": "9990863681"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jalaluddin!H-218!J J COLONY!North West Delhi!!DELHI!North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Jalaluddin",
+      "name": "Aarif ",
+      "num": "9990863681"
+    }
+  ]
+}
