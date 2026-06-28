@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:46:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863693",
+  "records": [
+    {
+      "aadhar": "454561120867",
+      "address": "!C-133/1 3RD FLOOR!0!!GAUTAM NAGAR Andrewsganj S.O Andrewsganj!Delhi!South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Chand Gupta",
+      "name": "Rajesh Kumar",
+      "num": "9990863693"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "!C-133/1 3RD FLOOR 0 GAUTAM NAGAR Andrewsganj S.O Andrewsganj  South Delhi Delhi Delhi 110049!!!!!!!",
+      "alt": "9990863693",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Ramesh Chand Gupta",
+      "name": "Rajesh  Kumar",
+      "num": "9990863693"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "!C-133/1 3RD FLOOR!0!!GAUTAM NAGAR Andrewsganj SO Andrewsganj!Delhi!South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Chand Gupta",
+      "name": "Rajesh Kumar",
+      "num": "9990863693"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "!C-133/1 3RD FLOOR!0!!GAUTAM NAGAR Andrewsganj SO Andrewsganj!Delhi!South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Chand Gupta",
+      "name": "Rajesh Kumar",
+      "num": "9990863693"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "!C-133/1 3RD FLOOR 0 GAUTAM NAGAR Andrewsganj S.O Andrewsganj  South Delhi Delhi Delhi 110049!!!!!!!",
+      "alt": "9990863693",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Ramesh Chand Gupta",
+      "name": "Rajesh  Kumar",
+      "num": "9990863693"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "S/O RAMESH CHAND!C-133/1!3RD FLOOR!GAUTAM NAGAR!GAUTAM NAGAR  Andrewsganj S.O!Andrewsganj S.O!South Delhi!Delhi!110049",
+      "alt": "9990863693",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "RAMESH CHAND",
+      "name": "Rajesh Kumar",
+      "num": "9315158694"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "S/O RAMESH CHAND!C-133/1!3RD FLOOR!GAUTAM NAGAR!GAUTAM NAGAR  Andrewsganj SO!Andrewsganj SO!South Delhi!Delhi!110049",
+      "alt": "9990863693",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "RAMESH CHAND",
+      "name": "Rajesh Kumar",
+      "num": "9315158694"
+    },
+    {
+      "aadhar": "454561120867",
+      "address": "S/O RAMESH CHAND!C-133/1!3RD FLOOR!GAUTAM NAGAR!GAUTAM NAGAR  Andrewsganj SO!Andrewsganj SO!South Delhi!Delhi!110049",
+      "alt": "9990863693",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "RAMESH CHAND",
+      "name": "Rajesh Kumar",
+      "num": "9315158694"
+    }
+  ]
+}
