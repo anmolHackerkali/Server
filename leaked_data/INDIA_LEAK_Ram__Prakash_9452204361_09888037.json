@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 09:48:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9452204361",
+  "records": [
+    {
+      "aadhar": "814112309233",
+      "address": "!516/9!paper mill collony!AA BB CC!chakkar purava nishatganj!Lucknow!!Uttar Pradesh!226006",
+      "alt": "7398053880",
+      "circle": "UP EAST",
+      "email": "shyamk915@gmail.com",
+      "fname": "Santram  ",
+      "name": "Ram  Prakash",
+      "num": "9452204361"
+    },
+    {
+      "aadhar": "814112309233",
+      "address": "!516/9!paper mill collony!AA BB CC!chakkar purava nishatganj!Lucknow!!Uttar Pradesh!226006",
+      "alt": "7398053880",
+      "circle": "UP EAST",
+      "email": "shyamk915@gmail.com",
+      "fname": "Santram  ",
+      "name": "Ram  Prakash",
+      "num": "9452204361"
+    }
+  ]
+}
