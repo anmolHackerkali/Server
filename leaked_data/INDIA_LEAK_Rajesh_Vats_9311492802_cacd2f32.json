@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 12:25:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9311492802",
+  "records": [
+    {
+      "aadhar": "653961862265",
+      "address": "S/O Charan Singh H NO- 141 Mundka  Mundka Delhi West Delhi Delhi 110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Charan Singh",
+      "name": "Rajesh Vats",
+      "num": "9311492802"
+    },
+    {
+      "aadhar": "653961862265",
+      "address": "S/O Charan Singh!H NO- 141!Mundka!!Mundka!Delhi!West Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Charan Singh",
+      "name": "Rajesh Vats",
+      "num": "9311492802"
+    },
+    {
+      "aadhar": "653961862265",
+      "address": "S/O Charan Singh!H NO- 141!Mundka!!Mundka!Delhi!West Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Charan Singh",
+      "name": "Rajesh Vats",
+      "num": "9311492802"
+    }
+  ]
+}
