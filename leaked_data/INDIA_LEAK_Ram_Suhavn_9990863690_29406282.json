@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-28 13:46:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990863690",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Harviansh!House No 688!Gali No 687!Ballabhghar   Faridabad FARIDABAD!!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9198344960",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Harivansh",
+      "name": "Ram Suhavn",
+      "num": "9990863690"
+    },
+    {
+      "aadhar": null,
+      "address": "Harviansh!House No 688!Gali No 687!Ballabhghar FaridabadFARIDABAD!!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9198344960",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Harivansh",
+      "name": "Ram Suhavn",
+      "num": "9990863690"
+    },
+    {
+      "aadhar": null,
+      "address": "Harviansh!House No 688!Gali No 687!Ballabhghar FaridabadFARIDABAD!!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "9198344960",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Harivansh",
+      "name": "Ram Suhavn",
+      "num": "9990863690"
+    }
+  ]
+}
