@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 03:22:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7972973731",
+  "records": [
+    {
+      "aadhar": "994116296381",
+      "address": "S/O  Fakruddin Jamadar! 5/1!!Mamadapur!Aland Taluk!Mamdapur Aland!Gulbarga!Karnataka!585302",
+      "alt": "7972973731",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Fakruddin Jamadar",
+      "name": "Isuf Ali",
+      "num": "8625809533"
+    }
+  ]
+}
