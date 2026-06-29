@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 15:28:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650197504",
+  "records": [
+    {
+      "aadhar": "209546801935",
+      "address": "!gali no 7 teacher colony h no b 14 samai pur!badli railway station!badli railway station!DelhiDelhi!Delhi!110042",
+      "alt": "8285733480",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Phool  Singh",
+      "name": "Vijaypal",
+      "num": "9650197504"
+    },
+    {
+      "aadhar": "209546801935",
+      "address": "!gali no 7 teacher colony h no b 14 samai pur!badli railway station!!badli railway station!AIRTEL DELHI!!AIRTEL DELHI!110042",
+      "alt": "8285733480",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Phool  Singh",
+      "name": "Vijaypal",
+      "num": "9650197504"
+    },
+    {
+      "aadhar": "209546801935",
+      "address": "!gali no 7 teacher colony h no b 14 samai pur!badli railway station!badli railway station!DelhiDelhi!Delhi!110042",
+      "alt": "8285733480",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Phool  Singh",
+      "name": "Vijaypal",
+      "num": "9650197504"
+    },
+    {
+      "aadhar": "209546801935",
+      "address": "!gali no 7 teacher colony h no b 14 samai pur!badli railway station!badli railway station!DelhiDelhi!Delhi!110042",
+      "alt": "8285733480",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Phool  Singh",
+      "name": "Vijaypal",
+      "num": "9650197504"
+    }
+  ]
+}
