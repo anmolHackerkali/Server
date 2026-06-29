@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 07:25:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7518591360",
+  "records": [
+    {
+      "aadhar": "UP6320200014029",
+      "address": "!4 111!nadgahana!dubar marg!POST NADAULI KARAUNDI lalganj!Mirzapur!Mirzapur!Uttar Pradesh!231211",
+      "alt": "9511197315",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vipra bhawan",
+      "name": "Suresh prasad",
+      "num": "7518591360"
+    },
+    {
+      "aadhar": "UP6320200014029",
+      "address": "!4 111!nadgahana!dubar marg!POST NADAULI KARAUNDI lalganj!Mirzapur!Mirzapur!Uttar Pradesh!231211",
+      "alt": "9511197315",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vipra bhawan",
+      "name": "Suresh prasad",
+      "num": "7518591360"
+    }
+  ]
+}
