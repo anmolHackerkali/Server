@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:05:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9151208587",
+  "records": [
+    {
+      "aadhar": "442419939937",
+      "address": "C/O Ramashish!2!Gram Aindalpur Gaura Mahmadpur!!Mohmmadpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": "8948127683",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramashish",
+      "name": "Achchhelal Yadav",
+      "num": "9151208587"
+    },
+    {
+      "aadhar": "442419939937",
+      "address": "C/O Ramashish!2!Gram Aindalpur Gaura Mahmadpur!!Mohmmadpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": "8948127683",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramashish",
+      "name": "Achchhelal Yadav",
+      "num": "9151208587"
+    },
+    {
+      "aadhar": null,
+      "address": "Nandlal!00!Aindalpur Post Gaura Mahmadpur!Jalalpur AMBEDKAR NAGAR!!AMBEDKAR NAGAR!UTTAR PRADESH!224155",
+      "alt": "9151208587",
+      "circle": null,
+      "email": null,
+      "fname": "D/O Nandlal",
+      "name": "Reshu Gaur",
+      "num": "9506818513"
+    },
+    {
+      "aadhar": null,
+      "address": "Nandlal!00!Aindalpur Post Gaura Mahmadpur!Jalalpur AMBEDKAR NAGAR!!AMBEDKAR NAGAR!UTTAR PRADESH!224155",
+      "alt": "9151208587",
+      "circle": null,
+      "email": null,
+      "fname": "D/O Nandlal",
+      "name": "Reshu Gaur",
+      "num": "9506818513"
+    }
+  ]
+}
