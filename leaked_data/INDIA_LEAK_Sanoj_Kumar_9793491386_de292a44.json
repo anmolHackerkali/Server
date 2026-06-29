@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:54:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9793491386",
+  "records": [
+    {
+      "aadhar": "666106608916",
+      "address": "S/O: Ram Prasad!tikriyan nath singh!!Bigahi!Gorakhpur!Uttar Pradesh!273212",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Prasad",
+      "name": "Sanoj Kumar",
+      "num": "9793491386"
+    },
+    {
+      "aadhar": "666106608916",
+      "address": "S/O: Ram Prasad!tikriyan nath singh!!Bigahi!Gorakhpur!Uttar Pradesh!273212",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Prasad",
+      "name": "Sanoj Kumar",
+      "num": "9793491386"
+    }
+  ]
+}
