@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:03:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9696234010",
+  "records": [
+    {
+      "aadhar": "949193292065",
+      "address": "W/O  Kamlesh Kumar!!Mishrouliya Chhangupur  Husainpur Girant  Husainpur Girant!NA!!Mishrouliya Chhangupur Tanda Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "7518951106",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kamlesh Kumar",
+      "name": "Sunita Devi",
+      "num": "9696234010"
+    },
+    {
+      "aadhar": "949193292065",
+      "address": "W/O  Kamlesh Kumar!!Mishrouliya Chhangupur  Husainpur Girant  Husainpur Girant!NA!!Mishrouliya Chhangupur Tanda Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "7518951106",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kamlesh Kumar",
+      "name": "Sunita Devi",
+      "num": "9696234010"
+    }
+  ]
+}
