@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:03:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9005693417",
+  "records": [
+    {
+      "aadhar": "544646166775",
+      "address": "S/O SAMIULLAH!GRAM SEMRAHANA TOLA SANGAL DEEP!SEMARAHANA TOLA!!SEMRAHNASIDDHARTHNAGAR!BASTI UP!UTTAR PRADESH!272208",
+      "alt": "9936190023",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Samiullah",
+      "name": "MR. VASIULLAH .",
+      "num": "9005693417"
+    },
+    {
+      "aadhar": "544646166775",
+      "address": "S/O SAMIULLAH!GRAM SEMRAHANA TOLA SANGAL DEEP!SEMARAHANA TOLA!!SEMRAHNA SIDDHARTHNAGAR!BASTI UP!UTTAR PRADESH!272208",
+      "alt": "9936190023",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Samiullah",
+      "name": "MR VASIULLAH ",
+      "num": "9005693417"
+    },
+    {
+      "aadhar": "544646166775",
+      "address": "S/O SAMIULLAH!GRAM SEMRAHANA TOLA SANGAL DEEP!SEMARAHANA TOLA!!SEMRAHNA SIDDHARTHNAGAR!BASTI UP!UTTAR PRADESH!272208",
+      "alt": "9936190023",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Samiullah",
+      "name": "MR VASIULLAH ",
+      "num": "9005693417"
+    }
+  ]
+}
