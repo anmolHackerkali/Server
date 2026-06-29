@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 05:20:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7307204285",
+  "records": [
+    {
+      "aadhar": "305328000456",
+      "address": "W/O  Rajeev Kumar!!Sugaon!Village Baghirua!Post Sugaon!Sugaon Bhogaon!Mainpuri!Uttar Pradesh!205247",
+      "alt": "9555580071",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajeev Kumar",
+      "name": "Avnish",
+      "num": "7307204285"
+    },
+    {
+      "aadhar": "305328000456",
+      "address": "W/O  Rajeev Kumar!!Sugaon!Village Baghirua!Post Sugaon!Sugaon Bhogaon!Mainpuri!Uttar Pradesh!205247",
+      "alt": "9555580071",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajeev Kumar",
+      "name": "Avnish",
+      "num": "7307204285"
+    }
+  ]
+}
