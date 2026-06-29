@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:33:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7654113474",
+  "records": [
+    {
+      "aadhar": "428622615570",
+      "address": "S/O Baldeo Rai! Q  No - B/2535!Dhurwa!!Sector-2 H E C  Colony!Dhurwa!Ranchi!Jharkhand!834004",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baldeo Rai",
+      "name": "Mukesh Kumar Rai",
+      "num": "7654113474"
+    },
+    {
+      "aadhar": "428622615570",
+      "address": "S/O Baldeo Rai! Q. No.- B/2535!Dhurwa!!Sector-2 H.E.C. Colony!Dhurwa!Ranchi!Jharkhand!834004",
+      "alt": "8709021660",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Baldeo Rai",
+      "name": "Mukesh Kumar Rai",
+      "num": "7654113474"
+    },
+    {
+      "aadhar": "428622615570",
+      "address": "S/O Baldeo Rai! Q. No.- B/2535!Dhurwa!!Sector-2 H.E.C. Colony!Dhurwa!Ranchi!Jharkhand!834004",
+      "alt": "8709021660",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Baldeo Rai",
+      "name": "Mukesh Kumar Rai",
+      "num": "7654113474"
+    }
+  ]
+}
