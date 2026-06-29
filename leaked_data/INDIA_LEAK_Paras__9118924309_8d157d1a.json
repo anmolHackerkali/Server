@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:57:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9118924309",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Dudhanath!.!Manikapar!Manikapar Gorakhpur!!Gorakhpur!UTTAR PRADESH!273404",
+      "alt": "9118924309",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Dudhanath",
+      "name": "Paras ",
+      "num": "7084019506"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Dudhanath!.!Manikapar!Manikapar Gorakhpur!!Gorakhpur!UTTAR PRADESH!273404",
+      "alt": "9118924309",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Dudhanath",
+      "name": "Paras ",
+      "num": "7084019506"
+    }
+  ]
+}
