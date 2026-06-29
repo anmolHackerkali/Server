@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:23:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200615943",
+  "records": [
+    {
+      "aadhar": "293409068413",
+      "address": "S/O Abdul Gaffar!! Khudna Rupaspur!Maheshwa Raybanna!Chandwa Korha Katihar!Bihar!854303",
+      "alt": "916206185974",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "6200615943"
+    },
+    {
+      "aadhar": "293409068413",
+      "address": "S/O Abdul Gaffar!! Khudna Rupaspur!Maheshwa Raybanna!Chandwa Korha Katihar!Bihar!854303",
+      "alt": "916206185974",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "6200615943"
+    },
+    {
+      "aadhar": "293409068413",
+      "address": "S/O Abdul Gaffar!! Khudna Rupaspur!Maheshwa Raybanna!Chandwa Korha Katihar!Bihar!854303",
+      "alt": "916206185974",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abdul Gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "6200615943"
+    },
+    {
+      "aadhar": "293409068413",
+      "address": "s/o abdul gaffar! word 13!maheshwa!!maheshwa raybanna!chandwa!katihar!Bihar!854303",
+      "alt": "6200615943",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "abdul gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "9341471062"
+    },
+    {
+      "aadhar": "293409068413",
+      "address": "s/o abdul gaffar! word 13!maheshwa!!maheshwa raybanna!chandwa!katihar!Bihar!854303",
+      "alt": "6200615943",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "abdul gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "9341471062"
+    },
+    {
+      "aadhar": "293409068413",
+      "address": "s/o abdul gaffar! word 13!maheshwa!!maheshwa raybanna!chandwa!katihar!Bihar!854303",
+      "alt": "6200615943",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "abdul gaffar",
+      "name": "Mohammad Mashkoor Alam",
+      "num": "9341471062"
+    }
+  ]
+}
