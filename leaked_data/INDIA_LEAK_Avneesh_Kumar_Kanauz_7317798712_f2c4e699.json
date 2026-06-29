@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:06:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7317798712",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx3507",
+      "address": "S/O Ved Prakash!VIVEKANAND NAGAR!!Sultanpur City!Sultanpur!Uttar Pradesh!228001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ved  Prakash",
+      "name": "Avneesh Kumar Kanauzia",
+      "num": "7317798712"
+    },
+    {
+      "aadhar": "xxxxxxxx3507",
+      "address": "S/O Ved Prakash!VIVEKANAND NAGAR!!Sultanpur City!Sultanpur!Uttar Pradesh!228001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ved  Prakash",
+      "name": "Avneesh Kumar Kanauzia",
+      "num": "7317798712"
+    }
+  ]
+}
