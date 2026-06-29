@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 10:04:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393072949",
+  "records": [
+    {
+      "aadhar": "929460102856",
+      "address": "S/O  Ram Bujhawan!!Vill-Katant Majeesha Bariyawan!ambedkar nagar!Post-Rampur Rampatti!Variyavan Akbarpur!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": "8423055170",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Bujhawan",
+      "name": "Ram Janam",
+      "num": "6393072949"
+    },
+    {
+      "aadhar": "929460102856",
+      "address": "S/O  Ram Bujhawan!!Vill-Katant Majeesha Bariyawan!ambedkar nagar!Post-Rampur Rampatti!Variyavan Akbarpur!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": "8423055170",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Bujhawan",
+      "name": "Ram Janam",
+      "num": "6393072949"
+    },
+    {
+      "aadhar": "656344651020",
+      "address": "S/O KAMTA!463!bariyawanbariyawan!bariyawan!majeesa rampur rampattiAMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224210",
+      "alt": "6393072949",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Kamta",
+      "name": "MR. CHANDRAKESH KUMAR",
+      "num": "9559726051"
+    },
+    {
+      "aadhar": "656344651020",
+      "address": "S/O KAMTA!463!bariyawan bariyawan!bariyawan!majeesa rampur rampatti AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224210",
+      "alt": "6393072949",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kamta",
+      "name": "MR CHANDRAKESH KUMAR",
+      "num": "9559726051"
+    },
+    {
+      "aadhar": "656344651020",
+      "address": "S/O KAMTA!463!bariyawan bariyawan!bariyawan!majeesa rampur rampatti AMBEDKAR NAGAR!AMBEDKAR NAGAR UP!UTTAR PRADESH!224210",
+      "alt": "6393072949",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kamta",
+      "name": "MR CHANDRAKESH KUMAR",
+      "num": "9559726051"
+    }
+  ]
+}
