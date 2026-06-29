@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:29:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918912227",
+  "records": [
+    {
+      "aadhar": "251395673233",
+      "address": "S/O  Chedilal!!206  Husainpur Girant!gram muhammadpur sabookpur!Akdalla Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918009659971",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chedilal",
+      "name": "Rajesh Kumar",
+      "num": "9918912227"
+    },
+    {
+      "aadhar": "251395673233",
+      "address": "S/O  Chedilal!!206  Husainpur Girant!gram muhammadpur sabookpur!Akdalla Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918009659971",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chedilal",
+      "name": "Rajesh Kumar",
+      "num": "9918912227"
+    },
+    {
+      "aadhar": "251395673233",
+      "address": " !206!gram muhammadpur sabookpur    City/District: Ambedkar Nagar State Uttar Pra! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9918912227",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Chedilal",
+      "name": "Rajesh Kumar",
+      "num": "9838853380"
+    },
+    {
+      "aadhar": "251395673233",
+      "address": " !206!gram muhammadpur sabookpur    City/District: Ambedkar Nagar State Uttar Pra! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9918912227",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Chedilal",
+      "name": "Rajesh Kumar",
+      "num": "9838853380"
+    }
+  ]
+}
