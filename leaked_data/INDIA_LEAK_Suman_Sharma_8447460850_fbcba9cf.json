@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:25:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8447460850",
+  "records": [
+    {
+      "aadhar": "595806112447",
+      "address": "Heeralal Sharma!ward no 17!shahdol new bus stand road behind of mulla kabadi Sohagpur Shahdol Sohagpur Shahdol Madhya Pradesh!gurudarashan bhawan!Shahdol!Madhya Pradesh!484001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Heeralal Sharma",
+      "name": "Suman Sharma",
+      "num": "8447460850"
+    },
+    {
+      "aadhar": "595806112447",
+      "address": "Heeralal Sharma!ward no17!shahdol new bus stand road behind of mulla kabadi Sohagpur Shahdol Sohagpur Shahdol Madhya Pradesh!gurudarashan bhawan!Shahdol!Madhya Pradesh!484001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Heeralal Sharma",
+      "name": "SumanSharma",
+      "num": "8447460850"
+    },
+    {
+      "aadhar": "595806112447",
+      "address": "Heeralal Sharma!ward no17!shahdol new bus stand road behind of mulla kabadi Sohagpur Shahdol Sohagpur Shahdol Madhya Pradesh!gurudarashan bhawan!Shahdol!Madhya Pradesh!484001",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Heeralal Sharma",
+      "name": "SumanSharma",
+      "num": "8447460850"
+    }
+  ]
+}
