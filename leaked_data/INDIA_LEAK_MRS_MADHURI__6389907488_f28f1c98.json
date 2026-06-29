@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:30:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6389907488",
+  "records": [
+    {
+      "aadhar": "825097467751",
+      "address": "!baranv!gonda!!mohammadpur!GONDA!UTTAR PRADESH!271502",
+      "alt": "6388013132",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "jjnanendra kumar",
+      "name": "MRS. MADHURI .",
+      "num": "6389907488"
+    },
+    {
+      "aadhar": "825097467751",
+      "address": "!baranv!gonda!!mohammadpur!GONDA!UTTAR PRADESH!271502",
+      "alt": "6388013132",
+      "circle": "UPE",
+      "email": null,
+      "fname": "jjnanendra kumar",
+      "name": "MRS MADHURI ",
+      "num": "6389907488"
+    },
+    {
+      "aadhar": "825097467751",
+      "address": "!baranv!gonda!!mohammadpur!GONDA!UTTAR PRADESH!271502",
+      "alt": "6388013132",
+      "circle": "UPE",
+      "email": null,
+      "fname": "jjnanendra kumar",
+      "name": "MRS MADHURI ",
+      "num": "6389907488"
+    }
+  ]
+}
