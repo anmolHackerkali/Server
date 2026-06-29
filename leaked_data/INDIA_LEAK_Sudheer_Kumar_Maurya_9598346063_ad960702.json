@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 03:47:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9598346063",
+  "records": [
+    {
+      "aadhar": "201134822040",
+      "address": "s/o  harikesh maurya!!Ramchaura!!ramchaura!badshahpur Campierganj!gorakhpur!Uttar Pradesh!273158",
+      "alt": "7376183783",
+      "circle": "JIO UPE",
+      "email": "SUDHEER9598346063@GMAIL.COM",
+      "fname": "harikesh maurya",
+      "name": "Sudheer Kumar Maurya",
+      "num": "9598346063"
+    },
+    {
+      "aadhar": "201134822040",
+      "address": "s/o  harikesh maurya!!Ramchaura!!ramchaura!badshahpur Campierganj!gorakhpur!Uttar Pradesh!273158",
+      "alt": "7376183783",
+      "circle": "JIO UPE",
+      "email": "SUDHEER9598346063@GMAIL.COM",
+      "fname": "harikesh maurya",
+      "name": "Sudheer Kumar Maurya",
+      "num": "9598346063"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Harikesh Maurya!.!.!. Gorakhpur!!Gorakhpur!UTTAR PRADESH!273158",
+      "alt": "9598346063",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Harikesh Maurya",
+      "name": "Sudheer Kumar Maurya",
+      "num": "7398053942"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Harikesh Maurya!.!.!. Gorakhpur!!Gorakhpur!UTTAR PRADESH!273158",
+      "alt": "9598346063",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Harikesh Maurya",
+      "name": "Sudheer Kumar Maurya",
+      "num": "7398053942"
+    }
+  ]
+}
