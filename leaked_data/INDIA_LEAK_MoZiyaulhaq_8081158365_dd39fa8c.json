@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 07:25:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8081158365",
+  "records": [
+    {
+      "aadhar": "948475244677",
+      "address": "Mo Bakridu!kota shiv pratap singh!Kota Shiv Pratap Singh PO!!Kota Shiv Pratap Singh Lalganj!Mirzapur!Mirzapur!Uttar Pradesh!231211",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mo Bakridu",
+      "name": "MoZiyaulhaq",
+      "num": "8081158365"
+    },
+    {
+      "aadhar": "948475244677",
+      "address": "Mo Bakridu!kota shiv pratap singh!Kota Shiv Pratap Singh PO!!Kota Shiv Pratap Singh Lalganj!Mirzapur!Mirzapur!Uttar Pradesh!231211",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mo Bakridu",
+      "name": "MoZiyaulhaq",
+      "num": "8081158365"
+    }
+  ]
+}
