@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:02:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7703056000",
+  "records": [
+    {
+      "aadhar": "909533756087",
+      "address": "S/O Bachcha Singh!203!Variyavan!!Ambedkar Nagar Bariyawan!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bachcha Singh",
+      "name": "Raj Kumar Singh",
+      "num": "7703056000"
+    },
+    {
+      "aadhar": "909533756087",
+      "address": "S/O Bachcha Singh!203!Variyavan!!Ambedkar Nagar Bariyawan!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224210",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bachcha Singh",
+      "name": "Raj Kumar Singh",
+      "num": "7703056000"
+    }
+  ]
+}
