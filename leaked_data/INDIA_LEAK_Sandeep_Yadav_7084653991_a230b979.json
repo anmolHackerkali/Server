@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 05:22:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7084653991",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ramakant Yadav!.!. bhairopur!chauriya Deoria!bhairopur!Deoria!UTTAR PRADESH!274705",
+      "alt": "7266008084",
+      "circle": null,
+      "email": null,
+      "fname": "S/O Ramakant Yadav",
+      "name": "Sandeep Yadav",
+      "num": "7084653991"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramakant Yadav!.!. bhairopur!chauriya Deoria!bhairopur!Deoria!UTTAR PRADESH!274705",
+      "alt": "7266008084",
+      "circle": null,
+      "email": null,
+      "fname": "S/O Ramakant Yadav",
+      "name": "Sandeep Yadav",
+      "num": "7084653991"
+    }
+  ]
+}
