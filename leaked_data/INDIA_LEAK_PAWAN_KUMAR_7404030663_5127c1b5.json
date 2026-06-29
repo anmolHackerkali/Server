@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:13:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7404030663",
+  "records": [
+    {
+      "aadhar": "815285569294",
+      "address": "S/O MURARI LAL!HOUSE N0 217 NEAR NIKKA KIRYANA STORE!VISHAVKARMA MOHLLA!!JAGADHRI!YAMUNA NAGAR!YAMUNANAGAR!HARYANA!135001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "MURARI LAL",
+      "name": "PAWAN KUMAR",
+      "num": "7404030663"
+    },
+    {
+      "aadhar": "815285569294",
+      "address": "HOUSE N0 217 NEAR NIKKA KIRYANA STORE VISHAVKARMA MOHLLA  JAGADHRI YAMUNA NAGAR YAMUNANAGAR HARYANA 135001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "MURARI LAL",
+      "name": "PAWAN KUMAR",
+      "num": "7404030663"
+    }
+  ]
+}
