@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:37:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9334610894",
+  "records": [
+    {
+      "aadhar": "313879800018",
+      "address": "w/o  lal bahadur singh!!Kudra!!sakrouli kudra!katharain Kochas!rohtas!Bihar!821108",
+      "alt": "8292647169",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "lal bahadur singh",
+      "name": "Urmila Devi",
+      "num": "9334610894"
+    },
+    {
+      "aadhar": "313879800018",
+      "address": "w/o  lal bahadur singh!!Kudra!!sakrouli kudra!katharain Kochas!rohtas!Bihar!821108",
+      "alt": "8292647169",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "lal bahadur singh",
+      "name": "Urmila Devi",
+      "num": "9334610894"
+    },
+    {
+      "aadhar": "313879800018",
+      "address": "w/o  lal bahadur singh!!Kudra!!sakrouli kudra!katharain Kochas!rohtas!Bihar!821108",
+      "alt": "8292647169",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "lal bahadur singh",
+      "name": "Urmila Devi",
+      "num": "9334610894"
+    }
+  ]
+}
