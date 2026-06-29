@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:22:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7858857524",
+  "records": [
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha! ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7061828597",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7858857524"
+    },
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha! ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7061828597",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7858857524"
+    },
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha! ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7061828597",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7858857524"
+    },
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha!ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7858857524",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7061828597"
+    },
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha!ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7858857524",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7061828597"
+    },
+    {
+      "aadhar": "495109982531",
+      "address": "s/o  ravindra jha!ward no 6!Ujiarpur!hawaspur!hawaspur ujiarpur!raepur Ujiarpur!samastipur!Bihar!848132",
+      "alt": "7858857524",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ravindra jha",
+      "name": "Suman Kumar",
+      "num": "7061828597"
+    }
+  ]
+}
