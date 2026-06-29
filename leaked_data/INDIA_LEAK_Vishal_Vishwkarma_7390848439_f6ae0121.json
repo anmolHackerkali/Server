@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 14:10:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7390848439",
+  "records": [
+    {
+      "aadhar": "642336014599",
+      "address": "S/O: Chandra Shekhar!71!!Mujahidpur Mujahid Pur!Ambedkar Nagar!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Chandra Shekhar",
+      "name": "Vishal Vishwkarma",
+      "num": "7390848439"
+    },
+    {
+      "aadhar": "642336014599",
+      "address": "S/O: Chandra Shekhar!71!!Mujahidpur Mujahid Pur!Ambedkar Nagar!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Chandra Shekhar",
+      "name": "Vishal Vishwkarma",
+      "num": "7390848439"
+    }
+  ]
+}
