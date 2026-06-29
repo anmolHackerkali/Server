@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:39:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7856957049",
+  "records": [
+    {
+      "aadhar": "483176315820",
+      "address": "w/o  hargen singh!!Kochas!Gram-chatra!gram-chatra post-kuchhila kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "7764009812",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "hargen singh",
+      "name": "Urmila Devi",
+      "num": "7856957049"
+    },
+    {
+      "aadhar": "483176315820",
+      "address": "w/o  hargen singh!!Kochas!Gram-chatra!gram-chatra post-kuchhila kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "7764009812",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "hargen singh",
+      "name": "Urmila Devi",
+      "num": "7856957049"
+    },
+    {
+      "aadhar": "483176315820",
+      "address": "w/o  hargen singh!!Kochas!Gram-chatra!gram-chatra post-kuchhila kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "7764009812",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "hargen singh",
+      "name": "Urmila Devi",
+      "num": "7856957049"
+    },
+    {
+      "aadhar": "506428003377",
+      "address": "S/O  Indrdev Singh! gram- bhagatganj!post- khuduru Kochas!thana dinara!!Bhagatganj Kochas!Rohtas!Bihar!821112",
+      "alt": "7856957049",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Indrdev Singh",
+      "name": "Kamala Singh",
+      "num": "9341553995"
+    },
+    {
+      "aadhar": "506428003377",
+      "address": "S/O  Indrdev Singh! gram- bhagatganj!post- khuduru Kochas!thana dinara!!Bhagatganj Kochas!Rohtas!Bihar!821112",
+      "alt": "7856957049",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Indrdev Singh",
+      "name": "Kamala Singh",
+      "num": "9341553995"
+    },
+    {
+      "aadhar": "506428003377",
+      "address": "S/O  Indrdev Singh! gram- bhagatganj!post- khuduru Kochas!thana dinara!!Bhagatganj Kochas!Rohtas!Bihar!821112",
+      "alt": "7856957049",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Indrdev Singh",
+      "name": "Kamala Singh",
+      "num": "9341553995"
+    }
+  ]
+}
