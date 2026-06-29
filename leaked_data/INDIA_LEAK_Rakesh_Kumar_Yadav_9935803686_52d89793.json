@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:55:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9935803686",
+  "records": [
+    {
+      "aadhar": "564963190101",
+      "address": "S/O Shivnarayan Yadav!gram - kaudiyara!post - birohi!Vijaipur!Mirzapur!Uttar Pradesh!231303",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shivnarayan Yadav",
+      "name": "Rakesh Kumar Yadav",
+      "num": "9935803686"
+    },
+    {
+      "aadhar": "564963190101",
+      "address": "S/O Shivnarayan Yadav!gram - kaudiyara!post - birohi!Vijaipur!Mirzapur!Uttar Pradesh!231303",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shivnarayan Yadav",
+      "name": "Rakesh Kumar Yadav",
+      "num": "9935803686"
+    }
+  ]
+}
