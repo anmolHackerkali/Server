@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:47:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9006606738",
+  "records": [
+    {
+      "aadhar": "717512738882",
+      "address": "S/O Sone Lal Ram!village-basadhiya!!post-basadhiya Basaria!!Samastipur!Bihar!848114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sone Lal Ram",
+      "name": "Fulo  Ram",
+      "num": "9006606738"
+    },
+    {
+      "aadhar": "717512738882",
+      "address": "S/O Sone Lal Ram!village-basadhiya!!post-basadhiya Basaria!!Samastipur!Bihar!848114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sone Lal Ram",
+      "name": "Fulo  Ram",
+      "num": "9006606738"
+    }
+  ]
+}
