@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:01:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9565794000",
+  "records": [
+    {
+      "aadhar": "479522912741",
+      "address": "S/O: Bachcha Singh!5!Gram-Amiyan Bavanpur!Post-Balya Jagdishpur Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Bachcha Singh",
+      "name": "Sandeep Kumar Singh",
+      "num": "9565794000"
+    },
+    {
+      "aadhar": "479522912741",
+      "address": "S/O: Bachcha Singh!5!Gram-Amiyan Bavanpur!Post-Balya Jagdishpur Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Bachcha Singh",
+      "name": "Sandeep Kumar Singh",
+      "num": "9565794000"
+    }
+  ]
+}
