@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 03:45:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8127193949",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Kishan!587/41!NAALGANJ I!sipri bazar - Jhansi!Jhansi!Uttar Pradesh!284003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Kishan",
+      "name": "Nishant Raikwar",
+      "num": "8127193949"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Kishan!587/41!NAALGANJ I!sipri bazar - Jhansi!Jhansi!Uttar Pradesh!284003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Kishan",
+      "name": "Nishant Raikwar",
+      "num": "8127193949"
+    }
+  ]
+}
