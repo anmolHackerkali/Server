@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:45:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9208684322",
+  "records": [
+    {
+      "aadhar": "637462457897",
+      "address": "S/O: Onkar Prasad Saxena!339/51  triveniganj  !naubasta!Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "8175959649",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Onkar Prasad Saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "9208684322"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "S/O: Onkar Prasad Saxena!339/51  triveniganj  !naubasta!Lucknow!Lucknow!Uttar Pradesh!226003",
+      "alt": "8175959649",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Onkar Prasad Saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "9208684322"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "!339/51  triveniganj  !naubasta!!lucknow!Lucknow!!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Onkar Prasad Saxena  ",
+      "name": "Bharat Bhushan Saxena",
+      "num": "7393011869"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "s/o  onkar prasad saxena! 339/51!naubasta Chowk!!triveniganj naubasta!lucknow Lucknow!lucknow!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "onkar prasad saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "7307091051"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "s/o  onkar prasad saxena! 339/51!naubasta Chowk!!triveniganj naubasta!lucknow Lucknow!lucknow!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "onkar prasad saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "6307823120"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "!339/51  triveniganj  !naubasta!!lucknow!Lucknow!!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Onkar Prasad Saxena  ",
+      "name": "Bharat Bhushan Saxena",
+      "num": "7393011869"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "s/o  onkar prasad saxena! 339/51!naubasta Chowk!!triveniganj naubasta!lucknow Lucknow!lucknow!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "onkar prasad saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "7307091051"
+    },
+    {
+      "aadhar": "637462457897",
+      "address": "s/o  onkar prasad saxena! 339/51!naubasta Chowk!!triveniganj naubasta!lucknow Lucknow!lucknow!Uttar Pradesh!226003",
+      "alt": "9208684322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "onkar prasad saxena",
+      "name": "Bharat Bhushan Saxena",
+      "num": "6307823120"
+    }
+  ]
+}
