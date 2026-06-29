@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:44:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7080757411",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!House No 34 Deepak Colony!Mewla Maharajpurnhpc colony!Sec 46FARIDABAD!nhpc colony!FARIDABAD NCR!FARIDABAD!HARYANA!121010",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Satish Kumar",
+      "name": "Abhishek ",
+      "num": "7080757411"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No 34 Deepak Colony!Mewla Maharajpurnhpc colony!Sec 46FARIDABAD!nhpc colony!FARIDABAD NCR!FARIDABAD!HARYANA!121010",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Satish Kumar",
+      "name": "Abhishek ",
+      "num": "7080757411"
+    }
+  ]
+}
