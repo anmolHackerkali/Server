@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 04:31:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9151230112",
+  "records": [
+    {
+      "aadhar": "292800456081",
+      "address": "!02!nooreislampur!bhadohi!nooreislampur!Sant Ravidas nagar!!Uttar Pradesh!221401",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "waseem ahmad ansari",
+      "name": "Shameem Ahmad ansari",
+      "num": "9151230112"
+    },
+    {
+      "aadhar": "292800456081",
+      "address": "!02!nooreislampur!bhadohi!nooreislampur!Sant Ravidas nagar!!Uttar Pradesh!221401",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "waseem ahmad ansari",
+      "name": "Shameem Ahmad ansari",
+      "num": "9151230112"
+    }
+  ]
+}
