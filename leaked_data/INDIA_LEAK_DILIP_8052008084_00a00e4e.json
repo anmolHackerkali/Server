@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 03:45:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052008084",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Vishva Nath!-!-!NAIKA CHAPARA  Naika Chhapra!Kushinagar!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vishva Nath",
+      "name": "DILIP",
+      "num": "8052008084"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Vishva Nath!-!-!NAIKA CHAPARA  Naika Chhapra!Kushinagar!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vishva Nath",
+      "name": "DILIP",
+      "num": "8052008084"
+    },
+    {
+      "aadhar": "416874701113",
+      "address": "!H N 44!naikachhapara!naikachhapara!kushinagar!Kushinagar!DEORIA!Uttar Pradesh!274206",
+      "alt": "8052008084",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "vishva nath",
+      "name": "DILIP",
+      "num": "8303228123"
+    },
+    {
+      "aadhar": "416874701113",
+      "address": "!H N 44!naikachhapara!naikachhapara!kushinagar!Kushinagar!DEORIA!Uttar Pradesh!274206",
+      "alt": "8052008084",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "vishva nath",
+      "name": "DILIP",
+      "num": "8303228123"
+    }
+  ]
+}
