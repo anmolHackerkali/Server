@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:35:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9415228034",
+  "records": [
+    {
+      "aadhar": "505932459748",
+      "address": "W/O Sajan Lal!216 Vill Mohammadpur Sabukpur Post Husainpur!Girant Tanda Ambedkar Nagar!!Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sajan Lal",
+      "name": "Arti Devi",
+      "num": "9415228034"
+    },
+    {
+      "aadhar": "505932459748",
+      "address": "W/O Sajan Lal!216 Vill Mohammadpur Sabukpur Post Husainpur!Girant Tanda Ambedkar Nagar!!Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sajan Lal",
+      "name": "Arti Devi",
+      "num": "9415228034"
+    },
+    {
+      "aadhar": "627571295558",
+      "address": "!!nulllmohammadpur sabukapurAkdallaTandaAmb!!Husain pur girant!TANDA!UTTAR PRADESH!224190",
+      "alt": "9415228034",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Hardeen",
+      "name": "MR. SUGREEM KUMAR",
+      "num": "9984233837"
+    },
+    {
+      "aadhar": "627571295558",
+      "address": "!!nullllmohammadpur sabukapurAkdallaTandaAmb!!Husain pur girant!TANDA!UTTAR PRADESH!224190",
+      "alt": "9415228034",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Hardeen",
+      "name": "MR. SUGREEM KUMAR",
+      "num": "9984233837"
+    },
+    {
+      "aadhar": "627571295558",
+      "address": "!!mohammadpur sabukapurAkdallaTandaAmb!!Husain pur girant!TANDA!UTTAR PRADESH!224190",
+      "alt": "9415228034",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hardeen",
+      "name": "MR SUGREEM KUMAR",
+      "num": "9984233837"
+    },
+    {
+      "aadhar": "755752622414",
+      "address": "!00!husainpur girant!!tanda ambedkar nagar!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "omprakesh",
+      "name": "Jayanti Prasad Tripathi",
+      "num": "9455184742"
+    },
+    {
+      "aadhar": "UP4520150005274",
+      "address": "!00!pipari vishunpur!prathmik vidyalay!hajalapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "bhaggal",
+      "name": "Santram",
+      "num": "9454471190"
+    },
+    {
+      "aadhar": "832799504919",
+      "address": "S/O  Sukhram! 29!Pura Chaubey Tanda!!Husainpur Girant!Tanda Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sukhram",
+      "name": "Ram Chandar",
+      "num": "6306065966"
+    },
+    {
+      "aadhar": "627571295558",
+      "address": "!!mohammadpur sabukapurAkdallaTandaAmb!!Husain pur girant!TANDA!UTTAR PRADESH!224190",
+      "alt": "9415228034",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hardeen",
+      "name": "MR SUGREEM KUMAR",
+      "num": "9984233837"
+    },
+    {
+      "aadhar": "755752622414",
+      "address": "!00!husainpur girant!!tanda ambedkar nagar!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "omprakesh",
+      "name": "Jayanti Prasad Tripathi",
+      "num": "9455184742"
+    },
+    {
+      "aadhar": "UP4520150005274",
+      "address": "!00!pipari vishunpur!prathmik vidyalay!hajalapur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "bhaggal",
+      "name": "Santram",
+      "num": "9454471190"
+    },
+    {
+      "aadhar": "832799504919",
+      "address": "S/O  Sukhram! 29!Pura Chaubey Tanda!!Husainpur Girant!Tanda Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9415228034",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sukhram",
+      "name": "Ram Chandar",
+      "num": "6306065966"
+    }
+  ]
+}
