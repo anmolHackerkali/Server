@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:00:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7705960000",
+  "records": [
+    {
+      "aadhar": "535815393148",
+      "address": "!00!amiya babanpur!AA CC!balya jagdeeshpur  Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9670150000",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "bachcha  singh",
+      "name": "pradeep kumar singh",
+      "num": "7705960000"
+    },
+    {
+      "aadhar": "535815393148",
+      "address": "!00!amiya babanpur!AA CC!balya jagdeeshpur  Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9670150000",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "bachcha  singh",
+      "name": "pradeep kumar singh",
+      "num": "7705960000"
+    },
+    {
+      "aadhar": "535815393148",
+      "address": "S/O  Bachcha Singh!gram amiya babanpur!post balya jagdeeshpur!Post-balya jagdeeshpur!amiya babanpur!Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7705960000",
+      "circle": "JIO UPE",
+      "email": "pradeepsinghamiya@gmail.com",
+      "fname": "Bachcha Singh",
+      "name": "Pradeep Kumar Singh",
+      "num": "9670150000"
+    },
+    {
+      "aadhar": "535815393148",
+      "address": "!0!AMIYA BABAN PUR!!Balya jagdeesh pur!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "7705960000",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bachcha singh",
+      "name": "Pradeep singh",
+      "num": "9170678483"
+    },
+    {
+      "aadhar": "535815393148",
+      "address": "S/O  Bachcha Singh!gram amiya babanpur!post balya jagdeeshpur!Post-balya jagdeeshpur!amiya babanpur!Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7705960000",
+      "circle": "JIO UPE",
+      "email": "pradeepsinghamiya@gmail.com",
+      "fname": "Bachcha Singh",
+      "name": "Pradeep Kumar Singh",
+      "num": "9670150000"
+    },
+    {
+      "aadhar": "535815393148",
+      "address": "!0!AMIYA BABAN PUR!!Balya jagdeesh pur!Ambedkar Nagar!!Uttar Pradesh!224190",
+      "alt": "7705960000",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bachcha singh",
+      "name": "Pradeep singh",
+      "num": "9170678483"
+    }
+  ]
+}
