@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 08:32:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061992376",
+  "records": [
+    {
+      "aadhar": "806775593890",
+      "address": "!!22 BACHRA!NA!VILLAGE BACHRA POST DARHA!Palamau Latehar!NA!Jharkhand!829202",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Maheshwar lal",
+      "name": "Gautam Kumar sinha",
+      "num": "7061992376"
+    },
+    {
+      "aadhar": "806775593890",
+      "address": "!!22 BACHRA!NA!VILLAGE BACHRA POST DARHA!Palamau Latehar!NA!Jharkhand!829202",
+      "alt": "7004865388",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Maheshwar lal",
+      "name": "Gautam Kumar sinha",
+      "num": "7061992376"
+    },
+    {
+      "aadhar": "806775593890",
+      "address": "!!22 BACHRA!NA!VILLAGE BACHRA POST DARHA!Palamau Latehar!NA!Jharkhand!829202",
+      "alt": "7004865388",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Maheshwar lal",
+      "name": "Gautam Kumar sinha",
+      "num": "7061992376"
+    }
+  ]
+}
