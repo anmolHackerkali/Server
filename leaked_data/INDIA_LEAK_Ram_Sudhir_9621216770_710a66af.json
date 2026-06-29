@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:25:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9621216770",
+  "records": [
+    {
+      "aadhar": "872504946928",
+      "address": "S/O  Vipat! 53!Balaiya Jagdishpur!!bharhan post balya jagdishpur!Bharha Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7052477516",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vipat",
+      "name": "Ram Sudhir",
+      "num": "9621216770"
+    },
+    {
+      "aadhar": "872504946928",
+      "address": "S/O  Vipat! 53!Balaiya Jagdishpur!!bharhan post balya jagdishpur!Bharha Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7052477516",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vipat",
+      "name": "Ram Sudhir",
+      "num": "9621216770"
+    }
+  ]
+}
