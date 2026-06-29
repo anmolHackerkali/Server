@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:27:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9198724555",
+  "records": [
+    {
+      "aadhar": "623230213772",
+      "address": "S/O  Bhogye!! Dhondhi!NA!udaymalpur!Dhodhi Laharpur Sitapur!NA!Uttar Pradesh!261207",
+      "alt": "9198724555",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhogye",
+      "name": "Hariram",
+      "num": "6388494184"
+    },
+    {
+      "aadhar": "623230213772",
+      "address": "S/O  Bhogye!! Dhondhi!NA!udaymalpur!Dhodhi Laharpur Sitapur!NA!Uttar Pradesh!261207",
+      "alt": "9198724555",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhogye",
+      "name": "Hariram",
+      "num": "6388494184"
+    }
+  ]
+}
