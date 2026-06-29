@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:51:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8877077117",
+  "records": [
+    {
+      "aadhar": "363866380149",
+      "address": " Nand Kumar Thakur Qtr No- P-43 New Forest Colony Doranda  Doranda-Ranchi-Ranchi Jharkhand 834002 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Nand Kumar Thakur ",
+      "name": " Gautam Kumar ",
+      "num": "8877077117"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Nand Kumar Thakur!!Qtr No- P-43 New Forest Colony!!Doranda Ranchi!Jharkhand!834002",
+      "alt": "919708942001",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nand Kumar Thakur",
+      "name": "Gautam Kumar",
+      "num": "8877077117"
+    },
+    {
+      "aadhar": "363866380149",
+      "address": " Nand Kumar Thakur Qtr No- P-43 New Forest Colony Doranda  Doranda-Ranchi-Ranchi Jharkhand 834002 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Nand Kumar Thakur ",
+      "name": " Gautam Kumar ",
+      "num": "8877077117"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Nand Kumar Thakur!!Qtr No- P-43 New Forest Colony!!Doranda Ranchi!Jharkhand!834002",
+      "alt": "919708942001",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nand Kumar Thakur",
+      "name": "Gautam Kumar",
+      "num": "8877077117"
+    }
+  ]
+}
