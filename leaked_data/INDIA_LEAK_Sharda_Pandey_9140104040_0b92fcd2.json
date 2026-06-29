@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:38:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140104040",
+  "records": [
+    {
+      "aadhar": "899737988103",
+      "address": "W/O: Manoj Pandey!!mishra colony!shuklaganj!Netuwa Unnao!Uttar Pradesh!209861",
+      "alt": "918052775624",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Manoj Pandey",
+      "name": "Sharda Pandey",
+      "num": "9140104040"
+    },
+    {
+      "aadhar": "899737988103",
+      "address": "W/O: Manoj Pandey!!mishra colony!shuklaganj!Netuwa Unnao!Uttar Pradesh!209861",
+      "alt": "918052775624",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Manoj Pandey",
+      "name": "Sharda Pandey",
+      "num": "9140104040"
+    },
+    {
+      "aadhar": "540890082467",
+      "address": "!!13/254 mishra colony shuklaganj netuwa!NA!unnao!Kanpur Moffusil Unnao!NA!Uttar Pradesh!209861",
+      "alt": "9140104040",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahabeer Prasad pandey",
+      "name": "Manoj kumar",
+      "num": "6392197916"
+    },
+    {
+      "aadhar": "540890082467",
+      "address": "!!13/254 mishra colony shuklaganj netuwa!NA!unnao!Kanpur Moffusil Unnao!NA!Uttar Pradesh!209861",
+      "alt": "9140104040",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahabeer Prasad pandey",
+      "name": "Manoj kumar",
+      "num": "6392197916"
+    }
+  ]
+}
