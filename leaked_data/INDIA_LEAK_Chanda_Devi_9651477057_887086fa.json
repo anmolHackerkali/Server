@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 13:45:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9651477057",
+  "records": [
+    {
+      "aadhar": "230149996739",
+      "address": "W/O: Shivpujan!tikariyanath singh Tikaria!!!Gorakhpur!Uttar Pradesh!273212",
+      "alt": "9695896110",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shivpujan",
+      "name": "Chanda Devi",
+      "num": "9651477057"
+    },
+    {
+      "aadhar": "230149996739",
+      "address": "W/O: Shivpujan!tikariyanath singh Tikaria!!!Gorakhpur!Uttar Pradesh!273212",
+      "alt": "9695896110",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shivpujan",
+      "name": "Chanda Devi",
+      "num": "9651477057"
+    }
+  ]
+}
