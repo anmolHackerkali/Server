@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 04:36:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918274835",
+  "records": [
+    {
+      "aadhar": "876153052229",
+      "address": "35!MOHAMMADPUR SABUKPUR TANDA!TANDA!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "RAM NARESH",
+      "name": "RAM JAGATPRAJAPATI",
+      "num": "9918274835"
+    },
+    {
+      "aadhar": "876153052229",
+      "address": "35!MOHAMMADPUR SABUKPUR TANDA!TANDA!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAM NARESH",
+      "name": "RAM JAGATPRAJAPATI",
+      "num": "9918274835"
+    },
+    {
+      "aadhar": "876153052229",
+      "address": "35!MOHAMMADPUR SABUKPUR TANDA!TANDA!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "RAM NARESH",
+      "name": "RAM JAGATPRAJAPATI",
+      "num": "9918274835"
+    }
+  ]
+}
