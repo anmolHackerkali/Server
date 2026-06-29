@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:28:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9621217628",
+  "records": [
+    {
+      "aadhar": "320213570859",
+      "address": "S/O: Fullar!76!!Bharhan post - Balya Jagdishpur Bharha!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Fullar",
+      "name": "Jay Prakash",
+      "num": "9621217628"
+    },
+    {
+      "aadhar": "320213570859",
+      "address": "S/O: Fullar!76!!Bharhan post - Balya Jagdishpur Bharha!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Fullar",
+      "name": "Jay Prakash",
+      "num": "9621217628"
+    },
+    {
+      "aadhar": "320213570859",
+      "address": "S/O  Fullar!!76 bharha Balaiya Jagdishpur!NA!Bharhan post - Balya Jagdishpur!Bharha Tanda Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "9621217628",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Fullar",
+      "name": "Jay Prakash",
+      "num": "9369129575"
+    },
+    {
+      "aadhar": "320213570859",
+      "address": "s/o  fullar! 76!BALAIYA JAGDISHPUR Balaiya Jagdishpur!bharhan post - balya jagdishpur!!bharha Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9621217628",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "fullar",
+      "name": "Jay Prakash",
+      "num": "8953674544"
+    },
+    {
+      "aadhar": "320213570859",
+      "address": "S/O  Fullar!!76 bharha Balaiya Jagdishpur!NA!Bharhan post - Balya Jagdishpur!Bharha Tanda Ambedkar Nagar!NA!Uttar Pradesh!224190",
+      "alt": "9621217628",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Fullar",
+      "name": "Jay Prakash",
+      "num": "9369129575"
+    },
+    {
+      "aadhar": "320213570859",
+      "address": "s/o  fullar! 76!BALAIYA JAGDISHPUR Balaiya Jagdishpur!bharhan post - balya jagdishpur!!bharha Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9621217628",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "fullar",
+      "name": "Jay Prakash",
+      "num": "8953674544"
+    }
+  ]
+}
