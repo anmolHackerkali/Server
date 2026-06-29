@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 15:31:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8448058518",
+  "records": [
+    {
+      "aadhar": "471576769549",
+      "address": "S/O Ram Pratap Dvivedi!House No - 90!! Samay Pur Siras Pur !North West DelhiNorth West Delhi!Delhi!110042",
+      "alt": "9891305304",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram Pratap Dvivedi",
+      "name": "Rajesh Kumar Dvivedi",
+      "num": "8448058518"
+    },
+    {
+      "aadhar": "471576769549",
+      "address": "S/O Ram Pratap Dvivedi!House No - 90!!!Samay PurSiras Pur!North West AIRTEL DELHI!!AIRTEL DELHI!110042",
+      "alt": "9891305304",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram Pratap Dvivedi",
+      "name": "Rajesh Kumar Dvivedi",
+      "num": "8448058518"
+    },
+    {
+      "aadhar": "471576769549",
+      "address": "S/O Ram Pratap Dvivedi!House No - 90!!Samay PurSiras Pur!North West DelhiNorth West Delhi!Delhi!110042",
+      "alt": "9891305304",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram Pratap Dvivedi",
+      "name": "Rajesh Kumar Dvivedi",
+      "num": "8448058518"
+    },
+    {
+      "aadhar": "471576769549",
+      "address": "S/O Ram Pratap Dvivedi!House No - 90!!Samay PurSiras Pur!North West DelhiNorth West Delhi!Delhi!110042",
+      "alt": "9891305304",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram Pratap Dvivedi",
+      "name": "Rajesh Kumar Dvivedi",
+      "num": "8448058518"
+    }
+  ]
+}
