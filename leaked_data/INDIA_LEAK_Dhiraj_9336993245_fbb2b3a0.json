@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 01:07:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336993245",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Radheyshyam!!!gram MUHAMMADPUR!Akdalla Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "916360735524",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Radheyshyam",
+      "name": "Dhiraj",
+      "num": "9336993245"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Radheyshyam!!!gram MUHAMMADPUR!Akdalla Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "916360735524",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Radheyshyam",
+      "name": "Dhiraj",
+      "num": "9336993245"
+    }
+  ]
+}
