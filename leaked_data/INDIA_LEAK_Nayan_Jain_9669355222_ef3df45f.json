@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:26:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9669355222",
+  "records": [
+    {
+      "aadhar": "961493994239",
+      "address": "S/O  Mohan Lal Jain!!1049 Dhamtari mittal narsing home ke samane!Dhamtari raipur road!Dhamtarim Dhamtari!Chhattisgarh!493773",
+      "alt": "918817404050",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Mohan Lal Jain",
+      "name": "Nayan Jain",
+      "num": "9669355222"
+    },
+    {
+      "aadhar": "781924850707",
+      "address": "C/O DWARIKA PRASAD SHARMA!HOUSE NO 161  WARD NO 09  MAHARAJ PARA!HOUSE NO 161  WARD NO 09  MAHARAJ PARA HOUSE NO 161  WARD NO 09  MAHARAJ PARA!HOUSE NO 161  WARD NO 09  MAHARAJ PARA!HOUSE NO 161  WARD",
+      "alt": "9669355222",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Dwarika Prasad Sharma",
+      "name": "MR GYANESHWAR SHARMA",
+      "num": "8959918437"
+    }
+  ]
+}
