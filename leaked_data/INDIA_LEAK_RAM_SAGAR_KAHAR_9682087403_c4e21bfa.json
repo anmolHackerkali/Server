@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:34:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9682087403",
+  "records": [
+    {
+      "aadhar": "372436457565",
+      "address": " !S/O Ram Lagan Kahar  Village Madaiya ( Lahua khurd)!Post Palhana!Lal Ganj (azamgarh)  Lalganj !NARSINGH PUR-AZAMGAR!UP!276202",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "RAM LAGAN KAHAR  ",
+      "name": "RAM SAGAR KAHAR",
+      "num": "9682087403"
+    },
+    {
+      "aadhar": "372436457565",
+      "address": " !S/O Ram Lagan Kahar  Village Madaiya ( Lahua khurd)!Post Palhana!Lal Ganj (azamgarh)  Lalganj !NARSINGH PUR-AZAMGAR!UP!276202",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "RAM LAGAN KAHAR  ",
+      "name": "RAM SAGAR KAHAR",
+      "num": "9682087403"
+    }
+  ]
+}
