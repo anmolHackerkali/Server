@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 15:30:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8922827987",
+  "records": [
+    {
+      "aadhar": "620601663350",
+      "address": "!25!kushbhauna post Kursaha Bisheshwarganj jila Bahraich!!Shrawasti!Bahraich!!Uttar Pradesh!271821",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hajari lala",
+      "name": "Dhan Lal",
+      "num": "8922827987"
+    },
+    {
+      "aadhar": "620601663350",
+      "address": "!25!kushbhauna post Kursaha Bisheshwarganj jila Bahraich!!Shrawasti!Bahraich!!Uttar Pradesh!271821",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hajari lala",
+      "name": "Dhan Lal",
+      "num": "8922827987"
+    }
+  ]
+}
