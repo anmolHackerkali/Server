@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 16:24:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7024720919",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " GANESH MANDIR ke PASS  ward 8 Balod Balod Chhattisgarh 491226  ",
+      "alt": null,
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Kachrulal  Jain ",
+      "name": " Nemichand  Jain ",
+      "num": "7024720919"
+    },
+    {
+      "aadhar": null,
+      "address": "  GANESH MANDIR ke PASS ward 8  Balod Balod  Chhattisgarh 491226  ",
+      "alt": "7024720919",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Nemichand Jain ",
+      "name": " SEEMA JAIN ",
+      "num": "8871699921"
+    },
+    {
+      "aadhar": null,
+      "address": "  12 GANESH MANDIR ke PASS Balod PO  ward 8 Balod Sanjaribalod Balod  Chhattisgarh 491226  ",
+      "alt": "7024720919",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Nemichand Jain ",
+      "name": " SEEMA JAIN ",
+      "num": "8871499921"
+    }
+  ]
+}
