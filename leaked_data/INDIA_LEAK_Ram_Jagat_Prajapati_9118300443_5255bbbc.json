@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 07:46:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9118300443",
+  "records": [
+    {
+      "aadhar": "876153052229",
+      "address": "S/O Ram Naresh!35!Gram mohammadpur sabukpur post husenapur girent!kali mata mandir!Tanda Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Naresh",
+      "name": "Ram Jagat Prajapati",
+      "num": "9118300443"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Ajay Kumar!193!.!Muhammadpur Sabukpur Post Husainpur Girant !!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9559656722",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Ajay Kumar",
+      "name": "Aman Prajapati",
+      "num": "9118300443"
+    },
+    {
+      "aadhar": "876153052229",
+      "address": "S/O Ram Naresh!35!Gram mohammadpur sabukpur post husenapur girent!kali mata mandir!Tanda Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Naresh",
+      "name": "Ram Jagat Prajapati",
+      "num": "9118300443"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Ajay Kumar!193!.!Muhammadpur Sabukpur Post Husainpur Girant !!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9559656722",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Ajay Kumar",
+      "name": "Aman Prajapati",
+      "num": "9118300443"
+    }
+  ]
+}
