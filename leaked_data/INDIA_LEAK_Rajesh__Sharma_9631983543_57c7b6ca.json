@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 17:26:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9631983543",
+  "records": [
+    {
+      "aadhar": "803879689606",
+      "address": "!Latraha!Panchayat Katraul Basant!Dighra!!Darbhanga Doghra Jale!Bihar!847302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bathu  Sharma",
+      "name": "Rajesh  Sharma",
+      "num": "9631983543"
+    },
+    {
+      "aadhar": "803879689606",
+      "address": "!Latraha!Panchayat Katraul Basant!Dighra!!Darbhanga Doghra Jale!Bihar!847302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bathu  Sharma",
+      "name": "Rajesh  Sharma",
+      "num": "9631983543"
+    }
+  ]
+}
