@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 14:01:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7880463232",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Jawahar Lal!!!  Gagehara Gulal Ganj!Rae Bareli!Uttar Pradesh!229406",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jawahar Lal",
+      "name": "Komal",
+      "num": "7880463232"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Jawahar Lal!!!  Gagehara Gulal Ganj!Rae Bareli!Uttar Pradesh!229406",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jawahar Lal",
+      "name": "Komal",
+      "num": "7880463232"
+    }
+  ]
+}
