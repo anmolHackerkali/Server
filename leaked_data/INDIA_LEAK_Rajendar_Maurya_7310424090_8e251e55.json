@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 05:23:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7310424090",
+  "records": [
+    {
+      "aadhar": "314187126294",
+      "address": " !kunjalgarh!     City/District: Gorakhpur State Uttar Pradesh! !GORAKHPUR!UTTAR PRADESH!273158",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Rampyare Maurya",
+      "name": "Rajendar Maurya",
+      "num": "7310424090"
+    },
+    {
+      "aadhar": "314187126294",
+      "address": " !kunjalgarh!     City/District: Gorakhpur State Uttar Pradesh! !GORAKHPUR!UTTAR PRADESH!273158",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Rampyare Maurya",
+      "name": "Rajendar Maurya",
+      "num": "7310424090"
+    }
+  ]
+}
