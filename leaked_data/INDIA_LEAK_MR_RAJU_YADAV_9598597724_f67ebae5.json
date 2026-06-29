@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:26:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9598597724",
+  "records": [
+    {
+      "aadhar": "864878831572",
+      "address": "125!SUBASH!KATTAURA 274202!274202!DEORIA GONDA!BALRAMPUR!UTTAR PRADESH!271202",
+      "alt": "9721817385",
+      "circle": "UPE",
+      "email": null,
+      "fname": "SUBASH",
+      "name": "MR RAJU YADAV",
+      "num": "9598597724"
+    },
+    {
+      "aadhar": "864878831572",
+      "address": "125!SUBASH!KATTAURA 274202!274202!DEORIA GONDA!BALRAMPUR!UTTAR PRADESH!271202",
+      "alt": "9721817385",
+      "circle": "UPE",
+      "email": null,
+      "fname": "SUBASH",
+      "name": "MR RAJU YADAV",
+      "num": "9598597724"
+    }
+  ]
+}
