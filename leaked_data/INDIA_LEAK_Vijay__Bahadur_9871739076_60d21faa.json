@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:41:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871739076",
+  "records": [
+    {
+      "aadhar": "420898707136",
+      "address": "!55!hari nagar!new basti ghukna Ghaziabad Ghaziabad GhaziabadGhaziabad!!Uttar Pradesh!201001",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Ramprasad",
+      "name": "Vijay  Bahadur",
+      "num": "9871739076"
+    },
+    {
+      "aadhar": "420898707136",
+      "address": "!55!hari nagar!new basti ghuknaGhaziabad GhaziabadGhaziabadGhaziabad!!Uttar Pradesh!201001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Vijay  Bahadur",
+      "num": "9871739076"
+    },
+    {
+      "aadhar": "420898707136",
+      "address": "!55!hari nagar!new basti ghuknaGhaziabad GhaziabadGhaziabadGhaziabad!!Uttar Pradesh!201001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Vijay  Bahadur",
+      "num": "9871739076"
+    },
+    {
+      "aadhar": "420898707136",
+      "address": "!house of 55!gali no 02 NEW BASTI GHUKNA!Suresh tyagi ka ghr!Hari nagar nai basti!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9871739076",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Vijay Bahadur",
+      "num": "9810404950"
+    },
+    {
+      "aadhar": "UP452011000728",
+      "address": "!house no 55!gali no 3!wine shop!hari nagar ghukna ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9871739076",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramu prasad",
+      "name": "vijay bahadur  ",
+      "num": "9910813711"
+    },
+    {
+      "aadhar": "UP452011000728",
+      "address": "!house no 55!gali no 3!wine shop!hari nagar ghukna ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9871739076",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramu prasad",
+      "name": "vijay bahadur  ",
+      "num": "9910813711"
+    },
+    {
+      "aadhar": "UP452011000728",
+      "address": "!house no 55!gali no 3!wine shop!hari nagar ghukna ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "9871739076",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramu prasad",
+      "name": "vijay bahadur  ",
+      "num": "9910813711"
+    }
+  ]
+}
