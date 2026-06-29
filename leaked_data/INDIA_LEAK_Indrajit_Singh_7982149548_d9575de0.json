@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:40:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7982149548",
+  "records": [
+    {
+      "aadhar": "570673119756",
+      "address": "!H No - 71!Sector 1 Block D!Rohini Nr Pole Star School!Delhi North North West!Delhi!110085",
+      "alt": "919650883225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagadish Prasad Sinh",
+      "name": "Indrajit Singh",
+      "num": "7982149548"
+    },
+    {
+      "aadhar": "570673119756",
+      "address": "!H No - 71!Sector 1 Block D!Rohini Nr Pole Star School!Delhi North North West!Delhi!110085",
+      "alt": "919650883225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagadish Prasad Sinh",
+      "name": "Indrajit Singh",
+      "num": "7982149548"
+    },
+    {
+      "aadhar": "570673119756",
+      "address": "!H No - 71!Sector 1 Block D!Rohini Nr Pole Star School!Delhi North North West!Delhi!110085",
+      "alt": "919650883225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagadish Prasad Sinh",
+      "name": "Indrajit Singh",
+      "num": "7982149548"
+    }
+  ]
+}
