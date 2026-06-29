@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 09:28:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9598182928",
+  "records": [
+    {
+      "aadhar": "302815066635",
+      "address": "S/O RAM KMSHN!DEV DH!DEV DHmander!mander!BAKHIRASANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272199",
+      "alt": "7571959552",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Krrishn",
+      "name": "MR. KANHIYA .",
+      "num": "9598182928"
+    },
+    {
+      "aadhar": "302815066635",
+      "address": "S/O RAM KMSHN!DEV DH!DEV DH mander!mander!BAKHIRA SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272199",
+      "alt": "7571959552",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Krrishn",
+      "name": "MR KANHIYA ",
+      "num": "9598182928"
+    },
+    {
+      "aadhar": "302815066635",
+      "address": "S/O RAM KMSHN!DEV DH!DEV DH mander!mander!BAKHIRA SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272199",
+      "alt": "7571959552",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Krrishn",
+      "name": "MR KANHIYA ",
+      "num": "9598182928"
+    }
+  ]
+}
