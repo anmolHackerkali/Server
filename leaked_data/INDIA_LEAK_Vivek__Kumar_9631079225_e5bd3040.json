@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 04:23:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9631079225",
+  "records": [
+    {
+      "aadhar": "285365365221",
+      "address": "S/O Surendra Singh!Dharampur!!!!Vaishali!Bihar!844111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Surendra  Singh",
+      "name": "Vivek  Kumar",
+      "num": "9631079225"
+    },
+    {
+      "aadhar": "285365365221",
+      "address": "S/O Surendra Singh!Dharampur!!!!Vaishali!Bihar!844111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Surendra  Singh",
+      "name": "Vivek  Kumar",
+      "num": "9631079225"
+    },
+    {
+      "aadhar": "285365365221",
+      "address": "! 00!kanakapura main road!!bannikuppe!Channapatna!Ramanagara!Karnataka!562112",
+      "alt": "9631079225",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Surendra singh",
+      "name": "Vivek Kumar",
+      "num": "9380891472"
+    }
+  ]
+}
