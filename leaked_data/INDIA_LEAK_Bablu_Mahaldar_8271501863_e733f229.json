@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 08:10:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8271501863",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Adhik Mahaldar!Ward- 07!Gram - alma!Thana - Dagarua!Panchayat - Teghra!Saura!Purnia!Bihar!854315",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Adhik Mahaldar",
+      "name": "Bablu Mahaldar",
+      "num": "8271501863"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Adhik Mahaldar!Ward- 07!Gram - alma!Thana - Dagarua!Panchayat - Teghra!Saura!Purnia!Bihar!854315",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Adhik Mahaldar",
+      "name": "Bablu Mahaldar",
+      "num": "8271501863"
+    }
+  ]
+}
