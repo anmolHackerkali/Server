@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 03:45:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8853737852",
+  "records": [
+    {
+      "aadhar": "482653494250",
+      "address": "S/O  Surendra Maurya!!Ramchaura!!kunjalgand!Badshahpur Campierganj!Gorakhpur!Uttar Pradesh!273158",
+      "alt": "8299305442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Surendra Maurya",
+      "name": "Prabhakar Maurya",
+      "num": "8853737852"
+    },
+    {
+      "aadhar": "482653494250",
+      "address": "S/O  Surendra Maurya!!Ramchaura!!kunjalgand!Badshahpur Campierganj!Gorakhpur!Uttar Pradesh!273158",
+      "alt": "8299305442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Surendra Maurya",
+      "name": "Prabhakar Maurya",
+      "num": "8853737852"
+    },
+    {
+      "aadhar": "482653494250",
+      "address": "s/o  surendra maurya! k21!kunjalgand badshahpur!!Campierganj!badshahpur!gorakhpur!Uttar Pradesh!273158",
+      "alt": "8853737852",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "surendra maurya",
+      "name": "Prabhakar Maurya",
+      "num": "9569529172"
+    },
+    {
+      "aadhar": "790583525820",
+      "address": "S/O  Nasir!!Ramchaura!!bharpurwa!Badshahpur Campierganj!Gorakhpur!Uttar Pradesh!273158",
+      "alt": "8853737852",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nasir",
+      "name": "Akbar",
+      "num": "8853952226"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Surendra Maurya!.!.!kunjalgand Gorakhpur!!Gorakhpur!UTTAR PRADESH!273158",
+      "alt": "8853737852",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Surendra Maurya",
+      "name": "Prabhakar Maurya",
+      "num": "8726737852"
+    },
+    {
+      "aadhar": "482653494250",
+      "address": "s/o  surendra maurya! k21!kunjalgand badshahpur!!Campierganj!badshahpur!gorakhpur!Uttar Pradesh!273158",
+      "alt": "8853737852",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "surendra maurya",
+      "name": "Prabhakar Maurya",
+      "num": "9569529172"
+    },
+    {
+      "aadhar": "790583525820",
+      "address": "S/O  Nasir!!Ramchaura!!bharpurwa!Badshahpur Campierganj!Gorakhpur!Uttar Pradesh!273158",
+      "alt": "8853737852",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nasir",
+      "name": "Akbar",
+      "num": "8853952226"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Surendra Maurya!.!.!kunjalgand Gorakhpur!!Gorakhpur!UTTAR PRADESH!273158",
+      "alt": "8853737852",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Surendra Maurya",
+      "name": "Prabhakar Maurya",
+      "num": "8726737852"
+    }
+  ]
+}
