@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 04:28:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8382982486",
+  "records": [
+    {
+      "aadhar": "707887764759",
+      "address": "!01!gram- naugaon/devipur!!post- nadini  nadini!Mirzapur!!Uttar Pradesh!231303",
+      "alt": "7905592327",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Durga Prasad",
+      "name": "Ram Prakash Tiwari",
+      "num": "8382982486"
+    },
+    {
+      "aadhar": "707887764759",
+      "address": "!01!gram- naugaon/devipur!!post- nadini  nadini!Mirzapur!!Uttar Pradesh!231303",
+      "alt": "7905592327",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Durga Prasad",
+      "name": "Ram Prakash Tiwari",
+      "num": "8382982486"
+    }
+  ]
+}
