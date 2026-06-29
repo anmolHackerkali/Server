@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 11:45:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204096953",
+  "records": [
+    {
+      "aadhar": "905268263084",
+      "address": "!!0 godda pathargama!NA!pathargama!Santhal Parganas Godda!NA!Jharkhand!814147",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ghaneshwar sah",
+      "name": "birendra kumar sah",
+      "num": "6204096953"
+    },
+    {
+      "aadhar": "905268263084",
+      "address": "!!0 godda pathargama!NA!pathargama!Santhal Parganas Godda!NA!Jharkhand!814147",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ghaneshwar sah",
+      "name": "birendra kumar sah",
+      "num": "6204096953"
+    },
+    {
+      "aadhar": "905268263084",
+      "address": "!!0 godda pathargama!NA!pathargama!Santhal Parganas Godda!NA!Jharkhand!814147",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ghaneshwar sah",
+      "name": "birendra kumar sah",
+      "num": "6204096953"
+    }
+  ]
+}
