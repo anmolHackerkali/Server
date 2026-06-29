@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-29 00:30:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6390138292",
+  "records": [
+    {
+      "aadhar": "475626192276",
+      "address": " !322!dashraicha    City/District: Ambedkar Nagar State Uttar Pradesh! !AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Lalta Prasad",
+      "name": "Bhagavan Deen",
+      "num": "6390138292"
+    },
+    {
+      "aadhar": "475626192276",
+      "address": " !322!dashraicha    City/District: Ambedkar Nagar State Uttar Pradesh! !AMBEDKAR NAGAR UP!UTTAR PRADESH!224129",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Lalta Prasad",
+      "name": "Bhagavan Deen",
+      "num": "6390138292"
+    }
+  ]
+}
