@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:20:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7897122241",
+  "records": [
+    {
+      "aadhar": "674419142214",
+      "address": "! na!paigaha TELA!!HANDIA tela khas!Allahabad!Allahabad!Uttar Pradesh!221502",
+      "alt": "9125368157",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sudhakarnath",
+      "name": "Ot Lal",
+      "num": "7897122241"
+    },
+    {
+      "aadhar": "674419142214",
+      "address": "! na!paigaha TELA!!HANDIA tela khas!Allahabad!Allahabad!Uttar Pradesh!221502",
+      "alt": "9125368157",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sudhakarnath",
+      "name": "Ot Lal",
+      "num": "7897122241"
+    }
+  ]
+}
