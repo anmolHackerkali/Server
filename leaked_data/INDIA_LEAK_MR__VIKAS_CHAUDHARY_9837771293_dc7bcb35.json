@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:10:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9837771293",
+  "records": [
+    {
+      "aadhar": "484425248967",
+      "address": "S/O  Bablu Chaudhary!GC 164!sector p6  near yatharth hospital!near yatharth hospital!Sector P6 Greater Noida GAUTAM BUDDHA NAGAR!GREATER NOIDA!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201308",
+      "alt": "9837771293",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "MR  VIKAS CHAUDHARY",
+      "num": "9821312150"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "S/O  Bablu Chaudhary!GC 164!sector p6  near yatharth hospital!near yatharth hospital!Sector P6 Greater Noida GAUTAM BUDDHA NAGAR!GREATER NOIDA!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201308",
+      "alt": "9837771293",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "MR  VIKAS CHAUDHARY",
+      "num": "9821312150"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "S/O: Bablu Chaudhary!GC 164!sector p6near yatharth hospital!near yatharth hospital!Sector P6 Greater NoidaGAUTAM BUDDHA NAGAR!GREATER NOIDA!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201308",
+      "alt": "9837771293",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "MR VIKAS CHAUDHARY",
+      "num": "9821312150"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "S/O: Bablu Chaudhary!GC 164!sector p6near yatharth hospital!near yatharth hospital!Sector P6 Greater NoidaGAUTAM BUDDHA NAGAR!GREATER NOIDA!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201308",
+      "alt": "9837771293",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "MR VIKAS CHAUDHARY",
+      "num": "9821312150"
+    }
+  ]
+}
