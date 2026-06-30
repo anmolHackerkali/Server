@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:25:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619813",
+  "records": [
+    {
+      "aadhar": "601381295320",
+      "address": "92!GAUHAR PATIYA KHATIMA U S NAGAR!khatima!KHATIMAUDHAM SINGH NAGAR!Uttarakhand!262308",
+      "alt": "+917037073215",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "BAHADUR SINGH",
+      "name": "LALIT KUMAR MEHTA",
+      "num": "8077619813"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kadori Lal!!!dhamna kachar!Bahuri Etawah!Uttar Pradesh!206131",
+      "alt": "918297343742",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kadori Lal",
+      "name": "Atar Singh",
+      "num": "8077619813"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kadori Lal!!!dhamna kachar!Bahuri Etawah!Uttar Pradesh!206131",
+      "alt": "918297343742",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kadori Lal",
+      "name": "Atar Singh",
+      "num": "8077619813"
+    },
+    {
+      "aadhar": "512239955131",
+      "address": "s/o  shivnath!!- Jagsora!post vijaypura!- narayanpura sakrauli!jagsora Etawah!etawah!Uttar Pradesh!206245",
+      "alt": "8077619813",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "shivnath",
+      "name": "Rahul",
+      "num": "8384863132"
+    },
+    {
+      "aadhar": "512239955131",
+      "address": "s/o  shivnath!!- Jagsora!post vijaypura!- narayanpura sakrauli!jagsora Etawah!etawah!Uttar Pradesh!206245",
+      "alt": "8077619813",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "shivnath",
+      "name": "Rahul",
+      "num": "8384863132"
+    }
+  ]
+}
