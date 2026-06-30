@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:08:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7696818290",
+  "records": [
+    {
+      "aadhar": "938906557833",
+      "address": "D/O SOM NATH!PADDI KHALSA!JALANDHAR!!JALANDHAR!KAPURTHALA!KAPURTHALA!PUNJAB!144632",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SOM NATH",
+      "name": "SUNAINA KAILEY",
+      "num": "7696818290"
+    },
+    {
+      "aadhar": "938906557833",
+      "address": "D/O SOM NATH!PADDI KHALSA!JALANDHAR!!JALANDHAR!KAPURTHALA!KAPURTHALA!PUNJAB!144632",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SOM NATH",
+      "name": "SUNAINA KAILEY",
+      "num": "7696818290"
+    }
+  ]
+}
