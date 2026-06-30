@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 09:46:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7522881659",
+  "records": [
+    {
+      "aadhar": "999717266855",
+      "address": "S/O Ramdarash Singh!ward no 10 balmikinagar!Kundwa Urf Dilipnagar!!Kushinagar Dalip Nagar!Natwalia!Deoria!Uttar Pradesh!274402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramdarash Singh",
+      "name": "Sunny Singh",
+      "num": "7522881659"
+    },
+    {
+      "aadhar": "999717266855",
+      "address": "S/O Ramdarash Singh!ward no 10 balmikinagar!Kundwa Urf Dilipnagar!!Kushinagar Dalip Nagar!Natwalia!Deoria!Uttar Pradesh!274402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramdarash Singh",
+      "name": "Sunny Singh",
+      "num": "7522881659"
+    }
+  ]
+}
