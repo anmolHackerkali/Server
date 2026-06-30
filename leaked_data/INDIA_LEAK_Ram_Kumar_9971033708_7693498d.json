@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:27:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971033708",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Dhanshyam!57!!!DabraGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dhanshyam",
+      "name": "Ram Kumar",
+      "num": "9971033708"
+    },
+    {
+      "aadhar": " 515261433224 ",
+      "address": "! S/O  Dhanshyam 57 ! Dabra ! NR TO PARK ! Maicha DadriNR TO PARK ! AJAYABPUR-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201310",
+      "alt": "9319310643",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DHANSHYAM  .",
+      "name": "RAM  KUMAR",
+      "num": "9971033708"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Dhanshyam!57!!!DabraGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dhanshyam",
+      "name": "Ram Kumar",
+      "num": "9971033708"
+    },
+    {
+      "aadhar": "515261433224",
+      "address": "! S/O  Dhanshyam 57 ! Dabra ! NR TO PARK ! Maicha DadriNR TO PARK ! AJAYABPUR-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201310",
+      "alt": "9319310643",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DHANSHYAM  ",
+      "name": "RAM  KUMAR",
+      "num": "9971033708"
+    },
+    {
+      "aadhar": "515261433224",
+      "address": "! S/O  Dhanshyam 57 ! Dabra ! NR TO PARK ! Maicha DadriNR TO PARK ! AJAYABPUR-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201310",
+      "alt": "9319310643",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DHANSHYAM  ",
+      "name": "RAM  KUMAR",
+      "num": "9971033708"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Dhanshyam!57!!!DabraGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dhanshyam",
+      "name": "Ram Kumar",
+      "num": "9971033708"
+    }
+  ]
+}
