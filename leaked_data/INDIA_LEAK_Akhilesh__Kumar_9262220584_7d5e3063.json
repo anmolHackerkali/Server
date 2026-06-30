@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 10:08:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9262220584",
+  "records": [
+    {
+      "aadhar": "866164192546",
+      "address": "!Fular Phular!!!!Vaishali Phular Mahua!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bipat  Paswan",
+      "name": "Akhilesh  Kumar",
+      "num": "9262220584"
+    },
+    {
+      "aadhar": "866164192546",
+      "address": "!Fular Phular!!!!Vaishali Phular Mahua!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bipat  Paswan",
+      "name": "Akhilesh  Kumar",
+      "num": "9262220584"
+    },
+    {
+      "aadhar": "866164192546",
+      "address": " fular Phular Phular Vaishali fular Phular Phular Vaishali  fular Phular Phular Vaishali  PHULAR-VAISHALI VAISHALI 844122 BR ",
+      "alt": "9262220584",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BIPAT  PASWAN ",
+      "name": " AKHILESH  KUMAR ",
+      "num": "9525059492"
+    },
+    {
+      "aadhar": "236571124572",
+      "address": " .!Phular!Phular!sherpur pyare!Vaishali!!Bihar!844122 ",
+      "alt": "9262220584",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Machhu  Paswan ",
+      "name": " Ashok  Paswan ",
+      "num": "8409292649"
+    },
+    {
+      "aadhar": "866164192546",
+      "address": " fular Phular Phular Vaishali fular Phular Phular Vaishali  fular Phular Phular Vaishali  PHULAR-VAISHALI VAISHALI 844122 BR ",
+      "alt": "9262220584",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BIPAT  PASWAN ",
+      "name": " AKHILESH  KUMAR ",
+      "num": "9525059492"
+    },
+    {
+      "aadhar": "236571124572",
+      "address": " .!Phular!Phular!sherpur pyare!Vaishali!!Bihar!844122 ",
+      "alt": "9262220584",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Machhu  Paswan ",
+      "name": " Ashok  Paswan ",
+      "num": "8409292649"
+    }
+  ]
+}
