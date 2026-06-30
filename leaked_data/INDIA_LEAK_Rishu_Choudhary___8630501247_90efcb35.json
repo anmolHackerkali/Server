@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:29:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8630501247",
+  "records": [
+    {
+      "aadhar": "408577950507",
+      "address": "D/O  Jeetandra Kumar!!Nali Husainpur!distt hapur!Nali HusainpurGhaziabadGhaziabad!Uttar Pradesh!245201",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jeetandra Kumar",
+      "name": "Rishu Choudhary  ",
+      "num": "8630501247"
+    },
+    {
+      "aadhar": "408577950507",
+      "address": "D/O  Jeetandra Kumar!! Nali Husainpur!distt hapur!Nali Husainpur Ghaziabad Ghaziabad!Uttar Pradesh!245201",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jeetandra Kumar",
+      "name": "Rishu Choudhary",
+      "num": "8630501247"
+    },
+    {
+      "aadhar": "408577950507",
+      "address": "D/O  Jeetandra Kumar!! Nali Husainpur!distt hapur!Nali Husainpur Ghaziabad Ghaziabad!Uttar Pradesh!245201",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jeetandra Kumar",
+      "name": "Rishu Choudhary",
+      "num": "8630501247"
+    }
+  ]
+}
