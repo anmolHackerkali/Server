@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:00:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9288888888",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!House No 378!Sec 40!Gurgaon GURGAON!!GURGAON!GURGAON!HARYANA!122001",
+      "alt": "9288888888",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rangilal",
+      "name": "Nagendra Prasad",
+      "num": "8929266486"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No 378!Sec 40!GurgaonGURGAON!!GURGAON!GURGAON!HARYANA!122001",
+      "alt": "9288888888",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rangilal",
+      "name": "Nagendra Prasad",
+      "num": "8929266486"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Md Ehsaah!Ward No- 12!Gram- Imilwa!  East Champaran!!ADAPUR!East Champaran!BIHAR!845301",
+      "alt": "9288888888",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "C/O  Md Ehsaah",
+      "name": "Md Tausif Ahmad",
+      "num": "8651293582"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jay Jay Ram Malakar!teghra ganj!nagar panchayat teghra ward no-14!thana-teghra Begusarai!ward no-14!BEGUSARAI!Begusarai!BIHAR!851133",
+      "alt": "9288888888",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Jay Jay Ram Malakar",
+      "name": "Bikash Kumar",
+      "num": "8051761207"
+    },
+    {
+      "aadhar": "925064232152",
+      "address": "Rohit Vas Karansagarkaransagar Karansagar Mehsana Gujarat 384212",
+      "alt": "9288888888",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Ratilal",
+      "name": "Harshadkumar Ratilal Solanki",
+      "num": "7383884020"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No 378!Sec 40!GurgaonGURGAON!!GURGAON!GURGAON!HARYANA!122001",
+      "alt": "9288888888",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rangilal",
+      "name": "Nagendra Prasad",
+      "num": "8929266486"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Md Ehsaah!Ward No- 12!Gram- Imilwa!  East Champaran!!ADAPUR!East Champaran!BIHAR!845301",
+      "alt": "9288888888",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "C/O  Md Ehsaah",
+      "name": "Md Tausif Ahmad",
+      "num": "8651293582"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jay Jay Ram Malakar!teghra ganj!nagar panchayat teghra ward no-14!thana-teghra Begusarai!ward no-14!BEGUSARAI!Begusarai!BIHAR!851133",
+      "alt": "9288888888",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Jay Jay Ram Malakar",
+      "name": "Bikash Kumar",
+      "num": "8051761207"
+    },
+    {
+      "aadhar": "925064232152",
+      "address": "Rohit Vas Karansagarkaransagar Karansagar Mehsana Gujarat 384212",
+      "alt": "9288888888",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Ratilal",
+      "name": "Harshadkumar Ratilal Solanki",
+      "num": "7383884020"
+    }
+  ]
+}
