@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:17:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9451343201",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Vishwakarma!301!.!Gram Baraiya Mafi Post Husenpur Girant Ambe!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Nandlal Vishwakarma",
+      "name": "Pranjal Vishwakarma",
+      "num": "9451343201"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Vishwakarma!301!.!Gram Baraiya Mafi Post Husenpur Girant Ambe!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Nandlal Vishwakarma",
+      "name": "Pranjal Vishwakarma",
+      "num": "9451343201"
+    },
+    {
+      "aadhar": "301578375272",
+      "address": "!300!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9451343201",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Indrajeet Chaursiya",
+      "name": "MR. SHISHIR CHAURSIYA",
+      "num": "9682876598"
+    },
+    {
+      "aadhar": "301578375272",
+      "address": "!300!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9451343201",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Indrajeet Chaursiya",
+      "name": "MR SHISHIR CHAURSIYA",
+      "num": "9682876598"
+    },
+    {
+      "aadhar": "301578375272",
+      "address": "!300!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!BARAIYA MAFEE HUSAINPUR GIRANT HUSAINPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9451343201",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Indrajeet Chaursiya",
+      "name": "MR SHISHIR CHAURSIYA",
+      "num": "9682876598"
+    }
+  ]
+}
