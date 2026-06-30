@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 15:10:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9117640184",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ramji Paswan!!!sherpur pyare!!Phular!Vaishali!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramji Paswan",
+      "name": "Shanbhu Kumar",
+      "num": "9117640184"
+    },
+    {
+      "aadhar": "356678549399",
+      "address": " S/O  Ramji Paswan S/O  Ramji Paswan sherpur pyare Phular  Vaishali  PHULAR-VAISHALI BR 844122 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAMJI PASWAN\t  ",
+      "name": " SHANBHU\tKUMAR ",
+      "num": "9117640184"
+    },
+    {
+      "aadhar": "356678549399",
+      "address": " S/O  Ramji Paswan S/O  Ramji Paswan sherpur pyare Phular  Vaishali  PHULAR-VAISHALI BR 844122 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAMJI PASWAN\t  ",
+      "name": " SHANBHU\tKUMAR ",
+      "num": "9117640184"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ramji Paswan!!!sherpur pyare!!Phular!Vaishali!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramji Paswan",
+      "name": "Shanbhu Kumar",
+      "num": "9117640184"
+    },
+    {
+      "aadhar": "356678549399",
+      "address": "S/O  Ramji Paswan!!Phular!!sherpur pyare!Phular Vaishali!Vaishali!Bihar!844122",
+      "alt": "9117640184",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramji Paswan",
+      "name": "Shanbhu Kumar",
+      "num": "9724270496"
+    }
+  ]
+}
