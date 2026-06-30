@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:30:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8076743701",
+  "records": [
+    {
+      "aadhar": "241994262100",
+      "address": "S/O Manoj Kumar!!!!SAINTHALI GAUTAM BUDDHA NAGAR!Uttar Pradesh!203207",
+      "alt": "919716331613",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Naveen Chaudhary",
+      "num": "8076743701"
+    },
+    {
+      "aadhar": "241994262100",
+      "address": "S/O Manoj Kumar!!!!SAINTHALI GAUTAM BUDDHA NAGAR!Uttar Pradesh!203207",
+      "alt": "919716331613",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Naveen Chaudhary",
+      "num": "8076743701"
+    },
+    {
+      "aadhar": "241994262100",
+      "address": "S/O Manoj Kumar!!!!SAINTHALI GAUTAM BUDDHA NAGAR!Uttar Pradesh!203207",
+      "alt": "919716331613",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Naveen Chaudhary",
+      "num": "8076743701"
+    }
+  ]
+}
