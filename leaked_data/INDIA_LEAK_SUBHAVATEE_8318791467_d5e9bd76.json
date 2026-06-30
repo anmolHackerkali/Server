@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:10:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8318791467",
+  "records": [
+    {
+      "aadhar": "547401943032",
+      "address": "S/O  Sudrashan Gupta!!- - KASIA Kasia!!Belwa Durga Rai Kasya Kushinagar!Uttar Pradesh!274402",
+      "alt": "919264915152",
+      "circle": "JIO UPE",
+      "email": "vinu.171999@gmail.com",
+      "fname": "Sudrashan Gupta",
+      "name": "SUBHAVATEE",
+      "num": "8318791467"
+    },
+    {
+      "aadhar": "547401943032",
+      "address": "S/O  Sudrashan Gupta!!- - KASIA Kasia!!Belwa Durga Rai Kasya Kushinagar!Uttar Pradesh!274402",
+      "alt": "919264915152",
+      "circle": "JIO UPE",
+      "email": "vinu.171999@gmail.com",
+      "fname": "Sudrashan Gupta",
+      "name": "SUBHAVATEE",
+      "num": "8318791467"
+    },
+    {
+      "aadhar": "317757912442",
+      "address": "S/O Ramayan Gupta!G-2/A-71 sethi enclave!Gali No 7!!mohan garden!New Delhi West!West!Delhi!110059",
+      "alt": "8318791467",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramayan Gupta",
+      "name": "Raju Gupta  ",
+      "num": "9354428030"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Sudrashan Gupta!-!- KASIA!. Kushinagar!KASIA!Kushinagar!UTTAR PRADESH!274402",
+      "alt": "8318791467",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Sudrashan Gupta",
+      "name": "Vinay Kumar",
+      "num": "8756379713"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Sudrashan Gupta!-!- KASIA!. Kushinagar!KASIA!Kushinagar!UTTAR PRADESH!274402",
+      "alt": "8318791467",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Sudrashan Gupta",
+      "name": "Vinay Kumar",
+      "num": "8756379713"
+    }
+  ]
+}
