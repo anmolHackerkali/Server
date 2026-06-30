@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:07:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956774731",
+  "records": [
+    {
+      "aadhar": "523415076359",
+      "address": "S/O RAMCHANDRA VISHWAKARM!301 VILL BARAIYAMAFI POST HUSAINPUR GIR!AMBEDKAR NAGAR!!Mohammadpur SabukpurAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ramchandra Vshwakarma",
+      "name": "MR. NANDALAL VISHWAKARMA",
+      "num": "9956774731"
+    },
+    {
+      "aadhar": "523415076359",
+      "address": "S/O RAMCHANDRA VISHWAKARM!301  VILL BARAIYAMAFI POST HUSAINPUR GIR!AMBEDKAR NAGAR !!Mohammadpur Sabukpur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramchandra Vshwakarma",
+      "name": "MR NANDALAL VISHWAKARMA",
+      "num": "9956774731"
+    },
+    {
+      "aadhar": "523415076359",
+      "address": "S/O RAMCHANDRA VISHWAKARM!301 VILL BARAIYAMAFI POST HUSAINPUR GIR!AMBEDKAR NAGAR!!Mohammadpur SabukpurAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ramchandra Vshwakarma",
+      "name": "MR. NANDALAL VISHWAKARMA",
+      "num": "9956774731"
+    },
+    {
+      "aadhar": "523415076359",
+      "address": "S/O RAMCHANDRA VISHWAKARM!301  VILL BARAIYAMAFI POST HUSAINPUR GIR!AMBEDKAR NAGAR !!Mohammadpur Sabukpur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455206150",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramchandra Vshwakarma",
+      "name": "MR NANDALAL VISHWAKARMA",
+      "num": "9956774731"
+    }
+  ]
+}
