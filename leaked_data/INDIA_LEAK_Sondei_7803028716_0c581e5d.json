@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:07:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7803028716",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O  Buti!!!!Deoda Bastar!Chhattisgarh!494224",
+      "alt": "919406021458",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Buti",
+      "name": "Sondei",
+      "num": "7803028716"
+    }
+  ]
+}
