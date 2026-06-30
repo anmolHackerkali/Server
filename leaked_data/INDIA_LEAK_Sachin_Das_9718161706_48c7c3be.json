@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:09:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9718161706",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Lalit!RC-222!!Vandana Enclave Khora Colony!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Lalit",
+      "name": "Sachin Das",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": " 703703054898 ",
+      "address": "S/O  Lalit ! RC-222 ! RC-222 !  ! Vandana Endlave Khora ColonyGAUTAM BUDDHA NAGAR ! NOIDA ! GAUTAM BUDDHA NAGAR ! UTTAR PRADESH ! 201301",
+      "alt": "9873204400",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Lalit",
+      "name": "MR. SACHIN DAS",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": " 703703054898 ",
+      "address": "S/O: Lalit ! RC-222 ! RC-222 !  ! Vandana Endlave Khora ColonyGAUTAM BUDDHA NAGAR ! NOIDA ! GAUTAM BUDDHA NAGAR ! UTTAR PRADESH ! 201301",
+      "alt": "9873204400",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Lalit",
+      "name": "MR SACHIN DAS",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Lalit!RC-222!!Vandana Enclave Khora Colony!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Lalit",
+      "name": "Sachin Das",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": " 703703054898 ",
+      "address": "S/O: Lalit ! RC-222 ! RC-222 !  ! Vandana Endlave Khora ColonyGAUTAM BUDDHA NAGAR ! NOIDA ! GAUTAM BUDDHA NAGAR ! UTTAR PRADESH ! 201301",
+      "alt": "9873204400",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Lalit",
+      "name": "MR SACHIN DAS",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Lalit!RC-222!!Vandana Enclave Khora Colony!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Lalit",
+      "name": "Sachin Das",
+      "num": "9718161706"
+    },
+    {
+      "aadhar": "824908520732",
+      "address": "W/O Pappu Ram!W/O Pappu Ram!C-65  J J COLONY SECTOR-15  BHARAT VIHAR!  POCKET-C!KAKRAULA-SOUTH WEST DELHI!DL!110078",
+      "alt": "9718161706",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "PAPPU RAM  ",
+      "name": "CHANDRA DEVI",
+      "num": "9210456513"
+    },
+    {
+      "aadhar": "824908520732",
+      "address": "W/O Pappu Ram!W/O Pappu Ram!C-65 J J COLONY SECTOR-15 BHARAT VIHAR!POCKET-C!KAKRAULA-SOUTH WEST DELHI!DL!110078",
+      "alt": "9718161706",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "PAPPU RAM ",
+      "name": "CHANDRADEVI",
+      "num": "9210456513"
+    },
+    {
+      "aadhar": "824908520732",
+      "address": "W/O Pappu Ram!W/O Pappu Ram!C-65 J J COLONY SECTOR-15 BHARAT VIHAR!POCKET-C!KAKRAULA-SOUTH WEST DELHI!DL!110078",
+      "alt": "9718161706",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "PAPPU RAM ",
+      "name": "CHANDRADEVI",
+      "num": "9210456513"
+    }
+  ]
+}
