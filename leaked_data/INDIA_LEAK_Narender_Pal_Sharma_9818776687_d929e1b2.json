@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:56:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818776687",
+  "records": [
+    {
+      "aadhar": "212398835808",
+      "address": "S/O Surat Singh!929!3!Near Shiv MandirBhood Colony Kheri Kalan 113!Faridabad!Haryana!121002",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Surat  Singh",
+      "name": "Narender Pal Sharma",
+      "num": "9818776687"
+    },
+    {
+      "aadhar": "212398835808",
+      "address": "S/O Surat Singh!929!3!Near Shiv MandirBhood ColonyKheri Kalan 113!Faridabad!Haryana!121002",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surat  Singh",
+      "name": "Narender Pal Sharma",
+      "num": "9818776687"
+    },
+    {
+      "aadhar": "212398835808",
+      "address": "S/O Surat Singh!929!3!Near Shiv MandirBhood ColonyKheri Kalan 113!Faridabad!Haryana!121002",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surat  Singh",
+      "name": "Narender Pal Sharma",
+      "num": "9818776687"
+    }
+  ]
+}
