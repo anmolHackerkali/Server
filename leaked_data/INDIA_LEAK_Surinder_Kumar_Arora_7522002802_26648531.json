@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:30:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7522002802",
+  "records": [
+    {
+      "aadhar": "855650818090",
+      "address": "!ae18!fgutpp!ntpc nochahaar!Rae Bareli!Uttar Pradesh!229406",
+      "alt": "9650994205",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babu Ram Arora",
+      "name": "Surinder Kumar Arora",
+      "num": "7522002802"
+    },
+    {
+      "aadhar": "855650818090",
+      "address": "!ae18!fgutpp!ntpc nochahaar!Rae Bareli!Uttar Pradesh!229406",
+      "alt": "9650994205",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babu Ram Arora",
+      "name": "Surinder Kumar Arora",
+      "num": "7522002802"
+    }
+  ]
+}
