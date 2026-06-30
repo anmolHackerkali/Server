@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:02:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6294250856",
+  "records": [
+    {
+      "aadhar": "980302030893",
+      "address": " S/O  Abdul Rafik Mondal!!Sadhanpur Uludanga!!!Gajbanda Amdanga!North 24 Parganas!West Bengal!743221 ",
+      "alt": "8274808485",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdul Rafik Mondal",
+      "name": "Tarikul Islam",
+      "num": "6294250856"
+    },
+    {
+      "aadhar": "980302030893",
+      "address": " S/O  Abdul Rafik Mondal!!Sadhanpur Uludanga!!!Gajbanda Amdanga!North 24 Parganas!West Bengal!743221 ",
+      "alt": "8274808485",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdul Rafik Mondal",
+      "name": "Tarikul Islam",
+      "num": "6294250856"
+    }
+  ]
+}
