@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:22:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7836905016",
+  "records": [
+    {
+      "aadhar": "402493405213",
+      "address": "D/O Mohan Lal!2075!mukim pura gnta ghar!gnta ghar!pnjabi basti NORTH DELHI!DELHI!NORTH DELHI!Delhi!110007",
+      "alt": "8377965643",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MS  RAKHI   ",
+      "num": "7836905016"
+    },
+    {
+      "aadhar": " 402493405213 ",
+      "address": "D/O Mohan Lal ! 2075 ! mukim puragnta ghar ! gnta ghar ! pnjabi bastiNORTH DELHI ! DELHI ! NORTH DELHI ! Delhi ! 110007",
+      "alt": "8377965643",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MS. RAKHI ..",
+      "num": "7836905016"
+    },
+    {
+      "aadhar": "402493405213",
+      "address": "D/O Mohan Lal!2075!mukim puragnta ghar!gnta ghar!pnjabi bastiNORTH DELHI!DELHI!NORTH DELHI!Delhi!110007",
+      "alt": "8377965643",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MS RAKHI ",
+      "num": "7836905016"
+    },
+    {
+      "aadhar": "402493405213",
+      "address": "D/O Mohan Lal!2075!mukim puragnta ghar!gnta ghar!pnjabi bastiNORTH DELHI!DELHI!NORTH DELHI!Delhi!110007",
+      "alt": "8377965643",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MS RAKHI ",
+      "num": "7836905016"
+    }
+  ]
+}
