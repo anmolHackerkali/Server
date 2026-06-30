@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:23:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958440031",
+  "records": [
+    {
+      "aadhar": "966948566483",
+      "address": "!548!haddo mohala!haddomadanpur khadar!Delhi!Delhi!110076",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sunder  Lal",
+      "name": "Lallu  Prasad",
+      "num": "9958440031"
+    },
+    {
+      "aadhar": "966948566483",
+      "address": "!548!haddo mohala!haddomadanpur khadar!Delhi!Delhi!110076",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sunder  Lal",
+      "name": "Lallu  Prasad",
+      "num": "9958440031"
+    },
+    {
+      "aadhar": "966948566483",
+      "address": "!548!haddo mohala!haddomadanpur khadar!Delhi!Delhi!110076",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sunder  Lal",
+      "name": "Lallu  Prasad",
+      "num": "9958440031"
+    },
+    {
+      "aadhar": null,
+      "address": "9218 NAYA BAZAR RAILWAY COLONY ! CENTRAL DELHI !  ! DELHI ! Delhi ! 110006",
+      "alt": "9958440031",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MANTU SAH",
+      "name": "MANISH KUMAR",
+      "num": "9540268955"
+    },
+    {
+      "aadhar": null,
+      "address": "9218 NAYA BAZAR RAILWAY COLONY ! CENTRAL DELHI !  ! DELHI ! Delhi ! 110006",
+      "alt": "9958440031",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MANTU SAH",
+      "name": "MANISH KUMAR",
+      "num": "9540268955"
+    },
+    {
+      "aadhar": null,
+      "address": "9218 NAYA BAZAR RAILWAY COLONY ! CENTRAL DELHI !  ! DELHI ! Delhi ! 110006",
+      "alt": "9958440031",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MANTU SAH",
+      "name": "MANISH KUMAR",
+      "num": "9540268955"
+    }
+  ]
+}
