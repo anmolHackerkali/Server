@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:05:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809161101",
+  "records": [
+    {
+      "aadhar": "337455879798",
+      "address": " Ward no-8!village- madhubani!Kumarkhand!po-israinkala Israin Kalan!Madhepura!Madhepura!Bihar!852112 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Hiranand Thakur ",
+      "name": " Amit Kumar ",
+      "num": "8809161101"
+    },
+    {
+      "aadhar": "337455879798",
+      "address": " Ward no-8!village- madhubani!Kumarkhand!po-israinkala Israin Kalan!Madhepura!Madhepura!Bihar!852112 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Hiranand Thakur ",
+      "name": " Amit Kumar ",
+      "num": "8809161101"
+    }
+  ]
+}
