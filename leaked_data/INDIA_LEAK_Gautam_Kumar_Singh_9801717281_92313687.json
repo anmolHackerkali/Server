@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:18:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801717281",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx9085",
+      "address": "S/O Mahadev Mandal!FAKIRACHAK!!FAKIRACHAK Murhan!!Bhagalpur!Bihar!813205",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mahadev  Mandal",
+      "name": "Gautam Kumar Singh",
+      "num": "9801717281"
+    },
+    {
+      "aadhar": "xxxxxxxx9085",
+      "address": "S/O Mahadev Mandal!FAKIRACHAK!!FAKIRACHAK Murhan!!Bhagalpur!Bihar!813205",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mahadev  Mandal",
+      "name": "Gautam Kumar Singh",
+      "num": "9801717281"
+    }
+  ]
+}
