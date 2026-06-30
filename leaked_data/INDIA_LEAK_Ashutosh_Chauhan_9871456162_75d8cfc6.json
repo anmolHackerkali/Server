@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:15:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871456162",
+  "records": [
+    {
+      "aadhar": "950355659418",
+      "address": "! B -50!loni dehat!shiv tempal!Indrapuri loni ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9871459512",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satayandra Kumar chauhan",
+      "name": "Ashutosh Chauhan",
+      "num": "9871456162"
+    },
+    {
+      "aadhar": "950355659418",
+      "address": "!B -50!loni dehat!shiv tempal!Indrapuri loni ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9871459512",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satayandra Kumar chauhan",
+      "name": "Ashutosh Chauhan",
+      "num": "9871456162"
+    },
+    {
+      "aadhar": "950355659418",
+      "address": "!B -50!loni dehat!shiv tempal!Indrapuri loni ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9871459512",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satayandra Kumar chauhan",
+      "name": "Ashutosh Chauhan",
+      "num": "9871456162"
+    }
+  ]
+}
