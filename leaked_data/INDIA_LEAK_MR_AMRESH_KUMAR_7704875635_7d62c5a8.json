@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:26:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7704875635",
+  "records": [
+    {
+      "aadhar": "993857440209",
+      "address": "!62!mihipurwa!!MIHINPUARWA MATEHI MATEHIBAHRAICH!BAHRAICH!UTTAR PRADESH!271855",
+      "alt": "7991298764",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajendra",
+      "name": "MR. AMRESH KUMAR",
+      "num": "7704875635"
+    },
+    {
+      "aadhar": "993857440209",
+      "address": "!62!mihipurwa!!MIHINPUARWA MATEHI MATEHI BAHRAICH!BAHRAICH!UTTAR PRADESH!271855",
+      "alt": "7991298764",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajendra",
+      "name": "MR AMRESH KUMAR",
+      "num": "7704875635"
+    },
+    {
+      "aadhar": "993857440209",
+      "address": "!62!mihipurwa!!MIHINPUARWA MATEHI MATEHIBAHRAICH!BAHRAICH!UTTAR PRADESH!271855",
+      "alt": "7991298764",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajendra",
+      "name": "MR. AMRESH KUMAR",
+      "num": "7704875635"
+    },
+    {
+      "aadhar": "993857440209",
+      "address": "!62!mihipurwa!!MIHINPUARWA MATEHI MATEHI BAHRAICH!BAHRAICH!UTTAR PRADESH!271855",
+      "alt": "7991298764",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajendra",
+      "name": "MR AMRESH KUMAR",
+      "num": "7704875635"
+    }
+  ]
+}
