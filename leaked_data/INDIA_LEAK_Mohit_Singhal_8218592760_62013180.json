@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:49:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8218592760",
+  "records": [
+    {
+      "aadhar": "398128251756",
+      "address": "S/O Anand Kumar!!150/14roadways bus stand!anand vihar!BulandshahrBulandshahar!Uttar Pradesh!203001",
+      "alt": "+919548938652",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Anand Kumar",
+      "name": "Mohit Singhal",
+      "num": "8218592760"
+    },
+    {
+      "aadhar": "398128251756",
+      "address": "S/O Anand Kumar!!150/14 roadways bus stand!anand vihar!Bulandshahr Bulandshahar!Uttar Pradesh!203001",
+      "alt": "919548938652",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anand Kumar",
+      "name": "Mohit Singhal",
+      "num": "8218592760"
+    },
+    {
+      "aadhar": "398128251756",
+      "address": "S/O Anand Kumar!!150/14 roadways bus stand!anand vihar!Bulandshahr Bulandshahar!Uttar Pradesh!203001",
+      "alt": "919548938652",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anand Kumar",
+      "name": "Mohit Singhal",
+      "num": "8218592760"
+    },
+    {
+      "aadhar": "XIK2361509",
+      "address": "!135 anand vihar 1!roadwaj bus stsnd!hanuman mandir!bulandshahr!Bulandshahar!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8218592760",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "anand kumar",
+      "name": "tanuj kumar singhal",
+      "num": "9897389189"
+    },
+    {
+      "aadhar": "XIK2361509",
+      "address": "!135 anand vihar 1!roadwaj bus stsnd!hanuman mandir!bulandshahr!Bulandshahar!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8218592760",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "anand kumar",
+      "name": "tanuj kumar singhal",
+      "num": "9897389189"
+    }
+  ]
+}
