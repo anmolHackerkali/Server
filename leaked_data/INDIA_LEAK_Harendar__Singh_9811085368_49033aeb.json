@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:52:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9811085368",
+  "records": [
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802  Amrapali Exotica!.!!Sector-50 NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": "Harendrasingh28@Gmail.Com",
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    },
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802 Amrapali Exotica Sector-50 Noida Nearr Ramagaya School Gautam Buddha Nagar Noida Gautam Buddha Nagar Uttar Pradesh 201301!!!!!!!",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    },
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802 Amrapali Exotica!!!Sector-50NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": "Harendrasingh28@Gmail.Com",
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    },
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802 Amrapali Exotica!!!Sector-50NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": "Harendrasingh28@Gmail.Com",
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    },
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802 Amrapali Exotica!!!Sector-50NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": "Harendrasingh28@Gmail.Com",
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    },
+    {
+      "aadhar": "270502484643",
+      "address": "!C-802 Amrapali Exotica!!!Sector-50NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9899305368",
+      "circle": "AIRTEL DELHI",
+      "email": "Harendrasingh28@Gmail.Com",
+      "fname": "Jahan Singh",
+      "name": "Harendar  Singh",
+      "num": "9811085368"
+    }
+  ]
+}
