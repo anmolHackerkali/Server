@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:32:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7280957654",
+  "records": [
+    {
+      "aadhar": "688703973137",
+      "address": " Ward No-01!Belari!!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Subhash Kumar Yadav ",
+      "name": " Amar Kumar ",
+      "num": "7280957654"
+    },
+    {
+      "aadhar": "688703973137",
+      "address": " Ward No-01!Belari!!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Subhash Kumar Yadav ",
+      "name": " Amar Kumar ",
+      "num": "7280957654"
+    },
+    {
+      "aadhar": "688703973137",
+      "address": " Ward No-01!Belari!!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Subhash Kumar Yadav ",
+      "name": " Amar Kumar ",
+      "num": "7280957654"
+    },
+    {
+      "aadhar": "688703973137",
+      "address": " Ward No-01!Belari!!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Subhash Kumar Yadav ",
+      "name": " Amar Kumar ",
+      "num": "7280957654"
+    }
+  ]
+}
