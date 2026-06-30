@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:24:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9517676477",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Lachheeram!!! parwanigaudhi Parwani Gauri!Bahraich!Uttar Pradesh!271855",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lachheeram",
+      "name": "Arjun",
+      "num": "9517676477"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Lachheeram!!! parwanigaudhi Parwani Gauri!Bahraich!Uttar Pradesh!271855",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lachheeram",
+      "name": "Arjun",
+      "num": "9517676477"
+    }
+  ]
+}
