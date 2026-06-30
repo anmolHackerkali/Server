@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:21:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8434365615",
+  "records": [
+    {
+      "aadhar": "674364003277",
+      "address": " .!VILLAGE KUTUBPUR POST CHASAID PS PATEPUR WARD 01 CHAK SAID!01 chaksaid!VILLAGE KUTUBPUR POST CHASAID PS PATEPUR WARD 01 CHAK SAID!Vaishali!!Bihar!844122 ",
+      "alt": "9661766908",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " devendra  singh ",
+      "name": " sunita  debi ",
+      "num": "8434365615"
+    },
+    {
+      "aadhar": "674364003277",
+      "address": " .!VILLAGE KUTUBPUR POST CHASAID PS PATEPUR WARD 01 CHAK SAID!01 chaksaid!VILLAGE KUTUBPUR POST CHASAID PS PATEPUR WARD 01 CHAK SAID!Vaishali!!Bihar!844122 ",
+      "alt": "9661766908",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " devendra  singh ",
+      "name": " sunita  debi ",
+      "num": "8434365615"
+    },
+    {
+      "aadhar": "843200872451",
+      "address": "s/o  pramod singh!!Chaksaid!gram chaksaid po chaksaid thana patepur!!chak said Patepur!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "pramod singh",
+      "name": "Munna Kumar",
+      "num": "9523074101"
+    },
+    {
+      "aadhar": "864025827516",
+      "address": "s/o birendra singh!!Chaksaid!!kutubpur mahua!chaksaid!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "birendra singh",
+      "name": "Raj Kumar Patel",
+      "num": "8809133731"
+    },
+    {
+      "aadhar": "549543662109",
+      "address": "s/o devendra singh! gram-kutubpur!post-chaksaid Mahuwa!!gram-kutubpur post-chaksaid thana-patepur mahuwa!kutubpur shahmal Goraul!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "devendra singh",
+      "name": "Dhirendra Kumar",
+      "num": "7631957733"
+    },
+    {
+      "aadhar": "843200872451",
+      "address": "s/o  pramod singh!!Chaksaid!gram chaksaid po chaksaid thana patepur!!chak said Patepur!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "pramod singh",
+      "name": "Munna Kumar",
+      "num": "9523074101"
+    },
+    {
+      "aadhar": "864025827516",
+      "address": "s/o birendra singh!!Chaksaid!!kutubpur mahua!chaksaid!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "birendra singh",
+      "name": "Raj Kumar Patel",
+      "num": "8809133731"
+    },
+    {
+      "aadhar": "549543662109",
+      "address": "s/o devendra singh! gram-kutubpur!post-chaksaid Mahuwa!!gram-kutubpur post-chaksaid thana-patepur mahuwa!kutubpur shahmal Goraul!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "devendra singh",
+      "name": "Dhirendra Kumar",
+      "num": "7631957733"
+    },
+    {
+      "aadhar": "843200872451",
+      "address": "s/o  pramod singh!!Chaksaid!gram chaksaid po chaksaid thana patepur!!chak said Patepur!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "pramod singh",
+      "name": "Munna Kumar",
+      "num": "9523074101"
+    },
+    {
+      "aadhar": "864025827516",
+      "address": "s/o birendra singh!!Chaksaid!!kutubpur mahua!chaksaid!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "birendra singh",
+      "name": "Raj Kumar Patel",
+      "num": "8809133731"
+    },
+    {
+      "aadhar": "549543662109",
+      "address": "s/o devendra singh! gram-kutubpur!post-chaksaid Mahuwa!!gram-kutubpur post-chaksaid thana-patepur mahuwa!kutubpur shahmal Goraul!vaishali!Bihar!844122",
+      "alt": "8434365615",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "devendra singh",
+      "name": "Dhirendra Kumar",
+      "num": "7631957733"
+    }
+  ]
+}
