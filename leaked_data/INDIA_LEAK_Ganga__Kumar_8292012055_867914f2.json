@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:31:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8292012055",
+  "records": [
+    {
+      "aadhar": "672008571733",
+      "address": "S/O Mahendra Yadav!Ward No-01!!Belari!!Madhepura!Bihar!852114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mahendra  Yadav",
+      "name": "Ganga  Kumar",
+      "num": "8292012055"
+    },
+    {
+      "aadhar": "672008571733",
+      "address": "S/O Mahendra Yadav!Ward No-01!!Belari!!Madhepura!Bihar!852114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mahendra  Yadav",
+      "name": "Ganga  Kumar",
+      "num": "8292012055"
+    }
+  ]
+}
