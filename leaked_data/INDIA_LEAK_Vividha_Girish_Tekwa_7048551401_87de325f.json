@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:19:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7048551401",
+  "records": [
+    {
+      "aadhar": "217233442732",
+      "address": "473/3 Sindhi Colony Opp Block No 27 A Sardarnagar Ahmedabad City Ahmedabad",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Girish",
+      "name": "Vividha Girish Tekwani",
+      "num": "7048551401"
+    },
+    {
+      "aadhar": "217233442732",
+      "address": "473/3 Sindhi Colony Opp Block No 27 A Sardarnagar Ahmedabad City Ahmedabad",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Girish",
+      "name": "Vividha Girish Tekwani",
+      "num": "7048551401"
+    }
+  ]
+}
