@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:06:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7285071153",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " mahili khadki kareli kareli gajera bharuch kareli gajera bharuch kareli gajera bharuch kareli BHARUCH BHARUCH BHARUCH Gujarat 391810 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  PATEL MUKESH BHAI ",
+      "num": "7285071153"
+    },
+    {
+      "aadhar": "877923736260",
+      "address": "S/O: Viththal Bhai!mahili khadki kareli kareli gajera bharuch!kareli gajera bharuch!kareli gajera bharuch!kareli BHARUCH!BHARUCH!BHARUCH!Gujarat!391810",
+      "alt": "7600548349",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Viththal Bhai",
+      "name": "MR PATEL MUKESH BHAI",
+      "num": "7285071153"
+    },
+    {
+      "aadhar": "877923736260",
+      "address": "S/O: Viththal Bhai!mahili khadki kareli kareli gajera bharuch!kareli gajera bharuch!kareli gajera bharuch!kareli BHARUCH!BHARUCH!BHARUCH!Gujarat!391810",
+      "alt": "7600548349",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Viththal Bhai",
+      "name": "MR PATEL MUKESH BHAI",
+      "num": "7285071153"
+    },
+    {
+      "aadhar": null,
+      "address": " mahili khadki kareli kareli gajera bharuch kareli gajera bharuch kareli gajera bharuch kareli BHARUCH BHARUCH BHARUCH Gujarat 391810 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  PATEL MUKESH BHAI ",
+      "num": "7285071153"
+    }
+  ]
+}
