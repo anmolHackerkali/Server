@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:38:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534492020",
+  "records": [
+    {
+      "aadhar": "631631991769",
+      "address": " 54 Gram bakasama!Baksama PO!po Bakasama thana goroul!Baksawan Vaishali!Hazipur!Vaishali!Bihar!844122 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Jivan Sah ",
+      "name": " Amarnath Sah ",
+      "num": "9534492020"
+    },
+    {
+      "aadhar": "631631991769",
+      "address": " 54 Gram bakasama!Baksama PO!po Bakasama thana goroul!Baksawan Vaishali!Hazipur!Vaishali!Bihar!844122 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Jivan Sah ",
+      "name": " Amarnath Sah ",
+      "num": "9534492020"
+    },
+    {
+      "aadhar": "631631991769",
+      "address": "!!81 baksama school!NA!Mahua!Vaishali Vaishali!NA!Bihar!844122",
+      "alt": "9534492020",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram jivan sah",
+      "name": "Amar Nath sah",
+      "num": "6205582558"
+    },
+    {
+      "aadhar": "631631991769",
+      "address": "!!81 baksama school!NA!Mahua!Vaishali Vaishali!NA!Bihar!844122",
+      "alt": "9534492020",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram jivan sah",
+      "name": "Amar Nath sah",
+      "num": "6205582558"
+    }
+  ]
+}
