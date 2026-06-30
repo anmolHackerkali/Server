@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:23:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906310084",
+  "records": [
+    {
+      "aadhar": "558136164625",
+      "address": "S/O: Ram Chandra Upadhyay!!MAKAN SANKHYA 458AVAS VIKAS!-!GadarpurUdham Singh Nagar!Uttarakhand!263152",
+      "alt": "+919897126198",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ram Chandra Upadhyay",
+      "name": "Prakash Narayan Upadhyay",
+      "num": "7906310084"
+    }
+  ]
+}
