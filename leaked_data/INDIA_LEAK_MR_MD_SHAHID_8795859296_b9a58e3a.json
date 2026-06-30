@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:24:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795859296",
+  "records": [
+    {
+      "aadhar": "798738191711",
+      "address": "0",
+      "alt": "7706859585",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Haidar Ali",
+      "name": "MR. MD SHAHID",
+      "num": "8795859296"
+    },
+    {
+      "aadhar": "798738191711",
+      "address": "S/O HAIDAR ALI!RASRA!MISSON ROAD MISSON ROAD MISSON ROAD mand!mandir!RASRA rasra BALLIA!BALLIA!UTTAR PRADESH!221712",
+      "alt": "7706859585",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Haidar Ali",
+      "name": "MR MD SHAHID",
+      "num": "8795859296"
+    },
+    {
+      "aadhar": "798738191711",
+      "address": "S/O HAIDAR ALI!RASRA!MISSON ROAD MISSON ROAD MISSON ROAD mand!mandir!RASRA rasra BALLIA!BALLIA!UTTAR PRADESH!221712",
+      "alt": "7706859585",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Haidar Ali",
+      "name": "MR MD SHAHID",
+      "num": "8795859296"
+    }
+  ]
+}
