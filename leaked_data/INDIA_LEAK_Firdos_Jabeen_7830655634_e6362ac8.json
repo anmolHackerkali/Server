@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:16:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7830655634",
+  "records": [
+    {
+      "aadhar": "894935467538",
+      "address": "!166!kazi wara!jama maszid!sikandrabad bulandshahr!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "nasir kadir",
+      "name": "Firdos Jabeen",
+      "num": "7830655634"
+    },
+    {
+      "aadhar": "894935467538",
+      "address": "!166!kazi wara!jama maszid!sikandrabad bulandshahr!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "nasir kadir",
+      "name": "Firdos Jabeen",
+      "num": "7830655634"
+    }
+  ]
+}
