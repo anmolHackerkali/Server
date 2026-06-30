@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:25:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417685172",
+  "records": [
+    {
+      "aadhar": "473190591359",
+      "address": "s/o keshav dev sharma!3/174 m.ig!sector 3!!sector 3!suhag nagar!firozabad!Uttar Pradesh!283203",
+      "alt": "9837085282",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "keshav dev sharma",
+      "name": "Devesh Sharma  ",
+      "num": "7417685172"
+    },
+    {
+      "aadhar": "473190591359",
+      "address": "s/o keshav dev sharma!3/174 m.ig!sector 3!!sector 3!suhag nagar!firozabad!Uttar Pradesh!283203",
+      "alt": "9837085282",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "keshav dev sharma",
+      "name": "Devesh Sharma",
+      "num": "7417685172"
+    },
+    {
+      "aadhar": "473190591359",
+      "address": "s/o keshav dev sharma!3/174 m.ig!sector 3!!sector 3!suhag nagar!firozabad!Uttar Pradesh!283203",
+      "alt": "9837085282",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "keshav dev sharma",
+      "name": "Devesh Sharma",
+      "num": "7417685172"
+    }
+  ]
+}
