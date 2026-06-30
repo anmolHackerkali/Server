@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:24:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7456873259",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " D/O Mustakeem!!!! mohallah raza colony!Kotwali Bijnor!!Uttar Pradesh!246764 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mustakeem ",
+      "name": " Shagufta ",
+      "num": "7456873259"
+    },
+    {
+      "aadhar": null,
+      "address": " D/O Mustakeem!!!! mohallah raza colony!Kotwali Bijnor!!Uttar Pradesh!246764 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mustakeem ",
+      "name": " Shagufta ",
+      "num": "7456873259"
+    },
+    {
+      "aadhar": null,
+      "address": "!Ho No 63!Gali No 04!Rashid Market Krishna Nagar EAST DELHI!!DELHI!EAST DELHI!Delhi!110051",
+      "alt": "7456873259",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Shafik Ahmad",
+      "name": "Afsar Alam",
+      "num": "9711672781"
+    },
+    {
+      "aadhar": null,
+      "address": "!Ho No 63!Gali No 04!Rashid Market Krishna NagarEAST DELHI!!DELHI!EAST DELHI!Delhi!110051",
+      "alt": "7456873259",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Shafik Ahmad",
+      "name": "Afsar Alam",
+      "num": "9711672781"
+    },
+    {
+      "aadhar": null,
+      "address": "!Ho No 63!Gali No 04!Rashid Market Krishna NagarEAST DELHI!!DELHI!EAST DELHI!Delhi!110051",
+      "alt": "7456873259",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Shafik Ahmad",
+      "name": "Afsar Alam",
+      "num": "9711672781"
+    }
+  ]
+}
