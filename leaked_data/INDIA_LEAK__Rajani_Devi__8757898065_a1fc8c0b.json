@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:31:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8757898065",
+  "records": [
+    {
+      "aadhar": "479952098653",
+      "address": " ward -11!bhandari!!po- bhandari Bhandari Bhandari Belsand!Sitamarhi!Sitamarhi!Bihar!843316 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Phekan Mahto ",
+      "name": " Rajani Devi ",
+      "num": "8757898065"
+    },
+    {
+      "aadhar": "479952098653",
+      "address": " ward -11!bhandari!!po- bhandari Bhandari Bhandari Belsand!Sitamarhi!Sitamarhi!Bihar!843316 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Phekan Mahto ",
+      "name": " Rajani Devi ",
+      "num": "8757898065"
+    }
+  ]
+}
