@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:33:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8889572456",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Chamaru Sinh!!104!!Chiwarakuta Mahasamund!Chhattisgarh!493558",
+      "alt": null,
+      "circle": "JIO MP",
+      "email": "ashut9592@gmail.com",
+      "fname": "Chamaru Sinh",
+      "name": "Rabisinh",
+      "num": "8889572456"
+    },
+    {
+      "aadhar": "974375952948",
+      "address": "!house no!Singhanpur!house no.!at- lakhanpali post- singhanpur singhanpur!lakhanpali Saraipali!mahasamund!Chhattisgarh!493558",
+      "alt": "8889572456",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "malikram patel",
+      "name": "Jai Malikram Patel",
+      "num": "9302294945"
+    },
+    {
+      "aadhar": "526365149059",
+      "address": "! 10!Kisdi!!kisdi!kusmisarar Saraipali!mahasamund!Chhattisgarh!493558",
+      "alt": "8889572456",
+      "circle": "JIO MP",
+      "email": "Sumantnayak890@gmail.com",
+      "fname": "janakramram nayak",
+      "name": "Sumant Janakram Nayak",
+      "num": "8966869970"
+    },
+    {
+      "aadhar": "251860220757",
+      "address": "!!Kendudhar!!mu.nunpani post-kendudhar!Nunpani Saraipali!Mahasamund!Chhattisgarh!493558",
+      "alt": "8889572456",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Sukhiram",
+      "name": "Kanhaiya Sukhiram Sarthi",
+      "num": "6265233783"
+    }
+  ]
+}
