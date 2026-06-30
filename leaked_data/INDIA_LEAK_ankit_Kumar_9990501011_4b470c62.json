@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:47:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990501011",
+  "records": [
+    {
+      "aadhar": "220012825370",
+      "address": "!!flat no -3 khasra no - 70/53 mangol pur kalan flat 3 mangol pur kalan rohini sect 7 Delhi!NA!rohini sector -7 north west delhi!Delhi North North West!NA!Delhi!110085",
+      "alt": "7289988640",
+      "circle": "JIO DELHI",
+      "email": "krsnownthought@gmail.com",
+      "fname": "ravindra Kumar",
+      "name": "ankit Kumar",
+      "num": "9990501011"
+    },
+    {
+      "aadhar": "220012825370",
+      "address": "!!flat no -3khasra no - 70/53 mangol pur kalanflat 3 mangol pur kalan rohini sect 7 Delhi!NA!rohini sector -7 north west delhi!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "7289988640",
+      "circle": "JIO DELHI",
+      "email": "krsnownthought@gmail.com",
+      "fname": "ravindra Kumar",
+      "name": "ankit Kumar",
+      "num": "9990501011"
+    },
+    {
+      "aadhar": "220012825370",
+      "address": "!!flat no -3khasra no - 70/53 mangol pur kalanflat 3 mangol pur kalan rohini sect 7 Delhi!NA!rohini sector -7 north west delhi!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "7289988640",
+      "circle": "JIO DELHI",
+      "email": "krsnownthought@gmail.com",
+      "fname": "ravindra Kumar",
+      "name": "ankit Kumar",
+      "num": "9990501011"
+    },
+    {
+      "aadhar": "220012825370",
+      "address": "!!Flat no. 3 Khasra no. 70/53 ROHINI SECTOR 7!NA!Mangol pur kalan!Delhi North North West!NA!Delhi!110085",
+      "alt": "9990501011",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Ankit Kumar",
+      "num": "7289988640"
+    },
+    {
+      "aadhar": "220012825370",
+      "address": "!!Flat no 3Khasra no 70/53 ROHINI SECTOR 7!NA!Mangol pur kalan!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "9990501011",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Ankit Kumar",
+      "num": "7289988640"
+    },
+    {
+      "aadhar": "220012825370",
+      "address": "!!Flat no 3Khasra no 70/53 ROHINI SECTOR 7!NA!Mangol pur kalan!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "9990501011",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Ankit Kumar",
+      "num": "7289988640"
+    }
+  ]
+}
