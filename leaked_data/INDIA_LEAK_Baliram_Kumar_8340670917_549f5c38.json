@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:55:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340670917",
+  "records": [
+    {
+      "aadhar": "845873025291",
+      "address": "S/O  Ramasare Sah!!!villagelakri dargah!LAKRI DARGAH SIWAN!Bihar!841438",
+      "alt": "918083466185",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramasare Sah",
+      "name": "Baliram Kumar",
+      "num": "8340670917"
+    },
+    {
+      "aadhar": "845873025291",
+      "address": "S/O  Ramasare Sah!!!villagelakri dargah!LAKRI DARGAH SIWAN!Bihar!841438",
+      "alt": "918083466185",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramasare Sah",
+      "name": "Baliram Kumar",
+      "num": "8340670917"
+    },
+    {
+      "aadhar": "845873025291",
+      "address": "S/O  Ramasare Sah!!!villagelakri dargah!LAKRI DARGAH SIWAN!Bihar!841438",
+      "alt": "918083466185",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramasare Sah",
+      "name": "Baliram Kumar",
+      "num": "8340670917"
+    }
+  ]
+}
