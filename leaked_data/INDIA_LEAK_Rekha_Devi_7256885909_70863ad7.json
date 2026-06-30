@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:09:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7256885909",
+  "records": [
+    {
+      "aadhar": "270191285226",
+      "address": "w/o  sarjan sah!!Karhatia Buzurg!!karhatia buzurg!paharpur Mahua!vaishali!Bihar!844122",
+      "alt": "8873804020",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sarjan sah",
+      "name": "Rekha Devi",
+      "num": "7256885909"
+    }
+  ]
+}
