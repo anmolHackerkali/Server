@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:16:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792204364",
+  "records": [
+    {
+      "aadhar": "682962881660",
+      "address": "Mohammad Shameem!56!Kichhauccha PO!!golpur Asharafpur Kichhauccha Akbarpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohammad Shameem",
+      "name": "Mohammad Kaleem",
+      "num": "9792204364"
+    },
+    {
+      "aadhar": "682962881660",
+      "address": "Mohammad Shameem!56!Kichhauccha PO!!golpur Asharafpur Kichhauccha Akbarpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224155",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohammad Shameem",
+      "name": "Mohammad Kaleem",
+      "num": "9792204364"
+    }
+  ]
+}
