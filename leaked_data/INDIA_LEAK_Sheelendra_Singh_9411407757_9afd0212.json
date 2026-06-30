@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:29:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9411407757",
+  "records": [
+    {
+      "aadhar": "502287893669",
+      "address": "!00!lathour!Bulandshahr!lathour  Sikandrabad!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": "9761167594",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harpal Singh",
+      "name": "Sheelendra Singh",
+      "num": "9411407757"
+    },
+    {
+      "aadhar": "502287893669",
+      "address": "!00!lathour!Bulandshahr!lathour  Sikandrabad!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": "9761167594",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harpal Singh",
+      "name": "Sheelendra Singh",
+      "num": "9411407757"
+    }
+  ]
+}
