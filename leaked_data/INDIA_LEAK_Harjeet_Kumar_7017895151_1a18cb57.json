@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:26:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017895151",
+  "records": [
+    {
+      "aadhar": "298274200527",
+      "address": "S/O  Chhote Lal!4!Khanpur north!!Swar!Khanpur North!Rampur!Uttar Pradesh!244924",
+      "alt": "9758354333",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Chhote Lal",
+      "name": "Harjeet Kumar",
+      "num": "7017895151"
+    }
+  ]
+}
