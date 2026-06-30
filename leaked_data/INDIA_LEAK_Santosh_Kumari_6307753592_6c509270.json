@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:05:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307753592",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Vijay Kumar Mishra!!. harraiya jhuman!!Harrya Suman Gonda!Uttar Pradesh!271202",
+      "alt": "918467998049",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vijay Kumar mishra",
+      "name": "Santosh Kumari",
+      "num": "6307753592"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Vijay Kumar Mishra!!. harraiya jhuman!!Harrya Suman Gonda!Uttar Pradesh!271202",
+      "alt": "918467998049",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vijay Kumar mishra",
+      "name": "Santosh Kumari",
+      "num": "6307753592"
+    }
+  ]
+}
