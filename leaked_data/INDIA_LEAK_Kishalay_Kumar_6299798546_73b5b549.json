@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:41:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299798546",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sunil Kumar Karn!!!Post-kamrown!Bulakipur Samastipur!Bihar!848114",
+      "alt": "919709721247",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sunil Kumar Karn",
+      "name": "Kishalay Kumar",
+      "num": "6299798546"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sunil Kumar Karn!!!Post-kamrown!Bulakipur Samastipur!Bihar!848114",
+      "alt": "919709721247",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sunil Kumar Karn",
+      "name": "Kishalay Kumar",
+      "num": "6299798546"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sunil Kumar Karn!!!Post-kamrown!Bulakipur Samastipur!Bihar!848114",
+      "alt": "919709721247",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sunil Kumar Karn",
+      "name": "Kishalay Kumar",
+      "num": "6299798546"
+    },
+    {
+      "aadhar": "479936304709",
+      "address": " .!KAMRAON!!VILLAGE-GOUSPUR Post.Dalsinghsaraya  Kamrawan Samastipur!Samastipur!SAMASTIPUR!Bihar!848114 ",
+      "alt": "6299798546",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Raghuvansh Narain Singh ",
+      "name": " Shreeti Kumari ",
+      "num": "7488558136"
+    },
+    {
+      "aadhar": "479936304709",
+      "address": " .!KAMRAON!!VILLAGE-GOUSPUR Post.Dalsinghsaraya  Kamrawan Samastipur!Samastipur!SAMASTIPUR!Bihar!848114 ",
+      "alt": "6299798546",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Raghuvansh Narain Singh ",
+      "name": " Shreeti Kumari ",
+      "num": "7488558136"
+    }
+  ]
+}
