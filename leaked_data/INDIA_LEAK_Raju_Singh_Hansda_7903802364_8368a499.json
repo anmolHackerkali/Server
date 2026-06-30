@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:18:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7903802364",
+  "records": [
+    {
+      "aadhar": "852688351634",
+      "address": "S/O  Haripad Hansda! SECTOR-9 COOLING POND NO  - 03 P S - HARLA - 9!basanti more!!post sector 9!Bokaro steel city!Bokaro!Jharkhand!827009",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Haripad Hansda",
+      "name": "Raju Singh Hansda",
+      "num": "7903802364"
+    },
+    {
+      "aadhar": "852688351634",
+      "address": "S/O  Haripad Hansda! SECTOR-9 COOLING POND NO. - 03 P.S - HARLA - 9!basanti more!!post sector 9!Bokaro steel city!Bokaro!Jharkhand!827009",
+      "alt": "8092236436",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Haripad Hansda",
+      "name": "Raju Singh Hansda",
+      "num": "7903802364"
+    },
+    {
+      "aadhar": "852688351634",
+      "address": "S/O  Haripad Hansda! SECTOR-9 COOLING POND NO. - 03 P.S - HARLA - 9!basanti more!!post sector 9!Bokaro steel city!Bokaro!Jharkhand!827009",
+      "alt": "8092236436",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Haripad Hansda",
+      "name": "Raju Singh Hansda",
+      "num": "7903802364"
+    }
+  ]
+}
