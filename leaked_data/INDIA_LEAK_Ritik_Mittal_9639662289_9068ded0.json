@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:27:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9639662289",
+  "records": [
+    {
+      "aadhar": "885533885386",
+      "address": "!40 !sarawagiwara sikandrabad !!Bulandshahr  sikandrabad  Bulandshahr !Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajendra Mittal",
+      "name": "Ritik Mittal",
+      "num": "9639662289"
+    },
+    {
+      "aadhar": "885533885386",
+      "address": "!40 !sarawagiwara sikandrabad !!Bulandshahr  sikandrabad  Bulandshahr !Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajendra Mittal",
+      "name": "Ritik Mittal",
+      "num": "9639662289"
+    }
+  ]
+}
