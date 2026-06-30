@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:25:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7409729997",
+  "records": [
+    {
+      "aadhar": "474561991173",
+      "address": "  Banat    City/District: Shamli State Uttar Pradesh pratap Nagar SHAMLI UTTAR PRADESH 247776",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajvir",
+      "name": "Sanjeev ",
+      "num": "7409729997"
+    },
+    {
+      "aadhar": "474561991173",
+      "address": "  Banat    City/District: Shamli State Uttar Pradesh pratap Nagar SHAMLI UTTAR PRADESH 247776",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajvir",
+      "name": "Sanjeev ",
+      "num": "7409729997"
+    }
+  ]
+}
