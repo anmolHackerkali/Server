@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 13:07:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9161104741",
+  "records": [
+    {
+      "aadhar": "569491952056",
+      "address": " !273!Husainpur Girant!gram muhammadpur sabukpur!Akdalla-Tanda-Ambedk!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Achaivar",
+      "name": "Savari Devi",
+      "num": "9161104741"
+    },
+    {
+      "aadhar": "569491952056",
+      "address": " !273!Husainpur Girant!gram muhammadpur sabukpur!Akdalla-Tanda-Ambedk!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Achaivar",
+      "name": "Savari Devi",
+      "num": "9161104741"
+    }
+  ]
+}
