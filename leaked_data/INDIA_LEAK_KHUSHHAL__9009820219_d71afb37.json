@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 02:44:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9009820219",
+  "records": [
+    {
+      "aadhar": "373588860066",
+      "address": "S/O Bahadur Singh!S/O Bahadur Singh!Dashahara Maidan  Tehsil-Sardarapur!Barmandal  Sardarpur Gram-Barmandal!BARMANDAL-DHAR!MP!454111",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "BAHADUR SINGH",
+      "name": "KHUSHHAL ",
+      "num": "9009820219"
+    },
+    {
+      "aadhar": "NPR1013887",
+      "address": "!579!gram BARAMANDAL!!tehsil SARDARPUR!Sardarpur village baramandal!DHAR!Madhya Pradesh!454111",
+      "alt": "9009820219",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "BAHADURSINGH",
+      "name": "Shubham",
+      "num": "9522252587"
+    }
+  ]
+}
