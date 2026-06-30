@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:26:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8534930892",
+  "records": [
+    {
+      "aadhar": "951216107855",
+      "address": "!125!Amba Colony!Near Mandir!Bulandshahar!Bulandshahar!Bulandshahr!Uttar Pradesh!203001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": "sachinkumarraghav92@gmail.com",
+      "fname": "Rajkumar Raghav",
+      "name": "Sachin Kumar Raghav",
+      "num": "8534930892"
+    },
+    {
+      "aadhar": "951216107855",
+      "address": "!125!Amba Colony!Near Mandir!Bulandshahar!Bulandshahar!Bulandshahr!Uttar Pradesh!203001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": "sachinkumarraghav92@gmail.com",
+      "fname": "Rajkumar Raghav",
+      "name": "Sachin Kumar Raghav",
+      "num": "8534930892"
+    },
+    {
+      "aadhar": "951216107855",
+      "address": "S/O Rajkumar Raghav169dhatoori dhooturi bulandshahr MandirMandirbulandshahr BULANDSHAHRBULANDSHAHARBULANDSHAHRUTTAR PRADESH203001",
+      "alt": "8534930892",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajkumar Raghav",
+      "name": "MR SACHIN KUMAR RAGHAV",
+      "num": "7455934250"
+    },
+    {
+      "aadhar": "951216107855",
+      "address": "S/O Rajkumar Raghav169dhatoori dhooturi bulandshahr MandirMandirbulandshahr BULANDSHAHRBULANDSHAHARBULANDSHAHRUTTAR PRADESH203001",
+      "alt": "8534930892",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajkumar Raghav",
+      "name": "MR SACHIN KUMAR RAGHAV",
+      "num": "7455934250"
+    }
+  ]
+}
