@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:28:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7065504617",
+  "records": [
+    {
+      "aadhar": " 891658345100 ",
+      "address": "W/O Kale ! Kh.No. 35/28 ! Virender NagarBURARI ! BURARI ! Kaushik EnclaveNORTH DELHI ! DELHI ! NORTH DELHI ! Delhi ! 110084",
+      "alt": "9971731625",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Kale",
+      "name": "MS. MAMTA .",
+      "num": "7065504617"
+    },
+    {
+      "aadhar": "891658345100",
+      "address": "W/O Kale ! KhNo 35/28 ! Virender NagarBURARI ! BURARI ! Kaushik EnclaveNORTH DELHI ! DELHI ! NORTH DELHI ! Delhi ! 110084",
+      "alt": "9971731625",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Kale",
+      "name": "MS MAMTA ",
+      "num": "7065504617"
+    },
+    {
+      "aadhar": "891658345100",
+      "address": "W/O Kale ! KhNo 35/28 ! Virender NagarBURARI ! BURARI ! Kaushik EnclaveNORTH DELHI ! DELHI ! NORTH DELHI ! Delhi ! 110084",
+      "alt": "9971731625",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Kale",
+      "name": "MS MAMTA ",
+      "num": "7065504617"
+    },
+    {
+      "aadhar": "424759384113",
+      "address": "s/o  pyare lal!28!nai mohalla hassanpur!near ambedkar murti hassanpur!hassanpur!hassanpur  rural part   104!palwal!Haryana!121107",
+      "alt": "7065504617",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "pyare lal",
+      "name": "Sonu",
+      "num": "9350861423"
+    }
+  ]
+}
