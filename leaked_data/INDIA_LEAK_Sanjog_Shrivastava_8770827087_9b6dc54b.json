@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:14:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8770827087",
+  "records": [
+    {
+      "aadhar": "732349478530",
+      "address": "S/O  Kamlesh Shrivastava! House number 61!matiya road!!Ward number 06!Dongargaon!Rajnandgaon!Chhattisgarh!491661",
+      "alt": "6266184111",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Kamlesh Shrivastava",
+      "name": "Sanjog Shrivastava",
+      "num": "8770827087"
+    },
+    {
+      "aadhar": null,
+      "address": "  House number 61 Ward number 06 matiya road  Dongargaon Rajnandgaon  Chhattisgarh 491661  ",
+      "alt": "8770827087",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Kamlesh Shrivastava ",
+      "name": " Sanjog Shrivastava ",
+      "num": "9685939320"
+    }
+  ]
+}
