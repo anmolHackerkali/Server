@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:35:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8448021243",
+  "records": [
+    {
+      "aadhar": "500112865214",
+      "address": "!c 40!mitra enclave!sector omega 2!gr noida!Noida!Noida!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dharmatma sharan agarwal",
+      "name": "parveen kumar agarwal",
+      "num": "8448021243"
+    },
+    {
+      "aadhar": "500112865214",
+      "address": "!!mitra enclave!sector omega 2!gr noida!Noida!!Uttar Pradesh!201310",
+      "alt": "-",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dharmatma sharan agarwal",
+      "name": "parveen kumar agarwal",
+      "num": "8448021243"
+    },
+    {
+      "aadhar": "500112865214",
+      "address": "!c 40!mitra enclave!sector omega 2!gr noida!Noida!Noida!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dharmatma sharan agarwal",
+      "name": "parveen kumar agarwal",
+      "num": "8448021243"
+    },
+    {
+      "aadhar": "500112865214",
+      "address": "!c 40!mitra enclave!sector omega 2!gr noida!Noida!Noida!Uttar Pradesh!201310",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dharmatma sharan agarwal",
+      "name": "parveen kumar agarwal",
+      "num": "8448021243"
+    }
+  ]
+}
