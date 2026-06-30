@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 23:15:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534932491",
+  "records": [
+    {
+      "aadhar": "402263208175",
+      "address": " .!israin kalan!!ward no -05  israyan goth!Madhepura!madhepura!Bihar!852112 ",
+      "alt": "9431657232",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Arun kumar Sharma ",
+      "name": " bittu  kumar ",
+      "num": "9534932491"
+    },
+    {
+      "aadhar": "402263208175",
+      "address": " .!israin kalan!!ward no -05  israyan goth!Madhepura!madhepura!Bihar!852112 ",
+      "alt": "9431657232",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Arun kumar Sharma ",
+      "name": " bittu  kumar ",
+      "num": "9534932491"
+    }
+  ]
+}
