@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:41:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8851298226",
+  "records": [
+    {
+      "aadhar": "521267442554",
+      "address": "S/O  Jahid Hussain!!B-4/C-2/10 Gali No-02!Kabir Nagar!SHAHDARA NORTH EAST DELHI!Delhi!110032",
+      "alt": "917210237786",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahid Hussain",
+      "name": "Javed Hussain",
+      "num": "8851298226"
+    },
+    {
+      "aadhar": "521267442554",
+      "address": "S/O Jahid Hussain!!B-4/C-2/10 Gali No-02!Kabir Nagar!SHAHDARA NORTH EAST DELHI!Delhi!110032",
+      "alt": "917210237786",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahid Hussain",
+      "name": "Javed Hussain",
+      "num": "8851298226"
+    },
+    {
+      "aadhar": "521267442554",
+      "address": "S/O Jahid Hussain!!B-4/C-2/10 Gali No-02!Kabir Nagar!SHAHDARA NORTH EAST DELHI!Delhi!110032",
+      "alt": "917210237786",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahid Hussain",
+      "name": "Javed Hussain",
+      "num": "8851298226"
+    }
+  ]
+}
