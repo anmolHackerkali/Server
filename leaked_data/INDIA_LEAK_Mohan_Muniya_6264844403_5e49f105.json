@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:12:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6264844403",
+  "records": [
+    {
+      "aadhar": "586087501263",
+      "address": "S/O  Bhera Muniya!!161 panchapipliya Bekalda!panchapipliya!Bakalda Petlawad Jhabua!Madhya Pradesh!457775",
+      "alt": "919575346973",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Bhera Muniya",
+      "name": "Mohan Muniya",
+      "num": "6264844403"
+    }
+  ]
+}
