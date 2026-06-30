@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:30:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6388865820",
+  "records": [
+    {
+      "aadhar": "908658192184",
+      "address": "S/O Chandra Kant Garde!patel nagar!Konch!!Jalaun!Jalaun!Jalaun!Uttar Pradesh!285205",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chandra Kant Garde",
+      "name": "Sagar Garde",
+      "num": "6388865820"
+    },
+    {
+      "aadhar": "908658192184",
+      "address": "S/O Chandra Kant Garde!patel nagar!Konch!!Jalaun!Jalaun!Jalaun!Uttar Pradesh!285205",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chandra Kant Garde",
+      "name": "Sagar Garde",
+      "num": "6388865820"
+    }
+  ]
+}
