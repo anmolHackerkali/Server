@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 13:56:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9877698263",
+  "records": [
+    {
+      "aadhar": "300949581200",
+      "address": "S/O Bhart Prasad!!HNO 8 Central Post Office!GURU HAR RAI NAGAR Ludhiana west BHIAYA COLONY!Ludhiana!Punjab!141008",
+      "alt": null,
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Bhart Prasad",
+      "name": "Vinod Prasad",
+      "num": "9877698263"
+    }
+  ]
+}
