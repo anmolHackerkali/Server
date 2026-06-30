@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:01:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8582041465",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Sunil Rana!!!VILL -manjhaladih PO-ChaTRO PS-DEORI!!Deori!Giridih!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sunil Rana",
+      "name": "Rina Devi",
+      "num": "8582041465"
+    },
+    {
+      "aadhar": "774862267756",
+      "address": "  VILL -MANJHALADIH Vill Manjhaladih temple PO-CHATRO DEORI temple PO-CHATRO DEORI PS-DEORI CHATRO CHATRO GIRIDIH BAIRIA B.O - GIR GIRIDIH JHARKHAND 815314 ",
+      "alt": "6205523452",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sunil Rana ",
+      "name": " MS  RINA DEVI ",
+      "num": "8582041465"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Sunil Rana!!!VILL -manjhaladih PO-ChaTRO PS-DEORI!!Deori!Giridih!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sunil Rana",
+      "name": "Rina Devi",
+      "num": "8582041465"
+    },
+    {
+      "aadhar": "774862267756",
+      "address": "  VILL -MANJHALADIH Vill Manjhaladih temple PO-CHATRO DEORI temple PO-CHATRO DEORI PS-DEORI CHATRO CHATRO GIRIDIH BAIRIA B.O - GIR GIRIDIH JHARKHAND 815314 ",
+      "alt": "6205523452",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sunil Rana ",
+      "name": " MS  RINA DEVI ",
+      "num": "8582041465"
+    }
+  ]
+}
