@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:12:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560332296",
+  "records": [
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308! ! !!!",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "!G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308!!!!!!!",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308       ",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308       ",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    }
+  ]
+}
