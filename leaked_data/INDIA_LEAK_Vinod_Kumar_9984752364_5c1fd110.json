@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:22:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9984752364",
+  "records": [
+    {
+      "aadhar": "290963778029",
+      "address": "s/o radheshyam!!!BHAUKUAN!bhaukuan jalalpur!bhaukuan!ambedkar nagar!Uttar Pradesh!224149",
+      "alt": "9616242732",
+      "circle": "JIO UPE",
+      "email": "ramalalyadavaramalalayadava@gmail.com",
+      "fname": "radheshyam",
+      "name": "Vinod Kumar",
+      "num": "9984752364"
+    },
+    {
+      "aadhar": "290963778029",
+      "address": "s/o radheshyam!!!BHAUKUAN!bhaukuan jalalpur!bhaukuan!ambedkar nagar!Uttar Pradesh!224149",
+      "alt": "9616242732",
+      "circle": "JIO UPE",
+      "email": "ramalalyadavaramalalayadava@gmail.com",
+      "fname": "radheshyam",
+      "name": "Vinod Kumar",
+      "num": "9984752364"
+    },
+    {
+      "aadhar": "290963778029",
+      "address": "s/o radheshyam!!!BHAUKUAN!bhaukuan jalalpur!bhaukuan!ambedkar nagar!Uttar Pradesh!224149",
+      "alt": "9984752364",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "radheshyam",
+      "name": "Vinod Kumar",
+      "num": "9369412013"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Sharif Ahmad!.!Sultanpur Post Garhi Manikpur!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230202",
+      "alt": "9984752364",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Sharif Ahmad",
+      "name": "Ansari Mushir Sharif Ahmad",
+      "num": "8418007029"
+    },
+    {
+      "aadhar": "290963778029",
+      "address": "s/o radheshyam!!!BHAUKUAN!bhaukuan jalalpur!bhaukuan!ambedkar nagar!Uttar Pradesh!224149",
+      "alt": "9984752364",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "radheshyam",
+      "name": "Vinod Kumar",
+      "num": "9369412013"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Sharif Ahmad!.!Sultanpur Post Garhi Manikpur!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230202",
+      "alt": "9984752364",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Sharif Ahmad",
+      "name": "Ansari Mushir Sharif Ahmad",
+      "num": "8418007029"
+    }
+  ]
+}
