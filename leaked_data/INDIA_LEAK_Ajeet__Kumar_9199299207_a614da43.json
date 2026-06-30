@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 15:44:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9199299207",
+  "records": [
+    {
+      "aadhar": "546896014841",
+      "address": "S/O Ramji Rajavanshi!Majhiawan!!!!Aurangabad!Bihar!824124",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramji  Rajavanshi",
+      "name": "Ajeet  Kumar",
+      "num": "9199299207"
+    },
+    {
+      "aadhar": "546896014841",
+      "address": "S/O Ramji Rajavanshi!Majhiawan!!!!Aurangabad!Bihar!824124",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramji  Rajavanshi",
+      "name": "Ajeet  Kumar",
+      "num": "9199299207"
+    }
+  ]
+}
