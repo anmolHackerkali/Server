@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:32:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9312143887",
+  "records": [
+    {
+      "aadhar": "527726947995",
+      "address": "Tajinder Kumar Ranyal!I-224!Sector-Delta-2  Greater Noida! !GREATER NOIDA!UTTAR PRADESH!201306",
+      "alt": "8368257351",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "TAJINDER KUMAR",
+      "name": "Mitali NA",
+      "num": "9312143887"
+    },
+    {
+      "aadhar": "527726947995",
+      "address": "Tajinder Kumar Ranyal!I-224!Sector-Delta-2 Greater Noida!!GREATER NOIDA!UTTAR PRADESH!201306",
+      "alt": "8368257351",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "TAJINDER KUMAR",
+      "name": "MitaliNA",
+      "num": "9312143887"
+    },
+    {
+      "aadhar": "527726947995",
+      "address": "Tajinder Kumar Ranyal!I-224!Sector-Delta-2 Greater Noida!!GREATER NOIDA!UTTAR PRADESH!201306",
+      "alt": "8368257351",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "TAJINDER KUMAR",
+      "name": "MitaliNA",
+      "num": "9312143887"
+    },
+    {
+      "aadhar": null,
+      "address": "I-229 ! Delta-2 ! Gr Noida ! GREATER NOIDA ! UTTAR PRADESH ! 201306",
+      "alt": "9312143887",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Tk Chand",
+      "name": "Tajindar Kumar Ranyal",
+      "num": "8527071007"
+    }
+  ]
+}
