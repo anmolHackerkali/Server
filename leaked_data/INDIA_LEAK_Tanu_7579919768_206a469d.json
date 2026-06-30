@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:06:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7579919768",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx6791",
+      "address": "D/O Omaprakash!79!!Anandpur!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!203207",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Omaprakash",
+      "name": "Tanu",
+      "num": "7579919768"
+    },
+    {
+      "aadhar": "xxxxxxxx6791",
+      "address": "D/O Omaprakash!79!!!Anandpur!Gautam Buddha Nagar!!Uttar Pradesh!203207",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Omaprakash",
+      "name": "Tanu",
+      "num": "7579919768"
+    },
+    {
+      "aadhar": "xxxxxxxx6791",
+      "address": "D/O Omaprakash!79!!Anandpur!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!203207",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Omaprakash",
+      "name": "Tanu",
+      "num": "7579919768"
+    },
+    {
+      "aadhar": "xxxxxxxx6791",
+      "address": "D/O Omaprakash!79!!Anandpur!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!203207",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Omaprakash",
+      "name": "Tanu",
+      "num": "7579919768"
+    },
+    {
+      "aadhar": "597113636620",
+      "address": "d/o  rakesh kumar!127!dadri road near relway line!!saraswati colony!roopvas!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "7579919768",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh kumar",
+      "name": "Km Pooja Rani",
+      "num": "8920874300"
+    },
+    {
+      "aadhar": "597113636620",
+      "address": "d/o  rakesh kumar!127!dadri road near relway line!!saraswati colony!roopvas!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "7579919768",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh kumar",
+      "name": "Km Pooja Rani",
+      "num": "8920874300"
+    },
+    {
+      "aadhar": "597113636620",
+      "address": "d/o  rakesh kumar!127!dadri road near relway line!!saraswati colony!roopvas!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "7579919768",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh kumar",
+      "name": "Km Pooja Rani",
+      "num": "8920874300"
+    }
+  ]
+}
