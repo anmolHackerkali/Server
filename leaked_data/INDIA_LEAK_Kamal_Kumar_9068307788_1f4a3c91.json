@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:21:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9068307788",
+  "records": [
+    {
+      "aadhar": "444110634395",
+      "address": "S/O: Harish Chandra!364 b!jagieetpur! Hardwar!Haridwar Kankhal Haridwar!Uttarakhand!249408",
+      "alt": "9639158118",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harish Chandra",
+      "name": "Kamal Kumar",
+      "num": "9068307788"
+    },
+    {
+      "aadhar": "444110634395",
+      "address": "S/O: Harish Chandra!364 b!jagieetpur! Hardwar!Haridwar Kankhal Haridwar!Uttarakhand!249408",
+      "alt": "9639158118",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harish Chandra",
+      "name": "Kamal Kumar",
+      "num": "9068307788"
+    }
+  ]
+}
