@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:20:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9535173830",
+  "records": [
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!Mauahi!!!Mahuahi Mauahi!Supaul!Bihar!847452",
+      "alt": "9162167300",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "9535173830"
+    },
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!Mauahi!!!Mahuahi Mauahi!Supaul!Bihar!847452",
+      "alt": "9162167300",
+      "circle": "JIO BHR&JHR",
+      "email": "ry915849@gmail.com",
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "9535173830"
+    },
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!Mauahi!!!Mahuahi Mauahi!Supaul!Bihar!847452",
+      "alt": "9162167300",
+      "circle": "JIO BHR&JHR",
+      "email": "ry915849@gmail.com",
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "9535173830"
+    },
+    {
+      "aadhar": "223740036354",
+      "address": "!165/3 Gali no 03!Khatola!Shiv mandir!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9535173830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghuran Yadav",
+      "name": "Deepak Kumar",
+      "num": "7643093995"
+    },
+    {
+      "aadhar": "223740036354",
+      "address": "!165/3 Gali no 03!Khatola!Shiv mandir!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9535173830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghuran Yadav",
+      "name": "Deepak Kumar",
+      "num": "7643093995"
+    },
+    {
+      "aadhar": "223740036354",
+      "address": "!165/3 Gali no 03!Khatola!Shiv mandir!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9535173830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghuran Yadav",
+      "name": "Deepak Kumar",
+      "num": "7643093995"
+    }
+  ]
+}
