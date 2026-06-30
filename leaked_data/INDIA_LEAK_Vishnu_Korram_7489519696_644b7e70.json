@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:53:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7489519696",
+  "records": [
+    {
+      "aadhar": "878999710166",
+      "address": "s/o  soman korram!makan no. 296!ward 06 Chipawand!dhodiya para!ward 06 dhodiya para chipawand chipawand!chipawand Kondagaon!kondagaon!Chhattisgarh!494226",
+      "alt": "7354133345",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "soman korram",
+      "name": "Vishnu Korram",
+      "num": "7489519696"
+    }
+  ]
+}
