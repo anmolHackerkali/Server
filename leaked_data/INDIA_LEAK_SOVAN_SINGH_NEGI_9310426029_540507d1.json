@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:01:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310426029",
+  "records": [
+    {
+      "aadhar": "UYV2052545",
+      "address": "! 14/160!BLOCK-14 KALYANPURI!!EAST DELHI!Delhi East!East!Delhi!110091",
+      "alt": "9999874783",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAKASH SINGH NEGI",
+      "name": "SOVAN SINGH NEGI",
+      "num": "9310426029"
+    },
+    {
+      "aadhar": "UYV2052545",
+      "address": "!14/160!BLOCK-14 KALYANPURI!!EAST DELHI!Delhi East!East!Delhi!110091",
+      "alt": "9999874783",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAKASH SINGH NEGI",
+      "name": "SOVAN SINGH NEGI",
+      "num": "9310426029"
+    },
+    {
+      "aadhar": "UYV2052545",
+      "address": "!14/160!BLOCK-14 KALYANPURI!!EAST DELHI!Delhi East!East!Delhi!110091",
+      "alt": "9999874783",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAKASH SINGH NEGI",
+      "name": "SOVAN SINGH NEGI",
+      "num": "9310426029"
+    }
+  ]
+}
