@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:52:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9027501436",
+  "records": [
+    {
+      "aadhar": "208637453446",
+      "address": "S/O  Jagdeesh Singh!!Jatrauli!!!Khediya KhurdKhair!Aligarh!Uttar Pradesh!202137",
+      "alt": "6398884285",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jagdeesh Singh",
+      "name": "Nagendra Kumar",
+      "num": "9027501436"
+    },
+    {
+      "aadhar": "208637453446",
+      "address": "S/O  Jagdeesh Singh!!Jatrauli!!!Khediya Khurd Khair!Aligarh!Uttar Pradesh!202137",
+      "alt": "6398884285",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagdeesh Singh",
+      "name": "Nagendra Kumar",
+      "num": "9027501436"
+    },
+    {
+      "aadhar": "208637453446",
+      "address": "S/O  Jagdeesh Singh!!Jatrauli!!!Khediya Khurd Khair!Aligarh!Uttar Pradesh!202137",
+      "alt": "6398884285",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagdeesh Singh",
+      "name": "Nagendra Kumar",
+      "num": "9027501436"
+    }
+  ]
+}
