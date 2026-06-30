@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:58:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7250649907",
+  "records": [
+    {
+      "aadhar": "217776958878",
+      "address": "S/O  Naseer!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": "7739485850",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR  RIHAN  ",
+      "num": "7250649907"
+    },
+    {
+      "aadhar": "217776958878",
+      "address": "S/O: Naseer!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana DelhiNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": "7739485850",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR RIHAN ",
+      "num": "7250649907"
+    },
+    {
+      "aadhar": "217776958878",
+      "address": "S/O: Naseer!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana DelhiNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": "7739485850",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR RIHAN ",
+      "num": "7250649907"
+    },
+    {
+      "aadhar": "217776958878",
+      "address": "S/O  Naseer!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi!M 110 Sec 5 Bawana Delhi NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110039",
+      "alt": "7250649907",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR  RIHAN  ",
+      "num": "7739485850"
+    },
+    {
+      "aadhar": " 217776958878 ",
+      "address": "S/O: Naseer ! M 110 Sec 5 Bawana Delhi ! M 110 Sec 5 Bawana Delhi !  ! M 110 Sec 5 Bawana DelhiNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110039",
+      "alt": "7250649907",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR RIHAN ",
+      "num": "7739485850"
+    },
+    {
+      "aadhar": " 217776958878 ",
+      "address": "S/O: Naseer ! M 110 Sec 5 Bawana Delhi ! M 110 Sec 5 Bawana Delhi !  ! M 110 Sec 5 Bawana DelhiNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110039",
+      "alt": "7250649907",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Naseer",
+      "name": "MR RIHAN ",
+      "num": "7739485850"
+    }
+  ]
+}
