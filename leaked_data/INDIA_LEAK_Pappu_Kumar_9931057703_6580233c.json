@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 09:57:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931057703",
+  "records": [
+    {
+      "aadhar": "262725236871",
+      "address": "! 00!pachamahala pachmahla!!naudiha!Gaya bihar!Gaya!Bihar!824233",
+      "alt": "9973160234",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajendra sharma",
+      "name": "Pappu Kumar",
+      "num": "9931057703"
+    },
+    {
+      "aadhar": "262725236871",
+      "address": "! 00!pachamahala pachmahla!!naudiha!Gaya bihar!Gaya!Bihar!824233",
+      "alt": "9973160234",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajendra sharma",
+      "name": "Pappu Kumar",
+      "num": "9931057703"
+    }
+  ]
+}
