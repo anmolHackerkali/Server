@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:26:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6205782672",
+  "records": [
+    {
+      "aadhar": "489874956362",
+      "address": " vill post-bichhiaon!Bichhiaon!mandir!Bhojpur!Bhojpur!Bhojpur!Bihar!802206 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Singh ",
+      "name": " Rohit Kumar ",
+      "num": "6205782672"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": " vill post-bichhiaon!Bichhiaon!mandir!Bhojpur!Bhojpur!Bhojpur!Bihar!802206 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Singh ",
+      "name": " Rohit Kumar ",
+      "num": "6205782672"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "9801734132"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! VILL POST BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "6201495078"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "9801734132"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! VILL POST BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "6201495078"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "9801734132"
+    },
+    {
+      "aadhar": "489874956362",
+      "address": "s/o  jitendra singh! VILL POST BICHHIAON!BICHHIAON!vill post-bichhiaon!Sandesh!bichhiaon!bhojpur!Bihar!802206",
+      "alt": "6205782672",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jitendra singh",
+      "name": "Rohit Kumar",
+      "num": "6201495078"
+    }
+  ]
+}
