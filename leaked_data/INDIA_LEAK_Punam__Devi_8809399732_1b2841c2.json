@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:56:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809399732",
+  "records": [
+    {
+      "aadhar": "674948958362",
+      "address": "!Gram Gamhardih Post Chatro Thana Deori Chatro!!!!Giridih Chatro Deori!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Lakhan Lal Pandey",
+      "name": "Punam  Devi",
+      "num": "8809399732"
+    },
+    {
+      "aadhar": "674948958362",
+      "address": "!Gram Gamhardih Post Chatro Thana Deori Chatro!!!!Giridih Chatro Deori!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Lakhan Lal Pandey",
+      "name": "Punam  Devi",
+      "num": "8809399732"
+    }
+  ]
+}
