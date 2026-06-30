@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:20:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958323490",
+  "records": [
+    {
+      "aadhar": "413301213579",
+      "address": "W/O  Surinder Kumar Arora!Near Eicher School!! Sector-46 Faridabad Nhpc Colony Faridabad !Nhpc Colony Faridabad!Haryana!121010",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "W/O  Surinder Kumar Arora",
+      "name": "Chander Kanta Arora",
+      "num": "9958323490"
+    },
+    {
+      "aadhar": "413301213579",
+      "address": "W/O: Surinder Kumar Arora!Near Eicher School!!Sector-46FaridabadNhpc Colony Faridabad!Nhpc Colony Faridabad!Haryana!121010",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "W/O: Surinder Kumar Arora",
+      "name": "Chander Kanta Arora",
+      "num": "9958323490"
+    },
+    {
+      "aadhar": "413301213579",
+      "address": "W/O: Surinder Kumar Arora!Near Eicher School!!Sector-46FaridabadNhpc Colony Faridabad!Nhpc Colony Faridabad!Haryana!121010",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "W/O: Surinder Kumar Arora",
+      "name": "Chander Kanta Arora",
+      "num": "9958323490"
+    }
+  ]
+}
