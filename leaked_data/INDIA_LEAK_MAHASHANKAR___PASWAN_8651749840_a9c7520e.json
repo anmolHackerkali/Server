@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:37:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8651749840",
+  "records": [
+    {
+      "aadhar": "xx",
+      "address": "  VAISHALI!J T HIGH SCHOOL!VAISHALI!Bihar!843110",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "PASWAN   MAHENDRA",
+      "name": "MAHASHANKAR   PASWAN",
+      "num": "8651749840"
+    },
+    {
+      "aadhar": null,
+      "address": " BAHUARA TOWN VILL  BAHUARA ANCHAL HAJIPUR   J T HIGH SCHOOL VAISHALI-VAISHALI 843110 BR      ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " PASWAN   MAHENDRA ",
+      "name": " MAHASHANKAR   PASWAN ",
+      "num": "8651749840"
+    },
+    {
+      "aadhar": "xx",
+      "address": "  VAISHALI!J T HIGH SCHOOL!VAISHALI!Bihar!843110",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "PASWAN   MAHENDRA",
+      "name": "MAHASHANKAR   PASWAN",
+      "num": "8651749840"
+    },
+    {
+      "aadhar": null,
+      "address": " BAHUARA TOWN VILL  BAHUARA ANCHAL HAJIPUR   J T HIGH SCHOOL VAISHALI-VAISHALI 843110 BR      ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " PASWAN   MAHENDRA ",
+      "name": " MAHASHANKAR   PASWAN ",
+      "num": "8651749840"
+    }
+  ]
+}
