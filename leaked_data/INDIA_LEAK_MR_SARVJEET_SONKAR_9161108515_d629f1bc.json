@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:14:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9161108515",
+  "records": [
+    {
+      "aadhar": "991341084538",
+      "address": "!Navada kundarkha Gonda!Navada kundarkha GondaNEVADAKUNDARKHA!NEVADAKUNDARKHAKUNDRKHIGONDA!KUNDARKHA GOVINDPARA GOVINDPARAGONDA!GONDA!UTTAR PRADESH!271301",
+      "alt": "9161101038",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Shivram Sonkar",
+      "name": "MR. SARVJEET SONKAR",
+      "num": "9161108515"
+    },
+    {
+      "aadhar": "991341084538",
+      "address": "!Navada kundarkha Gonda!Navada kundarkha Gonda NEVADA KUNDARKHA !NEVADA KUNDARKHA KUNDRKHI GONDA!KUNDARKHA GOVINDPARA GOVINDPARA GONDA!GONDA!UTTAR PRADESH!271301",
+      "alt": "9161101038",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shivram Sonkar",
+      "name": "MR SARVJEET SONKAR",
+      "num": "9161108515"
+    },
+    {
+      "aadhar": "991341084538",
+      "address": "!Navada kundarkha Gonda!Navada kundarkha Gonda NEVADA KUNDARKHA !NEVADA KUNDARKHA KUNDRKHI GONDA!KUNDARKHA GOVINDPARA GOVINDPARA GONDA!GONDA!UTTAR PRADESH!271301",
+      "alt": "9161101038",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shivram Sonkar",
+      "name": "MR SARVJEET SONKAR",
+      "num": "9161108515"
+    }
+  ]
+}
