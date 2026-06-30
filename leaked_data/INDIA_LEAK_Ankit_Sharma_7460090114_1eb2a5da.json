@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 13:12:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7460090114",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Nandlal!!mahmadpur sabuk pur!Post husain girent!Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918381860114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "Ankit Sharma",
+      "num": "7460090114"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Nandlal!!mahmadpur sabuk pur!Post husain girent!Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918381860114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "Ankit Sharma",
+      "num": "7460090114"
+    },
+    {
+      "aadhar": "419833510366",
+      "address": "S/O Sabhajeet Maurya!240!tandaTanda!Tanda!Gram Mohmmadpur Sabukpur Post Husainapu!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7460090114",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Sabhajeet Maurya",
+      "name": "MR. ANUJ KUMAR MAURYA",
+      "num": "9628656295"
+    },
+    {
+      "aadhar": "287339284610",
+      "address": "S/O NANDLAL!MAHMADPUR SABUK PUR POST HUSAIN GIRENT!MAHMADPUR SABUK PUR POST HUSAIN GIRENT!tanda!Mohammed purAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7460090114",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "MR. ANKIT SHARMA",
+      "num": "8381860114"
+    },
+    {
+      "aadhar": "419833510366",
+      "address": "s/o  sabhajeet maurya! 240!Gram Mohmmadpur Sabukpur Tanda!post husainapur girant!gram mohmmadpur sabukpur tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7460090114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sabhajeet maurya",
+      "name": "Anuj Kumar Maurya",
+      "num": "9991750772"
+    },
+    {
+      "aadhar": "287339284610",
+      "address": "S/O NANDLAL!MAHMADPUR SABUK PUR  POST HUSAIN GIRENT !MAHMADPUR SABUK PUR  POST HUSAIN GIRENT !tanda!Mohammed pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7460090114",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "MR ANKIT SHARMA",
+      "num": "8381860114"
+    },
+    {
+      "aadhar": "287339284610",
+      "address": "!50!mahmadpur sabuk pur husain girent tanda!sabook pur!tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7460090114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nandlal",
+      "name": "Ankit Sharma",
+      "num": "7355967713"
+    },
+    {
+      "aadhar": "419833510366",
+      "address": "s/o  sabhajeet maurya! 240!Gram Mohmmadpur Sabukpur Tanda!post husainapur girant!gram mohmmadpur sabukpur tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7460090114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sabhajeet maurya",
+      "name": "Anuj Kumar Maurya",
+      "num": "9991750772"
+    },
+    {
+      "aadhar": "287339284610",
+      "address": "S/O NANDLAL!MAHMADPUR SABUK PUR  POST HUSAIN GIRENT !MAHMADPUR SABUK PUR  POST HUSAIN GIRENT !tanda!Mohammed pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7460090114",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nandlal",
+      "name": "MR ANKIT SHARMA",
+      "num": "8381860114"
+    },
+    {
+      "aadhar": "287339284610",
+      "address": "!50!mahmadpur sabuk pur husain girent tanda!sabook pur!tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "7460090114",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nandlal",
+      "name": "Ankit Sharma",
+      "num": "7355967713"
+    }
+  ]
+}
