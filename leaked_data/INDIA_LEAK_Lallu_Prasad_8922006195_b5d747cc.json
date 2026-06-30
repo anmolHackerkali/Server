@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:45:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8922006195",
+  "records": [
+    {
+      "aadhar": "966948566483",
+      "address": "S/O Sunder Lal!village-udhin khurd!Udahin Buzurg!!Kaushambi!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunder Lal",
+      "name": "Lallu Prasad",
+      "num": "8922006195"
+    },
+    {
+      "aadhar": "966948566483",
+      "address": "S/O Sunder Lal!village-udhin khurd!Udahin Buzurg!!Kaushambi!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunder Lal",
+      "name": "Lallu Prasad",
+      "num": "8922006195"
+    }
+  ]
+}
