@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 12:32:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393531462",
+  "records": [
+    {
+      "aadhar": "638395063566",
+      "address": "D/O Nabban Ahmad! 924 BAHAR SAYNGER GAT!jhansi!!jhansi!Jhansi!Jhansi!Uttar Pradesh!284001",
+      "alt": "6387065178",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nabban Ahmad",
+      "name": "Khadija",
+      "num": "6393531462"
+    },
+    {
+      "aadhar": "638395063566",
+      "address": "D/O Nabban Ahmad! 924 BAHAR SAYNGER GAT!jhansi!!jhansi!Jhansi!Jhansi!Uttar Pradesh!284001",
+      "alt": "6387065178",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nabban Ahmad",
+      "name": "Khadija",
+      "num": "6393531462"
+    }
+  ]
+}
