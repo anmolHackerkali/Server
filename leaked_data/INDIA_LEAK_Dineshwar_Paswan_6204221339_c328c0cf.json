@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 10:06:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204221339",
+  "records": [
+    {
+      "aadhar": "981767855211",
+      "address": "S/O  Ramchandra Paswan!! Phular!sherpur pyare!Phular Vaishali Vaishali!Bihar!844122",
+      "alt": "918809242957",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramchandra Paswan",
+      "name": "Dineshwar Paswan",
+      "num": "6204221339"
+    },
+    {
+      "aadhar": "981767855211",
+      "address": "S/O  Ramchandra Paswan!! Phular!sherpur pyare!Phular Vaishali Vaishali!Bihar!844122",
+      "alt": "918809242957",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramchandra Paswan",
+      "name": "Dineshwar Paswan",
+      "num": "6204221339"
+    },
+    {
+      "aadhar": "981767855211",
+      "address": "S/O  Ramchandra Paswan!! Phular!sherpur pyare!Phular Vaishali Vaishali!Bihar!844122",
+      "alt": "918809242957",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramchandra Paswan",
+      "name": "Dineshwar Paswan",
+      "num": "6204221339"
+    }
+  ]
+}
