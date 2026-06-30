@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:09:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619814",
+  "records": [
+    {
+      "aadhar": "820388189709",
+      "address": "S/O: Vedpal!!40 dlane no 2peeth bazar!!BahadarabadHaridwar!Uttarakhand!249402",
+      "alt": "+919917239005",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Vedpal",
+      "name": "Nitin",
+      "num": "8077619814"
+    }
+  ]
+}
