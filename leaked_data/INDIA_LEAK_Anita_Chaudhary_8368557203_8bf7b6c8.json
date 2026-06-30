@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:45:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368557203",
+  "records": [
+    {
+      "aadhar": "278444022554",
+      "address": "W/O Rajeev Chaudhary!!house no-164 Amarnagar ashoka enclave main!Faridabad sec-35!Amarnagar Faridabad!Haryana!121003",
+      "alt": "919717677940",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajeev Chaudhary",
+      "name": "Anita Chaudhary",
+      "num": "8368557203"
+    },
+    {
+      "aadhar": "278444022554",
+      "address": "W/O Rajeev Chaudhary!!house no-164 Amarnagar ashoka enclave main!Faridabad sec-35!Amarnagar Faridabad!Haryana!121003",
+      "alt": "919717677940",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajeev Chaudhary",
+      "name": "Anita Chaudhary",
+      "num": "8368557203"
+    },
+    {
+      "aadhar": "278444022554",
+      "address": "W/O Rajeev Chaudhary!!house no-164 Amarnagar ashoka enclave main!Faridabad sec-35!Amarnagar Faridabad!Haryana!121003",
+      "alt": "919717677940",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajeev Chaudhary",
+      "name": "Anita Chaudhary",
+      "num": "8368557203"
+    }
+  ]
+}
