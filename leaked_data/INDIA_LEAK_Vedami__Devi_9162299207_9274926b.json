@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 15:45:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9162299207",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H No 36!FularSherpur Pyare!Vaishali BHR!!!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nagendra Pas",
+      "name": "Vedami  Devi",
+      "num": "9162299207"
+    },
+    {
+      "aadhar": null,
+      "address": "H No 36!FularSherpur Pyare!Vaishali BHR!!!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nagendra Pas",
+      "name": "Vedami  Devi",
+      "num": "9162299207"
+    },
+    {
+      "aadhar": "xxxxxxxx2478",
+      "address": " 00  Sherpur Pyare jalalpur Gangti Vaishali Bihar Sherpur Pyare Jalalpur Gangti  Vaishali Bihar 844122 ",
+      "alt": "9162299207",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Nagendra Das ",
+      "name": " Amit Kumar   ",
+      "num": "9431618507"
+    },
+    {
+      "aadhar": "xxxxxxxx2478",
+      "address": " 00  Sherpur Pyare jalalpur Gangti Vaishali Bihar Sherpur Pyare Jalalpur Gangti  Vaishali Bihar 844122 ",
+      "alt": "9162299207",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Nagendra Das ",
+      "name": " Amit Kumar   ",
+      "num": "9431618507"
+    }
+  ]
+}
