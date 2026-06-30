@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:50:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810052887",
+  "records": [
+    {
+      "aadhar": "959672871678",
+      "address": "Y-19 Hudco Place Andrewsganj  Delhi South Delhi Delhi 110049! ! !!!",
+      "alt": "8197457387",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Jagdish  Narain",
+      "name": "Alok  Saxena",
+      "num": "9810052887"
+    },
+    {
+      "aadhar": "959672871678",
+      "address": "!Y-19 Hudco Place Andrewsganj  Delhi South Delhi Delhi 110049!!!!!!!",
+      "alt": "8197457387",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish  Narain",
+      "name": "Alok  Saxena",
+      "num": "9810052887"
+    },
+    {
+      "aadhar": "959672871678",
+      "address": "Y19 Hudco Place Andrewsganj  Delhi South Delhi Delhi 110049! ! !!!",
+      "alt": "8197457387",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish  Narain",
+      "name": "Alok  Saxena",
+      "num": "9810052887"
+    },
+    {
+      "aadhar": "959672871678",
+      "address": "Y19 Hudco Place Andrewsganj  Delhi South Delhi Delhi 110049! ! !!!",
+      "alt": "8197457387",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish  Narain",
+      "name": "Alok  Saxena",
+      "num": "9810052887"
+    }
+  ]
+}
