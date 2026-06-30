@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 08:45:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9155511446",
+  "records": [
+    {
+      "aadhar": "263170183701",
+      "address": " .!Sultanpur!!JEHANABAD!Gaya!Jehanabad!Bihar!824233 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ashutosh Kumar ",
+      "name": " Pammi Devi ",
+      "num": "9155511446"
+    },
+    {
+      "aadhar": "263170183701",
+      "address": " .!Sultanpur!!JEHANABAD!Gaya!Jehanabad!Bihar!824233 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ashutosh Kumar ",
+      "name": " Pammi Devi ",
+      "num": "9155511446"
+    }
+  ]
+}
