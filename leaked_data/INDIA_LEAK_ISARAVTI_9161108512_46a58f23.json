@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:13:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9161108512",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "H NO 221!VILL MAHUAVA BAZARATAR!NA!DEORIA!UTTAR PRADESH!274001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "ALAGU",
+      "name": "ISARAVTI",
+      "num": "9161108512"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 221!VILL MAHUAVA BAZARATAR!NA!DEORIA!UTTAR PRADESH!274001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ALAGU",
+      "name": "ISARAVTI",
+      "num": "9161108512"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 221!VILL MAHUAVA BAZARATAR!NA!DEORIA!UTTAR PRADESH!274001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ALAGU",
+      "name": "ISARAVTI",
+      "num": "9161108512"
+    }
+  ]
+}
