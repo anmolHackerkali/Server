@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:43:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7091100504",
+  "records": [
+    {
+      "aadhar": "628001210824",
+      "address": " .!Phular!!sherpur pyare  Phular Phular Vaishali!Vaishali!Vaishali!Bihar!844122 ",
+      "alt": "9661508349",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Asharfi  Paswan ",
+      "name": " Raja Ram Paswan ",
+      "num": "7091100504"
+    },
+    {
+      "aadhar": "628001210824",
+      "address": " .!Phular!!sherpur pyare  Phular Phular Vaishali!Vaishali!Vaishali!Bihar!844122 ",
+      "alt": "9661508349",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Asharfi  Paswan ",
+      "name": " Raja Ram Paswan ",
+      "num": "7091100504"
+    }
+  ]
+}
