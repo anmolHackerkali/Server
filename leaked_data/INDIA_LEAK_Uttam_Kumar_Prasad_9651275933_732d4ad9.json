@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:52:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9651275933",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Suresh Prasad!!127 BANK khas!!Banka Khas Kushinagar!Uttar Pradesh!274409",
+      "alt": "919793592516",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Suresh Prasad",
+      "name": "Uttam Kumar Prasad",
+      "num": "9651275933"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Suresh Prasad!!127 BANK khas!!Banka Khas Kushinagar!Uttar Pradesh!274409",
+      "alt": "919793592516",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Suresh Prasad",
+      "name": "Uttam Kumar Prasad",
+      "num": "9651275933"
+    },
+    {
+      "aadhar": "489936427743",
+      "address": "!212!Bank khaas!Bank khas!Bank khas!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kedar Yadav",
+      "name": "Sanjeev Kumar Yadav",
+      "num": "9793479113"
+    },
+    {
+      "aadhar": "576201528859",
+      "address": "S/O Nagina!Khairatia!Kushinagar!!Kushinagar!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nagina",
+      "name": "Vinod Prasad",
+      "num": "8756036290"
+    },
+    {
+      "aadhar": "311240076538",
+      "address": "!332!bank khaas!banka khaas!bank khaas!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bharat",
+      "name": "Sungandi",
+      "num": "8470835998"
+    },
+    {
+      "aadhar": "604086636543",
+      "address": "W/O  Omprakash!!Vedupar!!bank khaS!Banka Khas Tamkuhi Raj!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "Ranju Devi",
+      "num": "6307656483"
+    },
+    {
+      "aadhar": "489936427743",
+      "address": "!212!Bank khaas!Bank khas!Bank khas!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kedar Yadav",
+      "name": "Sanjeev Kumar Yadav",
+      "num": "9793479113"
+    },
+    {
+      "aadhar": "576201528859",
+      "address": "S/O Nagina!Khairatia!Kushinagar!!Kushinagar!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nagina",
+      "name": "Vinod Prasad",
+      "num": "8756036290"
+    },
+    {
+      "aadhar": "311240076538",
+      "address": "!332!bank khaas!banka khaas!bank khaas!Kushinagar!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bharat",
+      "name": "Sungandi",
+      "num": "8470835998"
+    },
+    {
+      "aadhar": "604086636543",
+      "address": "W/O  Omprakash!!Vedupar!!bank khaS!Banka Khas Tamkuhi Raj!Kushinagar!Uttar Pradesh!274409",
+      "alt": "9651275933",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "Ranju Devi",
+      "num": "6307656483"
+    }
+  ]
+}
