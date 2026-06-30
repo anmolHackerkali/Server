@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:52:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8630482600",
+  "records": [
+    {
+      "aadhar": "579324385277",
+      "address": "S/O: Mahipal Singh!!gali no. 4!shivaji nagar!Sikandrabad RuralBulandshahr!Uttar Pradesh!203205",
+      "alt": "+919536121385",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mahipal Singh",
+      "name": "Gopal Krishan",
+      "num": "8630482600"
+    },
+    {
+      "aadhar": "579324385277",
+      "address": "S/O: Mahipal Singh!!gali no. 4!shivaji nagar!Sikandrabad Rural Bulandshahr!Uttar Pradesh!203205",
+      "alt": "919536121385",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mahipal Singh",
+      "name": "Gopal Krishan",
+      "num": "8630482600"
+    },
+    {
+      "aadhar": "579324385277",
+      "address": "S/O: Mahipal Singh!!gali no. 4!shivaji nagar!Sikandrabad Rural Bulandshahr!Uttar Pradesh!203205",
+      "alt": "919536121385",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mahipal Singh",
+      "name": "Gopal Krishan",
+      "num": "8630482600"
+    }
+  ]
+}
