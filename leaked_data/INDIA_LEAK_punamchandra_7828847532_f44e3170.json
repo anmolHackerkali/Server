@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:13:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7828847532",
+  "records": [
+    {
+      "aadhar": "344173132816",
+      "address": "!!01 bekalda!NA!petlawad!Petlawad JHABUA!NA!Madhya Pradesh!457775",
+      "alt": "9981006034",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "gattu",
+      "name": "punamchandra",
+      "num": "7828847532"
+    }
+  ]
+}
