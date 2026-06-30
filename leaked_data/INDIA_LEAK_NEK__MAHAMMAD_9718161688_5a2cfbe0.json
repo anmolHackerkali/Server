@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:10:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9718161688",
+  "records": [
+    {
+      "aadhar": " 921431286262 ",
+      "address": "! 16/1006 ! Gali No 5 !  ! Bapa Nagar Karol Bagh ! ANAND PARAWAT-CENTRAL DELHI ! CENTRAL DELHI ! DL ! 110005",
+      "alt": "9911781201",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BIKAU  MIYA",
+      "name": "NEK  MAHAMMAD",
+      "num": "9718161688"
+    },
+    {
+      "aadhar": "921431286262",
+      "address": "! 16/1006 ! Gali No 5 !  ! Bapa Nagar Karol Bagh ! ANAND PARAWAT-CENTRAL DELHI ! CENTRAL DELHI ! DL ! 110005",
+      "alt": "9911781201",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BIKAU  MIYA",
+      "name": "NEK  MAHAMMAD",
+      "num": "9718161688"
+    },
+    {
+      "aadhar": "921431286262",
+      "address": "! 16/1006 ! Gali No 5 !  ! Bapa Nagar Karol Bagh ! ANAND PARAWAT-CENTRAL DELHI ! CENTRAL DELHI ! DL ! 110005",
+      "alt": "9911781201",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BIKAU  MIYA",
+      "name": "NEK  MAHAMMAD",
+      "num": "9718161688"
+    }
+  ]
+}
