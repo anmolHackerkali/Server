@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:42:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8433006142",
+  "records": [
+    {
+      "aadhar": "336053327757",
+      "address": "W/O  Brajesh Sharma!!House no-1754!beri bagh!SaharanpurSaharanpur!Uttar Pradesh!247001",
+      "alt": "+919927241376",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Brajesh Sharma",
+      "name": "Reena",
+      "num": "8433006142"
+    }
+  ]
+}
