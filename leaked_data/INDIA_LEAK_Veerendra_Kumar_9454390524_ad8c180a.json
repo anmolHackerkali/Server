@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:11:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9454390524",
+  "records": [
+    {
+      "aadhar": "538163701551",
+      "address": "s/o  ram prasad! 186!Tanda!gram mohammadpur sabukpur post husainpur girant!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7505256647",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram prasad",
+      "name": "Veerendra Kumar",
+      "num": "9454390524"
+    },
+    {
+      "aadhar": "538163701551",
+      "address": "s/o  ram prasad! 186!Tanda!gram mohammadpur sabukpur post husainpur girant!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7505256647",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram prasad",
+      "name": "Veerendra Kumar",
+      "num": "9454390524"
+    }
+  ]
+}
