@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 02:31:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303147087",
+  "records": [
+    {
+      "aadhar": "257153310731",
+      "address": "S/O  Babu Lal!52!Jhansi illahabadi mohalla puliya no-9 Sipri Bazar!NA!!Jhansi Mauranipur Jhansi!NA!Uttar Pradesh!284003",
+      "alt": "9956053504",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu Lal",
+      "name": "Manoj Kumar",
+      "num": "8303147087"
+    },
+    {
+      "aadhar": "257153310731",
+      "address": "S/O  Babu Lal!52!Jhansi illahabadi mohalla puliya no-9 Sipri Bazar!NA!!Jhansi Mauranipur Jhansi!NA!Uttar Pradesh!284003",
+      "alt": "9956053504",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu Lal",
+      "name": "Manoj Kumar",
+      "num": "8303147087"
+    }
+  ]
+}
