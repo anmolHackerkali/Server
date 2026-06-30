@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:06:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7324054913",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Rajendra Ray!ward no 01!!!village pandaul!Pandaul urf Panthpakar!Sitamarhi!Bihar!843322",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajendra Ray",
+      "name": "Ram Shankar Ray",
+      "num": "7324054913"
+    },
+    {
+      "aadhar": "561038193892",
+      "address": " S/O  Rajendra Ray S/O  Rajendra Ray  ward no 01 Panthpakar  Bathnaha . PANDAUL URF PANTHPAKAR-SITAMARHI BR 843322 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJENDRA  RAY ",
+      "name": " RAM SHANKAR RAY ",
+      "num": "7324054913"
+    },
+    {
+      "aadhar": "561038193892",
+      "address": " S/O  Rajendra Ray S/O  Rajendra Ray  ward no 01 Panthpakar  Bathnaha . PANDAUL URF PANTHPAKAR-SITAMARHI BR 843322 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJENDRA  RAY ",
+      "name": " RAM SHANKAR RAY ",
+      "num": "7324054913"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rajendra Ray!ward no 01!!!village pandaul!Pandaul urf Panthpakar!Sitamarhi!Bihar!843322",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajendra Ray",
+      "name": "Ram Shankar Ray",
+      "num": "7324054913"
+    }
+  ]
+}
