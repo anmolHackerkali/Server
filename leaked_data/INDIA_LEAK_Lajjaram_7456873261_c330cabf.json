@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:23:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7456873261",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Gauri Shankar!!!!jalokhar!Jalokhar!Auraiya!Uttar Pradesh!206122",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Gauri Shankar",
+      "name": "Lajjaram",
+      "num": "7456873261"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Gauri Shankar!!!!jalokhar!Jalokhar!Auraiya!Uttar Pradesh!206122",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Gauri Shankar",
+      "name": "Lajjaram",
+      "num": "7456873261"
+    }
+  ]
+}
