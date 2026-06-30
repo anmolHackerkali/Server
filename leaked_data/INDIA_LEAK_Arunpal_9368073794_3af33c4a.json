@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:02:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368073794",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Yogendra Singh!!village pirbiyabani post sanota sikandrabad!!Piriyabani Bulandshahr!Uttar Pradesh!203205",
+      "alt": "919152706900",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Yogendra Singh",
+      "name": "Arunpal",
+      "num": "9368073794"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Yogendra Singh!!village pirbiyabani post sanota sikandrabad!!Piriyabani Bulandshahr!Uttar Pradesh!203205",
+      "alt": "919152706900",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Yogendra Singh",
+      "name": "Arunpal",
+      "num": "9368073794"
+    }
+  ]
+}
