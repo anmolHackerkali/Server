@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:56:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9708332567",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Mokhtar Prasad!!SALEMPUR PURVI!salempur!Salempur Gopalganj!Bihar!841405",
+      "alt": "916285388789",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mokhtar Prasad",
+      "name": "Ramesh Kumar Prasad",
+      "num": "9708332567"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Mokhtar Prasad!!SALEMPUR PURVI!salempur!Salempur Gopalganj!Bihar!841405",
+      "alt": "916285388789",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mokhtar Prasad",
+      "name": "Ramesh Kumar Prasad",
+      "num": "9708332567"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Mokhtar Prasad!!SALEMPUR PURVI!salempur!Salempur Gopalganj!Bihar!841405",
+      "alt": "916285388789",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mokhtar Prasad",
+      "name": "Ramesh Kumar Prasad",
+      "num": "9708332567"
+    }
+  ]
+}
