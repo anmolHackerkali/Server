@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:58:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7706926429",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Shahroz Alam Khan!.!. GHERSHAMU KHAN!. Farrukhabad!GHERSHAMU KHAN!Farrukhabad!UTTAR PRADESH!209625",
+      "alt": "8957574022",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shahroz Alam Khan",
+      "name": "Mo Faiz Khan",
+      "num": "7706926429"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Shahroz Alam Khan!.!. GHERSHAMU KHAN!. Farrukhabad!GHERSHAMU KHAN!Farrukhabad!UTTAR PRADESH!209625",
+      "alt": "8957574022",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shahroz Alam Khan",
+      "name": "Mo Faiz Khan",
+      "num": "7706926429"
+    }
+  ]
+}
