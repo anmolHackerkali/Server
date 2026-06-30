@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:44:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8002184323",
+  "records": [
+    {
+      "aadhar": "324947081519",
+      "address": "S/O Shivbalak Choudhary!ward7!!asinchak Harsankarpur!choudhary tola!Samastipur!Bihar!848114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shivbalak  Choudhary",
+      "name": "Shailendra Kumar Choudhary",
+      "num": "8002184323"
+    },
+    {
+      "aadhar": "324947081519",
+      "address": "S/O Shivbalak Choudhary!ward7!!asinchak Harsankarpur!choudhary tola!Samastipur!Bihar!848114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shivbalak  Choudhary",
+      "name": "Shailendra Kumar Choudhary",
+      "num": "8002184323"
+    }
+  ]
+}
