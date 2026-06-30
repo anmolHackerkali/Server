@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:11:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9528213142",
+  "records": [
+    {
+      "aadhar": "468834862580",
+      "address": "S/O  Brhamsingh!!chhurChhur!!chhur meerut chhur!ChhurSardhana!Meerut!Uttar Pradesh!250342",
+      "alt": "9760889002",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Brhamsingh",
+      "name": "Vedpal",
+      "num": "9528213142"
+    },
+    {
+      "aadhar": "468834862580",
+      "address": "S/O  Brhamsingh!!chhur Chhur!!chhur meerut chhur!Chhur Sardhana!Meerut!Uttar Pradesh!250342",
+      "alt": "9760889002",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Brhamsingh",
+      "name": "Vedpal",
+      "num": "9528213142"
+    },
+    {
+      "aadhar": "468834862580",
+      "address": "S/O  Brhamsingh!!chhur Chhur!!chhur meerut chhur!Chhur Sardhana!Meerut!Uttar Pradesh!250342",
+      "alt": "9760889002",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Brhamsingh",
+      "name": "Vedpal",
+      "num": "9528213142"
+    }
+  ]
+}
