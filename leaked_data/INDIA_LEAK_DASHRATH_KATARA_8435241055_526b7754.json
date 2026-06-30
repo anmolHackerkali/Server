@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:06:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8435241055",
+  "records": [
+    {
+      "aadhar": "476911086438",
+      "address": "!Gram-Padunikhurd!Paduni Khurd dhar DHAR!!!AKOLYA!DHAR!Madhya Pradesh!454111",
+      "alt": "8878752027",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RATANLAL ",
+      "name": "DASHRATH KATARA",
+      "num": "8435241055"
+    },
+    {
+      "aadhar": null,
+      "address": " Gram Kalariya Agadi  Indore Indore  Madhya Pradesh 453001",
+      "alt": "8435241055",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mohan",
+      "name": "Sunil",
+      "num": "9753806115 "
+    }
+  ]
+}
