@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:12:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8905116035",
+  "records": [
+    {
+      "aadhar": "780091953409",
+      "address": "s/o  bharatlal!!padunikhurd!!gram padunikhurd!paduni khurd!dhar!Madhya Pradesh!454111",
+      "alt": "9617423167",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "bharatlal",
+      "name": "Sumit Verma",
+      "num": "8905116035"
+    },
+    {
+      "aadhar": "780091953409",
+      "address": "!B J Road Band Station Bandra!B J Road Band Station Bandra Bandra West paduni khurd DHAR!Mumbai!Mumbai!BARMANDAL!DHAR!Madhya Pradesh!454111",
+      "alt": "8905116035",
+      "circle": "VI MP",
+      "email": "actorpremverma1913@gmail.com",
+      "fname": "BHARATLAL SALMAN KHAN KA",
+      "name": "ACTOR PREM VERMA",
+      "num": "9617423167"
+    },
+    {
+      "aadhar": "528964973833",
+      "address": "W/O BHEROOLAL!GRAM CHANDODIYA TEH SARDARPUR  CHANDODIYA!GRAM CHANDODIYA TEH SARDARPUR  CHANDODIYA!GRAM CHANDODIYA TEH SARDARPUR  CHANDODIYA!chandodiya DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "8905116035",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "bherulal",
+      "name": "MS FULI ",
+      "num": "9285418577"
+    },
+    {
+      "aadhar": null,
+      "address": " Gram-Paduni Khurd Tehsil Sardarpur Paduni Khurd  Dhar Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "8905116035",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Kalu",
+      "name": "Mansing",
+      "num": "9098775077 "
+    },
+    {
+      "aadhar": null,
+      "address": " Gram-Padunikhurd Paduni Khurd  Dhar Dhar  Madhya Pradesh 454111",
+      "alt": "8905116035",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bharatlal",
+      "name": "Sumit Vemma",
+      "num": "8602942890 "
+    },
+    {
+      "aadhar": null,
+      "address": " Gram- Sema Ikhedi Post-Khuntpala Teh- Sardarpur Sema Ikhedi Khurd  Dhar Dhar  Madhya Pradesh 454111",
+      "alt": "8905116035",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mangeelal",
+      "name": "Bhuree Bai",
+      "num": "8461890768 "
+    },
+    {
+      "aadhar": null,
+      "address": " Gram-Paduni Khurd Tehsil Sardarpur Paduni Khurd  Dhar Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "8905116035",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Kalu",
+      "name": "Mansing",
+      "num": "8120694133 "
+    },
+    {
+      "aadhar": "426644146542",
+      "address": "D/O GOMA!GRAM BARMANDAL TOHSII SARDARPUR!GRAM BARMANDAL TOHSII SARDARPUR 0!0!sardarpur DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "8905116035",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Goma",
+      "name": "MS SAVITA KATARA",
+      "num": "7611108760"
+    },
+    {
+      "aadhar": null,
+      "address": " Gram-patoliya teh-sardarpur Patolaya  Dhar Barkheda Dhar  Madhya Pradesh 454111",
+      "alt": "8905116035",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Nandu",
+      "name": "Shanti Bai",
+      "num": "7389354374 "
+    }
+  ]
+}
