@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:12:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319477318",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!45!naya bans!sec15!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Babli",
+      "name": "Vanshika Sain",
+      "num": "9319477318"
+    },
+    {
+      "aadhar": "458114354046",
+      "address": "!c-8/98!sultan puri c block!!sultanpuri!sultan puri.. sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9318414081",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Rajkumar verma",
+      "name": "Himanshu Verma",
+      "num": "9319477318"
+    },
+    {
+      "aadhar": null,
+      "address": "!45!naya bans!sec15!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Babli",
+      "name": "Vanshika Sain",
+      "num": "9319477318"
+    },
+    {
+      "aadhar": "458114354046",
+      "address": "!c-8/98!sultan puri c block!!sultanpuri!sultan puri sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9318414081",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Rajkumar verma",
+      "name": "Himanshu Verma",
+      "num": "9319477318"
+    },
+    {
+      "aadhar": null,
+      "address": "!45!naya bans!sec15!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Babli",
+      "name": "Vanshika Sain",
+      "num": "9319477318"
+    },
+    {
+      "aadhar": "458114354046",
+      "address": "!c-8/98!sultan puri c block!!sultanpuri!sultan puri sultanpuri c block!north west delhi!Delhi!110086",
+      "alt": "9318414081",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Rajkumar verma",
+      "name": "Himanshu Verma",
+      "num": "9319477318"
+    }
+  ]
+}
