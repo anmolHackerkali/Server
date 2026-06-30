@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:18:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8409701560",
+  "records": [
+    {
+      "aadhar": "789818786717",
+      "address": "Gonkura!gonkura!Nalanda Temple!Temple!S/O  Mundrika Gop  gonkura NALANDA!MADHOPUR B O - NLD!NALANDA!BIHAR!803108",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Mundrika GOP",
+      "name": "MR  SURENDRA YADAV",
+      "num": "8409701560"
+    },
+    {
+      "aadhar": "789818786717",
+      "address": "Gonkura!gonkura!Nalanda Temple!Temple!S/O  Mundrika Gop  gonkura NALANDA!MADHOPUR B O - NLD!NALANDA!BIHAR!803108",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Mundrika GOP",
+      "name": "MR  SURENDRA YADAV",
+      "num": "8409701560"
+    },
+    {
+      "aadhar": "xxxxxxxx6717",
+      "address": "S/O  Mundrika Gop!S/O  Mundrika Gop!gonkura  NALANDA!!GONKURA!Bihar!803108",
+      "alt": "8409701560",
+      "circle": "VODA BHR&JHR",
+      "email": "surendra76549yadav@gmail.com",
+      "fname": "MUNDRIKA GOP",
+      "name": "SURENDRA YADAV",
+      "num": "7654970313"
+    },
+    {
+      "aadhar": "xxxx-xxxx-6717",
+      "address": " S/O  Mundrika Gop S/O  Mundrika Gop . gonkura   GONKURA-Nalanda BR 803108 ",
+      "alt": "8409701560",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MUNDRIKA  GOP ",
+      "name": " SURENDRA  YADAV ",
+      "num": "7654970313"
+    },
+    {
+      "aadhar": "322850742862",
+      "address": "W/O Surendra Yadav!gonkura Gonkura!!!!Nalanda Gonkura Chandi!Bihar!803108",
+      "alt": "8409701560",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Surendra  Yadav",
+      "name": "Baby  Devi",
+      "num": "7462018796"
+    },
+    {
+      "aadhar": "xxxxxxxx6717",
+      "address": "S/O  Mundrika Gop!S/O  Mundrika Gop!gonkura  NALANDA!!GONKURA!Bihar!803108",
+      "alt": "8409701560",
+      "circle": "VODA BHR&JHR",
+      "email": "surendra76549yadav@gmail.com",
+      "fname": "MUNDRIKA GOP",
+      "name": "SURENDRA YADAV",
+      "num": "7654970313"
+    },
+    {
+      "aadhar": "xxxx-xxxx-6717",
+      "address": " S/O  Mundrika Gop S/O  Mundrika Gop . gonkura   GONKURA-Nalanda BR 803108 ",
+      "alt": "8409701560",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MUNDRIKA  GOP ",
+      "name": " SURENDRA  YADAV ",
+      "num": "7654970313"
+    },
+    {
+      "aadhar": "322850742862",
+      "address": "W/O Surendra Yadav!gonkura Gonkura!!!!Nalanda Gonkura Chandi!Bihar!803108",
+      "alt": "8409701560",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Surendra  Yadav",
+      "name": "Baby  Devi",
+      "num": "7462018796"
+    }
+  ]
+}
