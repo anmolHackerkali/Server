@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:57:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9719719715",
+  "records": [
+    {
+      "aadhar": "260945902839",
+      "address": "S/O  Rajeshwar Gaur!!Bihra!!!BihraBulandshahr!Bulandshahr!Uttar Pradesh!245407",
+      "alt": "9759413015",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rajeshwar Gaur",
+      "name": "Hitendra Gaur",
+      "num": "9719719715"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Rajeshwar Gaur!House No.!09!!!Pipala Ikhlaspur!Bulandshahr!Uttar Pradesh!245407 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Rajeshwar Gaur ",
+      "name": " Hitendra Gaur ",
+      "num": "9719719715"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Rajeshwar Gaur!House No.!09!!!Pipala Ikhlaspur!Bulandshahr!Uttar Pradesh!245407 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Rajeshwar Gaur ",
+      "name": " Hitendra Gaur ",
+      "num": "9719719715"
+    }
+  ]
+}
