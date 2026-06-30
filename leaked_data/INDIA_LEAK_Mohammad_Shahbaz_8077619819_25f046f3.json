@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:26:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619819",
+  "records": [
+    {
+      "aadhar": "949460075015",
+      "address": "S/O: Nisar Ahmad!!!mohalla-painbagh!NajibabadBijnor!Uttar Pradesh!246763",
+      "alt": "+918057429718",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Nisar Ahmad",
+      "name": "Mohammad Shahbaz",
+      "num": "8077619819"
+    }
+  ]
+}
