@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:32:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650639168",
+  "records": [
+    {
+      "aadhar": "Fxx1952779",
+      "address": "S/201 Lalita Park Laxmi Nagar  Delhi Delhi Delhi 110092! ! !!!",
+      "alt": "8800159454",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bhuvanachandra  Pant",
+      "name": "Prakash  Pant",
+      "num": "9650639168"
+    },
+    {
+      "aadhar": "Fxx1952779",
+      "address": "!S/201 Lalita Park Laxmi Nagar  Delhi Delhi Delhi 110092!!!!!!!",
+      "alt": "8800159454",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bhuvanachandra  Pant",
+      "name": "Prakash  Pant",
+      "num": "9650639168"
+    },
+    {
+      "aadhar": "Fxx1952779",
+      "address": "S/201 Lalita Park Laxmi Nagar  Delhi Delhi Delhi 110092       ",
+      "alt": "8800159454",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bhuvanachandra  Pant",
+      "name": "Prakash  Pant",
+      "num": "9650639168"
+    },
+    {
+      "aadhar": "Fxx1952779",
+      "address": "S/201 Lalita Park Laxmi Nagar  Delhi Delhi Delhi 110092       ",
+      "alt": "8800159454",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bhuvanachandra  Pant",
+      "name": "Prakash  Pant",
+      "num": "9650639168"
+    },
+    {
+      "aadhar": "714995157830",
+      "address": "!114!Kayasthwara!!Kayasthwara!Bulandshahar!!Uttar Pradesh!203205",
+      "alt": "9650639168",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhuwan Chandra Pant",
+      "name": "Prakash Pant",
+      "num": "9411806560"
+    },
+    {
+      "aadhar": "714995157830",
+      "address": "!114!Kayasthwara!!Kayasthwara!Bulandshahar!!Uttar Pradesh!203205",
+      "alt": "9650639168",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhuwan Chandra Pant",
+      "name": "Prakash Pant",
+      "num": "9411806560"
+    }
+  ]
+}
