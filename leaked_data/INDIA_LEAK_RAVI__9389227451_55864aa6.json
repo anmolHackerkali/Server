@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:59:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389227451",
+  "records": [
+    {
+      "aadhar": "AVD0605725",
+      "address": "H NO 22 168 24!MOH FULKOHANA ANSH!VARANASI!VARANASI!UTTAR PRADESH!221003",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "UMASHANKAR",
+      "name": "RAVI .",
+      "num": "9389227451"
+    },
+    {
+      "aadhar": "AVD0605725",
+      "address": "H NO 22 168 24!MOH FULKOHANA ANSH!VARANASI!VARANASI!UTTAR PRADESH!221003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "UMASHANKAR",
+      "name": "RAVI ",
+      "num": "9389227451"
+    },
+    {
+      "aadhar": "AVD0605725",
+      "address": "H NO 22 168 24!MOH FULKOHANA ANSH!VARANASI!VARANASI!UTTAR PRADESH!221003",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "UMASHANKAR",
+      "name": "RAVI ",
+      "num": "9389227451"
+    }
+  ]
+}
