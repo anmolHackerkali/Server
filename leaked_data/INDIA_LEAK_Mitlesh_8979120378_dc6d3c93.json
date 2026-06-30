@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:12:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8979120378",
+  "records": [
+    {
+      "aadhar": "876933167176",
+      "address": "W/O Harvir!Sankrod!Sankrodh!!Baghpat!Baghpat!Bagpat!Uttar Pradesh!250101",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harvir",
+      "name": "Mitlesh",
+      "num": "8979120378"
+    },
+    {
+      "aadhar": "876933167176",
+      "address": "W/O Harvir!Sankrod!Sankrodh!!Baghpat!Baghpat!Bagpat!Uttar Pradesh!250101",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Harvir",
+      "name": "Mitlesh",
+      "num": "8979120378"
+    }
+  ]
+}
