@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:26:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619817",
+  "records": [
+    {
+      "aadhar": "759495080517",
+      "address": "S/O: Chandr Pal!!house no.795!u p steel!NaraMuzaffarnagar!Uttar Pradesh!251203",
+      "alt": "+917417901248",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Chandr Pal",
+      "name": "Ashok Kumar",
+      "num": "8077619817"
+    },
+    {
+      "aadhar": "759495080517",
+      "address": "S/O: Chandr Pal!!house no.795!u p steel!Nara Muzaffarnagar!Uttar Pradesh!251203",
+      "alt": "917417901248",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Chandr Pal",
+      "name": "Ashok Kumar",
+      "num": "8077619817"
+    },
+    {
+      "aadhar": "759495080517",
+      "address": "S/O: Chandr Pal!!house no.795!u p steel!Nara Muzaffarnagar!Uttar Pradesh!251203",
+      "alt": "917417901248",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Chandr Pal",
+      "name": "Ashok Kumar",
+      "num": "8077619817"
+    }
+  ]
+}
