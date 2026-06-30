@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 14:40:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809448901",
+  "records": [
+    {
+      "aadhar": "989697802547",
+      "address": "S/O Munilal Paswan!Sherpur Pyare Jalalpur Gangti!!!!Vaishali!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Munilal  Paswan",
+      "name": "Asharfi  Paswan",
+      "num": "8809448901"
+    },
+    {
+      "aadhar": "989697802547",
+      "address": "S/O Munilal Paswan!Sherpur Pyare Jalalpur Gangti!!!!Vaishali!Bihar!844122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Munilal  Paswan",
+      "name": "Asharfi  Paswan",
+      "num": "8809448901"
+    }
+  ]
+}
