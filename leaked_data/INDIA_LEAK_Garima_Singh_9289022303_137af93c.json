@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:09:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9289022303",
+  "records": [
+    {
+      "aadhar": "756908547405",
+      "address": "D/O Sherpal Singh!744/2!gali no 1!!sec 9 Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201009",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sherpal Singh",
+      "name": "Garima Singh",
+      "num": "9289022303"
+    },
+    {
+      "aadhar": "756908547405",
+      "address": "D/O Sherpal Singh!744/2!gali no 1!!sec 9 Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201009",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sherpal Singh",
+      "name": "Garima Singh",
+      "num": "9289022303"
+    },
+    {
+      "aadhar": "756908547405",
+      "address": "D/O Sherpal Singh!744/2!gali no 1!!sec 9 Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201009",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sherpal Singh",
+      "name": "Garima Singh",
+      "num": "9289022303"
+    }
+  ]
+}
