@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:43:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7011903593",
+  "records": [
+    {
+      "aadhar": "674369508587",
+      "address": "!1 sf floor b block cw nee Delhi n r!Delhi!Delhi!Delhi Central Delhi!Delhi!110006",
+      "alt": "919682291596",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satyadev",
+      "name": "Anuj Kumar",
+      "num": "7011903593"
+    },
+    {
+      "aadhar": "674369508587",
+      "address": "!1 sf floor b block cw nee Delhi n r!Delhi!Delhi!DelhiCentral Delhi!Delhi!110006",
+      "alt": "919682291596",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satyadev",
+      "name": "Anuj Kumar",
+      "num": "7011903593"
+    },
+    {
+      "aadhar": "674369508587",
+      "address": "!1 sf floor b block cw nee Delhi n r!Delhi!Delhi!DelhiCentral Delhi!Delhi!110006",
+      "alt": "919682291596",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satyadev",
+      "name": "Anuj Kumar",
+      "num": "7011903593"
+    },
+    {
+      "aadhar": "738709396010",
+      "address": "!5/O: DINESHBABOO NAGLA BHANSI ARDOI P!5/O: DINESHBABOO NAGLA BHANSI ARDOI P!rupapur!Nagla BhaisiHARDOI!HARDOI!UTTAR PRADESH!241123",
+      "alt": "7011903593",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Dineshbabu",
+      "name": "MR. SOMESH BABU",
+      "num": "8948571569"
+    },
+    {
+      "aadhar": "738709396010",
+      "address": "!5/O: DINESHBABOO  NAGLA BHANSI  ARDOI  P!5/O: DINESHBABOO  NAGLA BHANSI  ARDOI  P!rupapur!Nagla Bhaisi HARDOI!HARDOI!UTTAR PRADESH!241123",
+      "alt": "7011903593",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dineshbabu",
+      "name": "MR SOMESH BABU",
+      "num": "8948571569"
+    },
+    {
+      "aadhar": "674369508587",
+      "address": "s/o  satyadev!!Pali!!pali!nagla bhainsi Sawayajpur!hardoi!Uttar Pradesh!241123",
+      "alt": "7011903593",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "satyadev",
+      "name": "Anuj Kumar",
+      "num": "7394813249"
+    },
+    {
+      "aadhar": "738709396010",
+      "address": "!5/O: DINESHBABOO  NAGLA BHANSI  ARDOI  P!5/O: DINESHBABOO  NAGLA BHANSI  ARDOI  P!rupapur!Nagla Bhaisi HARDOI!HARDOI!UTTAR PRADESH!241123",
+      "alt": "7011903593",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Dineshbabu",
+      "name": "MR SOMESH BABU",
+      "num": "8948571569"
+    },
+    {
+      "aadhar": "674369508587",
+      "address": "s/o  satyadev!!Pali!!pali!nagla bhainsi Sawayajpur!hardoi!Uttar Pradesh!241123",
+      "alt": "7011903593",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "satyadev",
+      "name": "Anuj Kumar",
+      "num": "7394813249"
+    }
+  ]
+}
