@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 12:55:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7754061454",
+  "records": [
+    {
+      "aadhar": "484509983142",
+      "address": "W/O!Rajesh!Vill Udahin Khurd Post Udahin Bujurg!Udhin Khurd!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Rajesh",
+      "name": "Heeramani",
+      "num": "7754061454"
+    },
+    {
+      "aadhar": "484509983142",
+      "address": "W/O!Rajesh!Vill Udahin Khurd Post Udahin Bujurg!Udhin Khurd!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Rajesh",
+      "name": "Heeramani",
+      "num": "7754061454"
+    },
+    {
+      "aadhar": "484509983142",
+      "address": "!WO Rajesh!Vill Udahin Khurd Post Udahin Bujurg!mandir!Udhin Khurd!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": "7754061454",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "rajesh",
+      "name": "Heeramani",
+      "num": "8355061454"
+    },
+    {
+      "aadhar": "484509983142",
+      "address": "!WO Rajesh!Vill Udahin Khurd Post Udahin Bujurg!mandir!Udhin Khurd!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": "7754061454",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "rajesh",
+      "name": "Heeramani",
+      "num": "8355061454"
+    }
+  ]
+}
