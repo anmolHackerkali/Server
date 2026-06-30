@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:22:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810561020",
+  "records": [
+    {
+      "aadhar": "618464028014",
+      "address": "!HOUSE NO 201!prakash vihar LONI!Loni fatak!Loni DEHAT HAPUR!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9811699194",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dharmapl rAheja",
+      "name": "Ankit RAheja",
+      "num": "9810561020"
+    },
+    {
+      "aadhar": "618464028014",
+      "address": "!HOUSE NO 201!prakash vihar LONI!Loni fatak!Loni DEHAT HAPUR!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9811699194",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dharmapl rAheja",
+      "name": "Ankit RAheja",
+      "num": "9810561020"
+    },
+    {
+      "aadhar": "618464028014",
+      "address": "!HOUSE NO 201!prakash vihar LONI!Loni fatak!Loni DEHAT HAPUR!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9811699194",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dharmapl rAheja",
+      "name": "Ankit RAheja",
+      "num": "9810561020"
+    },
+    {
+      "aadhar": "618464028014",
+      "address": "!HOUSE NO 201!prakash vihar LONI!Loni fatak!Loni DEHAT HAPUR!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9811699194",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dharmapl rAheja",
+      "name": "Ankit RAheja",
+      "num": "9810561020"
+    },
+    {
+      "aadhar": "618464028014",
+      "address": "!HOUSE NO 201!prakash vihar LONI!Loni fatak!Loni DEHAT HAPUR!Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9811699194",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dharmapl rAheja",
+      "name": "Ankit RAheja",
+      "num": "9810561020"
+    },
+    {
+      "aadhar": "392283483050",
+      "address": "W/O Suresh!rasoolpur rithori!Rasoolpur Rithauli!!Bulandshahr!Gautam Buddha Nagar!BULANDSHAHR!Uttar Pradesh!203202",
+      "alt": "9810561020",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Poonam",
+      "num": "9084406782"
+    },
+    {
+      "aadhar": "392283483050",
+      "address": "W/O Suresh!rasoolpur rithori!Rasoolpur Rithauli!!Bulandshahr!Gautam Buddha Nagar!BULANDSHAHR!Uttar Pradesh!203202",
+      "alt": "9810561020",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Poonam",
+      "num": "9084406782"
+    }
+  ]
+}
