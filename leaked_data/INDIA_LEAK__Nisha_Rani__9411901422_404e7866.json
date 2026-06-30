@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:47:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9411901422",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " !Manjupur!!!Bulandshahr!Uttar Pradesh!203205 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ravindra  Kumar ",
+      "name": " Nisha Rani ",
+      "num": "9411901422"
+    },
+    {
+      "aadhar": null,
+      "address": " !Manjupur!!!Bulandshahr!Uttar Pradesh!203205 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ravindra  Kumar ",
+      "name": " Nisha Rani ",
+      "num": "9411901422"
+    },
+    {
+      "aadhar": "781591914158",
+      "address": "!ntpc socity!164 gr noida!NA!gb nagar!Ghaziabad Gautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "9411901422",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Nisha Rani",
+      "num": "9354542904"
+    },
+    {
+      "aadhar": "781591914158",
+      "address": "!ntpc socity!164 gr noida!NA!gb nagar!Ghaziabad Gautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "9411901422",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Nisha Rani",
+      "num": "9354542904"
+    },
+    {
+      "aadhar": "781591914158",
+      "address": "D/O Ravindra Kumar  . .  . Ishmail Pur  Sikandrabad . MANJUPUR-BULANDSHAHR UP 203205",
+      "alt": "9411901422",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "D/O Ravindra Kumar",
+      "name": "NISHA RANI",
+      "num": "7351322082"
+    },
+    {
+      "aadhar": "781591914158",
+      "address": "!ntpc socity!164 gr noida!NA!gb nagar!Ghaziabad Gautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "9411901422",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Nisha Rani",
+      "num": "9354542904"
+    },
+    {
+      "aadhar": "781591914158",
+      "address": "D/O Ravindra Kumar  . .  . Ishmail Pur  Sikandrabad . MANJUPUR-BULANDSHAHR UP 203205",
+      "alt": "9411901422",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "D/O Ravindra Kumar",
+      "name": "NISHA RANI",
+      "num": "7351322082"
+    }
+  ]
+}
