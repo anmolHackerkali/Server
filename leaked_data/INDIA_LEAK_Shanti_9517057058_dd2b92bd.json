@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:29:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9517057058",
+  "records": [
+    {
+      "aadhar": "523946686526",
+      "address": "w/o  bhagavan!!Sangwa!!padariya 2 sangwa!songawa Nanpara!bahraich!Uttar Pradesh!271855",
+      "alt": "8081096381",
+      "circle": "JIO UPE",
+      "email": "uzalacommonshop@gmail.com",
+      "fname": "bhagavan",
+      "name": "Shanti",
+      "num": "9517057058"
+    },
+    {
+      "aadhar": "523946686526",
+      "address": "w/o  bhagavan!!Sangwa!!padariya 2 sangwa!songawa Nanpara!bahraich!Uttar Pradesh!271855",
+      "alt": "8081096381",
+      "circle": "JIO UPE",
+      "email": "uzalacommonshop@gmail.com",
+      "fname": "bhagavan",
+      "name": "Shanti",
+      "num": "9517057058"
+    },
+    {
+      "aadhar": "232503902219",
+      "address": "s/o  ram jit!!Sangwa!!nayapurwa padariya sangwa!songawa Nanpara!bahraich!Uttar Pradesh!271855",
+      "alt": "9517057058",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram jit",
+      "name": "Mithilesh Kumar",
+      "num": "8810827532"
+    },
+    {
+      "aadhar": "232503902219",
+      "address": "s/o  ram jit!!Sangwa!!nayapurwa padariya sangwa!songawa Nanpara!bahraich!Uttar Pradesh!271855",
+      "alt": "9517057058",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram jit",
+      "name": "Mithilesh Kumar",
+      "num": "8810827532"
+    }
+  ]
+}
