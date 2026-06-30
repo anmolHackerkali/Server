@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:23:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6232757511",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Govardhan!!1 vijay nagar indore apna sweets indore!indore!Indore Indore!Madhya Pradesh!452001",
+      "alt": "918602168404",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Govardhan",
+      "name": "Durgesh",
+      "num": "6232757511"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Gulab!.!.!Gram-Dhantalab Dhar!!DHAR!Dhar!Madhya Pradesh!454111",
+      "alt": "6232757511",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Gulab",
+      "name": "Ramesh ",
+      "num": "9669044047"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Babu!.!julvaniya sardarpur!dedala Dhar!sardarpur!DHAR!Dhar!Madhya Pradesh!454111",
+      "alt": "6232757511",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Babu",
+      "name": "Mukesh ",
+      "num": "9294798571"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Galiya!.!.!baslai Dhar!!DHAR!Dhar!Madhya Pradesh!454660",
+      "alt": "6232757511",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "C/O Galiya",
+      "name": "Punamchand Gamad",
+      "num": "7354318030"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Soma!.!.Gram-Naharkhali!Tehsil-SardarapurDhar!Gram-Naharkhali!DHAR!Dhar!Madhya Pradesh!454111",
+      "alt": "6232757511",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Soma",
+      "name": "Balu ",
+      "num": "7354320247"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Kailash!.!.!Gram-Akolya Tehsil Sardarpur Dhar!!DHAR!Dhar!Madhya Pradesh!454111",
+      "alt": "6232757511",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "D/O Kailash",
+      "name": "Pooja ",
+      "num": "7049879331"
+    },
+    {
+      "aadhar": "357407382754",
+      "address": "s/o  bhamar singh!!Barmandal!!gram-panchrundi tehsil sardarpur barmandal!panchrundi Sardarpur!dhar!Madhya Pradesh!454111",
+      "alt": "6232757511",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "bhamar singh",
+      "name": "Bablu",
+      "num": "7049297089"
+    }
+  ]
+}
