@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:20:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9412418292",
+  "records": [
+    {
+      "aadhar": "929914979707",
+      "address": "! a28!sigma 4!!greater Noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9897737378",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bablu singh",
+      "name": "Rahul Chaudhary",
+      "num": "9412418292"
+    },
+    {
+      "aadhar": "929914979707",
+      "address": "!a28!sigma 4!!greater Noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9897737378",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bablu singh",
+      "name": "Rahul Chaudhary",
+      "num": "9412418292"
+    },
+    {
+      "aadhar": "929914979707",
+      "address": "!a28!sigma 4!!greater Noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9897737378",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bablu singh",
+      "name": "Rahul Chaudhary",
+      "num": "9412418292"
+    },
+    {
+      "aadhar": "961813715830",
+      "address": "!!vill Peerbiyabanipiriyabani!NA!sikandrabad!BulandshaharBulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9412418292",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Yogendra singh",
+      "name": "Bablu Singh",
+      "num": "9897737378"
+    },
+    {
+      "aadhar": "961813715830",
+      "address": "!!vill Peerbiyabani piriyabani!NA!sikandrabad!Bulandshahar Bulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9412418292",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Yogendra singh",
+      "name": "Bablu Singh",
+      "num": "9897737378"
+    },
+    {
+      "aadhar": "961813715830",
+      "address": "!!vill Peerbiyabani piriyabani!NA!sikandrabad!Bulandshahar Bulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9412418292",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Yogendra singh",
+      "name": "Bablu Singh",
+      "num": "9897737378"
+    }
+  ]
+}
