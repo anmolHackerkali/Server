@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:40:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8677828718",
+  "records": [
+    {
+      "aadhar": "604207695803",
+      "address": "Ram Ashish Thakur!ward no 18!Madhopur!khoksaha tol!Khoksa-Dalsinghsarai-Samastipur!Bihar!848211",
+      "alt": "9572073211",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Ram Ashish Thakur",
+      "name": "Sumitra Devi",
+      "num": "8677828718"
+    },
+    {
+      "aadhar": "604207695803",
+      "address": "Ram Ashish Thakur!ward no 18!Madhopur!khoksaha tol!Khoksa-Dalsinghsarai-Samastipur!Bihar!848211",
+      "alt": "9572073211",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Ram Ashish Thakur",
+      "name": "Sumitra Devi",
+      "num": "8677828718"
+    }
+  ]
+}
