@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:25:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619816",
+  "records": [
+    {
+      "aadhar": "550897889487",
+      "address": "S/O  Naresh Singh!!Jamuna!!JamunaAtrauliAligarh!Uttar Pradesh!202282",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Naresh Singh",
+      "name": "Rohit Kumar",
+      "num": "8077619816"
+    },
+    {
+      "aadhar": "550897889487",
+      "address": "S/O  Naresh Singh!! Jamuna!!Jamuna Atrauli Aligarh!Uttar Pradesh!202282",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Naresh Singh",
+      "name": "Rohit Kumar",
+      "num": "8077619816"
+    },
+    {
+      "aadhar": "550897889487",
+      "address": "S/O  Naresh Singh!! Jamuna!!Jamuna Atrauli Aligarh!Uttar Pradesh!202282",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Naresh Singh",
+      "name": "Rohit Kumar",
+      "num": "8077619816"
+    }
+  ]
+}
