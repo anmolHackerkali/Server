@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:31:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7049238708",
+  "records": [
+    {
+      "aadhar": "664324722700",
+      "address": "S/O Bhagirath!S/O Bhagirath  0!Imali Chouk  Gram-Hanumantiya Padmpura Tehsil Sardarpur!Sardarpur !CHOTIYA BALOD-DHAR!MP!454441",
+      "alt": null,
+      "circle": "VI MP",
+      "email": "balrammaru1@gmail.com",
+      "fname": "BHAGIRATH ",
+      "name": "BALRAM MARU",
+      "num": "7049238708"
+    },
+    {
+      "aadhar": "664324722700",
+      "address": "S/O Bhagirath!S/O Bhagirath  0!Imali Chouk  Gram-Hanumantiya Padmpura Tehsil Sardarpur!Sardarpur !CHOTIYA BALOD-DHAR!MP!454441",
+      "alt": "7049238708",
+      "circle": "VI MP",
+      "email": "balrammaru1@gmail.com",
+      "fname": "BHAGIRATH ",
+      "name": "BALRAM MARU",
+      "num": "9977465211"
+    },
+    {
+      "aadhar": "NPR0440222",
+      "address": "! 26 gram hanumantya padampura llage teh sardapur!dhar!Padampura!Sardarpur!Sardarpur!DHAR!Madhya Pradesh!454441",
+      "alt": "7049238708",
+      "circle": "JIO MP",
+      "email": "balrammaru1@gmail.com",
+      "fname": "BHAGIRATH",
+      "name": "BALRAM MARU",
+      "num": "9755521426"
+    },
+    {
+      "aadhar": null,
+      "address": " Majra- Dhantalab Gram-Baramandal Tehsil Sardarpur  Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "7049238708",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Shrvan",
+      "name": "Raju Mori",
+      "num": "9752682123 "
+    },
+    {
+      "aadhar": null,
+      "address": " Chhayan Dhar  Dhar Dhar  Madhya Pradesh 454111",
+      "alt": "7049238708",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Valchand Mavi",
+      "name": "Mahesh Mavi",
+      "num": "9316221293 "
+    },
+    {
+      "aadhar": "664324722700",
+      "address": "s/o bhagirath!padampura!padampura!imali chouk!gram-hanumantiya padmpura tehsil sardarpur!chotiya balod!dhar!Madhya Pradesh!454441",
+      "alt": "7049238708",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "bhagirath",
+      "name": "Balram Maru",
+      "num": "8319980400"
+    }
+  ]
+}
