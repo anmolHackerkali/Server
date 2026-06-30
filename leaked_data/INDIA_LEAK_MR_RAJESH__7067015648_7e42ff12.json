@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:22:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7067015648",
+  "records": [
+    {
+      "aadhar": "784676513061",
+      "address": "S/O Parmanand!04!barmandal dhar sardarpur dhar barmandal!sardarpur dhar barmandal!Gram-Barmandal  Barmandal  Dhar DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "9685115648",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Parmanand",
+      "name": "MR RAJESH ",
+      "num": "7067015648"
+    },
+    {
+      "aadhar": null,
+      "address": " Gram-Baramkhedi Tehsil-Sardarpur  Baramkhedi Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "7067015648",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Rugnath",
+      "name": "Dhanna",
+      "num": "9171213448 "
+    },
+    {
+      "aadhar": "532716109090",
+      "address": "S/O JALNATH!TEH SARDARPUR  GRAM - PADUNIKHURD!TEH SARDARPUR  GRAM - PADUNIKHURD DHAR!DHAR!BARMANDAL DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "7067015648",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "JalnathChouhan",
+      "name": "MR SURMALNATH CHOUHAN",
+      "num": "7694961600"
+    },
+    {
+      "aadhar": "739716197468",
+      "address": "S/O MANGLAL MALVI!DASHRA MEDAN  GRAM BARMANDAL!DASHRA MEDAN  GRAM BARMANDAL 0!0!BARMANDAL DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "7067015648",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Magilal",
+      "name": "MR PARMANAND PARMANAND MALVI",
+      "num": "7611107005"
+    }
+  ]
+}
