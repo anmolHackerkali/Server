@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:48:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9267972323",
+  "records": [
+    {
+      "aadhar": "903475845417",
+      "address": "! 542!gali no 5!near Sunday marcket!khora colony Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9315025764",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe rajput",
+      "name": "Himanshi Rajput",
+      "num": "9267972323"
+    },
+    {
+      "aadhar": "903475845417",
+      "address": "!542!gali no 5!near Sunday marcket!khora colony Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9315025764",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe rajput",
+      "name": "Himanshi Rajput",
+      "num": "9267972323"
+    },
+    {
+      "aadhar": "903475845417",
+      "address": "!542!gali no 5!near Sunday marcket!khora colony Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9315025764",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "radhe rajput",
+      "name": "Himanshi Rajput",
+      "num": "9267972323"
+    }
+  ]
+}
