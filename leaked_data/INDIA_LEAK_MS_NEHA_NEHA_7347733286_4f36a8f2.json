@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 12:30:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7347733286",
+  "records": [
+    {
+      "aadhar": "844844594594",
+      "address": "D/O RAM KEVAL!273 GRAM MUHAMMADPUR SABUKPUR!273 GRAM MUHAMMADPUR SABUKPURMohammed !Mohammed pur!Mohammed purAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9838018977",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Keval",
+      "name": "MS. NEHA NEHA",
+      "num": "7347733286"
+    }
+  ]
+}
