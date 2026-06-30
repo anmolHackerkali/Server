@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:03:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899565671",
+  "records": [
+    {
+      "aadhar": "929914979707",
+      "address": "!372/5!kasna greater noida!NA!!Ghaziabad Gautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "8800753496",
+      "circle": "JIO DELHI",
+      "email": "rahul.chaudhary51@yahoo.com",
+      "fname": "Bablu Singh",
+      "name": "Rahul Chaudhary",
+      "num": "9899565671"
+    },
+    {
+      "aadhar": "929914979707",
+      "address": "!372/5!kasna greater noida!NA!!GhaziabadGautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "8800753496",
+      "circle": "JIO DELHI",
+      "email": "rahul.chaudhary51@yahoo.com",
+      "fname": "Bablu Singh",
+      "name": "Rahul Chaudhary",
+      "num": "9899565671"
+    },
+    {
+      "aadhar": "929914979707",
+      "address": "!372/5!kasna greater noida!NA!!GhaziabadGautam Buddha Nagar!NA!Uttar Pradesh!201310",
+      "alt": "8800753496",
+      "circle": "JIO DELHI",
+      "email": "rahul.chaudhary51@yahoo.com",
+      "fname": "Bablu Singh",
+      "name": "Rahul Chaudhary",
+      "num": "9899565671"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308! ! !!!",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "! B12!kasna!P3!Greater noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9899565671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "Vikas Chaudhary",
+      "num": "7838477470"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "!G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308!!!!!!!",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308       ",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "!B12!kasna!P3!Greater noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9899565671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "Vikas Chaudhary",
+      "num": "7838477470"
+    },
+    {
+      "aadhar": "Up1320130019599",
+      "address": "G L 164 Ntpc Society G R Noida G B Nagar   G B Nagar Uttar Pradesh 201308       ",
+      "alt": "9899565671",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bablu  Singh",
+      "name": "Rahul  Choudhary",
+      "num": "9560332296"
+    },
+    {
+      "aadhar": "484425248967",
+      "address": "!B12!kasna!P3!Greater noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9899565671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bablu Chaudhary",
+      "name": "Vikas Chaudhary",
+      "num": "7838477470"
+    }
+  ]
+}
