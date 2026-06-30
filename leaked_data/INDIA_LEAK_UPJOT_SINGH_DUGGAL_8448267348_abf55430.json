@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:11:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8448267348",
+  "records": [
+    {
+      "aadhar": "327940628862",
+      "address": "!M-59 3RD FLOOR!GALI NO-6!!NEW MAHAVIR NAGAR Tilak Nagar S O!Delhi!West Delhi!Delhi!110018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "SATINDER BEERSINGH DUGGAL",
+      "name": "UPJOT SINGH DUGGAL",
+      "num": "8448267348"
+    },
+    {
+      "aadhar": "327940628862",
+      "address": "!M-59 3RD FLOOR!GALI NO-6!!NEW MAHAVIR NAGAR Tilak Nagar S O!Delhi!West Delhi!Delhi!110018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "SATINDER BEERSINGH DUGGAL",
+      "name": "UPJOT SINGH DUGGAL",
+      "num": "8448267348"
+    },
+    {
+      "aadhar": "327940628862",
+      "address": "!M-59 3RD FLOOR!GALI NO-6!!NEW MAHAVIR NAGAR Tilak Nagar S O!Delhi!West Delhi!Delhi!110018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "SATINDER BEERSINGH DUGGAL",
+      "name": "UPJOT SINGH DUGGAL",
+      "num": "8448267348"
+    }
+  ]
+}
