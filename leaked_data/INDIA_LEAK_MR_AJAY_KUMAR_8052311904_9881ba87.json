@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:55:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052311904",
+  "records": [
+    {
+      "aadhar": "480256079063",
+      "address": "!04!itairampur!!KOTIYA ITAI RAMPUR ENTAI RAMPUR ENTAI RA!BALRAMPUR!UTTAR PRADESH!271604",
+      "alt": "7093644947",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Triveni Prasad",
+      "name": "MR. AJAY KUMAR",
+      "num": "8052311904"
+    },
+    {
+      "aadhar": "403213917694",
+      "address": "MUNSARIM HARPUR NAUGAVAN!HARPUR NAUGAVAN!KUSHINAGAR  ! !KOTWA KALAN KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "7887043749",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MUNSARIM",
+      "name": "MS JAIBUN NESHA",
+      "num": "8052311904"
+    },
+    {
+      "aadhar": "403213917694",
+      "address": "MUNSARIM HARPUR NAUGAVAN!HARPUR NAUGAVAN!KUSHINAGAR  ! !KOTWA KALAN KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "7887043749",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MUNSARIM",
+      "name": "MS JAIBUN NESHA",
+      "num": "8052311904"
+    }
+  ]
+}
