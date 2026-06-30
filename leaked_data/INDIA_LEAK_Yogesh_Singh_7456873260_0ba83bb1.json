@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:04:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7456873260",
+  "records": [
+    {
+      "aadhar": "KKR1790245",
+      "address": "!228!sei 2 Sei Sheragadh!Mandir!chhata Mathura!Mathura!Mathura!Uttar Pradesh!281406",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Vijay Pal",
+      "name": "Yogesh Singh",
+      "num": "7456873260"
+    },
+    {
+      "aadhar": "KKR1790245",
+      "address": "!228!sei 2 Sei Sheragadh!Mandir!chhata Mathura!Mathura!Mathura!Uttar Pradesh!281406",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Vijay Pal",
+      "name": "Yogesh Singh",
+      "num": "7456873260"
+    }
+  ]
+}
