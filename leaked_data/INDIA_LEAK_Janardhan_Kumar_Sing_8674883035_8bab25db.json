@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:50:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8674883035",
+  "records": [
+    {
+      "aadhar": "381755710191",
+      "address": "S/O  Amarjeet Prasad!!Siwan!!Bindusar Hamid!Siwan Siwan!Siwan!Bihar!841226",
+      "alt": "9835561497",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Amarjeet Prasad",
+      "name": "Janardhan Kumar Singh",
+      "num": "8674883035"
+    },
+    {
+      "aadhar": "381755710191",
+      "address": "S/O  Amarjeet Prasad!!Siwan!!Bindusar Hamid!Siwan Siwan!Siwan!Bihar!841226",
+      "alt": "9835561497",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Amarjeet Prasad",
+      "name": "Janardhan Kumar Singh",
+      "num": "8674883035"
+    },
+    {
+      "aadhar": "381755710191",
+      "address": "S/O  Amarjeet Prasad!!Siwan!!Bindusar Hamid!Siwan Siwan!Siwan!Bihar!841226",
+      "alt": "9835561497",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Amarjeet Prasad",
+      "name": "Janardhan Kumar Singh",
+      "num": "8674883035"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Janaradhan Kumar Singh!Bindusar Hamid! !  Siwan!!CHANAUR B O - SWN!Siwan!BIHAR!841227",
+      "alt": "8674883035",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "C/O  Janaradhan Kumar Singh",
+      "name": "Raman Kumar",
+      "num": "7362829376"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Janaradhan Kumar Singh!Bindusar Hamid! !  Siwan!!CHANAUR B O - SWN!Siwan!BIHAR!841227",
+      "alt": "8674883035",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "C/O  Janaradhan Kumar Singh",
+      "name": "Raman Kumar",
+      "num": "7362829376"
+    }
+  ]
+}
