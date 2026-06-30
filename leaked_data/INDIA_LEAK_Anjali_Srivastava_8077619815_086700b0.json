@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:25:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619815",
+  "records": [
+    {
+      "aadhar": "827981460609",
+      "address": "D/O Anil Kumar Srivastava!!17 Mansarovar GardenBisalpur RoadNear Green ParkRkuniversity!!BareillyNawabganjBareilly!Uttar Pradesh!243006",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Anil Kumar Srivastava",
+      "name": "Anjali Srivastava",
+      "num": "8077619815"
+    },
+    {
+      "aadhar": "827981460609",
+      "address": "D/O Anil Kumar Srivastava!!17 Mansarovar Garden Bisalpur Road Near Green Park Rkuniversity!!Bareilly Nawabganj Bareilly!Uttar Pradesh!243006",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anil Kumar Srivastava",
+      "name": "Anjali Srivastava",
+      "num": "8077619815"
+    },
+    {
+      "aadhar": "827981460609",
+      "address": "D/O Anil Kumar Srivastava!!17 Mansarovar Garden Bisalpur Road Near Green Park Rkuniversity!!Bareilly Nawabganj Bareilly!Uttar Pradesh!243006",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anil Kumar Srivastava",
+      "name": "Anjali Srivastava",
+      "num": "8077619815"
+    }
+  ]
+}
