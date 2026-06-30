@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 07:33:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9648415983",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Mahesh Kumar!1!nipaniya!. Jalaun!!Jalaun!UTTAR PRADESH!285130",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O Mahesh Kumar",
+      "name": "Neeraj Devi",
+      "num": "9648415983"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Mahesh Kumar!1!nipaniya!. Jalaun!!Jalaun!UTTAR PRADESH!285130",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O Mahesh Kumar",
+      "name": "Neeraj Devi",
+      "num": "9648415983"
+    },
+    {
+      "aadhar": "806803391689",
+      "address": "s/o  nokhe lal!!Urdauli!!punch pur urdauli!kater ganj Misrikh!sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nokhe lal",
+      "name": "Virendra",
+      "num": "9696354132"
+    },
+    {
+      "aadhar": "524837055873",
+      "address": "w/o  avdhesh!!Urdauli!!gurhiya urdauli!kater ganj Misrikh!sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "avdhesh",
+      "name": "Ram Pyari",
+      "num": "9369285228"
+    },
+    {
+      "aadhar": "451174101658",
+      "address": "s/o mahesh prasad!gadhi ibrahimpur!murai tajpur Mitauli!!gadhi ibrahimpur murai tajpur mitauli!mitauli Mohammdi!kheri!Uttar Pradesh!262727",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mahesh prasad",
+      "name": "Bahori Lal",
+      "num": "9005901995"
+    },
+    {
+      "aadhar": "646258861821",
+      "address": "Chote Lal!gularahiya!Urdauli PO!!Kater Ganj Misrikh!Sitapur!Sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chote Lal",
+      "name": "Nanhi Devi",
+      "num": "8009152846"
+    },
+    {
+      "aadhar": "423749792722",
+      "address": "! 00!panchpur!!urdauli!Sitapur!Sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shri krishna verma",
+      "name": "Sandeep Kumar",
+      "num": "6392965646"
+    },
+    {
+      "aadhar": "806803391689",
+      "address": "s/o  nokhe lal!!Urdauli!!punch pur urdauli!kater ganj Misrikh!sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nokhe lal",
+      "name": "Virendra",
+      "num": "9696354132"
+    },
+    {
+      "aadhar": "524837055873",
+      "address": "w/o  avdhesh!!Urdauli!!gurhiya urdauli!kater ganj Misrikh!sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "avdhesh",
+      "name": "Ram Pyari",
+      "num": "9369285228"
+    },
+    {
+      "aadhar": "451174101658",
+      "address": "s/o mahesh prasad!gadhi ibrahimpur!murai tajpur Mitauli!!gadhi ibrahimpur murai tajpur mitauli!mitauli Mohammdi!kheri!Uttar Pradesh!262727",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mahesh prasad",
+      "name": "Bahori Lal",
+      "num": "9005901995"
+    },
+    {
+      "aadhar": "646258861821",
+      "address": "Chote Lal!gularahiya!Urdauli PO!!Kater Ganj Misrikh!Sitapur!Sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chote Lal",
+      "name": "Nanhi Devi",
+      "num": "8009152846"
+    },
+    {
+      "aadhar": "423749792722",
+      "address": "! 00!panchpur!!urdauli!Sitapur!Sitapur!Uttar Pradesh!261141",
+      "alt": "9648415983",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shri krishna verma",
+      "name": "Sandeep Kumar",
+      "num": "6392965646"
+    }
+  ]
+}
