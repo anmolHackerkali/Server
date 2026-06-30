@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:39:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8744009903",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8850",
+      "address": "! D-88 Kashi Ram Awasiya Colony !! Sector-45 Noida  !Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "mr nandan singh mehra",
+      "name": "Prema  Mehra",
+      "num": "8744009903"
+    },
+    {
+      "aadhar": "xxxxxxxx8850",
+      "address": "!D-88Kashi Ram Awasiya Colony!!!Sector-45Noida !Gautam Buddha Nagar!!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "mr nandan singh mehra",
+      "name": "Prema  Mehra",
+      "num": "8744009903"
+    },
+    {
+      "aadhar": "xxxxxxxx8850",
+      "address": "!D-88Kashi Ram Awasiya Colony!!Sector-45Noida !Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "mr nandan singh mehra",
+      "name": "Prema  Mehra",
+      "num": "8744009903"
+    },
+    {
+      "aadhar": "xxxxxxxx8850",
+      "address": "!D-88Kashi Ram Awasiya Colony!!Sector-45Noida !Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "mr nandan singh mehra",
+      "name": "Prema  Mehra",
+      "num": "8744009903"
+    }
+  ]
+}
