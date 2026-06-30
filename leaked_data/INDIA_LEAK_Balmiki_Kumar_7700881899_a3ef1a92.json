@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:04:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7700881899",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Sahdev Tanti! ! !VILL POSTAHIYA PO GAURA PS LAXMIPUR Jamui!!DIGHI B O - JMU!Jamui!BIHAR!811312",
+      "alt": "8779486896",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Sahdev Tanti",
+      "name": "Balmiki Kumar",
+      "num": "7700881899"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Sahdev Tanti! ! !VILL POSTAHIYA PO GAURA PS LAXMIPUR Jamui!!DIGHI B O - JMU!Jamui!BIHAR!811312",
+      "alt": "8779486896",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Sahdev Tanti",
+      "name": "Balmiki Kumar",
+      "num": "7700881899"
+    },
+    {
+      "aadhar": "ZUU1835404",
+      "address": "! 000!TOWN VILL Gaura tola poshtahiya Mogalwa!Laxmipur!Gaura tola poshtahiya ANCHAL THANA LaKSmipur!Jamui!Jamui!Bihar!811312",
+      "alt": "7700881899",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shadev Tanti",
+      "name": "BALMIKI KUMAR",
+      "num": "8340580919"
+    },
+    {
+      "aadhar": "ZUU1835404",
+      "address": "! 000!TOWN VILL Gaura tola poshtahiya Mogalwa!Laxmipur!Gaura tola poshtahiya ANCHAL THANA LaKSmipur!Jamui!Jamui!Bihar!811312",
+      "alt": "7700881899",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shadev Tanti",
+      "name": "BALMIKI KUMAR",
+      "num": "8340580919"
+    },
+    {
+      "aadhar": "660618718072",
+      "address": " .!ihar Jamui Laxmipur!!vill postahiya po gaura ps laxmipur!Jamui!!Bihar!811312 ",
+      "alt": "7700881899",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Yamuna  Tanti ",
+      "name": " Shibu  Tanti ",
+      "num": "7050545877"
+    },
+    {
+      "aadhar": "ZUU1835404",
+      "address": "! 000!TOWN VILL Gaura tola poshtahiya Mogalwa!Laxmipur!Gaura tola poshtahiya ANCHAL THANA LaKSmipur!Jamui!Jamui!Bihar!811312",
+      "alt": "7700881899",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shadev Tanti",
+      "name": "BALMIKI KUMAR",
+      "num": "8340580919"
+    },
+    {
+      "aadhar": "660618718072",
+      "address": " .!ihar Jamui Laxmipur!!vill postahiya po gaura ps laxmipur!Jamui!!Bihar!811312 ",
+      "alt": "7700881899",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Yamuna  Tanti ",
+      "name": " Shibu  Tanti ",
+      "num": "7050545877"
+    }
+  ]
+}
