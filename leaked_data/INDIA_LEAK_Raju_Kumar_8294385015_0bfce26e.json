@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:29:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8294385015",
+  "records": [
+    {
+      "aadhar": "932605258948",
+      "address": "S/O  Surendra Prasad Singh!!Jatuli dera  Jatuli dera  Amarpur Jatuli dera Dhansoi!NA!!Amarpur Rajpur Buxar!NA!Bihar!802117",
+      "alt": "6201486403",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Surendra Prasad Singh",
+      "name": "Raju Kumar",
+      "num": "8294385015"
+    },
+    {
+      "aadhar": "932605258948",
+      "address": "S/O  Surendra Prasad Singh!!Jatuli dera  Jatuli dera  Amarpur Jatuli dera Dhansoi!NA!!Amarpur Rajpur Buxar!NA!Bihar!802117",
+      "alt": "6201486403",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Surendra Prasad Singh",
+      "name": "Raju Kumar",
+      "num": "8294385015"
+    },
+    {
+      "aadhar": "932605258948",
+      "address": "S/O  Surendra Prasad Singh!!Jatuli dera  Jatuli dera  Amarpur Jatuli dera Dhansoi!NA!!Amarpur Rajpur Buxar!NA!Bihar!802117",
+      "alt": "6201486403",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Surendra Prasad Singh",
+      "name": "Raju Kumar",
+      "num": "8294385015"
+    },
+    {
+      "aadhar": "932605258948",
+      "address": " S/O  Surendra Prasad Singh  Jatuli dera  Amarpur  ALAMPUR-BUXAR 802117 BR   ALAMPUR-BUXAR BR 802117 ",
+      "alt": "8294385015",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURENDRA PRASAD SINGH ",
+      "name": " RAJU  KUMAR ",
+      "num": "9117002942"
+    },
+    {
+      "aadhar": "932605258948",
+      "address": " S/O  Surendra Prasad Singh  Jatuli dera  Amarpur  ALAMPUR-BUXAR 802117 BR   ALAMPUR-BUXAR BR 802117 ",
+      "alt": "8294385015",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURENDRA PRASAD SINGH ",
+      "name": " RAJU  KUMAR ",
+      "num": "9117002942"
+    }
+  ]
+}
