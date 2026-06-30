@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:58:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582731929",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "303 KHERA KHURD ! VILL ! DELHI ! DELHI ! DELHI ! 110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT",
+      "name": "POONAM .",
+      "num": "9582731929"
+    },
+    {
+      "aadhar": null,
+      "address": "303 KHERA KHURD ! VILL ! DELHI ! DELHI ! DELHI ! 110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT",
+      "name": "POONAM ",
+      "num": "9582731929"
+    },
+    {
+      "aadhar": null,
+      "address": "303 KHERA KHURD ! VILL ! DELHI ! DELHI ! DELHI ! 110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT",
+      "name": "POONAM ",
+      "num": "9582731929"
+    },
+    {
+      "aadhar": "374270277204",
+      "address": "s/o  subhash chander!house no-353!khera khurd!!khera khurd!khera khurd!north west delhi!Delhi!110082",
+      "alt": "9582731929",
+      "circle": "JIO DELHI",
+      "email": "kapilmann5812@gmail.com",
+      "fname": "subhash chander",
+      "name": "kapil mann",
+      "num": "9310109393"
+    },
+    {
+      "aadhar": "374270277204",
+      "address": "s/o  subhash chander!house no-353!khera khurd!!khera khurd!khera khurd!north west delhi!Delhi!110082",
+      "alt": "9582731929",
+      "circle": "JIO DELHI",
+      "email": "kapilmann5812@gmail.com",
+      "fname": "subhash chander",
+      "name": "kapil mann",
+      "num": "9310109393"
+    },
+    {
+      "aadhar": "374270277204",
+      "address": "s/o  subhash chander!house no-353!khera khurd!!khera khurd!khera khurd!north west delhi!Delhi!110082",
+      "alt": "9582731929",
+      "circle": "JIO DELHI",
+      "email": "kapilmann5812@gmail.com",
+      "fname": "subhash chander",
+      "name": "kapil mann",
+      "num": "9310109393"
+    }
+  ]
+}
