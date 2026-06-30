@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:37:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8298643273",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Bansharopan Singh!!!Ward no-02!!Belari!Madhepura!Bihar!852114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bansharopan Singh",
+      "name": "Sanjay Kumar Singh",
+      "num": "8298643273"
+    },
+    {
+      "aadhar": "995690162933",
+      "address": " Bansharopan Singh  Belari Ward no-02 Belari-Kumarkhand-Madhepura Bihar 852114 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bansharopan Singh ",
+      "name": " Sanjay Kumar Singh ",
+      "num": "8298643273"
+    },
+    {
+      "aadhar": "995690162933",
+      "address": " Bansharopan Singh  Belari Ward no-02 Belari-Kumarkhand-Madhepura Bihar 852114 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bansharopan Singh ",
+      "name": " Sanjay Kumar Singh ",
+      "num": "8298643273"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Bansharopan Singh!!!Ward no-02!!Belari!Madhepura!Bihar!852114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bansharopan Singh",
+      "name": "Sanjay Kumar Singh",
+      "num": "8298643273"
+    }
+  ]
+}
