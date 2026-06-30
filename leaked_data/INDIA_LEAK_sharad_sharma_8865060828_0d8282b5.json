@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:23:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8865060828",
+  "records": [
+    {
+      "aadhar": "815306086220",
+      "address": "!462!khatri ward no 4!!sikandrabad!Bulandshahar!!Uttar Pradesh!203205",
+      "alt": "9997944295",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "jagdish chandra sharma",
+      "name": "sharad sharma",
+      "num": "8865060828"
+    },
+    {
+      "aadhar": "815306086220",
+      "address": "!462!khatri ward no 4!!sikandrabad!Bulandshahar!!Uttar Pradesh!203205",
+      "alt": "9997944295",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "jagdish chandra sharma",
+      "name": "sharad sharma",
+      "num": "8865060828"
+    }
+  ]
+}
