@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:11:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899565601",
+  "records": [
+    {
+      "aadhar": "819048859321",
+      "address": "!G-90!G BLOCK NR BY KAPOOR MEDICAL!NA!DILSHAD COLONY!Delhi East East!NA!Delhi!110095",
+      "alt": "9268608666",
+      "circle": "JIO DELHI",
+      "email": "divyasinghal201.ds@gmail.com",
+      "fname": "DEVENDRA KUMAR SINGHAL",
+      "name": "VIKAS SINGHAL",
+      "num": "9899565601"
+    },
+    {
+      "aadhar": "819048859321",
+      "address": "!G-90!G BLOCKNR BY KAPOOR MEDICAL!NA!DILSHAD COLONY!Delhi EastEast!NA!Delhi!110095",
+      "alt": "9268608666",
+      "circle": "JIO DELHI",
+      "email": "divyasinghal201.ds@gmail.com",
+      "fname": "DEVENDRA KUMAR SINGHAL",
+      "name": "VIKAS SINGHAL",
+      "num": "9899565601"
+    },
+    {
+      "aadhar": "819048859321",
+      "address": "!G-90!G BLOCKNR BY KAPOOR MEDICAL!NA!DILSHAD COLONY!Delhi EastEast!NA!Delhi!110095",
+      "alt": "9268608666",
+      "circle": "JIO DELHI",
+      "email": "divyasinghal201.ds@gmail.com",
+      "fname": "DEVENDRA KUMAR SINGHAL",
+      "name": "VIKAS SINGHAL",
+      "num": "9899565601"
+    },
+    {
+      "aadhar": "563924964160",
+      "address": "Sheel Kumar Sharma!H NO-248 !NR-TEMPO STAND!SADDIK NAGAR VILL-SIHANI!GHAZIABAD NCR!UTTAR PRADESH!201003",
+      "alt": "9899565601",
+      "circle": "VI DELHI",
+      "email": "HIIANKITSHARMA@GMAIL.COM",
+      "fname": "Sheel Kumar Sharma",
+      "name": "Ankit Sharma",
+      "num": "9873089090"
+    },
+    {
+      "aadhar": "563924964160",
+      "address": "Sheel Kumar Sharma!H NO-248!NR-TEMPO STAND!SADDIK NAGARVILL-SIHANI!GHAZIABAD NCR!UTTAR PRADESH!201003",
+      "alt": "9899565601",
+      "circle": "VI DELHI",
+      "email": "HIIANKITSHARMA@GMAIL.COM",
+      "fname": "Sheel Kumar Sharma",
+      "name": "AnkitSharma",
+      "num": "9873089090"
+    },
+    {
+      "aadhar": "563924964160",
+      "address": "Sheel Kumar Sharma!H NO-248!NR-TEMPO STAND!SADDIK NAGARVILL-SIHANI!GHAZIABAD NCR!UTTAR PRADESH!201003",
+      "alt": "9899565601",
+      "circle": "VI DELHI",
+      "email": "HIIANKITSHARMA@GMAIL.COM",
+      "fname": "Sheel Kumar Sharma",
+      "name": "AnkitSharma",
+      "num": "9873089090"
+    }
+  ]
+}
