@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:42:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999750090",
+  "records": [
+    {
+      "aadhar": "338388404161",
+      "address": "S/O Gajraj Singh!H No YC 279!N T P C Society!Kasana Greater Noida!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9560988647",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gajraj  Singh",
+      "name": "Arun Kasana",
+      "num": "9999750090"
+    },
+    {
+      "aadhar": "338388404161",
+      "address": "S/O Gajraj Singh!H No YC 279!N T P C Society!!Kasana Greater Noida!Gautam Buddha Nagar!!Uttar Pradesh!201310",
+      "alt": "9560988647",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gajraj  Singh",
+      "name": "Arun Kasana",
+      "num": "9999750090"
+    },
+    {
+      "aadhar": "338388404161",
+      "address": "S/O Gajraj Singh!H No YC 279!N T P C Society!Kasana Greater Noida!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9560988647",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gajraj  Singh",
+      "name": "Arun Kasana",
+      "num": "9999750090"
+    },
+    {
+      "aadhar": "338388404161",
+      "address": "S/O Gajraj Singh!H No YC 279!N T P C Society!Kasana Greater Noida!Gautam Buddha NagarGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "9560988647",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gajraj  Singh",
+      "name": "Arun Kasana",
+      "num": "9999750090"
+    }
+  ]
+}
