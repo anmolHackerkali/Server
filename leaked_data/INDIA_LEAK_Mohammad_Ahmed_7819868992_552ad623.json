@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:52:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7819868992",
+  "records": [
+    {
+      "aadhar": "464408183434",
+      "address": "S/O  Mohammad Sojim!!mukarrabpur!piran kaliyar!!Piran Kaliyar!Haridwar!Uttarakhand!247667",
+      "alt": "7248437216",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohammad Sojim",
+      "name": "Mohammad Ahmed",
+      "num": "7819868992"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Dharampal Singh!!82 hasanpur jagir!!Hasanpur Jagir Bulandshahr!Uttar Pradesh!203205",
+      "alt": "918006599080",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Dharampal Singh",
+      "name": "Anil Kumar",
+      "num": "7819868992"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Dharampal Singh!!82 hasanpur jagir!!Hasanpur Jagir Bulandshahr!Uttar Pradesh!203205",
+      "alt": "918006599080",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Dharampal Singh",
+      "name": "Anil Kumar",
+      "num": "7819868992"
+    }
+  ]
+}
