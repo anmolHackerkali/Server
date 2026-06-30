@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:28:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9005902960",
+  "records": [
+    {
+      "aadhar": "654716286308",
+      "address": "S/O Basant Lal Pal!chaksikhari Chak Sikhari!!!Sant Ravidas Nagar!Uttar Pradesh!221304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Basant Lal Pal",
+      "name": "Ashish  Kumar",
+      "num": "9005902960"
+    },
+    {
+      "aadhar": "654716286308",
+      "address": "S/O Basant Lal Pal!chaksikhari Chak Sikhari!!!Sant Ravidas Nagar!Uttar Pradesh!221304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Basant Lal Pal",
+      "name": "Ashish  Kumar",
+      "num": "9005902960"
+    },
+    {
+      "aadhar": "665942834265",
+      "address": "s/o rajkumar!Chakmansingh!Chakmansingh!!chakmansingh!chak sikhari!sant ravidas nagar!Uttar Pradesh!221304",
+      "alt": "9005902960",
+      "circle": "JIO UPE",
+      "email": "afpstu@gmail.com",
+      "fname": "rajkumar",
+      "name": "Anil",
+      "num": "9569278095"
+    },
+    {
+      "aadhar": "665942834265",
+      "address": "s/o rajkumar!Chakmansingh!Chakmansingh!!chakmansingh!chak sikhari!sant ravidas nagar!Uttar Pradesh!221304",
+      "alt": "9005902960",
+      "circle": "JIO UPE",
+      "email": "afpstu@gmail.com",
+      "fname": "rajkumar",
+      "name": "Anil",
+      "num": "9569278095"
+    }
+  ]
+}
