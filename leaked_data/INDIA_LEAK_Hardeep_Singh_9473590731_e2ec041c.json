@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:28:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9473590731",
+  "records": [
+    {
+      "aadhar": "935328331014",
+      "address": "!0!kundwa!!indian!Bahraich!!Uttar Pradesh!271855",
+      "alt": "6390082373",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "gurmukh singh",
+      "name": "Hardeep Singh",
+      "num": "9473590731"
+    },
+    {
+      "aadhar": "935328331014",
+      "address": "!0!kundwa!!indian!Bahraich!!Uttar Pradesh!271855",
+      "alt": "6390082373",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "gurmukh singh",
+      "name": "Hardeep Singh",
+      "num": "9473590731"
+    }
+  ]
+}
