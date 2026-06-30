@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:01:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958544961",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Taraspal!20!village thapkhera!dadri greater noida Gautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958129667",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O  Taraspal",
+      "name": "Asha  ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": "846537292482",
+      "address": "s/o  khemchand!!village thapkhera!!village thapkhera dadri greater noida pali!thapkheraDadri!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9870169455",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "khemchand",
+      "name": "Taraspal  ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": "846537292482",
+      "address": "s/o  khemchand!!village thapkhera!!village thapkhera dadri greater noida pali!thapkheraDadri!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9870169455",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "khemchand",
+      "name": "Taraspal  ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Taraspal!20!village thapkhera!dadri greater noidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958129667",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O Taraspal",
+      "name": "Asha ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": "846537292482",
+      "address": "s/o  khemchand!!village thapkhera!!village thapkhera dadri greater noida pali!thapkheraDadri!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9870169455",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "khemchand",
+      "name": "Taraspal  ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Taraspal!20!village thapkhera!dadri greater noidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958129667",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O Taraspal",
+      "name": "Asha ",
+      "num": "9958544961"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Khemchand! !village thapkhera!dadri greater noida Gautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958544961",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Khemchand",
+      "name": "Taraspal  ",
+      "num": "9958129667"
+    },
+    {
+      "aadhar": "432294639648",
+      "address": "s/o  taraspal!!Pali!!village thapkhera dadri greater noida!thapkhera!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9958544961",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "taraspal",
+      "name": "Chirag  ",
+      "num": "7210514747"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Khemchand!!village thapkhera!dadri greater noidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958544961",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Khemchand",
+      "name": "Taraspal ",
+      "num": "9958129667"
+    },
+    {
+      "aadhar": "432294639648",
+      "address": "s/o  taraspal!!Pali!!village thapkhera dadri greater noida!thapkhera!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9958544961",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "taraspal",
+      "name": "Chirag  ",
+      "num": "7210514747"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Khemchand!!village thapkhera!dadri greater noidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!203207",
+      "alt": "9958544961",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Khemchand",
+      "name": "Taraspal ",
+      "num": "9958129667"
+    },
+    {
+      "aadhar": "432294639648",
+      "address": "s/o  taraspal!!Pali!!village thapkhera dadri greater noida!thapkhera!gautam buddha nagar!Uttar Pradesh!203207",
+      "alt": "9958544961",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "taraspal",
+      "name": "Chirag  ",
+      "num": "7210514747"
+    }
+  ]
+}
