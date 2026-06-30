@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:56:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8057577571",
+  "records": [
+    {
+      "aadhar": "688551836866",
+      "address": "S/O Devi Singh!625!CHOUDHARY WADA-4!gt road!HEERA COLONY Sikandrabad!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Devi Singh",
+      "name": "Naipal Singh Rathi",
+      "num": "8057577571"
+    },
+    {
+      "aadhar": "688551836866",
+      "address": "S/O Devi Singh!625!CHOUDHARY WADA-4!gt road!HEERA COLONY Sikandrabad!Bulandshahar!Bulandshahr!Uttar Pradesh!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Devi Singh",
+      "name": "Naipal Singh Rathi",
+      "num": "8057577571"
+    }
+  ]
+}
