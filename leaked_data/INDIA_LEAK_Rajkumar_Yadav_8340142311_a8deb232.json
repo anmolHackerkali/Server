@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:21:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340142311",
+  "records": [
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!!!Khulharia Supaul!Bihar!847452",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "8340142311"
+    },
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!!!Khulharia Supaul!Bihar!847452",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "8340142311"
+    },
+    {
+      "aadhar": "314912167695",
+      "address": "S/O  Dukhi Yadav!!!!Khulharia Supaul!Bihar!847452",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dukhi Yadav",
+      "name": "Rajkumar Yadav",
+      "num": "8340142311"
+    }
+  ]
+}
