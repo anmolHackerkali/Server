@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 21:35:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9927750548",
+  "records": [
+    {
+      "aadhar": "503815147534",
+      "address": "S/O Rohotash Kumar Agrawal!!House No-1020Near Patwa KuanSikandrabad!NA!Kayasthwara!SikandrabadSikandrabadBulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9997041640",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rohotash Kumar Agrawal",
+      "name": "Nitish Agrawal",
+      "num": "9927750548"
+    },
+    {
+      "aadhar": "503815147534",
+      "address": "S/O Rohotash Kumar Agrawal!!House No-1020 Near Patwa Kuan Sikandrabad!NA!Kayasthwara!Sikandrabad Sikandrabad Bulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9997041640",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rohotash Kumar Agrawal",
+      "name": "Nitish Agrawal",
+      "num": "9927750548"
+    },
+    {
+      "aadhar": "503815147534",
+      "address": "S/O Rohotash Kumar Agrawal!!House No-1020Near Patwa KuanSikandrabad!NA!Kayasthwara!SikandrabadSikandrabadBulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9997041640",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rohotash Kumar Agrawal",
+      "name": "Nitish Agrawal",
+      "num": "9927750548"
+    },
+    {
+      "aadhar": "503815147534",
+      "address": "S/O Rohotash Kumar Agrawal!!House No-1020 Near Patwa Kuan Sikandrabad!NA!Kayasthwara!Sikandrabad Sikandrabad Bulandshahr!NA!Uttar Pradesh!203205",
+      "alt": "9997041640",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rohotash Kumar Agrawal",
+      "name": "Nitish Agrawal",
+      "num": "9927750548"
+    }
+  ]
+}
