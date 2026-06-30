@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:32:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906261220",
+  "records": [
+    {
+      "aadhar": "411347949294",
+      "address": "S/O: Satpal Singh!!!vill-peerbiyavani!PiriyabaniBulandshahr!Uttar Pradesh!203205",
+      "alt": "+917248580206",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Satpal Singh",
+      "name": "Sumit  ",
+      "num": "7906261220"
+    },
+    {
+      "aadhar": "411347949294",
+      "address": "S/O: Satpal Singh!!!vill-peerbiyavani!Piriyabani Bulandshahr!Uttar Pradesh!203205",
+      "alt": "917248580206",
+      "circle": "JIO UPE UPW",
+      "email": "sumitkumarskd1998@gmail.com",
+      "fname": "Satpal Singh",
+      "name": "Sumit",
+      "num": "7906261220"
+    },
+    {
+      "aadhar": "411347949294",
+      "address": "S/O: Satpal Singh!!!vill-peerbiyavani!Piriyabani Bulandshahr!Uttar Pradesh!203205",
+      "alt": "917248580206",
+      "circle": "JIO UPE UPW",
+      "email": "sumitkumarskd1998@gmail.com",
+      "fname": "Satpal Singh",
+      "name": "Sumit",
+      "num": "7906261220"
+    },
+    {
+      "aadhar": "411347949294",
+      "address": "s/o  satpal singh!!peerbiyavani Sanota!!vill-peerbiyavani sanota!piriyabani Sikandrabad!bulandshahr!Uttar Pradesh!203205",
+      "alt": "7906261220",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "satpal singh",
+      "name": "Sumit",
+      "num": "7906946682"
+    },
+    {
+      "aadhar": "411347949294",
+      "address": "s/o  satpal singh!!peerbiyavani Sanota!!vill-peerbiyavani sanota!piriyabani Sikandrabad!bulandshahr!Uttar Pradesh!203205",
+      "alt": "7906261220",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "satpal singh",
+      "name": "Sumit",
+      "num": "7906946682"
+    }
+  ]
+}
