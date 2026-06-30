@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 10:05:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7027185733",
+  "records": [
+    {
+      "aadhar": " 482544920871 ",
+      "address": "    Village-Bhangu Sahuwala - I(196) Sirsa Sirsa Haryan 125077 ",
+      "alt": " 9050939253 ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " S/O: Het R ",
+      "name": " Shiri Chan ",
+      "num": "7027185733"
+    }
+  ]
+}
