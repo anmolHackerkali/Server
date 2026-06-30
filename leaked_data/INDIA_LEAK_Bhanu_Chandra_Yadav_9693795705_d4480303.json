@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:29:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693795705",
+  "records": [
+    {
+      "aadhar": "717469177320",
+      "address": "s/o  raghunandan yadav!!S millick!ward no-12!ward no-12 parihari s millick!siripur milik Kumarkhand!madhepura!Bihar!852114",
+      "alt": "9608910568",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "raghunandan yadav",
+      "name": "Bhanu Chandra Yadav",
+      "num": "9693795705"
+    },
+    {
+      "aadhar": "717469177320",
+      "address": "S/O  Raghunandan Yadav!!S.millick!ward no-12!parihari!Siripur Milik Kumarkhand!Madhepura!Bihar!852114",
+      "alt": "9006137721",
+      "circle": "JIO BHR&JHR",
+      "email": "BBMCAREZ@GMAIL.COM",
+      "fname": "Raghunandan Yadav",
+      "name": "Bhanu Chandra Yadav",
+      "num": "9693795705"
+    },
+    {
+      "aadhar": "717469177320",
+      "address": "S/O  Raghunandan Yadav!!S.millick!ward no-12!parihari!Siripur Milik Kumarkhand!Madhepura!Bihar!852114",
+      "alt": "9006137721",
+      "circle": "JIO BHR&JHR",
+      "email": "BBMCAREZ@GMAIL.COM",
+      "fname": "Raghunandan Yadav",
+      "name": "Bhanu Chandra Yadav",
+      "num": "9693795705"
+    }
+  ]
+}
