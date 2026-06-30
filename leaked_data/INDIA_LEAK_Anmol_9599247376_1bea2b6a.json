@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:27:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599247376",
+  "records": [
+    {
+      "aadhar": "890515511063",
+      "address": "521 New Harbansh Nagar Ghaziabad   Ghaziabad Uttar Pradesh 201001! ! !!!",
+      "alt": "9599247277",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Singh",
+      "name": "Anmol",
+      "num": "9599247376"
+    },
+    {
+      "aadhar": "890515511063",
+      "address": "!521 New Harbansh Nagar Ghaziabad   Ghaziabad Uttar Pradesh 201001!!!!!!!",
+      "alt": "9599247277",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Singh",
+      "name": "Anmol",
+      "num": "9599247376"
+    },
+    {
+      "aadhar": "890515511063",
+      "address": "521 New Harbansh Nagar Ghaziabad   Ghaziabad Uttar Pradesh 201001       ",
+      "alt": "9599247277",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Singh",
+      "name": "Anmol",
+      "num": "9599247376"
+    },
+    {
+      "aadhar": "890515511063",
+      "address": "521 New Harbansh Nagar Ghaziabad   Ghaziabad Uttar Pradesh 201001       ",
+      "alt": "9599247277",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Singh",
+      "name": "Anmol",
+      "num": "9599247376"
+    },
+    {
+      "aadhar": "816828147672",
+      "address": "Suresh!453!Delhicycle market!Delhi!DELHI!Delhi!110006",
+      "alt": "9599247376",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Deepak .",
+      "num": "9953462295"
+    },
+    {
+      "aadhar": "816828147672",
+      "address": "Suresh!453!Delhicycle market!Delhi!DELHI!Delhi!110006",
+      "alt": "9599247376",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Deepak ",
+      "num": "9953462295"
+    },
+    {
+      "aadhar": "816828147672",
+      "address": "Suresh!453!Delhicycle market!Delhi!DELHI!Delhi!110006",
+      "alt": "9599247376",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Deepak ",
+      "num": "9953462295"
+    }
+  ]
+}
