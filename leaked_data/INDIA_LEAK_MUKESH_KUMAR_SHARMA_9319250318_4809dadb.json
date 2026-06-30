@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:19:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319250318",
+  "records": [
+    {
+      "aadhar": "TZP1490861",
+      "address": "21 KAJIWARA-1!21 KAJIWARA-1!SIKANDARABAD!SIKANDARABAD!UTTAR PRADESH WEST!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "CHANDRABHAN SHARMA",
+      "name": "MUKESH KUMAR SHARMA",
+      "num": "9319250318"
+    },
+    {
+      "aadhar": "TZP1490861",
+      "address": "21 KAJIWARA-1!21 KAJIWARA-1!SIKANDARABAD!SIKANDARABAD!UTTAR PRADESH WEST!203205",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "CHANDRABHAN SHARMA",
+      "name": "MUKESH KUMAR SHARMA",
+      "num": "9319250318"
+    }
+  ]
+}
