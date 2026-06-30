@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:21:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8969926132",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Autar Paswan!Dilahi !Dilahi !Hanuman Nagar!!Dih lahi!Darbhanga!Bihar!846003",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Autar Paswan",
+      "name": "Santosh Paswan",
+      "num": "8969926132"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Autar Paswan!Dilahi !Dilahi !Hanuman Nagar!!Dih lahi!Darbhanga!Bihar!846003",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Autar Paswan",
+      "name": "Santosh Paswan",
+      "num": "8969926132"
+    }
+  ]
+}
