@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:06:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9115200105",
+  "records": [
+    {
+      "aadhar": "402182312214",
+      "address": " ! !barawa jangal    City/District: Kushinagar State Uttar Pradesh! !KUSHINAGAR!UTTAR PRADESH!274402",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Ramdaras Singh",
+      "name": "Shayamsundar Singh",
+      "num": "9115200105"
+    },
+    {
+      "aadhar": "402182312214",
+      "address": " ! !barawa jangal    City/District: Kushinagar State Uttar Pradesh! !KUSHINAGAR!UTTAR PRADESH!274402",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Ramdaras Singh",
+      "name": "Shayamsundar Singh",
+      "num": "9115200105"
+    }
+  ]
+}
