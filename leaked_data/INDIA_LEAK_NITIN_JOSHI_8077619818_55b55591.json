@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:26:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077619818",
+  "records": [
+    {
+      "aadhar": "749936310765",
+      "address": "S/O KHASTI BALLABH JOSHI!!00!CHHARAYAL NAYA AABAD HALDWANI!Haripur NayakNainital!Uttarakhand!263139",
+      "alt": "+917550100264",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "KHASTI BALLABH JOSHI",
+      "name": "NITIN JOSHI",
+      "num": "8077619818"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "! 238!mayur vihar ph-1!gsli no 2!east delhi!Delhi East!East!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "khasti ballabh joshi",
+      "name": "Nitin Joshi",
+      "num": "7668661464"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "!B-40!gali no 7 shashi garden!NA!mayur vihar phase-1!Delhi EastEast!NA!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "KHASTI BALLABH JOSHI",
+      "name": "NITIN JOSHI",
+      "num": "8700302425"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "!B-40!gali no 7 shashi garden!NA!mayur vihar phase-1!Delhi EastEast!NA!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "KHASTI BALLABH JOSHI",
+      "name": "NITIN JOSHI",
+      "num": "8700302425"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "!238!mayur vihar ph-1!gsli no 2!east delhi!Delhi East!East!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "khasti ballabh joshi",
+      "name": "Nitin Joshi",
+      "num": "7668661464"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "!B-40!gali no 7 shashi garden!NA!mayur vihar phase-1!Delhi EastEast!NA!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "KHASTI BALLABH JOSHI",
+      "name": "NITIN JOSHI",
+      "num": "8700302425"
+    },
+    {
+      "aadhar": "749936310765",
+      "address": "!238!mayur vihar ph-1!gsli no 2!east delhi!Delhi East!East!Delhi!110091",
+      "alt": "8077619818",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "khasti ballabh joshi",
+      "name": "Nitin Joshi",
+      "num": "7668661464"
+    }
+  ]
+}
