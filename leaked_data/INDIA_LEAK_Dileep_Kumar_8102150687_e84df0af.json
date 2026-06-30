@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:57:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8102150687",
+  "records": [
+    {
+      "aadhar": "326579625413",
+      "address": "!!Siyari karn!Siari!Siwan!Gopalganj!Gopalganj!Bihar!841438",
+      "alt": "8002472330",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravishankar Prasad",
+      "name": "Dileep Kumar",
+      "num": "8102150687"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "!!Siyari karn!Siari!Siwan!Gopalganj!Gopalganj!Bihar!841438",
+      "alt": "8002472330",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravishankar Prasad",
+      "name": "Dileep Kumar",
+      "num": "8102150687"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "S/O  Ravishankar Prasad!!Kailgarh!!siyari karn!Siari Barharia!Siwan!Bihar!841438",
+      "alt": "8102150687",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ravishankar Prasad",
+      "name": "Dileep Kumar",
+      "num": "8102388668"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "S/O  Ravishankar Prasad!!Kailgarh!!siyari karn!Siari Barharia!Siwan!Bihar!841438",
+      "alt": "8102150687",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravishankar Prasad",
+      "name": "Dileep Kumar",
+      "num": "8102388668"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "S/O  Ravishankar Prasad!S/O  Ravishankar Prasad!siyari karn!Kailgarh  Barharia !SIARI-SIWAN!BR!841438",
+      "alt": "8102150687",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "RAVISHANKAR PRASAD",
+      "name": "DILEEP KUMAR",
+      "num": "7254806142"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "S/O  Ravishankar Prasad!!Kailgarh!!siyari karn!Siari Barharia!Siwan!Bihar!841438",
+      "alt": "8102150687",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravishankar Prasad",
+      "name": "Dileep Kumar",
+      "num": "8102388668"
+    },
+    {
+      "aadhar": "326579625413",
+      "address": "S/O  Ravishankar Prasad!S/O  Ravishankar Prasad!siyari karn!Kailgarh  Barharia !SIARI-SIWAN!BR!841438",
+      "alt": "8102150687",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "RAVISHANKAR PRASAD",
+      "name": "DILEEP KUMAR",
+      "num": "7254806142"
+    }
+  ]
+}
