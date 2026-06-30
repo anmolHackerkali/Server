@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:51:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8394055555",
+  "records": [
+    {
+      "aadhar": "218820731768",
+      "address": "S/O  Dr M I  Khan!!4/310noor manzil -2noor masjidAligarh!dodhpur civil lines!KoilKoilAligarh!Uttar Pradesh!202001",
+      "alt": "+918077977178",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Dr M I Khan",
+      "name": "MohdFaisal Khan  ",
+      "num": "8394055555"
+    },
+    {
+      "aadhar": "218820731768",
+      "address": "S/O  Dr M I  Khan!!4/310 noor manzil -2 noor masjid Aligarh!dodhpur civil lines!Koil Koil Aligarh!Uttar Pradesh!202001",
+      "alt": "918077977178",
+      "circle": "JIO UPE UPW",
+      "email": "faisalkhan211@yahoo.com",
+      "fname": "Dr M I Khan",
+      "name": "MohdFaisal Khan",
+      "num": "8394055555"
+    },
+    {
+      "aadhar": "218820731768",
+      "address": "S/O  Dr M I  Khan!!4/310 noor manzil -2 noor masjid Aligarh!dodhpur civil lines!Koil Koil Aligarh!Uttar Pradesh!202001",
+      "alt": "918077977178",
+      "circle": "JIO UPE UPW",
+      "email": "faisalkhan211@yahoo.com",
+      "fname": "Dr M I Khan",
+      "name": "MohdFaisal Khan",
+      "num": "8394055555"
+    },
+    {
+      "aadhar": "218820731768",
+      "address": "S/O: Dr.M.I. Khan  4/310 noor manzil -2 dodhpur civil lines Aligarh  Koil noor masjid KOIL-ALIGARH UP 202001",
+      "alt": "8394055555",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Dr.M.I. Khan",
+      "name": "MOHDFAISAL KHAN",
+      "num": "9358258135"
+    },
+    {
+      "aadhar": "218820731768",
+      "address": "S/O: Dr.M.I. Khan  4/310 noor manzil -2 dodhpur civil lines Aligarh  Koil noor masjid KOIL-ALIGARH UP 202001",
+      "alt": "8394055555",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Dr.M.I. Khan",
+      "name": "MOHDFAISAL KHAN",
+      "num": "9358258135"
+    }
+  ]
+}
