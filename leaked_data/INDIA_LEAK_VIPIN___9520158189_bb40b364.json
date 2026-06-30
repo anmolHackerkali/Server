@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:06:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9520158189",
+  "records": [
+    {
+      "aadhar": "915701044514",
+      "address": "s/o    narendra babu!!Basrehar!!basarehar basrehar!basrehar!etawah!Uttar Pradesh!206253",
+      "alt": "6397508975",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "narendra babu",
+      "name": "VIPIN  ",
+      "num": "9520158189"
+    }
+  ]
+}
