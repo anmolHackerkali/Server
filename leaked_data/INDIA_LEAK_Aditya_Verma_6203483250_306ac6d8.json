@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:14:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203483250",
+  "records": [
+    {
+      "aadhar": "841713300703",
+      "address": "S/O  Kashi Prasad!!VILL NIYAMAT NAGAR PO DHARAHRA PS SILAO Dharahara!!Dharhara Silao Nalanda!Bihar!803111",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Kashi Prasad",
+      "name": "Aditya Verma",
+      "num": "6203483250"
+    },
+    {
+      "aadhar": "841713300703",
+      "address": "S/O  Kashi Prasad!!VILL NIYAMAT NAGAR PO DHARAHRA PS SILAO Dharahara!!Dharhara Silao Nalanda!Bihar!803111",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Kashi Prasad",
+      "name": "Aditya Verma",
+      "num": "6203483250"
+    },
+    {
+      "aadhar": "841713300703",
+      "address": "S/O  Kashi Prasad!!VILL NIYAMAT NAGAR PO DHARAHRA PS SILAO Dharahara!!Dharhara Silao Nalanda!Bihar!803111",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Kashi Prasad",
+      "name": "Aditya Verma",
+      "num": "6203483250"
+    }
+  ]
+}
