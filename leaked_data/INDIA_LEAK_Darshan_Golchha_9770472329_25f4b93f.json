@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:17:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9770472329",
+  "records": [
+    {
+      "aadhar": "339057391777",
+      "address": "S/O  Jayantilal Golchha!!Awasthi Colony Betul!NA!Kothi Bazar!Betul Betul Betul!NA!Madhya Pradesh!460001",
+      "alt": "9754249971",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Jayantilal Golchha",
+      "name": "Darshan Golchha",
+      "num": "9770472329"
+    },
+    {
+      "aadhar": "968301200271",
+      "address": "w/o  jayantilal golchha!!Betul!behind ciment godam!awasthi colony moti ward kramank-11 kothi bazar!betul Betul!betul!Madhya Pradesh!460001",
+      "alt": "9770472329",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "jayantilal golchha",
+      "name": "Kiran Golchha",
+      "num": "9425002939"
+    }
+  ]
+}
