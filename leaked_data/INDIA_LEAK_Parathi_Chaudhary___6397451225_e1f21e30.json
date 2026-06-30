@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:28:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6397451225",
+  "records": [
+    {
+      "aadhar": "676380046234",
+      "address": "D/O  Anjeev Kumar!!Ajnara!!!Faizallapur AjnaraShikarpur!Bulandshahr!Uttar Pradesh!203150",
+      "alt": "9719608288",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Anjeev Kumar",
+      "name": "Parathi Chaudhary  ",
+      "num": "6397451225"
+    },
+    {
+      "aadhar": "676380046234",
+      "address": "D/O  Anjeev Kumar!!Ajnara!!!Faizallapur Ajnara Shikarpur!Bulandshahr!Uttar Pradesh!203150",
+      "alt": "9719608288",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anjeev Kumar",
+      "name": "Parathi Chaudhary",
+      "num": "6397451225"
+    },
+    {
+      "aadhar": "676380046234",
+      "address": "D/O  Anjeev Kumar!!Ajnara!!!Faizallapur Ajnara Shikarpur!Bulandshahr!Uttar Pradesh!203150",
+      "alt": "9719608288",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Anjeev Kumar",
+      "name": "Parathi Chaudhary",
+      "num": "6397451225"
+    }
+  ]
+}
