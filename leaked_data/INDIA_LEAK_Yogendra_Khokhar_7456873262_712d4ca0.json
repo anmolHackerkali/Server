@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:24:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7456873262",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Sukhdev!!!!!Tilwara Patti!Baghpat!Uttar Pradesh!250617",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sukhdev",
+      "name": "Yogendra Khokhar",
+      "num": "7456873262"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sukhdev!!!!!Tilwara Patti!Baghpat!Uttar Pradesh!250617",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sukhdev",
+      "name": "Yogendra Khokhar",
+      "num": "7456873262"
+    }
+  ]
+}
