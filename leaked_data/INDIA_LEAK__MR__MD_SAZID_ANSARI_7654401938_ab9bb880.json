@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:49:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7654401938",
+  "records": [
+    {
+      "aadhar": "463244695176",
+      "address": " S/O MURASHID ALAM HARIHARPUR  TOPCHANCHI HARIHARPUR  TOPCHANCHI Hariharpur Hariharpur HARIHARPUR DHANBAD DHANBAD DHANBAD JHARKHAND 828401 ",
+      "alt": "9507957889",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Murshid Alam ",
+      "name": " MR  MD SAZID ANSARI ",
+      "num": "7654401938"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Santosh Singh! ! !maniyan Buxar!!BUXAR!Buxar!BIHAR!802125",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Santosh Singh",
+      "name": "Tetari Devi",
+      "num": "7654401938"
+    },
+    {
+      "aadhar": "463244695176",
+      "address": " S/O MURASHID ALAM HARIHARPUR  TOPCHANCHI HARIHARPUR  TOPCHANCHI Hariharpur Hariharpur HARIHARPUR DHANBAD DHANBAD DHANBAD JHARKHAND 828401 ",
+      "alt": "9507957889",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Murshid Alam ",
+      "name": " MR  MD SAZID ANSARI ",
+      "num": "7654401938"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Santosh Singh! ! !maniyan Buxar!!BUXAR!Buxar!BIHAR!802125",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Santosh Singh",
+      "name": "Tetari Devi",
+      "num": "7654401938"
+    }
+  ]
+}
