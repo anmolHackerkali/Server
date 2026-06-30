@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:29:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7894376565",
+  "records": [
+    {
+      "aadhar": "421413521259",
+      "address": "na Madhyamgram Abdalpur mondir NORTH 24 PARGANAS North 24 Parganas West Bengal 700155",
+      "alt": "7894376565",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "KAMLESH  MAURYA",
+      "name": "Aarti Kamlesh Maurya",
+      "num": "9831380401"
+    },
+    {
+      "aadhar": "421413521259\"9831380401",
+      "address": "na Madhyamgram Abdalpur mondir NORTH 24 PARGANAS North 24 Parganas West Bengal 700155",
+      "alt": "7894376565",
+      "circle": "A\nIRTEL WB",
+      "email": null,
+      "fname": "KAMLESH  MAURYA",
+      "name": "Aarti Kamlesh Maurya",
+      "num": null
+    }
+  ]
+}
