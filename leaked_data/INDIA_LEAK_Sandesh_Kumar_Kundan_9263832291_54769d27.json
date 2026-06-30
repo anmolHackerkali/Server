@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:28:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9263832291",
+  "records": [
+    {
+      "aadhar": "912279244911",
+      "address": "s/o  rajendra singh!!Nougat telya pahar ramchhandarpur!Nougat telya pahar ramchhandarpur!nougay telya pahar!ramchhandarpur!banka!Bihar!813101",
+      "alt": "7549318113",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajendra singh",
+      "name": "Sandesh Kumar Kundan",
+      "num": "9263832291"
+    },
+    {
+      "aadhar": "912279244911",
+      "address": "s/o  rajendra singh!!Nougat telya pahar ramchhandarpur!Nougat telya pahar ramchhandarpur!nougay telya pahar!ramchhandarpur!banka!Bihar!813101",
+      "alt": "7549318113",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajendra singh",
+      "name": "Sandesh Kumar Kundan",
+      "num": "9263832291"
+    }
+  ]
+}
