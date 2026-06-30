@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:13:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8918396912",
+  "records": [
+    {
+      "aadhar": "270056227634",
+      "address": "!!Badanganj!!kokond kokandi!badanganj!hooghly!West Bengal!712122",
+      "alt": "6294186485",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Akbar Ali Khan",
+      "name": "Babur Ali Khan",
+      "num": "8918396912"
+    },
+    {
+      "aadhar": "270056227634",
+      "address": "!!Badanganj!!kokond kokandi!badanganj!hooghly!West Bengal!712122",
+      "alt": "6294186485",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Akbar Ali Khan",
+      "name": "Babur Ali Khan",
+      "num": "8918396912"
+    }
+  ]
+}
