@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:25:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9753403771",
+  "records": [
+    {
+      "aadhar": "803665583522",
+      "address": "S/O Nandram Chouchan!S/O Nandram Chouchan!Dashra Medan  Gram-Barmandal!Barmandal  Sardarpur !BARMANDAL-DHAR!MP!454111",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "NANDRAM CHOUCHAN",
+      "name": "GOVARDHAN CHOUCHAN",
+      "num": "9753403771"
+    },
+    {
+      "aadhar": "803665583522",
+      "address": "!!dashra maidan Gram Barmandal Bammandal Bamandal!dashra maidan Gram Barmandal Bammandal Bamandal!barmandal!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "9753403771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Nandram Chouchan",
+      "name": "MR GOVARDHAN CHOUCHAN",
+      "num": "8878743080"
+    },
+    {
+      "aadhar": null,
+      "address": " gram panchpipla post bekalda bakalda  Sardarpur jhabua Jhabua  Madhya Pradesh 457775",
+      "alt": "9753403771",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Diwan Wakhla",
+      "name": "Sayari Wakhla",
+      "num": "8602021413 "
+    },
+    {
+      "aadhar": null,
+      "address": " Paduni Maidan Gram-Barmandal Tehsil Sardarpur  Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "9753403771",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Gordhan",
+      "name": "Pushpa",
+      "num": "8602004822 "
+    }
+  ]
+}
