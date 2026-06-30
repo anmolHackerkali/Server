@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:30:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6264205232",
+  "records": [
+    {
+      "aadhar": "832236908870",
+      "address": "S/O  Gangaram!House no.173/k!Chhayan!Majara Badlipada!Gram Lilikhedi!Lili Khedi Badnawar!Dhar!Madhya Pradesh!454660",
+      "alt": "8103543732",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Gangaram",
+      "name": "Ratan",
+      "num": "6264205232"
+    },
+    {
+      "aadhar": null,
+      "address": " Paduni Khurd Dhar  Dhar Dhar  Madhya Pradesh 454111",
+      "alt": "6264205232",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bharat Sajodiya",
+      "name": "raju bai sajodiya",
+      "num": "9669673522 "
+    },
+    {
+      "aadhar": null,
+      "address": " Dashra Medan Gram Barmandal  Barmandal Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "6264205232",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Parmanand",
+      "name": "Panchu Bai Malvi",
+      "num": "9111055838 "
+    },
+    {
+      "aadhar": null,
+      "address": " Majra-Kuladipada Gram-Dedla Tehsil Sardarpur  Julana Dhar  Madhya Pradesh 454111",
+      "alt": "6264205232",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mangu",
+      "name": "Ramo",
+      "num": "9009212268 "
+    },
+    {
+      "aadhar": null,
+      "address": " 78 garm kardawad  kardawad kardawad Kardawad jhabua Jhabua  Madhya Pradesh 457770",
+      "alt": "6264205232",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mahesh Choudhary",
+      "name": "Priyanka Choudhary",
+      "num": "6232382899 "
+    }
+  ]
+}
