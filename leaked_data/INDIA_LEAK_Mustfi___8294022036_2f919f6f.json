@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:26:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8294022036",
+  "records": [
+    {
+      "aadhar": "889513436335",
+      "address": "W/O Anamul Hak!tarabadi!!asja mobaiya Tarabari!!Purnia!Bihar!854315",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Anamul  Hak",
+      "name": "Mustfi  ",
+      "num": "8294022036"
+    },
+    {
+      "aadhar": "889513436335",
+      "address": "W/O Anamul Hak!tarabadi!!asja mobaiya Tarabari!!Purnia!Bihar!854315",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Anamul  Hak",
+      "name": "Mustfi  ",
+      "num": "8294022036"
+    }
+  ]
+}
