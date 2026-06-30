@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 11:15:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7479447500",
+  "records": [
+    {
+      "aadhar": "DKS0937854",
+      "address": "!116NIYAMAT NAGAR BHADARIRAJIGIR!Nalanda (Bihar Sharif)!Nalanda (Bihar Sharif)!BIHAR!803111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "KISUN MAHTO",
+      "name": "KASHEE PRASAD",
+      "num": "7479447500"
+    },
+    {
+      "aadhar": "DKS0937854",
+      "address": "!116NIYAMAT NAGAR BHADARIRAJIGIR!Nalanda (Bihar Sharif)!Nalanda (Bihar Sharif)!BIHAR!803111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "KISUN MAHTO",
+      "name": "KASHEE PRASAD",
+      "num": "7479447500"
+    }
+  ]
+}
