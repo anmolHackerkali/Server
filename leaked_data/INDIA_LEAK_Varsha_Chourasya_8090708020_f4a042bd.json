@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 13:05:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8090708020",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Vivek Chaurasia!B 27/62 C-2!DURGAKUND!. Varanasi!!Varanasi!UTTAR PRADESH!221005",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O Vivek Chaurasia",
+      "name": "Varsha Chourasya",
+      "num": "8090708020"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Vivek Chaurasia!B 27/62 C-2!DURGAKUND!. Varanasi!!Varanasi!UTTAR PRADESH!221005",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O Vivek Chaurasia",
+      "name": "Varsha Chourasya",
+      "num": "8090708020"
+    },
+    {
+      "aadhar": "280560522492",
+      "address": "!B27/62C- 2!DURGAKUND!ANANDPARK!ANANDPARK!DURGAKUND-VARANASI!UP!221005",
+      "alt": "8090708020",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "NARAYAN  CHAURASIA",
+      "name": "VIVEK  CHAURASIA",
+      "num": "8934843796"
+    },
+    {
+      "aadhar": "280560522492",
+      "address": " !B-27/62 C-2  DURGAKUND!VARANASI  Sunderpur!Hindu Vishwa Vidhyalaya  Varanasi DURGAKUND!VARANASI-VARANASI!UP!221005",
+      "alt": "8090708020",
+      "circle": null,
+      "email": null,
+      "fname": "NARAYAN  CHAURASIA",
+      "name": "VIVEK  CHAURASIA",
+      "num": "9795446091"
+    },
+    {
+      "aadhar": "280560522492",
+      "address": " !B-27/62 C-2  DURGAKUND!VARANASI  Sunderpur!Hindu Vishwa Vidhyalaya  Varanasi DURGAKUND!VARANASI-VARANASI!UP!221005",
+      "alt": "8090708020",
+      "circle": null,
+      "email": null,
+      "fname": "NARAYAN  CHAURASIA",
+      "name": "VIVEK  CHAURASIA",
+      "num": "9795446091"
+    }
+  ]
+}
