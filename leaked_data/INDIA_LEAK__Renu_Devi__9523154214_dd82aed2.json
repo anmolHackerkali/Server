@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:31:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9523154214",
+  "records": [
+    {
+      "aadhar": "958422148988",
+      "address": " .!Belari PO!ward no-01!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Yadav ",
+      "name": " Renu Devi ",
+      "num": "9523154214"
+    },
+    {
+      "aadhar": "958422148988",
+      "address": " .!Belari PO!ward no-01!Belari Kumarkhand!Madhepura!Madhepura!Bihar!852114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Yadav ",
+      "name": " Renu Devi ",
+      "num": "9523154214"
+    }
+  ]
+}
