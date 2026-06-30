@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 22:16:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9026189226",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Devaraj!!!bank khas!Banka Khas Kushinagar!Uttar Pradesh!274409",
+      "alt": "917388733838",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devaraj",
+      "name": "Sandhya",
+      "num": "9026189226"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Devaraj!!!bank khas!Banka Khas Kushinagar!Uttar Pradesh!274409",
+      "alt": "917388733838",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devaraj",
+      "name": "Sandhya",
+      "num": "9026189226"
+    }
+  ]
+}
