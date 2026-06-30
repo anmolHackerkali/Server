@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:22:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810521675",
+  "records": [
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13! MUKUND VIHAR Karawal Nagar  !North EastNorth East!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    },
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13!!MUKUND VIHARKarawal Nagar !North East!!AIRTEL DELHI!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    },
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13!MUKUND VIHARKarawal Nagar !North EastNorth East!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    },
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13!MUKUND VIHARKarawal Nagar !North EastNorth East!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    },
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13!MUKUND VIHARKarawal Nagar !North EastNorth East!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    },
+    {
+      "aadhar": "251159935455",
+      "address": "S/O Ashok Kumar!H N0 E 170!STREET N0 13!MUKUND VIHARKarawal Nagar !North EastNorth East!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Nitin",
+      "num": "9810521675"
+    }
+  ]
+}
