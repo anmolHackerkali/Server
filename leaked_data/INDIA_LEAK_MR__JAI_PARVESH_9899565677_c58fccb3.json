@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 19:12:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899565677",
+  "records": [
+    {
+      "aadhar": "435089546597",
+      "address": "S/O Ashok Kumar!B-1  ANANT RAM DAIRY!R K PURAM  SECTOR-13 HANUMAN MANDIR!hanuman mandir!R K PURAM SOUTH WEST DELHI!DELHI!South West Delhi!DELHI!110066",
+      "alt": "9899868677",
+      "circle": "VI DELHI",
+      "email": "JAIPARVESHPAWAR@GMAIL.COM",
+      "fname": "Ashok Kumar",
+      "name": "MR  JAI PARVESH",
+      "num": "9899565677"
+    },
+    {
+      "aadhar": "435089546597",
+      "address": "S/O Ashok Kumar!B-1 ANANT RAM DAIRY!R K PURAM SECTOR-13HANUMAN MANDIR!hanuman mandir!R K PURAMSOUTH WEST DELHI!DELHI!South West Delhi!DELHI!110066",
+      "alt": "9899868677",
+      "circle": "VI DELHI",
+      "email": "JAIPARVESHPAWAR@GMAIL.COM",
+      "fname": "Ashok Kumar",
+      "name": "MR JAI PARVESH",
+      "num": "9899565677"
+    },
+    {
+      "aadhar": "435089546597",
+      "address": "S/O Ashok Kumar!B-1 ANANT RAM DAIRY!R K PURAM SECTOR-13HANUMAN MANDIR!hanuman mandir!R K PURAMSOUTH WEST DELHI!DELHI!South West Delhi!DELHI!110066",
+      "alt": "9899868677",
+      "circle": "VI DELHI",
+      "email": "JAIPARVESHPAWAR@GMAIL.COM",
+      "fname": "Ashok Kumar",
+      "name": "MR JAI PARVESH",
+      "num": "9899565677"
+    }
+  ]
+}
