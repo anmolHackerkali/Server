@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 05:45:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625555487",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "!BEHRAMPUR ROAD!HREC WORKSHOP Sec 34!Gurgaon!Gurgaon Gurgaon!Haryana!122004",
+      "alt": "919711506481",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Devi Prashad",
+      "name": "Raj Bahadur",
+      "num": "9625555487"
+    },
+    {
+      "aadhar": null,
+      "address": "!BEHRAMPUR ROAD!HREC WORKSHOPSec 34!Gurgaon!GurgaonGurgaon!Haryana!122004",
+      "alt": "919711506481",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Devi Prashad",
+      "name": "Raj Bahadur",
+      "num": "9625555487"
+    },
+    {
+      "aadhar": null,
+      "address": "!BEHRAMPUR ROAD!HREC WORKSHOPSec 34!Gurgaon!GurgaonGurgaon!Haryana!122004",
+      "alt": "919711506481",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Devi Prashad",
+      "name": "Raj Bahadur",
+      "num": "9625555487"
+    }
+  ]
+}
