@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 08:44:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7292943281",
+  "records": [
+    {
+      "aadhar": "449437820414",
+      "address": "!Pachmahala!Post-Navdiha!Khizirsarai!!Gaya Khizersarai Khizirsarai!Bihar!824233",
+      "alt": "7250090501",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shrikhaninya  Mistri",
+      "name": "Naresh  Mistri",
+      "num": "7292943281"
+    },
+    {
+      "aadhar": "449437820414",
+      "address": "!Pachmahala!Post-Navdiha!Khizirsarai!!Gaya Khizersarai Khizirsarai!Bihar!824233",
+      "alt": "7250090501",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shrikhaninya  Mistri",
+      "name": "Naresh  Mistri",
+      "num": "7292943281"
+    }
+  ]
+}
