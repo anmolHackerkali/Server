@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 17:38:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207221836",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharan Bihari Mandal!!Near Primary School!Chhoti Ibrahimpur!Ibrahimpur Bhagalpur!Bihar!813210",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharan Bihari Mandal",
+      "name": "Lakshmi Mandal",
+      "num": "6207221836"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharan Bihari Mandal!!Near Primary School!Chhoti Ibrahimpur!Ibrahimpur Bhagalpur!Bihar!813210",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharan Bihari Mandal",
+      "name": "Lakshmi Mandal",
+      "num": "6207221836"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharan Bihari Mandal!!Near Primary School!Chhoti Ibrahimpur!Ibrahimpur Bhagalpur!Bihar!813210",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharan Bihari Mandal",
+      "name": "Lakshmi Mandal",
+      "num": "6207221836"
+    }
+  ]
+}
