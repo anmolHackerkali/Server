@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:09:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9690052269",
+  "records": [
+    {
+      "aadhar": "669592445442",
+      "address": "S/O: Jay Singh12taraulitarauliTarauli Shumali  Chhata MATHURACHHATA MATHURAMATHURAUTTAR PRADESH281406",
+      "alt": "9045703514",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Jay Singh",
+      "name": "MR KANHA ",
+      "num": "9690052269"
+    },
+    {
+      "aadhar": "669592445442",
+      "address": "S/O: Jay Singh12taraulitarauliTarauli Shumali  Chhata MATHURACHHATA MATHURAMATHURAUTTAR PRADESH281406",
+      "alt": "9045703514",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Jay Singh",
+      "name": "MR KANHA ",
+      "num": "9690052269"
+    }
+  ]
+}
