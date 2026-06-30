@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:07:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204402348",
+  "records": [
+    {
+      "aadhar": "939704441287",
+      "address": "S/O  Ishwar Prasad Sharma!! Bhatotar Chakla!vill - kailu tol post ladugarh!Sukhsena Barhara Purnia!Bihar!854203",
+      "alt": "917050155249",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ishwar Prasad Sharma",
+      "name": "Arvind Kumar Sharma",
+      "num": "6204402348"
+    },
+    {
+      "aadhar": "939704441287",
+      "address": "S/O  Ishwar Prasad Sharma!! Bhatotar Chakla!vill - kailu tol post ladugarh!Sukhsena Barhara Purnia!Bihar!854203",
+      "alt": "917050155249",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ishwar Prasad Sharma",
+      "name": "Arvind Kumar Sharma",
+      "num": "6204402348"
+    },
+    {
+      "aadhar": "939704441287",
+      "address": "S/O  Ishwar Prasad Sharma!! Bhatotar Chakla!vill - kailu tol post ladugarh!Sukhsena Barhara Purnia!Bihar!854203",
+      "alt": "917050155249",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ishwar Prasad Sharma",
+      "name": "Arvind Kumar Sharma",
+      "num": "6204402348"
+    }
+  ]
+}
