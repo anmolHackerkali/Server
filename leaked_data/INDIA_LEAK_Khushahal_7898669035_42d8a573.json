@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 02:43:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7898669035",
+  "records": [
+    {
+      "aadhar": "NPR1311364",
+      "address": "!579!Baramandal!!sardarpur!SARDARPUR!Dhar!Madhya Pradesh!454111",
+      "alt": "8109468726",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Bahadursingh",
+      "name": "Khushahal",
+      "num": "7898669035"
+    },
+    {
+      "aadhar": "643720088053",
+      "address": "S/O BALU!LALAKHALI GRAM - BARMANDAL!LALAKHALI GRAM - BARMANDAL barmandal!barmandal!barmandal DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "7898669035",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Balu",
+      "name": "MR DILIP ",
+      "num": "9171484317"
+    }
+  ]
+}
