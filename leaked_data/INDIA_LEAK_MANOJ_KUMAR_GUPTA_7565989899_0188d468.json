@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:53:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7565989899",
+  "records": [
+    {
+      "aadhar": "M7331MRJ08",
+      "address": "H NO WARD NO 8!VILL PANDEY MOHALLA NICHLAUL!MAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273304",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "MADANLALGUPTA",
+      "name": "MANOJ KUMAR GUPTA",
+      "num": "7565989899"
+    },
+    {
+      "aadhar": "M7331MRJ08",
+      "address": "H NO WARD NO 8!VILL PANDEY MOHALLA NICHLAUL!MAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273304",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "MADANLALGUPTA",
+      "name": "MANOJ KUMAR GUPTA",
+      "num": "7565989899"
+    },
+    {
+      "aadhar": "M7331MRJ08",
+      "address": "H NO WARD NO 8!VILL PANDEY MOHALLA NICHLAUL!MAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273304",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "MADANLALGUPTA",
+      "name": "MANOJ KUMAR GUPTA",
+      "num": "7565989899"
+    }
+  ]
+}
