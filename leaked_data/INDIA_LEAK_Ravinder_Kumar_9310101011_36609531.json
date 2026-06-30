@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:30:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310101011",
+  "records": [
+    {
+      "aadhar": "752124822333",
+      "address": "! HOUSE NO A 12!south ganesh nagar!!DHIRAJ BLOCK!Shakar Pur Baramad!East Delhi!Delhi!110092",
+      "alt": "9027843859",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sardar singh",
+      "name": "Ravinder Kumar",
+      "num": "9310101011"
+    },
+    {
+      "aadhar": "752124822333",
+      "address": "!HOUSE NO A 12!south ganesh nagar!!DHIRAJ BLOCK!Shakar Pur Baramad!East Delhi!Delhi!110092",
+      "alt": "9027843859",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sardar singh",
+      "name": "Ravinder Kumar",
+      "num": "9310101011"
+    },
+    {
+      "aadhar": "752124822333",
+      "address": "!HOUSE NO A 12!south ganesh nagar!!DHIRAJ BLOCK!Shakar Pur Baramad!East Delhi!Delhi!110092",
+      "alt": "9027843859",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sardar singh",
+      "name": "Ravinder Kumar",
+      "num": "9310101011"
+    }
+  ]
+}
