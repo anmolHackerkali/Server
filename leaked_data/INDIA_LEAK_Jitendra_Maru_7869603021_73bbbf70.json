@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:15:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7869603021",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Shankarlal Maru!!Ram Mandir Ke Pass!Gram Labariay Tehsil Sardarpur!Labariya Dhar!Madhya Pradesh!454111",
+      "alt": "919074183816",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Shankarlal Maru",
+      "name": "Jitendra Maru",
+      "num": "7869603021"
+    },
+    {
+      "aadhar": null,
+      "address": " am Mandir Ke Pass Gram Labariay Tehsil Sardarpur Lab arlya Dhar  Lab arlya Dhar Dhar  Madhya Pradesh 454111",
+      "alt": "7869603021",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Shankarlal Maru",
+      "name": "Jitendra Maru",
+      "num": "9074183816 "
+    }
+  ]
+}
