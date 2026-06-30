@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:00:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9279315235",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Sunil Rana!!!VILL -manjhaladih PO-ChaTRO PS-DEORI!Deori Giridih!Jharkhand!815314",
+      "alt": "918582041465",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sunil Rana",
+      "name": "Rina Devi",
+      "num": "9279315235"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Sunil Rana!!!VILL -manjhaladih PO-ChaTRO PS-DEORI!Deori Giridih!Jharkhand!815314",
+      "alt": "918582041465",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sunil Rana",
+      "name": "Rina Devi",
+      "num": "9279315235"
+    }
+  ]
+}
