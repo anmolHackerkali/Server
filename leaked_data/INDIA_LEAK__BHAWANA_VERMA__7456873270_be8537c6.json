@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:25:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7456873270",
+  "records": [
+    {
+      "aadhar": "647810064282",
+      "address": " D/O Khushal Ram Verma!7!BANKHOLA!      BAGESHWAR Bageshwar      !Bageshwar!Uttarakhand!263642 ",
+      "alt": "7017580089",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Khushal Ram Verma ",
+      "name": " BHAWANA VERMA ",
+      "num": "7456873270"
+    },
+    {
+      "aadhar": "647810064282",
+      "address": " D/O Khushal Ram Verma!7!BANKHOLA!      BAGESHWAR Bageshwar      !Bageshwar!Uttarakhand!263642 ",
+      "alt": "7017580089",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Khushal Ram Verma ",
+      "name": " BHAWANA VERMA ",
+      "num": "7456873270"
+    }
+  ]
+}
