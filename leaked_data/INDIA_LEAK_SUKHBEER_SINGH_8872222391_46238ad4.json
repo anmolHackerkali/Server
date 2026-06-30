@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 18:35:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8872222391",
+  "records": [
+    {
+      "aadhar": "734549017984",
+      "address": "NA!C/O MAJOR SINGH!LAKHO KE BEHRAM BEHRAM!!FIROZEPUR!FIROZPUR!FIROZPUR!PUNJAB!152023",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "MAJOR SINGH",
+      "name": "SUKHBEER SINGH",
+      "num": "8872222391"
+    },
+    {
+      "aadhar": "734549017984",
+      "address": "NA!NA!LAKHO KE BEHRAM!!FIROZPURNAFIROZPUR!!FIROZPUR!PUNJAB!152023",
+      "alt": "8872222391",
+      "circle": "PUNAJB",
+      "email": null,
+      "fname": "MAJOR SINGH",
+      "name": "SUKHBEER SINGH",
+      "num": "9876391724"
+    },
+    {
+      "aadhar": "734549017984",
+      "address": "House No1!Village Lakho ke Behram!District Ferozepur!!Lakho Ke BehramFIROZPUR!FIROZPUR!FIROZPUR!PUNJAB!152023",
+      "alt": "8872222391",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Major Singh",
+      "name": "SUKHBEER SINGH",
+      "num": "8872922391"
+    },
+    {
+      "aadhar": "734549017984",
+      "address": "S/O Major Singh!lakho ke behram!firozpur!!Lakho Ke Behram!FAZILKA-FAZILKA!FAZILKA!PB!152023",
+      "alt": "8872222391",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "MAJOR SINGH",
+      "name": "SUKHBEER SINGH",
+      "num": "8198832154"
+    }
+  ]
+}
