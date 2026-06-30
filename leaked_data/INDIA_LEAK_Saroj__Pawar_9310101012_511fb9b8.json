@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:30:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310101012",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx4795",
+      "address": "W/O Bishan Lal Pawar!House Number- 3916!Gali N0- 27-28!Karol Bagh Raiger pura!Central DelhiCentral Delhi!Delhi!110005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "bishanlalpawar@gmail.com",
+      "fname": "Bishan Lal Pawar",
+      "name": "Saroj  Pawar",
+      "num": "9310101012"
+    },
+    {
+      "aadhar": "xxxxxxxx4795",
+      "address": "W/O Bishan Lal Pawar!House Number- 3916!Gali N0- 27-28!Karol Bagh Raiger pura!Central DelhiCentral Delhi!Delhi!110005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "bishanlalpawar@gmail.com",
+      "fname": "Bishan Lal Pawar",
+      "name": "Saroj  Pawar",
+      "num": "9310101012"
+    },
+    {
+      "aadhar": "xxxxxxxx4795",
+      "address": "W/O Bishan Lal Pawar!House Number- 3916!Gali N0- 27-28!Karol Bagh Raiger pura!Central DelhiCentral Delhi!Delhi!110005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "bishanlalpawar@gmail.com",
+      "fname": "Bishan Lal Pawar",
+      "name": "Saroj  Pawar",
+      "num": "9310101012"
+    },
+    {
+      "aadhar": "NOT AVAILABLE",
+      "address": "H NO-3916/28 ! REGAR PURA KAROL BAGH ! DELHI ! DELHI ! DELHI ! 110005",
+      "alt": "9310101012",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "B L Pawar",
+      "name": "MR. SANGAM PAWAR",
+      "num": "8010101012"
+    },
+    {
+      "aadhar": "NOT AVAILABLE",
+      "address": "H NO-3916/28 ! REGAR PURA KAROL BAGH ! DELHI ! DELHI ! DELHI ! 110005",
+      "alt": "9310101012",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "B L Pawar",
+      "name": "MR SANGAM PAWAR",
+      "num": "8010101012"
+    },
+    {
+      "aadhar": "NOT AVAILABLE",
+      "address": "H NO-3916/28 ! REGAR PURA KAROL BAGH ! DELHI ! DELHI ! DELHI ! 110005",
+      "alt": "9310101012",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "B L Pawar",
+      "name": "MR SANGAM PAWAR",
+      "num": "8010101012"
+    }
+  ]
+}
