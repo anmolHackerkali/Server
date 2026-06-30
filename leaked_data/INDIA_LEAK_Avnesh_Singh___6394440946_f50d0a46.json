@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:18:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6394440946",
+  "records": [
+    {
+      "aadhar": "313855229585",
+      "address": "!00!krishna vihar colony!near denso chock!bahadrabad!Haridwar!Haridwar!Uttarakhand!249402",
+      "alt": "9129191515",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "raghuraj singh",
+      "name": "Avnesh Singh  ",
+      "num": "6394440946"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Nandlal Vishwakarma!!301!Gram Baraiya Mafi Post Husenpur Girant!Baraiya Mafe Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "919451343201",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal Vishwakarma",
+      "name": "Pranjal Vishwakarma",
+      "num": "6394440946"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Nandlal Vishwakarma!!301!Gram Baraiya Mafi Post Husenpur Girant!Baraiya Mafe Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "919451343201",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal Vishwakarma",
+      "name": "Pranjal Vishwakarma",
+      "num": "6394440946"
+    }
+  ]
+}
