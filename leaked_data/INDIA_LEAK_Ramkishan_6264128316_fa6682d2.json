@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 03:05:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6264128316",
+  "records": [
+    {
+      "aadhar": "382191141897",
+      "address": "S/O  Chenalal!! Barmandal!Gram-Paduni Khurd!Paduni Khurd Sardarpur Dhar!Madhya Pradesh!454111",
+      "alt": "918085717269",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Chenalal",
+      "name": "Ramkishan",
+      "num": "6264128316"
+    },
+    {
+      "aadhar": null,
+      "address": " Lalakhali Gram-Barmandal  Barmandal Dhar  Madhya Pradesh 454111",
+      "alt": "6264128316",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mansingh",
+      "name": "Dinesh Damar",
+      "num": "9977100309 "
+    },
+    {
+      "aadhar": "335601457635",
+      "address": "S/O Nanda Ji Girwal!Gulripada Bakhatgarh!Gulripada Bakhatgarh!Gulripada Bakhatgarh!Gulripada  Badnawar DHAR!DHAR!DHAR!Madhya Pradesh!454660",
+      "alt": "6264128316",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Nanda",
+      "name": "MR CHENSINGH GIRWAL",
+      "num": "9174771626"
+    }
+  ]
+}
