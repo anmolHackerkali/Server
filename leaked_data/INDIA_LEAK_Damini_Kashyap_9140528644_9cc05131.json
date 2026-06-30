@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 04:20:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140528644",
+  "records": [
+    {
+      "aadhar": "990058654922",
+      "address": "D/O  Rajaram Kashyap!!5 / 345 gwari gaon!!Gomtinagar Lucknow!Uttar Pradesh!226010",
+      "alt": "919161232014",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajaram Kashyap",
+      "name": "Damini Kashyap",
+      "num": "9140528644"
+    },
+    {
+      "aadhar": "990058654922",
+      "address": "D/O  Rajaram Kashyap!!5 / 345 gwari gaon!!Gomtinagar Lucknow!Uttar Pradesh!226010",
+      "alt": "919161232014",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajaram Kashyap",
+      "name": "Damini Kashyap",
+      "num": "9140528644"
+    },
+    {
+      "aadhar": "474768019668",
+      "address": "D/O NANMUN KASHYAP!5/304 VIKAS KHAND GOMTI NAGAR!GOMTINAGAR!!LucknowLUCKNOW!LUCKNOW!UTTAR PRADESH!226010",
+      "alt": "9140528644",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Nanmun Kashyap",
+      "name": "MS. AARTI KASHYAP",
+      "num": "7081528217"
+    },
+    {
+      "aadhar": "xxxxxxxx7405",
+      "address": "! Vikash Khand!!gomtinagar jttar pradesh -!3/395!Gomtinagar!Lucknow!Uttar Pradesh!226010",
+      "alt": "9140528644",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nanmun kashyap",
+      "name": "Geeta Kashyap",
+      "num": "9569517166"
+    },
+    {
+      "aadhar": "474768019668",
+      "address": "D/O  Nanmun Kashyap!!5/304 Vikas khand Gomtinagar!NA!Gomti nagar!Gomtinagar Lucknow Lucknow!NA!Uttar Pradesh!226010",
+      "alt": "9140528644",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nanmun Kashyap",
+      "name": "Aarti Kashyap",
+      "num": "9336128522"
+    },
+    {
+      "aadhar": "474768019668",
+      "address": "D/O NANMUN KASHYAP!5/304  VIKAS KHAND  GOMTI NAGAR!GOMTINAGAR!!Lucknow LUCKNOW!LUCKNOW!UTTAR PRADESH!226010",
+      "alt": "9140528644",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nanmun Kashyap",
+      "name": "MS AARTI KASHYAP",
+      "num": "7081528217"
+    },
+    {
+      "aadhar": "xxxxxxxx7405",
+      "address": "! Vikash Khand!!gomtinagar jttar pradesh -!3/395!Gomtinagar!Lucknow!Uttar Pradesh!226010",
+      "alt": "9140528644",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nanmun kashyap",
+      "name": "Geeta Kashyap",
+      "num": "9569517166"
+    },
+    {
+      "aadhar": "474768019668",
+      "address": "D/O  Nanmun Kashyap!!5/304 Vikas khand Gomtinagar!NA!Gomti nagar!Gomtinagar Lucknow Lucknow!NA!Uttar Pradesh!226010",
+      "alt": "9140528644",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nanmun Kashyap",
+      "name": "Aarti Kashyap",
+      "num": "9336128522"
+    },
+    {
+      "aadhar": "474768019668",
+      "address": "D/O NANMUN KASHYAP!5/304  VIKAS KHAND  GOMTI NAGAR!GOMTINAGAR!!Lucknow LUCKNOW!LUCKNOW!UTTAR PRADESH!226010",
+      "alt": "9140528644",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nanmun Kashyap",
+      "name": "MS AARTI KASHYAP",
+      "num": "7081528217"
+    }
+  ]
+}
