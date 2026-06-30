@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:20:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560772251",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!145 GOKULDHAM SOCIETY sector 12 ghaziabad!sector 12 vasundra ghaziabad!Ghaziabad Ghaziabad!Uttar Pradesh!201012",
+      "alt": "919971501983",
+      "circle": "JIO DELHI",
+      "email": "KULDEEP_S1982@YAHOO.COM",
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": "FXX2165108",
+      "address": "!116 sector 10a vasundhara 00  Ghaziabad Uttar Pradesh 201010!!!!!!!",
+      "alt": "9971501983",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "naipal  singh",
+      "name": "kuladeep singh rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 145!GokulDham!Near AtmSector 12!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "kuldeep_s1982@yahoo.com",
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": "FXX2165108",
+      "address": "!116 sector 10a vasundhara 00  Ghaziabad Uttar Pradesh 201010!!!!!!!",
+      "alt": "9971501983",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "naipal  singh",
+      "name": "kuladeep singh rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 145!GokulDham!Near AtmSector 12!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "kuldeep_s1982@yahoo.com",
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": "FXX2165108",
+      "address": "!116 sector 10a vasundhara 00  Ghaziabad Uttar Pradesh 201010!!!!!!!",
+      "alt": "9971501983",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "naipal  singh",
+      "name": "kuladeep singh rathi",
+      "num": "9560772251"
+    },
+    {
+      "aadhar": "736722046375",
+      "address": "! 145!sector 12!!vasundhara!Ghaziabad!Ghaziabad!Uttar Pradesh!201012",
+      "alt": "9560772251",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "8076027711"
+    },
+    {
+      "aadhar": "FXX2165108",
+      "address": "!house no 116!sector 10 A!jain mandir!vasundhra!!!Ghaziabad Uttar Pradesh!201012",
+      "alt": "9560772251",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Naipal singh rathi",
+      "name": "Kuldeep singh rathi",
+      "num": "8512055551"
+    },
+    {
+      "aadhar": "736722046375",
+      "address": "!145!sector 12!!vasundhara!Ghaziabad!Ghaziabad!Uttar Pradesh!201012",
+      "alt": "9560772251",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "8076027711"
+    },
+    {
+      "aadhar": "736722046375",
+      "address": "!145!sector 12!!vasundhara!Ghaziabad!Ghaziabad!Uttar Pradesh!201012",
+      "alt": "9560772251",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Naipal Singh Rathi",
+      "name": "Kuldeep Singh Rathi",
+      "num": "8076027711"
+    }
+  ]
+}
