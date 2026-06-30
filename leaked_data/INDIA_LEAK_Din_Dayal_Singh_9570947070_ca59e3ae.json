@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 10:59:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9570947070",
+  "records": [
+    {
+      "aadhar": "964707517292",
+      "address": "s/o  late prabhu dayal singh!!Peshaur!vill - peshaur!peshaur!peshaur Rahui!nalanda!Bihar!803119",
+      "alt": "8340220267",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "late prabhu dayal singh",
+      "name": "Din Dayal Singh",
+      "num": "9570947070"
+    },
+    {
+      "aadhar": "964707517292",
+      "address": "s/o  late prabhu dayal singh!!Peshaur!vill - peshaur!peshaur!peshaur Rahui!nalanda!Bihar!803119",
+      "alt": "8340220267",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late prabhu dayal singh",
+      "name": "Din Dayal Singh",
+      "num": "9570947070"
+    },
+    {
+      "aadhar": "964707517292",
+      "address": "s/o  late prabhu dayal singh!!Peshaur!vill - peshaur!peshaur!peshaur Rahui!nalanda!Bihar!803119",
+      "alt": "8340220267",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late prabhu dayal singh",
+      "name": "Din Dayal Singh",
+      "num": "9570947070"
+    },
+    {
+      "aadhar": "964707517292",
+      "address": "!!Peshaurvill  peshaur!Nalanda!!Nalanda!Bihar!803119",
+      "alt": "9570947070",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Prabhu Dayal Singh",
+      "name": "Din Dayal Singh",
+      "num": "8541906374"
+    },
+    {
+      "aadhar": "964707517292",
+      "address": "!!Peshaurvill  peshaur!Nalanda!!Nalanda!Bihar!803119",
+      "alt": "9570947070",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Prabhu Dayal Singh",
+      "name": "Din Dayal Singh",
+      "num": "8541906374"
+    }
+  ]
+}
