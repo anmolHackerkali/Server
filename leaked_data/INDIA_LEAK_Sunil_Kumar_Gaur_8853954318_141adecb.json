@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 06:37:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8853954318",
+  "records": [
+    {
+      "aadhar": "651896693940",
+      "address": "!29/1!karmaha!!Sainua!Siddharthnagar!!Uttar Pradesh!272206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramtahal",
+      "name": "Sunil Kumar Gaur",
+      "num": "8853954318"
+    },
+    {
+      "aadhar": "651896693940",
+      "address": "!29/1!karmaha!!Sainua!Siddharthnagar!!Uttar Pradesh!272206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramtahal",
+      "name": "Sunil Kumar Gaur",
+      "num": "8853954318"
+    }
+  ]
+}
