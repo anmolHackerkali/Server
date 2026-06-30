@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 00:34:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9754058243",
+  "records": [
+    {
+      "aadhar": "726669796792",
+      "address": "s/o  mohansingh!!Barmandal!Gram-Padunikhurd!gram-padunikhurd tehsil-sardarapur paduni khurd!barmandal Sardarpur!dhar!Madhya Pradesh!454111",
+      "alt": "9754058243",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "mohansingh",
+      "name": "Virendrasingh",
+      "num": "9302776240"
+    },
+    {
+      "aadhar": "840146017012",
+      "address": "W/O Badrilal!Gram-Paduni Khurd Tehsil Sardarpu!Gram-Paduni Khurd Tehsil Sardarpu Gram-Paduni Khurd Tehsil Sardarpu!Gram-Paduni Khurd Tehsil Sardarpu!Gram-Paduni Khurd Tehsil Sardarpur DHAR!DHAR!DHAR!M",
+      "alt": "9754058243",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Badrilal",
+      "name": "MS MINA BAI",
+      "num": "9174627097"
+    },
+    {
+      "aadhar": "587261469646",
+      "address": "S/O Ramchandra!Gram - Paduni Khurd!Barmandal Dhar DHAR!DHAR!Barmandal Paduni Khurd DHAR!DHAR!DHAR!Madhya Pradesh!454111",
+      "alt": "9754058243",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ramchandra",
+      "name": "MR MADAN ",
+      "num": "8889191785"
+    },
+    {
+      "aadhar": "713768016620",
+      "address": "S/O Ranchod Katara! post Barkheda!gram Barkheda!Barkheda!sardarpur!Barkheda!Dhar!Madhya Pradesh!454111",
+      "alt": "9754058243",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ranchod Katara",
+      "name": "Motilal Katara",
+      "num": "8839875042"
+    },
+    {
+      "aadhar": null,
+      "address": " c/o mansingh gram baramkhedi  tehsil sardarpur baramkhedi Dhar  Madhya Pradesh 454111",
+      "alt": "9754058243",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "mansingh",
+      "name": "rajesh katara",
+      "num": "8305458966 "
+    },
+    {
+      "aadhar": "685889012112",
+      "address": "S/O Sardar! Barkheda Barkheda Sardarpur!Barkheda Barkheda Sardarpur Barkheda!Barkheda  Barkheda  Sardarpur!Gram-!Barkheda Sardarpur!Dhar!Madhya Pradesh!454111",
+      "alt": "9754058243",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Sardar",
+      "name": "Anil",
+      "num": "8103970265"
+    },
+    {
+      "aadhar": "941634671078",
+      "address": "S/O Nanasing!S/O Nanasing!Gram-Amla Teh-Dhar!Mohanpura  Dhar !AMLA-DHAR!MP!454001",
+      "alt": "9754058243",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "NANASING ",
+      "name": "MITHUN ",
+      "num": "7089210032"
+    },
+    {
+      "aadhar": null,
+      "address": " gram paduni khurd paduni  tehsil sardarpur paduri khurd Dhar  Madhya Pradesh 454111",
+      "alt": "9754058243",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "sukhram",
+      "name": "Balram",
+      "num": "6264924594 "
+    }
+  ]
+}
