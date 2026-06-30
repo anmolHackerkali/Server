@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-06-30 20:10:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9557476241",
+  "records": [
+    {
+      "aadhar": "561674009885",
+      "address": " S/O Niranjan!  Village-bhanera Bhanera  !!!Shamli!Uttar Pradesh!247771 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Niranjan ",
+      "name": " Indrapal ",
+      "num": "9557476241"
+    },
+    {
+      "aadhar": "561674009885",
+      "address": " S/O Niranjan!  Village-bhanera Bhanera  !!!Shamli!Uttar Pradesh!247771 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Niranjan ",
+      "name": " Indrapal ",
+      "num": "9557476241"
+    },
+    {
+      "aadhar": "561674009885",
+      "address": "S/O  Niranjan!!Bhanera!NA!Village-bhanera!BhaneraShamliShamli!NA!Uttar Pradesh!247771",
+      "alt": "9557476241",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Niranjan",
+      "name": "Indrapal",
+      "num": "9528350578"
+    },
+    {
+      "aadhar": "561674009885",
+      "address": "S/O  Niranjan!! Bhanera!NA!Village-bhanera!Bhanera Shamli Shamli!NA!Uttar Pradesh!247771",
+      "alt": "9557476241",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Niranjan",
+      "name": "Indrapal",
+      "num": "9528350578"
+    },
+    {
+      "aadhar": "561674009885",
+      "address": "S/O  Niranjan!! Bhanera!NA!Village-bhanera!Bhanera Shamli Shamli!NA!Uttar Pradesh!247771",
+      "alt": "9557476241",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Niranjan",
+      "name": "Indrapal",
+      "num": "9528350578"
+    }
+  ]
+}
