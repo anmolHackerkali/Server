@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 19:01:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9671779833",
+  "records": [
+    {
+      "aadhar": "985370782201",
+      "address": "Rohtak 439 Who  24 Jagdish Colony  Shiv MandirROHTAK KALANAUR ROHTAK HARYANA 124001",
+      "alt": "8168727458",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Ramjrishan",
+      "name": "MR  HARIOM BHATIA",
+      "num": "9671779833"
+    },
+    {
+      "aadhar": "991321552891",
+      "address": "S/O: Hariom 439/24 439/24Near singla sweets Near singla sweets Jagdish colony RohtakROHTAK ROHTAK ROHTAK HARYANA 124001",
+      "alt": "9671779833",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Hariom",
+      "name": "MR  DEV  ",
+      "num": "9992084745"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O: Hariom 439/24  Near singla sweets Jagdish colonyRohtak ROHTAK HARYANA 124001",
+      "alt": "9671779833",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "S/O: Hariom",
+      "name": "Dev  ",
+      "num": "8607988237"
+    }
+  ]
+}
