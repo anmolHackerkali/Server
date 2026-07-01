@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:13:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7001100568",
+  "records": [
+    {
+      "aadhar": "549854231417",
+      "address": " !!Kendua  Naikanda malda NOIKANDA Naikanda!NA!!Kendua Chanchal I Malda!NA!West Bengal!732126 ",
+      "alt": "9800228337",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mansur Ali",
+      "name": "Mariyam",
+      "num": "7001100568"
+    },
+    {
+      "aadhar": "549854231417",
+      "address": " !!Kendua  Naikanda malda NOIKANDA Naikanda!NA!!Kendua Chanchal I Malda!NA!West Bengal!732126 ",
+      "alt": "9800228337",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mansur Ali",
+      "name": "Mariyam",
+      "num": "7001100568"
+    }
+  ]
+}
