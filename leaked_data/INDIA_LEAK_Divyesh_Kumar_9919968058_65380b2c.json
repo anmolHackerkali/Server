@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:14:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9919968058",
+  "records": [
+    {
+      "aadhar": "891017690393",
+      "address": " !!Husainpur Girant!gram muhammadpur!Akdalla-Tanda-Ambedk!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Poojan",
+      "name": "Divyesh Kumar",
+      "num": "9919968058"
+    },
+    {
+      "aadhar": "891017690393",
+      "address": " !!Husainpur Girant!gram muhammadpur!Akdalla-Tanda-Ambedk!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Poojan",
+      "name": "Divyesh Kumar",
+      "num": "9919968058"
+    }
+  ]
+}
