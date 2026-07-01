@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:49:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8950772274",
+  "records": [
+    {
+      "aadhar": "847229525773",
+      "address": " D  L  F COLONY  ROHTAK Rohtak Rohtak Rohtak  Rohtak HARYANA 124001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "GULASHAN KUMAR",
+      "name": "POONAM URF SHALU",
+      "num": "8950772274"
+    },
+    {
+      "aadhar": "847229525773",
+      "address": "W/O Gulshan Kumar HOUSE NO  499 A WARD NO  23!!D  L  F COLONY!ROHTAK Rohtak Rohtak Rohtak!Rohtak!HARYANA!124001",
+      "alt": null,
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "GULASHAN KUMAR",
+      "name": "POONAM URF SHALU",
+      "num": "8950772274"
+    }
+  ]
+}
