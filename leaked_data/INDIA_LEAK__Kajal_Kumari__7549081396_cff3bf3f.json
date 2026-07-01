@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 08:44:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7549081396",
+  "records": [
+    {
+      "aadhar": "341446326093",
+      "address": " mirchai bari ward 06!post mirchai bar!mandir!Banmankhi!Purnia!Purnia!Bihar!854202 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Sharma ",
+      "name": " Kajal Kumari ",
+      "num": "7549081396"
+    },
+    {
+      "aadhar": "341446326093",
+      "address": " mirchai bari ward 06!post mirchai bar!mandir!Banmankhi!Purnia!Purnia!Bihar!854202 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Sharma ",
+      "name": " Kajal Kumari ",
+      "num": "7549081396"
+    }
+  ]
+}
