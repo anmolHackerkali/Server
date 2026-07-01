@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 19:54:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7557819532",
+  "records": [
+    {
+      "aadhar": "452967620090",
+      "address": " !!Patdoha  Shyampur!NA!!Patdoha Saltora Bankura!NA!West Bengal!722158 ",
+      "alt": "7063305577",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Goutam Bhandrari",
+      "name": "Biplab Bhandari",
+      "num": "7557819532"
+    },
+    {
+      "aadhar": "452967620090",
+      "address": " !!Patdoha  Shyampur!NA!!Patdoha Saltora Bankura!NA!West Bengal!722158 ",
+      "alt": "7063305577",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Goutam Bhandrari",
+      "name": "Biplab Bhandari",
+      "num": "7557819532"
+    },
+    {
+      "aadhar": "452967620090",
+      "address": "!!Shyampur!!Patdoha-Saltora-Bankura!West Bengal!722158",
+      "alt": "7557819532",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "goutom bhandri",
+      "name": "Biplab Bhandari",
+      "num": "8145212457"
+    },
+    {
+      "aadhar": "452967620090",
+      "address": " !! Shyampur!NA!!Patdoha Saltora Bankura!NA!West Bengal!722158 ",
+      "alt": "7557819532",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Goutam Bhandari",
+      "name": "Biplab Bhandari",
+      "num": "6294107373"
+    },
+    {
+      "aadhar": "452967620090",
+      "address": "!!Shyampur!!Patdoha-Saltora-Bankura!West Bengal!722158",
+      "alt": "7557819532",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "goutom bhandri",
+      "name": "Biplab Bhandari",
+      "num": "8145212457"
+    },
+    {
+      "aadhar": "452967620090",
+      "address": " !! Shyampur!NA!!Patdoha Saltora Bankura!NA!West Bengal!722158 ",
+      "alt": "7557819532",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Goutam Bhandari",
+      "name": "Biplab Bhandari",
+      "num": "6294107373"
+    }
+  ]
+}
