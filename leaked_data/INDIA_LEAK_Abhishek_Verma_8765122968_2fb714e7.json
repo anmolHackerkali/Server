@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 03:52:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8765122968",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8765122968"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8765122968"
+    }
+  ]
+}
