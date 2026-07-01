@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:56:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813601700",
+  "records": [
+    {
+      "aadhar": "HR1220040084854",
+      "address": "!!h no  1060/31kamla nagar Rohtak MCL Rohtaknear park!NA!Rohtak!RohtakRohtak!NA!Haryana!124001",
+      "alt": "9017300014",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "pankaj Sharma",
+      "name": "Soni sharma",
+      "num": "9813601700"
+    }
+  ]
+}
