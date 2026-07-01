@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 05:12:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9676627891",
+  "records": [
+    {
+      "aadhar": "377577926400",
+      "address": "19-2-11/161/a!Bilal Nagar Falaknuma PO!!Kalapather Falaknuma Charminar!Hyderabad!Hyderabad!Telangana!500053",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Wahab Moinuddin khan",
+      "name": "Syeda Zahera Nasreen",
+      "num": "9676627891"
+    }
+  ]
+}
