@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:39:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9603372287",
+  "records": [
+    {
+      "aadhar": "617610833724",
+      "address": "c/o chandu! 1-192-1!!!bhosi bhosi!bhosi!adilabad!Telangana!504103",
+      "alt": "7036982013",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Chandu",
+      "name": "Rajitha Kashi",
+      "num": "9603372287"
+    }
+  ]
+}
