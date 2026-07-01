@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 01:56:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6388855052",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Gaji Deen!0!Vajidpur Pariyawan!. Pratapgarh!Pariyawan!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Gaji Deen",
+      "name": "Angad Kumar",
+      "num": "6388855052"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Gaji Deen!0!Vajidpur Pariyawan!. Pratapgarh!Pariyawan!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Gaji Deen",
+      "name": "Angad Kumar",
+      "num": "6388855052"
+    }
+  ]
+}
