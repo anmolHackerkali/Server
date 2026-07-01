@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:07:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6366255019",
+  "records": [
+    {
+      "aadhar": "338625031153",
+      "address": "580 GURMITKAL KOTAGERA  YADGIR GURMITKAL TOWN YADGIR Yadgir Karnataka 585214",
+      "alt": "7338072730",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "KANTAPPA   ",
+      "name": "MANJULA  ",
+      "num": "6366255019"
+    },
+    {
+      "aadhar": "338625031153",
+      "address": "!KOTAGERA!Gurmitkal Town!!Gurmitkal!Yadgir!KALABURAGI!Karnataka!585214",
+      "alt": "6366255019",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "KANTAPPA ",
+      "name": "MANJULA ",
+      "num": "8951983108"
+    }
+  ]
+}
