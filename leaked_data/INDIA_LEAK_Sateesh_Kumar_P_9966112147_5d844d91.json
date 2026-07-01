@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:21:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9966112147",
+  "records": [
+    {
+      "aadhar": "885066931308",
+      "address": "S/O  Venkat Ramulu P!S/O  Venkat Ramulu P  6-1-79/f!Ganesh Nagar!Mahabubnagar  Mahbubnagar !MAHBUBNAGAR-MAHABUBNAGAR!TL!509001",
+      "alt": null,
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "Venkat Ramulu P P",
+      "name": "Sateesh Kumar P",
+      "num": "9966112147"
+    }
+  ]
+}
