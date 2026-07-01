@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 06:16:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956047623",
+  "records": [
+    {
+      "aadhar": "200690951857",
+      "address": "S/O  Ram Dulare!! Kalakankar!NA!vajidpur!Pariyawan Kunda Pratapgarh!NA!Uttar Pradesh!229408",
+      "alt": "9956483099",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Dulare",
+      "name": "Gajeedeen",
+      "num": "9956047623"
+    },
+    {
+      "aadhar": "200690951857",
+      "address": "S/O  Ram Dulare!! Kalakankar!NA!vajidpur!Pariyawan Kunda Pratapgarh!NA!Uttar Pradesh!229408",
+      "alt": "9956483099",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Dulare",
+      "name": "Gajeedeen",
+      "num": "9956047623"
+    }
+  ]
+}
