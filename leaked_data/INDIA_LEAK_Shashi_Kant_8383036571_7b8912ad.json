@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 09:25:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8383036571",
+  "records": [
+    {
+      "aadhar": "404999761947",
+      "address": "!!92 BLOCK- 20 DAKSHIN PURI EXTENSION!!Pushpa Bhawan SO South Delhi!Delhi!110062",
+      "alt": "919968438782",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "swaminath",
+      "name": "Shashi Kant",
+      "num": "8383036571"
+    },
+    {
+      "aadhar": "404999761947",
+      "address": "!!92BLOCK- 20DAKSHIN PURI EXTENSION!!Pushpa Bhawan SOSouth Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "swaminath",
+      "name": "Shashi Kant",
+      "num": "8383036571"
+    },
+    {
+      "aadhar": "404999761947",
+      "address": "!!92BLOCK- 20DAKSHIN PURI EXTENSION!!Pushpa Bhawan SOSouth Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "swaminath",
+      "name": "Shashi Kant",
+      "num": "8383036571"
+    },
+    {
+      "aadhar": "536980897644",
+      "address": "s/o ram chander!k-2-1238 sangam vihar!!!SANGAM VIHAR!new delhi!south delhi!Delhi!110062",
+      "alt": "8383036571",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram chander",
+      "name": "Ram Pravesh  ",
+      "num": "9310877902"
+    },
+    {
+      "aadhar": "536980897644",
+      "address": "s/o ram chander!k-2-1238 sangam vihar!!!SANGAM VIHAR!new delhi!south delhi!Delhi!110062",
+      "alt": "8383036571",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram chander",
+      "name": "Ram Pravesh  ",
+      "num": "9310877902"
+    },
+    {
+      "aadhar": "536980897644",
+      "address": "s/o ram chander!k-2-1238 sangam vihar!!!SANGAM VIHAR!new delhi!south delhi!Delhi!110062",
+      "alt": "8383036571",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram chander",
+      "name": "Ram Pravesh  ",
+      "num": "9310877902"
+    },
+    {
+      "aadhar": "536980897644",
+      "address": "s/o ram chander!k-2-1238 sangam vihar!!!SANGAM VIHAR!new delhi!south delhi!Delhi!110062",
+      "alt": "8383036571",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram chander",
+      "name": "Ram Pravesh  ",
+      "num": "9310877902"
+    }
+  ]
+}
