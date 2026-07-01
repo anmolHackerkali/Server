@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:54:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8770113732",
+  "records": [
+    {
+      "aadhar": "656316227486",
+      "address": "W/O  Gopal Rao Pimplapure!!122 Sakti RANI SAGAR PARA!Sakti SAKTI!Saktim Janjgirchampa!Chhattisgarh!495689",
+      "alt": "918962214759",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Gopal Rao Pimplapure",
+      "name": "Sadhana Pimplapure",
+      "num": "8770113732"
+    }
+  ]
+}
