@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:28:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7557885295",
+  "records": [
+    {
+      "aadhar": "814869027966",
+      "address": "Mitra Sen Rai!!Durgapur Steel Town West!M.E.H 42 SOUTH KANISHKA ROAD A-ZONE DURGAPUR-04!Durgapur m Corp.-Barddhaman-Barddhaman!West Bengal!713204",
+      "alt": "9434214315",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Mitra Sen Rai",
+      "name": "Sanjai Rai",
+      "num": "7557885295"
+    },
+    {
+      "aadhar": "814869027966",
+      "address": "Mitra Sen Rai!!Durgapur Steel Town West!M.E.H 42 SOUTH KANISHKA ROAD A-ZONE DURGAPUR-04!Durgapur m Corp.-Barddhaman-Barddhaman!West Bengal!713204",
+      "alt": "9434214315",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Mitra Sen Rai",
+      "name": "Sanjai Rai",
+      "num": "7557885295"
+    }
+  ]
+}
