@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:07:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9520292501",
+  "records": [
+    {
+      "aadhar": "377357062390",
+      "address": "!00!DHANSINI!!POST DHANSINI  Dhan Sini!Bijnor!!Uttarakhand!246763",
+      "alt": "7078035373",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rafik",
+      "name": "Liyakat",
+      "num": "9520292501"
+    },
+    {
+      "aadhar": "377357062390",
+      "address": "!00!DHANSINI!!POST DHANSINI  Dhan Sini!Bijnor!!Uttarakhand!246763",
+      "alt": "7078035373",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rafik",
+      "name": "Liyakat",
+      "num": "9520292501"
+    }
+  ]
+}
