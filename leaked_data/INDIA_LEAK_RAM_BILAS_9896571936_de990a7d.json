@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:17:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896571936",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "HJN 825/16 VIVKNAND JIND   JIND  JIND HARYANA 126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMESHAWAR",
+      "name": "RAM BILAS",
+      "num": "9896571936"
+    },
+    {
+      "aadhar": null,
+      "address": "HJN 825/16 VIVKNAND JIND!!JIND!JIND!HARYANA!126102",
+      "alt": null,
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMESHAWAR",
+      "name": "RAM BILAS",
+      "num": "9896571936"
+    }
+  ]
+}
