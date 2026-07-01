@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 12:27:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8009883577",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Gopi Nath!!! Gangeshwar nath Chunar!Mirzapur!Uttar Pradesh!231304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gopi Nath",
+      "name": "Bhupal Das Agrawal",
+      "num": "8009883577"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Gopi Nath!!! Gangeshwar nath Chunar!Mirzapur!Uttar Pradesh!231304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gopi Nath",
+      "name": "Bhupal Das Agrawal",
+      "num": "8009883577"
+    }
+  ]
+}
