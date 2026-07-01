@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 14:26:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8439736668",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O: Girish Chandra Ojha!-!NEAR MAZAR!MEENA MARKET LOHAGHAT LOHAGHAT!Lohaghat Range Champawat!Uttarakhand!262524",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Girish Chandra Ojha",
+      "name": "Diya Ojha",
+      "num": "8439736668"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Girish Chandra Ojha!-!NEAR MAZAR!MEENA MARKET LOHAGHAT LOHAGHAT!Lohaghat Range Champawat!Uttarakhand!262524",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Girish Chandra Ojha",
+      "name": "Diya Ojha",
+      "num": "8439736668"
+    }
+  ]
+}
