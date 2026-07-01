@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:09:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8293327674",
+  "records": [
+    {
+      "aadhar": "269314989468",
+      "address": "!barOghariya!Lahad!!Malda Tulsihatta!Malda!Malda!West Bengal!732140",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "HAZATUL ISLAM",
+      "name": "Nurmhal Bibi",
+      "num": "8293327674"
+    },
+    {
+      "aadhar": "269314989468",
+      "address": "!barOghariya!Lahad!!Malda Tulsihatta!Malda!Malda!West Bengal!732140",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "HAZATUL ISLAM",
+      "name": "Nurmhal Bibi",
+      "num": "8293327674"
+    }
+  ]
+}
