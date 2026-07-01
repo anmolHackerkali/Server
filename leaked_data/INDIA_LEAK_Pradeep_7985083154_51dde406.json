@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 06:52:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985083154",
+  "records": [
+    {
+      "aadhar": "325114881869",
+      "address": "s/o  chote!!Usargaon!!gram - usargaon usargaon!usar gaon Orai!jalaun!Uttar Pradesh!285202",
+      "alt": "9336655879",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "chote",
+      "name": "Pradeep",
+      "num": "7985083154"
+    },
+    {
+      "aadhar": "325114881869",
+      "address": "s/o  chote!!Usargaon!!gram - usargaon usargaon!usar gaon Orai!jalaun!Uttar Pradesh!285202",
+      "alt": "9336655879",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "chote",
+      "name": "Pradeep",
+      "num": "7985083154"
+    },
+    {
+      "aadhar": "326676617521",
+      "address": "S/O MAHENDRA SINGH!131  -  AMBABAI!131  -  AMBABAIambabai!ambabai!jhansiJHANSI!JHANSHI!UTTAR PRADESH!284419",
+      "alt": "7985083154",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "mahendra",
+      "name": "MR. RAGHVENDRA SINGH",
+      "num": "9682428121"
+    },
+    {
+      "aadhar": "326676617521",
+      "address": "S/O MAHENDRA SINGH!131   -   AMBABAI!131   -   AMBABAI ambabai!ambabai!jhansi JHANSI!JHANSHI!UTTAR PRADESH!284419",
+      "alt": "7985083154",
+      "circle": "UPE",
+      "email": null,
+      "fname": "mahendra",
+      "name": "MR RAGHVENDRA SINGH",
+      "num": "9682428121"
+    },
+    {
+      "aadhar": "326676617521",
+      "address": "S/O MAHENDRA SINGH!131   -   AMBABAI!131   -   AMBABAI ambabai!ambabai!jhansi JHANSI!JHANSHI!UTTAR PRADESH!284419",
+      "alt": "7985083154",
+      "circle": "UPE",
+      "email": null,
+      "fname": "mahendra",
+      "name": "MR RAGHVENDRA SINGH",
+      "num": "9682428121"
+    }
+  ]
+}
