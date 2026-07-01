@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:42:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9855433222",
+  "records": [
+    {
+      "aadhar": "03261114731",
+      "address": "E 323 PHASE 4 A FOCAL POINTLUDHIANAARJUN FLOUR AND OIL INDUSTRIESLUDHIANA141001!",
+      "alt": "9815548675",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "ARJUN FLOUR AND OIL INDUSTRIES",
+      "name": "ARJUN FLOUR AND OIL INDUSTRIES",
+      "num": "9855433222"
+    }
+  ]
+}
