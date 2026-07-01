@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 01:56:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7309934852",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!!! vajidpur Pariyawan!Pratapgarh!Uttar Pradesh!229408",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "7309934852"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!!! vajidpur Pariyawan!Pratapgarh!Uttar Pradesh!229408",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "7309934852"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8933870095"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8795300981"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Harishchandra!.!.!Wajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Harishchandra",
+      "name": "Manish Kumar",
+      "num": "8418870095"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8933870095"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Samar Jeet Verma!.!.!vajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Samar Jeet Verma",
+      "name": "Abhishek Verma",
+      "num": "8795300981"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Harishchandra!.!.!Wajidpur Pratapgarh!!Pratapgarh!UTTAR PRADESH!229408",
+      "alt": "7309934852",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Harishchandra",
+      "name": "Manish Kumar",
+      "num": "8418870095"
+    }
+  ]
+}
