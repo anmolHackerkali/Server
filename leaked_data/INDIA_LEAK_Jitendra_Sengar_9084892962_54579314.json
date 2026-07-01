@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 13:20:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9084892962",
+  "records": [
+    {
+      "aadhar": "569034002433",
+      "address": "!116a/2!Rahul Vihar!!Dayal Bagh . S O!Agra!!Uttar Pradesh!282005",
+      "alt": "9557060000",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "B L Singh",
+      "name": "Jitendra Sengar",
+      "num": "9084892962"
+    },
+    {
+      "aadhar": "569034002433",
+      "address": "!116a/2!Rahul Vihar!!Dayal Bagh . S O!Agra!!Uttar Pradesh!282005",
+      "alt": "9557060000",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "B L Singh",
+      "name": "Jitendra Sengar",
+      "num": "9084892962"
+    }
+  ]
+}
