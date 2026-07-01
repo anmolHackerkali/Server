@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:02:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7818813113",
+  "records": [
+    {
+      "aadhar": "334224858227",
+      "address": "W/O  Roopesh!10 Shiv Market!Thandi SarakEtah!!Maharana Pratap Nagar!EtahAliganj!Etah!Uttar Pradesh!207001",
+      "alt": "7983481468",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Roopesh",
+      "name": "Neeta Rani",
+      "num": "7818813113"
+    },
+    {
+      "aadhar": "334224858227",
+      "address": "W/O  Roopesh!10 Shiv Market!Thandi Sarak Etah!!Maharana Pratap Nagar!Etah Aliganj!Etah!Uttar Pradesh!207001",
+      "alt": "7983481468",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Roopesh",
+      "name": "Neeta Rani",
+      "num": "7818813113"
+    },
+    {
+      "aadhar": "334224858227",
+      "address": "W/O  Roopesh!10 Shiv Market!Thandi Sarak Etah!!Maharana Pratap Nagar!Etah Aliganj!Etah!Uttar Pradesh!207001",
+      "alt": "7983481468",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Roopesh",
+      "name": "Neeta Rani",
+      "num": "7818813113"
+    }
+  ]
+}
