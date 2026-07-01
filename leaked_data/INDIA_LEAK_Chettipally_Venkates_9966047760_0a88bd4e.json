@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:17:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9966047760",
+  "records": [
+    {
+      "aadhar": "862090552374",
+      "address": "S/O Chettipally Anja Goud!S/O Chettipally Anja Goud  3-80/6/3!Doultabad  Hathnoora!Doultabad  Hathnoora Doultabad!DOULTABAD-MEDAK!TL!502296",
+      "alt": null,
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "Chettipally Anja Goud Goud",
+      "name": "Chettipally Venkatesh Goud",
+      "num": "9966047760"
+    },
+    {
+      "aadhar": "862090552374",
+      "address": "S/O Chettipally Anja Goud! 3-80/6/3!Doulthabad!!Doultabad Hathnoora!Doultabad!Medak!Telangana!502296",
+      "alt": "9966047760",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Chettipally Anja Goud",
+      "name": "Chettipally Venkatesh Goud",
+      "num": "9391282201"
+    }
+  ]
+}
