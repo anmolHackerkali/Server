@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 06:12:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8542995715",
+  "records": [
+    {
+      "aadhar": "688660001530",
+      "address": "s/o  samarjeet!!Ambara Mathai!!pure naya ambara mathai ambara mathai!dalmau Dalmau!rae bareli!Uttar Pradesh!229204",
+      "alt": "8081129140",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "samarjeet",
+      "name": "Mahaendra Bahadur",
+      "num": "8542995715"
+    },
+    {
+      "aadhar": "688660001530",
+      "address": "s/o  samarjeet!!Ambara Mathai!!pure naya ambara mathai ambara mathai!dalmau Dalmau!rae bareli!Uttar Pradesh!229204",
+      "alt": "8081129140",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "samarjeet",
+      "name": "Mahaendra Bahadur",
+      "num": "8542995715"
+    }
+  ]
+}
