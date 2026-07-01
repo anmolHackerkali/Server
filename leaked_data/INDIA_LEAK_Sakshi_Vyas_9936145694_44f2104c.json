@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:55:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936145694",
+  "records": [
+    {
+      "aadhar": "966971785184",
+      "address": "d/o  rajesh kumar vyas!!BAGHAIRA Baghaira!!baghaira!baghaira Tahrauli!jhansi!Uttar Pradesh!284202",
+      "alt": "7985593469",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar vyas",
+      "name": "Sakshi Vyas",
+      "num": "9936145694"
+    },
+    {
+      "aadhar": "966971785184",
+      "address": "d/o  rajesh kumar vyas!!BAGHAIRA Baghaira!!baghaira!baghaira Tahrauli!jhansi!Uttar Pradesh!284202",
+      "alt": "7985593469",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar vyas",
+      "name": "Sakshi Vyas",
+      "num": "9936145694"
+    }
+  ]
+}
