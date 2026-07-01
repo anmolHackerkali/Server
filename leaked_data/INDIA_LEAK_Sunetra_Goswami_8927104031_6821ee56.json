@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:00:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8927104031",
+  "records": [
+    {
+      "aadhar": "745032901707",
+      "address": " W/O Sudip Goswami!!20/8 ASHOKE AVENUE A ZONE Durgapur Steel Town West!NA!!Durgapur m Corp Barddhaman Barddhaman!NA!West Bengal!713204 ",
+      "alt": "7319373531",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sudip Goswami",
+      "name": "Sunetra Goswami",
+      "num": "8927104031"
+    },
+    {
+      "aadhar": "745032901707",
+      "address": " W/O Sudip Goswami!!20/8 ASHOKE AVENUE A ZONE Durgapur Steel Town West!NA!!Durgapur m Corp Barddhaman Barddhaman!NA!West Bengal!713204 ",
+      "alt": "7319373531",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sudip Goswami",
+      "name": "Sunetra Goswami",
+      "num": "8927104031"
+    },
+    {
+      "aadhar": "745032901707",
+      "address": "!!w/o sudip goswami 20/8 ashoke avenue a zone durgapur m corp!!durgapur m corp durgapur steel town west barddhaman!Asansol!Barddhaman!West Bengal!713204",
+      "alt": "8927104031",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sudip Goswami",
+      "name": "Sunetra Goswami",
+      "num": "9475096131"
+    },
+    {
+      "aadhar": "745032901707",
+      "address": "!!w/o sudip goswami 20/8 ashoke avenue a zone durgapur m corp!!durgapur m corp durgapur steel town west barddhaman!Asansol!Barddhaman!West Bengal!713204",
+      "alt": "8927104031",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sudip Goswami",
+      "name": "Sunetra Goswami",
+      "num": "9475096131"
+    }
+  ]
+}
