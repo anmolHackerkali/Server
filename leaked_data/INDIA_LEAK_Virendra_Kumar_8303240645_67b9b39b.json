@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 01:57:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303240645",
+  "records": [
+    {
+      "aadhar": "330466364612",
+      "address": "s/o  devideen! 09!bamroli road Pandesara!Bamroli Road!chamunda nagar pandesara!surat city!surat!Gujarat!394221",
+      "alt": "7600746269",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "devideen",
+      "name": "Virendra Kumar",
+      "num": "8303240645"
+    },
+    {
+      "aadhar": "330466364612",
+      "address": "s/o  devideen! 09!bamroli road Pandesara!Bamroli Road!chamunda nagar pandesara!surat city!surat!Gujarat!394221",
+      "alt": "7600746269",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "devideen",
+      "name": "Virendra Kumar",
+      "num": "8303240645"
+    },
+    {
+      "aadhar": "330466364612",
+      "address": "s/o  devideen! 09!bamroli road Pandesara!Bamroli Road!chamunda nagar pandesara!surat city!surat!Gujarat!394221",
+      "alt": "7600746269",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "devideen",
+      "name": "Virendra Kumar",
+      "num": "8303240645"
+    },
+    {
+      "aadhar": "569457067492",
+      "address": "!555!Sangam Vihar Bajidabad gardern!gardern!Sector 8 SOUTH DELHI!DELHI!SOUTH DELHI!Delhi!110062",
+      "alt": "8303240645",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jitendra Maurya",
+      "name": "MS  ARTI MAURYA",
+      "num": "8421564929"
+    },
+    {
+      "aadhar": "569457067492",
+      "address": "!555!Sangam Vihar Bajidabadgardern!gardern!Sector 8SOUTH DELHI!DELHI!SOUTH DELHI!Delhi!110062",
+      "alt": "8303240645",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jitendra Maurya",
+      "name": "MS ARTI MAURYA",
+      "num": "8421564929"
+    },
+    {
+      "aadhar": "569457067492",
+      "address": "!555!Sangam Vihar Bajidabadgardern!gardern!Sector 8SOUTH DELHI!DELHI!SOUTH DELHI!Delhi!110062",
+      "alt": "8303240645",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jitendra Maurya",
+      "name": "MS ARTI MAURYA",
+      "num": "8421564929"
+    }
+  ]
+}
