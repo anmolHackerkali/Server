@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 15:01:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9289075538",
+  "records": [
+    {
+      "aadhar": "535844929789",
+      "address": "s/o satu ram soni!3/205!BADA THAKUR DWARA CHOTA BAZAR!!SHAHDARA!shahdara!north east delhi!Delhi!110032",
+      "alt": "8448375538",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satu ram soni",
+      "name": "Veer Kishore Soni",
+      "num": "9289075538"
+    },
+    {
+      "aadhar": "535844929789",
+      "address": "s/o satu ram soni!3/205!BADA THAKUR DWARA CHOTA BAZAR!!SHAHDARA!shahdara!north east delhi!Delhi!110032",
+      "alt": "8448375538",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satu ram soni",
+      "name": "Veer Kishore Soni",
+      "num": "9289075538"
+    },
+    {
+      "aadhar": "535844929789",
+      "address": "s/o satu ram soni!3/205!BADA THAKUR DWARA CHOTA BAZAR!!SHAHDARA!shahdara!north east delhi!Delhi!110032",
+      "alt": "8448375538",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satu ram soni",
+      "name": "Veer Kishore Soni",
+      "num": "9289075538"
+    }
+  ]
+}
