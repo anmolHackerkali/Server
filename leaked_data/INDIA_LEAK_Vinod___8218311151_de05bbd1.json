@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:30:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8218311151",
+  "records": [
+    {
+      "aadhar": "953201204055",
+      "address": "s/o  murari!!Pahasu!fatihabad post pahasu!fatihabad post pahasu!fatahabadShikarpur!bulandshahr!Uttar Pradesh!202396",
+      "alt": "6397584933",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "murari",
+      "name": "Vinod  ",
+      "num": "8218311151"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jagdish!!8!!Usmanpur Gautam Buddha Nagar!Uttar Pradesh!203201",
+      "alt": "918859263993",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagdish",
+      "name": "Kuldeep",
+      "num": "8218311151"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jagdish!!8!!Usmanpur Gautam Buddha Nagar!Uttar Pradesh!203201",
+      "alt": "918859263993",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagdish",
+      "name": "Kuldeep",
+      "num": "8218311151"
+    }
+  ]
+}
