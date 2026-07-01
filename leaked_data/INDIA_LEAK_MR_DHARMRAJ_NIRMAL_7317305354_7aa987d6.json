@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 01:58:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7317305354",
+  "records": [
+    {
+      "aadhar": "305267347909",
+      "address": "S/O CHHANGA LAI!.!JAJAL PUR DHAI JAJAL PUR DHAI -  JALA!!JAJAL PUR DHAI JAJAL PUR DHAI -  JALA!RAEBARELI!UTTAR PRADESH!229204",
+      "alt": "7317305354",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Chhanga Lal",
+      "name": "MR. DHARMRAJ NIRMAL",
+      "num": "9670438513"
+    },
+    {
+      "aadhar": "305267347909",
+      "address": "S/O CHHANGA LAI!.!JAJAL PUR DHAI  JAJAL PUR DHAI  -   JALA!!JAJAL PUR DHAI  JAJAL PUR DHAI  -   JALA!RAEBARELI!UTTAR PRADESH!229204",
+      "alt": "7317305354",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chhanga Lal",
+      "name": "MR DHARMRAJ NIRMAL",
+      "num": "9670438513"
+    },
+    {
+      "aadhar": "305267347909",
+      "address": "S/O CHHANGA LAI!.!JAJAL PUR DHAI  JAJAL PUR DHAI  -   JALA!!JAJAL PUR DHAI  JAJAL PUR DHAI  -   JALA!RAEBARELI!UTTAR PRADESH!229204",
+      "alt": "7317305354",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chhanga Lal",
+      "name": "MR DHARMRAJ NIRMAL",
+      "num": "9670438513"
+    }
+  ]
+}
