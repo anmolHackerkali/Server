@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:30:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7300514471",
+  "records": [
+    {
+      "aadhar": "437026542099",
+      "address": "S/O Akhtar Shah!GRAM DHANSINI!POST DHANSINI!!Dhan Sini Dhansini!Najibabad!Bijnor!Uttar Pradesh!246763",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Akhtar Shah",
+      "name": "Mohd Munir",
+      "num": "7300514471"
+    },
+    {
+      "aadhar": "437026542099",
+      "address": "S/O Akhtar Shah!GRAM DHANSINI!POST DHANSINI!!Dhan Sini Dhansini!Najibabad!Bijnor!Uttar Pradesh!246763",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Akhtar Shah",
+      "name": "Mohd Munir",
+      "num": "7300514471"
+    }
+  ]
+}
