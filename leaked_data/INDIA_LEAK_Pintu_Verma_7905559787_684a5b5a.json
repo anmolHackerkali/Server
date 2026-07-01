@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 03:50:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905559787",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Kamta Prasasd!!gram terawa!!Baghauli Hardoi!Uttar Pradesh!241122",
+      "alt": "919335299573",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kamta Prasasd",
+      "name": "Pintu Verma",
+      "num": "7905559787"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Kamta Prasasd!!gram terawa!!Baghauli Hardoi!Uttar Pradesh!241122",
+      "alt": "919335299573",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kamta Prasasd",
+      "name": "Pintu Verma",
+      "num": "7905559787"
+    }
+  ]
+}
