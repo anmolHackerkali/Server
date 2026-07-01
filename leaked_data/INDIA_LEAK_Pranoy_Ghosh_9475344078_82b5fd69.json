@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:01:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9475344078",
+  "records": [
+    {
+      "aadhar": "601346687789",
+      "address": "S/O  Pranab Kumar Ghosh!!EAST END G.T ROAD PARBIRHATA Sripalli!!Burdwan - I Burdwan - I Bardhaman!West Bengal!713103",
+      "alt": "918348770094",
+      "circle": "JIO WB",
+      "email": "pranoyghosh35@gmail.com",
+      "fname": "Pranab Kumar Ghosh",
+      "name": "Pranoy Ghosh",
+      "num": "9475344078"
+    },
+    {
+      "aadhar": "601346687789",
+      "address": "S/O  Pranab Kumar Ghosh!!EAST END G.T ROAD PARBIRHATA Sripalli!!Burdwan - I Burdwan - I Bardhaman!West Bengal!713103",
+      "alt": "918348770094",
+      "circle": "JIO WB",
+      "email": "pranoyghosh35@gmail.com",
+      "fname": "Pranab Kumar Ghosh",
+      "name": "Pranoy Ghosh",
+      "num": "9475344078"
+    }
+  ]
+}
