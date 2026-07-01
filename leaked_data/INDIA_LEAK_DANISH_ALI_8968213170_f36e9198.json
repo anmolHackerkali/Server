@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:09:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8968213170",
+  "records": [
+    {
+      "aadhar": "246983890215",
+      "address": "S/O: KAMAR ALI!HOUSE NO-1919!VILLAGE-BURAIL!SECTOR-45-ACHANDIGARHSECTOR 47CHANDIGARH!CHANDIGARH!CHANDIGARH!160047",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KAMAR ALI",
+      "name": "DANISH ALI",
+      "num": "8968213170"
+    },
+    {
+      "aadhar": "246983890215",
+      "address": "!House No 1919 Sector 45 A Chandigarh!House No 1919 Sector 45 A Chandigarh!STD!BURAILSTD!ATAWA-CHANDIGARH!CHANDIGARH!CH!160047",
+      "alt": "8968213170",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "KAMAR ALI",
+      "name": "DANISH ALI",
+      "num": "7527824547"
+    }
+  ]
+}
