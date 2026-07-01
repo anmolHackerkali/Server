@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:52:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9547845370",
+  "records": [
+    {
+      "aadhar": "667238009506",
+      "address": " D/O Babu Miya!!INDRA NARAYAN Balakandi!BALAKANDI!indra narayan balakandi balakundi!balakandi!koch bihar!West Bengal!736173 ",
+      "alt": "8967744241",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Babu Miya",
+      "name": "BIJLI KHATUN",
+      "num": "9547845370"
+    },
+    {
+      "aadhar": "667238009506",
+      "address": " D/O Babu Miya!!INDRA NARAYAN Balakandi!BALAKANDI!indra narayan balakandi balakundi!balakandi!koch bihar!West Bengal!736173 ",
+      "alt": "8967744241",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Babu Miya",
+      "name": "BIJLI KHATUN",
+      "num": "9547845370"
+    }
+  ]
+}
