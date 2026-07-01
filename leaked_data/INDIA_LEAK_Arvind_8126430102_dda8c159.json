@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 14:24:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8126430102",
+  "records": [
+    {
+      "aadhar": "618034264654",
+      "address": "S/O: Shyam!BHangeri Mahawatpur Bangherimahabatpur Ahat!! !Haridwar Milap Nagar Roorkee!Uttarakhand!247666",
+      "alt": "9756454647",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shyam",
+      "name": "Arvind",
+      "num": "8126430102"
+    },
+    {
+      "aadhar": "618034264654",
+      "address": "S/O: Shyam!BHangeri Mahawatpur Bangherimahabatpur Ahat!! !Haridwar Milap Nagar Roorkee!Uttarakhand!247666",
+      "alt": "9756454647",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shyam",
+      "name": "Arvind",
+      "num": "8126430102"
+    }
+  ]
+}
