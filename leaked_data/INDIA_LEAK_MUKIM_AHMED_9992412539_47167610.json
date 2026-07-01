@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:08:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9992412539",
+  "records": [
+    {
+      "aadhar": "475140023887",
+      "address": "S/O: Taufik Shah 720 ram krishan colonytaraa nagarAMBALA akta vihar road UGARA Haryana 133001",
+      "alt": "9034655779",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "TAUFIK SHAH",
+      "name": "MUKIM AHMED",
+      "num": "9992412539"
+    },
+    {
+      "aadhar": "475140023887",
+      "address": "S/O: Taufik Shah 720 ram krishan colonytaraa nagarAMBALA akta vihar road UGARA Haryana 133001",
+      "alt": "9034655779",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "TAUFIK SHAH",
+      "name": "MUKIM AHMED",
+      "num": "9992412539"
+    },
+    {
+      "aadhar": "475140023887",
+      "address": "!Near Milap Bakery!720 Ram kishan colonyAmbala cantt!NA!Ambala!AmbalaAmbala!NA!Haryana!133001",
+      "alt": "9992412539",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Taufik Shah",
+      "name": "Mukim Ahmed",
+      "num": "9034655779"
+    }
+  ]
+}
