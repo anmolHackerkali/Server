@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 19:00:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7015468691",
+  "records": [
+    {
+      "aadhar": "919122161233",
+      "address": "W/O  Sanjay!!House No  197 Ward No 31Rohtak!Old Housing Board Colony!RohtakRohtakRohtak!Haryana!124001",
+      "alt": "+919416336758",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sanjay",
+      "name": "Jyoti",
+      "num": "7015468691"
+    }
+  ]
+}
