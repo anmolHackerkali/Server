@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:31:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9870899500",
+  "records": [
+    {
+      "aadhar": "310679895575",
+      "address": "!01 02!gram dhansini dhan sini!!najibabad!Bijnor!Bijnor!Uttar Pradesh!246763",
+      "alt": "9988355949",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rahamanashah",
+      "name": "Israr Ahmed",
+      "num": "9870899500"
+    },
+    {
+      "aadhar": "310679895575",
+      "address": "! 01 02!gram dhansini dhan sini!!najibabad!Bijnor!Bijnor!Uttar Pradesh!246763",
+      "alt": "9988355949",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rahamanashah",
+      "name": "Israr Ahmed",
+      "num": "9870899500"
+    },
+    {
+      "aadhar": "310679895575",
+      "address": "! 01 02!gram dhansini dhan sini!!najibabad!Bijnor!Bijnor!Uttar Pradesh!246763",
+      "alt": "9988355949",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rahamanashah",
+      "name": "Israr Ahmed",
+      "num": "9870899500"
+    },
+    {
+      "aadhar": "337028313500",
+      "address": "!dhansini dhan sini bijnor!Dhansini dhansini!!Dhansini dhansini!Najibabad!Bijnor!Uttarakhand!246763",
+      "alt": "9870899500",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Kasim",
+      "name": "Jahir",
+      "num": "9068257905"
+    },
+    {
+      "aadhar": "337028313500",
+      "address": "!dhansini dhan sini bijnor!Dhansini dhansini!!Dhansini dhansini!Najibabad!Bijnor!Uttarakhand!246763",
+      "alt": "9870899500",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Kasim",
+      "name": "Jahir",
+      "num": "9068257905"
+    }
+  ]
+}
