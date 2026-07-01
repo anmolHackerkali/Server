@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 15:22:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9263217737",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Anil Goswami!!!VILL - PACHKEDIYA PO - NAWA JAYPUR PS - PATAN!Pachkeria Palamu!Jharkhand!822123",
+      "alt": "916204196238",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anil Goswami",
+      "name": "Kanti Devi",
+      "num": "9263217737"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Anil Goswami!!!VILL - PACHKEDIYA PO - NAWA JAYPUR PS - PATAN!Pachkeria Palamu!Jharkhand!822123",
+      "alt": "916204196238",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anil Goswami",
+      "name": "Kanti Devi",
+      "num": "9263217737"
+    }
+  ]
+}
