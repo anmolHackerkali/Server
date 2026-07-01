@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:31:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896427651",
+  "records": [
+    {
+      "aadhar": "HR12-20060100599",
+      "address": "!43/2!Huda sec 1!!Rohtak m cl!Rohtak!Rohtak!Haryana!124001",
+      "alt": "8221800051",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Santosh bansal",
+      "name": "Pritish bansal",
+      "num": "9896427651"
+    },
+    {
+      "aadhar": "HR1220060100599",
+      "address": " HNO 43 SECTOR 1 huda sec 1  ROHTAKRohtak ROHTAK Rohtak HARYANA 124001",
+      "alt": "9896427651",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "SANTOSH BANSAL",
+      "name": "MR  PRITISH BANSAL",
+      "num": "9996914551"
+    },
+    {
+      "aadhar": "698939341411",
+      "address": "S/O Santosh Bansal house no 43 Sector 1 Buda  RobtakROHTAK ROHTAK ROHTAK HARYANA 124001",
+      "alt": "9896427651",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Santosh Bansal",
+      "name": "MR  PRITISH BANSAL",
+      "num": "9812043407"
+    },
+    {
+      "aadhar": "799000331759",
+      "address": "SHRI MAHAVIR BRIGHT STEEL UDYOG OPP  A K  AUTOMATICSHISSAR ROAD ROHTAK ROHTAK HARYANA 124001",
+      "alt": "9896427651",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": null,
+      "name": "SHRI MAHAVIR BRIGHT STEEL UDYOG",
+      "num": "9729005131"
+    }
+  ]
+}
