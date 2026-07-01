@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:41:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8348159668",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!.!. CHINGURDANIA!CHINGURDANIA Purba Medinipur!CHINGURDANIA!EAST MEDINAPURE!Purba Medinipur!West Bengal!721430",
+      "alt": "7797432042",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Tapas Panda",
+      "name": "Sohan Panda",
+      "num": "8348159668"
+    },
+    {
+      "aadhar": null,
+      "address": "!.!. CHINGURDANIA!CHINGURDANIA Purba Medinipur!CHINGURDANIA!EAST MEDINAPURE!Purba Medinipur!West Bengal!721430",
+      "alt": "7797432042",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Tapas Panda",
+      "name": "Sohan Panda",
+      "num": "8348159668"
+    }
+  ]
+}
