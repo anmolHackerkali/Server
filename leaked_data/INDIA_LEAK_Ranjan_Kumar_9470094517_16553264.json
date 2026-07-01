@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 15:12:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9470094517",
+  "records": [
+    {
+      "aadhar": "354405408280",
+      "address": "! chanakya puri housing board colony!chanakya puri!l 48!gaya!Gaya!Gaya!Bihar!823001",
+      "alt": "7250681000",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Narendra kumar sharma",
+      "name": "Ranjan Kumar",
+      "num": "9470094517"
+    },
+    {
+      "aadhar": "354405408280",
+      "address": "! chanakya puri housing board colony!chanakya puri!l 48!gaya!Gaya!Gaya!Bihar!823001",
+      "alt": "7250681000",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Narendra kumar sharma",
+      "name": "Ranjan Kumar",
+      "num": "9470094517"
+    },
+    {
+      "aadhar": "354405408280",
+      "address": "! chanakya puri housing board colony!chanakya puri!l 48!gaya!Gaya!Gaya!Bihar!823001",
+      "alt": "7250681000",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Narendra kumar sharma",
+      "name": "Ranjan Kumar",
+      "num": "9470094517"
+    }
+  ]
+}
