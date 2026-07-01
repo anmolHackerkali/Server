@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:15:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8057435991",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Taufik Shah!#281!!!!Dhan Sini!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Taufik Shah ",
+      "name": " Mukim Ahmed ",
+      "num": "8057435991"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Taufik Shah!#281!!!!Dhan Sini!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Taufik Shah ",
+      "name": " Mukim Ahmed ",
+      "num": "8057435991"
+    }
+  ]
+}
