@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 05:07:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999990216",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "FLAT NO-301 3RD FLOOR ! TOWER-9 ANARAY CITY GH-1 ! NR PARI CHOWK ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9312670749",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": ".",
+      "name": "MR. YASHAPAL",
+      "num": "9999990216"
+    },
+    {
+      "aadhar": null,
+      "address": "FLAT NO-301 3RD FLOOR ! TOWER-9 ANARAY CITY GH-1 ! NR PARI CHOWK ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9312670749",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "MR YASHAPAL",
+      "num": "9999990216"
+    },
+    {
+      "aadhar": null,
+      "address": "FLAT NO-301 3RD FLOOR ! TOWER-9 ANARAY CITY GH-1 ! NR PARI CHOWK ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9312670749",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "MR YASHAPAL",
+      "num": "9999990216"
+    }
+  ]
+}
