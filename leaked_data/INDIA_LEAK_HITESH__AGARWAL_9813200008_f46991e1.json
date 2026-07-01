@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:15:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813200008",
+  "records": [
+    {
+      "aadhar": "932338275564",
+      "address": "HOUSE NO-205/87 MOHANA MANDI  WARD NO 01HISAR NEAR FC COLLEGE HISARHISAR  HISAR HARYANA 125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "JAGDISH  AGARWAL",
+      "name": "HITESH  AGARWAL",
+      "num": "9813200008"
+    },
+    {
+      "aadhar": "932338275564",
+      "address": "S/O JAGDISH AGARWAL!HOUSE NO-205/87!MOHANA MANDI!WARD NO 01HISAR NEAR FC COLLEGE HISARHISAR!HISAR!HARYANA!125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "JAGDISH  AGARWAL",
+      "name": "HITESH  AGARWAL",
+      "num": "9813200008"
+    },
+    {
+      "aadhar": "HR-20/165152",
+      "address": "!h no  205/87!MOHNA MANDI HISAR!!Hisar!Hissar!Hisar!Haryana!125001",
+      "alt": "9813200008",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "JAGDISH PArSAD AGARWAL",
+      "name": "HITESH AGARWAL",
+      "num": "9813703100"
+    },
+    {
+      "aadhar": "HR-20/165152",
+      "address": "!205/87!MOHNA MANDI HISAR!!Hisar!Hissar!Hisar!Haryana!125001",
+      "alt": "9813200008",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "JAGDISH PARSAD AGARWAL",
+      "name": "HITESH AGARWAL",
+      "num": "9306312370"
+    }
+  ]
+}
