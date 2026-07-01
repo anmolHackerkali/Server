@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:55:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8770119732",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Garbhu Yadav!!Ward Number 08 Baheliya tola!Gram Mali Mohgaon!Manadei Mandla!Madhya Pradesh!481665",
+      "alt": "919907273323",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Garbhu Yadav",
+      "name": "Sandeep Yadav",
+      "num": "8770119732"
+    },
+    {
+      "aadhar": "679116792524",
+      "address": "S/O Mahesh!!Anjani!Bava Tola Gram Parsatola!Ward Number 13!Anjani Ryt. Bichhiya!Mandla!Madhya Pradesh!481995",
+      "alt": "8770119732",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Mahesh",
+      "name": "Neeraj Kumar",
+      "num": "7489266862"
+    }
+  ]
+}
