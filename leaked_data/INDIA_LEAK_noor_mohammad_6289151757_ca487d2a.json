@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:11:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6289151757",
+  "records": [
+    {
+      "aadhar": "WB1120130578480",
+      "address": " ! 3!sandhya bazar!!dompara!Howrah!Haora!West Bengal!711101 ",
+      "alt": "9123765337",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "taj mohammad",
+      "name": "noor mohammad",
+      "num": "6289151757"
+    }
+  ]
+}
