@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:48:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7076896597",
+  "records": [
+    {
+      "aadhar": "898739768227",
+      "address": " S/O  Abdul Hakim Miah!!Balakandi!!vill-indranarayan!Balakundi Dinhata - I!Cooch Behar!West Bengal!736173 ",
+      "alt": "9108333475",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdul Hakim Miah",
+      "name": "Rafikul Islam",
+      "num": "7076896597"
+    },
+    {
+      "aadhar": "898739768227",
+      "address": " S/O  Abdul Hakim Miah!!Balakandi!!vill-indranarayan!Balakundi Dinhata - I!Cooch Behar!West Bengal!736173 ",
+      "alt": "9108333475",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdul Hakim Miah",
+      "name": "Rafikul Islam",
+      "num": "7076896597"
+    }
+  ]
+}
