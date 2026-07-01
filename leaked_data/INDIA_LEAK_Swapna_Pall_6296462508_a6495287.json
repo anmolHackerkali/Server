@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:18:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6296462508",
+  "records": [
+    {
+      "aadhar": "244933838629",
+      "address": "!!LABOURHAT DURGAPUR-1 Durgapur!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713201",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "dhananjoy dey",
+      "name": "Swapna Pall",
+      "num": "6296462508"
+    },
+    {
+      "aadhar": "244933838629",
+      "address": "!!LABOURHAT DURGAPUR-1 Durgapur!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713201",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "dhananjoy dey",
+      "name": "Swapna Pall",
+      "num": "6296462508"
+    }
+  ]
+}
