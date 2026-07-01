@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 19:14:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899565611",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "595 ! NIMRI CLONY ASHOKVIHAR PHAS 4 !  ! Delhi ! DELHI ! 110052",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "NEERAJ SUNEJA",
+      "num": "9899565611"
+    },
+    {
+      "aadhar": null,
+      "address": "595 ! NIMRI CLONY ASHOKVIHAR PHAS 4 !  ! Delhi ! DELHI ! 110052",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "NEERAJ SUNEJA",
+      "num": "9899565611"
+    },
+    {
+      "aadhar": null,
+      "address": "595 ! NIMRI CLONY ASHOKVIHAR PHAS 4 !  ! Delhi ! DELHI ! 110052",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "NEERAJ SUNEJA",
+      "num": "9899565611"
+    },
+    {
+      "aadhar": "666977161069",
+      "address": "!595!NIMRI COLONY!ASHOK VIHAR PHASE-4Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": "9899565611",
+      "circle": "AIRTEL DELHI",
+      "email": "neerajsuneja24@gmail.com",
+      "fname": "Mr  ",
+      "name": "Neeraj  Suneja",
+      "num": "9811576360"
+    },
+    {
+      "aadhar": "666977161069",
+      "address": "!595!NIMRI COLONY!ASHOK VIHAR PHASE-4Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": "9899565611",
+      "circle": "AIRTEL DELHI",
+      "email": "neerajsuneja24@gmail.com",
+      "fname": "Mr  ",
+      "name": "Neeraj  Suneja",
+      "num": "9811576360"
+    },
+    {
+      "aadhar": "666977161069",
+      "address": "!595!NIMRI COLONY!ASHOK VIHAR PHASE-4Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": "9899565611",
+      "circle": "AIRTEL DELHI",
+      "email": "neerajsuneja24@gmail.com",
+      "fname": "Mr  ",
+      "name": "Neeraj  Suneja",
+      "num": "9811576360"
+    }
+  ]
+}
