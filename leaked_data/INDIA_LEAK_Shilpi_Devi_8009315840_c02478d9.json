@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 03:51:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8009315840",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Kush Kumar!!!gram tarapurava majra tikri post myoni Mayoni!Hardoi!Uttar Pradesh!241122",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kush Kumar",
+      "name": "Shilpi Devi",
+      "num": "8009315840"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Kush Kumar!!!gram tarapurava majra tikri post myoni Mayoni!Hardoi!Uttar Pradesh!241122",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kush Kumar",
+      "name": "Shilpi Devi",
+      "num": "8009315840"
+    },
+    {
+      "aadhar": "558805586300",
+      "address": "!antava!gram antava post sursa sursaa!sursa!antava!Hardoi!Hardoi!Uttar Pradesh!241001",
+      "alt": "8009315840",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vineod",
+      "name": "Rohit Kumar",
+      "num": "8400966982"
+    },
+    {
+      "aadhar": "558805586300",
+      "address": "!antava!gram antava post sursa sursaa!sursa!antava!Hardoi!Hardoi!Uttar Pradesh!241001",
+      "alt": "8009315840",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vineod",
+      "name": "Rohit Kumar",
+      "num": "8400966982"
+    }
+  ]
+}
