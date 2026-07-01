@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:40:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9948412803",
+  "records": [
+    {
+      "aadhar": "733270252951",
+      "address": "S/O BATHULA VEERAIAH!28-835!VIDYA NAGAR  MIRYALAGUDA  Miryalaguda VIDYA NAGAR MIRYALAGUDA Miryalguda!NA!!Miryalaguda Miryalaguda Nalgonda!NA!Andhra Pradesh!508207",
+      "alt": "9948412803",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "BATHULA VEERAIAH",
+      "name": "BATHULA RAMARAO",
+      "num": "9951494742"
+    }
+  ]
+}
