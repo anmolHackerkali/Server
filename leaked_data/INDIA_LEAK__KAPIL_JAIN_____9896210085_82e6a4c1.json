@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:18:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896210085",
+  "records": [
+    {
+      "aadhar": " XXXXXXXX1975 ",
+      "address": " House no  7 near talaki gate  Jain gali Hisar Hisar HARYANA 125001 ",
+      "alt": " 7015247095 ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " S/O: DEEPAK KUMAR JA ",
+      "name": " KAPIL JAIN    ",
+      "num": "9896210085"
+    },
+    {
+      "aadhar": "449413411975",
+      "address": "S/O: Deepak Kumar Jain S/O: Deepak Kumar Jain House no  7 Jain gali Hisar HisarNear talaki gate HISAR-HISAR HR 125001",
+      "alt": "9896210085",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "DEEPAK KUMAR Kumar JAIN",
+      "name": "KAPIL JAIN",
+      "num": "9255152665"
+    },
+    {
+      "aadhar": "449413411975",
+      "address": "S/O  Deepak Kumar Jain!House no  7!Hisar!Near talaki gate!Jain gali!HisarHisar!Hisar!Haryana!125001",
+      "alt": "9896210085",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Deepak Kumar Jain",
+      "name": "Kapil Jain",
+      "num": "8307002481"
+    }
+  ]
+}
