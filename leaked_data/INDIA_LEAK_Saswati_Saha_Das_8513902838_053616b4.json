@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:08:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8513902838",
+  "records": [
+    {
+      "aadhar": "568355316502",
+      "address": " !-!- Kandi!SHIBORAMBATI!- - - shiborambati kandi!kandi Kandi!murshidabad!West Bengal!742137 ",
+      "alt": "9832712402",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "laltu saha",
+      "name": "Saswati Saha Das",
+      "num": "8513902838"
+    },
+    {
+      "aadhar": "568355316502",
+      "address": " !-!- Kandi!SHIBORAMBATI!- - - shiborambati kandi!kandi Kandi!murshidabad!West Bengal!742137 ",
+      "alt": "9832712402",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "laltu saha",
+      "name": "Saswati Saha Das",
+      "num": "8513902838"
+    },
+    {
+      "aadhar": "568355316502",
+      "address": " ! -!- Kandi!SHIBORAMBATI!- - shiborambati kandi!kandi Kandi!murshidabad!West Bengal!742137 ",
+      "alt": "8513902838",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "laltu saha",
+      "name": "Saswati Saha Das",
+      "num": "9832712402"
+    },
+    {
+      "aadhar": "568355316502",
+      "address": " ! -!- Kandi!SHIBORAMBATI!- - shiborambati kandi!kandi Kandi!murshidabad!West Bengal!742137 ",
+      "alt": "8513902838",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "laltu saha",
+      "name": "Saswati Saha Das",
+      "num": "9832712402"
+    }
+  ]
+}
