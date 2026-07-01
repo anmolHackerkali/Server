@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:11:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7248543170",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Mukhtar Ahmad!.!gram dhansini!po dhansini!!Najibabad!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mukhtar Ahmad ",
+      "name": " Mohd Junaid ",
+      "num": "7248543170"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Mukhtar Ahmad!.!gram dhansini!po dhansini!!Najibabad!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mukhtar Ahmad ",
+      "name": " Mohd Junaid ",
+      "num": "7248543170"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Mukhtar Ahmad!.!gram dhansini!po dhansini!!Najibabad!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mukhtar Ahmad ",
+      "name": " Mohd Junaid ",
+      "num": "7248543170"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Mukhtar Ahmad!.!gram dhansini!po dhansini!!Najibabad!Bijnor!Uttar Pradesh!246763 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mukhtar Ahmad ",
+      "name": " Mohd Junaid ",
+      "num": "7248543170"
+    },
+    {
+      "aadhar": "712501404431",
+      "address": "!00!gram dhansini!!po dhansini  Najibabad!Bijnor!!Uttar Pradesh!246763",
+      "alt": "7248543170",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mukhtar Ahmad",
+      "name": "Mohd Junaid",
+      "num": "7078554164"
+    },
+    {
+      "aadhar": "712501404431",
+      "address": "!00!gram dhansini!!po dhansini  Najibabad!Bijnor!!Uttar Pradesh!246763",
+      "alt": "7248543170",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mukhtar Ahmad",
+      "name": "Mohd Junaid",
+      "num": "7078554164"
+    }
+  ]
+}
