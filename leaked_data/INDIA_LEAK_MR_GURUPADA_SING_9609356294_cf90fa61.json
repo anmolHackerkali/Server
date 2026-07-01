@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:10:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9609356294",
+  "records": [
+    {
+      "aadhar": "837474795131",
+      "address": "Biswanath Sing!.  .  TEGERYA!.  .  TEGERYA mondir!mondir!  Tegerya  Paschim Medinipur  Jhanjianankar WEST MIDNAPORE!EAST MEDINAPURE!WEST MIDNAPORE!West Bengal!721437",
+      "alt": "9775165199",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Biswanath",
+      "name": "MR GURUPADA SING",
+      "num": "9609356294"
+    },
+    {
+      "aadhar": "837474795131",
+      "address": "Biswanath Sing!.  .  TEGERYA!.  .  TEGERYA mondir!mondir!  Tegerya  Paschim Medinipur  Jhanjianankar WEST MIDNAPORE!EAST MEDINAPURE!WEST MIDNAPORE!West Bengal!721437",
+      "alt": "9775165199",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Biswanath",
+      "name": "MR GURUPADA SING",
+      "num": "9609356294"
+    },
+    {
+      "aadhar": "xxxxxxxx8580",
+      "address": "S/O Jairul Haque Mallick!Dirghanagar!!!Barddhaman!West Bengal!713422",
+      "alt": "9609356294",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Jairul Haque Mallick",
+      "name": "Sabir  Mallick",
+      "num": "8597037455"
+    },
+    {
+      "aadhar": "xxxxxxxx8580",
+      "address": "S/O Jairul Haque Mallick!Dirghanagar!!!Barddhaman!West Bengal!713422",
+      "alt": "9609356294",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Jairul Haque Mallick",
+      "name": "Sabir  Mallick",
+      "num": "8597037455"
+    }
+  ]
+}
