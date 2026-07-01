@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:33:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595280570",
+  "records": [
+    {
+      "aadhar": "753412361810",
+      "address": "S/O Sarvesh!!99!!99  A-2-BLOCK DHARM PURA!NAJAFGARH!South West Delhi!Delhi!110043",
+      "alt": "8130113886",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sarvesh",
+      "name": "Surjeet",
+      "num": "8595280570"
+    },
+    {
+      "aadhar": "753412361810",
+      "address": "S/O Sarvesh!!99!!99  A-2-BLOCK DHARM PURA!NAJAFGARH!South West Delhi!Delhi!110043",
+      "alt": "8130113886",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sarvesh",
+      "name": "Surjeet",
+      "num": "8595280570"
+    },
+    {
+      "aadhar": "753412361810",
+      "address": "S/O Sarvesh!!99!!99  A-2-BLOCK DHARM PURA!NAJAFGARH!South West Delhi!Delhi!110043",
+      "alt": "8130113886",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sarvesh",
+      "name": "Surjeet",
+      "num": "8595280570"
+    }
+  ]
+}
