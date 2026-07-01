@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 12:04:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956624895",
+  "records": [
+    {
+      "aadhar": "571252751179",
+      "address": "S/O: Rajendra Prasad!208!!gram Mohammadpur sabukpur post husainpur girant Sabook Pur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Santosh Kumar",
+      "num": "9956624895"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Rajendra Prasad!208!.!gram Mohammadpur sabukpur post husainpur gi!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9452266391",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Rajendra Prasad",
+      "name": "Santosh Kumar",
+      "num": "9956624895"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Rajendra Prasad!208!.!gram Mohammadpur sabukpur post husainpur gi!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9452266391",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Rajendra Prasad",
+      "name": "Santosh Kumar",
+      "num": "9956624895"
+    },
+    {
+      "aadhar": "571252751179",
+      "address": "S/O: Rajendra Prasad!208!!gram Mohammadpur sabukpur post husainpur girant Sabook Pur!Ambedkar Nagar!Uttar Pradesh!224143",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Santosh Kumar",
+      "num": "9956624895"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Banwari Lal!227!.!kondra Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9956624895",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Banwari Lal",
+      "name": "Ramu ",
+      "num": "9648398556"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Banwari Lal!227!.!kondra Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "9956624895",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Banwari Lal",
+      "name": "Ramu ",
+      "num": "9648398556"
+    }
+  ]
+}
