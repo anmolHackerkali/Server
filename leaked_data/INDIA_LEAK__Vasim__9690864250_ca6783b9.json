@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:16:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9690864250",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " C/O Yusuf!!!!Village-Bhaguwala Post Bhaguwala!Bhaguwala!Bijnor!Uttar Pradesh!246749 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Yusuf ",
+      "name": " Vasim ",
+      "num": "9690864250"
+    },
+    {
+      "aadhar": null,
+      "address": " C/O Yusuf!!!!Village-Bhaguwala Post Bhaguwala!Bhaguwala!Bijnor!Uttar Pradesh!246749 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Yusuf ",
+      "name": " Vasim ",
+      "num": "9690864250"
+    }
+  ]
+}
