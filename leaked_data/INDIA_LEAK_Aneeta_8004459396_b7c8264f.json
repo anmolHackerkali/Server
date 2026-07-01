@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 12:05:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8004459396",
+  "records": [
+    {
+      "aadhar": "983144249771",
+      "address": "w/o  kaleecharan!na 25!vill post shadeepur!vill post shadeepur!vill post shadeepur!tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "8004459396",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kaleecharan",
+      "name": "Aneeta",
+      "num": "7985536296"
+    },
+    {
+      "aadhar": "983144249771",
+      "address": "w/o  kaleecharan!na 25!vill post shadeepur!vill post shadeepur!vill post shadeepur!tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "8004459396",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kaleecharan",
+      "name": "Aneeta",
+      "num": "7985536296"
+    }
+  ]
+}
