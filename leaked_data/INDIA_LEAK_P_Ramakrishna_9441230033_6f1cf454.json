@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:25:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9441230033",
+  "records": [
+    {
+      "aadhar": "807861703107",
+      "address": "S/O  P Venkat Ramulu!!6-1-79/4/b ganesh nagar!!Mahbubnagar Mahabubnagar!Telangana!509001",
+      "alt": "919948901430",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "P Venkat Ramulu",
+      "name": "P Ramakrishna",
+      "num": "9441230033"
+    }
+  ]
+}
