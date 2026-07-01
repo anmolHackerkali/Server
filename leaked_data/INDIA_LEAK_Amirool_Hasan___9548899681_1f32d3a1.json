@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 15:35:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9548899681",
+  "records": [
+    {
+      "aadhar": "937622569743",
+      "address": "S/O  Rafeek Ahmad!!jha colony pantnagarPantnagar!!!Jawahar NagarKichha!Udham Singh Nagar!Uttarakhand!263145",
+      "alt": "7248785816",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rafeek Ahmad",
+      "name": "Amirool Hasan  ",
+      "num": "9548899681"
+    }
+  ]
+}
