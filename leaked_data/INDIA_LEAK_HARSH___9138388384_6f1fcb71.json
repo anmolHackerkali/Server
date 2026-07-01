@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:36:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9138388384",
+  "records": [
+    {
+      "aadhar": "442304585576",
+      "address": "S/O: Dinesh Kumar S/O: Dinesh Kumar 1828/30 CHiNNyOT COLONY Rohtak Rohtak ROHTAK-ROHTAK HR 124001",
+      "alt": "9255896819",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "DINESH KUMAR  ",
+      "name": "HARSH  ",
+      "num": "9138388384"
+    },
+    {
+      "aadhar": "442304585576",
+      "address": " 1828/30 CHiNNyOT COLONY   ROHTAK  HARYANA 124001",
+      "alt": "9138388384",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Dinesh Kumar",
+      "name": "MR  HARSH  ",
+      "num": "9377444446"
+    }
+  ]
+}
