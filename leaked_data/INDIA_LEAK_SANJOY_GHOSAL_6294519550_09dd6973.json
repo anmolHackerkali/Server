@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 20:26:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6294519550",
+  "records": [
+    {
+      "aadhar": "585855468078",
+      "address": "!!MILON PALLY KURURIA DANGA AMRAI Durgapur Steel Project!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713203",
+      "alt": "919635825884",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "K C GHOSAL",
+      "name": "SANJOY GHOSAL",
+      "num": "6294519550"
+    },
+    {
+      "aadhar": "585855468078",
+      "address": "!!MILON PALLY KURURIA DANGA AMRAI Durgapur Steel Project!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713203",
+      "alt": "919635825884",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "K C GHOSAL",
+      "name": "SANJOY GHOSAL",
+      "num": "6294519550"
+    }
+  ]
+}
