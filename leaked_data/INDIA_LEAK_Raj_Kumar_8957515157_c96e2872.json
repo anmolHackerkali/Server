@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 06:22:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8957515157",
+  "records": [
+    {
+      "aadhar": "245339449340",
+      "address": "S/O Ramesh Chandra!0!post jhokwara  Jhokwara bramhauli post jhokwara Jhonkwara!NA!!Jhokwara Kunda Pratapgarh!NA!Uttar Pradesh!230202",
+      "alt": "9532969948",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramesh Chandra",
+      "name": "Raj Kumar",
+      "num": "8957515157"
+    },
+    {
+      "aadhar": "245339449340",
+      "address": "S/O Ramesh Chandra!0!post jhokwara  Jhokwara bramhauli post jhokwara Jhonkwara!NA!!Jhokwara Kunda Pratapgarh!NA!Uttar Pradesh!230202",
+      "alt": "9532969948",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramesh Chandra",
+      "name": "Raj Kumar",
+      "num": "8957515157"
+    },
+    {
+      "aadhar": "838618963649",
+      "address": "!Jhokvara Pariyawan!korali!!jhokwara!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "8957515157",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sukh Lal",
+      "name": "Rup Chandra",
+      "num": "7390803266"
+    },
+    {
+      "aadhar": "838618963649",
+      "address": "!Jhokvara Pariyawan!korali!!jhokwara!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "8957515157",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sukh Lal",
+      "name": "Rup Chandra",
+      "num": "7390803266"
+    }
+  ]
+}
