@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:45:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9343108203",
+  "records": [
+    {
+      "aadhar": "311782503367",
+      "address": "s/o  kanta prasad gupta!!rasulabad Charsehar Ka Naka gird!hazira!rasulabad Charsehar Ka Naka!gird gwalior!gwalior!Madhya Pradesh!474003",
+      "alt": "9302752343",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "kanta prasad gupta",
+      "name": "Purushottam Das Gupta",
+      "num": "9343108203"
+    }
+  ]
+}
