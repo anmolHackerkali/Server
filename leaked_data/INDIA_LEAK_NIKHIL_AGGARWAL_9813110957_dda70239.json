@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:12:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813110957",
+  "records": [
+    {
+      "aadhar": "373019662303",
+      "address": "S/O: Narender Kumar S/O: Narender Kumar HOUSE NO 1022 sector 14 Hisar Hisar HISAR-HISAR HR 125001",
+      "alt": "7015575904",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "NARENDER KUMAR  ",
+      "name": "NIKHIL AGGARWAL",
+      "num": "9813110957"
+    },
+    {
+      "aadhar": "373019662303",
+      "address": "S/O: Narender Kumar HOUSE NO 1022 HOUSE NO 1022  sector 14 HisarBARWALA2 HISAR BARWALA2 HARYANA 125001",
+      "alt": "9813110957",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Narender",
+      "name": "MR  NIKHIL AGGARWAL",
+      "num": "9728955111"
+    },
+    {
+      "aadhar": "373019662303",
+      "address": "S/O: Narender Kumar HOUSE NO 1022 HOUSE NO 1022  sector 14 HisarBARWALA2 HISAR BARWALA2 HARYANA 125001",
+      "alt": "9813110957",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Narender kumar",
+      "name": "MR  NIKHIL AGGARWAL",
+      "num": "9728944111"
+    }
+  ]
+}
