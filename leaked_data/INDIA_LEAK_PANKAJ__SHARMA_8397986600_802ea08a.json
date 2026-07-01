@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:29:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8397986600",
+  "records": [
+    {
+      "aadhar": "42897",
+      "address": "H NO 1060/31 KAMLA NAGAR ROHTAK!!ROHTAK ROHTAK!ROHTAK!HARYANA!124001",
+      "alt": null,
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PREM CHAND",
+      "name": "PANKAJ  SHARMA",
+      "num": "8397986600"
+    },
+    {
+      "aadhar": "42897",
+      "address": "H NO 1060/31 KAMLA NAGAR ROHTAK   ROHTAK ROHTAK  ROHTAK HARYANA 124001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PREM CHAND",
+      "name": "PANKAJ  SHARMA",
+      "num": "8397986600"
+    }
+  ]
+}
