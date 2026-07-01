@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:52:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599854441",
+  "records": [
+    {
+      "aadhar": "HR26-7216/2009",
+      "address": "!159 Sector 17 A!Gurgaon Bata office!!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "7388884441",
+      "circle": "AIRTEL DELHI",
+      "email": "apsingh6666@gmail.com",
+      "fname": "Gumit  Singh",
+      "name": "Apinder Pal Singh",
+      "num": "9599854441"
+    },
+    {
+      "aadhar": "HR267216/2009",
+      "address": "!159 Sector 17 A Gurgaon Bata office Gurgaon Gurgaon Haryana 122001!!!!!!!",
+      "alt": "7388884441",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gumit  Singh",
+      "name": "Apinder Pal Singh",
+      "num": "9599854441"
+    },
+    {
+      "aadhar": "HR267216/2009",
+      "address": "!159!Sector 17 A!Bata office!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "apsingh6666@gmail.com",
+      "fname": "Gumit Singh",
+      "name": "Apinder Pal Singh",
+      "num": "9599854441"
+    },
+    {
+      "aadhar": "HR267216/2009",
+      "address": "!159!Sector 17 A!Bata office!Gurgaon!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "apsingh6666@gmail.com",
+      "fname": "Gumit Singh",
+      "name": "Apinder Pal Singh",
+      "num": "9599854441"
+    }
+  ]
+}
