@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:11:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7407676670",
+  "records": [
+    {
+      "aadhar": "IQR0109850",
+      "address": "BARAGHARIA LOHOD HARISHCHANDRAPUR!MALD A!MALDA!MALDA!WEST BENGAL!732140",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "HABIBARRAHAMAN",
+      "name": "JAMIL AKTAR",
+      "num": "7407676670"
+    },
+    {
+      "aadhar": "IQR0109850",
+      "address": "BARAGHARIA LOHOD HARISHCHANDRAPUR!MALD A!MALDA!MALDA!WEST BENGAL!732140",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "HABIBARRAHAMAN",
+      "name": "JAMIL AKTAR",
+      "num": "7407676670"
+    },
+    {
+      "aadhar": "225351960534",
+      "address": "Thagai Mandal!BAROGHARIA!BAROGHARIA HARISHCHANDRAPUR!HARISHCHANDRAPUR!- TULSIHATTA TULSIHATTA MALDA!MALDA!MALDA!West Bengal!732140",
+      "alt": "7407676670",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Thagai Mandal",
+      "name": "MR SHAMSUL HOQUE",
+      "num": "8768983160"
+    },
+    {
+      "aadhar": "225351960534",
+      "address": "Thagai Mandal!BAROGHARIA!BAROGHARIA HARISHCHANDRAPUR!HARISHCHANDRAPUR!- TULSIHATTA TULSIHATTA MALDA!MALDA!MALDA!West Bengal!732140",
+      "alt": "7407676670",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Thagai Mandal",
+      "name": "MR SHAMSUL HOQUE",
+      "num": "8768983160"
+    }
+  ]
+}
