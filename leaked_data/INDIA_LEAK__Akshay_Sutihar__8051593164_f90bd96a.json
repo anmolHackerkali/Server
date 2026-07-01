@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 03:58:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8051593164",
+  "records": [
+    {
+      "aadhar": "601005794653",
+      "address": " .!prlaha  Ward No 09  post orlaha !School!Urlaha Barhara Kothi Purnia Barhara!Purnia!Purnia!Bihar!854203 ",
+      "alt": "7280818057",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Satya Narayan Sutihar ",
+      "name": " Akshay Sutihar ",
+      "num": "8051593164"
+    },
+    {
+      "aadhar": "601005794653",
+      "address": " .!prlaha  Ward No 09  post orlaha !School!Urlaha Barhara Kothi Purnia Barhara!Purnia!Purnia!Bihar!854203 ",
+      "alt": "7280818057",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Satya Narayan Sutihar ",
+      "name": " Akshay Sutihar ",
+      "num": "8051593164"
+    }
+  ]
+}
