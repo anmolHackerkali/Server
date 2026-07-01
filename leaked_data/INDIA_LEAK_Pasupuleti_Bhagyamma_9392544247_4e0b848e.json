@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:43:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9392544247",
+  "records": [
+    {
+      "aadhar": "330597837703",
+      "address": "W/O Pasupuleti Kotaiah! H NO 3-58/1!!!NADIGUDEM MANDAL!Ratnavaram!Nalgonda!Andhra Pradesh!508234",
+      "alt": "9949882467",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Pasupuleti Kotaiah",
+      "name": "Pasupuleti Bhagyamma",
+      "num": "9392544247"
+    }
+  ]
+}
