@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:31:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9467441177",
+  "records": [
+    {
+      "aadhar": "871003951535",
+      "address": "Tale Ram  Rohtak HOUSE NUMBER 792/19 ARYA NAGAR Rohtak- -Rohtak Haryana 124001",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Tale Ram",
+      "name": "Sukhbir",
+      "num": "9467441177"
+    },
+    {
+      "aadhar": "871003951535",
+      "address": "Tale Ram  HOUSE NUMBER 792/19 ARYA NAGAR City/District: Rohtak  ROHTAK HARYANA 124001",
+      "alt": "9467441177",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Tale Ram",
+      "name": "Sukhbir  ",
+      "num": "7206685033"
+    }
+  ]
+}
