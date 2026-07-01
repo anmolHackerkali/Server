@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 11:00:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9690004995",
+  "records": [
+    {
+      "aadhar": "606986132756",
+      "address": "s/o  ved prakash gautam!09 uma vihar!uma viharDayal Bagh!!!dayal baghKiraoli!agra!Uttar Pradesh!282005",
+      "alt": "9425708073",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ved prakash gautam",
+      "name": "Kaushal Gautam  ",
+      "num": "9690004995"
+    },
+    {
+      "aadhar": "606986132756",
+      "address": "s/o  ved prakash gautam! 09 uma vihar!uma vihar Dayal Bagh!!!dayal bagh Kiraoli!agra!Uttar Pradesh!282005",
+      "alt": "9425708073",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "ved prakash gautam",
+      "name": "Kaushal Gautam",
+      "num": "9690004995"
+    },
+    {
+      "aadhar": "606986132756",
+      "address": "s/o  ved prakash gautam! 09 uma vihar!uma vihar Dayal Bagh!!!dayal bagh Kiraoli!agra!Uttar Pradesh!282005",
+      "alt": "9425708073",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "ved prakash gautam",
+      "name": "Kaushal Gautam",
+      "num": "9690004995"
+    },
+    {
+      "aadhar": "606986132756",
+      "address": "s/o  ved prakash gautam!09 uma vihar!uma viharDayal Bagh!!!dayal baghKiraoli!agra!Uttar Pradesh!282005",
+      "alt": "9690004995",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ved prakash gautam",
+      "name": "Kaushal Gautam  ",
+      "num": "9425708073"
+    }
+  ]
+}
