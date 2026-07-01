@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 14:41:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554175375",
+  "records": [
+    {
+      "aadhar": "357715274687",
+      "address": "!00!JEERAGAUR KAMALGANJ KAMALGANJbank!bank!JEERAGAUR KAMALGANJ KAMALGANJFARRUKHABA!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "7570997591",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Munnalal",
+      "name": "MR. RAMSAGAR SINGH",
+      "num": "9554175375"
+    },
+    {
+      "aadhar": "608448178919",
+      "address": "!!JEERAGAUR POST KAMALGANJbank!bank!JEERAGAUR POST KAMALGANJ KAMALGANJ KAMAL!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Nandram",
+      "name": "MS. TARAVATI DEVI",
+      "num": "9517102974"
+    },
+    {
+      "aadhar": "608448178919",
+      "address": "!!JEERAGAUR POST KAMALGANJbank!bank!JEERAGAUR POST KAMALGANJ KAMALGANJ KAMAL!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Nandram",
+      "name": "MRS. TARAVATI .",
+      "num": "9517041385"
+    },
+    {
+      "aadhar": "422386269860",
+      "address": "!00!JEERAGAUR KAMALGANJbank!bank!JEERAGAUR KAMALGANJ KAMALGANJFARRUKHABA!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Munnalal",
+      "name": "MS. RAM DARSHNI",
+      "num": "9517039023"
+    },
+    {
+      "aadhar": "607400008656",
+      "address": "!00 118 AMANABAD!POST KAMALGANJmandir!mandir!jeeragaurFARRUKHABAD!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Umashnkar",
+      "name": "MS. NITU DEVI",
+      "num": "7348702594"
+    },
+    {
+      "aadhar": "608448178919",
+      "address": "!!JEERAGAUR POST KAMALGANJ bank!bank!JEERAGAUR POST KAMALGANJ KAMALGANJ KAMAL!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nandram",
+      "name": "MRS TARAVATI ",
+      "num": "9517041385"
+    },
+    {
+      "aadhar": "607400008656",
+      "address": "!00 118 AMANABAD!POST KAMALGANJ mandir!mandir!jeeragaur FARRUKHABAD!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Umashnkar",
+      "name": "MS NITU DEVI",
+      "num": "7348702594"
+    },
+    {
+      "aadhar": "608448178919",
+      "address": "!!JEERAGAUR POST KAMALGANJ bank!bank!JEERAGAUR POST KAMALGANJ KAMALGANJ KAMAL!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nandram",
+      "name": "MRS TARAVATI ",
+      "num": "9517041385"
+    },
+    {
+      "aadhar": "607400008656",
+      "address": "!00 118 AMANABAD!POST KAMALGANJ mandir!mandir!jeeragaur FARRUKHABAD!FARRUKHABAD!UTTAR PRADESH!209724",
+      "alt": "9554175375",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Umashnkar",
+      "name": "MS NITU DEVI",
+      "num": "7348702594"
+    }
+  ]
+}
