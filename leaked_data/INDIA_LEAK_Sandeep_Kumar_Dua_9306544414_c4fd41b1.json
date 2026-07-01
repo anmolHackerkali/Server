@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 18:38:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9306544414",
+  "records": [
+    {
+      "aadhar": "440035694108",
+      "address": "S/O  Khairati Lal Dua!380!House No 380 Ward No 18Gali No 1near Sachdeva Tent HouseRohtak!NA!Arya Nagar!RohtakRohtakRohtak!NA!Haryana!124001",
+      "alt": "9466447786",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Khairati Lal Dua",
+      "name": "Sandeep Kumar Dua",
+      "num": "9306544414"
+    }
+  ]
+}
