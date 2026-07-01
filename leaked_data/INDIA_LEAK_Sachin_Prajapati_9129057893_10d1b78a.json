@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 02:01:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129057893",
+  "records": [
+    {
+      "aadhar": "545222788376",
+      "address": "! tahlu nagar vajidpur Pratapgarh!00!!Pariyawan!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "8765487376",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sukhdev prajapati",
+      "name": "Sachin Prajapati",
+      "num": "9129057893"
+    },
+    {
+      "aadhar": "545222788376",
+      "address": "! tahlu nagar vajidpur Pratapgarh!00!!Pariyawan!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "8765487376",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sukhdev prajapati",
+      "name": "Sachin Prajapati",
+      "num": "9129057893"
+    },
+    {
+      "aadhar": "545222788376",
+      "address": "s/o  sukhdev prajapali!!tahlu nagar!!vajidpur pariyawan!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "9129057893",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sukhdev prajapati",
+      "name": "Sachin Prajapati",
+      "num": "8765487376"
+    },
+    {
+      "aadhar": "545222788376",
+      "address": "s/o  sukhdev prajapali!!tahlu nagar!!vajidpur pariyawan!Pratapgarh!Pratapgarh!Uttar Pradesh!229408",
+      "alt": "9129057893",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sukhdev prajapati",
+      "name": "Sachin Prajapati",
+      "num": "8765487376"
+    }
+  ]
+}
