@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:12:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8609497988",
+  "records": [
+    {
+      "aadhar": "493989593696",
+      "address": "!BAROGHARIA!boroi - City/District: Malda! !MALDA!WEST BENGAL!732140",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "HABIBAR RAHAMAN",
+      "name": "Zamil Akhtar",
+      "num": "8609497988"
+    },
+    {
+      "aadhar": "493989593696",
+      "address": "!BAROGHARIA!boroi - City/District: Malda! !MALDA!WEST BENGAL!732140",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "HABIBAR RAHAMAN",
+      "name": "Zamil Akhtar",
+      "num": "8609497988"
+    }
+  ]
+}
