@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 09:24:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920669333",
+  "records": [
+    {
+      "aadhar": "414728174639",
+      "address": "S/O Jaidev Singh!!F130/6T!NEAR GURUKUL!GAUTAM NAGAR South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jaidev Singh",
+      "name": "Sonu Kumar",
+      "num": "8920669333"
+    },
+    {
+      "aadhar": "414728174639",
+      "address": "S/O Jaidev Singh!!F130/6T!NEAR GURUKUL!GAUTAM NAGAR South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jaidev Singh",
+      "name": "Sonu Kumar",
+      "num": "8920669333"
+    },
+    {
+      "aadhar": "414728174639",
+      "address": "S/O Jaidev Singh!!F130/6T!NEAR GURUKUL!GAUTAM NAGAR South Delhi!Delhi!110049",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jaidev Singh",
+      "name": "Sonu Kumar",
+      "num": "8920669333"
+    }
+  ]
+}
