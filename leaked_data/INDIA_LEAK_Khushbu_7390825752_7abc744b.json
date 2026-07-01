@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 03:44:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7390825752",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX7203",
+      "address": "D/O Dilip Mishra!BARALALPUR!!Lamhi!Varanasi!Uttar Pradesh!221007",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dilip Mishra",
+      "name": "Khushbu",
+      "num": "7390825752"
+    },
+    {
+      "aadhar": "XXXXXXXX7203",
+      "address": "D/O Dilip Mishra!BARALALPUR!!Lamhi!Varanasi!Uttar Pradesh!221007",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dilip Mishra",
+      "name": "Khushbu",
+      "num": "7390825752"
+    }
+  ]
+}
