@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:28:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9997189522",
+  "records": [
+    {
+      "aadhar": "445150727589",
+      "address": "S/O: Akthar Shah!GRAM DHANSINI!! POST DHANSINI Dhan Sini!Bijnor Dhansini Najibabad!Uttar Pradesh!246763",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Akthar Shah",
+      "name": "Mohd Manawwar",
+      "num": "9997189522"
+    },
+    {
+      "aadhar": "445150727589",
+      "address": "S/O: Akthar Shah!GRAM DHANSINI!! POST DHANSINI Dhan Sini!Bijnor Dhansini Najibabad!Uttar Pradesh!246763",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Akthar Shah",
+      "name": "Mohd Manawwar",
+      "num": "9997189522"
+    }
+  ]
+}
