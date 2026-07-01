@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 04:36:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9381022027",
+  "records": [
+    {
+      "aadhar": "AP2302010030989",
+      "address": "!4-38!main street!seethampeta!rayalanka!Veeraghattam!Srikakulam!Andhra Pradesh!532460",
+      "alt": "9398865730",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "venkata rao",
+      "name": "biddika somesh",
+      "num": "9381022027"
+    },
+    {
+      "aadhar": "959738029370",
+      "address": "S/O Kusheshwar Prasad Singh!!H NO 203/A Sriram Nagar Colony Padmavathi Homes Patancheru!NA!Patancheru Mandal!Patancheru Medak!NA!Andhra Pradesh!502319",
+      "alt": "9381022027",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Kusheshwar Prasad Singh",
+      "name": "Prakash Kumar Singh",
+      "num": "9849976597"
+    }
+  ]
+}
