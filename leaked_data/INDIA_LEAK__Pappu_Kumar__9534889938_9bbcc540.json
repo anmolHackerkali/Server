@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 08:47:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534889938",
+  "records": [
+    {
+      "aadhar": "636072861059",
+      "address": " ward no 02!bhagwanpur majhuwa east!bihar!majhuwa  Araria!Araria!Araria!Bihar!854334 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " manoj sharma ",
+      "name": " Pappu Kumar ",
+      "num": "9534889938"
+    },
+    {
+      "aadhar": "636072861059",
+      "address": " ward no 02!bhagwanpur majhuwa east!bihar!majhuwa  Araria!Araria!Araria!Bihar!854334 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " manoj sharma ",
+      "name": " Pappu Kumar ",
+      "num": "9534889938"
+    }
+  ]
+}
