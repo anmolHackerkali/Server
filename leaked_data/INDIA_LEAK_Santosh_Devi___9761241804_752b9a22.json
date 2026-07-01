@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:11:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9761241804",
+  "records": [
+    {
+      "aadhar": "695078481300",
+      "address": "w/o  vinod kumar!!Khushalabad!!khushalabad!khairpurDebai!bulandshahr!Uttar Pradesh!202393",
+      "alt": "9719102441",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Santosh Devi  ",
+      "num": "9761241804"
+    },
+    {
+      "aadhar": "695078481300",
+      "address": "w/o  vinod kumar!!Khushalabad!!khushalabad!khairpur Debai!bulandshahr!Uttar Pradesh!202393",
+      "alt": "9719102441",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Santosh Devi",
+      "num": "9761241804"
+    },
+    {
+      "aadhar": "695078481300",
+      "address": "w/o  vinod kumar!!Khushalabad!!khushalabad!khairpur Debai!bulandshahr!Uttar Pradesh!202393",
+      "alt": "9719102441",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Santosh Devi",
+      "num": "9761241804"
+    }
+  ]
+}
