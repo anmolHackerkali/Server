@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 06:49:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985529858",
+  "records": [
+    {
+      "aadhar": "500013019608",
+      "address": "S/O Shantiswaroop Dwivedi!!127/1 / 65 W - 1!!SAKET NAGAR Kanpur Nagar!Uttar Pradesh!208014",
+      "alt": "919651048197",
+      "circle": "JIO UPE",
+      "email": "subodhdwivedi27@gmail.com",
+      "fname": "Shantiswaroop Dwivedi",
+      "name": "Subodh Dwivedi",
+      "num": "7985529858"
+    },
+    {
+      "aadhar": "500013019608",
+      "address": "S/O Shantiswaroop Dwivedi!!127/1 / 65 W - 1!!SAKET NAGAR Kanpur Nagar!Uttar Pradesh!208014",
+      "alt": "919651048197",
+      "circle": "JIO UPE",
+      "email": "subodhdwivedi27@gmail.com",
+      "fname": "Shantiswaroop Dwivedi",
+      "name": "Subodh Dwivedi",
+      "num": "7985529858"
+    },
+    {
+      "aadhar": "500013019608",
+      "address": "! 127/1/65!w 1 Saket nagar kanpur!!w 1 Saket nagar kanpur!Kanpur Nagar!Kanpur Nagar!Uttar Pradesh!208014",
+      "alt": "7985529858",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "SHANTISWAROOP dwivedi",
+      "name": "Subodh Dwivedi",
+      "num": "9936163166"
+    },
+    {
+      "aadhar": "543867940620",
+      "address": "W/O Subodh Dwivedi!!127/1/65 BLOCK-W-1!NA!!saket nagar Kanpur Nagar!NA!Uttar Pradesh!208014",
+      "alt": "7985529858",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Subodh Dwivedi",
+      "name": "Sandhya Dwivedi",
+      "num": "9651048197"
+    },
+    {
+      "aadhar": "500013019608",
+      "address": "! 127/1/65!w 1 Saket nagar kanpur!!w 1 Saket nagar kanpur!Kanpur Nagar!Kanpur Nagar!Uttar Pradesh!208014",
+      "alt": "7985529858",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "SHANTISWAROOP dwivedi",
+      "name": "Subodh Dwivedi",
+      "num": "9936163166"
+    },
+    {
+      "aadhar": "543867940620",
+      "address": "W/O Subodh Dwivedi!!127/1/65 BLOCK-W-1!NA!!saket nagar Kanpur Nagar!NA!Uttar Pradesh!208014",
+      "alt": "7985529858",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Subodh Dwivedi",
+      "name": "Sandhya Dwivedi",
+      "num": "9651048197"
+    }
+  ]
+}
