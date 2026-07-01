@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:45:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9908285349",
+  "records": [
+    {
+      "aadhar": "577156264381",
+      "address": "S/O Pothunuka Veeraiah!1-130/2!Medepalli Medepalli!!Medepalli!Medapalli Mudigonda!Khammam!Telangana!507158",
+      "alt": "7989998249",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Pothunuka Veeraiah",
+      "name": "Pothunuka Ramesh",
+      "num": "9908285349"
+    },
+    {
+      "aadhar": "704230642687",
+      "address": "S/O Bayyam Satyanarayana!1-248/1!Medepalli!!!Medapalli Mudigonda!Khammam!Andhra Pradesh!507158",
+      "alt": "9908285349",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Bayyam Satyanarayana",
+      "name": "Bayyam Bhaskar Rao",
+      "num": "9542877572"
+    },
+    {
+      "aadhar": "577156264381",
+      "address": "!!1-130/2 medepalli Medapalli!NA!mudigonda!Khammam Khammam!NA!Telangana!507158",
+      "alt": "9908285349",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "pothunuka Veeraiah",
+      "name": "Pothunuka ramesh",
+      "num": "9346309442"
+    }
+  ]
+}
