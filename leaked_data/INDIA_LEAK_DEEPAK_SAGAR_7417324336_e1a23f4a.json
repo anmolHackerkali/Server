@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 19:10:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417324336",
+  "records": [
+    {
+      "aadhar": "463036957352",
+      "address": "S/O: Amar Singh imtori Hapur  Hapur h.no45 HAPUR-HAPUR UP 245101",
+      "alt": "741732433",
+      "circle": "VODA UPW",
+      "email": "deepaksagar46004@gmail.com",
+      "fname": "S/O: Amar Singh",
+      "name": "DEEPAK SAGAR",
+      "num": "7417324336"
+    },
+    {
+      "aadhar": "463036957352",
+      "address": "S/O: Amar Singh imtori Hapur  Hapur h.no45 HAPUR-HAPUR UP 245101",
+      "alt": "741732433",
+      "circle": "VODA UPW",
+      "email": "deepaksagar46004@gmail.com",
+      "fname": "S/O: Amar Singh",
+      "name": "DEEPAK SAGAR",
+      "num": "7417324336"
+    },
+    {
+      "aadhar": "463036957352",
+      "address": "S/O Amar Singh!imtori!Hapur!mandri!Hapur!Hapur!HAPUR!Uttar Pradesh!245101",
+      "alt": "7417324336",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Amar Singh",
+      "name": "Deepak Sagar",
+      "num": "8755422096"
+    },
+    {
+      "aadhar": "463036957352",
+      "address": "S/O Amar Singh!imtori!Hapur!mandri!Hapur!Hapur!HAPUR!Uttar Pradesh!245101",
+      "alt": "7417324336",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Amar Singh",
+      "name": "Deepak Sagar",
+      "num": "8755422096"
+    }
+  ]
+}
