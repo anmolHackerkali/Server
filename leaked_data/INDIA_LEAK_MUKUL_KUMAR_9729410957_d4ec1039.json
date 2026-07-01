@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 16:34:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9729410957",
+  "records": [
+    {
+      "aadhar": "887525736764",
+      "address": "S/O NARENDER KUMAR!HOUSE NO 1022 SECTOR-14!HISAR!!HISAR!HISAR!HISAR!HARYANA!125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "NARENDER KUMAR",
+      "name": "MUKUL KUMAR",
+      "num": "9729410957"
+    },
+    {
+      "aadhar": "887525736764",
+      "address": "HOUSE NO 1022 SECTOR-14 HISAR  HISAR HISAR HISAR HARYANA 125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "NARENDER KUMAR",
+      "name": "MUKUL KUMAR",
+      "num": "9729410957"
+    }
+  ]
+}
