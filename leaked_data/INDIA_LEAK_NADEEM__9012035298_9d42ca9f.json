@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 04:34:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9012035298",
+  "records": [
+    {
+      "aadhar": "747149961507",
+      "address": "Karbala New Abadi Dayal Bagh  AGRANear Abbu Lala Ki DargahNear Abbu Lala Ki DargahAGARAAGRAUttar Pradesh282005",
+      "alt": "8445922740",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "SAEED .",
+      "name": "NADEEM ",
+      "num": "9012035298"
+    },
+    {
+      "aadhar": "747149961507",
+      "address": "Karbala New Abadi Dayal Bagh  AGRANear Abbu Lala Ki DargahNear Abbu Lala Ki DargahAGARAAGRAUttar Pradesh282005",
+      "alt": "8445922740",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "SAEED .",
+      "name": "NADEEM ",
+      "num": "9012035298"
+    },
+    {
+      "aadhar": "966186494604",
+      "address": "W/O: Mohmmad Jahid  156/57 SADAR BAZAR Agra  Kiraoli  AGRA-AGRA UP 282001",
+      "alt": "9012035298",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Mohmmad Jahid",
+      "name": "NAZAMA .",
+      "num": "8449152026"
+    },
+    {
+      "aadhar": "966186494604",
+      "address": "W/O: Mohmmad Jahid  156/57 SADAR BAZAR Agra  Kiraoli  AGRA-AGRA UP 282001",
+      "alt": "9012035298",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Mohmmad Jahid",
+      "name": "NAZAMA .",
+      "num": "8449152026"
+    }
+  ]
+}
