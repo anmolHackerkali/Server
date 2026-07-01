@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 14:57:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9506003727",
+  "records": [
+    {
+      "aadhar": "743497701309",
+      "address": " !S/O: Vinod Kumar Soni!Azamgarh road Ambedkar nagar  shahganj!Shahganj  Shahganj !SHAHGANJ-JAUNPUR!UP!223101",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "VINOD KUMAR SONI  ",
+      "name": "SURAJ  ",
+      "num": "9506003727"
+    },
+    {
+      "aadhar": "743497701309",
+      "address": " !S/O: Vinod Kumar Soni!Azamgarh road Ambedkar nagar  shahganj!Shahganj  Shahganj !SHAHGANJ-JAUNPUR!UP!223101",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "VINOD KUMAR SONI  ",
+      "name": "SURAJ  ",
+      "num": "9506003727"
+    }
+  ]
+}
