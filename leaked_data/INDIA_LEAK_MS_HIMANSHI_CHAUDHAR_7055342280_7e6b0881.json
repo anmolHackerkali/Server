@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-01 10:13:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7055342280",
+  "records": [
+    {
+      "aadhar": "837433751798",
+      "address": "Rsmgarhi8 D/O Pradeep Kumar8 D/O Pradeep Kumar RamgarhiRamgarhiRamgarhi BULANDSHAHRGAUTAM BUDDHA NAGARBULANDSHAHRUTTAR PRADESH203141",
+      "alt": "9758612815",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Pradeep Kumar",
+      "name": "MS HIMANSHI CHAUDHARY",
+      "num": "7055342280"
+    },
+    {
+      "aadhar": "837433751798",
+      "address": "Rsmgarhi8 D/O Pradeep Kumar8 D/O Pradeep Kumar RamgarhiRamgarhiRamgarhi BULANDSHAHRGAUTAM BUDDHA NAGARBULANDSHAHRUTTAR PRADESH203141",
+      "alt": "9758612815",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Pradeep Kumar",
+      "name": "MS HIMANSHI CHAUDHARY",
+      "num": "7055342280"
+    }
+  ]
+}
