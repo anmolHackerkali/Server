@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:35:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9306749547",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!21!Kataria marketmalpura!rewari!RewariRewari!Haryana!123106",
+      "alt": "+919991708903",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Bhagnarayan Ray",
+      "name": "Sunil Kumar Ray",
+      "num": "9306749547"
+    },
+    {
+      "aadhar": "666257677266",
+      "address": " House no 1928 Joniawas  Dharuhera REWARI  HARYANA 123110",
+      "alt": "9306749547",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Bhagnarayan Ray",
+      "name": "MR  SUNIL KUMAR RAY",
+      "num": "8398069500"
+    },
+    {
+      "aadhar": "xxxxxxxx7266",
+      "address": "!Ward no 11!Shiv Mandir!!Dharuhera!Rewari!Rewari!Haryana!123106",
+      "alt": "9306749547",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Bhagnarayan Ray",
+      "name": "Sunil Kumar Ray",
+      "num": "7988949362"
+    }
+  ]
+}
