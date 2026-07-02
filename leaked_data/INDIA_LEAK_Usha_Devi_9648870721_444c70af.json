@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:51:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9648870721",
+  "records": [
+    {
+      "aadhar": "392384182276",
+      "address": " !273!Gram mohammadpur sabookpur Post husenpur girent Tanda!!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Keval",
+      "name": "Usha Devi",
+      "num": "9648870721"
+    },
+    {
+      "aadhar": "392384182276",
+      "address": " !273!Gram mohammadpur sabookpur Post husenpur girent Tanda!!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Keval",
+      "name": "Usha Devi",
+      "num": "9648870721"
+    },
+    {
+      "aadhar": "844844594594",
+      "address": "D/O: Ram Keval!273!Gram Muhammadpur Sabukpur Husainpur Gira!Jio Tower!gram muhammadpur sabukpur Husainpur Gir!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9648870721",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram",
+      "name": "MS. NEHA NEHA",
+      "num": "9838018977"
+    },
+    {
+      "aadhar": "844844594594",
+      "address": "D/O: Ram Keval!273!Gram Muhammadpur Sabukpur Husainpur Gira!Jio Tower!gram muhammadpur sabukpur  Husainpur Gir!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9648870721",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram",
+      "name": "MS NEHA NEHA",
+      "num": "9838018977"
+    },
+    {
+      "aadhar": "844844594594",
+      "address": "D/O: Ram Keval!273!Gram Muhammadpur Sabukpur Husainpur Gira!Jio Tower!gram muhammadpur sabukpur  Husainpur Gir!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9648870721",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram",
+      "name": "MS NEHA NEHA",
+      "num": "9838018977"
+    }
+  ]
+}
