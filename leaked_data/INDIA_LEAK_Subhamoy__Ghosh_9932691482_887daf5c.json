@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:13:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9932691482",
+  "records": [
+    {
+      "aadhar": "922076998895",
+      "address": "Dakhinbajar  Dakshinbazar Chandrakona Chandrakona West Midnapore West Bengal 721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Shyamal  Ghosh",
+      "name": "Subhamoy  Ghosh",
+      "num": "9932691482"
+    },
+    {
+      "aadhar": "922076998895",
+      "address": "S/O Shyamal Ghosh!DAKHINBAJAR!!Dakshinbazar!West Midnapore!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Shyamal  Ghosh",
+      "name": "Subhamoy  Ghosh",
+      "num": "9932691482"
+    },
+    {
+      "aadhar": "922076998895",
+      "address": "S/O Shyamal Ghosh!DAKHINBAJAR!!Dakshinbazar!West Midnapore!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Shyamal  Ghosh",
+      "name": "Subhamoy  Ghosh",
+      "num": "9932691482"
+    }
+  ]
+}
