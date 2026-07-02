@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:27:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9667527902",
+  "records": [
+    {
+      "aadhar": "448842774425",
+      "address": "C/O Clinton Gardner!propno-1/40-A 2nd floor!ward no-1!!Mehrauli!Delhi!SOUTH DELHI!Delhi!110030",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Clinton Gardner",
+      "name": "Soni Gardner",
+      "num": "9667527902"
+    },
+    {
+      "aadhar": "448842774425",
+      "address": "C/O Clinton Gardner!propno-1/40-A 2nd floor!ward no-1!!Mehrauli!Delhi!SOUTH DELHI!Delhi!110030",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Clinton Gardner",
+      "name": "Soni Gardner",
+      "num": "9667527902"
+    },
+    {
+      "aadhar": "448842774425",
+      "address": "C/O Clinton Gardner!propno-1/40-A 2nd floor!ward no-1!!Mehrauli!Delhi!SOUTH DELHI!Delhi!110030",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Clinton Gardner",
+      "name": "Soni Gardner",
+      "num": "9667527902"
+    }
+  ]
+}
