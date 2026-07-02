@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:41:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9832212948",
+  "records": [
+    {
+      "aadhar": "360618404418",
+      "address": "19/18 ;asoke avenue a zone;Durgapur (m Corp.) Barddhaman;Barddhaman;West Bengal;713204",
+      "alt": null,
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "C/O Rajaram Chowdhury",
+      "name": "Ajoy Kumar Chowdhury  ",
+      "num": "9832212948"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": "19/18 ;asoke avenue a zone;Durgapur (m Corp.) Barddhaman;Barddhaman;West Bengal;713204",
+      "alt": null,
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "C/O Rajaram Chowdhury",
+      "name": "Ajoy Kumar Chowdhury  ",
+      "num": "9832212948"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": " C/O Rajaram Chowdhury! 19/18!asoke avenue Durgapur Steel Town West!!a zone!Durgapur m Corp. Barddhaman!Barddhaman!West Bengal!713204 ",
+      "alt": "9832212948",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "RAJARAM CHOWDHURY",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8389843679"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": "!19/18!Asoke Avenue!A Zone Durgapur M Corp!Barddhaman!WBL3!713204",
+      "alt": "9832212948",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Rajaram  Chowdhury",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8172056547"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": " C/O Rajaram Chowdhury!!19/18 asoke avenue Durgapur Steel Town West!NA!a zone!Durgapur m Corp Barddhaman Barddhaman!NA!West Bengal!713204 ",
+      "alt": "9832212948",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "RAJARAM CHOWDHURY",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8145404936"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": " C/O Rajaram Chowdhury! 19/18!asoke avenue Durgapur Steel Town West!!a zone!Durgapur m Corp. Barddhaman!Barddhaman!West Bengal!713204 ",
+      "alt": "9832212948",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "RAJARAM CHOWDHURY",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8389843679"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": "!19/18!Asoke Avenue!A Zone Durgapur M Corp!Barddhaman!WBL3!713204",
+      "alt": "9832212948",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Rajaram  Chowdhury",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8172056547"
+    },
+    {
+      "aadhar": "360618404418",
+      "address": " C/O Rajaram Chowdhury!!19/18 asoke avenue Durgapur Steel Town West!NA!a zone!Durgapur m Corp Barddhaman Barddhaman!NA!West Bengal!713204 ",
+      "alt": "9832212948",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "RAJARAM CHOWDHURY",
+      "name": "Ajoy Kumar Chowdhury",
+      "num": "8145404936"
+    }
+  ]
+}
