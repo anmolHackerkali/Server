@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:24:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8650156124",
+  "records": [
+    {
+      "aadhar": "356461545342",
+      "address": "475 BANNA DEVI G T ROAD  KAPIL VIHAR WALI GALI City/District: Aligarh State Uttar Pradesh MISSION COMPOUND ALIGARH UTTAR PRADESH 202001",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": "ishamassey7@gmailcom",
+      "fname": "Christopher Massey",
+      "name": "Christey Massey",
+      "num": "8650156124"
+    },
+    {
+      "aadhar": "356461545342",
+      "address": "475 BANNA DEVI G T ROAD  KAPIL VIHAR WALI GALI City/District: Aligarh State Uttar Pradesh MISSION COMPOUND ALIGARH UTTAR PRADESH 202001",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": "ishamassey7@gmailcom",
+      "fname": "Christopher Massey",
+      "name": "Christey Massey",
+      "num": "8650156124"
+    }
+  ]
+}
