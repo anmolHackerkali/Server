@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 16:06:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9800423062",
+  "records": [
+    {
+      "aadhar": "882311770435",
+      "address": "46 Buriapat PO BAHADURPATNA Bahadur Patna Keshpur  WEST MIDNAPORE Paschim Medinipur West Bengal 721260",
+      "alt": "9800328400",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "AnandaMondal",
+      "name": "Pranay  Mondal",
+      "num": "9800423062"
+    },
+    {
+      "aadhar": "882311770435",
+      "address": "!46!Buriapat PO!!BAHADURPATNA Bahadur Patna Keshpur!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Ananda Mondal",
+      "name": "Pranay Mondal",
+      "num": "9800423062"
+    },
+    {
+      "aadhar": "882311770435",
+      "address": "!46!Buriapat PO!!BAHADURPATNA Bahadur Patna Keshpur!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Ananda Mondal",
+      "name": "Pranay Mondal",
+      "num": "9800423062"
+    }
+  ]
+}
