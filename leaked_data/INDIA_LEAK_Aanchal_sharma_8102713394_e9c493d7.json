@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:40:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8102713394",
+  "records": [
+    {
+      "aadhar": "745259588582",
+      "address": "!!00 mahavir colony saichak!NA!BEUR ANISABAD Phulwari!Patna Patna!NA!Bihar!800002",
+      "alt": "7048933988",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanjeev kumar",
+      "name": "Aanchal sharma",
+      "num": "8102713394"
+    },
+    {
+      "aadhar": "745259588582",
+      "address": "!!00 mahavir colony saichak!NA!BEUR ANISABAD Phulwari!Patna Patna!NA!Bihar!800002",
+      "alt": "7048933988",
+      "circle": "JIO BHR&JHR",
+      "email": "aryankarthik929@gmail.com",
+      "fname": "sanjeev kumar",
+      "name": "Aanchal sharma",
+      "num": "8102713394"
+    },
+    {
+      "aadhar": "745259588582",
+      "address": "!!00 mahavir colony saichak!NA!BEUR ANISABAD Phulwari!Patna Patna!NA!Bihar!800002",
+      "alt": "7048933988",
+      "circle": "JIO BHR&JHR",
+      "email": "aryankarthik929@gmail.com",
+      "fname": "sanjeev kumar",
+      "name": "Aanchal sharma",
+      "num": "8102713394"
+    }
+  ]
+}
