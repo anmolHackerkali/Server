@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:59:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310524986",
+  "records": [
+    {
+      "aadhar": "601232392222",
+      "address": "s/o shyam lal! rz-13a 2nd floor syndicate enclave!gali no.-2!!RZ-13A 2nd floor SYNDICATE ENCLAVE GALI NO.-2!raghu nagar!south west delhi!Delhi!110045",
+      "alt": "9911798054",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam lal",
+      "name": "Madan Lal",
+      "num": "9310524986"
+    },
+    {
+      "aadhar": "601232392222",
+      "address": "s/o shyam lal!rz-13a 2nd floor syndicate enclave!gali no-2!!RZ-13A 2nd floor SYNDICATE ENCLAVE GALI NO-2!raghu nagar!south west delhi!Delhi!110045",
+      "alt": "9911798054",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam lal",
+      "name": "Madan Lal",
+      "num": "9310524986"
+    },
+    {
+      "aadhar": "601232392222",
+      "address": "s/o shyam lal!rz-13a 2nd floor syndicate enclave!gali no-2!!RZ-13A 2nd floor SYNDICATE ENCLAVE GALI NO-2!raghu nagar!south west delhi!Delhi!110045",
+      "alt": "9911798054",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam lal",
+      "name": "Madan Lal",
+      "num": "9310524986"
+    }
+  ]
+}
