@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:40:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6296289843",
+  "records": [
+    {
+      "aadhar": "498228004739",
+      "address": "!!19/ 12 ASHOK AVENUE A ZONE Durgapur Steel Town West!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713204",
+      "alt": "919474112699",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bijoy Kumar Das",
+      "name": "Satya Sarathi Das",
+      "num": "6296289843"
+    },
+    {
+      "aadhar": "498228004739",
+      "address": "!!19/ 12 ASHOK AVENUE A ZONE Durgapur Steel Town West!!Durgapur m Corp Barddhaman Barddhaman!West Bengal!713204",
+      "alt": "919474112699",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bijoy Kumar Das",
+      "name": "Satya Sarathi Das",
+      "num": "6296289843"
+    },
+    {
+      "aadhar": "498228004739",
+      "address": " ! 19/12!Ashok Avenue a zone!!Durgapur m corp durgapur steel town!Asansol!Barddhaman!West Bengal!713204 ",
+      "alt": "6296289843",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bijoy Kumar Das",
+      "name": "Salya Sarathi Das",
+      "num": "9474112699"
+    },
+    {
+      "aadhar": "498228004739",
+      "address": " ! 19/12!Ashok Avenue a zone!!Durgapur m corp durgapur steel town!Asansol!Barddhaman!West Bengal!713204 ",
+      "alt": "6296289843",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bijoy Kumar Das",
+      "name": "Salya Sarathi Das",
+      "num": "9474112699"
+    }
+  ]
+}
