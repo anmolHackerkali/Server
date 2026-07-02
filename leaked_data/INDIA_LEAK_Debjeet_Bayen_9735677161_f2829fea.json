@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:43:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9735677161",
+  "records": [
+    {
+      "aadhar": "589120064854",
+      "address": " !NA  19/25 ASHOK AVENUE!ASHOK AVENUE!MONDIR!A ZONE Durgapur m Corp. Barddhaman!Asansol!Barddhaman!West Bengal!713204 ",
+      "alt": "9382704746",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Ramkrishna bayen",
+      "name": "Debjeet Bayen",
+      "num": "9735677161"
+    },
+    {
+      "aadhar": "589120064854",
+      "address": " !NA  19/25 ASHOK AVENUE!ASHOK AVENUE!MONDIR!A ZONE Durgapur m Corp. Barddhaman!Asansol!Barddhaman!West Bengal!713204 ",
+      "alt": "9382704746",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Ramkrishna bayen",
+      "name": "Debjeet Bayen",
+      "num": "9735677161"
+    },
+    {
+      "aadhar": "xxxxxxxx4854",
+      "address": "!19/25!ASHOK AVENUE!Durgapur m Corp!Barddhaman!West Bengal!713204",
+      "alt": "9735677161",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "RAMKRISHNA  BAYEN",
+      "name": "Debjeet  Bayen",
+      "num": "7602418424"
+    },
+    {
+      "aadhar": "xxxxxxxx4854",
+      "address": "!19/25!ASHOK AVENUE!Durgapur m Corp!Barddhaman!West Bengal!713204",
+      "alt": "9735677161",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "RAMKRISHNA  BAYEN",
+      "name": "Debjeet  Bayen",
+      "num": "7602418424"
+    }
+  ]
+}
