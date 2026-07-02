@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:57:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7380968121",
+  "records": [
+    {
+      "aadhar": "690377521783",
+      "address": "W/O: Phoolchand!Home number-59!!Village-penda Nankar Post-Karhi Bansi!Siddharthnagar!Uttar Pradesh!272153",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Phoolchand",
+      "name": "Chatura",
+      "num": "7380968121"
+    },
+    {
+      "aadhar": "690377521783",
+      "address": "W/O: Phoolchand!Home number-59!!Village-penda Nankar Post-Karhi Bansi!Siddharthnagar!Uttar Pradesh!272153",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Phoolchand",
+      "name": "Chatura",
+      "num": "7380968121"
+    }
+  ]
+}
