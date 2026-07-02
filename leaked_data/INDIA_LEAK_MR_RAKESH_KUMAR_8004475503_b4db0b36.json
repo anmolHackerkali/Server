@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:40:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8004475503",
+  "records": [
+    {
+      "aadhar": "935353387267",
+      "address": "!295!Baraiya Mafi!!Baraiya MafiAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8004387869",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jagdeesh Prasad",
+      "name": "MR. RAKESH KUMAR",
+      "num": "8004475503"
+    },
+    {
+      "aadhar": "935353387267",
+      "address": "!295!Baraiya Mafi!!Baraiya Mafi AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8004387869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagdeesh Prasad",
+      "name": "MR RAKESH KUMAR",
+      "num": "8004475503"
+    },
+    {
+      "aadhar": "935353387267",
+      "address": "!295!Baraiya Mafi!!Baraiya Mafi AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8004387869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagdeesh Prasad",
+      "name": "MR RAKESH KUMAR",
+      "num": "8004475503"
+    }
+  ]
+}
