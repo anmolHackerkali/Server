@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 16:24:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7047934873",
+  "records": [
+    {
+      "aadhar": "337426563297",
+      "address": "!ANGHONA!Mahula!!Barddhaman Ankhona!Barddhaman!BARDHAMAN!West Bengal!713129",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "BODHAN HAZRA",
+      "name": "MALLIKA HAZRA",
+      "num": "7047934873"
+    },
+    {
+      "aadhar": "337426563297",
+      "address": "!ANGHONA!Mahula!!Barddhaman Ankhona!Barddhaman!BARDHAMAN!West Bengal!713129",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "BODHAN HAZRA",
+      "name": "MALLIKA HAZRA",
+      "num": "7047934873"
+    }
+  ]
+}
