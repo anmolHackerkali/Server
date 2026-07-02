@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:22:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393517530",
+  "records": [
+    {
+      "aadhar": "569442013240",
+      "address": "!116/209-6!E Sayyad Nagar!!Rawatpur rawatpur kanpur nagar!Kanpur!Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": "9984170042",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samiuddin Khan",
+      "name": "Shamshad Ali Khan",
+      "num": "6393517530"
+    },
+    {
+      "aadhar": "569442013240",
+      "address": "!116/209-6!E Sayyad Nagar!!Rawatpur rawatpur kanpur nagar!Kanpur!Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": "9984170042",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samiuddin Khan",
+      "name": "Shamshad Ali Khan",
+      "num": "6393517530"
+    }
+  ]
+}
