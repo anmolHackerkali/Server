@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:11:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9991374905",
+  "records": [
+    {
+      "aadhar": "HR20119599",
+      "address": "!HNo 1173!Sector 14!Sirsa Road!Ward No 02!Hissar!Hisar!Haryana!125001",
+      "alt": "9255538963",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sunil Kumar Jain",
+      "name": "Gourav Jain",
+      "num": "9991374905"
+    },
+    {
+      "aadhar": "HR20119599",
+      "address": "!HNo 1173!Sector 14!Sirsa Road!Ward No 02!Hissar!Hisar!Haryana!125001",
+      "alt": "9255538963",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sunil Kumar Jain",
+      "name": "Gourav Jain",
+      "num": "9991374905"
+    },
+    {
+      "aadhar": "HR20119599",
+      "address": "!HNo 1173!Sector 14!Sirsa Road!Ward No 02!Hissar!Hisar!Haryana!125001",
+      "alt": "9255538963",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sunil Kumar Jain",
+      "name": "Gourav Jain",
+      "num": "9991374905"
+    },
+    {
+      "aadhar": "209889824931",
+      "address": "S/O Sunil Kumar Jain S/O Sunil Kumar Jain Sector 14 Hisar HisarHouse No 2004 HISAR-HISAR HR 125001",
+      "alt": "9991374905",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "SUNIL KUMAR Kumar JAIN",
+      "name": "GAURAV JAIN",
+      "num": "9255538963"
+    }
+  ]
+}
