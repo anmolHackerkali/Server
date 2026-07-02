@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:25:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8687888979",
+  "records": [
+    {
+      "aadhar": "539496150125",
+      "address": " !104/40!SISAMAU KANPUR City/District: Kanpur Nagar!KANPUR!KANPUR CITY!UTTAR PRADESH!208019",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "sunil shaay",
+      "name": "Edna Jan Sahai",
+      "num": "8687888979"
+    },
+    {
+      "aadhar": "539496150125",
+      "address": " !104/40!SISAMAU KANPUR City/District: Kanpur Nagar!KANPUR!KANPUR CITY!UTTAR PRADESH!208019",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "sunil shaay",
+      "name": "Edna Jan Sahai",
+      "num": "8687888979"
+    }
+  ]
+}
