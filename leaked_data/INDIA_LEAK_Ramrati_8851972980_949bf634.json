@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:03:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8851972980",
+  "records": [
+    {
+      "aadhar": "481447313791",
+      "address": "W/O D S Guliya!!H.N.-D-28 NEAR C-1 JANAK PURI!MAHINDRA PARK!uttam nagar West Delhi!Delhi!110059",
+      "alt": "918750125995",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "D S Guliya",
+      "name": "Ramrati",
+      "num": "8851972980"
+    },
+    {
+      "aadhar": "481447313791",
+      "address": "W/O D S Guliya!!HN-D-28NEAR C-1 JANAK PURI!MAHINDRA PARK!uttam nagarWest Delhi!Delhi!110059",
+      "alt": "918750125995",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "D S Guliya",
+      "name": "Ramrati",
+      "num": "8851972980"
+    },
+    {
+      "aadhar": "481447313791",
+      "address": "W/O D S Guliya!!HN-D-28NEAR C-1 JANAK PURI!MAHINDRA PARK!uttam nagarWest Delhi!Delhi!110059",
+      "alt": "918750125995",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "D S Guliya",
+      "name": "Ramrati",
+      "num": "8851972980"
+    },
+    {
+      "aadhar": "501751466740",
+      "address": "S/O Dilawar Gulia!H N -D-28!Near C1 Janak Puri MAHINDRA PARK Uttam Nagar Dk Mohan Garden West Delhi WEST DELHI!NEAR C1 JANAK PURI!NEAR C1 JANAK PURI!D  K  MOHAN GARDEN!WEST DELHI!Delhi!110059",
+      "alt": "8851972980",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DILAWAR GULIA",
+      "name": "VINAY GULIA",
+      "num": "9911892625"
+    },
+    {
+      "aadhar": " 501751466740 ",
+      "address": "S/O Dilawar Gulia ! H.N.-D-28 ! Near C1 Janak PuriMAHINDRA PARK Uttam Nagar Dk Mohan Garden West DelhiWEST DELHI ! NEAR C1 JANAK PURI ! NEAR C1 JANAK PURI ! D. K. MOHAN GARDEN ! WEST DELHI ! Delhi ! 1",
+      "alt": "8851972980",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DILAWAR GULIA",
+      "name": "VINAY GULIA",
+      "num": "9911892625"
+    },
+    {
+      "aadhar": "501751466740",
+      "address": "S/O Dilawar Gulia!HN-D-28!Near C1 Janak PuriMAHINDRA PARK Uttam Nagar Dk Mohan Garden West DelhiWEST DELHI!NEAR C1 JANAK PURI!NEAR C1 JANAK PURI!D K MOHAN GARDEN!WEST DELHI!Delhi!110059",
+      "alt": "8851972980",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DILAWAR GULIA",
+      "name": "VINAY GULIA",
+      "num": "9911892625"
+    },
+    {
+      "aadhar": "501751466740",
+      "address": "S/O Dilawar Gulia!HN-D-28!Near C1 Janak PuriMAHINDRA PARK Uttam Nagar Dk Mohan Garden West DelhiWEST DELHI!NEAR C1 JANAK PURI!NEAR C1 JANAK PURI!D K MOHAN GARDEN!WEST DELHI!Delhi!110059",
+      "alt": "8851972980",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DILAWAR GULIA",
+      "name": "VINAY GULIA",
+      "num": "9911892625"
+    }
+  ]
+}
