@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:06:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9318409440",
+  "records": [
+    {
+      "aadhar": "621040376095",
+      "address": "w/o suraj parkash! A-23 vishwas park uttam nagar west delhi!A-23 vishwas park uttam nagar west delhi!near guruduwara!uttam nagar!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8800683199",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suraj parkash",
+      "name": "Kamal Malhotra",
+      "num": "9318409440"
+    },
+    {
+      "aadhar": "621040376095",
+      "address": "w/o suraj parkash!A-23 vishwas park uttam nagar west delhi!A-23 vishwas park uttam nagar west delhi!near guruduwara!uttam nagar!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8800683199",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suraj parkash",
+      "name": "Kamal Malhotra",
+      "num": "9318409440"
+    },
+    {
+      "aadhar": "621040376095",
+      "address": "w/o suraj parkash!A-23 vishwas park uttam nagar west delhi!A-23 vishwas park uttam nagar west delhi!near guruduwara!uttam nagar!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8800683199",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suraj parkash",
+      "name": "Kamal Malhotra",
+      "num": "9318409440"
+    }
+  ]
+}
