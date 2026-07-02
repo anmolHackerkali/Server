@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:47:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508591076",
+  "records": [
+    {
+      "aadhar": "745718133618",
+      "address": "D/O  Late Manoj Kumar Singh!!Laxmisagar!!Dilawarpur Donar Darbhanga!Dilawarpur Bahadurpur!Darbhanga!Bihar!846009",
+      "alt": "8544391719",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Manoj Kumar Singh",
+      "name": "Anjali Kumari",
+      "num": "9508591076"
+    },
+    {
+      "aadhar": "745718133618",
+      "address": "D/O  Late Manoj Kumar Singh!!Laxmisagar!!Dilawarpur Donar Darbhanga!Dilawarpur Bahadurpur!Darbhanga!Bihar!846009",
+      "alt": "8544391719",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Manoj Kumar Singh",
+      "name": "Anjali Kumari",
+      "num": "9508591076"
+    },
+    {
+      "aadhar": "745718133618",
+      "address": "D/O  Late Manoj Kumar Singh!!Laxmisagar!!Dilawarpur Donar Darbhanga!Dilawarpur Bahadurpur!Darbhanga!Bihar!846009",
+      "alt": "8544391719",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Manoj Kumar Singh",
+      "name": "Anjali Kumari",
+      "num": "9508591076"
+    }
+  ]
+}
