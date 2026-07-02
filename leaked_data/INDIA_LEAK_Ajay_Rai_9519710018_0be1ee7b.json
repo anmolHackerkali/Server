@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 17:59:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9519710018",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Jagarnath Rai!!!  Daniari!Kushinagar!Uttar Pradesh!274409",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jagarnath Rai",
+      "name": "Ajay Rai",
+      "num": "9519710018"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jagarnath Rai!!!  Daniari!Kushinagar!Uttar Pradesh!274409",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jagarnath Rai",
+      "name": "Ajay Rai",
+      "num": "9519710018"
+    }
+  ]
+}
