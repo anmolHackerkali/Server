@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:34:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569355900",
+  "records": [
+    {
+      "aadhar": "652860533284",
+      "address": "13 Bharat Nagar  Gandhidham Gandhidham",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Jiyalal",
+      "name": "Manoj Kumar",
+      "num": "9569355900"
+    },
+    {
+      "aadhar": "652860533284",
+      "address": "13 Bharat Nagar  Gandhidham Gandhidham",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Jiyalal",
+      "name": "Manoj Kumar",
+      "num": "9569355900"
+    }
+  ]
+}
