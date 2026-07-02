@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795616357",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Ram Surat!271!vill mohammadpur sabukpur post Hussenpur Gilant!. Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "7275433099",
+      "circle": null,
+      "email": null,
+      "fname": "W/O Ram Surat",
+      "name": "Durgawati ",
+      "num": "8795616357"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Ram Surat!271!vill mohammadpur sabukpur post Hussenpur Gilant!. Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224190",
+      "alt": "7275433099",
+      "circle": null,
+      "email": null,
+      "fname": "W/O Ram Surat",
+      "name": "Durgawati ",
+      "num": "8795616357"
+    }
+  ]
+}
