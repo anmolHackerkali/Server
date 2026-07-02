@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 19:39:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971712731",
+  "records": [
+    {
+      "aadhar": "928013600315",
+      "address": "S/O Mohd Azam!C-570 MAJLIS PARK!Azadpur North West Delhi!North West Delhi!N S mandi NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8178803339",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd Azam",
+      "name": "MR  NAWAJISH  ",
+      "num": "9971712731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "S/O Mohd Azam!C-570 MAJLIS PARK!AzadpurNorth West Delhi!North West Delhi!N S mandiNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8178803339",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd Azam",
+      "name": "MR NAWAJISH ",
+      "num": "9971712731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "S/O Mohd Azam!C-570 MAJLIS PARK!AzadpurNorth West Delhi!North West Delhi!N S mandiNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "8178803339",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mohd Azam",
+      "name": "MR NAWAJISH ",
+      "num": "9971712731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "!c 570!C-570 MAJLIS PARK AZAD PUR North West Delhi!C-570 MAJLIS PARK AZAD PUR North West Delhi!N S MANDI!NORTH WEST DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "9971712731",
+      "circle": "VI DELHI",
+      "email": "nawajishali63@gmail.com",
+      "fname": "Mohd Azam",
+      "name": "MR  NAWAJISH  ",
+      "num": "8178803339"
+    },
+    {
+      "aadhar": " 928013600315 ",
+      "address": "S/O Mohd Azam ! H No C-570 MAJLIS PARK ! azad pur ! Azad Pur ! n.s mandiAzad Pur ! AADARHS NAGAR-NORTH WEST DELHI ! NORTH WEST DELHI ! DL ! 110033",
+      "alt": "9971712731",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD  AZAM",
+      "name": "NAWAJISH  .",
+      "num": "9911382731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "S/O Mohd Azam ! H No C-570 MAJLIS PARK ! azad pur ! Azad Pur ! ns mandiAzad Pur ! AADARHS NAGAR-NORTH WEST DELHI ! NORTH WEST DELHI ! DL ! 110033",
+      "alt": "9971712731",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD  AZAM",
+      "name": "NAWAJISH  ",
+      "num": "9911382731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "!c 570!C-570 MAJLIS PARK AZAD PUR North West Delhi!C-570 MAJLIS PARK AZAD PUR North West Delhi!N S MANDI!NORTH WEST DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "9971712731",
+      "circle": "VI DELHI",
+      "email": "nawajishali63@gmail.com",
+      "fname": "Mohd Azam",
+      "name": "MR NAWAJISH ",
+      "num": "8178803339"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "S/O Mohd Azam ! H No C-570 MAJLIS PARK ! azad pur ! Azad Pur ! ns mandiAzad Pur ! AADARHS NAGAR-NORTH WEST DELHI ! NORTH WEST DELHI ! DL ! 110033",
+      "alt": "9971712731",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHD  AZAM",
+      "name": "NAWAJISH  ",
+      "num": "9911382731"
+    },
+    {
+      "aadhar": "928013600315",
+      "address": "!c 570!C-570 MAJLIS PARK AZAD PUR North West Delhi!C-570 MAJLIS PARK AZAD PUR North West Delhi!N S MANDI!NORTH WEST DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": "9971712731",
+      "circle": "VI DELHI",
+      "email": "nawajishali63@gmail.com",
+      "fname": "Mohd Azam",
+      "name": "MR NAWAJISH ",
+      "num": "8178803339"
+    }
+  ]
+}
