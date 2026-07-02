@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:26:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911057989",
+  "records": [
+    {
+      "aadhar": "280088381012",
+      "address": "Gurdev Singh!C-25/C!GULABI BAGH RAILWAY COLONY!  LAJPAT NAGAT-1!LAJPAT NAGAR SO-SOUTH DELHI!DL!110024",
+      "alt": "9911933085",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "GURDEV SINGH",
+      "name": "KULTAR SINGH",
+      "num": "9911057989"
+    },
+    {
+      "aadhar": "280088381012",
+      "address": "Gurdev Singh!C-25/C!GULABI BAGH RAILWAY COLONY!LAJPAT NAGAT-1!LAJPAT NAGAR SO-SOUTH DELHI!DL!110024",
+      "alt": "9911933085",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "GURDEV SINGH",
+      "name": "KULTARSINGH",
+      "num": "9911057989"
+    },
+    {
+      "aadhar": "280088381012",
+      "address": "Gurdev Singh!C-25/C!GULABI BAGH RAILWAY COLONY!LAJPAT NAGAT-1!LAJPAT NAGAR SO-SOUTH DELHI!DL!110024",
+      "alt": "9911933085",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "GURDEV SINGH",
+      "name": "KULTARSINGH",
+      "num": "9911057989"
+    }
+  ]
+}
