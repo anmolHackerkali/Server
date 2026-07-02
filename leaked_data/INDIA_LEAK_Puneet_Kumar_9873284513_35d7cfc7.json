@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:09:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9873284513",
+  "records": [
+    {
+      "aadhar": "297143253128",
+      "address": "s/o heera lal! B- 19!Vidhyapati Colony!!b- 19 vidhyapati colony jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8700926023",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Puneet Kumar",
+      "num": "9873284513"
+    },
+    {
+      "aadhar": "297143253128",
+      "address": "s/o heera lal!B- 19!Vidhyapati Colony!!b- 19 vidhyapati colony jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8700926023",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Puneet Kumar",
+      "num": "9873284513"
+    },
+    {
+      "aadhar": "297143253128",
+      "address": "s/o heera lal!B- 19!Vidhyapati Colony!!b- 19 vidhyapati colony jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8700926023",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Puneet Kumar",
+      "num": "9873284513"
+    },
+    {
+      "aadhar": "893201402618",
+      "address": "W/O  Anand!!Noida!!kunda colony bhangel begampur!Gautam Buddha Nagar Gautam Buddha Nagar!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9873284513",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand",
+      "name": "Soni",
+      "num": "9315779646"
+    },
+    {
+      "aadhar": "893201402618",
+      "address": "W/O  Anand!!Noida!!kunda colony bhangel begampur!Gautam Buddha NagarGautam Buddha Nagar!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9873284513",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand",
+      "name": "Soni",
+      "num": "9315779646"
+    },
+    {
+      "aadhar": "893201402618",
+      "address": "W/O  Anand!!Noida!!kunda colony bhangel begampur!Gautam Buddha NagarGautam Buddha Nagar!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9873284513",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand",
+      "name": "Soni",
+      "num": "9315779646"
+    }
+  ]
+}
