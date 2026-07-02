@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:18:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9968075985",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Bhav Dev!!H.No. - L - 40 Street No - 5  Shivaji Marg!Kartar Nagar North Ghonda!Delhi North East!Delhi!110053",
+      "alt": "919870427204",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhav Dev",
+      "name": "Hari Dutt",
+      "num": "9968075985"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Navin Chander Joshi!H No  L 40!Street No  5!Shivaji Marg Kartar Nagar North Ghonda!DelhiNorth East!Delhi!110053",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Navin Chander Joshi",
+      "name": "Sushant Joshi",
+      "num": "9968075985"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Bhav Dev!!HNo - L - 40 Street No - 5  Shivaji Marg!Kartar Nagar North Ghonda!Delhi North East!Delhi!110053",
+      "alt": "919870427204",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhav Dev",
+      "name": "Hari Dutt",
+      "num": "9968075985"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Navin Chander Joshi!H No  L 40!Street No  5!Shivaji Marg Kartar Nagar North Ghonda!DelhiNorth East!Delhi!110053",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Navin Chander Joshi",
+      "name": "Sushant Joshi",
+      "num": "9968075985"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Bhav Dev!!HNo - L - 40 Street No - 5  Shivaji Marg!Kartar Nagar North Ghonda!Delhi North East!Delhi!110053",
+      "alt": "919870427204",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhav Dev",
+      "name": "Hari Dutt",
+      "num": "9968075985"
+    },
+    {
+      "aadhar": "533932461920",
+      "address": "!h no L 40!Street no 5!!shivaji marg kartar nagar north ghonda!Delhi East!North East!Delhi!110053",
+      "alt": "9968075985",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "bhav dev",
+      "name": "Hari Dutt",
+      "num": "8595628997"
+    },
+    {
+      "aadhar": "533932461920",
+      "address": "!h no L 40!Street no 5!!shivaji marg kartar nagar north ghonda!Delhi East!North East!Delhi!110053",
+      "alt": "9968075985",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "bhav dev",
+      "name": "Hari Dutt",
+      "num": "8595628997"
+    },
+    {
+      "aadhar": "533932461920",
+      "address": "!h no L 40!Street no 5!!shivaji marg kartar nagar north ghonda!Delhi East!North East!Delhi!110053",
+      "alt": "9968075985",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "bhav dev",
+      "name": "Hari Dutt",
+      "num": "8595628997"
+    }
+  ]
+}
