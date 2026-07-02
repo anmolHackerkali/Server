@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:34:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7549469514",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx1845",
+      "address": "S/O Ram Baran Singh!Ward No 10!!Mokhtiyarpur Mukhtiarpur!!Begusarai!Bihar!851133",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh  Kumar",
+      "num": "7549469514"
+    },
+    {
+      "aadhar": "xxxxxxxx1845",
+      "address": "S/O Ram Baran Singh!Ward No 10!!Mokhtiyarpur Mukhtiarpur!!Begusarai!Bihar!851133",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh  Kumar",
+      "num": "7549469514"
+    }
+  ]
+}
