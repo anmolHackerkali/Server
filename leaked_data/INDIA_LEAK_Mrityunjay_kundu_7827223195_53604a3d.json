@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:05:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7827223195",
+  "records": [
+    {
+      "aadhar": "FRY2381218",
+      "address": "!Rajeev Nagar house no 654!gali no 6!shiv mandir!sec 12!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9953468810",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kalbaran kundu",
+      "name": "Mrityunjay kundu",
+      "num": "7827223195"
+    },
+    {
+      "aadhar": "FRY2381218",
+      "address": "!Rajeev Nagar house no 654!gali no 6!shiv mandir!sec 12!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9953468810",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kalbaran kundu",
+      "name": "Mrityunjay kundu",
+      "num": "7827223195"
+    },
+    {
+      "aadhar": "FRY2381218",
+      "address": "!Rajeev Nagar house no 654!gali no 6!shiv mandir!sec 12!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9953468810",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kalbaran kundu",
+      "name": "Mrityunjay kundu",
+      "num": "7827223195"
+    }
+  ]
+}
