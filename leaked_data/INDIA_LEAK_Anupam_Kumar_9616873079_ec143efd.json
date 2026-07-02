@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:00:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9616873079",
+  "records": [
+    {
+      "aadhar": "338636471099",
+      "address": "S/O: Ram Shakal!bukiya Bukiya!!!Ambedkar Nagar!Uttar Pradesh!224129",
+      "alt": "7238002982",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Shakal",
+      "name": "Anupam Kumar",
+      "num": "9616873079"
+    },
+    {
+      "aadhar": "338636471099",
+      "address": "S/O: Ram Shakal!bukiya Bukiya!!!Ambedkar Nagar!Uttar Pradesh!224129",
+      "alt": "7238002982",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Shakal",
+      "name": "Anupam Kumar",
+      "num": "9616873079"
+    }
+  ]
+}
