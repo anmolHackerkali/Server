@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:08:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9794906380",
+  "records": [
+    {
+      "aadhar": "652860533284",
+      "address": "S/O Jiyalal!36!!gram muhammadpur sabookpur Akdalla!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "8528416380",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jiyalal",
+      "name": "Manoj Kumar",
+      "num": "9794906380"
+    },
+    {
+      "aadhar": "652860533284",
+      "address": "S/O Jiyalal!36!!gram muhammadpur sabookpur Akdalla!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "8528416380",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jiyalal",
+      "name": "Manoj Kumar",
+      "num": "9794906380"
+    }
+  ]
+}
