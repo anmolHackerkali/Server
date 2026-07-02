@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:56:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7601907730",
+  "records": [
+    {
+      "aadhar": "401115880740",
+      "address": " s/o dilip kumar roy! 24/12!rana pratap road Durgapur Steel Town West!A-ZONE!a-zone durgapur steel town west!durgapur m corp. Barddhaman!barddhaman!West Bengal!713204 ",
+      "alt": "9800987531",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "dilip kumar roy",
+      "name": "Jeet Roy",
+      "num": "7601907730"
+    },
+    {
+      "aadhar": "401115880740",
+      "address": " s/o dilip kumar roy! 24/12!rana pratap road Durgapur Steel Town West!A-ZONE!a-zone durgapur steel town west!durgapur m corp. Barddhaman!barddhaman!West Bengal!713204 ",
+      "alt": "9800987531",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "dilip kumar roy",
+      "name": "Jeet Roy",
+      "num": "7601907730"
+    }
+  ]
+}
