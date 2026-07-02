@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:13:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625011340",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Satbir Singh!!!78 bamnoli village sector 28 dwarka!Bamnoli South West Delhi!Delhi!110077",
+      "alt": "919899049854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satbir Singh",
+      "name": "Kamal Singh",
+      "num": "9625011340"
+    },
+    {
+      "aadhar": "NA",
+      "address": "D/O  T S Negi!!f-33 block-ASaraswati vihar!khora Colony!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": "+919650366892",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "TS Negi",
+      "name": "Manshi Negi  ",
+      "num": "9625011340"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Satbir Singh!!!78 bamnoli village sector 28 dwarka!BamnoliSouth West Delhi!Delhi!110077",
+      "alt": "919899049854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satbir Singh",
+      "name": "Kamal Singh",
+      "num": "9625011340"
+    },
+    {
+      "aadhar": "NA",
+      "address": "D/O  T S Negi!!f-33 block-ASaraswati vihar!khora Colony!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": "+919650366892",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "TS Negi",
+      "name": "Manshi Negi  ",
+      "num": "9625011340"
+    },
+    {
+      "aadhar": "NA",
+      "address": "D/O  T S Negi!!f-33 block-ASaraswati vihar!khora Colony!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": "+919650366892",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "TS Negi",
+      "name": "Manshi Negi  ",
+      "num": "9625011340"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Satbir Singh!!!78 bamnoli village sector 28 dwarka!BamnoliSouth West Delhi!Delhi!110077",
+      "alt": "919899049854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satbir Singh",
+      "name": "Kamal Singh",
+      "num": "9625011340"
+    }
+  ]
+}
