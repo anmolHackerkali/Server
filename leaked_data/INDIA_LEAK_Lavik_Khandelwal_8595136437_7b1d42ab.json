@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:53:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595136437",
+  "records": [
+    {
+      "aadhar": "701165450473",
+      "address": "s/o mukesh khandelwal!e-1/18a e- block!gali no 3!!om Vihar extn!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8287907683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh khandelwal",
+      "name": "Lavik Khandelwal",
+      "num": "8595136437"
+    },
+    {
+      "aadhar": "701165450473",
+      "address": "s/o mukesh khandelwal!e-1/18a e- block!gali no 3!!om Vihar extn!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8287907683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh khandelwal",
+      "name": "Lavik Khandelwal",
+      "num": "8595136437"
+    },
+    {
+      "aadhar": "701165450473",
+      "address": "s/o mukesh khandelwal!e-1/18a e- block!gali no 3!!om Vihar extn!uttam nagar!west delhi!Delhi!110059",
+      "alt": "8287907683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh khandelwal",
+      "name": "Lavik Khandelwal",
+      "num": "8595136437"
+    }
+  ]
+}
