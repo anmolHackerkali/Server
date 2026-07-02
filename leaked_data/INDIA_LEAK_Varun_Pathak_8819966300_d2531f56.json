@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:34:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8819966300",
+  "records": [
+    {
+      "aadhar": "506686389060",
+      "address": "S/O Anil Pathak! Makan N O. A 3 / 32 M.i.g.!Ward No.2!Niyar Soping Compleks Ke Pass!Awas Nagar!Dewas!Dewas!Madhya Pradesh!455001",
+      "alt": "7974409010",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Anil Pathak",
+      "name": "Varun Pathak",
+      "num": "8819966300"
+    },
+    {
+      "aadhar": "506686389060",
+      "address": "S/O Anil Pathak! Makan N O. A 3 / 32 M.i.g.!Ward No.2!Niyar Soping Compleks Ke Pass!Awas Nagar!Dewas!Dewas!Madhya Pradesh!455001",
+      "alt": "7974409010",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Anil Pathak",
+      "name": "Varun Pathak",
+      "num": "8819966300"
+    }
+  ]
+}
