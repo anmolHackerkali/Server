@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:07:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8766327578",
+  "records": [
+    {
+      "aadhar": "EWOPK3394B",
+      "address": "HOUSE NO 84!J AND K BLOCK FF LEFT SIDE LAXMINAGAR!NEAR GARWAL SAMAJ SADAN!EAST DELHI!Delhi!110092",
+      "alt": "9880417582",
+      "circle": "JIO DELHI",
+      "email": "SUPPORT@YHILLS.COM",
+      "fname": "AMAN KUMAR",
+      "name": "Yhills Edutech Private Limited",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "50200040975113",
+      "address": "H No 747 13/3!Subhash Nagar Near Dev Sthal Mandir Sector-35!!Faridabad!Haryana!121003",
+      "alt": "9716782627",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Azad Ali",
+      "name": "Pay 1 Communication",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "50200040975113",
+      "address": "H No 747 13/3!Subhash Nagar Near Dev Sthal Mandir Sector-35!!Faridabad!Haryana!121003",
+      "alt": "9716782627",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Azad Ali",
+      "name": "Pay 1 Communication",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "283990513946",
+      "address": "HOUSE NO 84 J AND K BLOCK FF LEFT SIDE LAXMINAGAR NEAR GARWAL SAMAJ SADAN EAST DELHI Delhi 110092",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Yhills Edutech Private Limited",
+      "name": "Rakesh  Kumar",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "EWOPK3394B",
+      "address": "HOUSE NO 84!J AND K BLOCK FF LEFT SIDE LAXMINAGAR!NEAR GARWAL SAMAJ SADAN!EAST DELHI!Delhi!110092",
+      "alt": "9880417582",
+      "circle": "JIO DELHI",
+      "email": "SUPPORT@YHILLS.COM",
+      "fname": "AMAN KUMAR",
+      "name": "Yhills Edutech Private Limited",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "50200040975113",
+      "address": "H No 747 13/3!Subhash Nagar Near Dev Sthal Mandir Sector-35!!Faridabad!Haryana!121003",
+      "alt": "9716782627",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Azad Ali",
+      "name": "Pay 1 Communication",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "283990513946",
+      "address": "HOUSE NO 84 J AND K BLOCK FF LEFT SIDE LAXMINAGAR NEAR GARWAL SAMAJ SADAN EAST DELHI Delhi 110092",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Yhills Edutech Private Limited",
+      "name": "Rakesh  Kumar",
+      "num": "8766327578"
+    },
+    {
+      "aadhar": "EWOPK3394B",
+      "address": "HOUSE NO 84!J AND K BLOCK FF LEFT SIDE LAXMINAGAR!NEAR GARWAL SAMAJ SADAN!EAST DELHI!Delhi!110092",
+      "alt": "9880417582",
+      "circle": "JIO DELHI",
+      "email": "SUPPORT@YHILLS.COM",
+      "fname": "AMAN KUMAR",
+      "name": "Yhills Edutech Private Limited",
+      "num": "8766327578"
+    }
+  ]
+}
