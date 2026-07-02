@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:25:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9122313428",
+  "records": [
+    {
+      "aadhar": "895466652532",
+      "address": " bankata 4!Bankatta bankata!road madhubani!Bankata!Madhubani!Madhubani!Bihar!847223 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ramsis mukhiya ",
+      "name": " Jayram Mukhiya ",
+      "num": "9122313428"
+    },
+    {
+      "aadhar": "895466652532",
+      "address": " bankata 4!Bankatta bankata!road madhubani!Bankata!Madhubani!Madhubani!Bihar!847223 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ramsis mukhiya ",
+      "name": " Jayram Mukhiya ",
+      "num": "9122313428"
+    }
+  ]
+}
