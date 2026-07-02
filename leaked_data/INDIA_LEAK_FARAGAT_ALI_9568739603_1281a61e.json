@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:51:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9568739603",
+  "records": [
+    {
+      "aadhar": "798571576741",
+      "address": "S/O Saghir Ahmad Khan!kayasth baddha!Kayasth Barha!!Meerut!Meerut!Meerut!Uttar Pradesh!250001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Saghir Ahmad Khan",
+      "name": "FARAGAT ALI",
+      "num": "9568739603"
+    },
+    {
+      "aadhar": "798571576741",
+      "address": "S/O Saghir Ahmad Khan!kayasth baddha!Kayasth Barha!!Meerut!Meerut!Meerut!Uttar Pradesh!250001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Saghir Ahmad Khan",
+      "name": "FARAGAT ALI",
+      "num": "9568739603"
+    },
+    {
+      "aadhar": "798571576741",
+      "address": " !!Kayasth Barha!Kayasth Barha!Meerut!Uttar Pradesh!250001 ",
+      "alt": "9568739603",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Saghir Ahmad Khan ",
+      "name": " FARAGAT  ALI ",
+      "num": "8534807731"
+    },
+    {
+      "aadhar": "798571576741",
+      "address": " !!Kayasth Barha!Kayasth Barha!Meerut!Uttar Pradesh!250001 ",
+      "alt": "9568739603",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Saghir Ahmad Khan ",
+      "name": " FARAGAT  ALI ",
+      "num": "8534807731"
+    }
+  ]
+}
