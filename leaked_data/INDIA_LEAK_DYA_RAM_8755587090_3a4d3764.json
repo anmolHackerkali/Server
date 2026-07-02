@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:48:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8755587090",
+  "records": [
+    {
+      "aadhar": "610560668059",
+      "address": "S/O: Ram Prakash villag post hatra Hatra  Bisauli  HATRA-BUDAUN UP 202526",
+      "alt": "8755587090",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "DYA RAM",
+      "num": "8755587090"
+    },
+    {
+      "aadhar": "610560668059",
+      "address": "S/O: Ram Prakash villag post hatra Hatra  Bisauli  HATRA-BUDAUN UP 202526",
+      "alt": "8755587090",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "DYA RAM",
+      "num": "8755587090"
+    },
+    {
+      "aadhar": "610560668059",
+      "address": "S/O: Ram Prakash villag post hatra Hatra  Bisauli  HATRA-BUDAUN UP 202526",
+      "alt": "8755587090",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "DYA RAM",
+      "num": "8755587090"
+    },
+    {
+      "aadhar": "610560668059",
+      "address": "S/O: Ram Prakash villag post hatra Hatra  Bisauli  HATRA-BUDAUN UP 202526",
+      "alt": "8755587090",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Prakash",
+      "name": "DYA RAM",
+      "num": "8755587090"
+    }
+  ]
+}
