@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:51:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9289636332",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Kalicharan Arora! D-124   GROUND FLOOR   RAM DUTT ENCLAVE !!UTTAM NAGAR EAST!D K Mohan GardenWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9289636332"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Kalicharan Arora!D-124  GROUND FLOOR  RAM DUTT ENCLAVE!!UTTAM NAGAR EAST!D.K.Mohan GardenWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9289636332"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Kalicharan Arora!D-124  GROUND FLOOR  RAM DUTT ENCLAVE!!UTTAM NAGAR EAST!D.K.Mohan GardenWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9289636332"
+    }
+  ]
+}
