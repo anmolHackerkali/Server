@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:58:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9213222206",
+  "records": [
+    {
+      "aadhar": "123456",
+      "address": "153 Shakti Vihar Pitmpura Delhi Delhi  DEL2! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Davinder",
+      "name": "Mamta",
+      "num": "9213222206"
+    },
+    {
+      "aadhar": "P98110669",
+      "address": "153 Shakti Vihar Pitmpura Delhi Delhi  DEL2! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Davinder",
+      "name": "Mamta",
+      "num": "9213222206"
+    },
+    {
+      "aadhar": "P98110669",
+      "address": "153 Shakti Vihar Pitmpura Delhi Delhi  DEL2! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Davinder",
+      "name": "Mamta",
+      "num": "9213222206"
+    }
+  ]
+}
