@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:03:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7303436165",
+  "records": [
+    {
+      "aadhar": "922657226346",
+      "address": "!42 D D A Flats!Tigri!Tigri!tigri phase-2 hauz khas!Delhi!Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raju Chand",
+      "name": "Meetu",
+      "num": "7303436165"
+    },
+    {
+      "aadhar": "922657226346",
+      "address": "!42 D D A Flats!Tigri!Tigri!tigri phase-2 hauz khas!Delhi!!Delhi!110062",
+      "alt": "8860974065",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raju  Chand",
+      "name": "Meetu",
+      "num": "7303436165"
+    },
+    {
+      "aadhar": "922657226346",
+      "address": "!42 D D A Flats!Tigri!Tigri!tigri phase-2 hauz khas!Delhi!Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raju Chand",
+      "name": "Meetu",
+      "num": "7303436165"
+    },
+    {
+      "aadhar": "922657226346",
+      "address": "!42 D D A Flats!Tigri!Tigri!tigri phase-2 hauz khas!Delhi!Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raju Chand",
+      "name": "Meetu",
+      "num": "7303436165"
+    }
+  ]
+}
