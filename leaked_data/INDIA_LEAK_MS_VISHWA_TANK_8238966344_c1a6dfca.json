@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:03:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8238966344",
+  "records": [
+    {
+      "aadhar": "700482847996",
+      "address": "B-1/6  Ram Apartment!Valsad Valsad  Valsad!Valsad!Ramwadi  VALSAD!VALSAD!VALSAD!Gujarat!396001",
+      "alt": "9978055161",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "vasantkumar Tank",
+      "name": "MS VISHWA TANK",
+      "num": "8238966344"
+    },
+    {
+      "aadhar": "700482847996",
+      "address": "!B-1/6  Ram Apartment!Valsad Valsad  Valsad!Valsad!Ramwadi  VALSAD!VALSAD!VALSAD!Gujarat!396001",
+      "alt": "9978055161",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "vasantkumar Tank",
+      "name": "MS VISHWA TANK",
+      "num": "8238966344"
+    },
+    {
+      "aadhar": "700482847996",
+      "address": "!B-1/6  Ram Apartment!Valsad Valsad  Valsad!Valsad!Ramwadi  VALSAD!VALSAD!VALSAD!Gujarat!396001",
+      "alt": "9978055161",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "vasantkumar Tank",
+      "name": "MS VISHWA TANK",
+      "num": "8238966344"
+    }
+  ]
+}
