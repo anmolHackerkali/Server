@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:48:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7408053558",
+  "records": [
+    {
+      "aadhar": "876725936323",
+      "address": " !266!Vill-Mahmadpur Tanda!Post-Sabukpur!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajitram",
+      "name": "Suneeta",
+      "num": "7408053558"
+    },
+    {
+      "aadhar": "876725936323",
+      "address": " !266!Vill-Mahmadpur Tanda!Post-Sabukpur!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajitram",
+      "name": "Suneeta",
+      "num": "7408053558"
+    }
+  ]
+}
