@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650147032",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "K S Kaushal!B-14!Uttam nagar bala Chowk Defence Colony extension! !WEST DELHI!Delhi!110059",
+      "alt": "9311172093",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "K S KAUSHAL",
+      "name": "Pinki Kaushal",
+      "num": "9650147032"
+    },
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "KS Kaushal!B-14!Uttam nagar bala Chowk Defence Colony extension!!WEST DELHI!Delhi!110059",
+      "alt": "9311172093",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "K S KAUSHAL",
+      "name": "PinkiKaushal",
+      "num": "9650147032"
+    },
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "KS Kaushal!B-14!Uttam nagar bala Chowk Defence Colony extension!!WEST DELHI!Delhi!110059",
+      "alt": "9311172093",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "K S KAUSHAL",
+      "name": "PinkiKaushal",
+      "num": "9650147032"
+    },
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "K S Kaushal!B-14!Uttam nagar  bala Chowk Defence Colony extension City/District  West Delhi State Delhi! !WEST DELHI!Delhi!110059",
+      "alt": "9650147032",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "KS Kaushal",
+      "name": "Pinki Kaushal",
+      "num": "8586809498"
+    },
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "KS Kaushal!B-14!Uttam nagar bala Chowk Defence Colony extension City/District: West Delhi State Delhi!!WEST DELHI!Delhi!110059",
+      "alt": "9650147032",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "KS Kaushal",
+      "name": "PinkiKaushal",
+      "num": "8586809498"
+    },
+    {
+      "aadhar": "xxxxxxxx6514",
+      "address": "KS Kaushal!B-14!Uttam nagar bala Chowk Defence Colony extension City/District: West Delhi State Delhi!!WEST DELHI!Delhi!110059",
+      "alt": "9650147032",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "KS Kaushal",
+      "name": "PinkiKaushal",
+      "num": "8586809498"
+    }
+  ]
+}
