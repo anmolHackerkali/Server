@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:14:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9455200020",
+  "records": [
+    {
+      "aadhar": "417227874757",
+      "address": "!00!vill Ajmeri badshahpur balrampurpost ajmeri badshahapurar!!majha ajmeri badshahpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9532323306",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "madan Mohan Verma",
+      "name": "Alok Verma",
+      "num": "9455200020"
+    },
+    {
+      "aadhar": "417227874757",
+      "address": "!00!vill Ajmeri badshahpur balrampurpost ajmeri badshahapurar!!majha ajmeri badshahpur!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9532323306",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "madan Mohan Verma",
+      "name": "Alok Verma",
+      "num": "9455200020"
+    },
+    {
+      "aadhar": "417227874757",
+      "address": "!vill ajmeri!vill ajmeri!!vill ajmeriAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455200020",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Madan Mohan Verma",
+      "name": "MR. ALOK VERMA",
+      "num": "9517693750"
+    },
+    {
+      "aadhar": "417227874757",
+      "address": "S/O MADAN MOHAN VERMA!VILL AJMERI BADSHAHAPURBALRAMAPUR POST M!VILL AJMERI BADSHAHAPURBALRAMAPUR POST M!!AJMERI BADSHAHPURAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455200020",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Madan Mohan Verma",
+      "name": "MR. ALOK VERMA",
+      "num": "8881945507"
+    },
+    {
+      "aadhar": "417227874757",
+      "address": "!00!Balrampur!Balrampur!Ajmeri Badshahpur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455200020",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MADAN MOHAN VERMA",
+      "name": "MR ALOK VERMA",
+      "num": "9517614984"
+    },
+    {
+      "aadhar": "417227874757",
+      "address": "!00!Balrampur!Balrampur!Ajmeri Badshahpur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "9455200020",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MADAN MOHAN VERMA",
+      "name": "MR ALOK VERMA",
+      "num": "9517614984"
+    }
+  ]
+}
