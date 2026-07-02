@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:54:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7589045465",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " TEHSIL MUKERIAN Beh Kito Hoshiarpur Punjab 144223 Hoshiarpur Punjab 144223",
+      "alt": null,
+      "circle": "BSNL PUNJAB",
+      "email": null,
+      "fname": null,
+      "name": "Seema Devi",
+      "num": "7589045465"
+    }
+  ]
+}
