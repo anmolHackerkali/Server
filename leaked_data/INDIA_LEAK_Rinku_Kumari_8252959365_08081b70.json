@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 01:33:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8252959365",
+  "records": [
+    {
+      "aadhar": "457845429985",
+      "address": "w/o  sunil kumar!!W/O Sunil Kumar Village Pakri Ward -2 Post Bishanpur Di!post bishanpur!village pakri ward -2!disttt madhubani!madhubani!Bihar!847102",
+      "alt": "9798694627",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sunil kumar",
+      "name": "Rinku Kumari",
+      "num": "8252959365"
+    },
+    {
+      "aadhar": "457845429985",
+      "address": "w/o  sunil kumar!!W/O Sunil Kumar Village Pakri Ward -2 Post Bishanpur Di!post bishanpur!village pakri ward -2!disttt madhubani!madhubani!Bihar!847102",
+      "alt": "9798694627",
+      "circle": "JIO BHR&JHR",
+      "email": "masumray4@gmail.com",
+      "fname": "sunil kumar",
+      "name": "Rinku Kumari",
+      "num": "8252959365"
+    },
+    {
+      "aadhar": "457845429985",
+      "address": "w/o  sunil kumar!!W/O Sunil Kumar Village Pakri Ward -2 Post Bishanpur Di!post bishanpur!village pakri ward -2!disttt madhubani!madhubani!Bihar!847102",
+      "alt": "9798694627",
+      "circle": "JIO BHR&JHR",
+      "email": "masumray4@gmail.com",
+      "fname": "sunil kumar",
+      "name": "Rinku Kumari",
+      "num": "8252959365"
+    }
+  ]
+}
