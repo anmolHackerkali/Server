@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:10:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8607499400",
+  "records": [
+    {
+      "aadhar": "790810271135",
+      "address": "HOUSE NO 2004 SECTOR 14P HISAR HISAR SHIV MANDIR HISAR HISAR HISAR HISAR HARYANA 125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "SUNIL KUMAR JAIN",
+      "name": "ALOK JAIN",
+      "num": "8607499400"
+    },
+    {
+      "aadhar": "790810271135",
+      "address": "C/O SUNIL KUMAR JAIN!HOUSE NO 2004 SECTOR 14P!HISAR HISAR!SHIV MANDIR!HISAR HISAR!HISAR!HISAR!HARYANA!125001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "SUNIL KUMAR JAIN",
+      "name": "ALOK JAIN",
+      "num": "8607499400"
+    }
+  ]
+}
