@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 08:38:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958962766",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!MAI SINGH G N 7 MAMURA SEC 66   NOIDA DEL2 201301 201301!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMAYAN YADAV",
+      "name": "SANTOSH . KUMAR",
+      "num": "9958962766"
+    },
+    {
+      "aadhar": null,
+      "address": "!MAI SINGH G N 7 MAMURA SEC 66   NOIDA DEL2 201301 201301!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMAYAN YADAV",
+      "name": "SANTOSH  KUMAR",
+      "num": "9958962766"
+    },
+    {
+      "aadhar": null,
+      "address": "!MAI SINGH G N 7 MAMURA SEC 66   NOIDA DEL2 201301 201301!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMAYAN YADAV",
+      "name": "SANTOSH  KUMAR",
+      "num": "9958962766"
+    }
+  ]
+}
