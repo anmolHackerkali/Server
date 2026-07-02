@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:13:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9933159842",
+  "records": [
+    {
+      "aadhar": "501411393752",
+      "address": " S/O Tapas Kumar Ghosh!! Khalakpur!NA!ELUNI!Eluni Keshpur Paschim Medinipur!NA!West Bengal!721260 ",
+      "alt": "7384605562",
+      "circle": "JIO KOLKATA",
+      "email": null,
+      "fname": "Tapas Kumar Ghosh",
+      "name": "Rajdip Ghosh",
+      "num": "9933159842"
+    },
+    {
+      "aadhar": "501411393752",
+      "address": " S/O Tapas Kumar Ghosh!! Khalakpur!NA!ELUNI!Eluni Keshpur Paschim Medinipur!NA!West Bengal!721260 ",
+      "alt": "7384605562",
+      "circle": "JIO KOL",
+      "email": "raazdeepghosh@gmail.com",
+      "fname": "Tapas Kumar Ghosh",
+      "name": "Rajdip Ghosh",
+      "num": "9933159842"
+    },
+    {
+      "aadhar": "501411393752",
+      "address": " S/O Tapas Kumar Ghosh!! Khalakpur!NA!ELUNI!Eluni Keshpur Paschim Medinipur!NA!West Bengal!721260 ",
+      "alt": "7384605562",
+      "circle": "JIO KOL",
+      "email": "raazdeepghosh@gmail.com",
+      "fname": "Tapas Kumar Ghosh",
+      "name": "Rajdip Ghosh",
+      "num": "9933159842"
+    }
+  ]
+}
