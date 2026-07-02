@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:04:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7217870700",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!520/12 Krishna colony!Krishna colony sector 7!Gurgaon Gurgaon!Haryana!122001",
+      "alt": "919813315503",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Premnath Nagpal",
+      "name": "Dinesh Nagpal",
+      "num": "7217870700"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 Nala Par!Balbir Nagar Extn!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7217870700"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 Nala Par!Balbir Nagar Extn!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7217870700"
+    },
+    {
+      "aadhar": null,
+      "address": "!!520/12Krishna colony!Krishna colony sector 7!GurgaonGurgaon!Haryana!122001",
+      "alt": "919718672111",
+      "circle": "JIO DELHI",
+      "email": "nagpalmehak12@gmail.com",
+      "fname": "Premnath Nagpal",
+      "name": "Dinesh Nagpal",
+      "num": "7217870700"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 Nala Par!Balbir Nagar Extn!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7217870700"
+    },
+    {
+      "aadhar": null,
+      "address": "!!520/12Krishna colony!Krishna colony sector 7!GurgaonGurgaon!Haryana!122001",
+      "alt": "919718672111",
+      "circle": "JIO DELHI",
+      "email": "nagpalmehak12@gmail.com",
+      "fname": "Premnath Nagpal",
+      "name": "Dinesh Nagpal",
+      "num": "7217870700"
+    }
+  ]
+}
