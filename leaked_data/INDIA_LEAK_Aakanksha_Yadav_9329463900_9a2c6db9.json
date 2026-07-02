@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:16:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9329463900",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 31/1 Arjun Singh Gouhar Nagar Vallabhnagar PO  Indore Indore  Madhya Pradesh 452003",
+      "alt": "9329463900",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Rajendra Yadav",
+      "name": "Aakanksha Yadav",
+      "num": "9039894624 "
+    },
+    {
+      "aadhar": "359740747359",
+      "address": "d/o  rajendra yadav!31/1!Arjun Singh Gouhar Nagar Vallabhnagar!near pardeshipura!ajun singh gouhar nagar!indore Indore!indore!Madhya Pradesh!452003",
+      "alt": "9329463900",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "rajendra yadav",
+      "name": "Aakanksha Yadav",
+      "num": "6268916502"
+    }
+  ]
+}
