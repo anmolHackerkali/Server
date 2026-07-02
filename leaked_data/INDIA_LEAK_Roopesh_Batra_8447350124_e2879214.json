@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 17:21:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8447350124",
+  "records": [
+    {
+      "aadhar": "DL0420160387093",
+      "address": " A 233 Hari Nagar Hari Nagar Hari Nagar Delhi West Delhi Delhi 110064",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajkumar Batra",
+      "name": "Roopesh Batra",
+      "num": "8447350124"
+    },
+    {
+      "aadhar": "DL0420160387093",
+      "address": "!A 233!Hari Nagar!Hari Nagar!Hari Nagar!Delhi!West Delhi!Delhi!110064",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajkumar Batra",
+      "name": "Roopesh Batra",
+      "num": "8447350124"
+    },
+    {
+      "aadhar": "DL0420160387093",
+      "address": "!A 233!Hari Nagar!Hari Nagar!Hari Nagar!Delhi!West Delhi!Delhi!110064",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajkumar Batra",
+      "name": "Roopesh Batra",
+      "num": "8447350124"
+    },
+    {
+      "aadhar": "DL-0420160387093",
+      "address": "Rajkumar batra!S/O RAJ KUMAR BATRA HNO-233!WEST DELHI NEAR GEETA BHAWAN WALI GALI!near Geeta bhawan wali gali!HARI NAGAR WEST DELHI!WEST DELHI!West Delhi!DELHI!110064",
+      "alt": "8447350124",
+      "circle": "VI DELHI",
+      "email": "BATRARAJU1969@GMAIL.COM",
+      "fname": "Rajkumar Batra",
+      "name": "MR  ROOPESH   BATRA",
+      "num": "9990707005"
+    },
+    {
+      "aadhar": "DL0420160387093",
+      "address": "Rajkumar batra!S/O RAJ KUMAR BATRA HNO-233!WEST DELHI NEAR GEETA BHAWAN WALI GALI!near Geeta bhawan wali gali!HARI NAGAR WEST DELHI!WEST DELHI!West Delhi!DELHI!110064",
+      "alt": "8447350124",
+      "circle": "VI DELHI",
+      "email": "BATRARAJU1969@GMAIL.COM",
+      "fname": "Rajkumar Batra",
+      "name": "MR  ROOPESH   BATRA",
+      "num": "9990707005"
+    },
+    {
+      "aadhar": "DL0420160387093",
+      "address": "Rajkumar batra!S/O RAJ KUMAR BATRA HNO-233!WEST DELHI NEAR GEETA BHAWAN WALI GALI!near Geeta bhawan wali gali!HARI NAGAR WEST DELHI!WEST DELHI!West Delhi!DELHI!110064",
+      "alt": "8447350124",
+      "circle": "VI DELHI",
+      "email": "BATRARAJU1969@GMAIL.COM",
+      "fname": "Rajkumar Batra",
+      "name": "MR  ROOPESH   BATRA",
+      "num": "9990707005"
+    }
+  ]
+}
