@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:11:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9933086772",
+  "records": [
+    {
+      "aadhar": "500358710628",
+      "address": "KUAPUR Kuapur  Kuanpur Chandrakona-II   Paschim Medinipur West Bengal 721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Madan chandra pan",
+      "name": "Shyamapada  Pan",
+      "num": "9933086772"
+    },
+    {
+      "aadhar": "500358710628",
+      "address": "!KUAPUR Kuapur!!!Paschim Medinipur Kuanpur Chandrakona-II!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Madan chandra pan",
+      "name": "Shyamapada  Pan",
+      "num": "9933086772"
+    },
+    {
+      "aadhar": "500358710628",
+      "address": "!KUAPUR Kuapur!!!Paschim Medinipur Kuanpur Chandrakona-II!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Madan chandra pan",
+      "name": "Shyamapada  Pan",
+      "num": "9933086772"
+    }
+  ]
+}
