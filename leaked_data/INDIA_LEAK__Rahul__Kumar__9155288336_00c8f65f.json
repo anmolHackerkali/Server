@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:23:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9155288336",
+  "records": [
+    {
+      "aadhar": "480695821261",
+      "address": " 12!PATEPUR!!WARD NO 14 SIMARWARA PATEPUR SIMARWARA DURGAPUR!Vaishali!!Bihar!843114 ",
+      "alt": "9525621832",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ravindra  Paswan ",
+      "name": " Rahul  Kumar ",
+      "num": "9155288336"
+    },
+    {
+      "aadhar": "480695821261",
+      "address": " 12!PATEPUR!!WARD NO 14 SIMARWARA PATEPUR SIMARWARA DURGAPUR!Vaishali!!Bihar!843114 ",
+      "alt": "9525621832",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ravindra  Paswan ",
+      "name": " Rahul  Kumar ",
+      "num": "9155288336"
+    }
+  ]
+}
