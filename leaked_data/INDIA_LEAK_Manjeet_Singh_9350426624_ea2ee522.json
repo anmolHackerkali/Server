@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:56:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9350426624",
+  "records": [
+    {
+      "aadhar": "481121416593",
+      "address": "!house no 569 d!model town!!model town!Panipat!Panipat!Haryana!132103",
+      "alt": "9991294476",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Joginder Singh",
+      "name": "Manjeet Singh",
+      "num": "9350426624"
+    },
+    {
+      "aadhar": "916769844742",
+      "address": "s/o manjeet singh!makan sankhya -569!model town!!vard model town panipat!panipat!panipat!Haryana!132103",
+      "alt": "9350426624",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "manjeet singh",
+      "name": "Gurpreet Singh",
+      "num": "9350094736"
+    }
+  ]
+}
