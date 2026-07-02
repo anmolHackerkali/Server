@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:28:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8957065893",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Late Afaq Hussain Ansari!!116/988 adarsh nagar ram lala road!rawatpur gaon!Rawatpur Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": "919335149150",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Late Afaq Hussain Ansari",
+      "name": "Seemaq Alam Ansari",
+      "num": "8957065893"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Late Afaq Hussain Ansari!!116/988 adarsh nagar ram lala road!rawatpur gaon!Rawatpur Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": "919335149150",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Late Afaq Hussain Ansari",
+      "name": "Seemaq Alam Ansari",
+      "num": "8957065893"
+    },
+    {
+      "aadhar": "654716107101",
+      "address": "S/O SANTLAL!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!razipur chhulaha!CHHEOLAHAFATEHPUR!FATEHPUR!UTTAR PRADESH!212650",
+      "alt": "8957065893",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Santlal",
+      "name": "MR. RAM VIKASH",
+      "num": "6390427580"
+    },
+    {
+      "aadhar": "769065474986",
+      "address": "! 12 yadav complax!kishna nagar!!kadodra!Bardoli!Surat!Gujarat!394327",
+      "alt": "8957065893",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Himanshu",
+      "num": "9016749897"
+    },
+    {
+      "aadhar": "654716107101",
+      "address": "S/O SANTLAL!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!razipur chhulaha!CHHEOLAHA FATEHPUR!FATEHPUR!UTTAR PRADESH!212650",
+      "alt": "8957065893",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santlal",
+      "name": "MR RAM VIKASH",
+      "num": "6390427580"
+    },
+    {
+      "aadhar": "769065474986",
+      "address": "! 12 yadav complax!kishna nagar!!kadodra!Bardoli!Surat!Gujarat!394327",
+      "alt": "8957065893",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Himanshu",
+      "num": "9016749897"
+    },
+    {
+      "aadhar": "654716107101",
+      "address": "S/O SANTLAL!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!DIWAN KA PURVA MAJARE HASAUPUR PO HASAUP!razipur chhulaha!CHHEOLAHA FATEHPUR!FATEHPUR!UTTAR PRADESH!212650",
+      "alt": "8957065893",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santlal",
+      "name": "MR RAM VIKASH",
+      "num": "6390427580"
+    },
+    {
+      "aadhar": "769065474986",
+      "address": "! 12 yadav complax!kishna nagar!!kadodra!Bardoli!Surat!Gujarat!394327",
+      "alt": "8957065893",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Himanshu",
+      "num": "9016749897"
+    }
+  ]
+}
