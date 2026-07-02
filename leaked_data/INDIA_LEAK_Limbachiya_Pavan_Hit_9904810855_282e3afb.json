@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:01:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9904810855",
+  "records": [
+    {
+      "aadhar": "924290513167",
+      "address": "1254!Om Nagar Society Near Umiya Matanu Mandir Udhna!Dindoli!Chorasi-Chorasi-Surat!394210",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O  Hitendrakumar Limbachiya",
+      "name": "Limbachiya Pavan Hitendrakumar",
+      "num": "9904810855"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hitendrakumar Limbachiya!!1254 Om Nagar Society Near Umiya Matanu Mandir!Dindoli!Chorasi Surat!Gujarat!394210",
+      "alt": "919327576066",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Hitendrakumar Limbachiya",
+      "name": "Limbachiya Pavan Hitendrakumar",
+      "num": "9904810855"
+    },
+    {
+      "aadhar": "924290513167",
+      "address": "1254!Om Nagar Society Near Umiya Matanu Mandir Udhna!Dindoli!Chorasi-Chorasi-Surat!394210",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O  Hitendrakumar Limbachiya",
+      "name": "Limbachiya Pavan Hitendrakumar",
+      "num": "9904810855"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hitendrakumar Limbachiya!!1254 Om Nagar Society Near Umiya Matanu Mandir!Dindoli!Chorasi Surat!Gujarat!394210",
+      "alt": "919327576066",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Hitendrakumar Limbachiya",
+      "name": "Limbachiya Pavan Hitendrakumar",
+      "num": "9904810855"
+    },
+    {
+      "aadhar": "924290513167",
+      "address": "1254!Om Nagar Society Near Umiya Matanu Mandir Udhna!Dindoli!Chorasi-Chorasi-Surat!394210",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O  Hitendrakumar Limbachiya",
+      "name": "Limbachiya Pavan Hitendrakumar",
+      "num": "9904810855"
+    }
+  ]
+}
