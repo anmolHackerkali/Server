@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:37:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809998912",
+  "records": [
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari po bishanpur Bisanpur!NA!ps saharghat!Bishunpur Benipatti Madhubani!NA!Bihar!847102",
+      "alt": "8813070792",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8809998912"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari po bishanpur Bisanpur!NA!ps saharghat!Bishunpur Benipatti Madhubani!NA!Bihar!847102",
+      "alt": "8813070792",
+      "circle": "JIO BHR&JHR",
+      "email": "sonukrnirala1995@gmail.com",
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8809998912"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari po bishanpur Bisanpur!NA!ps saharghat!Bishunpur Benipatti Madhubani!NA!Bihar!847102",
+      "alt": "8813070792",
+      "circle": "JIO BHR&JHR",
+      "email": "sonukrnirala1995@gmail.com",
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8809998912"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari Bisanpur!po bishanpur!ps saharghat!Bishunpur Benipatti!Madhubani!Bihar!847102",
+      "alt": "8809998912",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8813070792"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari Bisanpur!po bishanpur!ps saharghat!Bishunpur Benipatti!Madhubani!Bihar!847102",
+      "alt": "8809998912",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8813070792"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "!120!vill Pakari po bishanpur!near devi Mandir!Madhwapur!Madhubani ps sharghat bishunpur!Madhubani!Bihar!847102",
+      "alt": "8809998912",
+      "circle": "JIO BHR&JHR",
+      "email": "sm9teen@gmail.com",
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8002887343"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "S/O  Bhagya Narayan Ray!!vill pakari Bisanpur!po bishanpur!ps saharghat!Bishunpur Benipatti!Madhubani!Bihar!847102",
+      "alt": "8809998912",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8813070792"
+    },
+    {
+      "aadhar": "644298874556",
+      "address": "!120!vill Pakari po bishanpur!near devi Mandir!Madhwapur!Madhubani ps sharghat bishunpur!Madhubani!Bihar!847102",
+      "alt": "8809998912",
+      "circle": "JIO BHR&JHR",
+      "email": "sm9teen@gmail.com",
+      "fname": "Bhagya Narayan Ray",
+      "name": "Sonu Kumar",
+      "num": "8002887343"
+    }
+  ]
+}
