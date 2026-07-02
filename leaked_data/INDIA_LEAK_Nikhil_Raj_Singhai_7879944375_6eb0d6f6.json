@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 04:12:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7879944375",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Raj Kumar!!civil ward 7 old housing board colony MIG 83!damoh!Damoh KHAS Damoh!Madhya Pradesh!470661",
+      "alt": "917974547653",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Raj Kumar",
+      "name": "Nikhil Raj Singhai",
+      "num": "7879944375"
+    },
+    {
+      "aadhar": null,
+      "address": " 548 Kanchghar  Dr Shyama Prasad Mukarjee Ward 43 Jabalpur  Madhya Pradesh 482001",
+      "alt": "7879944375",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Kesho Meshram",
+      "name": "Shekhar Meshram",
+      "num": "9039370885 "
+    },
+    {
+      "aadhar": "YJX1673706",
+      "address": "!13/3!TEHSIL JABALPUR Durga Mandir!Durga Mandir!KANCHGHAR HOUSING BOARD COLONY JABALPUR   KATNI!BARGI!KATNI!Madhya Pradesh!482002",
+      "alt": "7879944375",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Gudda Kol",
+      "name": "MRS SHASHI KOL",
+      "num": "7566452845"
+    }
+  ]
+}
