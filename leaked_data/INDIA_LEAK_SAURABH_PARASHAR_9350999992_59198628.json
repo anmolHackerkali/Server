@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:10:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9350999992",
+  "records": [
+    {
+      "aadhar": "811927967588",
+      "address": "Dd Shrma!J-18 A   FIRST FLOOR!ARYA SAMAJ ROAD!  UTTAM NAGAR!D K MOHAN GARDEN SO-WEST DELHI!DL!110059",
+      "alt": "9871413444",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DD SHRMA  ",
+      "name": "SAURABH PARASHAR",
+      "num": "9350999992"
+    },
+    {
+      "aadhar": "811927967588",
+      "address": "Dd Shrma!J-18 A  FIRST FLOOR!ARYA SAMAJ ROAD!UTTAM NAGAR!D K MOHAN GARDEN SO-WEST DELHI!DL!110059",
+      "alt": "9871413444",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DD SHRMA ",
+      "name": "SAURABHPARASHAR",
+      "num": "9350999992"
+    },
+    {
+      "aadhar": "811927967588",
+      "address": "Dd Shrma!J-18 A  FIRST FLOOR!ARYA SAMAJ ROAD!UTTAM NAGAR!D K MOHAN GARDEN SO-WEST DELHI!DL!110059",
+      "alt": "9871413444",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "DD SHRMA ",
+      "name": "SAURABHPARASHAR",
+      "num": "9350999992"
+    }
+  ]
+}
