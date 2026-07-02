@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6397551486",
+  "records": [
+    {
+      "aadhar": "365305596349",
+      "address": "S/O  Iliyas Khan!229!Tauli!!Ahamad Nagar Urf Touli  Tauli  Bulandshahr  Anupshahr!Ahamad Nagar Urf TouliAnupshahr!Bulandshahr!Uttar Pradesh!202394",
+      "alt": "8979682906",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Iliyas Khan",
+      "name": "Shahnawaz",
+      "num": "6397551486"
+    },
+    {
+      "aadhar": "365305596349",
+      "address": "S/O  Iliyas Khan! 229!Tauli!!Ahamad Nagar Urf Touli Tauli Bulandshahr Anupshahr!Ahamad Nagar Urf Touli Anupshahr!Bulandshahr!Uttar Pradesh!202394",
+      "alt": "8979682906",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Iliyas Khan",
+      "name": "Shahnawaz",
+      "num": "6397551486"
+    },
+    {
+      "aadhar": "365305596349",
+      "address": "S/O  Iliyas Khan! 229!Tauli!!Ahamad Nagar Urf Touli Tauli Bulandshahr Anupshahr!Ahamad Nagar Urf Touli Anupshahr!Bulandshahr!Uttar Pradesh!202394",
+      "alt": "8979682906",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Iliyas Khan",
+      "name": "Shahnawaz",
+      "num": "6397551486"
+    },
+    {
+      "aadhar": "703714342623",
+      "address": "!!gurkul narsanGURUKUL NAARASANGurkul Narsan!NA!brahampur jatt!BarampurRoorkeeHaridwar!NA!Uttarakhand!247670",
+      "alt": "6397551486",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "NIRDESH PAL MALIK",
+      "name": "Nishant Malik",
+      "num": "9897085630"
+    }
+  ]
+}
