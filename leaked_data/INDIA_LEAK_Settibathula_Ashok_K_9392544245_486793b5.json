@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:23:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9392544245",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Saibabu!!3-15 Goganna Mattam cenima hall center!Goganna Mattam!Gogannamattam East Godavari!Andhra Pradesh!533248",
+      "alt": "919618727059",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Saibabu",
+      "name": "Settibathula Ashok Kumar",
+      "num": "9392544245"
+    }
+  ]
+}
