@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 19:19:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795573641",
+  "records": [
+    {
+      "aadhar": "789348424011",
+      "address": "s/o  devendra!51!shahpur!shahpur!shahpur!harbanshpur!gonda!Uttar Pradesh!271319",
+      "alt": "9580849912",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "devendra",
+      "name": "Aman Mishra",
+      "num": "9795573641"
+    },
+    {
+      "aadhar": "789348424011",
+      "address": "s/o  devendra!51!shahpur!shahpur!shahpur!harbanshpur!gonda!Uttar Pradesh!271319",
+      "alt": "9580849912",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "devendra",
+      "name": "Aman Mishra",
+      "num": "9795573641"
+    }
+  ]
+}
