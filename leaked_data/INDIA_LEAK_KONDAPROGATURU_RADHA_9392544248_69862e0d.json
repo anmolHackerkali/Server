@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:22:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9392544248",
+  "records": [
+    {
+      "aadhar": "356119162772",
+      "address": "HNO 10-27!PEERUSAHEB PETA!andhra pradesh!MIDTHUR PEERUSAHEB PETA Midthur Midthur!Kurnool!Kurnool!Andhra Pradesh!518405",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Raghu Rami Reddy",
+      "name": "KONDAPROGATURU RADHA",
+      "num": "9392544248"
+    }
+  ]
+}
