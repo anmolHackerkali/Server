@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:12:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871265024",
+  "records": [
+    {
+      "aadhar": "671111980835",
+      "address": "W/O Deepak Kumar!563  X-BLOCK  Mangol Puri!!!North West Delhi!Delhi!110083",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deepak  Kumar",
+      "name": "Divya",
+      "num": "9871265024"
+    },
+    {
+      "aadhar": null,
+      "address": "Kamal Ahmed!A254 1st Floor!Street No 09!Wazirabad Village!WazirabadNorth Delhi!Delhi!110084",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kamal Ahmed",
+      "name": "SIDRA TABASSUM",
+      "num": "9871265024"
+    },
+    {
+      "aadhar": "671111980835",
+      "address": "W/O Deepak Kumar!563  X-BLOCK  Mangol Puri!!!North West Delhi!Delhi!110083",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deepak  Kumar",
+      "name": "Divya",
+      "num": "9871265024"
+    },
+    {
+      "aadhar": "671111980835",
+      "address": "W/O Deepak Kumar!563  X-BLOCK  Mangol Puri!!!North West Delhi!Delhi!110083",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deepak  Kumar",
+      "name": "Divya",
+      "num": "9871265024"
+    },
+    {
+      "aadhar": null,
+      "address": "Kamal Ahmed!A254 1st Floor!Street No 09!Wazirabad Village!WazirabadNorth Delhi!Delhi!110084",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kamal Ahmed",
+      "name": "SIDRA TABASSUM",
+      "num": "9871265024"
+    },
+    {
+      "aadhar": "889778790116",
+      "address": "S/O  Bahar Shekh!S/O  Bahar Shekh  c-127!indra kalyan vihar!Okhla Industrial Area Phase-1  Kalkaji !OKHLA INDUSTRIAL AREA PHASE-I-SOUTH DELHI!DL!110020",
+      "alt": "9871265024",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "BAHAR SHEKH",
+      "name": "MD SHAHJAD",
+      "num": "8750173842"
+    },
+    {
+      "aadhar": "889778790116",
+      "address": "S/O: Bahar Shekh!S/O: Bahar Shekh c-127!indra kalyan vihar!Okhla Industrial Area Phase-1 Kalkaji!OKHLA INDUSTRIAL AREA PHASE-I-SOUTH DELHI!DL!110020",
+      "alt": "9871265024",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "BAHAR SHEKH",
+      "name": "MDSHAHJAD",
+      "num": "8750173842"
+    },
+    {
+      "aadhar": "889778790116",
+      "address": "S/O: Bahar Shekh!S/O: Bahar Shekh c-127!indra kalyan vihar!Okhla Industrial Area Phase-1 Kalkaji!OKHLA INDUSTRIAL AREA PHASE-I-SOUTH DELHI!DL!110020",
+      "alt": "9871265024",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "BAHAR SHEKH",
+      "name": "MDSHAHJAD",
+      "num": "8750173842"
+    }
+  ]
+}
