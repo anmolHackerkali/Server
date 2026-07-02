@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 02:16:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8054609602",
+  "records": [
+    {
+      "aadhar": "415911052034",
+      "address": "S/O Gokul Kotiya Madara!Gonda!Gonda!!Gonda!Gonda!Gonda!Uttar Pradesh!271503",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gokul Kotiya Madara",
+      "name": "Nanhe",
+      "num": "8054609602"
+    },
+    {
+      "aadhar": "415911052034",
+      "address": "S/O Gokul Kotiya Madara!Gonda!Gonda!!Gonda!Gonda!Gonda!Uttar Pradesh!271503",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gokul Kotiya Madara",
+      "name": "Nanhe",
+      "num": "8054609602"
+    }
+  ]
+}
