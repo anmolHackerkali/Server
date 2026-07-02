@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:23:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905266345",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Sunil Sahai!Plot No. 36!Arazi No. 82!Anand Nagar Rawatpur gaon Rawatpur!Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunil Sahai",
+      "name": "Sanjeev Sahai",
+      "num": "7905266345"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sunil Sahai!Plot No. 36!Arazi No. 82!Anand Nagar Rawatpur gaon Rawatpur!Kanpur Nagar!Uttar Pradesh!208019",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunil Sahai",
+      "name": "Sanjeev Sahai",
+      "num": "7905266345"
+    }
+  ]
+}
