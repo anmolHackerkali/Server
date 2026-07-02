@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 04:48:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9910865901",
+  "records": [
+    {
+      "aadhar": "887992476898",
+      "address": "S/O Jagdish Yadav!21 JEMINI PARK NANGLI SAKRAWATI NAJAFGARH!!!South West Delhi!Delhi!110043",
+      "alt": "8527189617",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Jagdish  Yadav",
+      "name": "Kishan  Yadav",
+      "num": "9910865901"
+    },
+    {
+      "aadhar": "887992476898",
+      "address": "S/O Jagdish Yadav!21 JEMINI PARKNANGLI SAKRAWATI NAJAFGARH!!!South West Delhi!Delhi!110043",
+      "alt": "8527189617",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish  Yadav",
+      "name": "Kishan  Yadav",
+      "num": "9910865901"
+    },
+    {
+      "aadhar": "887992476898",
+      "address": "S/O Jagdish Yadav!21 JEMINI PARKNANGLI SAKRAWATI NAJAFGARH!!!South West Delhi!Delhi!110043",
+      "alt": "8527189617",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagdish  Yadav",
+      "name": "Kishan  Yadav",
+      "num": "9910865901"
+    }
+  ]
+}
