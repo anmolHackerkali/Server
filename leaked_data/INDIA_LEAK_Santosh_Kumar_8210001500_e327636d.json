@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:33:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210001500",
+  "records": [
+    {
+      "aadhar": "910777981845",
+      "address": "S/O  Ram Baran Singh!!ward no 10!mokhtiyarpur!Mukhtiarpur Begusarai!Bihar!851133",
+      "alt": "918051881178",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh Kumar",
+      "num": "8210001500"
+    },
+    {
+      "aadhar": "910777981845",
+      "address": "S/O  Ram Baran Singh!!ward no 10!mokhtiyarpur!Mukhtiarpur Begusarai!Bihar!851133",
+      "alt": "918051881178",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh Kumar",
+      "num": "8210001500"
+    },
+    {
+      "aadhar": "910777981845",
+      "address": "S/O  Ram Baran Singh!!ward no 10!mokhtiyarpur!Mukhtiarpur Begusarai!Bihar!851133",
+      "alt": "918051881178",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh Kumar",
+      "num": "8210001500"
+    },
+    {
+      "aadhar": "910777981845",
+      "address": "S/O  Ram Baran Singh!!ward no 10 Mukhtiyarpur!!mokhtiyarpur!Mukhtiarpur Bhagwanpur!Begusarai!Bihar!851133",
+      "alt": "8210001500",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh Kumar",
+      "num": "8051881178"
+    },
+    {
+      "aadhar": "910777981845",
+      "address": "S/O  Ram Baran Singh!!ward no 10 Mukhtiyarpur!!mokhtiyarpur!Mukhtiarpur Bhagwanpur!Begusarai!Bihar!851133",
+      "alt": "8210001500",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Baran Singh",
+      "name": "Santosh Kumar",
+      "num": "8051881178"
+    }
+  ]
+}
