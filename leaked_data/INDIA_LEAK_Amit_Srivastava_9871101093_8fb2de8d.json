@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:00:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871101093",
+  "records": [
+    {
+      "aadhar": "860553898154",
+      "address": "!!195/1 Munna LAL Thakur Dwara Babhanganwa Dhrmashala Road Amhut!NA!Basti!Basti Basti!NA!Uttar Pradesh!272001",
+      "alt": "9871101093",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ajay Kumar Srivastava",
+      "name": "Amit Srivastava",
+      "num": "8081680270"
+    },
+    {
+      "aadhar": "860553898154",
+      "address": "!!195/1 Munna LAL Thakur Dwara Babhanganwa Dhrmashala Road Amhut!NA!Basti!Basti Basti!NA!Uttar Pradesh!272001",
+      "alt": "9871101093",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ajay Kumar Srivastava",
+      "name": "Amit Srivastava",
+      "num": "8081680270"
+    }
+  ]
+}
