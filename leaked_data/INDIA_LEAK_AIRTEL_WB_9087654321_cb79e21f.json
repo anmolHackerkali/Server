@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:44:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9087654321",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Prahalad  Adak",
+      "alt": "Nimai  Adak",
+      "circle": "Paschimpara    Nimdangi Hooghly West Bengal 712414",
+      "email": null,
+      "fname": "9932616585",
+      "name": "AIRTEL WB",
+      "num": "9087654321"
+    },
+    {
+      "aadhar": "314617314935",
+      "address": "s/o  manoj kumar singh!!Teldiha!!teldiha teldiha!teldiha Madanpur!aurangabad!Bihar!824103",
+      "alt": "9087654321",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "manoj kumar singh",
+      "name": "Subham Kumar",
+      "num": "6207104378"
+    },
+    {
+      "aadhar": null,
+      "address": "Netra Netra Netra  South 24 Parganas Netra West Bengal 743368",
+      "alt": "9087654321",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "amaiuddin  sanpui",
+      "name": "Safi Alam Sanpui",
+      "num": "9932616586"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jamser Laskar Lakshmipur Lakshmipur  South 24 Parganas Lakshmipur West Bengal 743368",
+      "alt": "9087654321",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Jamser  Laskar",
+      "name": "JAHIR UDDIN LASKAR",
+      "num": "9932615991"
+    },
+    {
+      "aadhar": "808242723671",
+      "address": "S/O Vinda Prasad Verma!Village-Kolhuara!!Post-Narga Naranga!!Samastipur!Bihar!848102",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Vinda Prasad Verma",
+      "name": "Kedar Nath Sinha",
+      "num": "9934488454"
+    },
+    {
+      "aadhar": "706990565667",
+      "address": "S/O Mehilal Singh!Madua Pataria!!!!Jehanabad Pataria Jehanabad!Bihar!804454",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mehilal  Singh",
+      "name": "Upendra  Singh",
+      "num": "9771813188"
+    },
+    {
+      "aadhar": "957358370982",
+      "address": "S/O  Jay Chandra Sah!S/O  Jay Chandra Sah!Mathurapur ward No 01 Thana Warishnagar!Mathurapur  Warisnagar !MATHURAPUR-SAMASTIPUR!BR!848101",
+      "alt": "9087654321",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "JAY CHANDRA Chandra SAH",
+      "name": "SHIV KUMAR GUPTA",
+      "num": "9525550348"
+    },
+    {
+      "aadhar": "712097363002",
+      "address": "!!Dudhaila bazarSonepur!Saran!!Saran!Bihar!841101",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajkishor Singh",
+      "name": "Uday Pratap Singh",
+      "num": "8862957007"
+    },
+    {
+      "aadhar": "872004907946",
+      "address": "!!Mathurapurmathurapur!Samastipur!!Samastipur!Bihar!848101",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Kumar Mahto",
+      "name": "Vikki Kumar",
+      "num": "7479838334"
+    },
+    {
+      "aadhar": "963377243492",
+      "address": "!!ward no. 18Begampurvillagedaulatpur!Samastipur!!Samastipur!Bihar!848101",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Maheshwar Pandit",
+      "name": "Ganesh Pandit",
+      "num": "7479838335"
+    },
+    {
+      "aadhar": "719550733977",
+      "address": "!!ward no 02Mathurapur Mathurapur!Samastipur!!Samastipur!Bihar!848101",
+      "alt": "9087654321",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajender Mahto",
+      "name": "Amit Kumar",
+      "num": "7479838266"
+    },
+    {
+      "aadhar": "314617314935",
+      "address": "s/o  manoj kumar singh!!Teldiha!!teldiha teldiha!teldiha Madanpur!aurangabad!Bihar!824103",
+      "alt": "9087654321",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "manoj kumar singh",
+      "name": "Subham Kumar",
+      "num": "6207104378"
+    },
+    {
+      "aadhar": "336836376385",
+      "address": " !104!Firozabad!Firozabad!Firozabad!Uttar Pradesh!283203 ",
+      "alt": "9087654321",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Dr.Amar  Prakash ",
+      "name": " Shrimti  Rajesh ",
+      "num": "9084545101"
+    },
+    {
+      "aadhar": "871612009064",
+      "address": "!Mithanepurnaseerpur!!!Sultanpur!Uttar Pradesh!228145",
+      "alt": "9087654321",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mukhtar",
+      "name": "Taslima",
+      "num": "8543932810"
+    },
+    {
+      "aadhar": "764190399587",
+      "address": "S/O: Mahijibhai Thakor!S/O: Mahijibhai Thakor  114-2!Rajasthan Colony  Karamsad-388325!Karamsad  Anand Devrajpura Road!VALASAN-ANAND!GJ!388325",
+      "alt": "9087654321",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "MAHIJIBHAI THAKOR",
+      "name": "RAMESHBHAI THAKOR",
+      "num": "9723273824"
+    }
+  ]
+}
