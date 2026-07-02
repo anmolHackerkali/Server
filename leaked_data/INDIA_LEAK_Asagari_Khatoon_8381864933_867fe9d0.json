@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 17:56:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8381864933",
+  "records": [
+    {
+      "aadhar": "289439700016",
+      "address": "!47!Hushain Nagar!!Madanpur!Deoria!!Uttar Pradesh!274205",
+      "alt": "7897008933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vashiullah Shaikh",
+      "name": "Asagari Khatoon",
+      "num": "8381864933"
+    },
+    {
+      "aadhar": "289439700016",
+      "address": "!47!Hushain Nagar!!Madanpur!Deoria!!Uttar Pradesh!274205",
+      "alt": "7897008933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vashiullah Shaikh",
+      "name": "Asagari Khatoon",
+      "num": "8381864933"
+    }
+  ]
+}
