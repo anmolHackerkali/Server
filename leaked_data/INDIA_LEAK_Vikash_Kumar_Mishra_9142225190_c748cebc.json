@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:43:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142225190",
+  "records": [
+    {
+      "aadhar": "874199876158",
+      "address": "s/o  naval kishor mishra! ward no 28!Bagaha!Ward No 28!marwari tola bagaha!bagaha Bagaha!west champaran!Bihar!845101",
+      "alt": "9661728801",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "naval kishor mishra",
+      "name": "Vikash Kumar Mishra",
+      "num": "9142225190"
+    },
+    {
+      "aadhar": "874199876158",
+      "address": "s/o  naval kishor mishra! ward no 28!Bagaha!Ward No 28!marwari tola bagaha!bagaha Bagaha!west champaran!Bihar!845101",
+      "alt": "9661728801",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "naval kishor mishra",
+      "name": "Vikash Kumar Mishra",
+      "num": "9142225190"
+    },
+    {
+      "aadhar": "874199876158",
+      "address": "s/o  naval kishor mishra! ward no 28!Bagaha!Ward No 28!marwari tola bagaha!bagaha Bagaha!west champaran!Bihar!845101",
+      "alt": "9661728801",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "naval kishor mishra",
+      "name": "Vikash Kumar Mishra",
+      "num": "9142225190"
+    }
+  ]
+}
