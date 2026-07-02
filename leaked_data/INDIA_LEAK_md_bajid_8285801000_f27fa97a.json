@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:07:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8285801000",
+  "records": [
+    {
+      "aadhar": "874111108839",
+      "address": "S/O Jakir Hussain!Jalpura Greater Noida!Kulesara!!Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jakir Hussain",
+      "name": "md bajid",
+      "num": "8285801000"
+    },
+    {
+      "aadhar": "874111108839",
+      "address": "S/O Jakir Hussain!Jalpura Greater Noida!Kulesara!!Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jakir Hussain",
+      "name": "md bajid",
+      "num": "8285801000"
+    },
+    {
+      "aadhar": "874111108839",
+      "address": "S/O Jakir Hussain!Jalpura Greater Noida!Kulesara!!Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jakir Hussain",
+      "name": "md bajid",
+      "num": "8285801000"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jakir Hussain! ! !Jalpura Greater Noida Gautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!201306",
+      "alt": "8285801000",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Jakir Hussain",
+      "name": "Md Bajid",
+      "num": "9540556002"
+    },
+    {
+      "aadhar": "981524909084",
+      "address": "! hause no 106!bishrakh road jalpura!ayan national public school!Jalpura!Kulesara!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ahmad",
+      "name": "Jakir",
+      "num": "9412871392"
+    },
+    {
+      "aadhar": "874111108839",
+      "address": "s/o  jakir hussain!house no 39!kuleshra dadri road!axis bank atm!jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jakir hussain",
+      "name": "Md Bajid",
+      "num": "8810605901"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jakir Hussain!!!Jalpura Greater NoidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!201306",
+      "alt": "8285801000",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Jakir Hussain",
+      "name": "Md Bajid",
+      "num": "9540556002"
+    },
+    {
+      "aadhar": "981524909084",
+      "address": "!hause no 106!bishrakh road jalpura!ayan national public school!Jalpura!Kulesara!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ahmad",
+      "name": "Jakir",
+      "num": "9412871392"
+    },
+    {
+      "aadhar": "874111108839",
+      "address": "s/o  jakir hussain!house no 39!kuleshra dadri road!axis bank atm!jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jakir hussain",
+      "name": "Md Bajid",
+      "num": "8810605901"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jakir Hussain!!!Jalpura Greater NoidaGautam Buddha Nagar!!GAUTAM BUDDHA NAGAR!Gautam Buddha Nagar!UTTAR PRADESH!201306",
+      "alt": "8285801000",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Jakir Hussain",
+      "name": "Md Bajid",
+      "num": "9540556002"
+    },
+    {
+      "aadhar": "981524909084",
+      "address": "!hause no 106!bishrakh road jalpura!ayan national public school!Jalpura!Kulesara!Gautam Buddha Nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ahmad",
+      "name": "Jakir",
+      "num": "9412871392"
+    },
+    {
+      "aadhar": "874111108839",
+      "address": "s/o  jakir hussain!house no 39!kuleshra dadri road!axis bank atm!jalpura greater noida!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8285801000",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "jakir hussain",
+      "name": "Md Bajid",
+      "num": "8810605901"
+    }
+  ]
+}
