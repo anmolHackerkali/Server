@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 19:34:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9852223846",
+  "records": [
+    {
+      "aadhar": "773598516004",
+      "address": " Momin tola!Sahebganj!!Mohanpur Bhagalpur!Bhagalpur!Bhagalpur!Bihar!812004 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Late Hasibur Rahman ",
+      "name": " Bibi Tabassum ",
+      "num": "9852223846"
+    },
+    {
+      "aadhar": "773598516004",
+      "address": " Momin tola!Sahebganj!!Mohanpur Bhagalpur!Bhagalpur!Bhagalpur!Bihar!812004 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Late Hasibur Rahman ",
+      "name": " Bibi Tabassum ",
+      "num": "9852223846"
+    }
+  ]
+}
