@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:37:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203238694",
+  "records": [
+    {
+      "aadhar": "738194039975",
+      "address": "S/O  Pramanand Sah!!Ward-14  Suja!!Suja Begusarai Begusarai!Bihar!851218",
+      "alt": "917004093705",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Pramanand Sah",
+      "name": "Vickey Kumar",
+      "num": "6203238694"
+    },
+    {
+      "aadhar": "738194039975",
+      "address": "S/O  Pramanand Sah!!Ward-14  Suja!!Suja Begusarai Begusarai!Bihar!851218",
+      "alt": "917004093705",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Pramanand Sah",
+      "name": "Vickey Kumar",
+      "num": "6203238694"
+    },
+    {
+      "aadhar": "738194039975",
+      "address": "S/O  Pramanand Sah!!Ward-14  Suja!!Suja Begusarai Begusarai!Bihar!851218",
+      "alt": "917004093705",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Pramanand Sah",
+      "name": "Vickey Kumar",
+      "num": "6203238694"
+    }
+  ]
+}
