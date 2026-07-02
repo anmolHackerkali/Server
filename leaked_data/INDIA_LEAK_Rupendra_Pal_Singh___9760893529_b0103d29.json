@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 16:44:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9760893529",
+  "records": [
+    {
+      "aadhar": "516183579276",
+      "address": "s/o dronpal. singh. post shivpuri radhouli!!post shivpuri radhouli ganv shivpuri radhouli fatheganj!!Faridpur!faheganj!bareilly!Uttar Pradesh!243506",
+      "alt": "9149241095",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "dronpal singh",
+      "name": "Rupendra Pal Singh  ",
+      "num": "9760893529"
+    },
+    {
+      "aadhar": "516183579276",
+      "address": "s/o dronpal. singh. post shivpuri radhouli!!post shivpuri radhouli ganv shivpuri radhouli fatheganj!!Faridpur!faheganj!bareilly!Uttar Pradesh!243506",
+      "alt": "9149241095",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "dronpal singh",
+      "name": "Rupendra Pal Singh",
+      "num": "9760893529"
+    },
+    {
+      "aadhar": "516183579276",
+      "address": "s/o dronpal. singh. post shivpuri radhouli!!post shivpuri radhouli ganv shivpuri radhouli fatheganj!!Faridpur!faheganj!bareilly!Uttar Pradesh!243506",
+      "alt": "9149241095",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "dronpal singh",
+      "name": "Rupendra Pal Singh",
+      "num": "9760893529"
+    },
+    {
+      "aadhar": "516183579276",
+      "address": "S/O Dronpal Singh!!Shivpuri Raudhauli!SHIVPURI RADHULI!shivpuri radhuli shivpuri faridpur!shivpuri raudhauliFaridpur!bareilly!Uttar Pradesh!243506",
+      "alt": "9760893529",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Dronpal Singh",
+      "name": "Upendra Pal Singh  ",
+      "num": "9149241095"
+    },
+    {
+      "aadhar": "516183579276",
+      "address": "0SHIVPURI RADHULI  Shivpuri  FaridpurSHIVPURI RADHULI  Shivpuri  FaridpurSHIVPURI RADHULI  Shivpuri  Faridpur BAREILLYAONLA  BAREILLYBAREILLYUTTAR PRADESH243506",
+      "alt": "9760893529",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "DRONPAL SINGH",
+      "name": "MR UPENDRA PAL SINGH",
+      "num": "9758168964"
+    },
+    {
+      "aadhar": "516183579276",
+      "address": "0SHIVPURI RADHULI  Shivpuri  FaridpurSHIVPURI RADHULI  Shivpuri  FaridpurSHIVPURI RADHULI  Shivpuri  Faridpur BAREILLYAONLA  BAREILLYBAREILLYUTTAR PRADESH243506",
+      "alt": "9760893529",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "DRONPAL SINGH",
+      "name": "MR UPENDRA PAL SINGH",
+      "num": "9758168964"
+    }
+  ]
+}
