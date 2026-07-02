@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 09:00:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9120630914",
+  "records": [
+    {
+      "aadhar": "741186711305",
+      "address": "S/O Babunandan!13!nasirpur kodari!Ghazipur!post kodari Nasirpur Kodari!Ghazipur!Ghazipur!Uttar Pradesh!233226",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babunandan",
+      "name": "Mishri",
+      "num": "9120630914"
+    },
+    {
+      "aadhar": "741186711305",
+      "address": "S/O Babunandan!13!nasirpur kodari!Ghazipur!post kodari Nasirpur Kodari!Ghazipur!Ghazipur!Uttar Pradesh!233226",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babunandan",
+      "name": "Mishri",
+      "num": "9120630914"
+    },
+    {
+      "aadhar": "780411987153",
+      "address": "d/o  mishri rajbhar!!Mardah!!village- nasirpur kondari post- kondari mardah!nasirpur kodari Jakhanian!ghazipur!Uttar Pradesh!233226",
+      "alt": "9120630914",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mishri rajbhar",
+      "name": "Guniya Rajbhar",
+      "num": "8470837303"
+    },
+    {
+      "aadhar": "780411987153",
+      "address": "d/o  mishri rajbhar!!Mardah!!village- nasirpur kondari post- kondari mardah!nasirpur kodari Jakhanian!ghazipur!Uttar Pradesh!233226",
+      "alt": "9120630914",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mishri rajbhar",
+      "name": "Guniya Rajbhar",
+      "num": "8470837303"
+    }
+  ]
+}
