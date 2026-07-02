@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 00:37:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7800523450",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Hirdayanand!!Savraji Mani!Belwa Bazar!Rampur Khas Deoria!Uttar Pradesh!274405",
+      "alt": "919454358501",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Hirdayanand",
+      "name": "Vinay Kumar Pathak",
+      "num": "7800523450"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hirdayanand!!Savraji Mani!Belwa Bazar!Rampur Khas Deoria!Uttar Pradesh!274405",
+      "alt": "919454358501",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Hirdayanand",
+      "name": "Vinay Kumar Pathak",
+      "num": "7800523450"
+    }
+  ]
+}
