@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 04:46:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9118082024",
+  "records": [
+    {
+      "aadhar": "203575213401",
+      "address": "!Subhash Tiwari!Dawanadih!post pandeykodar  dawanadih!kodarpandey  gorakhpur!Gorakhpur!Gorakhpur!Uttar Pradesh!273412",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Subhash Tiwari",
+      "name": "Ram Govind Tiwari",
+      "num": "9118082024"
+    },
+    {
+      "aadhar": "203575213401",
+      "address": "!Subhash Tiwari!Dawanadih!post pandeykodar  dawanadih!kodarpandey  gorakhpur!Gorakhpur!Gorakhpur!Uttar Pradesh!273412",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Subhash Tiwari",
+      "name": "Ram Govind Tiwari",
+      "num": "9118082024"
+    }
+  ]
+}
