@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 18:08:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9654755649",
+  "records": [
+    {
+      "aadhar": "513366959344",
+      "address": "s/o  heera lal!65!vidyapati colony jalpura greter noida!kulesara!gautam buddha nagar!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8860647460",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Sundar Kumar",
+      "num": "9654755649"
+    },
+    {
+      "aadhar": "513366959344",
+      "address": "s/o  heera lal!65!vidyapati colony jalpura greter noida!kulesara!gautam buddha nagar!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8860647460",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Sundar Kumar",
+      "num": "9654755649"
+    },
+    {
+      "aadhar": "513366959344",
+      "address": "s/o  heera lal!65!vidyapati colony jalpura greter noida!kulesara!gautam buddha nagar!kulesara!gautam buddha nagar!Uttar Pradesh!201306",
+      "alt": "8860647460",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "heera lal",
+      "name": "Sundar Kumar",
+      "num": "9654755649"
+    }
+  ]
+}
