@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:37:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7317254084",
+  "records": [
+    {
+      "aadhar": "408665062962",
+      "address": "!sighaniya!lakhimpur!!SINGANIYA MAHEWA GANJ MAHEWA GANJKHERI!KHERI!UTTAR PRADESH!261506",
+      "alt": "8604918992",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Mohammad Ali",
+      "name": "MR. AFSAR ALI",
+      "num": "7317254084"
+    },
+    {
+      "aadhar": "408665062962",
+      "address": "!sighaniya!lakhimpur!!SINGANIYA MAHEWA GANJ MAHEWA GANJ KHERI!KHERI!UTTAR PRADESH!261506",
+      "alt": "8604918992",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohammad Ali",
+      "name": "MR AFSAR ALI",
+      "num": "7317254084"
+    },
+    {
+      "aadhar": "408665062962",
+      "address": "!sighaniya!lakhimpur!!SINGANIYA MAHEWA GANJ MAHEWA GANJ KHERI!KHERI!UTTAR PRADESH!261506",
+      "alt": "8604918992",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohammad Ali",
+      "name": "MR AFSAR ALI",
+      "num": "7317254084"
+    }
+  ]
+}
