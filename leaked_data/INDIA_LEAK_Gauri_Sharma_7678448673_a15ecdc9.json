@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:15:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7678448673",
+  "records": [
+    {
+      "aadhar": "732133018570",
+      "address": "d/o deepak sharma!b-49  50 upper ground floor!Mohan Garden!south side Back side!uttam nagar delhi!uttam nagar!west delhi!Delhi!110059",
+      "alt": "9818307894",
+      "circle": "JIO DELHI",
+      "email": "GAURISHARMA3373@OUTLOOK.COM",
+      "fname": "deepak sharma",
+      "name": "Gauri Sharma",
+      "num": "7678448673"
+    },
+    {
+      "aadhar": "732133018570",
+      "address": "d/o deepak sharma!b-49 50 upper ground floor!Mohan Garden!south side Back side!uttam nagar delhi!uttam nagar!west delhi!Delhi!110059",
+      "alt": "9818307894",
+      "circle": "JIO DELHI",
+      "email": "GAURISHARMA3373@OUTLOOK.COM",
+      "fname": "deepak sharma",
+      "name": "Gauri Sharma",
+      "num": "7678448673"
+    },
+    {
+      "aadhar": "732133018570",
+      "address": "d/o deepak sharma!b-49 50 upper ground floor!Mohan Garden!south side Back side!uttam nagar delhi!uttam nagar!west delhi!Delhi!110059",
+      "alt": "9818307894",
+      "circle": "JIO DELHI",
+      "email": "GAURISHARMA3373@OUTLOOK.COM",
+      "fname": "deepak sharma",
+      "name": "Gauri Sharma",
+      "num": "7678448673"
+    }
+  ]
+}
