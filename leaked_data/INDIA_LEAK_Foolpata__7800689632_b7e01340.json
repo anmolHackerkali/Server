@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 02:13:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7800689632",
+  "records": [
+    {
+      "aadhar": "250424025845",
+      "address": " ! !     City/District: Gonda State Uttar Pradesh! !GONDA!UTTAR PRADESH!271503",
+      "alt": "9838573468",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "nanhr fhgf",
+      "name": "Foolpata ",
+      "num": "7800689632"
+    },
+    {
+      "aadhar": "250424025845",
+      "address": " ! !     City/District: Gonda State Uttar Pradesh! !GONDA!UTTAR PRADESH!271503",
+      "alt": "9838573468",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "nanhr fhgf",
+      "name": "Foolpata ",
+      "num": "7800689632"
+    }
+  ]
+}
