@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:22:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798217286",
+  "records": [
+    {
+      "aadhar": "640305228991",
+      "address": "W/O  Wakil Mochi!!Kurigola!!bajraha mali panchayat!kuari Dhamdaha!Purnia!Bihar!854205",
+      "alt": "6299196228",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Wakil Mochi",
+      "name": "Geeta Devi",
+      "num": "9798217286"
+    },
+    {
+      "aadhar": "640305228991",
+      "address": "W/O  Wakil Mochi!!Kurigola!!bajraha mali panchayat!kuari Dhamdaha!Purnia!Bihar!854205",
+      "alt": "6299196228",
+      "circle": "JIO BHR&JHR",
+      "email": "9798217286@GMAIL.COM",
+      "fname": "Wakil Mochi",
+      "name": "Geeta Devi",
+      "num": "9798217286"
+    },
+    {
+      "aadhar": "640305228991",
+      "address": "W/O  Wakil Mochi!!Kurigola!!bajraha mali panchayat!kuari Dhamdaha!Purnia!Bihar!854205",
+      "alt": "6299196228",
+      "circle": "JIO BHR&JHR",
+      "email": "9798217286@GMAIL.COM",
+      "fname": "Wakil Mochi",
+      "name": "Geeta Devi",
+      "num": "9798217286"
+    }
+  ]
+}
