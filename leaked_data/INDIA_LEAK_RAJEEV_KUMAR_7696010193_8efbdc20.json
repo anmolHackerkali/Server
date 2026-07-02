@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 04:01:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7696010193",
+  "records": [
+    {
+      "aadhar": "PB0820110038077",
+      "address": "NA!B-6 161!SODAL NAGAR JALANDHAR-L!SODAL NAGAR!SODAL NAGAR!JALANDHAR!JALANDHAR!PUNJAB!144001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KESAR SINGH",
+      "name": "RAJEEV KUMAR",
+      "num": "7696010193"
+    },
+    {
+      "aadhar": "PB0820110038077",
+      "address": "NA!B-6 161!SODAL NAGAR JALANDHAR-L!SODAL NAGAR!SODAL NAGAR!JALANDHAR!JALANDHAR!PUNJAB!144001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KESAR SINGH",
+      "name": "RAJEEV KUMAR",
+      "num": "7696010193"
+    }
+  ]
+}
