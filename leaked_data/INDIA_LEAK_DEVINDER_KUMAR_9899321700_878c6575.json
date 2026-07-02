@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:54:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899321700",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D-124 GROUND FLOOR RAM DUTT ENCLAVE ! UTTAM NAGAR NEAR LAL MANDIR !  ! DELHI ! Delhi ! 110059",
+      "alt": "9873272477",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "kalicharan arora",
+      "name": "DEVINDER KUMAR",
+      "num": "9899321700"
+    },
+    {
+      "aadhar": null,
+      "address": "D-124 GROUND FLOOR RAM DUTT ENCLAVE ! UTTAM NAGAR NEAR LAL MANDIR !  ! DELHI ! Delhi ! 110059",
+      "alt": "9873272477",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "kalicharan arora",
+      "name": "DEVINDER KUMAR",
+      "num": "9899321700"
+    },
+    {
+      "aadhar": null,
+      "address": "D-124 GROUND FLOOR RAM DUTT ENCLAVE ! UTTAM NAGAR NEAR LAL MANDIR !  ! DELHI ! Delhi ! 110059",
+      "alt": "9873272477",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "kalicharan arora",
+      "name": "DEVINDER KUMAR",
+      "num": "9899321700"
+    }
+  ]
+}
