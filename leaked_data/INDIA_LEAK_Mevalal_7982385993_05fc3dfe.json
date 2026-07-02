@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 00:08:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7982385993",
+  "records": [
+    {
+      "aadhar": "549031038998",
+      "address": "!ho no 998!chhjarshi!noida sec 63!Ghaziabad Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918745099833",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lalta Prasad",
+      "name": "Mevalal",
+      "num": "7982385993"
+    },
+    {
+      "aadhar": "549031038998",
+      "address": "!ho no 998!chhjarshi!noida sec 63!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918745099833",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lalta Prasad",
+      "name": "Mevalal",
+      "num": "7982385993"
+    },
+    {
+      "aadhar": "549031038998",
+      "address": "!ho no 998!chhjarshi!noida sec 63!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918745099833",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lalta Prasad",
+      "name": "Mevalal",
+      "num": "7982385993"
+    },
+    {
+      "aadhar": "549031038998",
+      "address": "!12!chhijarsi chhijarsi colony!NA!noida!Ghaziabad Gautam Buddha Nagar!NA!Uttar Pradesh!201301",
+      "alt": "7982385993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "lalta Prasad",
+      "name": "mevalal",
+      "num": "8287569494"
+    },
+    {
+      "aadhar": "549031038998",
+      "address": "!12!chhijarsichhijarsi colony!NA!noida!GhaziabadGautam Buddha Nagar!NA!Uttar Pradesh!201301",
+      "alt": "7982385993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "lalta Prasad",
+      "name": "mevalal",
+      "num": "8287569494"
+    },
+    {
+      "aadhar": "889144602905",
+      "address": "s/o  shyam lal!316!Husainpur Girant!gram baraiya mafi post husenpur girant!husainpur girant!baraiya mafe Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7982385993",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shyam lal",
+      "name": "Ram Saran",
+      "num": "9219195751"
+    },
+    {
+      "aadhar": "549031038998",
+      "address": "!12!chhijarsichhijarsi colony!NA!noida!GhaziabadGautam Buddha Nagar!NA!Uttar Pradesh!201301",
+      "alt": "7982385993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "lalta Prasad",
+      "name": "mevalal",
+      "num": "8287569494"
+    },
+    {
+      "aadhar": "889144602905",
+      "address": "s/o  shyam lal!316!Husainpur Girant!gram baraiya mafi post husenpur girant!husainpur girant!baraiya mafe Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "7982385993",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shyam lal",
+      "name": "Ram Saran",
+      "num": "9219195751"
+    }
+  ]
+}
