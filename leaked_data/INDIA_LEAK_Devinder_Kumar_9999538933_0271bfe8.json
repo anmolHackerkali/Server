@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:51:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999538933",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Kalicharan Arora!!D-124   GROUND FLOOR   RAM DUTT ENCLAVE!UTTAM NAGAR EAST!D K Mohan Garden West Delhi!Delhi!110059",
+      "alt": "919650040089",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9999538933"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Kalicharan Arora!!D-124  GROUND FLOOR  RAM DUTT ENCLAVE!UTTAM NAGAR EAST!D K Mohan GardenWest Delhi!Delhi!110059",
+      "alt": "919650040089",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9999538933"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Kalicharan Arora!!D-124  GROUND FLOOR  RAM DUTT ENCLAVE!UTTAM NAGAR EAST!D K Mohan GardenWest Delhi!Delhi!110059",
+      "alt": "919650040089",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kalicharan Arora",
+      "name": "Devinder Kumar",
+      "num": "9999538933"
+    }
+  ]
+}
