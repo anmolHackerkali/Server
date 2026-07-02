@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 02:17:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6386738477",
+  "records": [
+    {
+      "aadhar": "261778647108",
+      "address": "!!- SADASHIV MANDIR PURVA GILLOLA Gilaula!chandravan!Gilaula Ikauna Shrawasti!Uttar Pradesh!271835",
+      "alt": "918009443101",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "parasnath",
+      "name": "Surendra Kumar",
+      "num": "6386738477"
+    },
+    {
+      "aadhar": "261778647108",
+      "address": "!!- SADASHIV MANDIR PURVA GILLOLA Gilaula!chandravan!Gilaula Ikauna Shrawasti!Uttar Pradesh!271835",
+      "alt": "918009443101",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "parasnath",
+      "name": "Surendra Kumar",
+      "num": "6386738477"
+    },
+    {
+      "aadhar": "595252248518",
+      "address": "S/O Mahaveer Prasad!gilaula!nehru smarak school rode!!Gilaula!Shrawasti!Shravasti!Uttar Pradesh!271835",
+      "alt": "6386738477",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mahaveer Prasad",
+      "name": "Rakesh Kumar Maurya",
+      "num": "7068145328"
+    },
+    {
+      "aadhar": "595252248518",
+      "address": "S/O Mahaveer Prasad!gilaula!nehru smarak school rode!!Gilaula!Shrawasti!Shravasti!Uttar Pradesh!271835",
+      "alt": "6386738477",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mahaveer Prasad",
+      "name": "Rakesh Kumar Maurya",
+      "num": "7068145328"
+    }
+  ]
+}
