@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:09:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717431181",
+  "records": [
+    {
+      "aadhar": "356143800214",
+      "address": "! 5/190!!!Subhash Nagar!Tagore Garden S.O!West Delhi!Delhi!110027",
+      "alt": "8527888910",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "trilok singh",
+      "name": "Amrit Kaur",
+      "num": "9717431181"
+    },
+    {
+      "aadhar": "356143800214",
+      "address": "!5/190!!!Subhash Nagar!Tagore Garden SO!West Delhi!Delhi!110027",
+      "alt": "8527888910",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "trilok singh",
+      "name": "Amrit Kaur",
+      "num": "9717431181"
+    },
+    {
+      "aadhar": "356143800214",
+      "address": "!5/190!!!Subhash Nagar!Tagore Garden SO!West Delhi!Delhi!110027",
+      "alt": "8527888910",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "trilok singh",
+      "name": "Amrit Kaur",
+      "num": "9717431181"
+    }
+  ]
+}
