@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:34:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931643695",
+  "records": [
+    {
+      "aadhar": "370457109848",
+      "address": "S/O Ram Jatan Singh!Ward no 02 Korjana!!!!Begusarai Bashi Cheria Bariarpur!Bihar!848202",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Jatan Singh",
+      "name": "Pramanand  Singh",
+      "num": "9931643695"
+    },
+    {
+      "aadhar": "370457109848",
+      "address": "S/O Ram Jatan Singh!Ward no 02 Korjana!!!!Begusarai Bashi Cheria Bariarpur!Bihar!848202",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Jatan Singh",
+      "name": "Pramanand  Singh",
+      "num": "9931643695"
+    }
+  ]
+}
