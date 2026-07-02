@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:23:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693515173",
+  "records": [
+    {
+      "aadhar": "485399993972",
+      "address": "S/O Saryug Ram!!- Nursarai!NURSARAI!- nursarai noorsarai!nursarai Noorsarai!nalanda!Bihar!803113",
+      "alt": "9771527055",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Saryug Ram",
+      "name": "Sanjiv Kumar",
+      "num": "9693515173"
+    },
+    {
+      "aadhar": "485399993972",
+      "address": "S/O Saryug Ram!!- Nursarai!NURSARAI!- nursarai noorsarai!nursarai Noorsarai!nalanda!Bihar!803113",
+      "alt": "9771527055",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Saryug Ram",
+      "name": "Sanjiv Kumar",
+      "num": "9693515173"
+    },
+    {
+      "aadhar": "485399993972",
+      "address": "S/O Saryug Ram!!- Nursarai!NURSARAI!- nursarai noorsarai!nursarai Noorsarai!nalanda!Bihar!803113",
+      "alt": "9771527055",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Saryug Ram",
+      "name": "Sanjiv Kumar",
+      "num": "9693515173"
+    }
+  ]
+}
