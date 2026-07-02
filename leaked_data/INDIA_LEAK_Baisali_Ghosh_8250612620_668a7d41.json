@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:44:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8250612620",
+  "records": [
+    {
+      "aadhar": "448473866060",
+      "address": "!!19/24 ASHOK AVENUE AZONE!!Durgapur (m Corp.) Barddhaman!West Bengal!713204",
+      "alt": "919851344168",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "R K Sarkar",
+      "name": "Baisali Ghosh",
+      "num": "8250612620"
+    },
+    {
+      "aadhar": "448473866060",
+      "address": "!!19/24 ASHOK AVENUE AZONE!!Durgapur (m Corp.) Barddhaman!West Bengal!713204",
+      "alt": "919851344168",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "R K Sarkar",
+      "name": "Baisali Ghosh",
+      "num": "8250612620"
+    }
+  ]
+}
