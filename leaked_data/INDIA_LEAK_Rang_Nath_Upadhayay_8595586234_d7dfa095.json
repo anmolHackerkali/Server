@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:21:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595586234",
+  "records": [
+    {
+      "aadhar": "923978231564",
+      "address": "! j 25!3rd floor!!mohan garden!New Delhi West!West!Delhi!110059",
+      "alt": "8076108225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pashu Pati Nath",
+      "name": "Rang Nath Upadhayay",
+      "num": "8595586234"
+    },
+    {
+      "aadhar": "923978231564",
+      "address": "!j 25!3rd floor!!mohan garden!New Delhi West!West!Delhi!110059",
+      "alt": "8076108225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pashu Pati Nath",
+      "name": "Rang Nath Upadhayay",
+      "num": "8595586234"
+    },
+    {
+      "aadhar": "923978231564",
+      "address": "!j 25!3rd floor!!mohan garden!New Delhi West!West!Delhi!110059",
+      "alt": "8076108225",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pashu Pati Nath",
+      "name": "Rang Nath Upadhayay",
+      "num": "8595586234"
+    }
+  ]
+}
