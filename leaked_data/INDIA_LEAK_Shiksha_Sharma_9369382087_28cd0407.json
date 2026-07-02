@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 17:06:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9369382087",
+  "records": [
+    {
+      "aadhar": "474631170173",
+      "address": "D/O  Virendra Sharma!!rai ka purwa village tendua mafi post bikapur Bikapur!NA!!Bikapur Bikapur Faizabad!NA!Uttar Pradesh!224204",
+      "alt": "7618873786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Virendra Sharma",
+      "name": "Shiksha Sharma",
+      "num": "9369382087"
+    },
+    {
+      "aadhar": "474631170173",
+      "address": "D/O  Virendra Sharma!!rai ka purwa village tendua mafi post bikapur Bikapur!NA!!Bikapur Bikapur Faizabad!NA!Uttar Pradesh!224204",
+      "alt": "7618873786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Virendra Sharma",
+      "name": "Shiksha Sharma",
+      "num": "9369382087"
+    },
+    {
+      "aadhar": "280975327938",
+      "address": "!S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !Neyer Vodafone Tower!BikapurFAIZABAD!FAIZABAD!UTTAR PRADESH!224204",
+      "alt": "9369382087",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Virendra Shrma",
+      "name": "MR. SAURABHA SHARMA",
+      "num": "9628020706"
+    },
+    {
+      "aadhar": "280975327938",
+      "address": "!S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !Neyer Vodafone Tower!Bikapur FAIZABAD!FAIZABAD!UTTAR PRADESH!224204",
+      "alt": "9369382087",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Virendra Shrma",
+      "name": "MR SAURABHA SHARMA",
+      "num": "9628020706"
+    },
+    {
+      "aadhar": "280975327938",
+      "address": "!S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !S/O VRENDRA SHRMA VILBO LENDAVAMAF POSI !Neyer Vodafone Tower!Bikapur FAIZABAD!FAIZABAD!UTTAR PRADESH!224204",
+      "alt": "9369382087",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Virendra Shrma",
+      "name": "MR SAURABHA SHARMA",
+      "num": "9628020706"
+    }
+  ]
+}
