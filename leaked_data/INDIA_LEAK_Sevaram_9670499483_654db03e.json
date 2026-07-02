@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:48:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9670499483",
+  "records": [
+    {
+      "aadhar": "973686336229",
+      "address": "!Ambedkar nagar!Baskhari PO!!Sarayval Baniyane!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "dubar lal",
+      "name": "Sevaram",
+      "num": "9670499483"
+    },
+    {
+      "aadhar": "973686336229",
+      "address": "!Ambedkar nagar!Baskhari PO!!Sarayval Baniyane!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224129",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "dubar lal",
+      "name": "Sevaram",
+      "num": "9670499483"
+    }
+  ]
+}
