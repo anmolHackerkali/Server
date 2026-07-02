@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 15:13:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9932691481",
+  "records": [
+    {
+      "aadhar": "949438938753",
+      "address": "ELUNI Eluni  Khalakpur Keshpur   Paschim Medinipur West Bengal 721260",
+      "alt": "9932691481",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sudhansu Sekhar Ghosh",
+      "name": "Manas  Ghosh",
+      "num": "9932691481"
+    },
+    {
+      "aadhar": "949438938753",
+      "address": "!ELUNI Eluni!! !Paschim Medinipur Khalakpur Keshpur!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sudhansu Sekhar Ghosh",
+      "name": "Manas  Ghosh",
+      "num": "9932691481"
+    },
+    {
+      "aadhar": "949438938753",
+      "address": "!ELUNI Eluni!! !Paschim Medinipur Khalakpur Keshpur!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sudhansu Sekhar Ghosh",
+      "name": "Manas  Ghosh",
+      "num": "9932691481"
+    },
+    {
+      "aadhar": "949438938753",
+      "address": "ELUNI Eluni  Khalakpur Keshpur   Paschim Medinipur West Bengal 721260",
+      "alt": "9932691481",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sudhansu Sekhar Ghosh",
+      "name": "Manas  Ghosh",
+      "num": "9932691481"
+    }
+  ]
+}
