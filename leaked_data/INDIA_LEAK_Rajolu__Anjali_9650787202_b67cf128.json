@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 13:55:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650787202",
+  "records": [
+    {
+      "aadhar": "435504292485",
+      "address": "!D-3/3036 VASANT KUNJ!!South West Delhi!!Delhi!110070",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajolu Krishna Kumar",
+      "name": "Rajolu  Anjali",
+      "num": "9650787202"
+    },
+    {
+      "aadhar": "435504292485",
+      "address": "!D-3/3036VASANT KUNJ!!South West Delhi!!Delhi!110070",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajolu Krishna Kumar",
+      "name": "Rajolu  Anjali",
+      "num": "9650787202"
+    },
+    {
+      "aadhar": "435504292485",
+      "address": "!D-3/3036VASANT KUNJ!!South West Delhi!!Delhi!110070",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajolu Krishna Kumar",
+      "name": "Rajolu  Anjali",
+      "num": "9650787202"
+    },
+    {
+      "aadhar": "435504292485",
+      "address": "W/O Rajolu Krishna Kumar!W/O Rajolu Krishna Kumar!D-3/3036!  !VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9650787202",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAJOLU KRISHNA Krishna KUMAR",
+      "name": "RAJOLU ANJALI",
+      "num": "9990062110"
+    },
+    {
+      "aadhar": "435504292485",
+      "address": "W/O Rajolu Krishna Kumar!W/O Rajolu Krishna Kumar!D-3/3036!!VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9650787202",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAJOLU KRISHNA Krishna KUMAR",
+      "name": "RAJOLUANJALI",
+      "num": "9990062110"
+    },
+    {
+      "aadhar": "435504292485",
+      "address": "W/O Rajolu Krishna Kumar!W/O Rajolu Krishna Kumar!D-3/3036!!VASANT KUNJ-SOUTH WEST DELHI!DL!110070",
+      "alt": "9650787202",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAJOLU KRISHNA Krishna KUMAR",
+      "name": "RAJOLUANJALI",
+      "num": "9990062110"
+    }
+  ]
+}
