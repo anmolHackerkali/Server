@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 03:35:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9153753350",
+  "records": [
+    {
+      "aadhar": "812431078833",
+      "address": "w/o  sukol marandi!!Maira Nawatand!!golmara maira nawatand!mayranawatanr Tundi!dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sukol marandi",
+      "name": "Mokhodi Marandi",
+      "num": "9153753350"
+    },
+    {
+      "aadhar": "812431078833",
+      "address": "w/o  sukol marandi!!Maira Nawatand!!golmara maira nawatand!mayranawatanr Tundi!dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sukol marandi",
+      "name": "Mokhodi Marandi",
+      "num": "9153753350"
+    },
+    {
+      "aadhar": "812431078833",
+      "address": "w/o  sukol marandi!!Maira Nawatand!!golmara maira nawatand!mayranawatanr Tundi!dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sukol marandi",
+      "name": "Mokhodi Marandi",
+      "num": "9153753350"
+    }
+  ]
+}
