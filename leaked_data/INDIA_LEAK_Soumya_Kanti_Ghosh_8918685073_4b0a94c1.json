@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:38:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8918685073",
+  "records": [
+    {
+      "aadhar": "805208465806",
+      "address": "!19/24 ashok avenue!durgapur m corp!!azone!durgapur m corp.!barddhaman!West Bengal!713204",
+      "alt": "9064888839",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "ARPAN GHOSH",
+      "name": "Soumya Kanti Ghosh",
+      "num": "8918685073"
+    },
+    {
+      "aadhar": "805208465806",
+      "address": "!19/24 ashok avenue!durgapur m corp!!azone!durgapur m corp.!barddhaman!West Bengal!713204",
+      "alt": "9064888839",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "ARPAN GHOSH",
+      "name": "Soumya Kanti Ghosh",
+      "num": "8918685073"
+    }
+  ]
+}
