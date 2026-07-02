@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:21:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9866355242",
+  "records": [
+    {
+      "aadhar": "889977369130",
+      "address": "6/950/1!Ramanagar Kanekal!Kanekal Kanekal Kanekal!Ananthapur!Andhra Pradesh!515871",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Shaik",
+      "name": "Shaik A Abdul Rowf",
+      "num": "9866355242"
+    },
+    {
+      "aadhar": "889977369130",
+      "address": "S/O Shaik A Ibrahim Sab! 6/950/1!RAMANAGAR Kanekal!Kanekal!ramanagar kanekal kanekal!Kanekal!Ananthapur!Andhra Pradesh!515871",
+      "alt": "9866355242",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Shaik A Ibrahim",
+      "name": "Shaik A Abdul Rowf",
+      "num": "9392153774"
+    }
+  ]
+}
