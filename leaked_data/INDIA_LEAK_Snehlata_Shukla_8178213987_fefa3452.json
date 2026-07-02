@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 08:02:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178213987",
+  "records": [
+    {
+      "aadhar": "560876113337",
+      "address": "!B 140!Gali no 4!!Jaitpur Extn part 2 Badarpur Jaitpur!New Delhi South!South!Delhi!110044",
+      "alt": "8076959869",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Birendra Prasad shukla",
+      "name": "Snehlata Shukla",
+      "num": "8178213987"
+    },
+    {
+      "aadhar": "560876113337",
+      "address": "!B 140!Gali no 4!!Jaitpur Extn part 2 Badarpur Jaitpur!New Delhi South!South!Delhi!110044",
+      "alt": "8076959869",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Birendra Prasad shukla",
+      "name": "Snehlata Shukla",
+      "num": "8178213987"
+    },
+    {
+      "aadhar": "560876113337",
+      "address": "!B 140!Gali no 4!!Jaitpur Extn part 2 Badarpur Jaitpur!New Delhi South!South!Delhi!110044",
+      "alt": "8076959869",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Birendra Prasad shukla",
+      "name": "Snehlata Shukla",
+      "num": "8178213987"
+    }
+  ]
+}
