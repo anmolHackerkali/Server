@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 02:09:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8959433934",
+  "records": [
+    {
+      "aadhar": "998360364168",
+      "address": "S/O  Vishram Damar! 64!bherupada!bherupada!bherupada bekalda Bakalda!Bekalda!Jhabua!Madhya Pradesh!457775",
+      "alt": "6263304605",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Vishram Damar",
+      "name": "Rakesh Damar",
+      "num": "8959433934"
+    }
+  ]
+}
