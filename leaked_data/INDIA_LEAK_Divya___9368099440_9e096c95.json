@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 16:34:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368099440",
+  "records": [
+    {
+      "aadhar": "555796824480",
+      "address": "!103!masani tiraya vrindavan raod!near gayatri tapo bhoomi!mathura!Mathura!Mathura!Uttar Pradesh!281003",
+      "alt": "9760557036",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Bhuta Singh",
+      "name": "Divya  ",
+      "num": "9368099440"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Manavvar Husain!!village-fajalpur habib!post-fajalpur khas!Fajalpur Habib Bijnor!Uttar Pradesh!246763",
+      "alt": "918266859657",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Manavvar Husain",
+      "name": "Mohd Aman",
+      "num": "9368099440"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Manavvar Husain!!village-fajalpur habib!post-fajalpur khas!Fajalpur Habib Bijnor!Uttar Pradesh!246763",
+      "alt": "918266859657",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Manavvar Husain",
+      "name": "Mohd Aman",
+      "num": "9368099440"
+    }
+  ]
+}
