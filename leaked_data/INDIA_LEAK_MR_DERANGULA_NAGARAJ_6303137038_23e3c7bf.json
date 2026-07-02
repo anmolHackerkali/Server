@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 11:33:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6303137038",
+  "records": [
+    {
+      "aadhar": "290571581129",
+      "address": "!Hno 0!Mucherla Village Mucherla Kamepalle Khammam!Mucherla Village Mucherla Kamepalle Khammam!MUCHARLA!KHAMMAM!KHAMMAM!TELANGANA!507182",
+      "alt": "6303137038",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "Derangula Venkata Narayana",
+      "name": "MR DERANGULA NAGARAJU",
+      "num": "9581668060"
+    }
+  ]
+}
