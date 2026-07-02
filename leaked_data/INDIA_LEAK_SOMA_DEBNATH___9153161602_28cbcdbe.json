@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 05:23:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9153161602",
+  "records": [
+    {
+      "aadhar": "250478109269",
+      "address": "18/21 DURGAPUR5;KASHIRAM DAS ROAD ;Durgapur (m Corp.) Barddhaman;Barddhaman;West Bengal;713205",
+      "alt": "9134369330",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": null,
+      "name": "SOMA DEBNATH  ",
+      "num": "9153161602"
+    },
+    {
+      "aadhar": "250478109269",
+      "address": "18/21 DURGAPUR5;KASHIRAM DAS ROAD ;Durgapur (m Corp.) Barddhaman;Barddhaman;West Bengal;713205",
+      "alt": "9134369330",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": null,
+      "name": "SOMA DEBNATH  ",
+      "num": "9153161602"
+    }
+  ]
+}
