@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:50:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8874576817",
+  "records": [
+    {
+      "aadhar": "694940801552",
+      "address": " !271!Gram Mohamadpur Sabukpur Post Husainpur Girant    City/District: Ambedkar N! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Jugun",
+      "name": "Parasuram ",
+      "num": "8874576817"
+    },
+    {
+      "aadhar": "694940801552",
+      "address": " !271!Gram Mohamadpur Sabukpur Post Husainpur Girant    City/District: Ambedkar N! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Jugun",
+      "name": "Parasuram ",
+      "num": "8874576817"
+    },
+    {
+      "aadhar": "694940801552",
+      "address": "!271!Gram Mohamadpur Sabukpur Post Husainpur !!Gram mohammadpur sabukpur post Husainpur!TANDA!UTTAR PRADESH!224190",
+      "alt": "8874576817",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jugun",
+      "name": "MR. PARASURAM .",
+      "num": "7839136923"
+    }
+  ]
+}
