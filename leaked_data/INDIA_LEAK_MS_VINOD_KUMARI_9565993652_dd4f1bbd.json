@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 02:13:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9565993652",
+  "records": [
+    {
+      "aadhar": "892683688300",
+      "address": "!no!takiyaikauna!ikauna!JOKAHA JILA BEHRAICH TAKIYA TAKIYABAHRA!BAHRAICH!UTTAR PRADESH!271845",
+      "alt": "9026371556",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Laxman Prasad",
+      "name": "MS. VINOD KUMARI",
+      "num": "9565993652"
+    }
+  ]
+}
