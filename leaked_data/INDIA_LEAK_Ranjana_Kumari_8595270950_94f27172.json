@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 01:44:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595270950",
+  "records": [
+    {
+      "aadhar": "904231871069",
+      "address": "W/O Raghuwar Kumar! 1981 FIRST FLOOR!GALI NEELAWALI!ARYA SAMAJ ROAD!!BAZAR SITARAM!North Delhi!Delhi!110006",
+      "alt": "8882763483",
+      "circle": "JIO DELHI",
+      "email": "pk0897931@gmail.com",
+      "fname": "Raghuwar Kumar",
+      "name": "Ranjana Kumari",
+      "num": "8595270950"
+    },
+    {
+      "aadhar": "904231871069",
+      "address": "W/O Raghuwar Kumar! 1981 FIRST FLOOR!GALI NEELAWALI!ARYA SAMAJ ROAD!!BAZAR SITARAM!North Delhi!Delhi!110006",
+      "alt": "8882763483",
+      "circle": "JIO DELHI",
+      "email": "pk0897931@gmail.com",
+      "fname": "Raghuwar Kumar",
+      "name": "Ranjana Kumari",
+      "num": "8595270950"
+    },
+    {
+      "aadhar": "904231871069",
+      "address": "W/O Raghuwar Kumar! 1981 FIRST FLOOR!GALI NEELAWALI!ARYA SAMAJ ROAD!!BAZAR SITARAM!North Delhi!Delhi!110006",
+      "alt": "8882763483",
+      "circle": "JIO DELHI",
+      "email": "pk0897931@gmail.com",
+      "fname": "Raghuwar Kumar",
+      "name": "Ranjana Kumari",
+      "num": "8595270950"
+    }
+  ]
+}
