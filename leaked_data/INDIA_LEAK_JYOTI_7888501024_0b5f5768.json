@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 04:01:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7888501024",
+  "records": [
+    {
+      "aadhar": "527311903672",
+      "address": "WO Sanjeev Kumar!649!vpo dayalpur!!Dialpur DialpurKAPURTHALA!KAPURTHALA!KAPURTHALA!PUNJAB!144803",
+      "alt": "7888501024",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Sanjeev Kumar",
+      "name": "JYOTI",
+      "num": "9501208698"
+    }
+  ]
+}
