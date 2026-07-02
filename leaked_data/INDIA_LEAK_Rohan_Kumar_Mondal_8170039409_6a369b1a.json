@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 12:42:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8170039409",
+  "records": [
+    {
+      "aadhar": "612443302164",
+      "address": "!SALBEDIA!Salbedya!Salbedia!Bankura!Bankura!BANKURA!West Bengal!722203",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Tarun Mondal",
+      "name": "Rohan Kumar Mondal",
+      "num": "8170039409"
+    },
+    {
+      "aadhar": "612443302164",
+      "address": "!SALBEDIA!Salbedya!Salbedia!Bankura!Bankura!BANKURA!West Bengal!722203",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Tarun Mondal",
+      "name": "Rohan Kumar Mondal",
+      "num": "8170039409"
+    },
+    {
+      "aadhar": "708860041058",
+      "address": " !VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!!SALBEDIA BANKURA!BANKURA!BANKURA!West Bengal!722203 ",
+      "alt": "8170039409",
+      "circle": "VODAFONE  KOLKATA R",
+      "email": null,
+      "fname": "AJIT KUMAR MONDAL",
+      "name": "MR  GOURANGA MONDAL",
+      "num": "9734730268"
+    },
+    {
+      "aadhar": "542691636247",
+      "address": " !!abason pally!!sukumar nagar!Asansol durgapur m corp!Barddhaman!West Bengal!713201 ",
+      "alt": "8170039409",
+      "circle": "JIO WB",
+      "email": "debasishsaids@gmail.com",
+      "fname": "tapan Kumar sai",
+      "name": "Debasish Sai",
+      "num": "9775683156"
+    },
+    {
+      "aadhar": "708860041058",
+      "address": "!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!SALBEDIA BANKURA!BANKURA!BANKURA!West Bengal!722203",
+      "alt": "8170039409",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "AJIT KUMAR MONDAL",
+      "name": "MR GOURANGA MONDAL",
+      "num": "9734730268"
+    },
+    {
+      "aadhar": "542691636247",
+      "address": " !!abason pally!!sukumar nagar!Asansol durgapur m corp!Barddhaman!West Bengal!713201 ",
+      "alt": "8170039409",
+      "circle": "JIO WB",
+      "email": "debasishsaids@gmail.com",
+      "fname": "tapan Kumar sai",
+      "name": "Debasish Sai",
+      "num": "9775683156"
+    },
+    {
+      "aadhar": "708860041058",
+      "address": "!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!VILLAGE/TOWN/CITY DISTRICT P  O   STATE PINCODE!SALBEDIA BANKURA!BANKURA!BANKURA!West Bengal!722203",
+      "alt": "8170039409",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "AJIT KUMAR MONDAL",
+      "name": "MR GOURANGA MONDAL",
+      "num": "9734730268"
+    }
+  ]
+}
