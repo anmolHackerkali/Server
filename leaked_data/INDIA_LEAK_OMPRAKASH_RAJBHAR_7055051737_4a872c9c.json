@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 09:01:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7055051737",
+  "records": [
+    {
+      "aadhar": "603810320943",
+      "address": "S/O: Dev Nandan Rajbhar  ahakapur Naisare  Saidpur .  NASARA-GHAZIPUR UP 233302",
+      "alt": "9536134740",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Dev Nandan Rajbhar",
+      "name": "OMPRAKASH RAJBHAR",
+      "num": "7055051737"
+    },
+    {
+      "aadhar": "603810320943",
+      "address": "S/O: Dev Nandan Rajbhar  ahakapur Naisare  Saidpur .  NASARA-GHAZIPUR UP 233302",
+      "alt": "9536134740",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Dev Nandan Rajbhar",
+      "name": "OMPRAKASH RAJBHAR",
+      "num": "7055051737"
+    }
+  ]
+}
