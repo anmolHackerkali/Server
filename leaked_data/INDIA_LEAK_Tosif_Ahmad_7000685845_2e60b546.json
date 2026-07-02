@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 16:21:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7000685845",
+  "records": [
+    {
+      "aadhar": "333275694510",
+      "address": "S/O  Shakeel Ahmad!! Bilkisganj!soniya colony!Bilkisganj Ashta Sehore!Madhya Pradesh!466111",
+      "alt": "919826222329",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Shakeel Ahmad",
+      "name": "Tosif Ahmad",
+      "num": "7000685845"
+    },
+    {
+      "aadhar": null,
+      "address": " soniya koloni Bilkisganj  Sehore Bilkisganj Sehore  Madhya Pradesh 466111",
+      "alt": "7000685845",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Tosif Ahmad",
+      "name": "Seema Khan",
+      "num": "8359090390 "
+    }
+  ]
+}
