@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 01:43:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9478303469",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "VPO MAMOON MAMUN TEH PATHANKOT GURDASPUR PUNJAB 145001 GURDASPUR PUNJAB 145001",
+      "alt": null,
+      "circle": "BSNL PUNJAB",
+      "email": null,
+      "fname": null,
+      "name": "PUSHAP LATA",
+      "num": "9478303469"
+    }
+  ]
+}
