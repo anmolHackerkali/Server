@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 14:00:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871629437",
+  "records": [
+    {
+      "aadhar": "320356608617",
+      "address": "!cb-105!naraina village!!new delhi!Delhi!South West Delhi!Delhi!110028",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Inarjit Baitha",
+      "name": "Bharat Baitha",
+      "num": "9871629437"
+    },
+    {
+      "aadhar": "320356608617",
+      "address": "!cb-105!naraina village!!new delhi!Delhi!South West Delhi!Delhi!110028",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Inarjit Baitha",
+      "name": "Bharat Baitha",
+      "num": "9871629437"
+    },
+    {
+      "aadhar": null,
+      "address": "!D124 GROUND FLOOR!RAM DUTT ENCLAVE!EAST UTTAM NAGAR!DKMohan GardenWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "devinder kumar",
+      "name": "Ashmit Kumar",
+      "num": "9871629437"
+    },
+    {
+      "aadhar": null,
+      "address": "!D124 GROUND FLOOR!RAM DUTT ENCLAVE!EAST UTTAM NAGAR!DKMohan GardenWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "devinder kumar",
+      "name": "Ashmit Kumar",
+      "num": "9871629437"
+    },
+    {
+      "aadhar": "320356608617",
+      "address": "!cb-105!naraina village!!new delhi!Delhi!South West Delhi!Delhi!110028",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Inarjit Baitha",
+      "name": "Bharat Baitha",
+      "num": "9871629437"
+    }
+  ]
+}
