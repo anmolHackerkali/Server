@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-02 06:54:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7042919316",
+  "records": [
+    {
+      "aadhar": "865629146386",
+      "address": "!plot no 417 kh no 451!bhagat Singh park!siras pur!North West Delhi!Delhi North!North West!Delhi!110042",
+      "alt": "7709040381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "parshuram",
+      "name": "Ramswaroop",
+      "num": "7042919316"
+    },
+    {
+      "aadhar": "865629146386",
+      "address": "!PLOT NO 417!KHASRA NO 451 BHAGAT SINGH PARK!!SIRASPUR Siras Pur!Delhi North!North West!Delhi!110042",
+      "alt": "9625582511",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Parshuram",
+      "name": "Ramswaroop  ",
+      "num": "7042919316"
+    },
+    {
+      "aadhar": "865629146386",
+      "address": "!plot no 417 kh no 451!bhagat Singh park!siras pur!North West Delhi!Delhi North!North West!Delhi!110042",
+      "alt": "7709040381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "parshuram",
+      "name": "Ramswaroop",
+      "num": "7042919316"
+    },
+    {
+      "aadhar": "865629146386",
+      "address": "!plot no 417 kh no 451!bhagat Singh park!siras pur!North West Delhi!Delhi North!North West!Delhi!110042",
+      "alt": "7709040381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "parshuram",
+      "name": "Ramswaroop",
+      "num": "7042919316"
+    }
+  ]
+}
