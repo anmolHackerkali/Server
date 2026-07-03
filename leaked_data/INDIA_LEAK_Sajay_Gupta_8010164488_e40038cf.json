@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 02:47:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8010164488",
+  "records": [
+    {
+      "aadhar": "684805818373",
+      "address": "S/O Shiv Shankar Gupta!!H NO-W Z-504!!TIHAR VILLAGE West Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": "shivamcommander@gmail.com",
+      "fname": "Shiv Shankar Gupta",
+      "name": "Sajay Gupta",
+      "num": "8010164488"
+    },
+    {
+      "aadhar": "684805818373",
+      "address": "S/O Shiv Shankar Gupta!!HNO-W Z-504!!TIHAR VILLAGEWest Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": "shivamcommander@gmail.com",
+      "fname": "Shiv Shankar Gupta",
+      "name": "Sajay Gupta",
+      "num": "8010164488"
+    },
+    {
+      "aadhar": "684805818373",
+      "address": "S/O Shiv Shankar Gupta!!HNO-W Z-504!!TIHAR VILLAGEWest Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": "shivamcommander@gmail.com",
+      "fname": "Shiv Shankar Gupta",
+      "name": "Sajay Gupta",
+      "num": "8010164488"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Shankar Gupta!H NO-W Z-504! !  West Delhi!!DELHI!West Delhi!Delhi!110018",
+      "alt": "8010164488",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Shiv Shankar Gupta",
+      "name": "Sanjay Gupta",
+      "num": "7065239448"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Shankar Gupta!HNO-W Z-504!!West Delhi!!DELHI!West Delhi!Delhi!110018",
+      "alt": "8010164488",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Shiv Shankar Gupta",
+      "name": "Sanjay Gupta",
+      "num": "7065239448"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Shankar Gupta!HNO-W Z-504!!West Delhi!!DELHI!West Delhi!Delhi!110018",
+      "alt": "8010164488",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Shiv Shankar Gupta",
+      "name": "Sanjay Gupta",
+      "num": "7065239448"
+    }
+  ]
+}
