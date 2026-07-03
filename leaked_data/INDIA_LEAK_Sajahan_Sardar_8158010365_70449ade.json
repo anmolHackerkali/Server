@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:02:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8158010365",
+  "records": [
+    {
+      "aadhar": "639088038247",
+      "address": " S/O Abdullaha Sardar!!Bhalleya!!tentulberia bhaleya canning - i!bhalleya Canning - I!south 24 parganas!West Bengal!743376 ",
+      "alt": "7029673930",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8158010365"
+    },
+    {
+      "aadhar": "639088038247",
+      "address": " S/O Abdullaha Sardar!!Bhalleya!!tentulberia bhaleya canning - i!bhalleya Canning - I!south 24 parganas!West Bengal!743376 ",
+      "alt": "7029673930",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8158010365"
+    },
+    {
+      "aadhar": "753849549453",
+      "address": "D/O Amirali Sardar!!Hatpukuria bhaleya hat pukhuria!!bhalleya canning i!Bhalleya!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Amirali Sardar",
+      "name": "Selima Sardar",
+      "num": "9732886931"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Abdullaha Sardar!.!.!TENTULBERIA South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8536082578"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Abdullaha Sardar!.!.!TENTULBERIA South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8536072490"
+    },
+    {
+      "aadhar": "753849549453",
+      "address": "D/O Amirali Sardar!!Hatpukuria bhaleya hat pukhuria!!bhalleya canning i!Bhalleya!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Amirali Sardar",
+      "name": "Selima Sardar",
+      "num": "9732886931"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Abdullaha Sardar!.!.!TENTULBERIA South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8536082578"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Abdullaha Sardar!.!.!TENTULBERIA South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": "8158010365",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Abdullaha Sardar",
+      "name": "Sajahan Sardar",
+      "num": "8536072490"
+    }
+  ]
+}
