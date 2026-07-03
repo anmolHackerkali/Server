@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:49:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7065681804",
+  "records": [
+    {
+      "aadhar": "619667165417",
+      "address": "W/O S N  Chhillar!W/O S N  Chhillar!B- 76 VIJAY PARK NAYA BAZAR!  !NAJAFGARH-SOUTH WEST DELHI!DL!110043",
+      "alt": "8826608340",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SN CHHILLAR",
+      "name": "SANGEETA ",
+      "num": "7065681804"
+    },
+    {
+      "aadhar": "619667165417",
+      "address": "W/O SN Chhillar!W/O SN Chhillar!B- 76 VIJAY PARK NAYA BAZAR!!NAJAFGARH-SOUTH WEST DELHI!DL!110043",
+      "alt": "8826608340",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SN CHHILLAR",
+      "name": "SANGEETA",
+      "num": "7065681804"
+    },
+    {
+      "aadhar": "619667165417",
+      "address": "W/O SN Chhillar!W/O SN Chhillar!B- 76 VIJAY PARK NAYA BAZAR!!NAJAFGARH-SOUTH WEST DELHI!DL!110043",
+      "alt": "8826608340",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SN CHHILLAR",
+      "name": "SANGEETA",
+      "num": "7065681804"
+    },
+    {
+      "aadhar": "619667165417",
+      "address": "!B- 76 VIJAY PARK NAYA BAZAR Najafgarh!!South West Delhi!!Delhi!110043",
+      "alt": "7065681804",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N Chhillar",
+      "name": "Sangeeta",
+      "num": "8826608340"
+    },
+    {
+      "aadhar": "619667165417",
+      "address": "!B- 76 VIJAY PARK NAYA BAZARNajafgarh!!South West Delhi!!Delhi!110043",
+      "alt": "7065681804",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N Chhillar",
+      "name": "Sangeeta",
+      "num": "8826608340"
+    },
+    {
+      "aadhar": "619667165417",
+      "address": "!B- 76 VIJAY PARK NAYA BAZARNajafgarh!!South West Delhi!!Delhi!110043",
+      "alt": "7065681804",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N Chhillar",
+      "name": "Sangeeta",
+      "num": "8826608340"
+    }
+  ]
+}
