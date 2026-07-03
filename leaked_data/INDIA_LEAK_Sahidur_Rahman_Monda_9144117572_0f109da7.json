@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:04:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9144117572",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!TARAFDAR PARA!HATPUKURIA!. South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "9144117572"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!TARAFDAR PARA!HATPUKURIA!. South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "C/O Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "9144117572"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!TARAFDAR PARA!HATPUKURIA!. South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "C/O Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "9144117572"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!TARAFDAR PARA!HATPUKURIA!. South 24 Parganas!!SOUTH 24 PARAGNAS!South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "9144117572"
+    }
+  ]
+}
