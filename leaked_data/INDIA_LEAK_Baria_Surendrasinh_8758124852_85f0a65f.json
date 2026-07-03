@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:50:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8758124852",
+  "records": [
+    {
+      "aadhar": "733928355889",
+      "address": "S/O  Narvatbhai!!khant faliyu  Suliyat!NA!khant faliyu!Suliyat Morwa hadaf Panchmahals!NA!Gujarat!389110",
+      "alt": "9727893187",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai",
+      "name": "Baria Surendrasinh",
+      "num": "8758124852"
+    },
+    {
+      "aadhar": "733928355889",
+      "address": "S/O  Narvatbhai!!khant faliyu  Suliyat!NA!khant faliyu!Suliyat Morwa hadaf Panchmahals!NA!Gujarat!389110",
+      "alt": "9727893187",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai",
+      "name": "Baria Surendrasinh",
+      "num": "8758124852"
+    },
+    {
+      "aadhar": "733928355889",
+      "address": "S/O  Narvatbhai!!khant faliyu  Suliyat!NA!khant faliyu!Suliyat Morwa hadaf Panchmahals!NA!Gujarat!389110",
+      "alt": "9727893187",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai",
+      "name": "Baria Surendrasinh",
+      "num": "8758124852"
+    }
+  ]
+}
