@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 03:53:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9251270300",
+  "records": [
+    {
+      "aadhar": "254063833066",
+      "address": "B-501 Shilalekh Chhani vadodara vadodara Opp Sai Baba Temple TP-13 Chhani Jakat Naka Vadodara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "vjpatel1985@gmail.com",
+      "fname": "Patel Jayantibhai",
+      "name": "Patel Vishalkumar",
+      "num": "9251270300"
+    },
+    {
+      "aadhar": "254063833066",
+      "address": "B-501 Shilalekh Chhani vadodara vadodara Opp Sai Baba Temple TP-13 Chhani Jakat Naka Vadodara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "vjpatel1985@gmail.com",
+      "fname": "Patel Jayantibhai",
+      "name": "Patel Vishalkumar",
+      "num": "9251270300"
+    }
+  ]
+}
