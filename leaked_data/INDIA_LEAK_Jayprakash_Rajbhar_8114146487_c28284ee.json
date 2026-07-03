@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 03:24:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8114146487",
+  "records": [
+    {
+      "aadhar": "970148131832",
+      "address": "!12!aakapur Ghazipur!!post naisara  aakapur!Ghazipur!Ghazipur!Uttar Pradesh!233302",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "devnandan rajbhar",
+      "name": "Jayprakash Rajbhar",
+      "num": "8114146487"
+    },
+    {
+      "aadhar": "970148131832",
+      "address": "!12!aakapur Ghazipur!!post naisara  aakapur!Ghazipur!Ghazipur!Uttar Pradesh!233302",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "devnandan rajbhar",
+      "name": "Jayprakash Rajbhar",
+      "num": "8114146487"
+    },
+    {
+      "aadhar": "970148131832",
+      "address": "S/O DEVNANDAN RAJBHAR!AAKAPUR!AAKAPURPOST NAISARA!POST NAISARA!GhazipurGHAZIPUR!GHAZIPUR!UTTAR PRADESH!233302",
+      "alt": "8114146487",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Devnandan",
+      "name": "MR. JAYPRAKASH RAJBHAR",
+      "num": "6389889851"
+    },
+    {
+      "aadhar": "986872164046",
+      "address": "S/O  Triloki Nath Yadav!!49 sherpur dhotari Barachawar!NA!sherpur dhotari!Sherpur Totari Mohammadabad Ghazipur!NA!Uttar Pradesh!233229",
+      "alt": "8114146487",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Triloki Nath Yadav",
+      "name": "Surjeet Yadav",
+      "num": "8081824735"
+    },
+    {
+      "aadhar": "970148131832",
+      "address": "S/O DEVNANDAN RAJBHAR!AAKAPUR !AAKAPUR  POST NAISARA!POST NAISARA!Ghazipur GHAZIPUR!GHAZIPUR!UTTAR PRADESH!233302",
+      "alt": "8114146487",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Devnandan",
+      "name": "MR JAYPRAKASH RAJBHAR",
+      "num": "6389889851"
+    },
+    {
+      "aadhar": "986872164046",
+      "address": "S/O  Triloki Nath Yadav!!49 sherpur dhotari Barachawar!NA!sherpur dhotari!Sherpur Totari Mohammadabad Ghazipur!NA!Uttar Pradesh!233229",
+      "alt": "8114146487",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Triloki Nath Yadav",
+      "name": "Surjeet Yadav",
+      "num": "8081824735"
+    },
+    {
+      "aadhar": "970148131832",
+      "address": "S/O DEVNANDAN RAJBHAR!AAKAPUR !AAKAPUR  POST NAISARA!POST NAISARA!Ghazipur GHAZIPUR!GHAZIPUR!UTTAR PRADESH!233302",
+      "alt": "8114146487",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Devnandan",
+      "name": "MR JAYPRAKASH RAJBHAR",
+      "num": "6389889851"
+    }
+  ]
+}
