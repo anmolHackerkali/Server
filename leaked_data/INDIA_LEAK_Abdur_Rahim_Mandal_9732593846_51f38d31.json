@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:04:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9732593846",
+  "records": [
+    {
+      "aadhar": "495193473472",
+      "address": " ! -!- Amtala!!AMTALA!Dattababur Abad Canning - I!South 24 Parganas!West Bengal!743337 ",
+      "alt": "7076808035",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "mujibar rahaman mandal",
+      "name": "Abdur Rahim Mandal",
+      "num": "9732593846"
+    },
+    {
+      "aadhar": "495193473472",
+      "address": " ! -!- Amtala!!AMTALA!Dattababur Abad Canning - I!South 24 Parganas!West Bengal!743337 ",
+      "alt": "7076808035",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "mujibar rahaman mandal",
+      "name": "Abdur Rahim Mandal",
+      "num": "9732593846"
+    },
+    {
+      "aadhar": "495193473472",
+      "address": " S/O Mujibar Rahaman Mandal!!- - Amtala!NA!AMTALA!Dattababur Abad Canning - I South 24 Parganas!NA!West Bengal!743337 ",
+      "alt": "9732593846",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mujibar Rahaman Mandal",
+      "name": "Abdur Rahim Mandal",
+      "num": "7076808035"
+    },
+    {
+      "aadhar": "495193473472",
+      "address": " S/O Mujibar Rahaman Mandal!!- - Amtala!NA!AMTALA!Dattababur Abad Canning - I South 24 Parganas!NA!West Bengal!743337 ",
+      "alt": "9732593846",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mujibar Rahaman Mandal",
+      "name": "Abdur Rahim Mandal",
+      "num": "7076808035"
+    }
+  ]
+}
