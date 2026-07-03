@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:22:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8799787607",
+  "records": [
+    {
+      "aadhar": "684805818373",
+      "address": "s/o shiv shankar gupta!H No-WZ-504!Tihar Village!!khayla west delhi!no-w z-504 tihar village!west delhi!Delhi!110018",
+      "alt": "9891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shiv shankar gupta",
+      "name": "Sanjay Gupta",
+      "num": "8799787607"
+    },
+    {
+      "aadhar": "684805818373",
+      "address": "s/o shiv shankar gupta!H No-WZ-504!Tihar Village!!khayla west delhi!no-w z-504 tihar village!west delhi!Delhi!110018",
+      "alt": "9891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shiv shankar gupta",
+      "name": "Sanjay Gupta",
+      "num": "8799787607"
+    },
+    {
+      "aadhar": "684805818373",
+      "address": "s/o shiv shankar gupta!H No-WZ-504!Tihar Village!!khayla west delhi!no-w z-504 tihar village!west delhi!Delhi!110018",
+      "alt": "9891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shiv shankar gupta",
+      "name": "Sanjay Gupta",
+      "num": "8799787607"
+    }
+  ]
+}
