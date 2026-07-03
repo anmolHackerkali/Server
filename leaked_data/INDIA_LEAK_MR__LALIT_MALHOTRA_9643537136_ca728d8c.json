@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:50:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9643537136",
+  "records": [
+    {
+      "aadhar": "535734344116",
+      "address": "!1433!shambhunath building!shambhunath building!gandhi nagar!DELHI!DELHI!Delhi!110031",
+      "alt": "8882728901",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "shiv prakesh",
+      "name": "MR  LALIT MALHOTRA",
+      "num": "9643537136"
+    },
+    {
+      "aadhar": "535734344116",
+      "address": "!1433!shambhunath building!shambhunath building!gandhi nagar!DELHI!DELHI!Delhi!110031",
+      "alt": "8882728901",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "shiv prakesh",
+      "name": "MR LALIT MALHOTRA",
+      "num": "9643537136"
+    },
+    {
+      "aadhar": "535734344116",
+      "address": "!1433!shambhunath building!shambhunath building!gandhi nagar!DELHI!DELHI!Delhi!110031",
+      "alt": "8882728901",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "shiv prakesh",
+      "name": "MR LALIT MALHOTRA",
+      "num": "9643537136"
+    }
+  ]
+}
