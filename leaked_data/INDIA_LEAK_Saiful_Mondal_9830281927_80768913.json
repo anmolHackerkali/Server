@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:01:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9830281927",
+  "records": [
+    {
+      "aadhar": "599055426829",
+      "address": "Abdul Hai Mondal!Tarafdar Para!Hatpukuria Bhaleya Bhalleya!Canning!Hat Pukhuria-Canning - I-South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "VODAFONE KOLKATA",
+      "email": null,
+      "fname": "Abdul Hai Mondal",
+      "name": "Saiful Mondal",
+      "num": "9830281927"
+    },
+    {
+      "aadhar": "599055426829",
+      "address": "Abdul Hai Mondal!Tarafdar Para!Hatpukuria Bhaleya Bhalleya!Canning!Hat Pukhuria-Canning - I-South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Abdul Hai Mondal",
+      "name": "Saiful Mondal",
+      "num": "9830281927"
+    },
+    {
+      "aadhar": "599055426829",
+      "address": "Abdul Hai Mondal!Tarafdar Para!Hatpukuria Bhaleya Bhalleya!Canning!Hat Pukhuria-Canning - I-South 24 Parganas!West Bengal!743376",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Abdul Hai Mondal",
+      "name": "Saiful Mondal",
+      "num": "9830281927"
+    },
+    {
+      "aadhar": "862797325584",
+      "address": "!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA SOUTH 24 PARGA",
+      "alt": "9830281927",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Aynal Laskar",
+      "name": "MR ANCHHAR LASKAR",
+      "num": "7718192672"
+    },
+    {
+      "aadhar": "862797325584",
+      "address": "!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA  BHALEYA  BHALLEYA  SOUTH 24 PARGANAS  CANNING - I!BHALEYA SOUTH 24 PARGA",
+      "alt": "9830281927",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Aynal Laskar",
+      "name": "MR ANCHHAR LASKAR",
+      "num": "7718192672"
+    }
+  ]
+}
