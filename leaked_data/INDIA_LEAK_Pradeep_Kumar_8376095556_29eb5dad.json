@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:16:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8376095556",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "d-42 ! pi-sector ! eldico residency ! GAUTAM BUDDHA NAGAR NCR ! UTTAR PRADESH ! 201308",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "rohitash singh",
+      "name": "Pradeep Kumar",
+      "num": "8376095556"
+    },
+    {
+      "aadhar": null,
+      "address": "d-42 ! pi-sector ! eldico residency ! GAUTAM BUDDHA NAGAR NCR ! UTTAR PRADESH ! 201308",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "rohitash singh",
+      "name": "Pradeep Kumar",
+      "num": "8376095556"
+    },
+    {
+      "aadhar": null,
+      "address": "d-42 ! pi-sector ! eldico residency ! GAUTAM BUDDHA NAGAR NCR ! UTTAR PRADESH ! 201308",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "rohitash singh",
+      "name": "Pradeep Kumar",
+      "num": "8376095556"
+    }
+  ]
+}
