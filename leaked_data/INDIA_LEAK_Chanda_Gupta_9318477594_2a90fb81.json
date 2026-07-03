@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:22:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9318477594",
+  "records": [
+    {
+      "aadhar": "859063700411",
+      "address": "W/O Sanjay Gupta!!WZ-504!Tihar Village!Tilak Nagar PO West Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Chanda Gupta",
+      "num": "9318477594"
+    },
+    {
+      "aadhar": "859063700411",
+      "address": "W/O Sanjay Gupta!!WZ-504!Tihar Village!Tilak Nagar POWest Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Chanda Gupta",
+      "num": "9318477594"
+    },
+    {
+      "aadhar": "859063700411",
+      "address": "W/O Sanjay Gupta!!WZ-504!Tihar Village!Tilak Nagar POWest Delhi!Delhi!110018",
+      "alt": "919891515619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Chanda Gupta",
+      "num": "9318477594"
+    },
+    {
+      "aadhar": "969082184519",
+      "address": "S/O Sanjay Gupta! H.NO-W Z-504!TIHAR VILLAGE!!tilak nagar!New Delhi West!West!Delhi!110018",
+      "alt": "9318477594",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Shivam Gupta",
+      "num": "9891515619"
+    },
+    {
+      "aadhar": "969082184519",
+      "address": "S/O Sanjay Gupta!HNO-W Z-504!TIHAR VILLAGE!!tilak nagar!New Delhi West!West!Delhi!110018",
+      "alt": "9318477594",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Shivam Gupta",
+      "num": "9891515619"
+    },
+    {
+      "aadhar": "969082184519",
+      "address": "S/O Sanjay Gupta!HNO-W Z-504!TIHAR VILLAGE!!tilak nagar!New Delhi West!West!Delhi!110018",
+      "alt": "9318477594",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjay Gupta",
+      "name": "Shivam Gupta",
+      "num": "9891515619"
+    }
+  ]
+}
