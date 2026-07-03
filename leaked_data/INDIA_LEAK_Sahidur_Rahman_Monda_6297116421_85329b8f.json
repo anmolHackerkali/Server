@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:00:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6297116421",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!!TARAFDAR PARA HATPUKURIA!!Bhaleya South 24 Parganas!West Bengal!743376",
+      "alt": "919733835405",
+      "circle": "JIO WB",
+      "email": "srmxpro@gmail.com",
+      "fname": "Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "6297116421"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Saiful Mondal!!TARAFDAR PARA HATPUKURIA!!Bhaleya South 24 Parganas!West Bengal!743376",
+      "alt": "919733835405",
+      "circle": "JIO WB",
+      "email": "srmxpro@gmail.com",
+      "fname": "Saiful Mondal",
+      "name": "Sahidur Rahman Mondal",
+      "num": "6297116421"
+    }
+  ]
+}
