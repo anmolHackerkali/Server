@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:49:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825624664",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O  Narvatbhai nat faliyu Suliyat Morwa hadaf PANCHMAHALS  SULIYAT Gujarat 389110 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " BARIYA NARENDRASINH ",
+      "num": "9825624664"
+    },
+    {
+      "aadhar": "359892359426",
+      "address": "s/o  narvatbhai!!Suliyat!!nat faliyu suliyat!suliyat Morwa hadaf!panchmahals!Gujarat!389110",
+      "alt": "9978519392",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "narvatbhai",
+      "name": "Bariya Narendrasinh",
+      "num": "9825624664"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O  Narvatbhai nat faliyu Suliyat Morwa hadaf PANCHMAHALS  SULIYAT Gujarat 389110 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " BARIYA NARENDRASINH ",
+      "num": "9825624664"
+    },
+    {
+      "aadhar": "359892359426",
+      "address": "s/o  narvatbhai!!Suliyat!!nat faliyu suliyat!suliyat Morwa hadaf!panchmahals!Gujarat!389110",
+      "alt": "9978519392",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "narvatbhai",
+      "name": "Bariya Narendrasinh",
+      "num": "9825624664"
+    },
+    {
+      "aadhar": "359892359426",
+      "address": "nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "9825624664",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai Bariya",
+      "name": "MR NARENDRASINH BARIYA",
+      "num": "9879324995"
+    },
+    {
+      "aadhar": "359892359426",
+      "address": "S/O Narvatbhai!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "9825624664",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai Bariya",
+      "name": "MR NARENDRASINH BARIYA",
+      "num": "9879324995"
+    },
+    {
+      "aadhar": "359892359426",
+      "address": "S/O Narvatbhai!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat!nat faliyu  Suliyat  Suliyat DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "9825624664",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Narvatbhai Bariya",
+      "name": "MR NARENDRASINH BARIYA",
+      "num": "9879324995"
+    }
+  ]
+}
