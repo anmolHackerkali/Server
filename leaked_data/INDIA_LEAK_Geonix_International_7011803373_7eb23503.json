@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:08:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7011803373",
+  "records": [
+    {
+      "aadhar": "924831952325",
+      "address": "203-204!DEEPALI BUILDING-92!NEHRU PLACE!NEW DELHI!Delhi!110019",
+      "alt": "9310556303",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@GEONIX.IN",
+      "fname": "SAURABH JAIN",
+      "name": "Geonix International Private Limited",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "896097953065",
+      "address": "!X-182!X-Block!!J.J.Colony No.-1!Nangloi!West Delhi!Delhi!110041",
+      "alt": "9889623837",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Salim",
+      "name": "Mohammad Salman  ",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "693336216972",
+      "address": "203-204 DEEPALI BUILDING-92 NEHRU PLACE NEW DELHI Delhi 110019",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Geonix International Private Limited",
+      "name": "Sanjay  Prasad",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "924831952325",
+      "address": "203204!DEEPALI BUILDING92!NEHRU PLACE!NEW DELHI!Delhi!110019",
+      "alt": "9310556303",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@GEONIX.IN",
+      "fname": "SAURABH JAIN",
+      "name": "Geonix International Private Limited",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "896097953065",
+      "address": "!X-182!X-Block!!JJColony No-1!Nangloi!West Delhi!Delhi!110041",
+      "alt": "9889623837",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Salim",
+      "name": "Mohammad Salman  ",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "924831952325",
+      "address": "203204!DEEPALI BUILDING92!NEHRU PLACE!NEW DELHI!Delhi!110019",
+      "alt": "9310556303",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@GEONIX.IN",
+      "fname": "SAURABH JAIN",
+      "name": "Geonix International Private Limited",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "693336216972",
+      "address": "203-204 DEEPALI BUILDING-92 NEHRU PLACE NEW DELHI Delhi 110019",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Geonix International Private Limited",
+      "name": "Sanjay  Prasad",
+      "num": "7011803373"
+    },
+    {
+      "aadhar": "896097953065",
+      "address": "!X-182!X-Block!!JJColony No-1!Nangloi!West Delhi!Delhi!110041",
+      "alt": "9889623837",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Salim",
+      "name": "Mohammad Salman  ",
+      "num": "7011803373"
+    }
+  ]
+}
