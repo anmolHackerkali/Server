@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 03:54:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920769862",
+  "records": [
+    {
+      "aadhar": "370082595903",
+      "address": "c/o suresh chandra! a-178!vipin garden!vipin garden!shahil properties kakrola more!uttam nagar!west delhi!Delhi!110059",
+      "alt": "7985622920",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suresh chandra",
+      "name": "Ashish Kumar",
+      "num": "8920769862"
+    },
+    {
+      "aadhar": "370082595903",
+      "address": "c/o suresh chandra!a-178!vipin garden!vipin garden!shahil properties kakrola more!uttam nagar!west delhi!Delhi!110059",
+      "alt": "7985622920",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suresh chandra",
+      "name": "Ashish Kumar",
+      "num": "8920769862"
+    },
+    {
+      "aadhar": "370082595903",
+      "address": "c/o suresh chandra!a-178!vipin garden!vipin garden!shahil properties kakrola more!uttam nagar!west delhi!Delhi!110059",
+      "alt": "7985622920",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "suresh chandra",
+      "name": "Ashish Kumar",
+      "num": "8920769862"
+    },
+    {
+      "aadhar": "UP9220180001649",
+      "address": "!na!vill kurkuru teh orai kurkuru!na!orai!Jalaun!Jalaun!Uttar Pradesh!285223",
+      "alt": "8920769862",
+      "circle": "JIO UPE",
+      "email": "ASHISHK4028@GMAIL.COM",
+      "fname": "suresh chandra",
+      "name": "ashish kumar",
+      "num": "6388376743"
+    },
+    {
+      "aadhar": "UP9220180001649",
+      "address": "!na!vill kurkuru teh orai kurkuru!na!orai!Jalaun!Jalaun!Uttar Pradesh!285223",
+      "alt": "8920769862",
+      "circle": "JIO UPE",
+      "email": "ASHISHK4028@GMAIL.COM",
+      "fname": "suresh chandra",
+      "name": "ashish kumar",
+      "num": "6388376743"
+    }
+  ]
+}
