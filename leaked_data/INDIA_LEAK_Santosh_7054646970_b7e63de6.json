@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:16:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7054646970",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Lalchand!329!! andiyar andiyar Rampur!Jaunpur!Uttar Pradesh!222203",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lalchand",
+      "name": "Santosh",
+      "num": "7054646970"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Lalchand!329!! andiyar andiyar Rampur!Jaunpur!Uttar Pradesh!222203",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lalchand",
+      "name": "Santosh",
+      "num": "7054646970"
+    }
+  ]
+}
