@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 03:54:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9054706991",
+  "records": [
+    {
+      "aadhar": "688187311987",
+      "address": "305 Sanskruti Flat Near SBI Bank  T P-13 Chhani Jakat Naka Chhani Rd Vadodara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Nilesh Fulasunge",
+      "name": "Sonal Nilesh Fulasunge",
+      "num": "9054706991"
+    },
+    {
+      "aadhar": "688187311987",
+      "address": "305 Sanskruti Flat Near SBI Bank  T P-13 Chhani Jakat Naka Chhani Rd Vadodara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Nilesh Fulasunge",
+      "name": "Sonal Nilesh Fulasunge",
+      "num": "9054706991"
+    }
+  ]
+}
