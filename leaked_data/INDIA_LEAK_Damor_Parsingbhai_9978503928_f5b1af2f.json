@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:48:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9978503928",
+  "records": [
+    {
+      "aadhar": "875298551786",
+      "address": "!Bhanasimal!bhana simal!Bhana Simal-Santrampur-Panchmahals!389172",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Gautambhai",
+      "name": "Damor Parsingbhai",
+      "num": "9978503928"
+    },
+    {
+      "aadhar": "875298551786",
+      "address": "Gautambhai!!Bhanasimal!bhana simal!Bhana Simal-Santrampur-Panchmahals!Gujarat!389172",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Gautambhai",
+      "name": "Damor Parsingbhai",
+      "num": "9978503928"
+    },
+    {
+      "aadhar": "875298551786",
+      "address": "Gautambhai!!Bhanasimal!bhana simal!Bhana Simal-Santrampur-Panchmahals!Gujarat!389172",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Gautambhai",
+      "name": "Damor Parsingbhai",
+      "num": "9978503928"
+    }
+  ]
+}
