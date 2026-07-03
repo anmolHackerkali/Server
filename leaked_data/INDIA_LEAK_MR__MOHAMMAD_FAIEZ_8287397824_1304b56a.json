@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:21:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287397824",
+  "records": [
+    {
+      "aadhar": "776482702981",
+      "address": "S/O Yaqeen Uddin!1033 Farash Khana !GALI RAJAN FARASH KHANA  Farash Khana !Farash Khana !Delhi G P O  NORTH DELHI!CENTRAL DELHI!NORTH DELHI!Delhi!110006",
+      "alt": "9582831829",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Yaqeen UDDIN",
+      "name": "MR  MOHAMMAD FAIEZ",
+      "num": "8287397824"
+    },
+    {
+      "aadhar": " 776482702981 ",
+      "address": "S/O Yaqeen Uddin ! 1033 Farash Khana ! GALI RAJAN FARASH KHANA Farash Khana ! Farash Khana ! Delhi G.P.O.NORTH DELHI ! CENTRAL DELHI ! NORTH DELHI ! Delhi ! 110006",
+      "alt": "9582831829",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Yaqeen UDDIN",
+      "name": "MR MOHAMMAD FAIEZ",
+      "num": "8287397824"
+    },
+    {
+      "aadhar": " 776482702981 ",
+      "address": "S/O Yaqeen Uddin ! 1033 Farash Khana ! GALI RAJAN FARASH KHANA Farash Khana ! Farash Khana ! Delhi G.P.O.NORTH DELHI ! CENTRAL DELHI ! NORTH DELHI ! Delhi ! 110006",
+      "alt": "9582831829",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Yaqeen UDDIN",
+      "name": "MR MOHAMMAD FAIEZ",
+      "num": "8287397824"
+    }
+  ]
+}
