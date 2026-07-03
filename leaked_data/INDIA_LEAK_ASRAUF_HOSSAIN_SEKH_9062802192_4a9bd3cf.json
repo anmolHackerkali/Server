@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 01:03:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9062802192",
+  "records": [
+    {
+      "aadhar": "903641005104",
+      "address": "S/O: Golam Hossain Sekh!S/O: Golam Hossain Sekh!Joynagar Majilpur  Jaynagar - I!. !UTTAR DURGAPUR-SOUTH 24 PARGANAS!WB!743337",
+      "alt": "7319545978",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "GOLAM HOSSAIN Hossain SEKH",
+      "name": "ASRAUF HOSSAIN SEKH",
+      "num": "9062802192"
+    },
+    {
+      "aadhar": "903641005104",
+      "address": "S/O: Golam Hossain Sekh!S/O: Golam Hossain Sekh!Joynagar Majilpur  Jaynagar - I!. !UTTAR DURGAPUR-SOUTH 24 PARGANAS!WB!743337",
+      "alt": "7319545978",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "GOLAM HOSSAIN Hossain SEKH",
+      "name": "ASRAUF HOSSAIN SEKH",
+      "num": "9062802192"
+    }
+  ]
+}
