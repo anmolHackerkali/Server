@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:33:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8167076960",
+  "records": [
+    {
+      "aadhar": "817860751178",
+      "address": "SANTULAL DAS!DAHARPAR!DAHARPAR!!Suti 1 Aurangabad!Murshidabad!Murshidabad!West Bengal!742201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SANTULAL DAS",
+      "name": "BIJAYA DAS",
+      "num": "8167076960"
+    },
+    {
+      "aadhar": "817860751178",
+      "address": "SANTULAL DAS!DAHARPAR!DAHARPAR!!Suti 1 Aurangabad!Murshidabad!Murshidabad!West Bengal!742201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SANTULAL DAS",
+      "name": "BIJAYA DAS",
+      "num": "8167076960"
+    }
+  ]
+}
