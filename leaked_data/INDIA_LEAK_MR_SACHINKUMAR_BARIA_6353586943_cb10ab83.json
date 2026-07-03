@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-03 04:49:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6353586943",
+  "records": [
+    {
+      "aadhar": "678159902720",
+      "address": "526nat faliyu!morwahadaf!morwahadaf!panchmhal DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "7433995758",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Narenadarsinh Baria",
+      "name": "MR SACHINKUMAR BARIA",
+      "num": "6353586943"
+    },
+    {
+      "aadhar": "678159902720\"6353586942",
+      "address": "526nat faliyu!morwahadaf!morwahadaf!panchmhal DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "74\n33995758",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Narenadarsinh Baria",
+      "name": "MR SACHINKUMAR BARIA",
+      "num": "6353586943"
+    },
+    {
+      "aadhar": "678159902720",
+      "address": "Nat Faliyu!526nat faliyu!morwahadaf!morwahadaf!panchmhal DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "7433995758",
+      "circle": "VI GUJARAT",
+      "email": "sachubaria8@gmail.com",
+      "fname": "Narenadarsinh Baria",
+      "name": "MR SACHINKUMAR BARIA",
+      "num": "6353586943"
+    },
+    {
+      "aadhar": "678159902720",
+      "address": "Nat Faliyu!526nat faliyu!morwahadaf!morwahadaf!panchmhal DAHOD!DAHOD!DAHOD!Gujarat!389110",
+      "alt": "7433995758",
+      "circle": "VI GUJARAT",
+      "email": "sachubaria8@gmail.com",
+      "fname": "Narenadarsinh Baria",
+      "name": "MR SACHINKUMAR BARIA",
+      "num": "6353586943"
+    },
+    {
+      "aadhar": "707069494958",
+      "address": "s/o  sursinh!28!Metral!!pateliya faliyu ratanpur metral!metral Morwa hadaf!panchmahals!Gujarat!389110",
+      "alt": "6353586943",
+      "circle": "JIO GUJARAT",
+      "email": "sachinbaria1432@gmail.com",
+      "fname": "sursinh",
+      "name": "Pateliya Raghunathbhai",
+      "num": "7433995758"
+    },
+    {
+      "aadhar": "707069494958",
+      "address": "s/o  sursinh!28!Metral!!pateliya faliyu ratanpur metral!metral Morwa hadaf!panchmahals!Gujarat!389110",
+      "alt": "6353586943",
+      "circle": "JIO GUJARAT",
+      "email": "sachinbaria1432@gmail.com",
+      "fname": "sursinh",
+      "name": "Pateliya Raghunathbhai",
+      "num": "7433995758"
+    }
+  ]
+}
