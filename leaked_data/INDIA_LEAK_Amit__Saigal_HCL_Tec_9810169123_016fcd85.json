@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:01:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810169123",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "J 3/86 First Floor Rajouri Garden  New Delhi DEL 110027! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Amit  Saigal HCL Technologies Limited",
+      "num": "9810169123"
+    },
+    {
+      "aadhar": null,
+      "address": "!J 3/86 First Floor Rajouri Garden New Delhi DEL 110027!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Amit  SaigalHCL Technologies Limited",
+      "num": "9810169123"
+    },
+    {
+      "aadhar": null,
+      "address": "J 3/86 First Floor Rajouri Garden  New Delhi DEL 110027       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Amit  Saigal HCL Technologies Limited",
+      "num": "9810169123"
+    },
+    {
+      "aadhar": null,
+      "address": "J 3/86 First Floor Rajouri Garden  New Delhi DEL 110027       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Amit  Saigal HCL Technologies Limited",
+      "num": "9810169123"
+    }
+  ]
+}
