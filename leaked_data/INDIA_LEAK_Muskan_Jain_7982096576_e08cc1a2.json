@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:38:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7982096576",
+  "records": [
+    {
+      "aadhar": "751553858287",
+      "address": "D/O  Vinod Jain!!RZ-E-2 E-Block!Sagarpur Main Road Gandhi Market!SAGARPUR SOUTH WEST DELHI!Delhi!110046",
+      "alt": "918285544436",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Muskan Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": "751553858287",
+      "address": "D/O: Vinod Jain!!RZ-E-2E-Block!Sagarpur  Main Road Gandhi Market!SAGARPUR SOUTH WEST DELHI!Delhi!110046",
+      "alt": "+918285544436",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Muskan Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Vinod Jain!RZ-E-2E-Block!Main Road Gandhi Market!SagarpurSouth West Delhi!Main Road Gandhi Market!DELHI!South West Delhi!Delhi!110046",
+      "alt": "7982096576",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Jiya Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": "751553858287",
+      "address": "D/O: Vinod Jain!!RZ-E-2E-Block!Sagarpur  Main Road Gandhi Market!SAGARPUR SOUTH WEST DELHI!Delhi!110046",
+      "alt": "+918285544436",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Muskan Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Vinod Jain!RZ-E-2E-Block!Main Road Gandhi Market!SagarpurSouth West Delhi!Main Road Gandhi Market!DELHI!South West Delhi!Delhi!110046",
+      "alt": "7982096576",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Jiya Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Vinod Jain!RZ-E-2E-Block!Main Road Gandhi Market!SagarpurSouth West Delhi!Main Road Gandhi Market!DELHI!South West Delhi!Delhi!110046",
+      "alt": "7982096576",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Jiya Jain",
+      "num": "7982096576"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Vinod Jain!RZ-E-2E-Block!Main Road Gandhi Market!SagarpurSouth West Delhi!Main Road Gandhi Market!DELHI!South West Delhi!Delhi!110046",
+      "alt": "7982096576",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Vinod Jain",
+      "name": "Jiya Jain",
+      "num": "7982096576"
+    }
+  ]
+}
