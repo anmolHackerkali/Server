@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:01:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9069600578",
+  "records": [
+    {
+      "aadhar": "663245117800",
+      "address": "!A-1/53!hastal road!uttam nagar New Delhi!DelhiDelhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nek Mohammad Ansari",
+      "name": "Md Akil Alam",
+      "num": "9069600578"
+    },
+    {
+      "aadhar": "663245117800",
+      "address": "!A-1/53!hastal road!uttam nagar New AIRTEL DELHI!!AIRTEL DELHI!!AIRTEL DELHI!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nek Mohammad Ansari",
+      "name": "Md Akil Alam",
+      "num": "9069600578"
+    },
+    {
+      "aadhar": "663245117800",
+      "address": "!A-1/53!hastal road!uttam nagar New Delhi!DelhiDelhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nek Mohammad Ansari",
+      "name": "Md Akil Alam",
+      "num": "9069600578"
+    },
+    {
+      "aadhar": "663245117800",
+      "address": "!A-1/53!hastal road!uttam nagar New Delhi!DelhiDelhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nek Mohammad Ansari",
+      "name": "Md Akil Alam",
+      "num": "9069600578"
+    },
+    {
+      "aadhar": "663245117800",
+      "address": " Ward - 09!VILL MOHANI MANDAL MOHNI MADOL!Village - mohani mandal!Post - mohani mandal  M.mandal!Sitamarhi!Sitamarhi!Bihar!843327 ",
+      "alt": "9069600578",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Nek Mohammad Ansari ",
+      "name": " Md Akil Alam ",
+      "num": "9523582060"
+    },
+    {
+      "aadhar": "663245117800",
+      "address": " Ward - 09!VILL MOHANI MANDAL MOHNI MADOL!Village - mohani mandal!Post - mohani mandal  M.mandal!Sitamarhi!Sitamarhi!Bihar!843327 ",
+      "alt": "9069600578",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Nek Mohammad Ansari ",
+      "name": " Md Akil Alam ",
+      "num": "9523582060"
+    }
+  ]
+}
