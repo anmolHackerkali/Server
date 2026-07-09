@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:02:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178690004",
+  "records": [
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!404 A!PALAM VILLAGE SOUTH WEST DELHI!Delhi!110045",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "8178690004"
+    },
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!404 A!PALAM VILLAGE SOUTH WEST DELHI!Delhi!110045",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "8178690004"
+    },
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!404 A!PALAM VILLAGE SOUTH WEST DELHI!Delhi!110045",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "8178690004"
+    },
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!NA!404 A!PALAM VILLAGESouth West Delhi!NA!Delhi!110045",
+      "alt": "8178690004",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "7217640255"
+    },
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!NA!404 A!PALAM VILLAGESouth West Delhi!NA!Delhi!110045",
+      "alt": "8178690004",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "7217640255"
+    },
+    {
+      "aadhar": "965314801363",
+      "address": "W/O Mahesh Kumar!!!NA!404 A!PALAM VILLAGESouth West Delhi!NA!Delhi!110045",
+      "alt": "8178690004",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Seema",
+      "num": "7217640255"
+    }
+  ]
+}
