@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:31:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9926582778",
+  "records": [
+    {
+      "aadhar": "623752437643",
+      "address": "W/O Shailendra!W/O Shailendra!ward no 10 gormi!Gormi  Mehgaon !GORAM-BHIND!MP!477660",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SHAILENDRA ",
+      "name": "REKHA ",
+      "num": "9926582778"
+    },
+    {
+      "aadhar": "623752437643",
+      "address": "W/O Shailendra!W/O Shailendra!ward no 10 gormi!Gormi  Mehgaon !GORAM-BHIND!MP!477660",
+      "alt": "9926582778",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SHAILENDRA ",
+      "name": "REKHA ",
+      "num": "9009536171"
+    }
+  ]
+}
