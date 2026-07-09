@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:04:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9667728155",
+  "records": [
+    {
+      "aadhar": "575923422497",
+      "address": "D/O Darshan Lal! A 86 NAND RAM PARK UTTAM NAGAR !!!West DelhiWest Delhi!Delhi!110059",
+      "alt": "9811665420",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Darshan  Lal",
+      "name": "Renu",
+      "num": "9667728155"
+    },
+    {
+      "aadhar": "575923422497",
+      "address": "D/O Darshan Lal!A 86 NAND RAM PARKUTTAM NAGAR!!!!West AIRTEL DELHI!!AIRTEL DELHI!110059",
+      "alt": "9811665420",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Darshan  Lal",
+      "name": "Renu",
+      "num": "9667728155"
+    },
+    {
+      "aadhar": "575923422497",
+      "address": "D/O Darshan Lal!A 86 NAND RAM PARKUTTAM NAGAR!!!West DelhiWest Delhi!Delhi!110059",
+      "alt": "9811665420",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Darshan  Lal",
+      "name": "Renu",
+      "num": "9667728155"
+    },
+    {
+      "aadhar": "575923422497",
+      "address": "D/O Darshan Lal!A 86 NAND RAM PARKUTTAM NAGAR!!!West DelhiWest Delhi!Delhi!110059",
+      "alt": "9811665420",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Darshan  Lal",
+      "name": "Renu",
+      "num": "9667728155"
+    }
+  ]
+}
