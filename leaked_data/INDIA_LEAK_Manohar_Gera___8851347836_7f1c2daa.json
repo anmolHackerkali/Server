@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:33:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8851347836",
+  "records": [
+    {
+      "aadhar": "229731355122",
+      "address": "S/O Ladu Ram!!J-53Arya samaj road!!Uttam NagarWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ladu Ram",
+      "name": "Manohar Gera  ",
+      "num": "8851347836"
+    },
+    {
+      "aadhar": "229731355122",
+      "address": "S/O Ladu Ram!!J-53Arya samaj road!!Uttam NagarWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ladu Ram",
+      "name": "Manohar Gera  ",
+      "num": "8851347836"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Manohar Gera!!J-53AARYA SAMAJ ROAD!UTTAM NAGAR!UTTAM NAGARWest Delhi!Delhi!110059",
+      "alt": "918920624246",
+      "circle": "JIO DELHI",
+      "email": "mayankgera07@gmail.com",
+      "fname": "Manohar Gera",
+      "name": "Mayank Gera",
+      "num": "8851347836"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Manohar Gera!!J-53AARYA SAMAJ ROAD!UTTAM NAGAR!UTTAM NAGARWest Delhi!Delhi!110059",
+      "alt": "918920624246",
+      "circle": "JIO DELHI",
+      "email": "mayankgera07@gmail.com",
+      "fname": "Manohar Gera",
+      "name": "Mayank Gera",
+      "num": "8851347836"
+    },
+    {
+      "aadhar": "229731355122",
+      "address": "S/O Ladu Ram!!J-53Arya samaj road!!Uttam NagarWest Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ladu Ram",
+      "name": "Manohar Gera  ",
+      "num": "8851347836"
+    }
+  ]
+}
