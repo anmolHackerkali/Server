@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:36:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6264115416",
+  "records": [
+    {
+      "aadhar": "800729487726",
+      "address": "!!uday ji ki payega janakganj punjabi mohhala lashker uday ji ki payega janakganj punjabi mohhala lashker uday ji ki payega janakganj punjabi mohhala lashker!NA!Gwalior!Gwalior Gwalior!NA!Madhya Prade",
+      "alt": "7470403186",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Pramod kumar",
+      "name": "Nikhil Mahendru",
+      "num": "6264115416"
+    }
+  ]
+}
