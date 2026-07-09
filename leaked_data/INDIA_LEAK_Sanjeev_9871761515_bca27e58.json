@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:54:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871761515",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Kishan Chand!Plot In KH No 763  Ground Floor!Old Rangpuri Road Village!Rangpuri Oppsite Gali No 15New Delhi Mahipalpur!Gurgaon Road Vasant Vihar!Delhi!110037",
+      "alt": "9871899441",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kishan",
+      "name": "Sanjeev",
+      "num": "9871761515"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kishan Chand!Plot In KH No 763 Ground Floor!Old Rangpuri Road Village!Rangpuri Oppsite Gali No 15New DelhiMahipalpur!Gurgaon RoadVasant Vihar!Delhi!110037",
+      "alt": "9871899441",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kishan",
+      "name": "Sanjeev",
+      "num": "9871761515"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kishan Chand!Plot In KH No 763 Ground Floor!Old Rangpuri Road Village!Rangpuri Oppsite Gali No 15New DelhiMahipalpur!Gurgaon RoadVasant Vihar!Delhi!110037",
+      "alt": "9871899441",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kishan",
+      "name": "Sanjeev",
+      "num": "9871761515"
+    }
+  ]
+}
