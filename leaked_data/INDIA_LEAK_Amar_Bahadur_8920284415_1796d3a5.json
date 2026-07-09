@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:32:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920284415",
+  "records": [
+    {
+      "aadhar": "696305608512",
+      "address": "S/O  Ganga Bahadur!!152 V P O Prashant Vihar!RITHALA Narela!Rohini Sector14 North West Delhi!Delhi!110085",
+      "alt": "919811033854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Bahadur",
+      "name": "Amar Bahadur",
+      "num": "8920284415"
+    },
+    {
+      "aadhar": "696305608512",
+      "address": "S/O  Ganga Bahadur!!152 V P O Prashant Vihar!RITHALA Narela!Rohini Sector14 North West Delhi!Delhi!110085",
+      "alt": "919811033854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Bahadur",
+      "name": "Amar Bahadur",
+      "num": "8920284415"
+    },
+    {
+      "aadhar": "696305608512",
+      "address": "S/O  Ganga Bahadur!!152 V P O Prashant Vihar!RITHALA Narela!Rohini Sector14 North West Delhi!Delhi!110085",
+      "alt": "919811033854",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Bahadur",
+      "name": "Amar Bahadur",
+      "num": "8920284415"
+    }
+  ]
+}
