@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:52:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6397514876",
+  "records": [
+    {
+      "aadhar": "228098812647",
+      "address": "S/O  Ramprasad!!village - gwalrapost - gabhanaGabhana!!GabhanaGabhanaAligarh!Uttar Pradesh!202136",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Dinesh Kumar Singh",
+      "num": "6397514876"
+    },
+    {
+      "aadhar": "228098812647",
+      "address": "S/O  Ramprasad!!village - gwalra post - gabhana Gabhana!!Gabhana Gabhana Aligarh!Uttar Pradesh!202136",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Dinesh Kumar Singh",
+      "num": "6397514876"
+    },
+    {
+      "aadhar": "228098812647",
+      "address": "S/O  Ramprasad!!village - gwalra post - gabhana Gabhana!!Gabhana Gabhana Aligarh!Uttar Pradesh!202136",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramprasad",
+      "name": "Dinesh Kumar Singh",
+      "num": "6397514876"
+    }
+  ]
+}
