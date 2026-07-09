@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:30:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7489629196",
+  "records": [
+    {
+      "aadhar": "877139958684",
+      "address": "S/O: Ratiram! house no. 00!hinotiya tola!khamhariya!jabalpur!Jabalpur!JABALPUR!Madhya Pradesh!482021",
+      "alt": "7489167385",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ratiram",
+      "name": "Maliram",
+      "num": "7489629196"
+    },
+    {
+      "aadhar": null,
+      "address": " Hinotiya tola Khamhariya  Jabalpur Jabalpur  Madhya Pradesh 482021",
+      "alt": "7489629196",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Ratiram",
+      "name": "Maliram",
+      "num": "8871246366 "
+    }
+  ]
+}
