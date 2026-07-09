@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:29:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9303759293",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Dulare Sharma!!village gormi!!Tikri Gormi Bhind!Madhya Pradesh!477660",
+      "alt": "919399589412",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ram Dulare Sharma",
+      "name": "Shailendra Kumar Sharma",
+      "num": "9303759293"
+    }
+  ]
+}
