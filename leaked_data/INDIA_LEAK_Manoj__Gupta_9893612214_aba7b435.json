@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:33:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9893612214",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "ward n 7  gormi Goram Bhind Madhya Pradesh 477660",
+      "alt": "9893612214",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Shri Krishan Gupta",
+      "name": "Manoj  Gupta",
+      "num": "9893612214 "
+    },
+    {
+      "aadhar": "923876179226",
+      "address": "S/O SHRI KRISHAN GUPTA!WARD NO 7!WARD NO 7!WARD NO 7!WARD NO 7 BHIND!BHIND!BHIND!Madhya Pradesh!477660",
+      "alt": "9893612214",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SHRI KRISHNA GUPTA",
+      "name": "MR MANOJ GUPTA",
+      "num": "9617076919"
+    }
+  ]
+}
