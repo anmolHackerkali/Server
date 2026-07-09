@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:37:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871288535",
+  "records": [
+    {
+      "aadhar": "714277685769",
+      "address": "S/O Saryug Prasad Sharma!Rz 601/403 Shiv Puri West Sagar Pur!Gali N0 15 C!Nangal Raya S O!South West Delhi!Delhi!110046",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Saryug Prasad Sharma",
+      "name": "Anjani Kant Sharma",
+      "num": "9871288535"
+    },
+    {
+      "aadhar": "714277685769",
+      "address": "S/O Saryug Prasad Sharma!Rz 601/403 Shiv Puri West Sagar Pur!Gali N0 15 C!Nangal Raya S O!South West Delhi!Delhi!110046",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Saryug Prasad Sharma",
+      "name": "Anjani Kant Sharma",
+      "num": "9871288535"
+    },
+    {
+      "aadhar": "714277685769",
+      "address": "S/O Saryug Prasad Sharma!Rz 601/403 Shiv Puri West Sagar Pur!Gali N0 15 C!Nangal Raya S O!South West Delhi!Delhi!110046",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Saryug Prasad Sharma",
+      "name": "Anjani Kant Sharma",
+      "num": "9871288535"
+    }
+  ]
+}
