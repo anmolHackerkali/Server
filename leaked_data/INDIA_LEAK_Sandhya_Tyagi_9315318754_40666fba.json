@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:47:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315318754",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Anuj Kumar!!House No 111 TF Block C Clock Tower!Hari Nagar!Maya Puri South West Delhi!Delhi!110064",
+      "alt": "918448145345",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anuj Kumar",
+      "name": "Sandhya Tyagi",
+      "num": "9315318754"
+    },
+    {
+      "aadhar": "346177786475",
+      "address": "S/O Naimuddin!!E-87Banjara ChoukGhaziabad!Sector-12 Vijay nagar!GhaziabadGhaziabad!Uttar Pradesh!201001",
+      "alt": "+919650776013",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Naimuddin",
+      "name": "Nasir Ali",
+      "num": "9315318754"
+    },
+    {
+      "aadhar": "346177786475",
+      "address": "S/O Naimuddin!!E-87Banjara ChoukGhaziabad!Sector-12 Vijay nagar!GhaziabadGhaziabad!Uttar Pradesh!201001",
+      "alt": "+919650776013",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Naimuddin",
+      "name": "Nasir Ali",
+      "num": "9315318754"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Anuj Kumar!!House No 111 TF Block CClock Tower!Hari Nagar!Maya PuriSouth West Delhi!Delhi!110064",
+      "alt": "918448145345",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anuj Kumar",
+      "name": "Sandhya Tyagi",
+      "num": "9315318754"
+    },
+    {
+      "aadhar": "346177786475",
+      "address": "S/O Naimuddin!!E-87Banjara ChoukGhaziabad!Sector-12 Vijay nagar!GhaziabadGhaziabad!Uttar Pradesh!201001",
+      "alt": "+919650776013",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Naimuddin",
+      "name": "Nasir Ali",
+      "num": "9315318754"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Anuj Kumar!!House No 111 TF Block CClock Tower!Hari Nagar!Maya PuriSouth West Delhi!Delhi!110064",
+      "alt": "918448145345",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anuj Kumar",
+      "name": "Sandhya Tyagi",
+      "num": "9315318754"
+    }
+  ]
+}
