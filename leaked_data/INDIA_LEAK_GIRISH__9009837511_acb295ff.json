@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:34:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9009837511",
+  "records": [
+    {
+      "aadhar": "325021458272",
+      "address": "S/O Ramdulare!S/O Ramdulare!ward no 10 gormi!Gormi  Mehgaon !GORAM-BHIND!MP!477660",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAMDULARE ",
+      "name": "GIRISH ",
+      "num": "9009837511"
+    }
+  ]
+}
