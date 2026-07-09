@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:02:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8350093913",
+  "records": [
+    {
+      "aadhar": "317507068102",
+      "address": "!VIVEKANANDA POLLY  RANIGANJ!VIVEKANANDA POLLY  RANIGANJ!VIVEKANANDA POLLY  RANIGANJ!RANIGANJ BARDHAMAN!BARDDHAMAN!BARDHAMAN!West Bengal!713347",
+      "alt": "9093428004",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "GOPAL PRASAD CHAKRA",
+      "name": "MR RABI PRASAD CHAKRA",
+      "num": "8350093913"
+    },
+    {
+      "aadhar": "317507068102",
+      "address": "!VIVEKANANDA POLLY  RANIGANJ!VIVEKANANDA POLLY  RANIGANJ!VIVEKANANDA POLLY  RANIGANJ!RANIGANJ BARDHAMAN!BARDDHAMAN!BARDHAMAN!West Bengal!713347",
+      "alt": "9093428004",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "GOPAL PRASAD CHAKRA",
+      "name": "MR RABI PRASAD CHAKRA",
+      "num": "8350093913"
+    }
+  ]
+}
