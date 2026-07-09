@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:31:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7089126572",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ram Dulare Sharma!.!. village gormi!. Bhind!village gormi!BHIND!Bhind!Madhya Pradesh!477660",
+      "alt": "9826245678",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Ram Dulare Sharma",
+      "name": "Shailendra Kumar Sharma",
+      "num": "7089126572"
+    }
+  ]
+}
