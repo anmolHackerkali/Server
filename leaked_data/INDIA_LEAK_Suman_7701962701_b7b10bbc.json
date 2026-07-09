@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:49:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7701962701",
+  "records": [
+    {
+      "aadhar": "305305978377",
+      "address": "W/O Umesh!!34- BJ- BlockNajafgarh!Old Roshan Pura Extn!NagafgarhSouth West Delhi!Delhi!110043",
+      "alt": "+919212981249",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Umesh",
+      "name": "Suman",
+      "num": "7701962701"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Lucky Chadha!!H No-6A 1st FloorKh No-32/1 Gali No-21!Vikas Vihar Nilothi Extn Chander Vihar!NangloiWest Delhi!Delhi!110041",
+      "alt": "919958284833",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "lucky chadha",
+      "name": "Anmol Chadha",
+      "num": "7701962701"
+    },
+    {
+      "aadhar": "305305978377",
+      "address": "W/O Umesh!!34- BJ- BlockNajafgarh!Old Roshan Pura Extn!NagafgarhSouth West Delhi!Delhi!110043",
+      "alt": "+919212981249",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Umesh",
+      "name": "Suman",
+      "num": "7701962701"
+    },
+    {
+      "aadhar": "305305978377",
+      "address": "W/O Umesh!!34- BJ- BlockNajafgarh!Old Roshan Pura Extn!NagafgarhSouth West Delhi!Delhi!110043",
+      "alt": "+919212981249",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Umesh",
+      "name": "Suman",
+      "num": "7701962701"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Lucky Chadha!!H No-6A 1st FloorKh No-32/1 Gali No-21!Vikas Vihar Nilothi Extn Chander Vihar!NangloiWest Delhi!Delhi!110041",
+      "alt": "919958284833",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "lucky chadha",
+      "name": "Anmol Chadha",
+      "num": "7701962701"
+    }
+  ]
+}
