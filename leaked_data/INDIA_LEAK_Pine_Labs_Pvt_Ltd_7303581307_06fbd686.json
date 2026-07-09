@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:43:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7303581307",
+  "records": [
+    {
+      "aadhar": "155805800",
+      "address": "!Pine Labs Pvt Ltd!Candor Techspace 2nd And 3rd Floor Tower2!!Plot No B2 Sec62!Noida Noida!!Uttar Pradesh!201301",
+      "alt": "9560077339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NULLLLlL",
+      "name": "Pine Labs Pvt Ltd",
+      "num": "7303581307"
+    },
+    {
+      "aadhar": "155805800",
+      "address": "!Pine Labs Pvt Ltd!Candor Techspace 2nd And 3rd Floor Tower2!!Plot No B2 Sec62!Noida Noida!!Uttar Pradesh!201301",
+      "alt": "9560077339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "LLlL",
+      "name": "Pine Labs Pvt Ltd",
+      "num": "7303581307"
+    },
+    {
+      "aadhar": "155805800",
+      "address": "!Pine Labs Pvt Ltd!Candor Techspace 2nd And 3rd Floor Tower2!!Plot No B2 Sec62!Noida Noida!!Uttar Pradesh!201301",
+      "alt": "9560077339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "LLlL",
+      "name": "Pine Labs Pvt Ltd",
+      "num": "7303581307"
+    }
+  ]
+}
