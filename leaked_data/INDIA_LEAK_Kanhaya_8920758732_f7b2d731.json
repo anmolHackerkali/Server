@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:00:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920758732",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Arun Bhagat!!E-220!Geeta Colony Jhuggi Block-8!Geeta Colony East Delhi!Delhi!110031",
+      "alt": "919899564520",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Arun Bhagat",
+      "name": "Kanhaya",
+      "num": "8920758732"
+    },
+    {
+      "aadhar": "591057933054",
+      "address": "!cn 128!meer dard road!!takiya kale khan!New Delhi Central!Central!Delhi!110002",
+      "alt": "8130733075",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hanif qureshi",
+      "name": "Sharif  ",
+      "num": "8920758732"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Arun Bhagat!!E-220!Geeta Colony Jhuggi Block-8!Geeta ColonyEast Delhi!Delhi!110031",
+      "alt": "919899564520",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Arun Bhagat",
+      "name": "Kanhaya",
+      "num": "8920758732"
+    },
+    {
+      "aadhar": "591057933054",
+      "address": "!cn 128!meer dard road!!takiya kale khan!New Delhi Central!Central!Delhi!110002",
+      "alt": "8130733075",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hanif qureshi",
+      "name": "Sharif  ",
+      "num": "8920758732"
+    },
+    {
+      "aadhar": "591057933054",
+      "address": "!cn 128!meer dard road!!takiya kale khan!New Delhi Central!Central!Delhi!110002",
+      "alt": "8130733075",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hanif qureshi",
+      "name": "Sharif  ",
+      "num": "8920758732"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Arun Bhagat!!E-220!Geeta Colony Jhuggi Block-8!Geeta ColonyEast Delhi!Delhi!110031",
+      "alt": "919899564520",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Arun Bhagat",
+      "name": "Kanhaya",
+      "num": "8920758732"
+    }
+  ]
+}
