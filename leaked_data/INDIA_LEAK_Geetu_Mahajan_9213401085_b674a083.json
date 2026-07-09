@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:21:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9213401085",
+  "records": [
+    {
+      "aadhar": "578783846969",
+      "address": "! T-154!shukkar bazar!!uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9654017642",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rajesh mahajan",
+      "name": "Geetu Mahajan",
+      "num": "9213401085"
+    },
+    {
+      "aadhar": "578783846969",
+      "address": "!T-154!shukkar bazar!!uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9654017642",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rajesh mahajan",
+      "name": "Geetu Mahajan",
+      "num": "9213401085"
+    },
+    {
+      "aadhar": "578783846969",
+      "address": "!T-154!shukkar bazar!!uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9654017642",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rajesh mahajan",
+      "name": "Geetu Mahajan",
+      "num": "9213401085"
+    }
+  ]
+}
