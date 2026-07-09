@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:25:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8810867903",
+  "records": [
+    {
+      "aadhar": "362658677385",
+      "address": "!162!NAND BHAVAN PATELNAGAR!!MUGALSARAI!Chandauli!Chandauli!Uttar Pradesh!232101",
+      "alt": "9794846011",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "RAM KISHORE PRASAD",
+      "name": "Santosh Kumar Sinha",
+      "num": "8810867903"
+    },
+    {
+      "aadhar": "362658677385",
+      "address": "!162!NAND BHAVAN PATELNAGAR!!MUGALSARAI!Chandauli!Chandauli!Uttar Pradesh!232101",
+      "alt": "9794846011",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "RAM KISHORE PRASAD",
+      "name": "Santosh Kumar Sinha",
+      "num": "8810867903"
+    }
+  ]
+}
