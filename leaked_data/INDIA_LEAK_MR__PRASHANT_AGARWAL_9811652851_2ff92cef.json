@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:28:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9811652851",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H NO- AC-52 2ND FLOOR!NEAR TAGORE GARDEN METRO STATION!TAGORE GARDEN!DELHI!DELHI!110027",
+      "alt": "9811762581",
+      "circle": "VI DELHI",
+      "email": "AGARWAL.PRASHANT26@GMAIL.COM",
+      "fname": "Rakesh Agarwal",
+      "name": "MR  PRASHANT AGARWAL",
+      "num": "9811652851"
+    },
+    {
+      "aadhar": null,
+      "address": "H NO- AC-52 2ND FLOOR!NEAR TAGORE GARDEN METRO STATION!TAGORE GARDEN!DELHI!DELHI!110027",
+      "alt": "9811762581",
+      "circle": "VI DELHI",
+      "email": "AGARWAL.PRASHANT26@GMAIL.COM",
+      "fname": "Rakesh Agarwal",
+      "name": "MR  PRASHANT AGARWAL",
+      "num": "9811652851"
+    },
+    {
+      "aadhar": null,
+      "address": "H NO- AC-52 2ND FLOOR ! NEAR TAGORE GARDEN METRO STATION ! TAGORE GARDEN ! DELHI ! DELHI ! 110027",
+      "alt": "9811762581",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rakesh Agarwal",
+      "name": "MR PRASHANT AGARWAL",
+      "num": "9811652851"
+    },
+    {
+      "aadhar": null,
+      "address": "H NO- AC-52 2ND FLOOR ! NEAR TAGORE GARDEN METRO STATION ! TAGORE GARDEN ! DELHI ! DELHI ! 110027",
+      "alt": "9811762581",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rakesh Agarwal",
+      "name": "MR PRASHANT AGARWAL",
+      "num": "9811652851"
+    }
+  ]
+}
