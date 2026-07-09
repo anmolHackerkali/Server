@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:32:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7289910992",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C 335 ! PALAM EXTN DWARKA SECTOR 7 GOLD GYM DWARKA SECTOR 7 DWARKA SECTOR 6 ! DELHI ! DELHI ! DELHI ! 110075",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AJAYBAHADURSINGH",
+      "name": "SOURAV SINGH",
+      "num": "7289910992"
+    },
+    {
+      "aadhar": null,
+      "address": "C 335 ! PALAM EXTN DWARKA SECTOR 7 GOLD GYM DWARKA SECTOR 7 DWARKA SECTOR 6 ! DELHI ! DELHI ! DELHI ! 110075",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AJAYBAHADURSINGH",
+      "name": "SOURAV SINGH",
+      "num": "7289910992"
+    },
+    {
+      "aadhar": null,
+      "address": "C 335 ! PALAM EXTN DWARKA SECTOR 7 GOLD GYM DWARKA SECTOR 7 DWARKA SECTOR 6 ! DELHI ! DELHI ! DELHI ! 110075",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AJAYBAHADURSINGH",
+      "name": "SOURAV SINGH",
+      "num": "7289910992"
+    }
+  ]
+}
