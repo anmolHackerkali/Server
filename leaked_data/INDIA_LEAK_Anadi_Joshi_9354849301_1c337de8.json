@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:38:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9354849301",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O V S Joshi!!Flat No. 626  Ground Floor Pocket - A  Phase - 2!Sector - 17 Dwarka!NSIT Dwarka South West Delhi!Delhi!110078",
+      "alt": "918630156506",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "V S Joshi",
+      "name": "Anadi Joshi",
+      "num": "9354849301"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O V S Joshi!!Flat No 626 Ground FloorPocket - A Phase - 2!Sector - 17 Dwarka!NSIT DwarkaSouth West Delhi!Delhi!110078",
+      "alt": "918630156506",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "V S Joshi",
+      "name": "Anadi Joshi",
+      "num": "9354849301"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O V S Joshi!!Flat No 626 Ground FloorPocket - A Phase - 2!Sector - 17 Dwarka!NSIT DwarkaSouth West Delhi!Delhi!110078",
+      "alt": "918630156506",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "V S Joshi",
+      "name": "Anadi Joshi",
+      "num": "9354849301"
+    }
+  ]
+}
