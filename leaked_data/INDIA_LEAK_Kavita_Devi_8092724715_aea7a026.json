@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:01:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8092724715",
+  "records": [
+    {
+      "aadhar": "717125431030",
+      "address": "W/O Rajesh Pandit!!Madhupur!NEAR SINCHAAI COLONY!TITIHIYA BANK!Madhupur!Deoghar!Jharkhand!815353",
+      "alt": "8092647800",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajesh Pandit",
+      "name": "Kavita Devi",
+      "num": "8092724715"
+    },
+    {
+      "aadhar": "717125431030",
+      "address": "W/O Rajesh Pandit!!Madhupur!NEAR SINCHAAI COLONY!TITIHIYA BANK!Madhupur!Deoghar!Jharkhand!815353",
+      "alt": "8092647800",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajesh Pandit",
+      "name": "Kavita Devi",
+      "num": "8092724715"
+    }
+  ]
+}
