@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:48:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8878597413",
+  "records": [
+    {
+      "aadhar": "860472480640",
+      "address": "S/O Lalbahadur Manjhi!ward no 12!gaura road near elektric pol!near elektric pol!chakghat Rewa!REWA!Rewa!Madhya Pradesh!486226",
+      "alt": "9669790351",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Lalbahadur Manjhi",
+      "name": "MR AMIT KUMAR MANJHI",
+      "num": "8878597413"
+    }
+  ]
+}
