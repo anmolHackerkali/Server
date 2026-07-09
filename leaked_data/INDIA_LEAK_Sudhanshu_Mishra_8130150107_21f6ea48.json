@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:23:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8130150107",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Shyama Nand Mishra!1735 gali no-17 village wazirabad!!near jagatpur more!Jagat Pur Ilaqa DelhiNorth Delhi!Delhi!110084",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shyama Nand Mishra",
+      "name": "Sudhanshu Mishra",
+      "num": "8130150107"
+    },
+    {
+      "aadhar": "406515404675",
+      "address": "!A-30!street no. 3!sbi bank!jagat puri krishna nagar east!Delhi!SHAHDARA!Delhi!110051",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "prakash chand Chopra",
+      "name": "Pradeep Chopra",
+      "num": "8130150107"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shyama Nand Mishra!1735 gali no-17 village wazirabad!!near jagatpur more!Jagat Pur Ilaqa DelhiNorth Delhi!Delhi!110084",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shyama Nand Mishra",
+      "name": "Sudhanshu Mishra",
+      "num": "8130150107"
+    },
+    {
+      "aadhar": "406515404675",
+      "address": "!A-30!street no 3!sbi bank!jagat puri krishna nagar east!Delhi!SHAHDARA!Delhi!110051",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "prakash chand Chopra",
+      "name": "Pradeep Chopra",
+      "num": "8130150107"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shyama Nand Mishra!1735 gali no-17 village wazirabad!!near jagatpur more!Jagat Pur Ilaqa DelhiNorth Delhi!Delhi!110084",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shyama Nand Mishra",
+      "name": "Sudhanshu Mishra",
+      "num": "8130150107"
+    },
+    {
+      "aadhar": "406515404675",
+      "address": "!A-30!street no 3!sbi bank!jagat puri krishna nagar east!Delhi!SHAHDARA!Delhi!110051",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "prakash chand Chopra",
+      "name": "Pradeep Chopra",
+      "num": "8130150107"
+    }
+  ]
+}
