@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:19:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8799782155",
+  "records": [
+    {
+      "aadhar": "723598539963",
+      "address": "S/O Harbans Lal Khera!!A-1/45 B!JANTA FALTS!PASCHIM VIHAR West Delhi!Delhi!110063",
+      "alt": "919871202303",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Harbans Lal Khera",
+      "name": "Joginder Kumar Khera",
+      "num": "8799782155"
+    },
+    {
+      "aadhar": "723598539963",
+      "address": "S/O Harbans Lal Khera!!A-1/45 B!JANTA FALTS!PASCHIM VIHARWest Delhi!Delhi!110063",
+      "alt": "919871202303",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Harbans Lal Khera",
+      "name": "Joginder Kumar Khera",
+      "num": "8799782155"
+    },
+    {
+      "aadhar": "723598539963",
+      "address": "S/O Harbans Lal Khera!!A-1/45 B!JANTA FALTS!PASCHIM VIHARWest Delhi!Delhi!110063",
+      "alt": "919871202303",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Harbans Lal Khera",
+      "name": "Joginder Kumar Khera",
+      "num": "8799782155"
+    }
+  ]
+}
