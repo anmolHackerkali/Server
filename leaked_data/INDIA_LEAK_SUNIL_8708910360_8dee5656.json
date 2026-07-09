@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:30:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708910360",
+  "records": [
+    {
+      "aadhar": "791927533908",
+      "address": "34/11 NEAR SACHHI SARKAR  WARD NO 11 PANIPAT PANIPAT HARYANA 132103",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "GANPAT RAL",
+      "name": "SUNIL",
+      "num": "8708910360"
+    },
+    {
+      "aadhar": "791927533908",
+      "address": "S/O GANPAT RAL!34/11!NEAR SACHHI SARKAR!!WARD NO 11!PANIPAT!PANIPAT!HARYANA!132103",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "GANPAT RAL",
+      "name": "SUNIL",
+      "num": "8708910360"
+    }
+  ]
+}
