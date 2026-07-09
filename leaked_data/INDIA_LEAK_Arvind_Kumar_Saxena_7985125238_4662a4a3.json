@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:29:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985125238",
+  "records": [
+    {
+      "aadhar": "728429210222",
+      "address": "S/O: Girish Chandra Saxena!!53 dwarika vihar faridi nagar indra nagar!!Cimap Lucknow!Uttar Pradesh!226015",
+      "alt": "918090088900",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girish Chandra Saxena",
+      "name": "Arvind Kumar Saxena",
+      "num": "7985125238"
+    },
+    {
+      "aadhar": "728429210222",
+      "address": "S/O: Girish Chandra Saxena!!53 dwarika vihar faridi nagar indra nagar!!Cimap Lucknow!Uttar Pradesh!226015",
+      "alt": "918090088900",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girish Chandra Saxena",
+      "name": "Arvind Kumar Saxena",
+      "num": "7985125238"
+    }
+  ]
+}
