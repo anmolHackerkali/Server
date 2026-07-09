@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:32:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9009536171",
+  "records": [
+    {
+      "aadhar": "623752437643",
+      "address": "W/O Shailendra!W/O Shailendra!ward no 10 gormi!Gormi  Mehgaon !GORAM-BHIND!MP!477660",
+      "alt": "9926582778",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SHAILENDRA ",
+      "name": "REKHA ",
+      "num": "9009536171"
+    },
+    {
+      "aadhar": "623752437643",
+      "address": "! ward 10 gormi!gormi!mehgaon!gormi!Mehgaon!BHIND!Madhya Pradesh!477660",
+      "alt": "9009536171",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "shailendra Kumar Sharma",
+      "name": "Rekha Sharma",
+      "num": "6261471705"
+    }
+  ]
+}
