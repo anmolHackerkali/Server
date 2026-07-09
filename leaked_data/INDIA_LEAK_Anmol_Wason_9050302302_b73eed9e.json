@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:39:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9050302302",
+  "records": [
+    {
+      "aadhar": "598099860093",
+      "address": "!256!tilak khand!!giri nagar!New Delhi South!South!Delhi!110019",
+      "alt": "9896584149",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ajay Wason",
+      "name": "Anmol Wason",
+      "num": "9050302302"
+    },
+    {
+      "aadhar": "598099860093",
+      "address": "!256!tilak khand!!giri nagar!New Delhi South!South!Delhi!110019",
+      "alt": "9896584149",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ajay Wason",
+      "name": "Anmol Wason",
+      "num": "9050302302"
+    },
+    {
+      "aadhar": "598099860093",
+      "address": "!256!tilak khand!!giri nagar!New Delhi South!South!Delhi!110019",
+      "alt": "9896584149",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ajay Wason",
+      "name": "Anmol Wason",
+      "num": "9050302302"
+    },
+    {
+      "aadhar": "598099860093",
+      "address": "!wz-55!jj Colony!school!Uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9050302302",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ajay wason",
+      "name": "Anmol Wason  ",
+      "num": "7011288374"
+    },
+    {
+      "aadhar": "598099860093",
+      "address": "!wz-55!jj Colony!school!Uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9050302302",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ajay wason",
+      "name": "Anmol Wason  ",
+      "num": "7011288374"
+    },
+    {
+      "aadhar": "598099860093",
+      "address": "!wz-55!jj Colony!school!Uttam Nagar!New Delhi West!West!Delhi!110059",
+      "alt": "9050302302",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ajay wason",
+      "name": "Anmol Wason  ",
+      "num": "7011288374"
+    }
+  ]
+}
