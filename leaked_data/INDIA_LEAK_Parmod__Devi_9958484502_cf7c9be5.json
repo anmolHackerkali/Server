@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:02:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958484502",
+  "records": [
+    {
+      "aadhar": "605246258541",
+      "address": "!Plot No-132!Gali No-2! Nangli Vihar Nangloi Nangli Sakrawati !D C Nangli Sakravati NajafgarhSouth West Delhi!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rakesh  Kumar",
+      "name": "Parmod  Devi",
+      "num": "9958484502"
+    },
+    {
+      "aadhar": "605246258541",
+      "address": "!Plot No-132 Gali No-2 Nangli Vihar Nangloi Nangli Sakrawati D C Nangli Sakravati Najafgarh South West AIRTEL DELHI AIRTEL DELHI 110043!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rakesh  Kumar",
+      "name": "Parmod  Devi",
+      "num": "9958484502"
+    },
+    {
+      "aadhar": "605246258541",
+      "address": "!Plot No-132!Gali No-2!Nangli Vihar NangloiNangli Sakrawati!D C Nangli Sakravati NajafgarhSouth West Delhi!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rakesh  Kumar",
+      "name": "Parmod  Devi",
+      "num": "9958484502"
+    },
+    {
+      "aadhar": "605246258541",
+      "address": "!Plot No-132!Gali No-2!Nangli Vihar NangloiNangli Sakrawati!D C Nangli Sakravati NajafgarhSouth West Delhi!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rakesh  Kumar",
+      "name": "Parmod  Devi",
+      "num": "9958484502"
+    }
+  ]
+}
