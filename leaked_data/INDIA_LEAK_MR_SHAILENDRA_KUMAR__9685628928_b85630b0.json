@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:35:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9685628928",
+  "records": [
+    {
+      "aadhar": "459227501048",
+      "address": "!tikari!tikari VILLAGE GORMI!VILLAGE GORMI!GORMI GORMI BHIND!BHIND!BHIND!Madhya Pradesh!477660",
+      "alt": "6261471705",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ramdulare",
+      "name": "MR SHAILENDRA KUMAR SHARMA",
+      "num": "9685628928"
+    }
+  ]
+}
