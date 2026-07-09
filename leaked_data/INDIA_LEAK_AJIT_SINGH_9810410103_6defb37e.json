@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 18:03:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810410103",
+  "records": [
+    {
+      "aadhar": "906017896962",
+      "address": "!A-94B!Chanakya place part 1 UTTAM NAGAR!25 feet road!!!New Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "ranbir singh",
+      "name": "AJIT SINGH",
+      "num": "9810410103"
+    },
+    {
+      "aadhar": "DL04 20100122955",
+      "address": "!A 94 B!CHANAKYA PLACE PART I!MANDIR!UTTAM NAGAR WEST DELHI!New Delhi!West!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "khushaldabas@gmail.com",
+      "fname": "RANBIR SINGH",
+      "name": "AJIT SINGH",
+      "num": "9810410103"
+    },
+    {
+      "aadhar": "DL04 20100122955",
+      "address": "!A 94 B!CHANAKYA PLACE PART I!MANDIR!UTTAM NAGAR WEST DELHI!New Delhi!West!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "khushaldabas@gmail.com",
+      "fname": "RANBIR SINGH",
+      "name": "AJIT SINGH",
+      "num": "9810410103"
+    },
+    {
+      "aadhar": "DL04 20100122955",
+      "address": "!A 94 B!CHANAKYA PLACE PART I!MANDIR!UTTAM NAGAR WEST DELHI!New Delhi!West!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "khushaldabas@gmail.com",
+      "fname": "RANBIR SINGH",
+      "name": "AJIT SINGH",
+      "num": "9810410103"
+    },
+    {
+      "aadhar": "DL04 20100122955",
+      "address": "!A 94 B!CHANAKYA PLACE PART I!MANDIR!UTTAM NAGAR WEST DELHI!New Delhi!West!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "khushaldabas@gmail.com",
+      "fname": "RANBIR SINGH",
+      "name": "AJIT SINGH",
+      "num": "9810410103"
+    },
+    {
+      "aadhar": "968015598251",
+      "address": "S/O Ramesh Pandey! HOUSE NO 24  BASANT GAON VASANT VIHAR !!!South West DelhiSouth West Delhi!Delhi!110057",
+      "alt": "9810410103",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Pandey",
+      "name": "Soman  Pandey",
+      "num": "9958875515"
+    },
+    {
+      "aadhar": "968015598251",
+      "address": "S/O Ramesh Pandey!HOUSE NO 24 BASANT GAONVASANT VIHAR!!!!South West AIRTEL DELHI!!AIRTEL DELHI!110057",
+      "alt": "9810410103",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Pandey",
+      "name": "Soman  Pandey",
+      "num": "9958875515"
+    },
+    {
+      "aadhar": "968015598251",
+      "address": "S/O Ramesh Pandey!HOUSE NO 24 BASANT GAONVASANT VIHAR!!!South West DelhiSouth West Delhi!Delhi!110057",
+      "alt": "9810410103",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Pandey",
+      "name": "Soman  Pandey",
+      "num": "9958875515"
+    },
+    {
+      "aadhar": "968015598251",
+      "address": "S/O Ramesh Pandey!HOUSE NO 24 BASANT GAONVASANT VIHAR!!!South West DelhiSouth West Delhi!Delhi!110057",
+      "alt": "9810410103",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Pandey",
+      "name": "Soman  Pandey",
+      "num": "9958875515"
+    }
+  ]
+}
