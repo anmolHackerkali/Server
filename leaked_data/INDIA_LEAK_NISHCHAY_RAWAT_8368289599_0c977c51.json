@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-09 17:04:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368289599",
+  "records": [
+    {
+      "aadhar": "223113454856",
+      "address": "!!RZ E- 24 GANDHI MARKET WEST SAGARPUR!!Nangal Raya SO South West Delhi!Delhi!110046",
+      "alt": "919716243162",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj kumar",
+      "name": "NISHCHAY RAWAT",
+      "num": "8368289599"
+    },
+    {
+      "aadhar": "223113454856",
+      "address": "!!RZ E- 24GANDHI MARKETWEST SAGARPUR!!Nangal Raya SOSouth West Delhi!Delhi!110046",
+      "alt": "919716243162",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj kumar",
+      "name": "NISHCHAY RAWAT",
+      "num": "8368289599"
+    },
+    {
+      "aadhar": "223113454856",
+      "address": "!!RZ E- 24GANDHI MARKETWEST SAGARPUR!!Nangal Raya SOSouth West Delhi!Delhi!110046",
+      "alt": "919716243162",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj kumar",
+      "name": "NISHCHAY RAWAT",
+      "num": "8368289599"
+    }
+  ]
+}
