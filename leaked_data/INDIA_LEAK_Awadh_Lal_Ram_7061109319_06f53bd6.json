@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 17:42:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061109319",
+  "records": [
+    {
+      "aadhar": "962530491210",
+      "address": "S/O  Jogindra Ram!!Q No 892  Dhanbad!NA!Rangatand Officer Railway Colony!Dhanbad Nirsa-cum-chirkunda Dhanbad!NA!Jharkhand!826001",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jogindra Ram",
+      "name": "Awadh Lal Ram",
+      "num": "7061109319"
+    },
+    {
+      "aadhar": "962530491210",
+      "address": "S/O  Jogindra Ram!!Q No 892  Dhanbad!NA!Rangatand Officer Railway Colony!Dhanbad Nirsa-cum-chirkunda Dhanbad!NA!Jharkhand!826001",
+      "alt": "8084170717",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jogindra Ram",
+      "name": "Awadh Lal Ram",
+      "num": "7061109319"
+    },
+    {
+      "aadhar": "962530491210",
+      "address": "S/O  Jogindra Ram!!Q No 892  Dhanbad!NA!Rangatand Officer Railway Colony!Dhanbad Nirsa-cum-chirkunda Dhanbad!NA!Jharkhand!826001",
+      "alt": "8084170717",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jogindra Ram",
+      "name": "Awadh Lal Ram",
+      "num": "7061109319"
+    }
+  ]
+}
