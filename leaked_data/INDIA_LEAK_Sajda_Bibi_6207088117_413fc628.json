@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 17:30:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207088117",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Ibran Ansari!!vill-arka po-kazi pakri ps-tarhasi palamu!!Arka Palamu!Jharkhand!822118",
+      "alt": "918825366565",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ibran ansari",
+      "name": "Sajda Bibi",
+      "num": "6207088117"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Ibran Ansari!!vill-arka po-kazi pakri ps-tarhasi palamu!!Arka Palamu!Jharkhand!822118",
+      "alt": "918825366565",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ibran ansari",
+      "name": "Sajda Bibi",
+      "num": "6207088117"
+    }
+  ]
+}
