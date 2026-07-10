@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 18:37:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818797341",
+  "records": [
+    {
+      "aadhar": "226956953831",
+      "address": " H NO 495 BHALSWA VILLAGE  NORTH WEST DELHI Delhi North West Delhi Delhi 110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "satbir",
+      "name": "ritik",
+      "num": "9818797341"
+    },
+    {
+      "aadhar": "226956953831",
+      "address": "!H NO 495!BHALSWA VILLAGE!!NORTH WEST DELHI!Delhi!North West Delhi!Delhi!110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "satbir",
+      "name": "ritik",
+      "num": "9818797341"
+    },
+    {
+      "aadhar": "226956953831",
+      "address": "!H NO 495!BHALSWA VILLAGE!!NORTH WEST DELHI!Delhi!North West Delhi!Delhi!110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "satbir",
+      "name": "ritik",
+      "num": "9818797341"
+    }
+  ]
+}
