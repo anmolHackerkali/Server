@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 11:52:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9081150496",
+  "records": [
+    {
+      "aadhar": "585174379101",
+      "address": "!61 malek-pathanvago!Andhaj Arera KHEDA Nadiad KHEDA!!!NADIAD!KHEDA!Gujarat!387320",
+      "alt": "9998150414",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "NAMDARKHAN PATHAN",
+      "name": "PATHAN DILAVARKHAN",
+      "num": "9081150496"
+    },
+    {
+      "aadhar": null,
+      "address": " 61 malek-pathanvago Andhaj Arera KHEDA Nadiad KHEDA   NADIAD KHEDA Gujarat 387320 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " PATHAN DILAVARKHAN ",
+      "num": "9081150496"
+    },
+    {
+      "aadhar": null,
+      "address": " 61 malek-pathanvago Andhaj Arera KHEDA Nadiad KHEDA   NADIAD KHEDA Gujarat 387320 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " PATHAN DILAVARKHAN ",
+      "num": "9081150496"
+    },
+    {
+      "aadhar": "585174379101",
+      "address": "!61 malek-pathanvago!Andhaj Arera KHEDA Nadiad KHEDA!!!NADIAD!KHEDA!Gujarat!387320",
+      "alt": "9998150414",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "NAMDARKHAN PATHAN",
+      "name": "PATHAN DILAVARKHAN",
+      "num": "9081150496"
+    }
+  ]
+}
