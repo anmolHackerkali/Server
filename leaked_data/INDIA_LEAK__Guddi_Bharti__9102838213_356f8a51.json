@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 04:48:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9102838213",
+  "records": [
+    {
+      "aadhar": "965951358957",
+      "address": " piprahi nag!near Anganbari!!Ward NO-04 Basantpur Supaul!Supaul!Supaul!Bihar!854340 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ganga Prasad Mehta ",
+      "name": " Guddi Bharti ",
+      "num": "9102838213"
+    },
+    {
+      "aadhar": "965951358957",
+      "address": " piprahi nag!near Anganbari!!Ward NO-04 Basantpur Supaul!Supaul!Supaul!Bihar!854340 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ganga Prasad Mehta ",
+      "name": " Guddi Bharti ",
+      "num": "9102838213"
+    }
+  ]
+}
