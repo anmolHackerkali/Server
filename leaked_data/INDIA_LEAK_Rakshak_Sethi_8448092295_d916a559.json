@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 18:55:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8448092295",
+  "records": [
+    {
+      "aadhar": "736698473926",
+      "address": "S/O Sushil Sethi!HOUSE N0-324!GALI N0-3!mandir!NIRANKARI COLONY Dr Mukerjee Nagar S O!New Delhi!North!Delhi!110009",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushil Sethi",
+      "name": "Rakshak Sethi",
+      "num": "8448092295"
+    },
+    {
+      "aadhar": "736698473926",
+      "address": "S/O Sushil Sethi!HOUSE N0-324!GALI N0-3!mandir!NIRANKARI COLONY Dr Mukerjee Nagar S O!New Delhi!North!Delhi!110009",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushil Sethi",
+      "name": "Rakshak Sethi",
+      "num": "8448092295"
+    }
+  ]
+}
