@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 17:24:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061087797",
+  "records": [
+    {
+      "aadhar": "769553259490",
+      "address": "D/O  Krishna Singh!! Sijua!NA!AT-West Modidih collieryPost-Sijuap/s-Tetulmari!Chhotanagari Baghmara-cum-katras Dhanbad!NA!Jharkhand!828121",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Krishna Singh",
+      "name": "Ranjani Singh",
+      "num": "7061087797"
+    },
+    {
+      "aadhar": "769553259490",
+      "address": "D/O  Krishna Singh!!Sijua!NA!AT-West Modidih collieryPost-Sijuap/s-Tetulmari!Chhotanagari Baghmara-cum-katras Dhanbad!NA!Jharkhand!828121",
+      "alt": "6205558438",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Krishna Singh",
+      "name": "Ranjani Singh",
+      "num": "7061087797"
+    },
+    {
+      "aadhar": "769553259490",
+      "address": "D/O  Krishna Singh!!Sijua!NA!AT-West Modidih collieryPost-Sijuap/s-Tetulmari!Chhotanagari Baghmara-cum-katras Dhanbad!NA!Jharkhand!828121",
+      "alt": "6205558438",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Krishna Singh",
+      "name": "Ranjani Singh",
+      "num": "7061087797"
+    }
+  ]
+}
