@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 04:49:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8409395275",
+  "records": [
+    {
+      "aadhar": "847020987730",
+      "address": " .!tarcha!!tarchha  Laugain bhagalpur !Bhagalpur!bhagalpur!Bihar!813105 ",
+      "alt": "8825182406",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajeej ",
+      "name": " Sahnabaj  Hussan ",
+      "num": "8409395275"
+    },
+    {
+      "aadhar": "847020987730",
+      "address": " .!tarcha!!tarchha  Laugain bhagalpur !Bhagalpur!bhagalpur!Bihar!813105 ",
+      "alt": "8825182406",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajeej ",
+      "name": " Sahnabaj  Hussan ",
+      "num": "8409395275"
+    }
+  ]
+}
