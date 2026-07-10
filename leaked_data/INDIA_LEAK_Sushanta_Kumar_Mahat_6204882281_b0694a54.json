@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 17:38:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204882281",
+  "records": [
+    {
+      "aadhar": "582407096546",
+      "address": "S/O  Hari Pado Mahato!!Jamadoba!Near Royal High School!JoraPokhar Basti!Kalmegha Nirsa-cum-chirkunda!Dhanbad!Jharkhand!828112",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Hari Pado Mahato",
+      "name": "Sushanta Kumar Mahato",
+      "num": "6204882281"
+    },
+    {
+      "aadhar": "582407096546",
+      "address": "S/O  Hari Pado Mahato!!Jamadoba!Near Royal High School!JoraPokhar Basti!Kalmegha Nirsa-cum-chirkunda!Dhanbad!Jharkhand!828112",
+      "alt": "8825295587",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Hari Pado Mahato",
+      "name": "Sushanta Kumar Mahato",
+      "num": "6204882281"
+    },
+    {
+      "aadhar": "582407096546",
+      "address": "S/O  Hari Pado Mahato!!Jamadoba!Near Royal High School!JoraPokhar Basti!Kalmegha Nirsa-cum-chirkunda!Dhanbad!Jharkhand!828112",
+      "alt": "8825295587",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Hari Pado Mahato",
+      "name": "Sushanta Kumar Mahato",
+      "num": "6204882281"
+    }
+  ]
+}
