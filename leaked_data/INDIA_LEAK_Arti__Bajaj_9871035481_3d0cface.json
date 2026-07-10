@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 18:38:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871035481",
+  "records": [
+    {
+      "aadhar": "364547938482",
+      "address": "W/O Ankur Bajaj!C-23!RAM DUTT ENCLAVE!D K Mohan Garden!West Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ankur Bajaj",
+      "name": "Arti  Bajaj",
+      "num": "9871035481"
+    },
+    {
+      "aadhar": "364547938482",
+      "address": "W/O Ankur Bajaj!C-23!RAM DUTT ENCLAVE!D K Mohan Garden!West Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ankur Bajaj",
+      "name": "Arti  Bajaj",
+      "num": "9871035481"
+    },
+    {
+      "aadhar": "364547938482",
+      "address": "W/O Ankur Bajaj!C-23!RAM DUTT ENCLAVE!D K Mohan Garden!West Delhi!Delhi!110059",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ankur Bajaj",
+      "name": "Arti  Bajaj",
+      "num": "9871035481"
+    }
+  ]
+}
