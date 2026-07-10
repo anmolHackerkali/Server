@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 15:29:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207364279",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Bechu Das!!!!Khan Kita Bhagalpur!Bihar!813210",
+      "alt": "918969683177",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bechu Das",
+      "name": "Shankar Das",
+      "num": "6207364279"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Bechu Das!!!!Khan Kita Bhagalpur!Bihar!813210",
+      "alt": "918969683177",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bechu Das",
+      "name": "Shankar Das",
+      "num": "6207364279"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Bechu Das!!!!Khan Kita Bhagalpur!Bihar!813210",
+      "alt": "918969683177",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bechu Das",
+      "name": "Shankar Das",
+      "num": "6207364279"
+    }
+  ]
+}
