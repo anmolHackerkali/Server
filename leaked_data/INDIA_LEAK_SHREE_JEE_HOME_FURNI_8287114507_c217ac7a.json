@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 18:57:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287114507",
+  "records": [
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "8287114507"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "8287114507"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Harvinder Singh!!HNo-M-130 S/FloorVikas Puri!Vikas Puri!Vikas PuriWest Delhi!Delhi!110018",
+      "alt": "919599762625",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Harvinder Singh",
+      "name": "Jaideep Kaur",
+      "num": "8287114507"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Harvinder Singh!!HNo-M-130 S/FloorVikas Puri!Vikas Puri!Vikas PuriWest Delhi!Delhi!110018",
+      "alt": "919599762625",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Harvinder Singh",
+      "name": "Jaideep Kaur",
+      "num": "8287114507"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ankit Jain",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "8287114507"
+    }
+  ]
+}
