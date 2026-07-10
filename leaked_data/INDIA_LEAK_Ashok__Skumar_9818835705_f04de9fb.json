@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-10 18:54:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818835705",
+  "records": [
+    {
+      "aadhar": "Jgr3680550",
+      "address": "348 Pashchim Vhr Na   Delhi Delhi! ! !!!",
+      "alt": "9818811515",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Mohan  Lal",
+      "name": "Ashok  Skumar",
+      "num": "9818835705"
+    },
+    {
+      "aadhar": "Jgr3680550",
+      "address": "348 Pashchim Vhr Na   Delhi Delhi       ",
+      "alt": "9818811515",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mohan  Lal",
+      "name": "Ashok  Skumar",
+      "num": "9818835705"
+    },
+    {
+      "aadhar": "Jgr3680550",
+      "address": "348 Pashchim Vhr Na   Delhi Delhi       ",
+      "alt": "9818811515",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mohan  Lal",
+      "name": "Ashok  Skumar",
+      "num": "9818835705"
+    }
+  ]
+}
