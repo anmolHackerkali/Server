@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:39:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8382888755",
+  "records": [
+    {
+      "aadhar": "588612718794",
+      "address": "W/O Vidya Prasad Singh! 0!GRAM-POST-Kotwari RASRA!Rasra!Gram- Post-Kotwari!Rasra!Ballia!Uttar Pradesh!221712",
+      "alt": "7607162449",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vidya Prasad Singh",
+      "name": "Neelam Singh",
+      "num": "8382888755"
+    },
+    {
+      "aadhar": "588612718794",
+      "address": "W/O Vidya Prasad Singh! 0!GRAM-POST-Kotwari RASRA!Rasra!Gram- Post-Kotwari!Rasra!Ballia!Uttar Pradesh!221712",
+      "alt": "7607162449",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vidya Prasad Singh",
+      "name": "Neelam Singh",
+      "num": "8382888755"
+    }
+  ]
+}
