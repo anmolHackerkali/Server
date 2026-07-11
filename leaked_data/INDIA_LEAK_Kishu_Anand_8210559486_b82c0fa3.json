@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:06:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210559486",
+  "records": [
+    {
+      "aadhar": "741270384117",
+      "address": "S/O  Late Ratan Kumar Kushwaha!!!lohiya nagar!KATIHAR!Bihar!854105",
+      "alt": "918407854173",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Ratan Kumar Kushwaha",
+      "name": "Kishu Anand",
+      "num": "8210559486"
+    },
+    {
+      "aadhar": "741270384117",
+      "address": "S/O  Late Ratan Kumar Kushwaha!!!lohiya nagar!KATIHAR!Bihar!854105",
+      "alt": "918407854173",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Ratan Kumar Kushwaha",
+      "name": "Kishu Anand",
+      "num": "8210559486"
+    },
+    {
+      "aadhar": "869215627485",
+      "address": "D/O Loknarayan Mehta!!LOHIYA NAGAR BARMASIA LOHIYA NAGAR BARMASIA Katihar!NA!!Katihar Amdabad Katihar!NA!Bihar!854105",
+      "alt": "8210559486",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Loknarayan Mehta",
+      "name": "Bibha Singh",
+      "num": "9693963008"
+    },
+    {
+      "aadhar": "869215627485",
+      "address": "D/O Loknarayan Mehta!!LOHIYA NAGAR BARMASIA LOHIYA NAGAR BARMASIA Katihar!NA!!Katihar Amdabad Katihar!NA!Bihar!854105",
+      "alt": "8210559486",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Loknarayan Mehta",
+      "name": "Bibha Singh",
+      "num": "9693963008"
+    },
+    {
+      "aadhar": "869215627485",
+      "address": "D/O Loknarayan Mehta!!LOHIYA NAGAR BARMASIA LOHIYA NAGAR BARMASIA Katihar!NA!!Katihar Amdabad Katihar!NA!Bihar!854105",
+      "alt": "8210559486",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Loknarayan Mehta",
+      "name": "Bibha Singh",
+      "num": "9693963008"
+    }
+  ]
+}
