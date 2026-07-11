@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:16:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9754530791",
+  "records": [
+    {
+      "aadhar": "756468601763",
+      "address": "S/O Ganesh Ram!S/O Ganesh Ram  POST.MOHARA!MOHARA  ward no 12!Mohara  Gurur !MOHARA-BALOD!CT!491222",
+      "alt": "9754530791",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "GANESH RAM ",
+      "name": "DANI RAM",
+      "num": "9754530791"
+    },
+    {
+      "aadhar": "756468601763",
+      "address": "S/O Ganesh Ram!S/O Ganesh Ram  POST.MOHARA!MOHARA  ward no 12!Mohara  Gurur !MOHARA-BALOD!CT!491222",
+      "alt": "9754530791",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "GANESH RAM ",
+      "name": "DANI RAM",
+      "num": "9754530791"
+    }
+  ]
+}
