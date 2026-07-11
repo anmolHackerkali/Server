@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:14:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7489095780",
+  "records": [
+    {
+      "aadhar": "364372536901",
+      "address": "! HOUSE NO 0 WARD NO 09!SARSWATI CHOWK GRAM JEWARTALA JEWARTALA BALOD!!BALOD!Durg!Durg!Chhattisgarh!491222",
+      "alt": "7909733846",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Kuber Singh",
+      "name": "Damini Sahu",
+      "num": "7489095780"
+    }
+  ]
+}
