@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:51:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6395066537",
+  "records": [
+    {
+      "aadhar": "854936468894",
+      "address": "S/O Kailash Singh!!gangatkola.Mangraula!!MangroulaHasanpurAmroha!Uttar Pradesh!244241",
+      "alt": "+919756711429",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kailash Singh",
+      "name": "Robin",
+      "num": "6395066537"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Charan Singh!!0 shekhpur mafi!village shekhpur mafi!Patei Khalsa Amroha!Uttar Pradesh!244102",
+      "alt": "919565959595",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Charan Singh",
+      "name": "Rohit Sagar",
+      "num": "6395066537"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Charan Singh!!0 shekhpur mafi!village shekhpur mafi!Patei Khalsa Amroha!Uttar Pradesh!244102",
+      "alt": "919565959595",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Charan Singh",
+      "name": "Rohit Sagar",
+      "num": "6395066537"
+    },
+    {
+      "aadhar": "854936468894",
+      "address": "s/o kailash singh!00!gangatkola!mangroula amroha!gangatkola!mangroula!amroha!Uttar Pradesh!244241",
+      "alt": "6395066537",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kailash singh",
+      "name": "Robin  ",
+      "num": "9756711429"
+    }
+  ]
+}
