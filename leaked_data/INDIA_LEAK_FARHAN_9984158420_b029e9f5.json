@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:09:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9984158420",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "H NO 103!RASSI BATAN MOULVIGANJ!NA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "LAXMI",
+      "name": "FARHAN",
+      "num": "9984158420"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 103!RASSI BATAN MOULVIGANJ!NA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "LAXMI",
+      "name": "FARHAN",
+      "num": "9984158420"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 103!RASSI BATAN MOULVIGANJ!NA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "LAXMI",
+      "name": "FARHAN",
+      "num": "9984158420"
+    }
+  ]
+}
