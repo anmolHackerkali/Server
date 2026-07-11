@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:11:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9162439438",
+  "records": [
+    {
+      "aadhar": "705622734364",
+      "address": "S/O Laljee Pandit!107!ward no 05!musharwa Raxaul!!East Champaran!Bihar!845305",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laljee  Pandit",
+      "name": "Rambabu  Pandit",
+      "num": "9162439438"
+    },
+    {
+      "aadhar": "705622734364",
+      "address": "S/O Laljee Pandit!107!ward no 05!musharwa Raxaul!!East Champaran!Bihar!845305",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laljee  Pandit",
+      "name": "Rambabu  Pandit",
+      "num": "9162439438"
+    }
+  ]
+}
