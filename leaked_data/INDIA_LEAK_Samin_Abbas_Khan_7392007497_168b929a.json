@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:43:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7392007497",
+  "records": [
+    {
+      "aadhar": "649171753411",
+      "address": "s/o  sultan ali khan! DARIYAPUR!!!dariyapur!dakhera!sitapur!Uttar Pradesh!261135",
+      "alt": "8009587786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sultan ali khan",
+      "name": "Samin Abbas Khan",
+      "num": "7392007497"
+    },
+    {
+      "aadhar": "649171753411",
+      "address": "s/o  sultan ali khan! DARIYAPUR!!!dariyapur!dakhera!sitapur!Uttar Pradesh!261135",
+      "alt": "8009587786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sultan ali khan",
+      "name": "Samin Abbas Khan",
+      "num": "7392007497"
+    }
+  ]
+}
