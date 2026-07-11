@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:20:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8177090937",
+  "records": [
+    {
+      "aadhar": "738138735177",
+      "address": "C/O Lal Bhadur Prasad!41!Chak Daiya!mandir!Kushinagar!Kushinagar!DEORIA!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lal Bhadur Prasad",
+      "name": "Alok Kumar Gautam",
+      "num": "8177090937"
+    },
+    {
+      "aadhar": "738138735177",
+      "address": "C/O Lal Bhadur Prasad!41!Chak Daiya!mandir!Kushinagar!Kushinagar!DEORIA!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lal Bhadur Prasad",
+      "name": "Alok Kumar Gautam",
+      "num": "8177090937"
+    }
+  ]
+}
