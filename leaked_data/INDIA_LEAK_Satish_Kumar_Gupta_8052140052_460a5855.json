@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:13:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052140052",
+  "records": [
+    {
+      "aadhar": "480113341448",
+      "address": "S/O Jokhu Gupta!!Hetimpur!!Kotwa Bawanmorcha!Hetimpur Bhatpar Rani!Deoria!Uttar Pradesh!274206",
+      "alt": "9076684347",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jokhu Gupta",
+      "name": "Satish Kumar Gupta",
+      "num": "8052140052"
+    },
+    {
+      "aadhar": "480113341448",
+      "address": "S/O Jokhu Gupta!!Hetimpur!!Kotwa Bawanmorcha!Hetimpur Bhatpar Rani!Deoria!Uttar Pradesh!274206",
+      "alt": "9076684347",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jokhu Gupta",
+      "name": "Satish Kumar Gupta",
+      "num": "8052140052"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jokhu!.!.!Kotwa Bawanmorcha Deoria!!Deoria!UTTAR PRADESH!274206",
+      "alt": "8052140052",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jokhu",
+      "name": "Satish Kumar Gupta",
+      "num": "9076684347"
+    },
+    {
+      "aadhar": "480113341448",
+      "address": "s/o  jokhu!!Hetimpur!!kotwa bawanmorcha hetimpur!hetimpur Bhatpar Rani!deoria!Uttar Pradesh!274206",
+      "alt": "8052140052",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "jokhu",
+      "name": "Satish Kumar Gupta",
+      "num": "7307971116"
+    },
+    {
+      "aadhar": "594039583752",
+      "address": "S/O  Mohan Prsad!!Hetimpur!!chak deiya!Chak Daiya Kasya!Kushinagar!Uttar Pradesh!274206",
+      "alt": "8052140052",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohan Prsad",
+      "name": "Deenanath",
+      "num": "6392450301"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jokhu!.!.!Kotwa Bawanmorcha Deoria!!Deoria!UTTAR PRADESH!274206",
+      "alt": "8052140052",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jokhu",
+      "name": "Satish Kumar Gupta",
+      "num": "9076684347"
+    },
+    {
+      "aadhar": "480113341448",
+      "address": "s/o  jokhu!!Hetimpur!!kotwa bawanmorcha hetimpur!hetimpur Bhatpar Rani!deoria!Uttar Pradesh!274206",
+      "alt": "8052140052",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "jokhu",
+      "name": "Satish Kumar Gupta",
+      "num": "7307971116"
+    },
+    {
+      "aadhar": "594039583752",
+      "address": "S/O  Mohan Prsad!!Hetimpur!!chak deiya!Chak Daiya Kasya!Kushinagar!Uttar Pradesh!274206",
+      "alt": "8052140052",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mohan Prsad",
+      "name": "Deenanath",
+      "num": "6392450301"
+    }
+  ]
+}
