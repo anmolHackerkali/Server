@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:39:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6398000297",
+  "records": [
+    {
+      "aadhar": "405174895777",
+      "address": "!!Gram Diyochari!!azampur bisauria Dataganj!Budaun!Budaun!Uttar Pradesh!243635",
+      "alt": "6397294634",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Antu",
+      "name": "Nanhe Singh  ",
+      "num": "6398000297"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Mohammad Ashraf!!!Near Sadak Waali Masjid Manpur!Moradabad Moradabad!Uttar Pradesh!244001",
+      "alt": "919359701460",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohammad Ashraf",
+      "name": "Ummey Kulsum",
+      "num": "6398000297"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Mohammad Ashraf!!!Near Sadak Waali Masjid Manpur!Moradabad Moradabad!Uttar Pradesh!244001",
+      "alt": "919359701460",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohammad Ashraf",
+      "name": "Ummey Kulsum",
+      "num": "6398000297"
+    }
+  ]
+}
