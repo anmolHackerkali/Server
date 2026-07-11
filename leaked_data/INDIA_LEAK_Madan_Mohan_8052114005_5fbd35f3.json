@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:12:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052114005",
+  "records": [
+    {
+      "aadhar": "528115536764",
+      "address": " !270!Dilejakpur Infront of Radha Krishn Mandir Gorakhpur!Thana Kotwali!Gorakhpur-Sahjanwa-G!Uttar Pradesh!273001",
+      "alt": "0",
+      "circle": "UPE",
+      "email": null,
+      "fname": "S/O Late Hanuman Prasad",
+      "name": "Madan Mohan",
+      "num": "8052114005"
+    },
+    {
+      "aadhar": "528115536764",
+      "address": " !270!Dilejakpur Infront of Radha Krishn Mandir Gorakhpur!Thana Kotwali!Gorakhpur-Sahjanwa-G!Uttar Pradesh!273001",
+      "alt": "0",
+      "circle": "UPE",
+      "email": null,
+      "fname": "S/O Late Hanuman Prasad",
+      "name": "Madan Mohan",
+      "num": "8052114005"
+    }
+  ]
+}
