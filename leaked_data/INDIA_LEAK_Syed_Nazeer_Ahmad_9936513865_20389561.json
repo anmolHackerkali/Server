@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:54:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936513865",
+  "records": [
+    {
+      "aadhar": "615815733723",
+      "address": "s/o syed sagheer ahmad! 44/27!Gulab Bari Allahabad!mansoor park!gulab bari roshan bagh allahabad!allahabad!allahabad!Uttar Pradesh!211003",
+      "alt": "9936513865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "syed sagheer ahmad",
+      "name": "Syed Nazeer Ahmad",
+      "num": "9616857819"
+    },
+    {
+      "aadhar": "615815733723",
+      "address": "s/o syed sagheer ahmad! 44/27!Gulab Bari Allahabad!mansoor park!gulab bari roshan bagh allahabad!allahabad!allahabad!Uttar Pradesh!211003",
+      "alt": "9936513865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "syed sagheer ahmad",
+      "name": "Syed Nazeer Ahmad",
+      "num": "9616857819"
+    }
+  ]
+}
