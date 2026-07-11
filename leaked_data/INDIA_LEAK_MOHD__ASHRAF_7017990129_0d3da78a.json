@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:39:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017990129",
+  "records": [
+    {
+      "aadhar": "12-09-2016",
+      "address": "-!MANPUR STREET NEAR MASJID SADAK WALIKOTWALI MORADABAD!MORADABAD!MORADABAD!Uttar Pradesh!244001",
+      "alt": "+919359701460",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "MOHD YUSUF",
+      "name": "MOHD  ASHRAF",
+      "num": "7017990129"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "-!MANPUR STREET NEAR MASJID SADAK WALI KOTWALI MORADABAD!MORADABAD!MORADABAD!Uttar Pradesh!244001",
+      "alt": "919359701460",
+      "circle": "JIO UPE UPW",
+      "email": "akehkashan1460@gmail.com",
+      "fname": "MOHD YUSUF",
+      "name": "MOHD ASHRAF",
+      "num": "7017990129"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "-!MANPUR STREET NEAR MASJID SADAK WALI KOTWALI MORADABAD!MORADABAD!MORADABAD!Uttar Pradesh!244001",
+      "alt": "919359701460",
+      "circle": "JIO UPE UPW",
+      "email": "akehkashan1460@gmail.com",
+      "fname": "MOHD YUSUF",
+      "name": "MOHD ASHRAF",
+      "num": "7017990129"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf  ",
+      "num": "9359701460"
+    },
+    {
+      "aadhar": "665096319329",
+      "address": "!near sadak waali masjid!manpur!!Moradabad!moradabad!moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohammad Ashraf",
+      "name": "Kehkashan  ",
+      "num": "7906301776"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPE UPW",
+      "email": "TODAYASHRAF@GMAIL.COM",
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf",
+      "num": "9359701460"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPE UPW",
+      "email": "TODAYASHRAF@GMAIL.COM",
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf",
+      "num": "9359701460"
+    }
+  ]
+}
