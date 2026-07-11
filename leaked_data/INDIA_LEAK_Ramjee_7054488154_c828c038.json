@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:15:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7054488154",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Rajit Ram Vishwakarma!247!! Gram Daulatpur Hajalpati Post Hajalapur Doultpur Hajalpatti!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajit Ram Vishwakarma",
+      "name": "Ramjee",
+      "num": "7054488154"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Rajit Ram Vishwakarma!247!! Gram Daulatpur Hajalpati Post Hajalapur Doultpur Hajalpatti!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajit Ram Vishwakarma",
+      "name": "Ramjee",
+      "num": "7054488154"
+    }
+  ]
+}
