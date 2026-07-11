@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:43:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336220872",
+  "records": [
+    {
+      "aadhar": "674778236420",
+      "address": "D/O  Deep Narayan Shukla!! Dharsawan!NA!Parewpur!Parewpur Ikauna Shrawasti!NA!Uttar Pradesh!271835",
+      "alt": "6387432598",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Deep Narayan Shukla",
+      "name": "Anjali Shukla",
+      "num": "9336220872"
+    },
+    {
+      "aadhar": "674778236420",
+      "address": "D/O  Deep Narayan Shukla!! Dharsawan!NA!Parewpur!Parewpur Ikauna Shrawasti!NA!Uttar Pradesh!271835",
+      "alt": "6387432598",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Deep Narayan Shukla",
+      "name": "Anjali Shukla",
+      "num": "9336220872"
+    },
+    {
+      "aadhar": "780048698960",
+      "address": "W/O Lok Nath!singhiya naseerpur!Mahasi Bahraich!mandir!Mahasi!Bahraich!Bahraich!Uttar Pradesh!271824",
+      "alt": "9336220872",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lok Nath",
+      "name": "Geeta Devi",
+      "num": "9120649450"
+    },
+    {
+      "aadhar": "780048698960",
+      "address": "W/O Lok Nath!singhiya naseerpur!Mahasi Bahraich!mandir!Mahasi!Bahraich!Bahraich!Uttar Pradesh!271824",
+      "alt": "9336220872",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lok Nath",
+      "name": "Geeta Devi",
+      "num": "9120649450"
+    }
+  ]
+}
