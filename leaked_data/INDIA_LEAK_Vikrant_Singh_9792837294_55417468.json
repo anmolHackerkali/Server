@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 11:57:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792837294",
+  "records": [
+    {
+      "aadhar": "372828445499",
+      "address": " ! !     City/District: Bahraich State Uttar Pradesh! !BAHRAICH!UTTAR PRADESH!271872",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ramesh singh",
+      "name": "Vikrant Singh",
+      "num": "9792837294"
+    },
+    {
+      "aadhar": "372828445499",
+      "address": " ! !     City/District: Bahraich State Uttar Pradesh! !BAHRAICH!UTTAR PRADESH!271872",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ramesh singh",
+      "name": "Vikrant Singh",
+      "num": "9792837294"
+    },
+    {
+      "aadhar": "372828445499",
+      "address": "! 00!bahraich road!school!huzoor pur bahraich!Bahraich!Bahraich!Uttar Pradesh!271872",
+      "alt": "9792837294",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramesh Singh",
+      "name": "Vikrant Singh",
+      "num": "9076920402"
+    },
+    {
+      "aadhar": "372828445499",
+      "address": "! 00!bahraich road!school!huzoor pur bahraich!Bahraich!Bahraich!Uttar Pradesh!271872",
+      "alt": "9792837294",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramesh Singh",
+      "name": "Vikrant Singh",
+      "num": "9076920402"
+    }
+  ]
+}
