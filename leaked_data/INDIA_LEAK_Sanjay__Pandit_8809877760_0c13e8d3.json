@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:04:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809877760",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "941!Vill Mushaharwadakshin Tola  Anchal Raxaul!E Champaran BHR!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kishori Pandit",
+      "name": "Sanjay  Pandit",
+      "num": "8809877760"
+    },
+    {
+      "aadhar": null,
+      "address": "941!Vill Mushaharwadakshin Tola  Anchal Raxaul!E Champaran BHR!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kishori Pandit",
+      "name": "Sanjay  Pandit",
+      "num": "8809877760"
+    }
+  ]
+}
