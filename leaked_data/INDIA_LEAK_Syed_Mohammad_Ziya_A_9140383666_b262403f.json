@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:41:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140383666",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Syed Salahuddin Ashraf!!610/207A Keshav Nagar Sitapur Road!Thana Maniyaon!Nirala Nagar Lucknow!Uttar Pradesh!226020",
+      "alt": "917071600786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syed Salahuddin Ashraf",
+      "name": "Syed Mohammad Ziya Ashraf",
+      "num": "9140383666"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Syed Salahuddin Ashraf!!610/207A Keshav Nagar Sitapur Road!Thana Maniyaon!Nirala Nagar Lucknow!Uttar Pradesh!226020",
+      "alt": "917071600786",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syed Salahuddin Ashraf",
+      "name": "Syed Mohammad Ziya Ashraf",
+      "num": "9140383666"
+    }
+  ]
+}
