@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:38:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9359701460",
+  "records": [
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf  ",
+      "num": "9359701460"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPE UPW",
+      "email": "TODAYASHRAF@GMAIL.COM",
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf",
+      "num": "9359701460"
+    },
+    {
+      "aadhar": "UP2119920018155",
+      "address": "!Manpur Street!Near Masjid Sadak Wali!PS Kotwali!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7017990129",
+      "circle": "JIO UPE UPW",
+      "email": "TODAYASHRAF@GMAIL.COM",
+      "fname": "Mohd Yusuf",
+      "name": "Mohd Ashraf",
+      "num": "9359701460"
+    },
+    {
+      "aadhar": "839641675534",
+      "address": "!!NEAR SADAK WALI MASJID  MANPUR  MORADABAD!!Moradabad!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "9359701460",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohammad yusaf",
+      "name": "Mohammad Ashraf",
+      "num": "9548628580"
+    },
+    {
+      "aadhar": "839641675534",
+      "address": "!!manpurnear sadak wali masjid!NA!moradabad!MoradabadMoradabad!NA!Uttar Pradesh!244001",
+      "alt": "9359701460",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "mohammad yusuf",
+      "name": "mohammad ashraf",
+      "num": "7668973186"
+    },
+    {
+      "aadhar": "839641675534",
+      "address": "!!manpur near sadak wali masjid!NA!moradabad!Moradabad Moradabad!NA!Uttar Pradesh!244001",
+      "alt": "9359701460",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "mohammad yusuf",
+      "name": "mohammad ashraf",
+      "num": "7668973186"
+    },
+    {
+      "aadhar": "839641675534",
+      "address": "!!manpurnear sadak wali masjid!NA!moradabad!MoradabadMoradabad!NA!Uttar Pradesh!244001",
+      "alt": "9359701460",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "mohammad yusuf",
+      "name": "mohammad ashraf",
+      "num": "7668973186"
+    },
+    {
+      "aadhar": "839641675534",
+      "address": "!!manpur near sadak wali masjid!NA!moradabad!Moradabad Moradabad!NA!Uttar Pradesh!244001",
+      "alt": "9359701460",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "mohammad yusuf",
+      "name": "mohammad ashraf",
+      "num": "7668973186"
+    }
+  ]
+}
