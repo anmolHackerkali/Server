@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:10:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6268703025",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " POST - MOHARA MOHARA ward 1 Mohara Chhattisgarh 491222  ",
+      "alt": null,
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Keshav Ram Dhanker ",
+      "name": " Mordhwaj Dhanker ",
+      "num": "6268703025"
+    },
+    {
+      "aadhar": null,
+      "address": "  PURANAPARA Tilkhairi  Balod Balod  Chhattisgarh 491222  ",
+      "alt": "6268703025",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Harish Kumar ",
+      "name": " Kamal Kumar Sahu ",
+      "num": "9630176580"
+    }
+  ]
+}
