@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:20:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6265525631",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ramgopal Carpenter!!ward 10 gram-lasuldiya post-kodkya tehsil -jeerapur!jeerapur!Kodkiya Rajgarh!Madhya Pradesh!465693",
+      "alt": null,
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ramgopal Carpenter",
+      "name": "Mahesh Kumar Carpenter",
+      "num": "6265525631"
+    },
+    {
+      "aadhar": "517527910897",
+      "address": "s/o  madanlal! gram lasudliya!post kodkiya Machalpur!post kodkiya!gram lasudliya tahsil zirapur machalpur!kodkiya Jirapur!rajgarh!Madhya Pradesh!465693",
+      "alt": "6265525631",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "madanlal",
+      "name": "Mangilal",
+      "num": "9111230317"
+    }
+  ]
+}
