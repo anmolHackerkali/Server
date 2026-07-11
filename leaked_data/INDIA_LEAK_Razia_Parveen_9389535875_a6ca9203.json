@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:58:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389535875",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX4292",
+      "address": "W/O Mohd Aijaz Khan!160/3!khasi dera!mashak gunj Aminabad Park!Lucknow!Uttar Pradesh!226018",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohd Aijaz Khan",
+      "name": "Razia Parveen",
+      "num": "9389535875"
+    },
+    {
+      "aadhar": "XXXXXXXX4292",
+      "address": "W/O Mohd Aijaz Khan!160/3!khasi dera!mashak gunj Aminabad Park!Lucknow!Uttar Pradesh!226018",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mohd Aijaz Khan",
+      "name": "Razia Parveen",
+      "num": "9389535875"
+    }
+  ]
+}
