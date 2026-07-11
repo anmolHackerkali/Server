@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:02:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918315609",
+  "records": [
+    {
+      "aadhar": "313531680235",
+      "address": "!210!Ring Road   Abrar Nagar!!Kalyanpur   Vikas Nagar!Lucknow!!Uttar Pradesh!226022",
+      "alt": "9026086883",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Iqbal  Siddique",
+      "name": "Sadiya  Anjum",
+      "num": "9918315609"
+    },
+    {
+      "aadhar": "313531680235",
+      "address": "!210!Ring Road   Abrar Nagar!!Kalyanpur   Vikas Nagar!Lucknow!!Uttar Pradesh!226022",
+      "alt": "9026086883",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Iqbal  Siddique",
+      "name": "Sadiya  Anjum",
+      "num": "9918315609"
+    }
+  ]
+}
