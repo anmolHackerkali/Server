@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:45:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9794554350",
+  "records": [
+    {
+      "aadhar": "389201633649",
+      "address": "S/O Inayat Ullah Ansari!47/40!pura waldi!kydganj Allahabad **!Allahabad!Uttar Pradesh!211001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Inayat Ullah Ansari",
+      "name": "Mohd Amaan Ansari",
+      "num": "9794554350"
+    },
+    {
+      "aadhar": "389201633649",
+      "address": "S/O Inayat Ullah Ansari!47/40!pura waldi!kydganj Allahabad **!Allahabad!Uttar Pradesh!211001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Inayat Ullah Ansari",
+      "name": "Mohd Amaan Ansari",
+      "num": "9794554350"
+    },
+    {
+      "aadhar": "389201633649",
+      "address": "Inayat Ullah Ansari!D 47 40!PURANA ROAD LAXMO NAGAR!DELHI!DELHI!DELHI!110092",
+      "alt": "9794554350",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Inayat Ullah Ansari",
+      "name": "Mohd Amaan Ansari",
+      "num": "9643907512"
+    },
+    {
+      "aadhar": "389201633649",
+      "address": "Inayat Ullah Ansari!D 47 40!PURANA ROAD LAXMO NAGAR!DELHI!DELHI!DELHI!110092",
+      "alt": "9794554350",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Inayat Ullah Ansari",
+      "name": "Mohd Amaan Ansari",
+      "num": "9643907512"
+    },
+    {
+      "aadhar": "389201633649",
+      "address": "Inayat Ullah Ansari!D 47 40!PURANA ROAD LAXMO NAGAR!DELHI!DELHI!DELHI!110092",
+      "alt": "9794554350",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Inayat Ullah Ansari",
+      "name": "Mohd Amaan Ansari",
+      "num": "9643907512"
+    }
+  ]
+}
