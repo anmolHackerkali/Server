@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:12:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9667429987",
+  "records": [
+    {
+      "aadhar": "511264557705",
+      "address": " C-4/404 CAPITAL APPARTMENTS VASUNDHARA ENCLAVE PLOT NO -3 Dharmshila hospital Vasundhra Enclave S O Delhi East Delhi Delhi 110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N GARG",
+      "name": "Parveen Garg",
+      "num": "9667429987"
+    },
+    {
+      "aadhar": "511264557705",
+      "address": "!C-4/404 CAPITAL APPARTMENTS!VASUNDHARA ENCLAVE PLOT NO -3!Dharmshila hospital!Vasundhra Enclave S O!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N GARG",
+      "name": "Parveen Garg",
+      "num": "9667429987"
+    },
+    {
+      "aadhar": "511264557705",
+      "address": "!C-4/404 CAPITAL APPARTMENTS!VASUNDHARA ENCLAVE PLOT NO -3!Dharmshila hospital!Vasundhra Enclave S O!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S N GARG",
+      "name": "Parveen Garg",
+      "num": "9667429987"
+    },
+    {
+      "aadhar": "647540924581",
+      "address": "!A-569!A-569 new ashok nagar A-569 new ashok nagar!NA!Delhi!Delhi East East!NA!Delhi!110096",
+      "alt": "9667429987",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shacheendra Mandal",
+      "name": "Meena Rani",
+      "num": "8851869053"
+    },
+    {
+      "aadhar": "647540924581",
+      "address": "!A-569!A-569 new ashok nagarA-569 new ashok nagar!NA!Delhi!Delhi EastEast!NA!Delhi!110096",
+      "alt": "9667429987",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shacheendra Mandal",
+      "name": "Meena Rani",
+      "num": "8851869053"
+    },
+    {
+      "aadhar": "647540924581",
+      "address": "!A-569!A-569 new ashok nagarA-569 new ashok nagar!NA!Delhi!Delhi EastEast!NA!Delhi!110096",
+      "alt": "9667429987",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shacheendra Mandal",
+      "name": "Meena Rani",
+      "num": "8851869053"
+    }
+  ]
+}
