@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:18:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8382888775",
+  "records": [
+    {
+      "aadhar": "956375282871",
+      "address": "C/O Puneet Chaubey!Allauddinpur!lohata!!Alauddinpur!Varanasi!Varanasi!Uttar Pradesh!221107",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Puneet Chaubey",
+      "name": "Chanda Devi",
+      "num": "8382888775"
+    },
+    {
+      "aadhar": "956375282871",
+      "address": "C/O Puneet Chaubey!Allauddinpur!lohata!!Alauddinpur!Varanasi!Varanasi!Uttar Pradesh!221107",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Puneet Chaubey",
+      "name": "Chanda Devi",
+      "num": "8382888775"
+    }
+  ]
+}
