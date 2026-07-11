@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:53:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8090287599",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Yaduvendra!1 behta khurd bhoye mau!!  Rae Bareli!Rae Bareli!Uttar Pradesh!229405",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Yaduvendra",
+      "name": "Apurva Ratan Chakravarti",
+      "num": "8090287599"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Yaduvendra!1 behta khurd bhoye mau!!  Rae Bareli!Rae Bareli!Uttar Pradesh!229405",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Yaduvendra",
+      "name": "Apurva Ratan Chakravarti",
+      "num": "8090287599"
+    }
+  ]
+}
