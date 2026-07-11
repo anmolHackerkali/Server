@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:19:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6268515630",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Ankalu Ram Sinha!!POST - MOAHARA MOHARA!ward 04!Mohara Balod!Chhattisgarh!491222",
+      "alt": null,
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ankalu Ram Sinha",
+      "name": "Laxmi Bai Sinha",
+      "num": "6268515630"
+    }
+  ]
+}
