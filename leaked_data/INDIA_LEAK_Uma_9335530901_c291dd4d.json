@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:14:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9335530901",
+  "records": [
+    {
+      "aadhar": "953019098916",
+      "address": "w/o  nanhaku!!Malihabad!!vill-mau po-kasmandikalan ramgarha!malihabad Malihabad!lucknow!Uttar Pradesh!227111",
+      "alt": "8181828716",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nanhaku",
+      "name": "Uma",
+      "num": "9335530901"
+    },
+    {
+      "aadhar": "953019098916",
+      "address": "w/o  nanhaku!!Malihabad!!vill-mau po-kasmandikalan ramgarha!malihabad Malihabad!lucknow!Uttar Pradesh!227111",
+      "alt": "8181828716",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "nanhaku",
+      "name": "Uma",
+      "num": "9335530901"
+    },
+    {
+      "aadhar": "846856768911",
+      "address": "!vill -mau!kasmandikalan ucknow!kasmandikalan ucknow!Vill-Mau Po-Kasmandikalan Malihabad Ramg!LUCKNOW!UTTAR PRADESH!227111",
+      "alt": "9335530901",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nanhaku",
+      "name": "MR KARAN ",
+      "num": "9554481416"
+    },
+    {
+      "aadhar": "846856768911",
+      "address": "!vill -mau!kasmandikalan ucknow!kasmandikalan ucknow!Vill-Mau Po-Kasmandikalan Malihabad Ramg!LUCKNOW!UTTAR PRADESH!227111",
+      "alt": "9335530901",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Nanhaku",
+      "name": "MR KARAN ",
+      "num": "9554481416"
+    }
+  ]
+}
