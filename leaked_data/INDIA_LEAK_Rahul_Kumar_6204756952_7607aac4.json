@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 13:11:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204756952",
+  "records": [
+    {
+      "aadhar": "587365585175",
+      "address": "S/O  Vijay Singh!!Khocharia!!maniya!Manian Rajpur!Buxar!Bihar!802117",
+      "alt": "7765025498",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vijay Singh",
+      "name": "Rahul Kumar",
+      "num": "6204756952"
+    },
+    {
+      "aadhar": "587365585175",
+      "address": "S/O  Vijay Singh!!Khocharia!!maniya!Manian Rajpur!Buxar!Bihar!802117",
+      "alt": "7765025498",
+      "circle": "JIO BHR&JHR",
+      "email": "RAHUL123@GMAIL.COM",
+      "fname": "Vijay Singh",
+      "name": "Rahul Kumar",
+      "num": "6204756952"
+    },
+    {
+      "aadhar": "587365585175",
+      "address": "S/O  Vijay Singh!!Khocharia!!maniya!Manian Rajpur!Buxar!Bihar!802117",
+      "alt": "7765025498",
+      "circle": "JIO BHR&JHR",
+      "email": "RAHUL123@GMAIL.COM",
+      "fname": "Vijay Singh",
+      "name": "Rahul Kumar",
+      "num": "6204756952"
+    }
+  ]
+}
