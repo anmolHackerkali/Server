@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:47:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7355270680",
+  "records": [
+    {
+      "aadhar": "350551888312",
+      "address": "S/O  Abdul Bari!!. . Bainti!NA!BAITI!Baiti Maharajganj Rae Bareli!NA!Uttar Pradesh!229308",
+      "alt": "8874128770",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Abdul Bari",
+      "name": "Abdul Vahid",
+      "num": "7355270680"
+    },
+    {
+      "aadhar": "350551888312",
+      "address": "S/O  Abdul Bari!!. . Bainti!NA!BAITI!Baiti Maharajganj Rae Bareli!NA!Uttar Pradesh!229308",
+      "alt": "8874128770",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Abdul Bari",
+      "name": "Abdul Vahid",
+      "num": "7355270680"
+    },
+    {
+      "aadhar": "678803053744",
+      "address": "!!- Mahiya pur!NA!Gopal pur Thithiura!Shahjahanpur Shahjahanpur!NA!Uttar Pradesh!242001",
+      "alt": "7355270680",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bijendra Singh",
+      "name": "Manjesh Kumar",
+      "num": "7905165911"
+    },
+    {
+      "aadhar": "678803053744",
+      "address": "!!- Mahiya pur!NA!Gopal pur Thithiura!Shahjahanpur Shahjahanpur!NA!Uttar Pradesh!242001",
+      "alt": "7355270680",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bijendra Singh",
+      "name": "Manjesh Kumar",
+      "num": "7905165911"
+    }
+  ]
+}
