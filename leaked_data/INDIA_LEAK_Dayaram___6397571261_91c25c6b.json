@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-11 12:21:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6397571261",
+  "records": [
+    {
+      "aadhar": "966019055934",
+      "address": "s/o  babu ram!!Sundari Amsah!village sunaur!village sunaur posl sundari sundari nawabganj!sundari amsahNawabganj!bareilly!Uttar Pradesh!262406",
+      "alt": "9149264016",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "babu ram",
+      "name": "Dayaram  ",
+      "num": "6397571261"
+    },
+    {
+      "aadhar": "274062940122",
+      "address": "w/o nawab ali!1233!thana naghphani!!opp. thana nagphani!moradabad!moradabad!Uttar Pradesh!244001",
+      "alt": "8266881461",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "nawab ali",
+      "name": "Shumaila",
+      "num": "6397571261"
+    },
+    {
+      "aadhar": "274062940122",
+      "address": "w/o nawab ali!1233!thana naghphani!!opp. thana nagphani!moradabad!moradabad!Uttar Pradesh!244001",
+      "alt": "8266881461",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "nawab ali",
+      "name": "Shumaila",
+      "num": "6397571261"
+    }
+  ]
+}
