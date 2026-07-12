@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:12:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8250950198",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Madan Dutta!.!.!. Bankura!!BANKURA!Bankura!West Bengal!722139",
+      "alt": null,
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "S/O: Madan Dutta",
+      "name": "Bipadtaran Dutta",
+      "num": "8250950198"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Madan Dutta!.!.!. Bankura!!BANKURA!Bankura!West Bengal!722139",
+      "alt": null,
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "S/O: Madan Dutta",
+      "name": "Bipadtaran Dutta",
+      "num": "8250950198"
+    }
+  ]
+}
