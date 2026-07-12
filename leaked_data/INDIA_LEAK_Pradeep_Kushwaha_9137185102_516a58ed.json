@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:36:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9137185102",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Rajendra Kushwaha!!77 ward no 05!gram pipra post khamhariya!Pipara Rewa!Madhya Pradesh!486445",
+      "alt": "917880070355",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Rajendra Kushwaha",
+      "name": "Pradeep Kushwaha",
+      "num": "9137185102"
+    },
+    {
+      "aadhar": null,
+      "address": " gram kharwahi po amarpatan gram kharwahi po amarpatan  Raghurajnagar Satna  Madhya Pradesh 485001",
+      "alt": "9137185102",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Birendra Singh",
+      "name": "Anuja Singh",
+      "num": "9589493479 "
+    },
+    {
+      "aadhar": "525341247346",
+      "address": "S/O Rajendra Kushwaha!77!gram pipra post khamhariya gram pipra post khamhariya!gram pipra post khamhariya!ward no 05 REWA!REWA!REWA!Madhya Pradesh!486445",
+      "alt": "9137185102",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Rajendra Kushwaha",
+      "name": "MR PRADEEP KUSHWAHA",
+      "num": "7694962735"
+    },
+    {
+      "aadhar": "355532976462",
+      "address": "S/O Kamla Kushwaha!gram pipara post khamhariya!gram pipara post khamhariya gram pipara post khamhariya!gram pipara post khamhariya!rewagram pipara post khamhariya REWA!REWA!REWA!Madhya Pradesh!486445",
+      "alt": "9137185102",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Kamla Kushwaha",
+      "name": "MR NEEL KAMAL KUSHWAHA",
+      "num": "7354127462"
+    }
+  ]
+}
