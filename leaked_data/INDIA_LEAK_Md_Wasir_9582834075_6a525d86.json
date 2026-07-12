@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:08:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582834075",
+  "records": [
+    {
+      "aadhar": "546552363195",
+      "address": "Md Saddik!B-16!Bhagya Vihar Rani Khera!!Madan Pur Dabas-Saraswati Vihar-North West Delhi Madan Pur Dabas-Saraswati Vihar-North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Md Saddik",
+      "name": "Md Wasir",
+      "num": "9582834075"
+    },
+    {
+      "aadhar": "546552363195",
+      "address": "Md Saddik!B-16!Bhagya Vihar Rani Khera!!Madan Pur Dabas-Saraswati Vihar-North West Delhi Madan Pur Dabas-Saraswati Vihar-North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Md Saddik",
+      "name": "Md Wasir",
+      "num": "9582834075"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Md Basir!!B-68!Bhagya Vihar!Mubarak Pur DabasNorth West Delhi!Delhi!110081",
+      "alt": "918929921742",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Md Basir",
+      "name": "Md Faisal",
+      "num": "9582834075"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Md Basir!!B-68!Bhagya Vihar!Mubarak Pur DabasNorth West Delhi!Delhi!110081",
+      "alt": "918929921742",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Md Basir",
+      "name": "Md Faisal",
+      "num": "9582834075"
+    },
+    {
+      "aadhar": "546552363195",
+      "address": "Md Saddik!B-16!Bhagya Vihar Rani Khera!!Madan Pur Dabas-Saraswati Vihar-North West Delhi Madan Pur Dabas-Saraswati Vihar-North West Delhi!Delhi!110081",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Md Saddik",
+      "name": "Md Wasir",
+      "num": "9582834075"
+    }
+  ]
+}
