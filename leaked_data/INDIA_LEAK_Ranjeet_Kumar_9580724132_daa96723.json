@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 00:55:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9580724132",
+  "records": [
+    {
+      "aadhar": "635564247883",
+      "address": "S/O  Maniram! 198!Gram Mohmmadpur Sabukpur Post Husainpur Girant!mohmmadpur!mohmmadpur tanda!Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "6306405558",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Maniram",
+      "name": "Ranjeet Kumar",
+      "num": "9580724132"
+    },
+    {
+      "aadhar": "635564247883",
+      "address": "S/O  Maniram! 198!Gram Mohmmadpur Sabukpur Post Husainpur Girant!mohmmadpur!mohmmadpur tanda!Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "6306405558",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Maniram",
+      "name": "Ranjeet Kumar",
+      "num": "9580724132"
+    }
+  ]
+}
