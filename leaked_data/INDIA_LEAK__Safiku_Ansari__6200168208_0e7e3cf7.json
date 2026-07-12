@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:19:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200168208",
+  "records": [
+    {
+      "aadhar": "649964881118",
+      "address": " 33 GANV KUDDI!post kuddi!thana chand!Kuddi Kuddi KAIMUR BHABUA!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Hasnain Ansari ",
+      "name": " Safiku Ansari ",
+      "num": "6200168208"
+    },
+    {
+      "aadhar": "649964881118",
+      "address": " 33 GANV KUDDI!post kuddi!thana chand!Kuddi Kuddi KAIMUR BHABUA!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Hasnain Ansari ",
+      "name": " Safiku Ansari ",
+      "num": "6200168208"
+    },
+    {
+      "aadhar": "882318554935",
+      "address": "!Kuddi!kuddi!GRAM KUDDI POST KUDDI!kuddi!Kaimur Bhabua!Kaimur Bhabua!Bihar!821106",
+      "alt": "6200168208",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Hasnain Ansari",
+      "name": "Khalil Ansari",
+      "num": "8434029390"
+    }
+  ]
+}
