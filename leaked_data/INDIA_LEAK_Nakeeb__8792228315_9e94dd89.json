@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 03:06:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8792228315",
+  "records": [
+    {
+      "aadhar": "205740603388",
+      "address": "S/O Jameel!20 3rd Cross Andrahalli Main Road Maruthinagar!Peenya 2nd Stage Bangalore North!jamiyamaseed!Viswaneedam Bangalore!Bengaluru!BENGALURU RURAL!Karnataka!560091",
+      "alt": "9113948054",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Jameel ",
+      "name": "Nakeeb ",
+      "num": "8792228315"
+    }
+  ]
+}
