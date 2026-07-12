@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:14:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7320978591",
+  "records": [
+    {
+      "aadhar": "728968889562",
+      "address": " ....!LAKARI DARGAH!LOHARPATTI!Phunguni!Gopalganj!!Bihar!841438 ",
+      "alt": "9955569812",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Julum  Ansari ",
+      "name": " Hakim  Ansari ",
+      "num": "7320978591"
+    },
+    {
+      "aadhar": "728968889562",
+      "address": " ....!LAKARI DARGAH!LOHARPATTI!Phunguni!Gopalganj!!Bihar!841438 ",
+      "alt": "9955569812",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Julum  Ansari ",
+      "name": " Hakim  Ansari ",
+      "num": "7320978591"
+    }
+  ]
+}
