@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 00:47:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7307894496",
+  "records": [
+    {
+      "aadhar": "688044204692",
+      "address": "s/o hansraj! 193!Tanda!gram mahmadpur sabukpur post husenpur girent!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9315136395",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "hansraj",
+      "name": "Sugreem Kumar",
+      "num": "7307894496"
+    },
+    {
+      "aadhar": "688044204692",
+      "address": "s/o hansraj! 193!Tanda!gram mahmadpur sabukpur post husenpur girent!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9315136395",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "hansraj",
+      "name": "Sugreem Kumar",
+      "num": "7307894496"
+    }
+  ]
+}
