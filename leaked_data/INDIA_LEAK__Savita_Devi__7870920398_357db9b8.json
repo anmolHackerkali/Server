@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:42:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7870920398",
+  "records": [
+    {
+      "aadhar": "685799073132",
+      "address": " w/o chandrabhusan!gram silauta post goi!kaimur bhabua!goin!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Chandrabhusan ",
+      "name": " Savita Devi ",
+      "num": "7870920398"
+    },
+    {
+      "aadhar": "685799073132",
+      "address": " w/o chandrabhusan!gram silauta post goi!kaimur bhabua!goin!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Chandrabhusan ",
+      "name": " Savita Devi ",
+      "num": "7870920398"
+    },
+    {
+      "aadhar": "685799073132",
+      "address": "!silauta!silauta!silauta!821106!silauta!Kaimur (Bhabua)!BIHAR!821106",
+      "alt": "7870920398",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "CHANDRABHUSAN",
+      "name": "SAVITADEVI",
+      "num": "9430227055"
+    },
+    {
+      "aadhar": "685799073132",
+      "address": "!silauta!silauta!silauta!821106!silauta!Kaimur (Bhabua)!BIHAR!821106",
+      "alt": "7870920398",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "CHANDRABHUSAN",
+      "name": "SAVITADEVI",
+      "num": "9430227055"
+    },
+    {
+      "aadhar": "XXXXXXXX3132",
+      "address": " silauta silauta silauta  821106 silauta  Kaimur (Bhabua) BIHAR 821106 ",
+      "alt": "7870920398",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " CHANDRABHUSAN ",
+      "name": " SAVITA  DEVI ",
+      "num": "9430227055"
+    },
+    {
+      "aadhar": "685799073132",
+      "address": "!silauta!silauta!silauta!821106!silauta!Kaimur (Bhabua)!BIHAR!821106",
+      "alt": "7870920398",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "CHANDRABHUSAN",
+      "name": "SAVITADEVI",
+      "num": "9430227055"
+    },
+    {
+      "aadhar": "XXXXXXXX3132",
+      "address": " silauta silauta silauta  821106 silauta  Kaimur (Bhabua) BIHAR 821106 ",
+      "alt": "7870920398",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " CHANDRABHUSAN ",
+      "name": " SAVITA  DEVI ",
+      "num": "9430227055"
+    }
+  ]
+}
