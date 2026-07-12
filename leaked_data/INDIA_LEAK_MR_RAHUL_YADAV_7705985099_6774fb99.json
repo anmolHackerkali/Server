@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:30:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7705985099",
+  "records": [
+    {
+      "aadhar": "870970811804",
+      "address": "!JAMUNIYA TOLA!JAMUNIYA TOLA!!KASIA KASIAKUSHINAGAR!KASIA!UTTAR PRADESH!274402",
+      "alt": "7705985099",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Shrikishun Yadav",
+      "name": "MR. RAHUL YADAV",
+      "num": "8052072190"
+    },
+    {
+      "aadhar": "910450622687",
+      "address": "!0!Rambar BuJurg RAMKOLA!!Ramkola!Kushinagar!Kushinagar!Uttar Pradesh!274305",
+      "alt": "7705985099",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Gopal MaddHeshiya",
+      "name": "Raghuvar",
+      "num": "9984399344"
+    },
+    {
+      "aadhar": "870970811804",
+      "address": "!JAMUNIYA TOLA!JAMUNIYA TOLA!!KASIA KASIA KUSHINAGAR!KASIA!UTTAR PRADESH!274402",
+      "alt": "7705985099",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shrikishun Yadav",
+      "name": "MR RAHUL YADAV",
+      "num": "8052072190"
+    },
+    {
+      "aadhar": "910450622687",
+      "address": "!0!Rambar BuJurg RAMKOLA!!Ramkola!Kushinagar!Kushinagar!Uttar Pradesh!274305",
+      "alt": "7705985099",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Gopal MaddHeshiya",
+      "name": "Raghuvar",
+      "num": "9984399344"
+    },
+    {
+      "aadhar": "870970811804",
+      "address": "!JAMUNIYA TOLA!JAMUNIYA TOLA!!KASIA KASIA KUSHINAGAR!KASIA!UTTAR PRADESH!274402",
+      "alt": "7705985099",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shrikishun Yadav",
+      "name": "MR RAHUL YADAV",
+      "num": "8052072190"
+    }
+  ]
+}
