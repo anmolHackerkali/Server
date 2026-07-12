@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:19:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9411011123",
+  "records": [
+    {
+      "aadhar": "308110005858",
+      "address": "S/O: Ram Charan Lal  b-486 avas vikas  civil lines Budaun  Bisauli  BUDAUN-BUDAUN UP 243601",
+      "alt": "9411011123",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Charan Lal",
+      "name": "RAJ PAL SINGH",
+      "num": "9012325962"
+    },
+    {
+      "aadhar": "308110005858",
+      "address": "S/O: Ram Charan Lal  b-486 avas vikas  civil lines Budaun  Bisauli  BUDAUN-BUDAUN UP 243601",
+      "alt": "9411011123",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Ram Charan Lal",
+      "name": "RAJ PAL SINGH",
+      "num": "9012325962"
+    }
+  ]
+}
