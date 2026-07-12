@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:34:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8521332505",
+  "records": [
+    {
+      "aadhar": "248540894413",
+      "address": "W/O Sarfuddin Ansari!lakdi sarif tola!!Lakri!!Siwan!Bihar!841416",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sarfuddin  Ansari",
+      "name": "Jubaida  Khatun",
+      "num": "8521332505"
+    },
+    {
+      "aadhar": "248540894413",
+      "address": "W/O Sarfuddin Ansari!lakdi sarif tola!!Lakri!!Siwan!Bihar!841416",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sarfuddin  Ansari",
+      "name": "Jubaida  Khatun",
+      "num": "8521332505"
+    }
+  ]
+}
