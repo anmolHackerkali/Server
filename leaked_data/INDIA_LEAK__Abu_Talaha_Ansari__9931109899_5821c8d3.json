@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:12:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931109899",
+  "records": [
+    {
+      "aadhar": "202032529808",
+      "address": " 12!VILL KUDDI!KAIMUR BHABUA KUDDI!KUDDI!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Iqabal Ahamad ",
+      "name": " Abu Talaha Ansari ",
+      "num": "9931109899"
+    },
+    {
+      "aadhar": "202032529808",
+      "address": " 12!VILL KUDDI!KAIMUR BHABUA KUDDI!KUDDI!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Iqabal Ahamad ",
+      "name": " Abu Talaha Ansari ",
+      "num": "9931109899"
+    }
+  ]
+}
