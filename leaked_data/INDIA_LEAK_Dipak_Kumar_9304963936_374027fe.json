@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:30:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9304963936",
+  "records": [
+    {
+      "aadhar": "971186098514",
+      "address": "s/o  shayam sunder mahto!garhsisai!garhsisai!near primary school!garhsisai!garhsisai!samastipur!Bihar!848503",
+      "alt": "7023715498",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shayam sunder mahto",
+      "name": "Dipak Kumar",
+      "num": "9304963936"
+    },
+    {
+      "aadhar": "971186098514",
+      "address": "s/o  shayam sunder mahto!garhsisai!garhsisai!near primary school!garhsisai!garhsisai!samastipur!Bihar!848503",
+      "alt": "7023715498",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shayam sunder mahto",
+      "name": "Dipak Kumar",
+      "num": "9304963936"
+    },
+    {
+      "aadhar": "971186098514",
+      "address": "s/o  shayam sunder mahto!garhsisai!garhsisai!near primary school!garhsisai!garhsisai!samastipur!Bihar!848503",
+      "alt": "7023715498",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shayam sunder mahto",
+      "name": "Dipak Kumar",
+      "num": "9304963936"
+    }
+  ]
+}
