@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:06:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9122513590",
+  "records": [
+    {
+      "aadhar": "551623958189",
+      "address": "ward n0-12 vill baligarh post belhara thana garhwa!vill baligarha!Garhwa!Baligarh baligarh garhwa jharkhand!Garhwa!Garhwa!Jharkhand!822114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bigu Ram",
+      "name": "Kabutari Devi",
+      "num": "9122513590"
+    },
+    {
+      "aadhar": "551623958189",
+      "address": "ward n0-12 vill baligarh post belhara thana garhwa!vill baligarha!Garhwa!Baligarh baligarh garhwa jharkhand!Garhwa!Garhwa!Jharkhand!822114",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bigu Ram",
+      "name": "Kabutari Devi",
+      "num": "9122513590"
+    }
+  ]
+}
