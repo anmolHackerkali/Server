@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:08:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299141257",
+  "records": [
+    {
+      "aadhar": "500080595092",
+      "address": "!!lakho lakho new shivmandil!NA!muffsil!Begusarai Begusarai!NA!Bihar!851129",
+      "alt": "7808129206",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chandrika prasad singh",
+      "name": "Govind Kumar",
+      "num": "6299141257"
+    },
+    {
+      "aadhar": "500080595092",
+      "address": "!!lakho lakho new shivmandil!NA!muffsil!Begusarai Begusarai!NA!Bihar!851129",
+      "alt": "7808129206",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "chandrika prasad singh",
+      "name": "Govind Kumar",
+      "num": "6299141257"
+    },
+    {
+      "aadhar": "500080595092",
+      "address": "!!lakho lakho new shivmandil!NA!muffsil!Begusarai Begusarai!NA!Bihar!851129",
+      "alt": "7808129206",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "chandrika prasad singh",
+      "name": "Govind Kumar",
+      "num": "6299141257"
+    }
+  ]
+}
