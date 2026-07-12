@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:36:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9065669598",
+  "records": [
+    {
+      "aadhar": "342571424141",
+      "address": "!Aurai!!!!Siwan Pakri Barharia!Bihar!841438",
+      "alt": "8084642924",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rakesh Kumar Sah",
+      "name": "Lalita  Devi",
+      "num": "9065669598"
+    },
+    {
+      "aadhar": "342571424141",
+      "address": "!Aurai!!!!Siwan Pakri Barharia!Bihar!841438",
+      "alt": "8084642924",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rakesh Kumar Sah",
+      "name": "Lalita  Devi",
+      "num": "9065669598"
+    },
+    {
+      "aadhar": "738575493174",
+      "address": "d/o  bishwakarma sah!!Siwan!near baramastan!mahadeva!siwan Siwan!siwan!Bihar!841226",
+      "alt": "9065669598",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "bishwakarma sah",
+      "name": "Shanti Kumari",
+      "num": "9576304139"
+    },
+    {
+      "aadhar": "738575493174",
+      "address": "d/o  bishwakarma sah!!Siwan!near baramastan!mahadeva!siwan Siwan!siwan!Bihar!841226",
+      "alt": "9065669598",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "bishwakarma sah",
+      "name": "Shanti Kumari",
+      "num": "9576304139"
+    },
+    {
+      "aadhar": "738575493174",
+      "address": "d/o  bishwakarma sah!!Siwan!near baramastan!mahadeva!siwan Siwan!siwan!Bihar!841226",
+      "alt": "9065669598",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "bishwakarma sah",
+      "name": "Shanti Kumari",
+      "num": "9576304139"
+    }
+  ]
+}
