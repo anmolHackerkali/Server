@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 01:01:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8765151172",
+  "records": [
+    {
+      "aadhar": "533957789365",
+      "address": " !207!Tanda!Gram Mohammadpur Sabukpur Post Husainpur Girant!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": "6393133394",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ganesh",
+      "name": "Anand Kumar",
+      "num": "8765151172"
+    },
+    {
+      "aadhar": "533957789365",
+      "address": " !207!Tanda!Gram Mohammadpur Sabukpur Post Husainpur Girant!Tanda-Tanda-Ambedkar!Uttar Pradesh!224190",
+      "alt": "6393133394",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ganesh",
+      "name": "Anand Kumar",
+      "num": "8765151172"
+    },
+    {
+      "aadhar": "533957789365",
+      "address": "S/O RAM GANESH!207 GRAM MOHAMMADPUR SABUKPUR POST HUSA!207 GRAM MOHAMMADPUR SABUKPUR POST HUSA!Mohammed pur!Mohammed purAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8765151172",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Ganesh",
+      "name": "MR. ANAND KUMAR",
+      "num": "9565620591"
+    },
+    {
+      "aadhar": "533957789365",
+      "address": "S/O RAM GANESH!207  GRAM MOHAMMADPUR SABUKPUR POST HUSA!207  GRAM MOHAMMADPUR SABUKPUR POST HUSA!Mohammed pur!Mohammed pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8765151172",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ganesh",
+      "name": "MR ANAND KUMAR",
+      "num": "9565620591"
+    },
+    {
+      "aadhar": "533957789365",
+      "address": "S/O RAM GANESH!207  GRAM MOHAMMADPUR SABUKPUR POST HUSA!207  GRAM MOHAMMADPUR SABUKPUR POST HUSA!Mohammed pur!Mohammed pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "8765151172",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Ganesh",
+      "name": "MR ANAND KUMAR",
+      "num": "9565620591"
+    }
+  ]
+}
