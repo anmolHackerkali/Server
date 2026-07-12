@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:06:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6287232204",
+  "records": [
+    {
+      "aadhar": "213986605302",
+      "address": " 01 silari silri kaimur bhabua!Darauli!Bhabua!Darauli!Kaimur Bhabua!ROHTAS!Bihar!821101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Anwar Ansari ",
+      "name": " Md Wasim Ansari ",
+      "num": "6287232204"
+    },
+    {
+      "aadhar": "213986605302",
+      "address": " 01 silari silri kaimur bhabua!Darauli!Bhabua!Darauli!Kaimur Bhabua!ROHTAS!Bihar!821101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Anwar Ansari ",
+      "name": " Md Wasim Ansari ",
+      "num": "6287232204"
+    }
+  ]
+}
