@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:07:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801389678",
+  "records": [
+    {
+      "aadhar": "837845769042",
+      "address": "S/O Mo Shah Aalam!kuddi!!Kuddi!!Kaimur Bhabua Kuddi Chand!Bihar!821106",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mo Shah Aalam",
+      "name": "Mo Tabrez Aalam",
+      "num": "9801389678"
+    },
+    {
+      "aadhar": "837845769042",
+      "address": "S/O Mo Shah Aalam!kuddi!!Kuddi!!Kaimur Bhabua Kuddi Chand!Bihar!821106",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mo Shah Aalam",
+      "name": "Mo Tabrez Aalam",
+      "num": "9801389678"
+    }
+  ]
+}
