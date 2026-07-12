@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:43:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9905921039",
+  "records": [
+    {
+      "aadhar": "948021642620",
+      "address": "S/O  Manoj Kumar!!manifit!NEAR SRI RAM KHATAL!MANIFIT TELCO JAMSHEDPUR!Gobindpur!East Singhbhum!Jharkhand!831004",
+      "alt": "6207677474",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Deepak Kumar",
+      "num": "9905921039"
+    },
+    {
+      "aadhar": "948021642620",
+      "address": "S/O  Manoj Kumar!!manifit!NEAR SRI RAM KHATAL!MANIFIT TELCO JAMSHEDPUR!Gobindpur!East Singhbhum!Jharkhand!831004",
+      "alt": "6207677474",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Deepak Kumar",
+      "num": "9905921039"
+    },
+    {
+      "aadhar": "811155332995",
+      "address": "w/o  sanoj kumar singh! Road No-1!road no-1 Telco Works!Telco!prem nagar telco jamshedpur telco works!gobindpur Golmuri!east singhbhum!Jharkhand!831004",
+      "alt": "9905921039",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sanoj kumar singh",
+      "name": "Rekha Devi",
+      "num": "6202849476"
+    },
+    {
+      "aadhar": "811155332995",
+      "address": "w/o  sanoj kumar singh! Road No-1!road no-1 Telco Works!Telco!prem nagar telco jamshedpur telco works!gobindpur Golmuri!east singhbhum!Jharkhand!831004",
+      "alt": "9905921039",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sanoj kumar singh",
+      "name": "Rekha Devi",
+      "num": "6202849476"
+    }
+  ]
+}
