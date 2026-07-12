@@ -242,7 +242,7 @@ HTML_TEMPLATE = """
                    value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}">
             <button type="submit">⚡ Ditels </button>
         </form>
-        
+    <h1>    </h1>
 <h1>Ek din me 500 Number ka nikalega</h1>
         {% if result %}
         <div class="result-box">
