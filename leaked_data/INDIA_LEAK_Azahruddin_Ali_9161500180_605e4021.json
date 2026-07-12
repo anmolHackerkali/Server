@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:41:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9161500180",
+  "records": [
+    {
+      "aadhar": "444812100367",
+      "address": "!0!kataiya tola!chamukha!chamukha maharajganj!Maharajganj!Maharajganj!Uttar Pradesh!273151",
+      "alt": "7054582925",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "sarfuddin ali",
+      "name": "Azahruddin Ali",
+      "num": "9161500180"
+    },
+    {
+      "aadhar": "444812100367",
+      "address": "!0!kataiya tola!chamukha!chamukha maharajganj!Maharajganj!Maharajganj!Uttar Pradesh!273151",
+      "alt": "7054582925",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "sarfuddin ali",
+      "name": "Azahruddin Ali",
+      "num": "9161500180"
+    }
+  ]
+}
