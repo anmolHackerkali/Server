@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:24:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9339844073",
+  "records": [
+    {
+      "aadhar": "465764130018",
+      "address": " S/O Mukunda Roy!!KHANSAHEB PARA Garalbari!GARAL BARI!- khansaheb para garal bari garalbari garalbari!jalpaiguri Jalpaiguri!jalpaiguri!West Bengal!735140 ",
+      "alt": "9635527935",
+      "circle": "JIO WB",
+      "email": "GOPA.GARALBAR@REDIFFMAIL.COM",
+      "fname": "Mukunda Roy",
+      "name": "Ganesh Roy",
+      "num": "9339844073"
+    },
+    {
+      "aadhar": "465764130018",
+      "address": " S/O Mukunda Roy!!KHANSAHEB PARA Garalbari!GARAL BARI!- khansaheb para garal bari garalbari garalbari!jalpaiguri Jalpaiguri!jalpaiguri!West Bengal!735140 ",
+      "alt": "9635527935",
+      "circle": "JIO WB",
+      "email": "GOPA.GARALBAR@REDIFFMAIL.COM",
+      "fname": "Mukunda Roy",
+      "name": "Ganesh Roy",
+      "num": "9339844073"
+    }
+  ]
+}
