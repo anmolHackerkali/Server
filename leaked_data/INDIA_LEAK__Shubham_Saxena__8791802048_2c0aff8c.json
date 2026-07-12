@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:18:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8791802048",
+  "records": [
+    {
+      "aadhar": "825666226330",
+      "address": " S/O Sanjiv Kumar!  Sita Road Chandausi  !!!Sambhal!Uttar Pradesh!202412 ",
+      "alt": "7017065080",
+      "circle": "AIRTEL UPW",
+      "email": "shubhamsaxena2901@gmail.com",
+      "fname": " Sanjiv Kumar ",
+      "name": " Shubham Saxena ",
+      "num": "8791802048"
+    },
+    {
+      "aadhar": "825666226330",
+      "address": " S/O Sanjiv Kumar!  Sita Road Chandausi  !!!Sambhal!Uttar Pradesh!202412 ",
+      "alt": "7017065080",
+      "circle": "AIRTEL UPW",
+      "email": "shubhamsaxena2901@gmail.com",
+      "fname": " Sanjiv Kumar ",
+      "name": " Shubham Saxena ",
+      "num": "8791802048"
+    },
+    {
+      "aadhar": "UP3820150000714",
+      "address": "!.!po&ps chandausiGANESH COLONY STREET 08 a!NA!CHANDAUSI!SAMBHALSAMBHAL!NA!Uttar Pradesh!244302",
+      "alt": "8791802048",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "SANJIV KUMAR SXAENA",
+      "name": "SHUBHAM SAXENA",
+      "num": "8923046152"
+    },
+    {
+      "aadhar": "UP3820150000714",
+      "address": "!.!po&ps chandausi GANESH COLONY STREET 08 a!NA!CHANDAUSI!SAMBHAL SAMBHAL!NA!Uttar Pradesh!244302",
+      "alt": "8791802048",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "SANJIV KUMAR SXAENA",
+      "name": "SHUBHAM SAXENA",
+      "num": "8923046152"
+    },
+    {
+      "aadhar": "UP3820150000714",
+      "address": "!.!po&ps chandausi GANESH COLONY STREET 08 a!NA!CHANDAUSI!SAMBHAL SAMBHAL!NA!Uttar Pradesh!244302",
+      "alt": "8791802048",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "SANJIV KUMAR SXAENA",
+      "name": "SHUBHAM SAXENA",
+      "num": "8923046152"
+    }
+  ]
+}
