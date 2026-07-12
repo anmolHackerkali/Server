@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:48:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8373079321",
+  "records": [
+    {
+      "aadhar": "306401474024",
+      "address": "!Radhakantapur!KENJAKURA Radhakantapur Bankura Bankura!KENJAKURA Radhakantapur Bankura Bankura!Bankura!BANKURA!BANKURA!West Bengal!722139",
+      "alt": "7364833833",
+      "circle": "VI KOL & WB",
+      "email": "chandramu731@gmail.com",
+      "fname": "Uttam Karmakar",
+      "name": "MS KALPANA CHAND",
+      "num": "8373079321"
+    },
+    {
+      "aadhar": "306401474024",
+      "address": "!Radhakantapur!KENJAKURA Radhakantapur Bankura Bankura!KENJAKURA Radhakantapur Bankura Bankura!Bankura!BANKURA!BANKURA!West Bengal!722139",
+      "alt": "7364833833",
+      "circle": "VI KOL & WB",
+      "email": "chandramu731@gmail.com",
+      "fname": "Uttam Karmakar",
+      "name": "MS KALPANA CHAND",
+      "num": "8373079321"
+    }
+  ]
+}
