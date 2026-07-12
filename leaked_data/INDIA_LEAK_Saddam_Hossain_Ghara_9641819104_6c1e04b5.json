@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:22:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9641819104",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " !!BHALEYA!HATPUKURIA!Hat Pukhuria South 24 Parganas!West Bengal!743376 ",
+      "alt": "919735412108",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Abul Hossin Gharami",
+      "name": "Saddam Hossain Gharami",
+      "num": "9641819104"
+    },
+    {
+      "aadhar": null,
+      "address": " !!BHALEYA!HATPUKURIA!Hat Pukhuria South 24 Parganas!West Bengal!743376 ",
+      "alt": "919735412108",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Abul Hossin Gharami",
+      "name": "Saddam Hossain Gharami",
+      "num": "9641819104"
+    },
+    {
+      "aadhar": "505389298782",
+      "address": " S/O Kasem Ali Midya!!BHALEYA HATPUKURIA Bhalleya!NA!BHALEYA!Hat Pukhuria Canning - I South 24 Parganas!NA!West Bengal!743376 ",
+      "alt": "9641819104",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kasem Ali Midya",
+      "name": "Kutub Uddin Midya",
+      "num": "8927338140"
+    },
+    {
+      "aadhar": "801298018814",
+      "address": "!Bijali bhandari para!Modhu khali!Modhu khali!Canning-1!SOUTH 24 PARGANAS WB KOL!SOUTH 24 PARGANAS WB KOL!West Bengal!743329",
+      "alt": "9641819104",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Amarulla Molla",
+      "name": "MS FARIDA GHARAMI",
+      "num": "7872013039"
+    },
+    {
+      "aadhar": "505389298782",
+      "address": " S/O Kasem Ali Midya!!BHALEYA HATPUKURIA Bhalleya!NA!BHALEYA!Hat Pukhuria Canning - I South 24 Parganas!NA!West Bengal!743376 ",
+      "alt": "9641819104",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kasem Ali Midya",
+      "name": "Kutub Uddin Midya",
+      "num": "8927338140"
+    },
+    {
+      "aadhar": "801298018814",
+      "address": "!Bijali bhandari para!Modhu khali!Modhu khali!Canning-1!SOUTH 24 PARGANAS WB KOL!SOUTH 24 PARGANAS WB KOL!West Bengal!743329",
+      "alt": "9641819104",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Amarulla Molla",
+      "name": "MS FARIDA GHARAMI",
+      "num": "7872013039"
+    }
+  ]
+}
