@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:15:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7369838083",
+  "records": [
+    {
+      "aadhar": "325506954036",
+      "address": " lakari daragah gulamgaus!Lakri Dargah!Mandir!Siwan Lakri Dargah!Gopalganj!Gopalganj!Bihar!841438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kishun Sah ",
+      "name": " Lakshuman Sah ",
+      "num": "7369838083"
+    },
+    {
+      "aadhar": "325506954036",
+      "address": " lakari daragah gulamgaus!Lakri Dargah!Mandir!Siwan Lakri Dargah!Gopalganj!Gopalganj!Bihar!841438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kishun Sah ",
+      "name": " Lakshuman Sah ",
+      "num": "7369838083"
+    }
+  ]
+}
