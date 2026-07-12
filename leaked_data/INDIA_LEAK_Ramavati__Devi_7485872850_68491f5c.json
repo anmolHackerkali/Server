@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:13:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7485872850",
+  "records": [
+    {
+      "aadhar": "871202441440",
+      "address": "0!Shiv Mandir Lakari Daragah Lakari Dargah!Siwan!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Uma Shankar Sah",
+      "name": "Ramavati  Devi",
+      "num": "7485872850"
+    },
+    {
+      "aadhar": "871202441440",
+      "address": "0!Shiv Mandir Lakari Daragah Lakari Dargah!Siwan!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Uma Shankar Sah",
+      "name": "Ramavati  Devi",
+      "num": "7485872850"
+    },
+    {
+      "aadhar": "871202441440",
+      "address": " .!Shivmandir Lakari Daragah!siv mandir!Lakri Dargah Lakri Dargah!Gopalganj!Siwan!Bihar!841438 ",
+      "alt": "7485872850",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Umashankar Sah ",
+      "name": " Ramawati Devi ",
+      "num": "7782055970"
+    },
+    {
+      "aadhar": "871202441440",
+      "address": " .!Shivmandir Lakari Daragah!siv mandir!Lakri Dargah Lakri Dargah!Gopalganj!Siwan!Bihar!841438 ",
+      "alt": "7485872850",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Umashankar Sah ",
+      "name": " Ramawati Devi ",
+      "num": "7782055970"
+    }
+  ]
+}
