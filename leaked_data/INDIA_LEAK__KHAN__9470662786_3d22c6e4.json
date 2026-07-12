@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:21:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9470662786",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " na NAUGHARA CHAINPUR Kaimur (Bhabua) 821103 ",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " ZAMA ",
+      "name": " KHAN ",
+      "num": "9470662786"
+    },
+    {
+      "aadhar": null,
+      "address": " na NAUGHARA CHAINPUR Kaimur (Bhabua) 821103 ",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " ZAMA ",
+      "name": " KHAN ",
+      "num": "9470662786"
+    }
+  ]
+}
