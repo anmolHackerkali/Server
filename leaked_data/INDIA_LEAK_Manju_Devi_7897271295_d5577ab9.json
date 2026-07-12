@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:53:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7897271295",
+  "records": [
+    {
+      "aadhar": "709174264205",
+      "address": "!00!Laxmipur PO!Kushinagar!jangal vishunpura gosai patti Luxmipur Padrauna!Kushinagar!Kushinagar!Uttar Pradesh!274303",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jang Bahadur",
+      "name": "Manju Devi",
+      "num": "7897271295"
+    },
+    {
+      "aadhar": "709174264205",
+      "address": "!00!Laxmipur PO!Kushinagar!jangal vishunpura gosai patti Luxmipur Padrauna!Kushinagar!Kushinagar!Uttar Pradesh!274303",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jang Bahadur",
+      "name": "Manju Devi",
+      "num": "7897271295"
+    }
+  ]
+}
