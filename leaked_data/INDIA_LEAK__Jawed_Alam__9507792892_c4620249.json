@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:23:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9507792892",
+  "records": [
+    {
+      "aadhar": "235374206319",
+      "address": " NA!VILL KUDDI POST KUDDI!!KUDDI KAIMUR BHABUA BIHAR!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Shah Alam Ansari ",
+      "name": " Jawed Alam ",
+      "num": "9507792892"
+    },
+    {
+      "aadhar": "235374206319",
+      "address": " NA!VILL KUDDI POST KUDDI!!KUDDI KAIMUR BHABUA BIHAR!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Shah Alam Ansari ",
+      "name": " Jawed Alam ",
+      "num": "9507792892"
+    }
+  ]
+}
