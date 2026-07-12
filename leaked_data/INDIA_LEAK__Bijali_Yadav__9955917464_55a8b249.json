@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:08:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955917464",
+  "records": [
+    {
+      "aadhar": "752401421050",
+      "address": " ward no-10!NAYA TOLA!!Birgaon Terhi!Saharsa!Saharsa!Bihar!852216 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Dhodhay Yadav ",
+      "name": " Bijali Yadav ",
+      "num": "9955917464"
+    },
+    {
+      "aadhar": "752401421050",
+      "address": " ward no-10!NAYA TOLA!!Birgaon Terhi!Saharsa!Saharsa!Bihar!852216 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Dhodhay Yadav ",
+      "name": " Bijali Yadav ",
+      "num": "9955917464"
+    }
+  ]
+}
