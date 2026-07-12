@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:41:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8756586153",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Liyakat!.!.!Chaumukha Maharajganj!!Maharajganj!UTTAR PRADESH!273151",
+      "alt": null,
+      "circle": null,
+      "email": "firojshaikh2659@gmail.com",
+      "fname": "S/O: Liyakat",
+      "name": "Sadre Alam",
+      "num": "8756586153"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Liyakat!.!.!Chaumukha Maharajganj!!Maharajganj!UTTAR PRADESH!273151",
+      "alt": null,
+      "circle": null,
+      "email": "firojshaikh2659@gmail.com",
+      "fname": "S/O: Liyakat",
+      "name": "Sadre Alam",
+      "num": "8756586153"
+    }
+  ]
+}
