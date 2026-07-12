@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:11:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8423733688",
+  "records": [
+    {
+      "aadhar": "892939611685",
+      "address": "BANSHIDHAR CHAURASIYA!00!ratanpura road ratanpura road!ratanpura road!RATAN PURA MAU!MAU!UTTAR PRADESH!221706",
+      "alt": "8423733688",
+      "circle": "UPE",
+      "email": null,
+      "fname": "BANSHIDHAR CHAURASIYA",
+      "name": "MR KAILASH PRASAD CHAURASIYA",
+      "num": "7052859553"
+    },
+    {
+      "aadhar": "892939611685",
+      "address": "BANSHIDHAR CHAURASIYA!00!ratanpura road ratanpura road!ratanpura road!RATAN PURA MAU!MAU!UTTAR PRADESH!221706",
+      "alt": "8423733688",
+      "circle": "UPE",
+      "email": null,
+      "fname": "BANSHIDHAR CHAURASIYA",
+      "name": "MR KAILASH PRASAD CHAURASIYA",
+      "num": "7052859553"
+    }
+  ]
+}
