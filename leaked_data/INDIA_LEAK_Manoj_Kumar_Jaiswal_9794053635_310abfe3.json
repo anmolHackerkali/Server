@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:43:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9794053635",
+  "records": [
+    {
+      "aadhar": "444835687002",
+      "address": "!nagar panchayat ghughli!ward no 2 ghughuli buzurg maharajganj!!uttar pradesh!Maharajganj!Maharajganj!Uttar Pradesh!273151",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "pannalal jaiswal",
+      "name": "Manoj Kumar Jaiswal",
+      "num": "9794053635"
+    },
+    {
+      "aadhar": "444835687002",
+      "address": "!nagar panchayat ghughli!ward no 2 ghughuli buzurg maharajganj!!uttar pradesh!Maharajganj!Maharajganj!Uttar Pradesh!273151",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "pannalal jaiswal",
+      "name": "Manoj Kumar Jaiswal",
+      "num": "9794053635"
+    }
+  ]
+}
