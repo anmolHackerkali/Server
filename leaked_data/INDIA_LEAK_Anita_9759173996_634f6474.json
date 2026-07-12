@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:15:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9759173996",
+  "records": [
+    {
+      "aadhar": "651111515621",
+      "address": " post kotwali Budaun vijay nagar colony Budaun-Bisauli-Budaun Uttar Pradesh 243601",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajesh Kumar Arya",
+      "name": "Anita",
+      "num": "9759173996"
+    },
+    {
+      "aadhar": "651111515621",
+      "address": " post kotwali Budaun vijay nagar colony Budaun-Bisauli-Budaun Uttar Pradesh 243601",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajesh Kumar Arya",
+      "name": "Anita",
+      "num": "9759173996"
+    }
+  ]
+}
