@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 04:39:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9598578733",
+  "records": [
+    {
+      "aadhar": "551066971500",
+      "address": " !  dhokari!post saidabad  Saifabad!Saidabad  Handia !SAIFABAD-ALLAHABAD!UP!221508",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "RAM ADHIN Adhin PATEL",
+      "name": "RAJESH KUMAR PATEL",
+      "num": "9598578733"
+    },
+    {
+      "aadhar": "551066971500",
+      "address": " !  dhokari!post saidabad  Saifabad!Saidabad  Handia !SAIFABAD-ALLAHABAD!UP!221508",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "RAM ADHIN Adhin PATEL",
+      "name": "RAJESH KUMAR PATEL",
+      "num": "9598578733"
+    }
+  ]
+}
