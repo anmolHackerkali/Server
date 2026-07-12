@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:33:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905012613",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Sarfuddin Ali!!!kataiya tola!Chaumukha Maharajganj!Uttar Pradesh!273151",
+      "alt": "917054582925",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sarfuddin Ali",
+      "name": "Azahruddin Ali",
+      "num": "7905012613"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sarfuddin Ali!!!kataiya tola!Chaumukha Maharajganj!Uttar Pradesh!273151",
+      "alt": "917054582925",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sarfuddin Ali",
+      "name": "Azahruddin Ali",
+      "num": "7905012613"
+    }
+  ]
+}
