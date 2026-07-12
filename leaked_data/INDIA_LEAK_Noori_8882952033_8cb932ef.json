@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:07:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8882952033",
+  "records": [
+    {
+      "aadhar": "925654842534",
+      "address": "D/O  Mohd Wasir! B-16!Bhagya vihar Majra Dabas!Near Shiv mandir!Bhagya vihar!Budhan Pur Saraswati Vihar!North West Delhi!Delhi!110081",
+      "alt": "9910401683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Wasir",
+      "name": "Noori",
+      "num": "8882952033"
+    },
+    {
+      "aadhar": "925654842534",
+      "address": "D/O  Mohd Wasir!B-16!Bhagya viharMajra Dabas!Near Shiv mandir!Bhagya vihar!Budhan PurSaraswati Vihar!North West Delhi!Delhi!110081",
+      "alt": "9910401683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Wasir",
+      "name": "Noori",
+      "num": "8882952033"
+    },
+    {
+      "aadhar": "925654842534",
+      "address": "D/O  Mohd Wasir!B-16!Bhagya viharMajra Dabas!Near Shiv mandir!Bhagya vihar!Budhan PurSaraswati Vihar!North West Delhi!Delhi!110081",
+      "alt": "9910401683",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Wasir",
+      "name": "Noori",
+      "num": "8882952033"
+    }
+  ]
+}
