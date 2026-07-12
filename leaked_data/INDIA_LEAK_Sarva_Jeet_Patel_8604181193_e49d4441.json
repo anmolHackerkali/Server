@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:27:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8604181193",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Om Prakesh Patel!dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Om Prakesh Patel",
+      "name": "Sarva Jeet Patel",
+      "num": "8604181193"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Om Prakesh Patel!dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Om Prakesh Patel",
+      "name": "Sarva Jeet Patel",
+      "num": "8604181193"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Lal Bahadur Bhartiya!.!.!dhokari Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Lal Bahadur Bhartiya",
+      "name": "Seeta Devi",
+      "num": "9598429890"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Om Prakesh Patel!dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Om Prakesh Patel",
+      "name": "Sarva Jeet Patel",
+      "num": "8604181193"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Lal Bahadur Bhartiya!.!.!dhokari Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Lal Bahadur Bhartiya",
+      "name": "Seeta Devi",
+      "num": "9598429890"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Om Prakesh Patel!dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "8604181193",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Om Prakesh Patel",
+      "name": "Sarva Jeet Patel",
+      "num": "8604181193"
+    }
+  ]
+}
