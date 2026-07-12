@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 00:51:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8738985189",
+  "records": [
+    {
+      "aadhar": "837576789912",
+      "address": "S/O Devideen!5!rath!!Regwara Khurd Amood!Hamirpur!Hamirpur!Uttar Pradesh!210432",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Devideen",
+      "name": "Vipatsingh",
+      "num": "8738985189"
+    },
+    {
+      "aadhar": "837576789912",
+      "address": "S/O Devideen!5!rath!!Regwara Khurd Amood!Hamirpur!Hamirpur!Uttar Pradesh!210432",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Devideen",
+      "name": "Vipatsingh",
+      "num": "8738985189"
+    }
+  ]
+}
