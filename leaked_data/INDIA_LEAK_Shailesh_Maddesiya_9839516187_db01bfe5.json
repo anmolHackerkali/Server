@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:07:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9839516187",
+  "records": [
+    {
+      "aadhar": "984266199713",
+      "address": "S/O  Sharada Maddesiya!-!- Ramkola!RAMVAR BUJURG!!Ramkola Hata!Kushinagar!Uttar Pradesh!274305",
+      "alt": "6386616282",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "9839516187"
+    },
+    {
+      "aadhar": "984266199713",
+      "address": "S/O  Sharada Maddesiya!-!- Ramkola!RAMVAR BUJURG!!Ramkola Hata!Kushinagar!Uttar Pradesh!274305",
+      "alt": "6386616282",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "9839516187"
+    },
+    {
+      "aadhar": "984266199713",
+      "address": "!-- Ramkola Hata!- Ramkola Hata Kushinagar!!RAMVAR BUJURG!KUSHINAGAR UP!UTTAR PRADESH!274305",
+      "alt": "9839516187",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Sharada Maddesiya",
+      "name": "MR. SHAILESH MADDESIYA",
+      "num": "9839943041"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Sharada Maddesiya!-!- RAMVAR BUJURG!. Kushinagar!RAMVAR BUJURG!Kushinagar!UTTAR PRADESH!274305",
+      "alt": "9839516187",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "9682046341"
+    },
+    {
+      "aadhar": "289087841498",
+      "address": "S/O Sharda!348!ramharbujurg  Ramkola  Kushinagar rambarbujurg Ramkola!NA!!Ramkola Hata Kushinagar!NA!Uttar Pradesh!274305",
+      "alt": "9839516187",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharda",
+      "name": "Ajay",
+      "num": "8303214528"
+    },
+    {
+      "aadhar": "984266199713",
+      "address": "S/O  Sharada Maddesiya!!- - RAMVAR BUJURG Ramkola!NA!!Ramkola Hata Kushinagar!NA!Uttar Pradesh!274305",
+      "alt": "9839516187",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "7800442944"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Sharada Maddesiya!-!- RAMVAR BUJURG!. Kushinagar!RAMVAR BUJURG!Kushinagar!UTTAR PRADESH!274305",
+      "alt": "9839516187",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "9682046341"
+    },
+    {
+      "aadhar": "289087841498",
+      "address": "S/O Sharda!348!ramharbujurg  Ramkola  Kushinagar rambarbujurg Ramkola!NA!!Ramkola Hata Kushinagar!NA!Uttar Pradesh!274305",
+      "alt": "9839516187",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharda",
+      "name": "Ajay",
+      "num": "8303214528"
+    },
+    {
+      "aadhar": "984266199713",
+      "address": "S/O  Sharada Maddesiya!!- - RAMVAR BUJURG Ramkola!NA!!Ramkola Hata Kushinagar!NA!Uttar Pradesh!274305",
+      "alt": "9839516187",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sharada Maddesiya",
+      "name": "Shailesh Maddesiya",
+      "num": "7800442944"
+    }
+  ]
+}
