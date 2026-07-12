@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:08:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9580563346",
+  "records": [
+    {
+      "aadhar": "839115737792",
+      "address": "s/o  banarshi!-!- Ramkola!RAMVAR BUJURG!- - ramvar bujurg ramvar bujurg ramkola!ramkola Hata!kushinagar!Uttar Pradesh!274305",
+      "alt": "9517277865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "banarshi",
+      "name": "Suraj",
+      "num": "9580563346"
+    },
+    {
+      "aadhar": "839115737792",
+      "address": "s/o  banarshi!-!- Ramkola!RAMVAR BUJURG!- - ramvar bujurg ramvar bujurg ramkola!ramkola Hata!kushinagar!Uttar Pradesh!274305",
+      "alt": "9517277865",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "banarshi",
+      "name": "Suraj",
+      "num": "9580563346"
+    },
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURGa!a!RAMKOLA RAMKOLAKUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS. MANSHA DEVI",
+      "num": "7081582730"
+    },
+    {
+      "aadhar": "598878093809",
+      "address": "S/O Ram Nath! 2416 a!Nirala Nagar sultanpur!!Sultanpur!Sultanpur!Sultanpur!Uttar Pradesh!228001",
+      "alt": "9580563346",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Nath",
+      "name": "Rajesh",
+      "num": "9936534738"
+    },
+    {
+      "aadhar": "839115737792",
+      "address": "S/O  Banarshi! -!- Ramkola!RAMVAR BUJURG!RAMVAR BUJURG!Ramkola Hata!Kushinagar!Uttar Pradesh!274305",
+      "alt": "9580563346",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Banarshi",
+      "name": "Suraj",
+      "num": "7985291514"
+    },
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURG a!a!RAMKOLA RAMKOLA KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS MANSHA DEVI",
+      "num": "7081582730"
+    },
+    {
+      "aadhar": "598878093809",
+      "address": "S/O Ram Nath! 2416 a!Nirala Nagar sultanpur!!Sultanpur!Sultanpur!Sultanpur!Uttar Pradesh!228001",
+      "alt": "9580563346",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Nath",
+      "name": "Rajesh",
+      "num": "9936534738"
+    },
+    {
+      "aadhar": "839115737792",
+      "address": "S/O  Banarshi! -!- Ramkola!RAMVAR BUJURG!RAMVAR BUJURG!Ramkola Hata!Kushinagar!Uttar Pradesh!274305",
+      "alt": "9580563346",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Banarshi",
+      "name": "Suraj",
+      "num": "7985291514"
+    },
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURG a!a!RAMKOLA RAMKOLA KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS MANSHA DEVI",
+      "num": "7081582730"
+    }
+  ]
+}
