@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:40:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8252501050",
+  "records": [
+    {
+      "aadhar": "319631434698",
+      "address": "w/o  nageshwar bhuiyan!nawadih!nawadih!pandeybara!nawadih pandeybara!jagdispur!hazaribagh!Jharkhand!825406",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "nageshwar bhuiyan",
+      "name": "Nilam Devi",
+      "num": "8252501050"
+    },
+    {
+      "aadhar": "319631434698",
+      "address": "w/o  nageshwar bhuiyan!nawadih!nawadih!pandeybara!nawadih pandeybara!jagdispur!hazaribagh!Jharkhand!825406",
+      "alt": "6299265275",
+      "circle": "JIO BHR&JHR",
+      "email": "chandan.chouse@gmail.com",
+      "fname": "nageshwar bhuiyan",
+      "name": "Nilam Devi",
+      "num": "8252501050"
+    },
+    {
+      "aadhar": "319631434698",
+      "address": "w/o  nageshwar bhuiyan!nawadih!nawadih!pandeybara!nawadih pandeybara!jagdispur!hazaribagh!Jharkhand!825406",
+      "alt": "6299265275",
+      "circle": "JIO BHR&JHR",
+      "email": "chandan.chouse@gmail.com",
+      "fname": "nageshwar bhuiyan",
+      "name": "Nilam Devi",
+      "num": "8252501050"
+    }
+  ]
+}
