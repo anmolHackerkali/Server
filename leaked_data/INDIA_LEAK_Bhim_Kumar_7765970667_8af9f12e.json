@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:30:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765970667",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ujagir Manjhi!bankatti utar!bankatti utar!p.o. mahua!near road!Bankati!Gopalganj!Bihar!841409",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ujagir Manjhi",
+      "name": "Bhim Kumar",
+      "num": "7765970667"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ujagir Manjhi!bankatti utar!bankatti utar!p.o. mahua!near road!Bankati!Gopalganj!Bihar!841409",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ujagir Manjhi",
+      "name": "Bhim Kumar",
+      "num": "7765970667"
+    }
+  ]
+}
