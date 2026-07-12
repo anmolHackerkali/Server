@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:27:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8235003102",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Sudarshan Yadav!!!post saraiya!!Salahpur!Siwan!Bihar!841506",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sudarshan Yadav",
+      "name": "Jagan Yadav",
+      "num": "8235003102"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Sudarshan Yadav!!!post saraiya!!Salahpur!Siwan!Bihar!841506",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sudarshan Yadav",
+      "name": "Jagan Yadav",
+      "num": "8235003102"
+    }
+  ]
+}
