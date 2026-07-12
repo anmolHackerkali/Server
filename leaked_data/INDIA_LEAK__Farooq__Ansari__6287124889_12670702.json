@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:18:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6287124889",
+  "records": [
+    {
+      "aadhar": "497620363363",
+      "address": " .!KAIMUR!Masjid!baruna manihari manihari!Kaimur (Bhabua)!!Bihar!821105 ",
+      "alt": "7079487659",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rasul  Ansari ",
+      "name": " Farooq  Ansari ",
+      "num": "6287124889"
+    },
+    {
+      "aadhar": "497620363363",
+      "address": " .!KAIMUR!Masjid!baruna manihari manihari!Kaimur (Bhabua)!!Bihar!821105 ",
+      "alt": "7079487659",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rasul  Ansari ",
+      "name": " Farooq  Ansari ",
+      "num": "6287124889"
+    }
+  ]
+}
