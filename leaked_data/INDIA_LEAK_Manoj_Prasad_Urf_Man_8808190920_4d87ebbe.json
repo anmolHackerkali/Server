@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:56:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8808190920",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Chhangur Prasad!.!.!madhopur gaujahi post dandopur Kushinagar!!Kushinagar!UTTAR PRADESH!274304",
+      "alt": "8601852413",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Chhangur Prasad",
+      "name": "Manoj Prasad Urf Manoj Kumar",
+      "num": "8808190920"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Chhangur Prasad!.!.!madhopur gaujahi post dandopur Kushinagar!!Kushinagar!UTTAR PRADESH!274304",
+      "alt": "8601852413",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Chhangur Prasad",
+      "name": "Manoj Prasad Urf Manoj Kumar",
+      "num": "8808190920"
+    }
+  ]
+}
