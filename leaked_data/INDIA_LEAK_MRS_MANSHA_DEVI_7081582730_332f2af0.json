@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:29:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7081582730",
+  "records": [
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURGa!a!RAMKOLA RAMKOLAKUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS. MANSHA DEVI",
+      "num": "7081582730"
+    },
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURG a!a!RAMKOLA RAMKOLA KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS MANSHA DEVI",
+      "num": "7081582730"
+    },
+    {
+      "aadhar": "490202937558",
+      "address": "!149!RAMBAR BUJURG a!a!RAMKOLA RAMKOLA KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274305",
+      "alt": "9580563346",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Banarsi",
+      "name": "MRS MANSHA DEVI",
+      "num": "7081582730"
+    }
+  ]
+}
