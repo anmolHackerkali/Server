@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:29:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990408248",
+  "records": [
+    {
+      "aadhar": "481940469595",
+      "address": "S/O Mukut Lal Garg!H.No-232 D Nand Gram! Ghaziabad!Ghaziabad GhaziabadNear Bombay Colony!GHAZIABAD-GHAZIABAD!UP!201001",
+      "alt": "7503807845",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MUKUT LAL Lal GARG",
+      "name": "RAJINDER KUMAR GARG",
+      "num": "9990408248"
+    },
+    {
+      "aadhar": "481940469595",
+      "address": "S/O Mukut Lal Garg!HNo-232 D Nand Gram! Ghaziabad!Ghaziabad GhaziabadNear Bombay Colony!GHAZIABAD-GHAZIABAD!UP!201001",
+      "alt": "7503807845",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MUKUT LAL Lal GARG",
+      "name": "RAJINDER KUMAR GARG",
+      "num": "9990408248"
+    },
+    {
+      "aadhar": "481940469595",
+      "address": "S/O Mukut Lal Garg!HNo-232 D Nand Gram! Ghaziabad!Ghaziabad GhaziabadNear Bombay Colony!GHAZIABAD-GHAZIABAD!UP!201001",
+      "alt": "7503807845",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MUKUT LAL Lal GARG",
+      "name": "RAJINDER KUMAR GARG",
+      "num": "9990408248"
+    }
+  ]
+}
