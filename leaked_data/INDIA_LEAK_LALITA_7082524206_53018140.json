@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 03:25:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7082524206",
+  "records": [
+    {
+      "aadhar": "571265081909",
+      "address": "17 KAKROLI SARDARA / 26  BHIWANI BHIWANI NA BHIWANI  BHIWANI HARYANA 127308",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BISHAN PAL",
+      "name": "LALITA",
+      "num": "7082524206"
+    },
+    {
+      "aadhar": "571265081909",
+      "address": "!17!KAKROLI SARDARA / 26!!BHIWANI BHIWANI NA BHIWANI!!BHIWANI!HARYANA!127308",
+      "alt": "8708886258",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BISHAN PAL",
+      "name": "LALITA",
+      "num": "7082524206"
+    }
+  ]
+}
