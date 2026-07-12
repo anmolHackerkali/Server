@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 04:48:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8050431851",
+  "records": [
+    {
+      "aadhar": "266663552474",
+      "address": "S/O Mahadevappa!169 Chicksugur!raichur!!Chicksugur Chicksugur!Raichur!Raichur!Karnataka!584134",
+      "alt": "8971207063",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Mahadevappa ",
+      "name": "M Dayananda",
+      "num": "8050431851"
+    }
+  ]
+}
