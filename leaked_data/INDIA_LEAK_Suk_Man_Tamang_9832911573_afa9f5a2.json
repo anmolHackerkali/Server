@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 00:59:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9832911573",
+  "records": [
+    {
+      "aadhar": "498978592056",
+      "address": "S/O gopal tamang! Lower Mangzing PW!!Near ICDS Centre!Niya-Mangzing GPU!Mangzing!South!Sikkim!737134",
+      "alt": "8436288930",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "gopal tamang",
+      "name": "Suk Man Tamang",
+      "num": "9832911573"
+    },
+    {
+      "aadhar": "498978592056",
+      "address": "S/O gopal tamang! Lower Mangzing PW!!Near ICDS Centre!Niya-Mangzing GPU!Mangzing!South!Sikkim!737134",
+      "alt": "8436288930",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "gopal tamang",
+      "name": "Suk Man Tamang",
+      "num": "9832911573"
+    }
+  ]
+}
