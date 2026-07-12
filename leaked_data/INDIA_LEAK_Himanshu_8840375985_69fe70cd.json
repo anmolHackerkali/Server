@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:12:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8840375985",
+  "records": [
+    {
+      "aadhar": "765799306684",
+      "address": "S/O  Rajendra Kumar!!!ratanpura!Ratanpura Mau!Uttar Pradesh!221706",
+      "alt": "918808882333",
+      "circle": "JIO UPE",
+      "email": "hkdesigns.arena@gmail.com",
+      "fname": "Rajendra Kumar",
+      "name": "Himanshu",
+      "num": "8840375985"
+    },
+    {
+      "aadhar": "765799306684",
+      "address": "S/O  Rajendra Kumar!!!ratanpura!Ratanpura Mau!Uttar Pradesh!221706",
+      "alt": "918808882333",
+      "circle": "JIO UPE",
+      "email": "hkdesigns.arena@gmail.com",
+      "fname": "Rajendra Kumar",
+      "name": "Himanshu",
+      "num": "8840375985"
+    },
+    {
+      "aadhar": "765799306684",
+      "address": "!S/O Rajendra Kumar !itaili !!Ratanpuramau Ratan Pura Maunath Bhanja!ARJUNPATTI-AZAMGARH!UP!221706",
+      "alt": "8840375985",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAJENDRA  KUMAR",
+      "name": "HIMANSHU KUMAR PRABHAKAR",
+      "num": "8114040255"
+    }
+  ]
+}
