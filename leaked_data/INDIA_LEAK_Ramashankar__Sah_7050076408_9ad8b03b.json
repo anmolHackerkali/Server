@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:11:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7050076408",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8054",
+      "address": "S/O Fuleshwar Sah!Near Shivmandir!!village- Lakari Dargah Lakri Dargah!!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Fuleshwar  Sah",
+      "name": "Ramashankar  Sah",
+      "num": "7050076408"
+    },
+    {
+      "aadhar": "xxxxxxxx8054",
+      "address": "S/O Fuleshwar Sah!Near Shivmandir!!village- Lakari Dargah Lakri Dargah!!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Fuleshwar  Sah",
+      "name": "Ramashankar  Sah",
+      "num": "7050076408"
+    }
+  ]
+}
