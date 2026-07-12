@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:13:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6297518690",
+  "records": [
+    {
+      "aadhar": "357251124389",
+      "address": "!Badra!bankura!!Kenjakura!Bankura!BANKURA!West Bengal!722139",
+      "alt": "9679058481",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Madan Dutta",
+      "name": "Bipadtaran Dutta",
+      "num": "6297518690"
+    },
+    {
+      "aadhar": "357251124389",
+      "address": "!Badra!bankura!!Kenjakura!Bankura!BANKURA!West Bengal!722139",
+      "alt": "9679058481",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Madan Dutta",
+      "name": "Bipadtaran Dutta",
+      "num": "6297518690"
+    }
+  ]
+}
