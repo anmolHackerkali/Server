@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 03:39:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9991594368",
+  "records": [
+    {
+      "aadhar": "720665498090",
+      "address": "S/O Pratap Singh Joshi house no 262 ward no 13 khajanchi mohalla  WARD N0- S/O 13 KHAJANCHI MOHALLABHIWANI CHARKHI DADRI BHIWANI HARYANA 127306",
+      "alt": "9996252721",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Pratap Singh Joshi",
+      "name": "MR  DINESH JOSHI",
+      "num": "9991594368"
+    },
+    {
+      "aadhar": "720665498090",
+      "address": "S/O Pratap Singh Joshi house no 262 ward no 13 khajanchi mohalla  WARD N0- S/O 13 KHAJANCHI MOHALLABHIWANI CHARKHI DADRI BHIWANI HARYANA 127306",
+      "alt": "9996252721",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Pratap Singh Joshi",
+      "name": "MR  DINESH JOSHI",
+      "num": "9991594368"
+    },
+    {
+      "aadhar": "720665498090",
+      "address": "S/O Pratap Singh Joshi house no 262 ward no 13 khajanchi mohalla  WARD N0- S/O 13 KHAJANCHI MOHALLABHIWANI CHARKHI DADRI BHIWANI HARYANA 127306",
+      "alt": "9996252721",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Pratap Singh Joshi",
+      "name": "MR  DINESH JOSHI",
+      "num": "9991594368"
+    }
+  ]
+}
