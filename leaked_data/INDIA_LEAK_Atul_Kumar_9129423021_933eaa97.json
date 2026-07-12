@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:09:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129423021",
+  "records": [
+    {
+      "aadhar": "353975097638",
+      "address": "S/O Roshan Lal!660!tedhimod!Sirathu!Kaushambi!Uttar Pradesh!212204",
+      "alt": "8953962353",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Roshan Lal",
+      "name": "Atul Kumar",
+      "num": "9129423021"
+    },
+    {
+      "aadhar": "353975097638",
+      "address": "S/O Roshan Lal!660!tedhimod!Sirathu!Kaushambi!Uttar Pradesh!212204",
+      "alt": "8953962353",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Roshan Lal",
+      "name": "Atul Kumar",
+      "num": "9129423021"
+    },
+    {
+      "aadhar": "353975097638",
+      "address": "S/O Roshan Lal! 660!tedhimod Daranagar!Thulgula!!Sirathu Sirathu!Kaushambi!Uttar Pradesh!212204",
+      "alt": "9129423021",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Roshan Lal",
+      "name": "Atul Kumar",
+      "num": "8468031326"
+    },
+    {
+      "aadhar": "353975097638",
+      "address": "S/O Roshan Lal! 660!tedhimod Daranagar!Thulgula!!Sirathu Sirathu!Kaushambi!Uttar Pradesh!212204",
+      "alt": "9129423021",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Roshan Lal",
+      "name": "Atul Kumar",
+      "num": "8468031326"
+    }
+  ]
+}
