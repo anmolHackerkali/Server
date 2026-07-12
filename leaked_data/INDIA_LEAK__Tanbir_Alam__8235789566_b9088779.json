@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:50:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8235789566",
+  "records": [
+    {
+      "aadhar": "396010139095",
+      "address": " Village Lohagara p o korahbari!Dighalbank!korahbari!Kishanganj!Kishanganj!Kishanganj!Bihar!855101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Noor Mohammed ",
+      "name": " Tanbir Alam ",
+      "num": "8235789566"
+    },
+    {
+      "aadhar": "396010139095",
+      "address": " Village Lohagara p o korahbari!Dighalbank!korahbari!Kishanganj!Kishanganj!Kishanganj!Bihar!855101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Noor Mohammed ",
+      "name": " Tanbir Alam ",
+      "num": "8235789566"
+    }
+  ]
+}
