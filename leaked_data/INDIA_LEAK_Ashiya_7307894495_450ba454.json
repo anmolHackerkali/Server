@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 01:55:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7307894495",
+  "records": [
+    {
+      "aadhar": "747658116268",
+      "address": "d/o  mubarak!0  BIBIPUR!BIBIPUR KANPUR NAGAR!kanpur!kanpur sadar!bibipur!kanpur nagar!Uttar Pradesh!208001",
+      "alt": "7905411682",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mubarak",
+      "name": "Ashiya",
+      "num": "7307894495"
+    },
+    {
+      "aadhar": "747658116268",
+      "address": "d/o  mubarak!0  BIBIPUR!BIBIPUR KANPUR NAGAR!kanpur!kanpur sadar!bibipur!kanpur nagar!Uttar Pradesh!208001",
+      "alt": "7905411682",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mubarak",
+      "name": "Ashiya",
+      "num": "7307894495"
+    }
+  ]
+}
