@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:10:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004136946",
+  "records": [
+    {
+      "aadhar": "931368560882",
+      "address": "S/O Ram Sevak Singh!!ward 2 Teghra hasanpur!Teghra nagar panchayat teghra!Teghra Begusarai!Bihar!851133",
+      "alt": "917544925203",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Sevak Singh",
+      "name": "Satyam Kumar",
+      "num": "7004136946"
+    },
+    {
+      "aadhar": "931368560882",
+      "address": "S/O Ram Sevak Singh!!ward 2 Teghra hasanpur!Teghra nagar panchayat teghra!Teghra Begusarai!Bihar!851133",
+      "alt": "917544925203",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Sevak Singh",
+      "name": "Satyam Kumar",
+      "num": "7004136946"
+    },
+    {
+      "aadhar": "931368560882",
+      "address": "S/O Ram Sevak Singh!!ward 2 Teghra hasanpur!Teghra nagar panchayat teghra!Teghra Begusarai!Bihar!851133",
+      "alt": "917544925203",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Sevak Singh",
+      "name": "Satyam Kumar",
+      "num": "7004136946"
+    }
+  ]
+}
