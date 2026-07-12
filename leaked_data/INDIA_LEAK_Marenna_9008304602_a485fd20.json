@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 04:48:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9008304602",
+  "records": [
+    {
+      "aadhar": "739346872370",
+      "address": "!!454 Near Nagappa Katte Labour Colony Deosugur!NA!Deosugur!Raichur Raichur!NA!Karnataka!584170",
+      "alt": "9606302734",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Prabhu",
+      "name": "Marenna",
+      "num": "9008304602"
+    },
+    {
+      "aadhar": "YFO3631090",
+      "address": " 454 devasuuguuru Raichur Raichur Raichur Raichur Karnataka 584170",
+      "alt": "9008304602",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "prabu ",
+      "name": "marenna ",
+      "num": "9606302734"
+    },
+    {
+      "aadhar": "KA3620150006806",
+      "address": "!!93 sagamkunta ANJINAYYA temple!NA!Raichur!Raichur Raichur!NA!Karnataka!584102",
+      "alt": "9008304602",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "KAREPPA",
+      "name": "MAHADEVAPPA",
+      "num": "8762774954"
+    },
+    {
+      "aadhar": "xxxxxxxx2370",
+      "address": "S/O Prabhu!454!Deosugur labour colony near nagappa katte!NA!!Deosugur Raichur!NA!Karnataka!584170",
+      "alt": "9008304602",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Prabhu",
+      "name": "Marenna",
+      "num": "8296587477"
+    }
+  ]
+}
