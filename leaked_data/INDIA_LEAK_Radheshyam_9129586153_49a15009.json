@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:32:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129586153",
+  "records": [
+    {
+      "aadhar": "546736527230",
+      "address": "S/O Katesar!c/o katesar!village teliyadeeh post teliyadeeh  thana sonha!!Tahaseel-Bhanpur Amarauli Shumali Amrauli Sumali!Basti!Basti!Uttar Pradesh!272190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Katesar",
+      "name": "Radheshyam",
+      "num": "9129586153"
+    },
+    {
+      "aadhar": "546736527230",
+      "address": "S/O Katesar!c/o katesar!village teliyadeeh post teliyadeeh  thana sonha!!Tahaseel-Bhanpur Amarauli Shumali Amrauli Sumali!Basti!Basti!Uttar Pradesh!272190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Katesar",
+      "name": "Radheshyam",
+      "num": "9129586153"
+    }
+  ]
+}
