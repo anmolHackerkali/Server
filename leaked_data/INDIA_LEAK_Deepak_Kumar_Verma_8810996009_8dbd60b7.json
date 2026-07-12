@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:07:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8810996009",
+  "records": [
+    {
+      "aadhar": "900698976722",
+      "address": "! 40 bagahi bhari!Babaganj!!gonda!Gonda!Gonda!Uttar Pradesh!271603",
+      "alt": "6306720922",
+      "circle": "JIO UPE",
+      "email": "yashpalm746@gmail.com",
+      "fname": "Ram Bhawan Verma",
+      "name": "Deepak Kumar Verma",
+      "num": "8810996009"
+    },
+    {
+      "aadhar": "900698976722",
+      "address": "! 40 bagahi bhari!Babaganj!!gonda!Gonda!Gonda!Uttar Pradesh!271603",
+      "alt": "6306720922",
+      "circle": "JIO UPE",
+      "email": "yashpalm746@gmail.com",
+      "fname": "Ram Bhawan Verma",
+      "name": "Deepak Kumar Verma",
+      "num": "8810996009"
+    }
+  ]
+}
