@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:32:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9696780978",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Uday Bhan Yadav!!dhokari dhokari kurmiyan saidabad!!Saifabad Allahabad!Uttar Pradesh!221508",
+      "alt": "919956814523",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Uday Bhan Yadav",
+      "name": "Bablu Kumar Yadav",
+      "num": "9696780978"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Uday Bhan Yadav!!dhokari dhokari kurmiyan saidabad!!Saifabad Allahabad!Uttar Pradesh!221508",
+      "alt": "919956814523",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Uday Bhan Yadav",
+      "name": "Bablu Kumar Yadav",
+      "num": "9696780978"
+    }
+  ]
+}
