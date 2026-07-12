@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:10:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7700889134",
+  "records": [
+    {
+      "aadhar": "881928576011",
+      "address": "S/O Bhikham Sah!145!lakri dargah!lakri dargah Lakri Dargah!!Siwan Lakri Dargah Barharia!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bhikham  Sah",
+      "name": "Kedar  Sah",
+      "num": "7700889134"
+    },
+    {
+      "aadhar": "881928576011",
+      "address": "S/O Bhikham Sah!145!lakri dargah!lakri dargah Lakri Dargah!!Siwan Lakri Dargah Barharia!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bhikham  Sah",
+      "name": "Kedar  Sah",
+      "num": "7700889134"
+    }
+  ]
+}
