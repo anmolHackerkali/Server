@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:11:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7546995287",
+  "records": [
+    {
+      "aadhar": "586267021110",
+      "address": " belatol Ward no-04!Chapram!!Chapraon!Saharsa!Saharsa!Bihar!852106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Vinod Kumar Yadav ",
+      "name": " Manish Kumar ",
+      "num": "7546995287"
+    },
+    {
+      "aadhar": "UVS1527472",
+      "address": " VILL BELATOL ANCHAL SIMRI BAKHTIARPUR SAHARSA SAHARSA BIHAR 852106 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " VINDOD KUMAR YAADAV ",
+      "name": " MANISH KUMAR ",
+      "num": "7546995287"
+    },
+    {
+      "aadhar": "586267021110",
+      "address": " belatol Ward no-04!Chapram!!Chapraon!Saharsa!Saharsa!Bihar!852106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Vinod Kumar Yadav ",
+      "name": " Manish Kumar ",
+      "num": "7546995287"
+    },
+    {
+      "aadhar": "UVS1527472",
+      "address": " VILL BELATOL ANCHAL SIMRI BAKHTIARPUR SAHARSA SAHARSA BIHAR 852106 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " VINDOD KUMAR YAADAV ",
+      "name": " MANISH KUMAR ",
+      "num": "7546995287"
+    }
+  ]
+}
