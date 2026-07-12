@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 04:46:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7052449023",
+  "records": [
+    {
+      "aadhar": "746127679532",
+      "address": "! na!Dhokari saifabad!!Dhokari saifabad!Allahabad!Allahabad!Uttar Pradesh!221508",
+      "alt": "9555956267",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Lalmani",
+      "name": "Arvind Kumar Singh",
+      "num": "7052449023"
+    },
+    {
+      "aadhar": "746127679532",
+      "address": "! na!Dhokari saifabad!!Dhokari saifabad!Allahabad!Allahabad!Uttar Pradesh!221508",
+      "alt": "9555956267",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Lalmani",
+      "name": "Arvind Kumar Singh",
+      "num": "7052449023"
+    },
+    {
+      "aadhar": "942134300099",
+      "address": "BHOLA SHANKAR PATEL!0!SAMODHIPUR!!BELVARIYAALLAHABAD!ALLAHABAD!UTTAR PRADESH!221508",
+      "alt": "7052449023",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Bhola Shankar Patel",
+      "name": "MR. SUJEET KUMAR",
+      "num": "8604092857"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Lalmani!Dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052449023",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Lalmani",
+      "name": "Arvind Kumar Singh",
+      "num": "9555956267"
+    },
+    {
+      "aadhar": "942134300099",
+      "address": "BHOLA SHANKAR PATEL!0!SAMODHIPUR!!BELVARIYA ALLAHABAD!ALLAHABAD!UTTAR PRADESH!221508",
+      "alt": "7052449023",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Bhola Shankar Patel",
+      "name": "MR SUJEET KUMAR",
+      "num": "8604092857"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Lalmani!Dhokari!.!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052449023",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Lalmani",
+      "name": "Arvind Kumar Singh",
+      "num": "9555956267"
+    },
+    {
+      "aadhar": "942134300099",
+      "address": "BHOLA SHANKAR PATEL!0!SAMODHIPUR!!BELVARIYA ALLAHABAD!ALLAHABAD!UTTAR PRADESH!221508",
+      "alt": "7052449023",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Bhola Shankar Patel",
+      "name": "MR SUJEET KUMAR",
+      "num": "8604092857"
+    }
+  ]
+}
