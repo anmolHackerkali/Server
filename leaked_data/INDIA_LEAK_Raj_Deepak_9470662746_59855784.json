@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:21:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9470662746",
+  "records": [
+    {
+      "aadhar": "751595753618",
+      "address": "s/o  brind kumar! 00!musepur!!  musepur musepur bihar!bihta!patna!Bihar!801103",
+      "alt": "8540864701",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "brind kumar",
+      "name": "Raj Deepak",
+      "num": "9470662746"
+    },
+    {
+      "aadhar": "751595753618",
+      "address": "s/o  brind kumar! 00!musepur!!. musepur musepur bihar!bihta!patna!Bihar!801103",
+      "alt": "8540864701",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "brind kumar",
+      "name": "Raj Deepak",
+      "num": "9470662746"
+    },
+    {
+      "aadhar": "751595753618",
+      "address": "s/o  brind kumar! 00!musepur!!. musepur musepur bihar!bihta!patna!Bihar!801103",
+      "alt": "8540864701",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "brind kumar",
+      "name": "Raj Deepak",
+      "num": "9470662746"
+    }
+  ]
+}
