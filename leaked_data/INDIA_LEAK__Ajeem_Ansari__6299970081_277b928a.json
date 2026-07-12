@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:13:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299970081",
+  "records": [
+    {
+      "aadhar": "855147181674",
+      "address": " 55!kuddi!thana chand!kuddi!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajamal Ansari ",
+      "name": " Ajeem Ansari ",
+      "num": "6299970081"
+    },
+    {
+      "aadhar": "855147181674",
+      "address": " 55!kuddi!thana chand!kuddi!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajamal Ansari ",
+      "name": " Ajeem Ansari ",
+      "num": "6299970081"
+    }
+  ]
+}
