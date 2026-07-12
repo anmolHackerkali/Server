@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:42:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569014304",
+  "records": [
+    {
+      "aadhar": "502466554606",
+      "address": "s/o  beer bali! ahirara bamharavli kaushambi bamrauli!ahirara bamhravli kaushambi!kalyanpur!ahirara bamrauli!bamharavli!kaushambi!Uttar Pradesh!212201",
+      "alt": "7525844520",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "beer bali",
+      "name": "pradeep kumar",
+      "num": "9569014304"
+    },
+    {
+      "aadhar": "502466554606",
+      "address": "s/o  beer bali! ahirara bamharavli kaushambi bamrauli!ahirara bamhravli kaushambi!kalyanpur!ahirara bamrauli!bamharavli!kaushambi!Uttar Pradesh!212201",
+      "alt": "7525844520",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "beer bali",
+      "name": "pradeep kumar",
+      "num": "9569014304"
+    }
+  ]
+}
