@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 01:01:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8874577404",
+  "records": [
+    {
+      "aadhar": "635564247883",
+      "address": "S/O  Maniram!!198  Tanda!Gram Mohmmadpur Sabukpur Post Husainpur Girant!Tanda Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918953795367",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Maniram",
+      "name": "Ranjeet Kumar",
+      "num": "8874577404"
+    },
+    {
+      "aadhar": "635564247883",
+      "address": "S/O  Maniram!!198  Tanda!Gram Mohmmadpur Sabukpur Post Husainpur Girant!Tanda Tanda Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "918953795367",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Maniram",
+      "name": "Ranjeet Kumar",
+      "num": "8874577404"
+    }
+  ]
+}
