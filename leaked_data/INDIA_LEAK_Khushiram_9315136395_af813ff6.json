@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:15:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315136395",
+  "records": [
+    {
+      "aadhar": "997704490032",
+      "address": "!3799/4!kanhiya nagar!tri nagar!Delhi North Delhi!Delhi!110035",
+      "alt": "918800984715",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "Khushiram",
+      "num": "9315136395"
+    },
+    {
+      "aadhar": "997704490032",
+      "address": "!3799/4!kanhiya nagar!tri nagar!Delhi NorthDelhi!Delhi!110035",
+      "alt": "918800984715",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "Khushiram",
+      "num": "9315136395"
+    },
+    {
+      "aadhar": "997704490032",
+      "address": "!3799/4!kanhiya nagar!tri nagar!Delhi NorthDelhi!Delhi!110035",
+      "alt": "918800984715",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Ujagir",
+      "name": "Khushiram",
+      "num": "9315136395"
+    },
+    {
+      "aadhar": "937581141003",
+      "address": "!4639!jai mata market!gali no 14!tri nagar!Delhi North!North West!Delhi!110035",
+      "alt": "9315136395",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Komal",
+      "name": "Adya Prasad",
+      "num": "9310480663"
+    },
+    {
+      "aadhar": "688044204692",
+      "address": "s/o hansraj! 193!Tanda!gram mahmadpur sabukpur post husenpur girent!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9315136395",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "hansraj",
+      "name": "Sugreem Kumar",
+      "num": "7307894496"
+    },
+    {
+      "aadhar": "937581141003",
+      "address": "!4639!jai mata market!gali no 14!tri nagar!Delhi North!North West!Delhi!110035",
+      "alt": "9315136395",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Komal",
+      "name": "Adya Prasad",
+      "num": "9310480663"
+    },
+    {
+      "aadhar": "688044204692",
+      "address": "s/o hansraj! 193!Tanda!gram mahmadpur sabukpur post husenpur girent!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9315136395",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "hansraj",
+      "name": "Sugreem Kumar",
+      "num": "7307894496"
+    }
+  ]
+}
