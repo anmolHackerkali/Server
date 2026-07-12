@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:34:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8467054963",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Manoj Kumar Singh!!!jhabra!Deipur Varanasi!Uttar Pradesh!221405",
+      "alt": "918840663802",
+      "circle": "JIO UPE",
+      "email": "HEMANTJHIL@GMAIL.COM",
+      "fname": "Manoj Kumar Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "8467054963"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Manoj Kumar Singh!!!jhabra!Deipur Varanasi!Uttar Pradesh!221405",
+      "alt": "918840663802",
+      "circle": "JIO UPE",
+      "email": "HEMANTJHIL@GMAIL.COM",
+      "fname": "Manoj Kumar Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "8467054963"
+    }
+  ]
+}
