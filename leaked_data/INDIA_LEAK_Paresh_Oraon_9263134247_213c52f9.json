@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:11:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9263134247",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Charwa Oraon!!!Vill-Makra Post-Jingi PS-Kuru!Makra Lohardaga!Jharkhand!835213",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Charwa Oraon",
+      "name": "Paresh Oraon",
+      "num": "9263134247"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Charwa Oraon!!!Vill-Makra Post-Jingi PS-Kuru!Makra Lohardaga!Jharkhand!835213",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Charwa Oraon",
+      "name": "Paresh Oraon",
+      "num": "9263134247"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Charwa Oraon!!!Vill-Makra Post-Jingi PS-Kuru!Makra Lohardaga!Jharkhand!835213",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Charwa Oraon",
+      "name": "Paresh Oraon",
+      "num": "9263134247"
+    }
+  ]
+}
