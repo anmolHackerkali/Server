@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:17:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6287352333",
+  "records": [
+    {
+      "aadhar": "APPROVALMAIL",
+      "address": "Airtel Circle Office!Patliputra Indistrial Area patna!Plot No 18!Patliputra!Bihar!800013",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": " ",
+      "fname": null,
+      "name": "BAL TEST CARD BHR",
+      "num": "6287352333"
+    },
+    {
+      "aadhar": "APPROVALMAIL",
+      "address": "Airtel Circle Office!Patliputra Indistrial Area patna!Plot No 18!Patliputra!Bihar!800013",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": " ",
+      "fname": null,
+      "name": "BAL TEST CARD BHR",
+      "num": "6287352333"
+    }
+  ]
+}
