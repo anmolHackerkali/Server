@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 00:29:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9838844845",
+  "records": [
+    {
+      "aadhar": "ZCZ1448596",
+      "address": "!TEHSIL - HARRAIYA DISTT BASTIU P!TEHSIL - HARRAIYA DISTT BASTIU P51 B!51 BADAHARKALA!HarraiyaBASTI!BASTI!UTTAR PRADESH!272155",
+      "alt": "9565623362",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Raj KARAN PANDEY",
+      "name": "MR. DHARMENDRA KUMAR PANDEY",
+      "num": "9838844845"
+    },
+    {
+      "aadhar": "ZCZ1448596",
+      "address": "!TEHSIL - HARRAIYA DISTT BASTIU  P !TEHSIL - HARRAIYA DISTT BASTIU  P  51  B!51  BADAHARKALA!Harraiya BASTI!BASTI!UTTAR PRADESH!272155",
+      "alt": "9565623362",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Raj KARAN PANDEY",
+      "name": "MR DHARMENDRA KUMAR PANDEY",
+      "num": "9838844845"
+    },
+    {
+      "aadhar": "ZCZ1448596",
+      "address": "!TEHSIL - HARRAIYA DISTT BASTIU  P !TEHSIL - HARRAIYA DISTT BASTIU  P  51  B!51  BADAHARKALA!Harraiya BASTI!BASTI!UTTAR PRADESH!272155",
+      "alt": "9565623362",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Raj KARAN PANDEY",
+      "name": "MR DHARMENDRA KUMAR PANDEY",
+      "num": "9838844845"
+    }
+  ]
+}
