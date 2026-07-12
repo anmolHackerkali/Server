@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 06:42:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9009850025",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Brijesh Kumar Tiwari!!30/3 ward no 02!gram pipara post khamhariya!Pipara Rewa!Madhya Pradesh!486445",
+      "alt": "919768959546",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Brijesh Kumar Tiwari",
+      "name": "Bipin Kumar Tiwari",
+      "num": "9009850025"
+    },
+    {
+      "aadhar": null,
+      "address": " c/o bharat kushwaha gram Pipara  post- khmahariya  Pipara Khamaria Chaubey Sirmour Rewa  Madhya Pradesh 486445",
+      "alt": "9009850025",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bharat Kushwaha",
+      "name": "Rajesh Kushwaha",
+      "num": "9981467283 "
+    },
+    {
+      "aadhar": null,
+      "address": " gram- pipra post- khmahariya  Pipara Rewa  Madhya Pradesh 486445",
+      "alt": "9009850025",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bharat Kushwaha",
+      "name": "Rajesh Kumar Kushwaha",
+      "num": "9039291123 "
+    }
+  ]
+}
