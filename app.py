@@ -243,6 +243,7 @@ HTML_TEMPLATE = """
             <button type="submit">⚡ Ditels </button>
         </form>
         
+<h1>Ek din me 500 Number ka nikalega</h1>
         {% if result %}
         <div class="result-box">
             <div class="result-header">
