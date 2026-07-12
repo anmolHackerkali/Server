@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:07:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9153200741",
+  "records": [
+    {
+      "aadhar": "362147281397",
+      "address": "s/o  ravi shankar!Pethiya Road!pethiya road Phulwarisharif!!sadar bazar!phulwari Phulwari!patna!Bihar!801505",
+      "alt": "7304061036",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ravi shankar",
+      "name": "Aniket Shankar",
+      "num": "9153200741"
+    },
+    {
+      "aadhar": "362147281397",
+      "address": "s/o  ravi shankar!Pethiya Road!pethiya road Phulwarisharif!!sadar bazar!phulwari Phulwari!patna!Bihar!801505",
+      "alt": "7304061036",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ravi shankar",
+      "name": "Aniket Shankar",
+      "num": "9153200741"
+    },
+    {
+      "aadhar": "362147281397",
+      "address": "s/o  ravi shankar!Pethiya Road!pethiya road Phulwarisharif!!sadar bazar!phulwari Phulwari!patna!Bihar!801505",
+      "alt": "7304061036",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ravi shankar",
+      "name": "Aniket Shankar",
+      "num": "9153200741"
+    }
+  ]
+}
