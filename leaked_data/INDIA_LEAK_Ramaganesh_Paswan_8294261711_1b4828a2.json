@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:39:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8294261711",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ras Lal Paswan!ward-14  graam-bharatpatti!post-kalikapur!!!Kalikapur!Madhubani!Bihar!847228",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ras Lal Paswan",
+      "name": "Ramaganesh Paswan",
+      "num": "8294261711"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ras Lal Paswan!ward-14  graam-bharatpatti!post-kalikapur!!!Kalikapur!Madhubani!Bihar!847228",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ras Lal Paswan",
+      "name": "Ramaganesh Paswan",
+      "num": "8294261711"
+    }
+  ]
+}
