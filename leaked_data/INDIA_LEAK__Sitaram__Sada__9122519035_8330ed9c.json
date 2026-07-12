@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:05:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9122519035",
+  "records": [
+    {
+      "aadhar": "375224881601",
+      "address": " .!anandpur  maran!anantpur!gram baldharna post anandpur maran thana morkahi!Begusarai!!Bihar!848203 ",
+      "alt": "7634818121",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bhanak  Sada ",
+      "name": " Sitaram  Sada ",
+      "num": "9122519035"
+    },
+    {
+      "aadhar": "375224881601",
+      "address": " .!anandpur  maran!anantpur!gram baldharna post anandpur maran thana morkahi!Begusarai!!Bihar!848203 ",
+      "alt": "7634818121",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bhanak  Sada ",
+      "name": " Sitaram  Sada ",
+      "num": "9122519035"
+    }
+  ]
+}
