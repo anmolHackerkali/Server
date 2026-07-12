@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:21:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7536011220",
+  "records": [
+    {
+      "aadhar": "238545100223",
+      "address": "S/O: Mahesh Chandra  6 moti street Chandausi  Chandausi  CHANDAUSI-SAMBHAL UP 202412",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Mahesh Chandra",
+      "name": "ARUN .",
+      "num": "7536011220"
+    },
+    {
+      "aadhar": "238545100223",
+      "address": "S/O: Mahesh Chandra  6 moti street Chandausi  Chandausi  CHANDAUSI-SAMBHAL UP 202412",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Mahesh Chandra",
+      "name": "ARUN .",
+      "num": "7536011220"
+    }
+  ]
+}
