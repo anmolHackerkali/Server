@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:39:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9060217586",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Umesh Kumar Sharma!!!markan!!Markan!Muzaffarpur!Bihar!843119",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Umesh Kumar Sharma",
+      "name": "Rakesh Kumar Sharma",
+      "num": "9060217586"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Umesh Kumar Sharma!!!markan!!Markan!Muzaffarpur!Bihar!843119",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Umesh Kumar Sharma",
+      "name": "Rakesh Kumar Sharma",
+      "num": "9060217586"
+    }
+  ]
+}
