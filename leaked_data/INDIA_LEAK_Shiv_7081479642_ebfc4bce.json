@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:31:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7081479642",
+  "records": [
+    {
+      "aadhar": "290485701410",
+      "address": " !!rambarbujurg Ramkola!!Ramkola-Hata-Kushina!Uttar Pradesh!274305",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Bhaggan",
+      "name": "Shiv",
+      "num": "7081479642"
+    },
+    {
+      "aadhar": "290485701410",
+      "address": " !!rambarbujurg Ramkola!!Ramkola-Hata-Kushina!Uttar Pradesh!274305",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Bhaggan",
+      "name": "Shiv",
+      "num": "7081479642"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jogendra Maddhesiya!.!rambarbujurg!. Kushinagar!!Kushinagar!UTTAR PRADESH!274305",
+      "alt": "7081479642",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jogendra Maddhesiya",
+      "name": "Sahab ",
+      "num": "7081700602"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jogendra Maddhesiya!.!rambarbujurg!. Kushinagar!!Kushinagar!UTTAR PRADESH!274305",
+      "alt": "7081479642",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jogendra Maddhesiya",
+      "name": "Sahab ",
+      "num": "7081700602"
+    }
+  ]
+}
