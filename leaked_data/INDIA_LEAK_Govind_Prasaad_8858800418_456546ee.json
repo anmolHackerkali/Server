@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:52:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8858800418",
+  "records": [
+    {
+      "aadhar": "878353262709",
+      "address": "!NA!Sitapur Chandraseni!!gram-mahola Chandra Sheni Biswan!Sitapur!!Uttar Pradesh!261202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lalla",
+      "name": "Govind Prasaad",
+      "num": "8858800418"
+    },
+    {
+      "aadhar": "878353262709",
+      "address": "!NA!Sitapur Chandraseni!!gram-mahola Chandra Sheni Biswan!Sitapur!!Uttar Pradesh!261202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lalla",
+      "name": "Govind Prasaad",
+      "num": "8858800418"
+    }
+  ]
+}
