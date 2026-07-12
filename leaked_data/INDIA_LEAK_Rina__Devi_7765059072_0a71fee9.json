@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 05:40:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765059072",
+  "records": [
+    {
+      "aadhar": "619501852387",
+      "address": ".!vill- semari po- patan!!ps patan   semri   palamu!Palamau!!Jharkhand!822123",
+      "alt": "7547842907",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Akshay  kumar",
+      "name": "Rina  Devi",
+      "num": "7765059072"
+    },
+    {
+      "aadhar": "619501852387",
+      "address": ".!vill- semari po- patan!!ps patan   semri   palamu!Palamau!!Jharkhand!822123",
+      "alt": "7547842907",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Akshay  kumar",
+      "name": "Rina  Devi",
+      "num": "7765059072"
+    }
+  ]
+}
