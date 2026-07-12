@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 07:04:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7753982209",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ravi Prakash Singh!!107!subhakarpur!Subakhar Pur Ambedkar Nagar!Uttar Pradesh!224168",
+      "alt": "917428237538",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ravi Prakash Singh",
+      "name": "Abhishek Singh",
+      "num": "7753982209"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ravi Prakash Singh!!107!subhakarpur!Subakhar Pur Ambedkar Nagar!Uttar Pradesh!224168",
+      "alt": "917428237538",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ravi Prakash Singh",
+      "name": "Abhishek Singh",
+      "num": "7753982209"
+    }
+  ]
+}
