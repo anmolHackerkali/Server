@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-12 08:10:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7250736512",
+  "records": [
+    {
+      "aadhar": "786870337623",
+      "address": " ward 15!village post dhanga!dhanga madhubani!east ps arer!Madhubani!Madhubani!Bihar!847229 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajendra sahni ",
+      "name": " Dinkar Sahni ",
+      "num": "7250736512"
+    },
+    {
+      "aadhar": "786870337623",
+      "address": " ward 15!village post dhanga!dhanga madhubani!east ps arer!Madhubani!Madhubani!Bihar!847229 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajendra sahni ",
+      "name": " Dinkar Sahni ",
+      "num": "7250736512"
+    }
+  ]
+}
