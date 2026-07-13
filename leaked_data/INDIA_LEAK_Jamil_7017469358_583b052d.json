@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:02:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017469358",
+  "records": [
+    {
+      "aadhar": "909244954257",
+      "address": "S/O Khalil!!53mohalla jujharnear saray!chaumuhan!Chaumuhan(Rural)Mathura!Uttar Pradesh!281406",
+      "alt": "+918273240923",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Khalil",
+      "name": "Jamil",
+      "num": "7017469358"
+    },
+    {
+      "aadhar": "727039674668",
+      "address": "W/O  Mukesh!!Mursan!gaanw-daultaabad!post-karas!Toori Iglas!Aligarh!Uttar Pradesh!204213",
+      "alt": "7253963083",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "Asha Devi",
+      "num": "7017469358"
+    },
+    {
+      "aadhar": "727039674668",
+      "address": "W/O  Mukesh!!Mursan!gaanw-daultaabad!post-karas!Toori Iglas!Aligarh!Uttar Pradesh!204213",
+      "alt": "7253963083",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "Asha Devi",
+      "num": "7017469358"
+    }
+  ]
+}
