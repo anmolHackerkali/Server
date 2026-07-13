@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:06:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650449504",
+  "records": [
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!gali-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur  Samai Pur  North West NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9891020370",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS  SHAKUNTLA DEVI",
+      "num": "9650449504"
+    },
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!gali-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur Samai Pur North WestNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9891020370",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS SHAKUNTLA DEVI",
+      "num": "9650449504"
+    },
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!gali-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur Samai Pur North WestNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9891020370",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS SHAKUNTLA DEVI",
+      "num": "9650449504"
+    },
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur  Samai Pur  North West NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9650449504",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS  SHAKUNTLA DEVI",
+      "num": "8750825629"
+    },
+    {
+      "aadhar": " 835085776829 ",
+      "address": "W/O Mukesh Gali N ! -10 D- Block mukandpur part-1 ! -10 D- Block mukandpur part-1 !  ! mukand pur Samai Pur North WestNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110042",
+      "alt": "9650449504",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS. SHAKUNTLA DEVI",
+      "num": "8750825629"
+    },
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur Samai Pur North WestNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9650449504",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS SHAKUNTLA DEVI",
+      "num": "8750825629"
+    },
+    {
+      "aadhar": "835085776829",
+      "address": "W/O Mukesh Gali N!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!-10 D- Block mukandpur part-1!mukand pur Samai Pur North WestNORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110042",
+      "alt": "9650449504",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Mukesh",
+      "name": "MS SHAKUNTLA DEVI",
+      "num": "8750825629"
+    }
+  ]
+}
