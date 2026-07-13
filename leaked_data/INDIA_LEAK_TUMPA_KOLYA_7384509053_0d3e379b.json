@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:59:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7384509053",
+  "records": [
+    {
+      "aadhar": "724260874076",
+      "address": "!PANCHKHURI!Panch Khuiri!!Buriapat!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SHANTI PAJA",
+      "name": "TUMPA KOLYA",
+      "num": "7384509053"
+    },
+    {
+      "aadhar": "724260874076",
+      "address": "!PANCHKHURI!Panch Khuiri!!Buriapat!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SHANTI PAJA",
+      "name": "TUMPA KOLYA",
+      "num": "7384509053"
+    }
+  ]
+}
