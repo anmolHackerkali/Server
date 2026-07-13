@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 23:42:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8685031415",
+  "records": [
+    {
+      "aadhar": "969953094205",
+      "address": "S/O Mehar Chand 29 Fazalpur Nayagaon  PalwalFARIDABAD PALWAL FARIDABAD HARYANA 121102",
+      "alt": "8059301213",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Mehar Chand",
+      "name": "MR  ROHIT  ",
+      "num": "8685031415"
+    },
+    {
+      "aadhar": "952407113733",
+      "address": "!house no A403!kunjean heights rps city!!sector 88!Faridabad!Faridabad!Haryana!121002",
+      "alt": "8685031415",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ganga dan",
+      "name": "Jawahar Singh Tanwar",
+      "num": "9255531949"
+    },
+    {
+      "aadhar": "952407113733",
+      "address": "!house no A403!kunjean heights rps city!!sector 88!Faridabad!Faridabad!Haryana!121002",
+      "alt": "8685031415",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ganga dan",
+      "name": "Jawahar Singh Tanwar",
+      "num": "9255531949"
+    }
+  ]
+}
