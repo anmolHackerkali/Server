@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:34:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7782880880",
+  "records": [
+    {
+      "aadhar": "fnm5653381",
+      "address": "0!Jalalpur!Piyano!Jalalpur!Bihar!841205",
+      "alt": "9931682009",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajarup  Singh",
+      "name": "Bhulan  Singh",
+      "num": "7782880880"
+    },
+    {
+      "aadhar": "fnm5653381",
+      "address": "0!Jalalpur!Piyano!Jalalpur!Bihar!841205",
+      "alt": "9931682009",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajarup  Singh",
+      "name": "Bhulan  Singh",
+      "num": "7782880880"
+    },
+    {
+      "aadhar": "548497462214",
+      "address": " PIYANO ANWAL SARAN JALALPUR ANAWAL TEMPLE Jalalpur SARAN CHAPRA SARAN BIHAR 841213 ",
+      "alt": "7782880880",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bhutan Singh ",
+      "name": " MS  SUNITA DEVI ",
+      "num": "7808778288"
+    },
+    {
+      "aadhar": "548497462214",
+      "address": " PIYANO ANWAL SARAN JALALPUR ANAWAL TEMPLE Jalalpur SARAN CHAPRA SARAN BIHAR 841213 ",
+      "alt": "7782880880",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bhutan Singh ",
+      "name": " MS  SUNITA DEVI ",
+      "num": "7808778288"
+    }
+  ]
+}
