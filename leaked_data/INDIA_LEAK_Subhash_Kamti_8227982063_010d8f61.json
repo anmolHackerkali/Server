@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:33:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8227982063",
+  "records": [
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "9709540901",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "8227982063"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "9709540901",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "8227982063"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "9709540901",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "8227982063"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! ward no-04!madanpur basatpur!post-madanpur!ward no/04 madanpur!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "9798948300"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O madan kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "madan kamti",
+      "name": "Subhash Kamti",
+      "num": "9142234083"
+    },
+    {
+      "aadhar": "444810971927",
+      "address": "! -!MADANPUR!!PO - MADANPUR!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vinay kamat",
+      "name": "Vishal Kamat",
+      "num": "8340466705"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! ward no-04!madanpur basatpur!post-madanpur!ward no/04 madanpur!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "9798948300"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O madan kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "madan kamti",
+      "name": "Subhash Kamti",
+      "num": "9142234083"
+    },
+    {
+      "aadhar": "444810971927",
+      "address": "! -!MADANPUR!!PO - MADANPUR!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vinay kamat",
+      "name": "Vishal Kamat",
+      "num": "8340466705"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O Madan Kamti! ward no-04!madanpur basatpur!post-madanpur!ward no/04 madanpur!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Madan Kamti",
+      "name": "Subhash Kamti",
+      "num": "9798948300"
+    },
+    {
+      "aadhar": "645125213012",
+      "address": "S/O madan kamti! madanpur!ward no/04 Anandpur!!post-madanpur!Basatpur Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "madan kamti",
+      "name": "Subhash Kamti",
+      "num": "9142234083"
+    },
+    {
+      "aadhar": "444810971927",
+      "address": "! -!MADANPUR!!PO - MADANPUR!Basatpur!Darbhanga!Bihar!847101",
+      "alt": "8227982063",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vinay kamat",
+      "name": "Vishal Kamat",
+      "num": "8340466705"
+    }
+  ]
+}
