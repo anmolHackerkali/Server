@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 09:14:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8115381218",
+  "records": [
+    {
+      "aadhar": "291271404892",
+      "address": "!na  00!semari ranapur post babuganj!semari ranapur!unchahar!Raebareli!Raebareli!Uttar Pradesh!229401",
+      "alt": "9305013853",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gayadeen",
+      "name": "Ramesh Kumar",
+      "num": "8115381218"
+    },
+    {
+      "aadhar": "291271404892",
+      "address": "!na  00!semari ranapur post babuganj!semari ranapur!unchahar!Raebareli!Raebareli!Uttar Pradesh!229401",
+      "alt": "9305013853",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gayadeen",
+      "name": "Ramesh Kumar",
+      "num": "8115381218"
+    }
+  ]
+}
