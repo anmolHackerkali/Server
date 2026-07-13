@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:40:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7970199598",
+  "records": [
+    {
+      "aadhar": "292382891479",
+      "address": "C/O CHANDRABHAN VAHNE!AL DHOKADOH  TH SAUSAR!AL DHOKADOH  TH SAUSAR AL DHOKADOH  TH SAUSAR!AL DHOKADOH  TH SAUSAR!AL DHOKADOH  TH SAUSAR CHHINDWARA!CHHINDWARA!CHHINDWARA!Madhya Pradesh!480109",
+      "alt": "9516373587",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "CHANDRABHAN VAHNE",
+      "name": "MR RAJA VAHNE",
+      "num": "7970199598"
+    }
+  ]
+}
