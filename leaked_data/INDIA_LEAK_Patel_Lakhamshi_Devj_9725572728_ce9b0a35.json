@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:36:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9725572728",
+  "records": [
+    {
+      "aadhar": "819479184269",
+      "address": "876 Mahadev Saw Mill vyara tapi Station Road vyara Vyara Vyara Vyara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Patel Devjibhai",
+      "name": "Patel Lakhamshi Devjibhai",
+      "num": "9725572728"
+    },
+    {
+      "aadhar": "819479184269",
+      "address": "876 Mahadev Saw Mill vyara tapi Station Road vyara Vyara Vyara Vyara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Patel Devjibhai",
+      "name": "Patel Lakhamshi Devjibhai",
+      "num": "9725572728"
+    }
+  ]
+}
