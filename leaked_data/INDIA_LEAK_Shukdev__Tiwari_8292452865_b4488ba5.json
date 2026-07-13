@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:38:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8292452865",
+  "records": [
+    {
+      "aadhar": "710220389775",
+      "address": "S/O Shubhuk Lal Tiwari!ward no 09!!Gram borail Mahalgaon!!Araria Mahalgaon Jokihat!Bihar!854325",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shubhuk Lal Tiwari",
+      "name": "Shukdev  Tiwari",
+      "num": "8292452865"
+    },
+    {
+      "aadhar": "710220389775",
+      "address": "S/O Shubhuk Lal Tiwari!ward no 09!!Gram borail Mahalgaon!!Araria Mahalgaon Jokihat!Bihar!854325",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shubhuk Lal Tiwari",
+      "name": "Shukdev  Tiwari",
+      "num": "8292452865"
+    }
+  ]
+}
