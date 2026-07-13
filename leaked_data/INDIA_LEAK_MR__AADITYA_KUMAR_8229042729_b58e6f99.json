@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:33:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8229042729",
+  "records": [
+    {
+      "aadhar": "839557840827",
+      "address": "CHANDRABHUSHAN SAH!SHANKARCHOUK SHEKHTOLI!SAMASTIPUR!SAMASTIPUR!mohiuddinagar SAMASTIPUR!CHAPAR B O - SPR!SAMASTIPUR!BIHAR!848501",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "CHANDRABHUSHAN SAH",
+      "name": "MR  AADITYA KUMAR",
+      "num": "8229042729"
+    },
+    {
+      "aadhar": "839557840827",
+      "address": "CHANDRABHUSHAN SAH!SHANKARCHOUK SHEKHTOLI!SAMASTIPUR!SAMASTIPUR!mohiuddinagar SAMASTIPUR!CHAPAR B O - SPR!SAMASTIPUR!BIHAR!848501",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "CHANDRABHUSHAN SAH",
+      "name": "MR  AADITYA KUMAR",
+      "num": "8229042729"
+    }
+  ]
+}
