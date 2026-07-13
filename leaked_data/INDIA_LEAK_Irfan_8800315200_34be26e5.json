@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:44:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8800315200",
+  "records": [
+    {
+      "aadhar": "894244981258",
+      "address": "!A-285!0!Vishkarma mandirsangam vihar!Delhi!Delhi!110080",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Ali Sher Khan",
+      "name": "Irfan",
+      "num": "8800315200"
+    },
+    {
+      "aadhar": "894244981258",
+      "address": "!A-285!0!Vishkarma mandirsangam vihar!Delhi!Delhi!110080",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali Sher Khan",
+      "name": "Irfan",
+      "num": "8800315200"
+    },
+    {
+      "aadhar": "894244981258",
+      "address": "!A-285!0!Vishkarma mandirsangam vihar!Delhi!Delhi!110080",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali Sher Khan",
+      "name": "Irfan",
+      "num": "8800315200"
+    },
+    {
+      "aadhar": "894244981258",
+      "address": "C/O Ali Sher!A-334-D!A-334-D  ! !SANGAM VIHAR  BACKSIDE DEVLI SOUTH DELHI!DELHI!South Delhi!DELHI!110080",
+      "alt": "8800315200",
+      "circle": "VI DELHI",
+      "email": "1PC4467@GMAIL.COM",
+      "fname": "ALI SHER",
+      "name": "MR  IRFAN    ",
+      "num": "8377998086"
+    },
+    {
+      "aadhar": "894244981258",
+      "address": "C/O Ali Sher!A-334-D!A-334-D  ! !SANGAM VIHAR SANGAM VIHAR  BACKSIDE DEVIL BACKSIDE SOUTH DELHI!DELHI!South Delhi!DELHI!110080",
+      "alt": "8800315200",
+      "circle": "VI DELHI",
+      "email": "1PC4468@GMAIL.COM",
+      "fname": "Ali Sher",
+      "name": "MR  IRFAN    ",
+      "num": "8377904547"
+    },
+    {
+      "aadhar": " 894244981258 ",
+      "address": "C/O Ali Sher ! A-334-D ! A-334-D !  ! SANGAM VIHAR BACKSIDE DEVLISOUTH DELHI ! DELHI ! South Delhi ! DELHI ! 110080",
+      "alt": "8800315200",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ALI SHER",
+      "name": "MR IRFAN  ",
+      "num": "8377998086"
+    },
+    {
+      "aadhar": " 894244981258 ",
+      "address": "C/O Ali Sher ! A-334-D ! A-334-D !  ! SANGAM VIHARSANGAM VIHAR BACKSIDE DEVIL BACKSIDESOUTH DELHI ! DELHI ! South Delhi ! DELHI ! 110080",
+      "alt": "8800315200",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ali Sher",
+      "name": "MR IRFAN  ",
+      "num": "8377904547"
+    },
+    {
+      "aadhar": " 894244981258 ",
+      "address": "C/O Ali Sher ! A-334-D ! A-334-D !  ! SANGAM VIHAR BACKSIDE DEVLISOUTH DELHI ! DELHI ! South Delhi ! DELHI ! 110080",
+      "alt": "8800315200",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ALI SHER",
+      "name": "MR IRFAN  ",
+      "num": "8377998086"
+    },
+    {
+      "aadhar": " 894244981258 ",
+      "address": "C/O Ali Sher ! A-334-D ! A-334-D !  ! SANGAM VIHARSANGAM VIHAR BACKSIDE DEVIL BACKSIDESOUTH DELHI ! DELHI ! South Delhi ! DELHI ! 110080",
+      "alt": "8800315200",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ali Sher",
+      "name": "MR IRFAN  ",
+      "num": "8377904547"
+    }
+  ]
+}
