@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:23:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7081128363",
+  "records": [
+    {
+      "aadhar": "711582946701",
+      "address": "s/o  pradeep kumar!!Pokhara!!bhulandih pokhara!pokhara Kerakat!jaunpur!Uttar Pradesh!222149",
+      "alt": "8874163809",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "pradeep kumar",
+      "name": "Satyendra Kumar Ram",
+      "num": "7081128363"
+    },
+    {
+      "aadhar": "711582946701",
+      "address": "s/o  pradeep kumar!!Pokhara!!bhulandih pokhara!pokhara Kerakat!jaunpur!Uttar Pradesh!222149",
+      "alt": "8874163809",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "pradeep kumar",
+      "name": "Satyendra Kumar Ram",
+      "num": "7081128363"
+    },
+    {
+      "aadhar": "711582946701",
+      "address": "!35!Bhulandih!!Pokhara!Jaunpur!!Uttar Pradesh!222149",
+      "alt": "7081128363",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Pradeep kumar",
+      "name": "Satendra kumar Ram",
+      "num": "7318595825"
+    },
+    {
+      "aadhar": "711582946701",
+      "address": "!35!Bhulandih!!Pokhara!Jaunpur!!Uttar Pradesh!222149",
+      "alt": "7081128363",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Pradeep kumar",
+      "name": "Satendra kumar Ram",
+      "num": "7318595825"
+    }
+  ]
+}
