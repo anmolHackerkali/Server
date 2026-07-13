@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:50:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8930842030",
+  "records": [
+    {
+      "aadhar": "/291384008552",
+      "address": "72 MOLIYA MAUHALLA KHATEIR   FARIDABAD FARIDABAD Haryana 121105",
+      "alt": "NA",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "BASDEV",
+      "name": "SUGAR  ",
+      "num": "8930842030"
+    },
+    {
+      "aadhar": "307108966465",
+      "address": "S/O Sugar!house no-72!Khatela Sarai!near gujjar chopal!khatela!Khatela Sarai 86Hodal!Palwal!Haryana!121105",
+      "alt": "8930842030",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sugar",
+      "name": "Gaurav",
+      "num": "7988006086"
+    }
+  ]
+}
