@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:01:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7579395619",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Vijendra Singh!!!!Daulatabad Aligarh!Uttar Pradesh!204101",
+      "alt": "918868055174",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vijendra Singh",
+      "name": "Yogesh Kumar",
+      "num": "7579395619"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Vijendra Singh!!!!Daulatabad Aligarh!Uttar Pradesh!204101",
+      "alt": "918868055174",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vijendra Singh",
+      "name": "Yogesh Kumar",
+      "num": "7579395619"
+    }
+  ]
+}
