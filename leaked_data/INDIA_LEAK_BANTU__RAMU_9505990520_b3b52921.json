@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:53:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9505990520",
+  "records": [
+    {
+      "aadhar": "771540996743",
+      "address": "Ramudu!Ramudu  1-407!colony!. !DERASAM-SRIKAKULAM!AP!532409",
+      "alt": null,
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "RAMUDU  ",
+      "name": "BANTU  RAMU",
+      "num": "9505990520"
+    },
+    {
+      "aadhar": "866798927724",
+      "address": "!!devara veedhi!saluru!saluru!salur!vizianagaram!Andhra Pradesh!535591",
+      "alt": "9505990520",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "prapulla sundar pathro",
+      "name": "Chandra Sekhar Patro",
+      "num": "9014446015"
+    }
+  ]
+}
