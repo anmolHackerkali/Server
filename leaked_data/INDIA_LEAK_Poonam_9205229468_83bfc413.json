@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:29:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9205229468",
+  "records": [
+    {
+      "aadhar": "560779822406",
+      "address": "W/O Mahesh Kumar Fla No - 1344 New LIG Flat  Kondli Gharoli Gharoli Delhi East Delhi Delhi 110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Poonam",
+      "num": "9205229468"
+    },
+    {
+      "aadhar": "560779822406",
+      "address": "W/O Mahesh Kumar!Fla No - 1344!New LIG Flat!!Kondli Gharoli Gharoli!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Poonam",
+      "num": "9205229468"
+    },
+    {
+      "aadhar": "560779822406",
+      "address": "W/O Mahesh Kumar!Fla No - 1344!New LIG Flat!!Kondli Gharoli Gharoli!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar",
+      "name": "Poonam",
+      "num": "9205229468"
+    }
+  ]
+}
