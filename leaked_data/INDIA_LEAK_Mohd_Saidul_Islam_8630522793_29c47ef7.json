@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:57:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8630522793",
+  "records": [
+    {
+      "aadhar": "308888460387",
+      "address": "S/O: Nur Islam Mandal!!H No. 2099/8!Bhanda Patti Moti Colony!HapurHapur!Uttar Pradesh!245101",
+      "alt": "+918439383370",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Nur Islam Mandal",
+      "name": "Mohd Saidul Islam",
+      "num": "8630522793"
+    }
+  ]
+}
