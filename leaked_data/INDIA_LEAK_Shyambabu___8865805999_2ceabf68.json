@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:24:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8865805999",
+  "records": [
+    {
+      "aadhar": "942279080360",
+      "address": "s/o  kaptan singh!house no. 127!jogpur rajwana!!Mainpuri!vill - jogpur rajwana!mainpuri!Uttar Pradesh!205262",
+      "alt": "7505913146",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kaptan singh",
+      "name": "Shyambabu  ",
+      "num": "8865805999"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Kaptan Singh!House No. 127  Vill - Jogpur!!!!Rajwana!Mainpuri!Uttar Pradesh!205262 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Kaptan Singh ",
+      "name": " Shyambabu ",
+      "num": "8865805999"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Kaptan Singh!House No. 127  Vill - Jogpur!!!!Rajwana!Mainpuri!Uttar Pradesh!205262 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Kaptan Singh ",
+      "name": " Shyambabu ",
+      "num": "8865805999"
+    }
+  ]
+}
