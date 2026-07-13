@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:31:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7698630021",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " Deesa  Disa Mukhya Dak Ghar Deesa  Disa Mukhya Dak Ghar Disa  VADIROD   NAHERUNAGAR Disa  VADIROD   NAHERUNAGAR VADIROD  NAHERUNAGAR  Banas Kantha BANASKANTHA AJAPURA BANASKANTHA Gujarat 385535 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MS  MORIBEN MAJIRANA ",
+      "num": "7698630021"
+    },
+    {
+      "aadhar": null,
+      "address": " Deesa  Disa Mukhya Dak Ghar Deesa  Disa Mukhya Dak Ghar Disa  VADIROD   NAHERUNAGAR Disa  VADIROD   NAHERUNAGAR VADIROD  NAHERUNAGAR  Banas Kantha BANASKANTHA AJAPURA BANASKANTHA Gujarat 385535 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MS  MORIBEN MAJIRANA ",
+      "num": "7698630021"
+    }
+  ]
+}
