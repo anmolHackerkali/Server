@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 10:10:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650377319",
+  "records": [
+    {
+      "aadhar": "801226353777",
+      "address": "!3132!00!-!gali wakil wali kucha pandit old delhi G P O!Delhi!north delhi!Delhi!110006",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "mohd ilyas",
+      "name": "mohd nafees",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": null,
+      "address": "!2/168!TELIWARA CHOTA GURUDWARA!SHAHDARA NORTH EAST DELHI!chota gurudwara!DELHI!North East Delhi!DELHI!110032",
+      "alt": "9643686249",
+      "circle": "VI DELHI",
+      "email": "HEENAVERMA282@GMAIL.COM",
+      "fname": "AJEET VERMA",
+      "name": "MRS  HEENA VERMA",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": "801226353777",
+      "address": "!3132 00 gali wakil wali kucha pandit old delhi G P O - north delhi Delhi Delhi 110006!!!!!!!",
+      "alt": "9873393038",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "mohd ilyas",
+      "name": "mohd nafees",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": null,
+      "address": "!2/168!SHAHDARANEAR CHITA GURUDWARA!TELIWARA SHAHDARANORTH EAST DELHI!chota gurudwara!DELHI!North East Delhi!DELHI!110032",
+      "alt": "9643686249",
+      "circle": "VI DELHI",
+      "email": "ARUNVERMASHIVANGG03@GMAIL.COM",
+      "fname": "AJEET VERMA",
+      "name": "MRS HEENA VERMA",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": "801226353777",
+      "address": "!3132 00 gali wakil wali kucha pandit old delhi G P O - north delhi Delhi Delhi 110006!!!!!!!",
+      "alt": "9873393038",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "mohd ilyas",
+      "name": "mohd nafees",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": null,
+      "address": "!2/168!SHAHDARANEAR CHITA GURUDWARA!TELIWARA SHAHDARANORTH EAST DELHI!chota gurudwara!DELHI!North East Delhi!DELHI!110032",
+      "alt": "9643686249",
+      "circle": "VI DELHI",
+      "email": "ARUNVERMASHIVANGG03@GMAIL.COM",
+      "fname": "AJEET VERMA",
+      "name": "MRS HEENA VERMA",
+      "num": "9650377319"
+    },
+    {
+      "aadhar": "801226353777",
+      "address": "!3132 00 gali wakil wali kucha pandit old delhi G P O - north delhi Delhi Delhi 110006!!!!!!!",
+      "alt": "9873393038",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "mohd ilyas",
+      "name": "mohd nafees",
+      "num": "9650377319"
+    }
+  ]
+}
