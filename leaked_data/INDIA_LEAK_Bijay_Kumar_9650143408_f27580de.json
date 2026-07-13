@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:21:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650143408",
+  "records": [
+    {
+      "aadhar": "565433081996",
+      "address": "!115/5!Gali No 5!!Sangam Vihar!Delhi!South Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pramanad Paswan",
+      "name": "Bijay Kumar",
+      "num": "9650143408"
+    },
+    {
+      "aadhar": "565433081996",
+      "address": "!115/5!Gali No 5!!Sangam Vihar!Delhi!South Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pramanad Paswan",
+      "name": "Bijay Kumar",
+      "num": "9650143408"
+    },
+    {
+      "aadhar": "565433081996",
+      "address": "!115/5!Gali No 5!!Sangam Vihar!Delhi!South Delhi!Delhi!110062",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pramanad Paswan",
+      "name": "Bijay Kumar",
+      "num": "9650143408"
+    }
+  ]
+}
