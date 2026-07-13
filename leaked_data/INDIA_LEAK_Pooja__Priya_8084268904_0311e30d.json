@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:24:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8084268904",
+  "records": [
+    {
+      "aadhar": "788762635864",
+      "address": "!Quarter No B/214 Near Kali Mandir!!K D H Colony Dakra Dakra!!Ranchi Dakra Colliery Khelari!Jharkhand!829210",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramesh  Kumar",
+      "name": "Pooja  Priya",
+      "num": "8084268904"
+    },
+    {
+      "aadhar": "788762635864",
+      "address": "!Quarter No B/214 Near Kali Mandir!!K D H Colony Dakra Dakra!!Ranchi Dakra Colliery Khelari!Jharkhand!829210",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramesh  Kumar",
+      "name": "Pooja  Priya",
+      "num": "8084268904"
+    }
+  ]
+}
