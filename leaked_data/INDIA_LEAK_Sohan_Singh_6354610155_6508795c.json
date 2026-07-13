@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:33:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6354610155",
+  "records": [
+    {
+      "aadhar": "945271502904",
+      "address": " 00 madhav estest unjha unjha Mahesana Mahesana Gujarat 384170",
+      "alt": "919001711202",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mohan Singh",
+      "name": "Sohan Singh",
+      "num": "6354610155"
+    },
+    {
+      "aadhar": "945271502904",
+      "address": "!00!madhav estest unjha!unjha!Mahesana Mahesana!Gujarat!384170",
+      "alt": "919001711202",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mohan Singh",
+      "name": "Sohan Singh",
+      "num": "6354610155"
+    },
+    {
+      "aadhar": "945271502904",
+      "address": "!00!madhav estest unjha!unjha!Mahesana Mahesana!Gujarat!384170",
+      "alt": "919001711202",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mohan Singh",
+      "name": "Sohan Singh",
+      "num": "6354610155"
+    }
+  ]
+}
