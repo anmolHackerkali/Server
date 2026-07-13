@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:50:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9570299514",
+  "records": [
+    {
+      "aadhar": "213574415672",
+      "address": "S/O Rajkumar Yadav!! Katrasgarh!POST KATRAS PS KATRAS!LAKARKA NO 4 Dhanbad!Jharkhand!828113",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajkumar Yadav",
+      "name": "Avhiraj Yadav",
+      "num": "9570299514"
+    },
+    {
+      "aadhar": "213574415672",
+      "address": "S/O Rajkumar Yadav!! Katrasgarh!POST KATRAS PS KATRAS!LAKARKA NO 4 Dhanbad!Jharkhand!828113",
+      "alt": "917273040130",
+      "circle": "JIO BHR&JHR",
+      "email": "avhirajyadav3204@gmail.com",
+      "fname": "Rajkumar Yadav",
+      "name": "Avhiraj Yadav",
+      "num": "9570299514"
+    },
+    {
+      "aadhar": "213574415672",
+      "address": "S/O Rajkumar Yadav!! Katrasgarh!POST KATRAS PS KATRAS!LAKARKA NO 4 Dhanbad!Jharkhand!828113",
+      "alt": "917273040130",
+      "circle": "JIO BHR&JHR",
+      "email": "avhirajyadav3204@gmail.com",
+      "fname": "Rajkumar Yadav",
+      "name": "Avhiraj Yadav",
+      "num": "9570299514"
+    },
+    {
+      "aadhar": "213574415672",
+      "address": "S/O Rajkumar Yadav!! Katrasgarh!POST KATRAS PS KATRAS!LAKARKA NO 4 Dhanbad!Jharkhand!828113",
+      "alt": "917273040130",
+      "circle": "JIO BHR&JHR",
+      "email": "avhirajyadav3204@gmail.com",
+      "fname": "Rajkumar Yadav",
+      "name": "Avhiraj Yadav",
+      "num": "9570299514"
+    },
+    {
+      "aadhar": "213574415672",
+      "address": "S/O Rajkumar Yadav!! Katrasgarh!POST KATRAS PS KATRAS!LAKARKA NO 4 Dhanbad!Jharkhand!828113",
+      "alt": "917273040130",
+      "circle": "JIO BHR&JHR",
+      "email": "avhirajyadav3204@gmail.com",
+      "fname": "Rajkumar Yadav",
+      "name": "Avhiraj Yadav",
+      "num": "9570299514"
+    }
+  ]
+}
