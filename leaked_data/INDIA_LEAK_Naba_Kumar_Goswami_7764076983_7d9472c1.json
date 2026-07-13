@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:21:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7764076983",
+  "records": [
+    {
+      "aadhar": "843810257710",
+      "address": "S/O  B N Goswami!!1/B 183 near joda mandir Sunday Bazar!sunday bazar bermo purvi!Ganrke Bermo Bokaro!Jharkhand!829127",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "BN Goswami",
+      "name": "Naba Kumar Goswami",
+      "num": "7764076983"
+    },
+    {
+      "aadhar": "843810257710",
+      "address": "S/O  B N Goswami!!1/B 183 near joda mandir Sunday Bazar!sunday bazar bermo purvi!Ganrke Bermo Bokaro!Jharkhand!829127",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "BN Goswami",
+      "name": "Naba Kumar Goswami",
+      "num": "7764076983"
+    },
+    {
+      "aadhar": "843810257710",
+      "address": "S/O  B N Goswami!!1/B 183 near joda mandir Sunday Bazar!sunday bazar bermo purvi!Ganrke Bermo Bokaro!Jharkhand!829127",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "BN Goswami",
+      "name": "Naba Kumar Goswami",
+      "num": "7764076983"
+    }
+  ]
+}
