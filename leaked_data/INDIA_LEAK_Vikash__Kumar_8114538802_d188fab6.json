@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:35:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8114538802",
+  "records": [
+    {
+      "aadhar": "677965381449",
+      "address": "!Lxminarayanpur Harpur Belwa!!!!Vaishali Singhara Mahua!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet  Ram",
+      "name": "Vikash  Kumar",
+      "num": "8114538802"
+    },
+    {
+      "aadhar": "677965381449",
+      "address": "!Lxminarayanpur Harpur Belwa!!!!Vaishali Singhara Mahua!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet  Ram",
+      "name": "Vikash  Kumar",
+      "num": "8114538802"
+    },
+    {
+      "aadhar": "677965381449",
+      "address": "c/o  ranjeet ram!Laxminarayanpur!Paur malshah!!laxminarayanpur pour husenipur!paur malshah mohammadpur!vaishali!Bihar!844126",
+      "alt": "8114538802",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ranjeet ram",
+      "name": "Vikash Kumar",
+      "num": "6207006125"
+    },
+    {
+      "aadhar": "677965381449",
+      "address": "c/o  ranjeet ram!Laxminarayanpur!Paur malshah!!laxminarayanpur pour husenipur!paur malshah mohammadpur!vaishali!Bihar!844126",
+      "alt": "8114538802",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet ram",
+      "name": "Vikash Kumar",
+      "num": "6207006125"
+    },
+    {
+      "aadhar": "677965381449",
+      "address": "c/o  ranjeet ram!Laxminarayanpur!Paur malshah!!laxminarayanpur pour husenipur!paur malshah mohammadpur!vaishali!Bihar!844126",
+      "alt": "8114538802",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet ram",
+      "name": "Vikash Kumar",
+      "num": "6207006125"
+    }
+  ]
+}
