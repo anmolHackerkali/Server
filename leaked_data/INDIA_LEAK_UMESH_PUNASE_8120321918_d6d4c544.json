@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:47:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8120321918",
+  "records": [
+    {
+      "aadhar": "951438928754",
+      "address": "S/O Gokul Prasad!S/O Gokul Prasad!Ward N4  Sukhras!Harda !SUKHRAS-HARDA!MP!461331",
+      "alt": "9977639898",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "GOKUL PRASAD",
+      "name": "UMESH PUNASE",
+      "num": "8120321918"
+    }
+  ]
+}
