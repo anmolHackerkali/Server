@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:05:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9041080882",
+  "records": [
+    {
+      "aadhar": "632902499287",
+      "address": "D/O: Ganga Ram!D/O: Ganga Ram 85!BAWIAN!Kapurthala Kapurthala!KAPURTHALA-KAPURTHALA!PB!144601",
+      "alt": "9041080882",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "DO GANGA RAM",
+      "name": "SUNITA RANI",
+      "num": "8437100195"
+    }
+  ]
+}
