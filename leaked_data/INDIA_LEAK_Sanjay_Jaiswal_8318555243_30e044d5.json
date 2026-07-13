@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:23:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8318555243",
+  "records": [
+    {
+      "aadhar": "261615807979",
+      "address": "S/O: Radheyshyam Gupta!!S 9/84A!nai basti!Pandeypur Varanasi!Uttar Pradesh!221002",
+      "alt": "919451272592",
+      "circle": "JIO UPE",
+      "email": "amanjaiswal89784@gmail.com",
+      "fname": "Radheyshyam Gupta",
+      "name": "Sanjay Jaiswal",
+      "num": "8318555243"
+    },
+    {
+      "aadhar": "261615807979",
+      "address": "S/O: Radheyshyam Gupta!!S 9/84A!nai basti!Pandeypur Varanasi!Uttar Pradesh!221002",
+      "alt": "919451272592",
+      "circle": "JIO UPE",
+      "email": "amanjaiswal89784@gmail.com",
+      "fname": "Radheyshyam Gupta",
+      "name": "Sanjay Jaiswal",
+      "num": "8318555243"
+    }
+  ]
+}
