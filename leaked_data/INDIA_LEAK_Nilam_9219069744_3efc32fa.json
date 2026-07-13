@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:49:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9219069744",
+  "records": [
+    {
+      "aadhar": "213739738287",
+      "address": "w/o shankar!6!rajahati Baheri!!rajahati rajahati baheri!baheri Saidpur!ghazipur!Uttar Pradesh!233223",
+      "alt": "9170156308",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shankar",
+      "name": "Nilam",
+      "num": "9219069744"
+    },
+    {
+      "aadhar": "213739738287",
+      "address": "w/o shankar!6!rajahati Baheri!!rajahati rajahati baheri!baheri Saidpur!ghazipur!Uttar Pradesh!233223",
+      "alt": "9170156308",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shankar",
+      "name": "Nilam",
+      "num": "9219069744"
+    }
+  ]
+}
