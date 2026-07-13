@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:34:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8584068345",
+  "records": [
+    {
+      "aadhar": "714497337570",
+      "address": "D/O Ananta Chakraborty!!Sankrail!SANKRAIL!!Ramchandrapur!Haora!West Bengal!711313",
+      "alt": "9038166886",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Ananta Chakraborty",
+      "name": "Madhumita Ganguly",
+      "num": "8584068345"
+    },
+    {
+      "aadhar": "714497337570",
+      "address": "D/O Ananta Chakraborty!!Sankrail!SANKRAIL!!Ramchandrapur!Haora!West Bengal!711313",
+      "alt": "9038166886",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Ananta Chakraborty",
+      "name": "Madhumita Ganguly",
+      "num": "8584068345"
+    }
+  ]
+}
