@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:46:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9654336403",
+  "records": [
+    {
+      "aadhar": "876881037180",
+      "address": "!X-1126!Gali N0-4!Rajgarh Colony Gandhi NagarEast Delhi!Delhi!Delhi!110031",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Satish  Chand",
+      "name": "Meena  Gupta",
+      "num": "9654336403"
+    },
+    {
+      "aadhar": "876881037180",
+      "address": "!X-1126!Gali N0-4!Rajgarh ColonyGandhi NagarEast Delhi!Delhi!Delhi!110031",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Satish  Chand",
+      "name": "Meena  Gupta",
+      "num": "9654336403"
+    },
+    {
+      "aadhar": "876881037180",
+      "address": "!X-1126!Gali N0-4!Rajgarh ColonyGandhi NagarEast Delhi!Delhi!Delhi!110031",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Satish  Chand",
+      "name": "Meena  Gupta",
+      "num": "9654336403"
+    },
+    {
+      "aadhar": "RRP0605451",
+      "address": "!X-1126!gali no 4 gandhi nagar!!Rajghar colony!Delhi East!East!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satish chand",
+      "name": "Meena gupta",
+      "num": "8810513436"
+    },
+    {
+      "aadhar": "262894587817",
+      "address": "S/O Charan Gupta!!X/1126GALI N0- 4!NA!RAJGARH COLONY s o!Gandhi Nagar SOEast Delhi!NA!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Charan Gupta",
+      "name": "Satish Chand Gupta",
+      "num": "9315322519"
+    },
+    {
+      "aadhar": "262894587817",
+      "address": "S/O Charan Gupta!!X/1126GALI N0- 4!NA!RAJGARH COLONY s o!Gandhi Nagar SOEast Delhi!NA!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Charan Gupta",
+      "name": "Satish Chand Gupta",
+      "num": "9315322519"
+    },
+    {
+      "aadhar": "RRP0605451",
+      "address": "!X-1126!gali no 4 gandhi nagar!!Rajghar colony!Delhi East!East!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satish chand",
+      "name": "Meena gupta",
+      "num": "8810513436"
+    },
+    {
+      "aadhar": "262894587817",
+      "address": "S/O Charan Gupta!!X/1126GALI N0- 4!NA!RAJGARH COLONY s o!Gandhi Nagar SOEast Delhi!NA!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Charan Gupta",
+      "name": "Satish Chand Gupta",
+      "num": "9315322519"
+    },
+    {
+      "aadhar": "RRP0605451",
+      "address": "!X-1126!gali no 4 gandhi nagar!!Rajghar colony!Delhi East!East!Delhi!110031",
+      "alt": "9654336403",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satish chand",
+      "name": "Meena gupta",
+      "num": "8810513436"
+    }
+  ]
+}
