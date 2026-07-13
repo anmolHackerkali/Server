@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:25:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8318325568",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Shitala Prasad!gram-sidhouna!post-sidhouna!. Azamgarh!!Azamgarh!UTTAR PRADESH!276203",
+      "alt": "8318325568",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shitala Prasad",
+      "name": "Amit Kumar",
+      "num": "8318325568"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Shitala Prasad!gram-sidhouna!post-sidhouna!. Azamgarh!!Azamgarh!UTTAR PRADESH!276203",
+      "alt": "8318325568",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shitala Prasad",
+      "name": "Amit Kumar",
+      "num": "8318325568"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Shitala Prasad!gram-sidhouna!post-sidhouna!. Azamgarh!!Azamgarh!UTTAR PRADESH!276203",
+      "alt": "8318325568",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shitala Prasad",
+      "name": "Amit Kumar",
+      "num": "8318325568"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Shitala Prasad!gram-sidhouna!post-sidhouna!. Azamgarh!!Azamgarh!UTTAR PRADESH!276203",
+      "alt": "8318325568",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shitala Prasad",
+      "name": "Amit Kumar",
+      "num": "8318325568"
+    }
+  ]
+}
