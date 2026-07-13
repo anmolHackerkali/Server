@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:40:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9205146351",
+  "records": [
+    {
+      "aadhar": "Ubf2840767",
+      "address": "168 Block F Laxmi Park Nangloi   Delhi Delhi 110041! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shamsher  Singh",
+      "name": "Bharti",
+      "num": "9205146351"
+    },
+    {
+      "aadhar": "Ubf2840767",
+      "address": "!168 Block F Laxmi Park Nangloi   Delhi Delhi 110041!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shamsher  Singh",
+      "name": "Bharti",
+      "num": "9205146351"
+    },
+    {
+      "aadhar": "Ubf2840767",
+      "address": "168 Block F Laxmi Park Nangloi   Delhi Delhi 110041       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shamsher  Singh",
+      "name": "Bharti",
+      "num": "9205146351"
+    },
+    {
+      "aadhar": "Ubf2840767",
+      "address": "168 Block F Laxmi Park Nangloi   Delhi Delhi 110041       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Shamsher  Singh",
+      "name": "Bharti",
+      "num": "9205146351"
+    }
+  ]
+}
