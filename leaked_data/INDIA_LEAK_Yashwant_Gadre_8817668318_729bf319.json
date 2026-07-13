@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:37:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8817668318",
+  "records": [
+    {
+      "aadhar": "302112939751",
+      "address": "s/o jhadu lal gadre!!Rajada!near water tank!ward no. 9 rajada teh- mohkhed rajada!rajada!chhindwara!Madhya Pradesh!480331",
+      "alt": "8819890538",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "jhadu lal gadre",
+      "name": "Yashwant Gadre",
+      "num": "8817668318"
+    },
+    {
+      "aadhar": "302112939751",
+      "address": "s/o jhadu lal gadre!!Rajada!near water tank!ward no. 9 rajada teh- mohkhed rajada!rajada!chhindwara!Madhya Pradesh!480331",
+      "alt": "8819890538",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "jhadu lal gadre",
+      "name": "Yashwant Gadre",
+      "num": "8817668318"
+    }
+  ]
+}
