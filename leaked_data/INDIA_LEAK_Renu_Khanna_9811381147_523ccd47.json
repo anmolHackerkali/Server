@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:49:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9811381147",
+  "records": [
+    {
+      "aadhar": "945381104259",
+      "address": "R S  Khanna!1/11701!PANCHSHEEL GARDEN!NAVEEN SHAHDRA!SHAHDRA- -East Delhi!Delhi!110032",
+      "alt": "9650193380",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "R S  Khanna",
+      "name": "Renu Khanna",
+      "num": "9811381147"
+    },
+    {
+      "aadhar": "945381104259",
+      "address": "R S  Khanna!1/11701!PANCHSHEEL GARDEN!NAVEEN SHAHDRA!SHAHDRA- -East Delhi!Delhi!110032",
+      "alt": "9650193380",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "R S  Khanna",
+      "name": "Renu Khanna",
+      "num": "9811381147"
+    },
+    {
+      "aadhar": "945381104259",
+      "address": "RS Khanna!1/11701!PANCHSHEEL GARDEN!NAVEEN SHAHDRA!SHAHDRA- -East Delhi!Delhi!110032",
+      "alt": "9650193380",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RS Khanna",
+      "name": "RenuKhanna",
+      "num": "9811381147"
+    },
+    {
+      "aadhar": "945381104259",
+      "address": "RS Khanna!1/11701!PANCHSHEEL GARDEN!NAVEEN SHAHDRA!SHAHDRA- -East Delhi!Delhi!110032",
+      "alt": "9650193380",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RS Khanna",
+      "name": "RenuKhanna",
+      "num": "9811381147"
+    }
+  ]
+}
