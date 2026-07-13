@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:40:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569855007",
+  "records": [
+    {
+      "aadhar": "547549340198",
+      "address": "! 512!uma nagar c c road deoria!near govt twebel uma nagar!ward no 5!Deoria!Deoria!Uttar Pradesh!274001",
+      "alt": "9334171068",
+      "circle": "JIO UPE",
+      "email": "gauravk2136@gmail.com",
+      "fname": "Anup Kumar",
+      "name": "Gaurav Kumar",
+      "num": "9569855007"
+    },
+    {
+      "aadhar": "547549340198",
+      "address": "! 512!uma nagar c c road deoria!near govt twebel uma nagar!ward no 5!Deoria!Deoria!Uttar Pradesh!274001",
+      "alt": "9334171068",
+      "circle": "JIO UPE",
+      "email": "gauravk2136@gmail.com",
+      "fname": "Anup Kumar",
+      "name": "Gaurav Kumar",
+      "num": "9569855007"
+    },
+    {
+      "aadhar": "547549340198",
+      "address": "!!Bind Nalanda bihar!!Bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "9569855007",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Anup Kumar",
+      "name": "Gaurav kumar",
+      "num": "8789514305"
+    },
+    {
+      "aadhar": "547549340198",
+      "address": "!!Bind Nalanda bihar!!Bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "9569855007",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anup Kumar",
+      "name": "Gaurav kumar",
+      "num": "8789514305"
+    },
+    {
+      "aadhar": "547549340198",
+      "address": "!!Bind Nalanda bihar!!Bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "9569855007",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anup Kumar",
+      "name": "Gaurav kumar",
+      "num": "8789514305"
+    }
+  ]
+}
