@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:54:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7042312154",
+  "records": [
+    {
+      "aadhar": "944069607976",
+      "address": " House No 1688 Gali No 54 Molarband extn  Molarband extn Badarpur Delhi South Delhi Delhi 110044",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "dhan singh bisht",
+      "name": "Bhawna Bisht",
+      "num": "7042312154"
+    },
+    {
+      "aadhar": "944069607976",
+      "address": "!House No 1688!Gali No 54 Molarband extn!!Molarband extn Badarpur!Delhi!South Delhi!Delhi!110044",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "dhan singh bisht",
+      "name": "Bhawna Bisht",
+      "num": "7042312154"
+    },
+    {
+      "aadhar": "944069607976",
+      "address": "!House No 1688!Gali No 54 Molarband extn!!Molarband extn Badarpur!Delhi!South Delhi!Delhi!110044",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "dhan singh bisht",
+      "name": "Bhawna Bisht",
+      "num": "7042312154"
+    },
+    {
+      "aadhar": "944069607976",
+      "address": "D/O  Dhan Singh Bisht!House-1688!Street-54 Block-EBadarpur!Molarband Extn!!BadarpurKalkaji!South Delhi!Delhi!110044",
+      "alt": "7042312154",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dhan Singh Bisht",
+      "name": "Bhawna Bisht  ",
+      "num": "8368376083"
+    },
+    {
+      "aadhar": "944069607976",
+      "address": "D/O  Dhan Singh Bisht!House-1688!Street-54 Block-EBadarpur!Molarband Extn!!BadarpurKalkaji!South Delhi!Delhi!110044",
+      "alt": "7042312154",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dhan Singh Bisht",
+      "name": "Bhawna Bisht  ",
+      "num": "8368376083"
+    },
+    {
+      "aadhar": "944069607976",
+      "address": "D/O  Dhan Singh Bisht!House-1688!Street-54 Block-EBadarpur!Molarband Extn!!BadarpurKalkaji!South Delhi!Delhi!110044",
+      "alt": "7042312154",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dhan Singh Bisht",
+      "name": "Bhawna Bisht  ",
+      "num": "8368376083"
+    }
+  ]
+}
