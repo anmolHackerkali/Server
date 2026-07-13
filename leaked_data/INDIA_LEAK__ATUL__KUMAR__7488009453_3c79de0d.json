@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:48:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7488009453",
+  "records": [
+    {
+      "aadhar": "875624778417",
+      "address": " S/O  Anup Singh S/O  Anup Singh   Benipur  Bind Bind Bind-Nalanda BR 803107 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ANUP  SINGH ",
+      "name": " ATUL  KUMAR ",
+      "num": "7488009453"
+    },
+    {
+      "aadhar": "875624778417",
+      "address": " S/O  Anup Singh S/O  Anup Singh   Benipur  Bind Bind Bind-Nalanda BR 803107 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ANUP  SINGH ",
+      "name": " ATUL  KUMAR ",
+      "num": "7488009453"
+    },
+    {
+      "aadhar": "875624778417",
+      "address": " S/O  Anup Singh    Benipur  Bind  Bind  Bind  Bind  AHIA CHAK-NALANDA 803107 BR Benipur  Bind  Bind  Bind  Bind  AHIA CHAK-NALANDA BR 803107 ",
+      "alt": "7488009453",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ANUP  SINGH ",
+      "name": " ATUL  KUMAR ",
+      "num": "9135960386"
+    },
+    {
+      "aadhar": "875624778417",
+      "address": " S/O  Anup Singh    Benipur  Bind  Bind  Bind  Bind  AHIA CHAK-NALANDA 803107 BR Benipur  Bind  Bind  Bind  Bind  AHIA CHAK-NALANDA BR 803107 ",
+      "alt": "7488009453",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ANUP  SINGH ",
+      "name": " ATUL  KUMAR ",
+      "num": "9135960386"
+    }
+  ]
+}
