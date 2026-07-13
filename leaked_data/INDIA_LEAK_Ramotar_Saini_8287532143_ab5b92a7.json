@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:11:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287532143",
+  "records": [
+    {
+      "aadhar": "761954058822",
+      "address": "!b258!b258 gandi colony!NA!faridabad!Faridabad Faridabad!NA!Haryana!121002",
+      "alt": "6375045175",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basanti Lal Saini",
+      "name": "Ramotar Saini",
+      "num": "8287532143"
+    },
+    {
+      "aadhar": "761954058822",
+      "address": "!b258!b258 gandi colony!NA!faridabad!Faridabad Faridabad!NA!Haryana!121002",
+      "alt": "6375045175",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basanti Lal Saini",
+      "name": "Ramotar Saini",
+      "num": "8287532143"
+    },
+    {
+      "aadhar": "761954058822",
+      "address": "!b258!b258 gandi colony!NA!faridabad!Faridabad Faridabad!NA!Haryana!121002",
+      "alt": "6375045175",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basanti Lal Saini",
+      "name": "Ramotar Saini",
+      "num": "8287532143"
+    }
+  ]
+}
