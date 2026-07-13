@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:50:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9382833695",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "!!SHRIGURUPALLI T.B HOSPITAL!-!Dhubulia Nadia!West Bengal!741140",
+      "alt": "919073015987",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Narayanchandra Das",
+      "name": "PRADIP DAS",
+      "num": "9382833695"
+    },
+    {
+      "aadhar": "NA",
+      "address": "!!SHRIGURUPALLI T.B HOSPITAL!-!Dhubulia Nadia!West Bengal!741140",
+      "alt": "919073015987",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Narayanchandra Das",
+      "name": "PRADIP DAS",
+      "num": "9382833695"
+    }
+  ]
+}
