@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:06:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319372583",
+  "records": [
+    {
+      "aadhar": "Bdv342317",
+      "address": "506!Nai Abdi!Hapur!Hapur!Uttar Pradesh!245101",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Fajalu  Rahman",
+      "name": "Rajau  Rahaman",
+      "num": "9319372583"
+    },
+    {
+      "aadhar": "Bdv342317",
+      "address": "506!Nai Abdi!Hapur!Hapur!Uttar Pradesh!245101",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Fajalu  Rahman",
+      "name": "Rajau  Rahaman",
+      "num": "9319372583"
+    }
+  ]
+}
