@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:31:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765993132",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Dilip Kumar Sah!Amirta  Bhavara Ward no 02!!!!Saharsa!Bihar!852217",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dilip Kumar Sah",
+      "name": "Abhimanyu  Kumar",
+      "num": "7765993132"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Dilip Kumar Sah!Amirta  Bhavara Ward no 02!!!!Saharsa!Bihar!852217",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dilip Kumar Sah",
+      "name": "Abhimanyu  Kumar",
+      "num": "7765993132"
+    }
+  ]
+}
