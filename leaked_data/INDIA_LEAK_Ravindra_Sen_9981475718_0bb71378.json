@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:35:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9981475718",
+  "records": [
+    {
+      "aadhar": "946073650206",
+      "address": "S/O Dhul Ji Sen! Gilakhedii!Gilakhedii!kurawar!kurawar!Narsinghgarh!RAJGARH!Madhya Pradesh!465667",
+      "alt": "8827130201",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Dhul Ji Sen",
+      "name": "Ravindra Sen",
+      "num": "9981475718"
+    }
+  ]
+}
