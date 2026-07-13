@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:33:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340154271",
+  "records": [
+    {
+      "aadhar": "811042179973",
+      "address": "S/O  Jag Narayan Pandey!!!Buxar Road!Kochas Rohtas!Bihar!821112",
+      "alt": "918936871332",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jag Narayan Pandey",
+      "name": "Sandeep Kumar Pandey",
+      "num": "8340154271"
+    },
+    {
+      "aadhar": "811042179973",
+      "address": "S/O  Jag Narayan Pandey!!!Buxar Road!Kochas Rohtas!Bihar!821112",
+      "alt": "918936871332",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jag Narayan Pandey",
+      "name": "Sandeep Kumar Pandey",
+      "num": "8340154271"
+    },
+    {
+      "aadhar": "811042179973",
+      "address": "S/O  Jag Narayan Pandey!!!Buxar Road!Kochas Rohtas!Bihar!821112",
+      "alt": "918936871332",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jag Narayan Pandey",
+      "name": "Sandeep Kumar Pandey",
+      "num": "8340154271"
+    },
+    {
+      "aadhar": "479444851279",
+      "address": "s/o  jagdish pandey!!Kochas!ward-5!ward-5 kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "8340154271",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "jagdish pandey",
+      "name": "Jagnarayan Pandey",
+      "num": "9341617054"
+    },
+    {
+      "aadhar": "479444851279",
+      "address": "s/o  jagdish pandey!!Kochas!ward-5!ward-5 kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "8340154271",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jagdish pandey",
+      "name": "Jagnarayan Pandey",
+      "num": "9341617054"
+    },
+    {
+      "aadhar": "479444851279",
+      "address": "s/o  jagdish pandey!!Kochas!ward-5!ward-5 kochas!kochas Kochas!rohtas!Bihar!821112",
+      "alt": "8340154271",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jagdish pandey",
+      "name": "Jagnarayan Pandey",
+      "num": "9341617054"
+    }
+  ]
+}
