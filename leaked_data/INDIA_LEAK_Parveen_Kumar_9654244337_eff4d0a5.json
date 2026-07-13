@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:41:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9654244337",
+  "records": [
+    {
+      "aadhar": "935429875181",
+      "address": "!Sector 63!Chotpur Colony!!Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nandu Sharma",
+      "name": "Parveen Kumar",
+      "num": "9654244337"
+    },
+    {
+      "aadhar": "935429875181",
+      "address": "!Sector 63!Chotpur Colony!!Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nandu Sharma",
+      "name": "Parveen Kumar",
+      "num": "9654244337"
+    },
+    {
+      "aadhar": "935429875181",
+      "address": "!Sector 63!Chotpur Colony!!Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nandu Sharma",
+      "name": "Parveen Kumar",
+      "num": "9654244337"
+    },
+    {
+      "aadhar": "966817796273",
+      "address": "!12!chotpur!asram road!noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9654244337",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram balam singh",
+      "name": "Sushila Devi  ",
+      "num": "8766358867"
+    },
+    {
+      "aadhar": "966817796273",
+      "address": "!12!chotpur!asram road!noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9654244337",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram balam singh",
+      "name": "Sushila Devi  ",
+      "num": "8766358867"
+    },
+    {
+      "aadhar": "966817796273",
+      "address": "!12!chotpur!asram road!noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "9654244337",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram balam singh",
+      "name": "Sushila Devi  ",
+      "num": "8766358867"
+    }
+  ]
+}
