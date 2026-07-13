@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:50:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389816744",
+  "records": [
+    {
+      "aadhar": "08-09-2020",
+      "address": "38!FOUNDRY NAGAR!!AGRA!Uttar Pradesh!282006",
+      "alt": "6396859969",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "TANUJ MITTAL",
+      "name": "MITTAL UPVC SOLUTION",
+      "num": "9389816744"
+    },
+    {
+      "aadhar": "270039556089",
+      "address": "80TH!K M STONE VILLAGE BARTOLI!!KHURJA!Uttar Pradesh!203131",
+      "alt": "9457249008",
+      "circle": "JIO UPE UPW",
+      "email": "HR@CREAMYFOODS.COM",
+      "fname": "YAGYA NARAYAN TRIPATHI",
+      "name": "CREAMY FOODS LIMITED",
+      "num": "9389816744"
+    },
+    {
+      "aadhar": "270039556089",
+      "address": "80TH!K M STONE VILLAGE BARTOLI!!KHURJA!Uttar Pradesh!203131",
+      "alt": "9457249008",
+      "circle": "JIO UPE UPW",
+      "email": "HR@CREAMYFOODS.COM",
+      "fname": "YAGYA NARAYAN TRIPATHI",
+      "name": "CREAMY FOODS LIMITED",
+      "num": "9389816744"
+    }
+  ]
+}
