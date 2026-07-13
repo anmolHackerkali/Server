@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 20:16:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178850070",
+  "records": [
+    {
+      "aadhar": "629145779241",
+      "address": "S/O Ram Bhujan Das!!House Number P-44 Gali no.15 B!Swatantra nagar!Narela North West Delhi!Delhi!110040",
+      "alt": "918285413156",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Bhujan Das",
+      "name": "Balwinder Kumar",
+      "num": "8178850070"
+    },
+    {
+      "aadhar": "629145779241",
+      "address": "S/O Ram Bhujan Das!!House Number P-44Gali no15 B!Swatantra nagar!NarelaNorth West Delhi!Delhi!110040",
+      "alt": "918285413156",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Bhujan Das",
+      "name": "Balwinder Kumar",
+      "num": "8178850070"
+    },
+    {
+      "aadhar": "629145779241",
+      "address": "S/O Ram Bhujan Das!!House Number P-44Gali no15 B!Swatantra nagar!NarelaNorth West Delhi!Delhi!110040",
+      "alt": "918285413156",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Bhujan Das",
+      "name": "Balwinder Kumar",
+      "num": "8178850070"
+    }
+  ]
+}
