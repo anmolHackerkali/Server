@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:55:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8799780151",
+  "records": [
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    },
+    {
+      "aadhar": "362948303454",
+      "address": "!r z k 181 nihal vihar nangloi west delhi!Nihal vihar!!Nangloi!nangloi!west delhi!Delhi!110041",
+      "alt": "8799780151",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Ram Udar jha",
+      "name": "Virendra Kumar Jha",
+      "num": "9910768230"
+    },
+    {
+      "aadhar": "362948303454",
+      "address": "!r z k 181 nihal vihar nangloi west delhi!Nihal vihar!!Nangloi!nangloi!west delhi!Delhi!110041",
+      "alt": "8799780151",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Ram Udar jha",
+      "name": "Virendra Kumar Jha",
+      "num": "9910768230"
+    },
+    {
+      "aadhar": "362948303454",
+      "address": "!r z k 181 nihal vihar nangloi west delhi!Nihal vihar!!Nangloi!nangloi!west delhi!Delhi!110041",
+      "alt": "8799780151",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Ram Udar jha",
+      "name": "Virendra Kumar Jha",
+      "num": "9910768230"
+    }
+  ]
+}
