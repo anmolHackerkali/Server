@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:33:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8059745494",
+  "records": [
+    {
+      "aadhar": "649614206401",
+      "address": "S/O ZILE SINGH!RAMRAI!JIND!SCHOOL!JIND!JIND!JIND!HARYANA!126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ZILE SINGH",
+      "name": "DEVENDER",
+      "num": "8059745494"
+    },
+    {
+      "aadhar": "649614206401",
+      "address": "RAMRAI JIND SCHOOL JIND JIND JIND HARYANA 126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ZILE SINGH",
+      "name": "DEVENDER",
+      "num": "8059745494"
+    }
+  ]
+}
