@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:59:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389710396",
+  "records": [
+    {
+      "aadhar": "320827208900",
+      "address": "!h no 512!nai abadi jamun wali masjid!!Peerbahauddin hapur!Ghaziabadhapur!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "8533845684",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohammad Tashkeen",
+      "name": "Mohammad Tazeem  ",
+      "num": "9389710396"
+    },
+    {
+      "aadhar": "320827208900",
+      "address": "! h no 512!nai abadi jamun wali masjid!!Peerbahauddin hapur!Ghaziabad hapur!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "8533845684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohammad Tashkeen",
+      "name": "Mohammad Tazeem",
+      "num": "9389710396"
+    },
+    {
+      "aadhar": "320827208900",
+      "address": "! h no 512!nai abadi jamun wali masjid!!Peerbahauddin hapur!Ghaziabad hapur!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "8533845684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohammad Tashkeen",
+      "name": "Mohammad Tazeem",
+      "num": "9389710396"
+    },
+    {
+      "aadhar": "582172376287",
+      "address": "!512!khai bazar nai abadi hapur!!nai abadi!Ghaziabad!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "9389710396",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohd Yasin",
+      "name": "Tashkeen  ",
+      "num": "9319143162"
+    },
+    {
+      "aadhar": "217966228954",
+      "address": "s/o  mohammad tashkeen!512!nai aabadi jaman wali masjid Hapur!peerbahauddin!nai aabadi jaman wali masjid peerbahauddin!hapur Hapur!hapur!Uttar Pradesh!245101",
+      "alt": "9389710396",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "mohammad tashkeen",
+      "name": "Mohammad Humam",
+      "num": "9389606531"
+    },
+    {
+      "aadhar": "582172376287",
+      "address": "!512!khai bazar nai abadi hapur!!nai abadi!Ghaziabad!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "9389710396",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohd Yasin",
+      "name": "Tashkeen",
+      "num": "9319143162"
+    },
+    {
+      "aadhar": "217966228954",
+      "address": "s/o  mohammad tashkeen!512!nai aabadi jaman wali masjid Hapur!peerbahauddin!nai aabadi jaman wali masjid peerbahauddin!hapur Hapur!hapur!Uttar Pradesh!245101",
+      "alt": "9389710396",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "mohammad tashkeen",
+      "name": "Mohammad Humam",
+      "num": "9389606531"
+    },
+    {
+      "aadhar": "582172376287",
+      "address": "!512!khai bazar nai abadi hapur!!nai abadi!Ghaziabad!Ghaziabad!Uttar Pradesh!245101",
+      "alt": "9389710396",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mohd Yasin",
+      "name": "Tashkeen",
+      "num": "9319143162"
+    }
+  ]
+}
