@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:43:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7353631291",
+  "records": [
+    {
+      "aadhar": "938552360173",
+      "address": "!4391!1ST FLOOR 1ST CROSS NEAR DOMONOS!near Domonos!KUMARSWAMY LAYOUT BANGALORE!BANGALORE!Bangalore!KARNATAKA!560078",
+      "alt": "8951695815",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Habeeb Ulla K",
+      "name": "MS  SHAGUFTHA NAZ FATHIMA K",
+      "num": "7353631291"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Habeeb Ulla K!!#02 Municipal Quarters!Subhash Nagar!Arsikere Hassan!Karnataka!573103",
+      "alt": "918951695815",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Habeeb Ulla K",
+      "name": "Shaguftha Naz Fathima K",
+      "num": "7353631291"
+    },
+    {
+      "aadhar": "973521526803",
+      "address": "s/o  anwar khan!!Kaunchur!!kavanchur siddapur!kaunchur Siddapur!uttara kannada!Karnataka!581355",
+      "alt": "7353631291",
+      "circle": "JIO KARNATKA",
+      "email": "khan.bluelagoon@gmail.com",
+      "fname": "anwar khan",
+      "name": "Ameer Khan",
+      "num": "8951695815"
+    }
+  ]
+}
