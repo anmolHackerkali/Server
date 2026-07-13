@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:12:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9919573614",
+  "records": [
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAV!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!azamgarhAZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9565841869",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Om Prakash Yadav",
+      "name": "MR. BRIJESH YADAV",
+      "num": "9919573614"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAV!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!azamgarh AZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9565841869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Om Prakash Yadav",
+      "name": "MR BRIJESH YADAV",
+      "num": "9919573614"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAV!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!azamgarhAZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9565841869",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Om Prakash Yadav",
+      "name": "MR. BRIJESH YADAV",
+      "num": "9919573614"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAV!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!azamgarh AZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9565841869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Om Prakash Yadav",
+      "name": "MR BRIJESH YADAV",
+      "num": "9919573614"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAX!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!TEHSIL PHOOLPURAZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9919573614",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Om Prakash",
+      "name": "MR. BRIJESH YADAV",
+      "num": "9984895168"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAX!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!TEHSIL PHOOLPUR AZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9919573614",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Om Prakash",
+      "name": "MR BRIJESH YADAV",
+      "num": "9984895168"
+    },
+    {
+      "aadhar": "369483144923",
+      "address": "S/O OM PRAKASH YADAX!TEHSIL PHOOLPUR!TEHSIL PHOOLPUR!!TEHSIL PHOOLPUR AZAMGARH!AZAMGARH!UTTAR PRADESH!223222",
+      "alt": "9919573614",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Om Prakash",
+      "name": "MR BRIJESH YADAV",
+      "num": "9984895168"
+    }
+  ]
+}
