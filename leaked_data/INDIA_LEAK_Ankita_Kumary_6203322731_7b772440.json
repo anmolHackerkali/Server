@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:32:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203322731",
+  "records": [
+    {
+      "aadhar": "468418977046",
+      "address": "D/O  Narendra Kumar Tiwari!! Balthari!sawan dihari!Sanwandehri Kochas Rohtas!Bihar!821107",
+      "alt": "918434341523",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Narendra Kumar Tiwari",
+      "name": "Ankita Kumary",
+      "num": "6203322731"
+    },
+    {
+      "aadhar": "468418977046",
+      "address": "D/O  Narendra Kumar Tiwari!! Balthari!sawan dihari!Sanwandehri Kochas Rohtas!Bihar!821107",
+      "alt": "918434341523",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Narendra Kumar Tiwari",
+      "name": "Ankita Kumary",
+      "num": "6203322731"
+    },
+    {
+      "aadhar": "468418977046",
+      "address": "D/O  Narendra Kumar Tiwari!! Balthari!sawan dihari!Sanwandehri Kochas Rohtas!Bihar!821107",
+      "alt": "918434341523",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Narendra Kumar Tiwari",
+      "name": "Ankita Kumary",
+      "num": "6203322731"
+    }
+  ]
+}
