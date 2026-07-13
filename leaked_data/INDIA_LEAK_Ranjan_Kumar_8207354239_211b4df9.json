@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:22:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8207354239",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Jawahir Sah!Ward No - 06 Gram Rekha Sundar Patti Tola Muratiya!Panchayat Pakadiya Via Jagdishpur!!Thana Nautan!Tola Jhakhra!West Champaran!Bihar!845459",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jawahir Sah",
+      "name": "Ranjan Kumar",
+      "num": "8207354239"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jawahir Sah!Ward No - 06 Gram Rekha Sundar Patti Tola Muratiya!Panchayat Pakadiya Via Jagdishpur!!Thana Nautan!Tola Jhakhra!West Champaran!Bihar!845459",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jawahir Sah",
+      "name": "Ranjan Kumar",
+      "num": "8207354239"
+    }
+  ]
+}
