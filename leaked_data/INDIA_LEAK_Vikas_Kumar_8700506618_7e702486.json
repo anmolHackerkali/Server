@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:49:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700506618",
+  "records": [
+    {
+      "aadhar": "865375165280",
+      "address": "!h no 280!daulatpura!near Rakesh marg!ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "7906318085",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh",
+      "name": "Vikas Kumar",
+      "num": "8700506618"
+    },
+    {
+      "aadhar": "865375165280",
+      "address": "!h no 280!daulatpura!near Rakesh marg!ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "7906318085",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh",
+      "name": "Vikas Kumar",
+      "num": "8700506618"
+    },
+    {
+      "aadhar": "865375165280",
+      "address": "!h no 280!daulatpura!near Rakesh marg!ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201001",
+      "alt": "7906318085",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "rakesh",
+      "name": "Vikas Kumar",
+      "num": "8700506618"
+    }
+  ]
+}
