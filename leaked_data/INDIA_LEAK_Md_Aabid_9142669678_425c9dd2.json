@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:12:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142669678",
+  "records": [
+    {
+      "aadhar": "874892120171",
+      "address": "!ward no  02!balua tol baldiha!baldiha!near school jainagar!Madhubani!Madhubani!Bihar!847226",
+      "alt": "9973618774",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md Tahir",
+      "name": "Md Aabid",
+      "num": "9142669678"
+    },
+    {
+      "aadhar": "874892120171",
+      "address": "!ward no  02!balua tol baldiha!baldiha!near school jainagar!Madhubani!Madhubani!Bihar!847226",
+      "alt": "9973618774",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md Tahir",
+      "name": "Md Aabid",
+      "num": "9142669678"
+    },
+    {
+      "aadhar": "874892120171",
+      "address": "!ward no  02!balua tol baldiha!baldiha!near school jainagar!Madhubani!Madhubani!Bihar!847226",
+      "alt": "9973618774",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md Tahir",
+      "name": "Md Aabid",
+      "num": "9142669678"
+    },
+    {
+      "aadhar": "898851138473",
+      "address": "! 01!Chamtha Begusarai!wad 1 bandh par number chamtha!sahit!Begusarai!Begusarai!Bihar!851111",
+      "alt": "9142669678",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rakesh Kumar singh",
+      "name": "Shobha Devi",
+      "num": "9341370318"
+    },
+    {
+      "aadhar": "898851138473",
+      "address": "! 01!Chamtha Begusarai!wad 1 bandh par number chamtha!sahit!Begusarai!Begusarai!Bihar!851111",
+      "alt": "9142669678",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rakesh Kumar singh",
+      "name": "Shobha Devi",
+      "num": "9341370318"
+    },
+    {
+      "aadhar": "898851138473",
+      "address": "! 01!Chamtha Begusarai!wad 1 bandh par number chamtha!sahit!Begusarai!Begusarai!Bihar!851111",
+      "alt": "9142669678",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rakesh Kumar singh",
+      "name": "Shobha Devi",
+      "num": "9341370318"
+    }
+  ]
+}
