@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:15:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7819964619",
+  "records": [
+    {
+      "aadhar": "910410378195",
+      "address": "s/o balkishan!!!!nagla bhaau rahana!firozabad!firozabad!Uttar Pradesh!283203",
+      "alt": "7409671393",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "balkishan",
+      "name": "Lakhan Singh  ",
+      "num": "7819964619"
+    },
+    {
+      "aadhar": "910410378195",
+      "address": "s/o balkishan!!!!nagla bhaau rahana!firozabad!firozabad!Uttar Pradesh!283203",
+      "alt": "7409671393",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "balkishan",
+      "name": "Lakhan Singh",
+      "num": "7819964619"
+    },
+    {
+      "aadhar": "910410378195",
+      "address": "s/o balkishan!!!!nagla bhaau rahana!firozabad!firozabad!Uttar Pradesh!283203",
+      "alt": "7409671393",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "balkishan",
+      "name": "Lakhan Singh",
+      "num": "7819964619"
+    }
+  ]
+}
