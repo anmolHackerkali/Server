@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:18:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9436516901",
+  "records": [
+    {
+      "aadhar": "865851666799",
+      "address": " S/O Late Amal Chakraborty! 115/2!Feeder Road!!Belgharia Belgharia H.O!North Presidency!North Twenty Four Parganas!West Bengal!700056 ",
+      "alt": "9436516901",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Late Amal Chakraborty",
+      "name": "Palash Chakraborty",
+      "num": "7439245144"
+    },
+    {
+      "aadhar": "865851666799",
+      "address": " S/O Late Amal Chakraborty! 115/2!Feeder Road!!Belgharia Belgharia H.O!North Presidency!North Twenty Four Parganas!West Bengal!700056 ",
+      "alt": "9436516901",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Late Amal Chakraborty",
+      "name": "Palash Chakraborty",
+      "num": "7439245144"
+    }
+  ]
+}
