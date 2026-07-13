@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:19:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8192084150",
+  "records": [
+    {
+      "aadhar": "978092982711",
+      "address": "!!Jargwan!!Jargwan!DIBAI!BULANDSHAHR!Uttar Pradesh!202399",
+      "alt": "9758148204",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Sanjay Kumar urf ashwani",
+      "name": "Prashant Kumar  ",
+      "num": "8192084150"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Sanjay Kumar Urf Ashwani!!!!!Jargwan!Bulandshahr!Uttar Pradesh!202399 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Sanjay Kumar Urf Ashwani ",
+      "name": " Prashant Kumar ",
+      "num": "8192084150"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Sanjay Kumar Urf Ashwani!!!!!Jargwan!Bulandshahr!Uttar Pradesh!202399 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Sanjay Kumar Urf Ashwani ",
+      "name": " Prashant Kumar ",
+      "num": "8192084150"
+    },
+    {
+      "aadhar": "940760595742",
+      "address": "D/O  Sanjay Kumar!!Jargwan Bulandshahr JargawanJargawan!NA!!JargwanDebaiBulandshahr!NA!Uttar Pradesh!202399",
+      "alt": "8192084150",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Sanjay Kumar",
+      "name": "Varsha",
+      "num": "9548677169"
+    }
+  ]
+}
