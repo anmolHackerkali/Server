@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:42:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9528966964",
+  "records": [
+    {
+      "aadhar": "613115016096",
+      "address": "s/o  dataram uniyal!!Tilwari!!jagatpur khadar!jagatpur!dehradun!Uttarakhand!248197",
+      "alt": "8191946083",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "dataram uniyal",
+      "name": "Pankaj Uniyal  ",
+      "num": "9528966964"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Nafis!!Rajupur Rajupur!Rajupur!Ransoora Saharanpur!Uttar Pradesh!247670",
+      "alt": "918218254326",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Nafis",
+      "name": "Saleem",
+      "num": "9528966964"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Nafis!!Rajupur Rajupur!Rajupur!Ransoora Saharanpur!Uttar Pradesh!247670",
+      "alt": "918218254326",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Nafis",
+      "name": "Saleem",
+      "num": "9528966964"
+    }
+  ]
+}
