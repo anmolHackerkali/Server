@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 07:39:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825992880",
+  "records": [
+    {
+      "aadhar": "458249121975",
+      "address": "104  TAPIDARSHAN APP!DURLABH COLONY AMROLI!MAIN ROAD  AMROLI NR JALARAM TEMPLE!SURAT!Gujarat!394107",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "BHABAGRAHI",
+      "name": "PRAKASHCHANDRA PRADHAN",
+      "num": "9825992880"
+    },
+    {
+      "aadhar": "458249121975",
+      "address": "104  TAPIDARSHAN APP!DURLABH COLONY AMROLI!MAIN ROAD  AMROLI NR JALARAM TEMPLE!SURAT!Gujarat!394107",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "BHABAGRAHI",
+      "name": "PRAKASHCHANDRA PRADHAN",
+      "num": "9825992880"
+    },
+    {
+      "aadhar": "458249129273",
+      "address": "! 104!tapidarshan app Amroli!durlabh colony!amroli!Chorasi Chorasi!Surat!Gujarat!394107",
+      "alt": "9825992880",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhabagrahi",
+      "name": "Pradhan Prakashchandra Bhabagrahi",
+      "num": "9316580181"
+    },
+    {
+      "aadhar": "458249129273",
+      "address": "! 104!tapidarshan app Amroli!durlabh colony!amroli!Chorasi Chorasi!Surat!Gujarat!394107",
+      "alt": "9825992880",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhabagrahi",
+      "name": "Pradhan Prakashchandra Bhabagrahi",
+      "num": "9316580181"
+    },
+    {
+      "aadhar": "458249129273",
+      "address": "! 104!tapidarshan app Amroli!durlabh colony!amroli!Chorasi Chorasi!Surat!Gujarat!394107",
+      "alt": "9825992880",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhabagrahi",
+      "name": "Pradhan Prakashchandra Bhabagrahi",
+      "num": "9316580181"
+    }
+  ]
+}
