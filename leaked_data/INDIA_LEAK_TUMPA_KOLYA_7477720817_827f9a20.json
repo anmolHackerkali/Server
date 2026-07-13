@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:59:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7477720817",
+  "records": [
+    {
+      "aadhar": "724260874076",
+      "address": "!NA!Buriapat PO!NA!PANCHKHURI Panch Khuiri Keshpur!Paschim Medinipur!Paschim Medinipur!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Shanti Paja",
+      "name": "TUMPA KOLYA",
+      "num": "7477720817"
+    },
+    {
+      "aadhar": "724260874076",
+      "address": "!NA!Buriapat PO!NA!PANCHKHURI Panch Khuiri Keshpur!Paschim Medinipur!Paschim Medinipur!West Bengal!721260",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Shanti Paja",
+      "name": "TUMPA KOLYA",
+      "num": "7477720817"
+    }
+  ]
+}
