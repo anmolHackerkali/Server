@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:49:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801169009",
+  "records": [
+    {
+      "aadhar": "980147637279",
+      "address": " Chipura Kala!Chipra!!Patna!Patna!Patna!Bihar!804453 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajesh Choudhary ",
+      "name": " Ashik Kumar ",
+      "num": "9801169009"
+    },
+    {
+      "aadhar": "980147637279",
+      "address": " Chipura Kala!Chipra!!Patna!Patna!Patna!Bihar!804453 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajesh Choudhary ",
+      "name": " Ashik Kumar ",
+      "num": "9801169009"
+    }
+  ]
+}
