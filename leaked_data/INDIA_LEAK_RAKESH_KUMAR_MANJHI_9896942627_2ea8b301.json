@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:15:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896942627",
+  "records": [
+    {
+      "aadhar": "605940482584",
+      "address": "30 OLD HAMIDA  SHARANPUR ROAD MANA SHIV MNDIR HARYANA  AMBALA HARYANA 135001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PRASHURAM  MANJHI",
+      "name": "RAKESH KUMAR MANJHI",
+      "num": "9896942627"
+    },
+    {
+      "aadhar": "605940482584",
+      "address": "C/O: PRASHURAM  MANJHI!30!OLD HAMIDA!SHARANPUR ROAD MANA SHIV MNDIR HARYANA!AMBALA!HARYANA!135001",
+      "alt": "9034128687",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PRASHURAM  MANJHI",
+      "name": "RAKESH KUMAR MANJHI",
+      "num": "9896942627"
+    },
+    {
+      "aadhar": "201955403666",
+      "address": "C/O: PASHURAM  MANJHI!ASHA TIMBER!HMIDA!HAMIDA RALWAY STATION YAMUNANAGAR!AMBALA!HARYANA!135001",
+      "alt": "9896942627",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PASHURAM  MANJHI",
+      "name": "SUNIL  KUMAR",
+      "num": "9034128687"
+    }
+  ]
+}
