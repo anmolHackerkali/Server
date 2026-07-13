@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:11:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9483131218",
+  "records": [
+    {
+      "aadhar": "J5033993",
+      "address": "KAKILA KAKILA POST ANCHAL JAGADISHPUR BHOJPUR BIHAR 784110",
+      "alt": "7353455588",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "MISHRA",
+      "name": "SUBHAS CHANDRA  ",
+      "num": "9483131218"
+    }
+  ]
+}
