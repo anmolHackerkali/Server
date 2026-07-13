@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:54:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9727879671",
+  "records": [
+    {
+      "aadhar": "CVPPP5328A",
+      "address": "979 TALAV FALIYA ANTALIYA  navsari  navsari BILUMORA  gandevi Billimora",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "pratikp7640@gmail.com",
+      "fname": "KHAPABHAI mohanbhai PATEL",
+      "name": "PRATIK KHAPABHAI PATEL",
+      "num": "9727879671"
+    },
+    {
+      "aadhar": "CVPPP5328A",
+      "address": "979 TALAV FALIYA ANTALIYA  navsari  navsari BILUMORA  gandevi Billimora",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "pratikp7640@gmail.com",
+      "fname": "KHAPABHAI mohanbhai PATEL",
+      "name": "PRATIK KHAPABHAI PATEL",
+      "num": "9727879671"
+    }
+  ]
+}
