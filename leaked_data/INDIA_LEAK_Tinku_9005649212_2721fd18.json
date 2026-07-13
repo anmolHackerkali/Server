@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:55:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9005649212",
+  "records": [
+    {
+      "aadhar": "798461572851",
+      "address": "s/o  ram kumar!!Madhawapur!!safi pur madhwapur sirauli gauspur!madhawapur Sirauli Gauspur!bara banki!Uttar Pradesh!225205",
+      "alt": "8565565695",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram kumar",
+      "name": "Tinku",
+      "num": "9005649212"
+    },
+    {
+      "aadhar": "798461572851",
+      "address": "s/o  ram kumar!!Madhawapur!!safi pur madhwapur sirauli gauspur!madhawapur Sirauli Gauspur!bara banki!Uttar Pradesh!225205",
+      "alt": "8565565695",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram kumar",
+      "name": "Tinku",
+      "num": "9005649212"
+    },
+    {
+      "aadhar": "501195440544",
+      "address": "S/O  Ram Kailash!!Amra  Madhawapur!NA!!Amra Sirauli Gauspur Bara Banki!NA!Uttar Pradesh!225205",
+      "alt": "9005649212",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Kailash",
+      "name": "Nirmal Kumar",
+      "num": "6307114355"
+    },
+    {
+      "aadhar": "501195440544",
+      "address": "S/O  Ram Kailash!!Amra  Madhawapur!NA!!Amra Sirauli Gauspur Bara Banki!NA!Uttar Pradesh!225205",
+      "alt": "9005649212",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Kailash",
+      "name": "Nirmal Kumar",
+      "num": "6307114355"
+    }
+  ]
+}
