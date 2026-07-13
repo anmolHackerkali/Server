@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 20:16:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8016846764",
+  "records": [
+    {
+      "aadhar": "Wb23147024336",
+      "address": "0!Garden Reach Road S E Rly Comp Staff Qtr Block No 54 T /12!Calcutta!Calcutta!West Bengal!",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Salim",
+      "name": "Altaf  Hossain",
+      "num": "8016846764"
+    },
+    {
+      "aadhar": "Wb23147024336",
+      "address": "0!Garden Reach Road S E Rly Comp Staff Qtr Block No 54 T /12!Calcutta!Calcutta!West Bengal!",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Salim",
+      "name": "Altaf  Hossain",
+      "num": "8016846764"
+    }
+  ]
+}
