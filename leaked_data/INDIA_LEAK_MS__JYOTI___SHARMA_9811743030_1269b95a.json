@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 23:38:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9811743030",
+  "records": [
+    {
+      "aadhar": "329679308381",
+      "address": "W/o DK sharma!W/O B K SHARMA N2-09 GROUND FLOOR!FARIDABAD BHATOLA 115 NEAR PURI PRANAYAM!Near Puri Pranayam!SEC-84 BPTP PARK ELITE FLOORS N-BLOCK!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9811589898",
+      "circle": "VI DELHI",
+      "email": "RDAVINK@GMAIL.COM",
+      "fname": "DK Sharma",
+      "name": "MS  JYOTI   SHARMA",
+      "num": "9811743030"
+    },
+    {
+      "aadhar": "329679308381",
+      "address": "W/o DK sharma!W/O B K SHARMA N2-09 GROUND FLOOR!FARIDABAD BHATOLA 115 NEAR PURI PRANAYAM!Near Puri Pranayam!SEC-84 BPTP PARK ELITE FLOORS N-BLOCK!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9811589898",
+      "circle": "VI DELHI",
+      "email": "RDAVINK@GMAIL.COM",
+      "fname": "DK Sharma",
+      "name": "MS  JYOTI   SHARMA",
+      "num": "9811743030"
+    },
+    {
+      "aadhar": "329679308381",
+      "address": "W/o DK sharma!W/O BK SHARMA N2-09 GROUND FLOOR!FARIDABAD BHATOLA 115 NEAR PURI PRANAYAM!Near Puri Pranayam!SEC-84 BPTP PARK ELITE FLOORS N-BLOCK!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9811589898",
+      "circle": "VI DELHI",
+      "email": "RDAVINK@GMAIL.COM",
+      "fname": "DK Sharma",
+      "name": "MS JYOTI  SHARMA",
+      "num": "9811743030"
+    },
+    {
+      "aadhar": "329679308381",
+      "address": "W/o DK sharma!W/O BK SHARMA N2-09 GROUND FLOOR!FARIDABAD BHATOLA 115 NEAR PURI PRANAYAM!Near Puri Pranayam!SEC-84 BPTP PARK ELITE FLOORS N-BLOCK!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9811589898",
+      "circle": "VI DELHI",
+      "email": "RDAVINK@GMAIL.COM",
+      "fname": "DK Sharma",
+      "name": "MS JYOTI  SHARMA",
+      "num": "9811743030"
+    },
+    {
+      "aadhar": "922872345310",
+      "address": "!68 na sector 55 ballabgarh - faridabad Faridabad Haryana 121004!!!!!!!",
+      "alt": "9811743030",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "mohd yunus",
+      "name": "shakeel khan",
+      "num": "7428830309"
+    }
+  ]
+}
