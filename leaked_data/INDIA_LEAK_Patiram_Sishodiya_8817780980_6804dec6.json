@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:25:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8817780980",
+  "records": [
+    {
+      "aadhar": "556555820453",
+      "address": "S/O  Mangilal Sishodiya!!LASUDIYA BHAMA Kurawar!!gram lasudalya bhama!Lasudiya Bhama Narsinghgarh!Rajgarh!Madhya Pradesh!465667",
+      "alt": "9977804736",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Mangilal Sishodiya",
+      "name": "Patiram Sishodiya",
+      "num": "8817780980"
+    },
+    {
+      "aadhar": "556555820453",
+      "address": "S/O  Mangilal Sishodiya!!LASUDIYA BHAMA Kurawar!!gram lasudalya bhama!Lasudiya Bhama Narsinghgarh!Rajgarh!Madhya Pradesh!465667",
+      "alt": "9977804736",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Mangilal Sishodiya",
+      "name": "Patiram Sishodiya",
+      "num": "8817780980"
+    }
+  ]
+}
