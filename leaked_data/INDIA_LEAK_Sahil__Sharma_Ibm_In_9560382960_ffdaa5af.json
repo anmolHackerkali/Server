@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:28:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560382960",
+  "records": [
+    {
+      "aadhar": "Dl-11201120007908",
+      "address": "Ibm India Pvt Ltd 5th Floor Tower C Infinity Tower Dlf Phase 2 Sector 25 A Gurgaon HAR HAR 122002! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Sahshar3@in.ibm.com",
+      "fname": "Rajender Kumar Sharma",
+      "name": "Sahil  Sharma Ibm India Pvt Ltd",
+      "num": "9560382960"
+    },
+    {
+      "aadhar": "Dl11201120007908",
+      "address": "!Ibm India Pvt Ltd 5th Floor Tower C Infinity Tower Dlf Phase 2 Sector 25 A Gurgaon HAR HAR 122002!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rajender Kumar Sharma",
+      "name": "Sahil  SharmaIbm India Pvt Ltd",
+      "num": "9560382960"
+    },
+    {
+      "aadhar": "Dl11201120007908",
+      "address": "Ibm India Pvt Ltd 5th Floor Tower C Infinity Tower Dlf Phase 2 Sector 25 A Gurgaon HAR HAR 122002! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Sahshar3@in.ibm.com",
+      "fname": "Rajender Kumar Sharma",
+      "name": "Sahil  SharmaIbm India Pvt Ltd",
+      "num": "9560382960"
+    },
+    {
+      "aadhar": "Dl11201120007908",
+      "address": "Ibm India Pvt Ltd 5th Floor Tower C Infinity Tower Dlf Phase 2 Sector 25 A Gurgaon HAR HAR 122002! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Sahshar3@in.ibm.com",
+      "fname": "Rajender Kumar Sharma",
+      "name": "Sahil  SharmaIbm India Pvt Ltd",
+      "num": "9560382960"
+    }
+  ]
+}
