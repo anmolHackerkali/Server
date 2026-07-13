@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:04:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9726081578",
+  "records": [
+    {
+      "aadhar": "LPZ0992719",
+      "address": "23/ SAMARPAN TNT!GHATLODIA AHMEDABAD!NR K K NAGAR SOC!AHMEDABAD!GUJARAT!380061",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "RAMANBHAI",
+      "name": "JYOTSANABEN RAMANBHAI PRAJAPATI",
+      "num": "9726081578"
+    },
+    {
+      "aadhar": "LPZ0992719",
+      "address": "23/ SAMARPAN TNT!GHATLODIA AHMEDABAD!NR K K NAGAR SOC!AHMEDABAD!GUJARAT!380061",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "RAMANBHAI",
+      "name": "JYOTSANABEN RAMANBHAI PRAJAPATI",
+      "num": "9726081578"
+    }
+  ]
+}
