@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:51:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8720084451",
+  "records": [
+    {
+      "aadhar": "360891660984",
+      "address": "D/O Sanjay Choubey!D/O Sanjay Choubey  78/03!SARDAR PATEL MARG!Mandleshwar  Maheshwar !MANDLESHWAR-KHARGONE!MP!451221",
+      "alt": "9407184363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "DO SANJAY CHOUBEY ",
+      "name": "SHREEM CHOUBEY",
+      "num": "8720084451"
+    }
+  ]
+}
