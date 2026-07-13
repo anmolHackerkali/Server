@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:17:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7384610762",
+  "records": [
+    {
+      "aadhar": "477935803099",
+      "address": "!No!West Bengal!!Sonakania!Purba Medinipur!WEST MIDNAPORE!West Bengal!721426",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Ramprit Chouhan",
+      "name": "Lila Devi",
+      "num": "7384610762"
+    },
+    {
+      "aadhar": "477935803099",
+      "address": "!No!West Bengal!!Sonakania!Purba Medinipur!WEST MIDNAPORE!West Bengal!721426",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Ramprit Chouhan",
+      "name": "Lila Devi",
+      "num": "7384610762"
+    }
+  ]
+}
