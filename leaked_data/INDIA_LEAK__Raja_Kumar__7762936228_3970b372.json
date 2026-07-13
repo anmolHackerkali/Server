@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:31:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7762936228",
+  "records": [
+    {
+      "aadhar": "463245671248",
+      "address": " Gopal Road!vishahri sthan!Vishari Sthan!Sultanganj Sultanganj!Bhagalpur!Bhagalpur!Bihar!813213 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Yadav ",
+      "name": " Raja Kumar ",
+      "num": "7762936228"
+    },
+    {
+      "aadhar": "463245671248",
+      "address": " Gopal Road!vishahri sthan!Vishari Sthan!Sultanganj Sultanganj!Bhagalpur!Bhagalpur!Bihar!813213 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Yadav ",
+      "name": " Raja Kumar ",
+      "num": "7762936228"
+    }
+  ]
+}
