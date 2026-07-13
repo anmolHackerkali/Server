@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:23:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7226876323",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "8!Prestige Bunglows CTM Cross Roads!Amraiwadi Ahmedabad!CTM Cross Roads!AHMEDABAD!Ahmedabad!Gujarat!380026",
+      "alt": "8238248999",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "D/O  Vinod",
+      "name": "Jogi Nittal",
+      "num": "7226876323"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Vinod!8!Prestige Bunglows CTM Cross Roads!Amraiwadi Ahmedabad!CTM Cross Roads!AHMEDABAD!Ahmedabad!Gujarat!380026",
+      "alt": "8238248999",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "D/O Vinod",
+      "name": "Jogi Nittal",
+      "num": "7226876323"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Vinod!8!Prestige Bunglows CTM Cross Roads!Amraiwadi Ahmedabad!CTM Cross Roads!AHMEDABAD!Ahmedabad!Gujarat!380026",
+      "alt": "8238248999",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "D/O Vinod",
+      "name": "Jogi Nittal",
+      "num": "7226876323"
+    }
+  ]
+}
