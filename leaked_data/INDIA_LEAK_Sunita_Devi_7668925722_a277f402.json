@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:10:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7668925722",
+  "records": [
+    {
+      "aadhar": "673167935780",
+      "address": "W/O Virendra Kumar!Igrah!sahaspuri!Igrah!Thakur dwara!Moradabad!Moradabad!Uttar Pradesh!244401",
+      "alt": "8859663752",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Virendra Kumar",
+      "name": "Sunita Devi",
+      "num": "7668925722"
+    },
+    {
+      "aadhar": "673167935780",
+      "address": "W/O Virendra Kumar!Igrah!sahaspuri!Igrah!Thakur dwara!Moradabad!Moradabad!Uttar Pradesh!244401",
+      "alt": "8859663752",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Virendra Kumar",
+      "name": "Sunita Devi",
+      "num": "7668925722"
+    }
+  ]
+}
