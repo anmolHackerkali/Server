@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:47:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9989276440",
+  "records": [
+    {
+      "aadhar": "283323078816",
+      "address": "nill!kallakal!kallakal!manoharabad!Medak!Medak!Telangana!502336",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Ramvilas Mukhiya",
+      "name": "Bhupendra Kumar",
+      "num": "9989276440"
+    }
+  ]
+}
