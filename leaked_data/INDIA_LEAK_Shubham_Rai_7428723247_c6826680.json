@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:22:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7428723247",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!3!1!chetna hospitalhans enclave!GurgaonGurugram!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vijay Shankar Rai",
+      "name": "Shubham Rai",
+      "num": "7428723247"
+    },
+    {
+      "aadhar": null,
+      "address": "!3!1!chetna hospitalhans enclave!GurgaonGurugram!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vijay Shankar Rai",
+      "name": "Shubham Rai",
+      "num": "7428723247"
+    },
+    {
+      "aadhar": "246554749854",
+      "address": "S/O Jai Pal Sharma!B-76 B-Block!Gali No-1 Mukhmelpur!!Keshav Nagar!Ibrahim Pur Narela!North West Delhi!Delhi!110036",
+      "alt": "7428723247",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jai Pal Sharma",
+      "name": "Aman Sharma",
+      "num": "9971081408"
+    },
+    {
+      "aadhar": "272691839527",
+      "address": "Ujjagar Singh!SO Ujjagar Singh Nizampur Ludhiana Punjab 141413!SO Ujjagar Singh Nizampur Ludhiana Punjab 141413school!school!maloudh roadLUDHIANA!LUDHIANA!LUDHIANA!PUNJAB!141413",
+      "alt": "7428723247",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Ujjagar Singh",
+      "name": "BALWINDER SINGH",
+      "num": "7973888424"
+    },
+    {
+      "aadhar": "246554749854",
+      "address": "S/O Jai Pal Sharma!B-76 B-Block!Gali No-1Mukhmelpur!!Keshav Nagar!Ibrahim PurNarela!North West Delhi!Delhi!110036",
+      "alt": "7428723247",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jai Pal Sharma",
+      "name": "Aman Sharma",
+      "num": "9971081408"
+    },
+    {
+      "aadhar": "XXXXXXXX8372",
+      "address": "- -;- -;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "HEMANTA MANDAL",
+      "name": "KARTIK MANDAL  ",
+      "num": "9531721098"
+    },
+    {
+      "aadhar": "XXXXXXXX5646",
+      "address": "- -;GUDARTOLA Janakiramtola;Paschim Narayanpur;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "KRISHNA MANDAL",
+      "name": "MANJO MANDAL  ",
+      "num": "9531721048"
+    },
+    {
+      "aadhar": "XXXXXXXX0080",
+      "address": "ugritola;Manikchak Manikchak;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "ISRAPIL MIA",
+      "name": "JABUL ALI",
+      "num": "9531712565"
+    },
+    {
+      "aadhar": "XXXXXXXX9605",
+      "address": "kariasultanpur;sonapur Manikchak;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "IDRISH",
+      "name": "MD SAFIK",
+      "num": "9531712568"
+    },
+    {
+      "aadhar": "XXXXXXXX3230",
+      "address": "Kariasultanpur KARIA SULTANPUR;Manikchak Manikchak;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "KADIR MIA",
+      "name": "MINTARA BIBI",
+      "num": "9475208688"
+    },
+    {
+      "aadhar": "246554749854",
+      "address": "S/O Jai Pal Sharma!B-76 B-Block!Gali No-1Mukhmelpur!!Keshav Nagar!Ibrahim PurNarela!North West Delhi!Delhi!110036",
+      "alt": "7428723247",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jai Pal Sharma",
+      "name": "Aman Sharma",
+      "num": "9971081408"
+    },
+    {
+      "aadhar": "XXXXXXXX8372",
+      "address": "- -;- -;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "HEMANTA MANDAL",
+      "name": "KARTIK MANDAL  ",
+      "num": "9531721098"
+    },
+    {
+      "aadhar": "XXXXXXXX5646",
+      "address": "- -;GUDARTOLA Janakiramtola;Paschim Narayanpur;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "KRISHNA MANDAL",
+      "name": "MANJO MANDAL  ",
+      "num": "9531721048"
+    },
+    {
+      "aadhar": "XXXXXXXX0080",
+      "address": "ugritola;Manikchak Manikchak;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "ISRAPIL MIA",
+      "name": "JABUL ALI",
+      "num": "9531712565"
+    },
+    {
+      "aadhar": "XXXXXXXX9605",
+      "address": "kariasultanpur;sonapur Manikchak;Manikchak;Malda;WEST BENGAL;732202",
+      "alt": "7428723247",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "IDRISH",
+      "name": "MD SAFIK",
+      "num": "9531712568"
+    }
+  ]
+}
