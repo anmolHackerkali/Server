@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:02:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9901640672",
+  "records": [
+    {
+      "aadhar": "226708294812",
+      "address": "!123 1 b ward no 2!a k colony!Karnataka!channarayapatna!Hassan!Hassan!Karnataka!573116",
+      "alt": "9740039524",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Nanjaiah c",
+      "name": "Manjunatha CN",
+      "num": "9901640672"
+    }
+  ]
+}
