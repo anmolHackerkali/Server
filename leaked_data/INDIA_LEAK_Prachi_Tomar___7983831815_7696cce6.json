@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:35:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7983831815",
+  "records": [
+    {
+      "aadhar": "563282774466",
+      "address": "d/o  vinod singh tomar!!Baisolighat!!bajunagar baisolighat!baisoli ghatBharthana!etawah!Uttar Pradesh!206126",
+      "alt": "8997083119",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "vinod singh tomar",
+      "name": "Prachi Tomar  ",
+      "num": "7983831815"
+    },
+    {
+      "aadhar": "563282774466",
+      "address": "d/o  vinod singh tomar!!Baisolighat!!bajunagar baisolighat!baisoli ghat Bharthana!etawah!Uttar Pradesh!206126",
+      "alt": "8997083119",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod singh tomar",
+      "name": "Prachi Tomar",
+      "num": "7983831815"
+    },
+    {
+      "aadhar": "563282774466",
+      "address": "d/o  vinod singh tomar!!Baisolighat!!bajunagar baisolighat!baisoli ghat Bharthana!etawah!Uttar Pradesh!206126",
+      "alt": "8997083119",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod singh tomar",
+      "name": "Prachi Tomar",
+      "num": "7983831815"
+    }
+  ]
+}
