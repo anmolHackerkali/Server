@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:50:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560959924",
+  "records": [
+    {
+      "aadhar": "547040257802",
+      "address": "!C- 33 C!NAJAFGARH!GOPAL NAGARNAJAFGARH Najafgarh!Najafgarh!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dilbagh  singh",
+      "name": "RAHUL",
+      "num": "9560959924"
+    },
+    {
+      "aadhar": "547040257802",
+      "address": "!C- 33 C!NAJAFGARH!GOPAL NAGARNAJAFGARHNajafgarh!Najafgarh!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dilbagh  singh",
+      "name": "RAHUL",
+      "num": "9560959924"
+    },
+    {
+      "aadhar": "547040257802",
+      "address": "!C- 33 C!NAJAFGARH!GOPAL NAGARNAJAFGARHNajafgarh!Najafgarh!Delhi!110043",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dilbagh  singh",
+      "name": "RAHUL",
+      "num": "9560959924"
+    },
+    {
+      "aadhar": "547040257802",
+      "address": "S/O DILBAGH SINGH! house no C- 33 C!NAJAFGARH gopal nagar Najafgarh!!NAJAFGARH!Najafgarh!Najafgarh!Delhi!110043",
+      "alt": "9560959924",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "DILBAGH SINGH",
+      "name": "RAHUL",
+      "num": "8595561255"
+    },
+    {
+      "aadhar": "547040257802",
+      "address": "S/O DILBAGH SINGH!house no C- 33 C!NAJAFGARH gopal nagarNajafgarh!!NAJAFGARH!Najafgarh!Najafgarh!Delhi!110043",
+      "alt": "9560959924",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "DILBAGH SINGH",
+      "name": "RAHUL",
+      "num": "8595561255"
+    },
+    {
+      "aadhar": "547040257802",
+      "address": "S/O DILBAGH SINGH!house no C- 33 C!NAJAFGARH gopal nagarNajafgarh!!NAJAFGARH!Najafgarh!Najafgarh!Delhi!110043",
+      "alt": "9560959924",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "DILBAGH SINGH",
+      "name": "RAHUL",
+      "num": "8595561255"
+    }
+  ]
+}
