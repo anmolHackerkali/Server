@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:42:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206345320",
+  "records": [
+    {
+      "aadhar": "371809363077",
+      "address": "S/O  Bikrama Singh!!Mohlla-takiya bazar  Takia Mohlla-takiya bazar Takia Bazar!NA!!Takia Sasaram Rohtas!NA!Bihar!821113",
+      "alt": "9708041294",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bikrama Singh",
+      "name": "Abhilash Kumar",
+      "num": "6206345320"
+    },
+    {
+      "aadhar": "371809363077",
+      "address": "S/O  Bikrama Singh!!Mohlla-takiya bazar  Takia Mohlla-takiya bazar Takia Bazar!NA!!Takia Sasaram Rohtas!NA!Bihar!821113",
+      "alt": "9708041294",
+      "circle": "JIO BHR&JHR",
+      "email": "kumarabhilash1992@gmail.com",
+      "fname": "Bikrama Singh",
+      "name": "Abhilash Kumar",
+      "num": "6206345320"
+    },
+    {
+      "aadhar": "371809363077",
+      "address": "S/O  Bikrama Singh!!Mohlla-takiya bazar  Takia Mohlla-takiya bazar Takia Bazar!NA!!Takia Sasaram Rohtas!NA!Bihar!821113",
+      "alt": "9708041294",
+      "circle": "JIO BHR&JHR",
+      "email": "kumarabhilash1992@gmail.com",
+      "fname": "Bikrama Singh",
+      "name": "Abhilash Kumar",
+      "num": "6206345320"
+    }
+  ]
+}
