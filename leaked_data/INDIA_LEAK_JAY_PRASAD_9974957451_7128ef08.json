@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:00:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9974957451",
+  "records": [
+    {
+      "aadhar": "238585718580",
+      "address": "JUNCTION CO OP!SOCIETY STREET NO 6!RAJKOT!RAJKOT!Gujarat!360001",
+      "alt": "9510527305",
+      "circle": "VI GUJARAT",
+      "email": "disha.patel.v@gmail.com",
+      "fname": "SURESHBHAI",
+      "name": "JAY PRASAD",
+      "num": "9974957451"
+    },
+    {
+      "aadhar": "238585718580",
+      "address": "JUNCTION CO OP!SOCIETY STREET NO 6!RAJKOT!RAJKOT!Gujarat!360001",
+      "alt": "9510527305",
+      "circle": "VI GUJARAT",
+      "email": "disha.patel.v@gmail.com",
+      "fname": "SURESHBHAI",
+      "name": "JAY PRASAD",
+      "num": "9974957451"
+    },
+    {
+      "aadhar": "238585718580",
+      "address": "JUNCTION CO OP!SOCIETY STRET NO 6!SINDHI HALL!RAJKOT!Gujarat!360001",
+      "alt": "9974957451",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "SURESHBHAI",
+      "name": "JAY PRASAD",
+      "num": "9510527305"
+    },
+    {
+      "aadhar": "238585718580",
+      "address": "JUNCTION CO OP!SOCIETY STRET NO 6!SINDHI HALL!RAJKOT!Gujarat!360001",
+      "alt": "9974957451",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "SURESHBHAI",
+      "name": "JAY PRASAD",
+      "num": "9510527305"
+    }
+  ]
+}
