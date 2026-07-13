@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:25:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9063639063",
+  "records": [
+    {
+      "aadhar": "483369038120",
+      "address": "S/O P BATTHI NAIDU!19 - 8 - 113A1  R C ROAD !Yadava colony  Tirupatiurban!Tirupatiurban!Tirupati CHITTOOR!TIRUPATI!CHITTOOR!Andhra Pradesh!517501",
+      "alt": "9063639063",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "p Batthi Naidu",
+      "name": "MR P SUNIL",
+      "num": "9640740413"
+    },
+    {
+      "aadhar": "483369038120",
+      "address": "S/O P Batthi Naidu!19 -8 -113A1!R c Road tirupati tirupati urban!tirupati tirupati urban!Yadava Colony Tirupati Chittoor!CHITTOOR!Chittoor!Andhra Pradesh!517501",
+      "alt": "9063639063",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "P Batthi Naidu",
+      "name": "MR P SUNIL",
+      "num": "9052048978"
+    }
+  ]
+}
