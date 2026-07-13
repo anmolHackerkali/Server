@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:30:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9720020970",
+  "records": [
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!malyana!SHAKTI NAGAR  MERRUT!shakti nagar merrut!meerutMeerut!meerut!Uttar Pradesh!250002",
+      "alt": "9808810771",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "jaswant singh",
+      "name": "Nitin Singh  ",
+      "num": "9720020970"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Ishvar Pal!!tirpari!nakur!Tirpari Saharanpur!Uttar Pradesh!247342",
+      "alt": "919027946826",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ishvar pal",
+      "name": "Himanshi Devi",
+      "num": "9720020970"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Ishvar Pal!!tirpari!nakur!Tirpari Saharanpur!Uttar Pradesh!247342",
+      "alt": "919027946826",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ishvar pal",
+      "name": "Himanshi Devi",
+      "num": "9720020970"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh  ",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": "NITINSINGH4R@GMAIL.COM",
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "901442609093",
+      "address": "!22 tirpari!tiipari!Nakur!Nakur!Saharanpur!Saharanpur!Uttar Pradesh!247342",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ishvar pal",
+      "name": "Himanshi Devi",
+      "num": "9759544789"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": "NITINSINGH4R@GMAIL.COM",
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "901442609093",
+      "address": "!22 tirpari!tiipari!Nakur!Nakur!Saharanpur!Saharanpur!Uttar Pradesh!247342",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ishvar pal",
+      "name": "Himanshi Devi",
+      "num": "9759544789"
+    }
+  ]
+}
