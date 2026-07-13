@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:51:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389113037",
+  "records": [
+    {
+      "aadhar": "874068608019",
+      "address": "S/O  Jalil Ahamad!533!NAI ABADIHapur!!HAPUR!HapurHapur!Hapur!Uttar Pradesh!245101",
+      "alt": "8218573494",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jalil Ahamad",
+      "name": "Intakhab Alam",
+      "num": "9389113037"
+    },
+    {
+      "aadhar": "874068608019",
+      "address": "S/O  Jalil Ahamad! 533!NAI ABADI Hapur!!HAPUR!Hapur Hapur!Hapur!Uttar Pradesh!245101",
+      "alt": "8218573494",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jalil Ahamad",
+      "name": "Intakhab Alam",
+      "num": "9389113037"
+    },
+    {
+      "aadhar": "874068608019",
+      "address": "S/O  Jalil Ahamad! 533!NAI ABADI Hapur!!HAPUR!Hapur Hapur!Hapur!Uttar Pradesh!245101",
+      "alt": "8218573494",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jalil Ahamad",
+      "name": "Intakhab Alam",
+      "num": "9389113037"
+    }
+  ]
+}
