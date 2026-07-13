@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:41:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8102636322",
+  "records": [
+    {
+      "aadhar": "871006934983",
+      "address": "0 0 Kalatalav Nirmacolony Vallbhipur",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vado Chauhan",
+      "name": "Dip Chauhan",
+      "num": "8102636322"
+    },
+    {
+      "aadhar": "871006934983",
+      "address": "0 0 Kalatalav Nirmacolony Vallbhipur",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vado Chauhan",
+      "name": "Dip Chauhan",
+      "num": "8102636322"
+    },
+    {
+      "aadhar": "362086326015",
+      "address": "S/O: Ravendra Singh!Dadheda .!Dadheda .!Dadheda .!Jhagadia . BHARUCH!AMALZAR!BHARUCH!Gujarat!393110",
+      "alt": "8102636322",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Ravendra Singh Chauhan",
+      "name": "MR SAURAV CHAUHAN",
+      "num": "7622911201"
+    },
+    {
+      "aadhar": "362086326015",
+      "address": "S/O: Ravendra Singh!Dadheda .!Dadheda .!Dadheda .!Jhagadia . BHARUCH!AMALZAR!BHARUCH!Gujarat!393110",
+      "alt": "8102636322",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Ravendra Singh Chauhan",
+      "name": "MR SAURAV CHAUHAN",
+      "num": "7622911201"
+    }
+  ]
+}
