@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:15:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896948127",
+  "records": [
+    {
+      "aadhar": "Zvf0313874",
+      "address": "Asian Plywood Jorian  Jagadhri  Yamuna Nagar Haryana 135001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "Amerika  Mazi",
+      "name": "Paras  Mazi",
+      "num": "9896948127"
+    },
+    {
+      "aadhar": "Zvf0313874",
+      "address": "Asian Plywood!Jorian!Jagadhri!Yamuna Nagar!Haryana!135001",
+      "alt": "9896779473",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "Amerika  Mazi",
+      "name": "Paras  Mazi",
+      "num": "9896948127"
+    },
+    {
+      "aadhar": "726793661416",
+      "address": "S/O AMERICA MANJHI!WARD NO 17!!MUMIDIAURANGABAD 475  AURANGABADJAGADHRI!YAMUNA NAGAR!HARYANA!135001",
+      "alt": "9896948127",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "AMERICA  MANJHI",
+      "name": "PARAS  MANJHI",
+      "num": "9896779473"
+    }
+  ]
+}
