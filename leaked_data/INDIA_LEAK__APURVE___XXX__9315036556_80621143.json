@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:57:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315036556",
+  "records": [
+    {
+      "aadhar": " 763782 ",
+      "address": " 772  SHYAM SUNDER PURI  JAGADHRI  YAMUNA NAGAR  HARYANA  135003 ",
+      "alt": " 9467769988 ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " PARVEEN  KUMAR ",
+      "name": " APURVE   XXX ",
+      "num": "9315036556"
+    }
+  ]
+}
