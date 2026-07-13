@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:42:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9174134889",
+  "records": [
+    {
+      "aadhar": "842684913318",
+      "address": "S/O Raghunath Sharma!Gram. nogaon!Gram. nogaon Gram. nogaon!Gram. nogaon!Gram. nogaon MORENA!MORENA!MORENA!Madhya Pradesh!476444",
+      "alt": "9926460106",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Raghunath",
+      "name": "MR VINOD SHARMA",
+      "num": "9174134889"
+    }
+  ]
+}
