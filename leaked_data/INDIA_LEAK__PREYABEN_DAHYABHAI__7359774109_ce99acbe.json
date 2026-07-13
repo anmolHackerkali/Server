@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:53:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7359774109",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " D/O  Dahyabhai Patel  340 naliyeri mahollo  vankal Vankal chikhli  Chikhli mota faliya VANKAL-NAVSARI GJ 396325 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " PREYABEN DAHYABHAI PATEL ",
+      "num": "7359774109"
+    },
+    {
+      "aadhar": "891634890593",
+      "address": "D/O: Dahyabhai Patel!D/O: Dahyabhai Patel  340!naliyeri mahollo  vankal!Vankal chikhli  Chikhli mota faliya!VANKAL-NAVSARI!GJ!396325",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "DO DAHYABHAI Dahyabhai PATEL",
+      "name": "PREYABEN DAHYABHAI PATEL",
+      "num": "7359774109"
+    },
+    {
+      "aadhar": "891634890593",
+      "address": "D/O: Dahyabhai Patel!D/O: Dahyabhai Patel  340!naliyeri mahollo  vankal!Vankal chikhli  Chikhli mota faliya!VANKAL-NAVSARI!GJ!396325",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "DO DAHYABHAI Dahyabhai PATEL",
+      "name": "PREYABEN DAHYABHAI PATEL",
+      "num": "7359774109"
+    },
+    {
+      "aadhar": null,
+      "address": " D/O  Dahyabhai Patel  340 naliyeri mahollo  vankal Vankal chikhli  Chikhli mota faliya VANKAL-NAVSARI GJ 396325 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " PREYABEN DAHYABHAI PATEL ",
+      "num": "7359774109"
+    }
+  ]
+}
