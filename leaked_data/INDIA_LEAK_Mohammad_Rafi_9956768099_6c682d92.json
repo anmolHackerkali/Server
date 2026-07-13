@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 13:06:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956768099",
+  "records": [
+    {
+      "aadhar": "241116116378",
+      "address": "!66!Gosai Ki Baazaar!!Khundanpur!Azamgarh!Azamgarh!Uttar Pradesh!276202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Abdullah",
+      "name": "Mohammad Rafi",
+      "num": "9956768099"
+    },
+    {
+      "aadhar": "241116116378",
+      "address": "!66!Gosai Ki Baazaar!!Khundanpur!Azamgarh!Azamgarh!Uttar Pradesh!276202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Abdullah",
+      "name": "Mohammad Rafi",
+      "num": "9956768099"
+    },
+    {
+      "aadhar": "632525887014",
+      "address": "W/O  Abdulah! 15!GOSAI KI BAZAAR!BHOPAL PUR!khundanpur!Khundanpur!Azamgarh!Uttar Pradesh!276202",
+      "alt": "9956768099",
+      "circle": "JIO UPE",
+      "email": "mrk0666806@gmail.com",
+      "fname": "Abdulah",
+      "name": "Ayasha",
+      "num": "9369069120"
+    },
+    {
+      "aadhar": "632525887014",
+      "address": "W/O  Abdulah! 15!GOSAI KI BAZAAR!BHOPAL PUR!khundanpur!Khundanpur!Azamgarh!Uttar Pradesh!276202",
+      "alt": "9956768099",
+      "circle": "JIO UPE",
+      "email": "mrk0666806@gmail.com",
+      "fname": "Abdulah",
+      "name": "Ayasha",
+      "num": "9369069120"
+    }
+  ]
+}
