@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 23:56:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625377113",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Pradeep Kumar!!House no .M C F 1583 Gali NO .47!SANJAY COLONY SECTER 23!Faridabad Sector 22 Faridabad!Haryana!121005",
+      "alt": "919910715402",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pradeep Kumar",
+      "name": "Rahul Bhatt",
+      "num": "9625377113"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Pradeep Kumar!!House no M C F 1583Gali NO 47!SANJAY COLONY SECTER 23!Faridabad Sector 22Faridabad!Haryana!121005",
+      "alt": "919910715402",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pradeep Kumar",
+      "name": "Rahul Bhatt",
+      "num": "9625377113"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Pradeep Kumar!!House no M C F 1583Gali NO 47!SANJAY COLONY SECTER 23!Faridabad Sector 22Faridabad!Haryana!121005",
+      "alt": "919910715402",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Pradeep Kumar",
+      "name": "Rahul Bhatt",
+      "num": "9625377113"
+    }
+  ]
+}
