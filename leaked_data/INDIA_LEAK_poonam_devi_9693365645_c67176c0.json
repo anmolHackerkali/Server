@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:30:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693365645",
+  "records": [
+    {
+      "aadhar": "712691216821",
+      "address": "!!00 chainpur!NA!hathua!Siwan gopalganj Siwan!NA!Bihar!841243",
+      "alt": "8002922845",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "mritunjay singh",
+      "name": "poonam devi",
+      "num": "9693365645"
+    },
+    {
+      "aadhar": "712691216821",
+      "address": "!!00 chainpur!NA!hathua!Siwan gopalganj Siwan!NA!Bihar!841243",
+      "alt": "8002922845",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mritunjay singh",
+      "name": "poonam devi",
+      "num": "9693365645"
+    },
+    {
+      "aadhar": "712691216821",
+      "address": "!!00 chainpur!NA!hathua!Siwan gopalganj Siwan!NA!Bihar!841243",
+      "alt": "8002922845",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mritunjay singh",
+      "name": "poonam devi",
+      "num": "9693365645"
+    }
+  ]
+}
