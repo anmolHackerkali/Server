@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:00:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7983134831",
+  "records": [
+    {
+      "aadhar": "304967341491",
+      "address": "S/O: Chiddan!!125Ghair Sarabdal Khan!!Rampur CityRampur!Uttar Pradesh!244901",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Chiddan",
+      "name": "Naim",
+      "num": "7983134831"
+    },
+    {
+      "aadhar": "670129886726",
+      "address": "W/O  Ramdev!!Karas!!daultabad karas!Daulatabad Iglas!Aligarh!Uttar Pradesh!204101",
+      "alt": "7983931641",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramdev",
+      "name": "Arati Devi",
+      "num": "7983134831"
+    },
+    {
+      "aadhar": "670129886726",
+      "address": "W/O  Ramdev!!Karas!!daultabad karas!Daulatabad Iglas!Aligarh!Uttar Pradesh!204101",
+      "alt": "7983931641",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramdev",
+      "name": "Arati Devi",
+      "num": "7983134831"
+    }
+  ]
+}
