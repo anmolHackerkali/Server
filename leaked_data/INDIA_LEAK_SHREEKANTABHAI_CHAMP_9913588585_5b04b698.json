@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:40:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9913588585",
+  "records": [
+    {
+      "aadhar": "BMS2452373",
+      "address": "ATPO-VYARA  274  DADRI FALIYU!OLD PATEROL PUMP  TA-VYARA DI-SURAT!!BARDOLI!GUJARAT!394650",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "CHAMPAKBHAI CHAUDHARI",
+      "name": "SHREEKANTABHAI CHAMPAKBHAI CHAUDHARI ",
+      "num": "9913588585"
+    },
+    {
+      "aadhar": "BMS2452373",
+      "address": "ATPO-VYARA  274  DADRI FALIYU!OLD PATEROL PUMP  TA-VYARA DI-SURAT!!BARDOLI!GUJARAT!394650",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "CHAMPAKBHAI CHAUDHARI",
+      "name": "SHREEKANTABHAI CHAMPAKBHAI CHAUDHARI ",
+      "num": "9913588585"
+    }
+  ]
+}
