@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:49:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7321812161",
+  "records": [
+    {
+      "aadhar": "541901259090",
+      "address": "s/o  ashok kumar!!Sarmera!!vill - gopalbad sarmera!sarmera Sarmera!nalanda!Bihar!811104",
+      "alt": "9113174208",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Kunal Kumar",
+      "num": "7321812161"
+    },
+    {
+      "aadhar": "541901259090",
+      "address": "s/o  ashok kumar!!Sarmera!!vill.- gopalbad sarmera!sarmera Sarmera!nalanda!Bihar!811104",
+      "alt": "9113174208",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Kunal Kumar",
+      "num": "7321812161"
+    },
+    {
+      "aadhar": "541901259090",
+      "address": "s/o  ashok kumar!!Sarmera!!vill.- gopalbad sarmera!sarmera Sarmera!nalanda!Bihar!811104",
+      "alt": "9113174208",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Kunal Kumar",
+      "num": "7321812161"
+    }
+  ]
+}
