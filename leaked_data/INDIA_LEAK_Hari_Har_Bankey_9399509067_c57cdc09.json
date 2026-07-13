@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:40:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9399509067",
+  "records": [
+    {
+      "aadhar": "848388617886",
+      "address": "S/O Braj Kishore Bankey!!!!Sukhras Harda!Madhya Pradesh!461331",
+      "alt": "919977975500",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Braj Kishore Bankey",
+      "name": "Hari Har Bankey",
+      "num": "9399509067"
+    }
+  ]
+}
