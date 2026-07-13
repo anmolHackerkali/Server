@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:22:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931832590",
+  "records": [
+    {
+      "aadhar": "656083182491",
+      "address": " GOKULPUR!POST BASNIYWAN!HARNAUT!CHAURIA NALANDA!Nalanda!Nalanda!Bihar!803110 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajkumar Ram ",
+      "name": " Avinash Kumar ",
+      "num": "9931832590"
+    },
+    {
+      "aadhar": "656083182491",
+      "address": " GOKULPUR!POST BASNIYWAN!HARNAUT!CHAURIA NALANDA!Nalanda!Nalanda!Bihar!803110 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajkumar Ram ",
+      "name": " Avinash Kumar ",
+      "num": "9931832590"
+    }
+  ]
+}
