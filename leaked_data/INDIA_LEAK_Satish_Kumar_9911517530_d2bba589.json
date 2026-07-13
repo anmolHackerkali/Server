@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:00:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911517530",
+  "records": [
+    {
+      "aadhar": "254448427383",
+      "address": "!!RZK-2/38 Nihal Vihar nangloi jat Nr. B.R Public school!NA!West Delhi!New Delhi West West!NA!Delhi!110041",
+      "alt": "8178096904",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "9911517530"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "!!RZK-2/38Nihal Vihar nangloi jatNr BR Public school!NA!West Delhi!New Delhi WestWest!NA!Delhi!110041",
+      "alt": "8178096904",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "9911517530"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "!!RZK-2/38Nihal Vihar nangloi jatNr BR Public school!NA!West Delhi!New Delhi WestWest!NA!Delhi!110041",
+      "alt": "8178096904",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "9911517530"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "S/O Suresh Kumar!!RZK-2/38 Nihal Vihar Nangloi!NA!!Nangloi Jat Punjabi Bagh West Delhi!NA!Delhi!110041",
+      "alt": "9911517530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "7827704858"
+    },
+    {
+      "aadhar": " 254448427383 ",
+      "address": "S/O Suresh Kumar ! RZK-2/38 ! Nihal Vihar !  ! Nihal ViharWEST DELHI ! DELHI ! WEST DELHI ! Delhi ! 110041",
+      "alt": "9911517530",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "MR. SATISH KUMAR",
+      "num": "7292093649"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "S/O Suresh Kumar!!RZK-2/38Nihal ViharNangloi!NA!!Nangloi JatPunjabi BaghWest Delhi!NA!Delhi!110041",
+      "alt": "9911517530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "7827704858"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "S/O Suresh Kumar ! RZK-2/38 ! Nihal Vihar !  ! Nihal ViharWEST DELHI ! DELHI ! WEST DELHI ! Delhi ! 110041",
+      "alt": "9911517530",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "MR SATISH KUMAR",
+      "num": "7292093649"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "S/O Suresh Kumar!!RZK-2/38Nihal ViharNangloi!NA!!Nangloi JatPunjabi BaghWest Delhi!NA!Delhi!110041",
+      "alt": "9911517530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Suresh Kumar",
+      "name": "Satish Kumar",
+      "num": "7827704858"
+    },
+    {
+      "aadhar": "254448427383",
+      "address": "S/O Suresh Kumar ! RZK-2/38 ! Nihal Vihar !  ! Nihal ViharWEST DELHI ! DELHI ! WEST DELHI ! Delhi ! 110041",
+      "alt": "9911517530",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Suresh",
+      "name": "MR SATISH KUMAR",
+      "num": "7292093649"
+    }
+  ]
+}
