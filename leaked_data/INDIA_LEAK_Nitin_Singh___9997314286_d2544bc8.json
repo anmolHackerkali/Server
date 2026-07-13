@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:18:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9997314286",
+  "records": [
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh  ",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": "NITINSINGH4R@GMAIL.COM",
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!Shakti nagar!!shakti nagar merrut!meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9720020970",
+      "circle": "JIO UPE UPW",
+      "email": "NITINSINGH4R@GMAIL.COM",
+      "fname": "Jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9997314286"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "!931/1!malyana!SHAKTI NAGAR  MERRUT!shakti nagar merrut!meerutMeerut!meerut!Uttar Pradesh!250002",
+      "alt": "9997314286",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "jaswant singh",
+      "name": "Nitin Singh  ",
+      "num": "9808810771"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "! 931/1!  malyana!SHAKTI NAGAR  MERRUT!shakti nagar merrut!meerut Meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9997314286",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9808810771"
+    },
+    {
+      "aadhar": "520500105190",
+      "address": "! 931/1!  malyana!SHAKTI NAGAR  MERRUT!shakti nagar merrut!meerut Meerut!meerut!Uttar Pradesh!250002",
+      "alt": "9997314286",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "jaswant singh",
+      "name": "Nitin Singh",
+      "num": "9808810771"
+    }
+  ]
+}
