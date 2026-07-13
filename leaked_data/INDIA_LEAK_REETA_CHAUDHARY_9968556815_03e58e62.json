@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 23:57:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9968556815",
+  "records": [
+    {
+      "aadhar": "xxxx-xxxx-1814",
+      "address": "W/O  Anil Kumar!W/O  Anil Kumar161!chipiyana bujurg! RAM SHYAM enclave!CHIPYANA BUZURG-Gautam Buddha Nagar!UP!201009",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ANIL KUMAR",
+      "name": "REETA CHAUDHARY",
+      "num": "9968556815"
+    },
+    {
+      "aadhar": "xxxxxxxx1814",
+      "address": "W/O: Anil Kumar!W/O: Anil Kumar161!chipiyana bujurg!RAM SHYAM enclave!CHIPYANA BUZURG-Gautam Buddha Nagar!UP!201009",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ANIL KUMAR",
+      "name": "REETACHAUDHARY",
+      "num": "9968556815"
+    },
+    {
+      "aadhar": "xxxxxxxx1814",
+      "address": "W/O: Anil Kumar!W/O: Anil Kumar161!chipiyana bujurg!RAM SHYAM enclave!CHIPYANA BUZURG-Gautam Buddha Nagar!UP!201009",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ANIL KUMAR",
+      "name": "REETACHAUDHARY",
+      "num": "9968556815"
+    }
+  ]
+}
