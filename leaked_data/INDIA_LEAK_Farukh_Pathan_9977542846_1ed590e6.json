@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:52:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9977542846",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Inayad!.!. chogavan!chogavan Khargone!chogavan!KHARGONE!Khargone!Madhya Pradesh!451225",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Inayad",
+      "name": "Farukh Pathan",
+      "num": "9977542846"
+    },
+    {
+      "aadhar": null,
+      "address": " 166 nandara  Nandra Khargone  Madhya Pradesh 451225",
+      "alt": "9977542846",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Nanuram",
+      "name": "Kusunm Bai",
+      "num": "9826742545 "
+    },
+    {
+      "aadhar": "506658052328",
+      "address": "!  98  RAJENDRA BABU MARG  PURANE JAIN O MANDIR KE PAS  WARD NUMBER 6  E MANDLESHWAR  KHARGONE!PAS  WARD NUMBER 6  E MANDLESHWAR  KHARGONE PAS  WARD NUMBER 6  E MANDLESHWAR  KHARGONE!PAS  WARD NUMBER ",
+      "alt": "9977542846",
+      "circle": "VI MP",
+      "email": "barche.ak@gmail.com",
+      "fname": "AVINASH KUMAR BARCHE",
+      "name": "MR AVINASH KUMAR BARCHE",
+      "num": "8562003740"
+    }
+  ]
+}
