@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:53:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953176983",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "220 ! BLOCK NO 16 KALYAN PURI ! DELHI ! DELHI ! DELHI ! 110091",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHIMSEN",
+      "name": "SHASHI .",
+      "num": "9953176983"
+    },
+    {
+      "aadhar": null,
+      "address": "220 ! BLOCK NO 16 KALYAN PURI ! DELHI ! DELHI ! DELHI ! 110091",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHIMSEN",
+      "name": "SHASHI ",
+      "num": "9953176983"
+    },
+    {
+      "aadhar": null,
+      "address": "220 ! BLOCK NO 16 KALYAN PURI ! DELHI ! DELHI ! DELHI ! 110091",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHIMSEN",
+      "name": "SHASHI ",
+      "num": "9953176983"
+    }
+  ]
+}
