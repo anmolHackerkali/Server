@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:54:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920187363",
+  "records": [
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!!RZK-181  Nilothi!Nihal Vihar Nangloi!Nilothi Punjabi Bagh West Delhi!Delhi!110041",
+      "alt": "919990181389",
+      "circle": "JIO DELHI",
+      "email": "jabhishek528@gmail.com",
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8920187363"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!!RZK-181Nilothi!Nihal Vihar Nangloi!NilothiPunjabi BaghWest Delhi!Delhi!110041",
+      "alt": "919990181389",
+      "circle": "JIO DELHI",
+      "email": "jabhishek528@gmail.com",
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8920187363"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!!RZK-181Nilothi!Nihal Vihar Nangloi!NilothiPunjabi BaghWest Delhi!Delhi!110041",
+      "alt": "919990181389",
+      "circle": "JIO DELHI",
+      "email": "jabhishek528@gmail.com",
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8920187363"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    },
+    {
+      "aadhar": "996784784067",
+      "address": "S/O  Virender Jha!RZK-181!Nihal Vihar NANGLOI!!Nihal Vihar NANGLOI nilothi!Nilnthi!West Delhi!Delhi!110041",
+      "alt": "8920187363",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Virender Jha",
+      "name": "Abhishek Jha",
+      "num": "8799780151"
+    }
+  ]
+}
