@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:55:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9005649213",
+  "records": [
+    {
+      "aadhar": "605362781855",
+      "address": "W/O Khusheed Ahmad!patelnagar!!iltifatganj Iltifat Bazar!Ambedkar Nagar!Uttar Pradesh!224145",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Khusheed Ahmad",
+      "name": "Badrunnisha",
+      "num": "9005649213"
+    },
+    {
+      "aadhar": "605362781855",
+      "address": "W/O Khusheed Ahmad!patelnagar!!iltifatganj Iltifat Bazar!Ambedkar Nagar!Uttar Pradesh!224145",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Khusheed Ahmad",
+      "name": "Badrunnisha",
+      "num": "9005649213"
+    }
+  ]
+}
