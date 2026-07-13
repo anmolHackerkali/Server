@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:55:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9728303914",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O: Gulab Singh     village-kamalpur roranKarnal INDRI HARYANA 132041",
+      "alt": "8053223071",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "S/O: Gulab Singh",
+      "name": "Sandeep Singh",
+      "num": "9728303914"
+    },
+    {
+      "aadhar": "675779615092",
+      "address": "S/O: Ram Chand S/O: Ram Chand taranwali Mastgarh Guhla TARANWALI-KAITHAL HR 136035",
+      "alt": "9728303914",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "RAM CHAND",
+      "name": "SURESH KUMAR",
+      "num": "9992457959"
+    },
+    {
+      "aadhar": "675779615092",
+      "address": "S/O: Ram Chand S/O: Ram Chand taranwali Mastgarh Guhla TARANWALI-KAITHAL HR 136035",
+      "alt": "9728303914",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "RAM CHAND",
+      "name": "SURESH KUMAR",
+      "num": "9992457959"
+    }
+  ]
+}
