@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:39:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9330371115",
+  "records": [
+    {
+      "aadhar": "221413334678",
+      "address": " D/O Bhaghbat Pandey!1/H/6!Cossipore K.C. ROAD Cossipore!NA!!Cossipore Kolkata Kolkata!NA!West Bengal!700002 ",
+      "alt": "9331652363",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Bhaghbat Pandey",
+      "name": "Prem Lata Tiwari",
+      "num": "9330371115"
+    },
+    {
+      "aadhar": "221413334678",
+      "address": " D/O Bhaghbat Pandey!1/H/6!Cossipore K.C. ROAD Cossipore!NA!!Cossipore Kolkata Kolkata!NA!West Bengal!700002 ",
+      "alt": "9331652363",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Bhaghbat Pandey",
+      "name": "Prem Lata Tiwari",
+      "num": "9330371115"
+    },
+    {
+      "aadhar": "208319042617",
+      "address": " S/O Mithilesh Kumar Tiwari!1/h/6!k.c. road Cossipore!!cossipore kolkata!cossipore Kolkata!kolkata!West Bengal!700002 ",
+      "alt": "9330371115",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mithilesh Kumar Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "9875368655"
+    },
+    {
+      "aadhar": "208319042617",
+      "address": " S/O Mithilesh Kumar Tiwari!1/h/6!k.c. road Cossipore!!cossipore kolkata!cossipore Kolkata!kolkata!West Bengal!700002 ",
+      "alt": "9330371115",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mithilesh Kumar Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "9875368655"
+    }
+  ]
+}
