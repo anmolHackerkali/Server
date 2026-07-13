@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:55:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7988320469",
+  "records": [
+    {
+      "aadhar": "841657745335",
+      "address": "23!GAV KISRENTI BADI CHOPAL kisrenti 47 ATALI!ROHTAK!ROHTAK!Haryana!124501",
+      "alt": "+919671351021",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "NARENDRA SINGH",
+      "name": "SUNIL KUMAR",
+      "num": "7988320469"
+    },
+    {
+      "aadhar": "665181735162",
+      "address": "S/O Ramphal!23!23 near badi chopaldariyapur kalannear badi chopalAtail!NA!!Kisranti47RohtakRohtak!NA!Haryana!124501",
+      "alt": "7988320469",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Ramphal",
+      "name": "RAVINDER",
+      "num": "9817943981"
+    },
+    {
+      "aadhar": "665181735162",
+      "address": "s/o ramphal!23 23!23Atail!near badi chopal!dariyapur kalan kisranti 47!atailRohtak!rohtak!Haryana!124501",
+      "alt": "7988320469",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "ramphal",
+      "name": "Ravinder",
+      "num": "9053747458"
+    },
+    {
+      "aadhar": "665181735162",
+      "address": "S/O Ramphal 23 atail Rohtak Haryana 23 atail Rohtak Haryananear badi chopal near badi chopal DARIYAPUR KALAN kisranti RohtakJHAJJAR BAHADURGARH JHAJJAR HARYANA 124501",
+      "alt": "7988320469",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Ramphal",
+      "name": "MR  RAVINDER  ",
+      "num": "7027320469"
+    },
+    {
+      "aadhar": "665181735162",
+      "address": "S/O Ramphal!23!23Atail!near badi chopal!DARIYAPUR  KALAN!Kisranti 47Rohtak!Rohtak!Haryana!124501",
+      "alt": "7988320469",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Ramphal",
+      "name": "RAVINDER",
+      "num": "7015714663"
+    }
+  ]
+}
