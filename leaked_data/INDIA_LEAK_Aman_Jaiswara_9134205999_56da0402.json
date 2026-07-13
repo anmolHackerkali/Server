@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:28:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9134205999",
+  "records": [
+    {
+      "aadhar": "820364911871",
+      "address": "!VILL-PURE SHITALPUR DIAMOND COLLIERY!Mukundapur!!Barddhaman Siduli!Barddhaman!BARDHAMAN!West Bengal!713322",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sitla Pd Jaiswara",
+      "name": "Aman Jaiswara",
+      "num": "9134205999"
+    },
+    {
+      "aadhar": "820364911871",
+      "address": "!VILL-PURE SHITALPUR DIAMOND COLLIERY!Mukundapur!!Barddhaman Siduli!Barddhaman!BARDHAMAN!West Bengal!713322",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Sitla Pd Jaiswara",
+      "name": "Aman Jaiswara",
+      "num": "9134205999"
+    },
+    {
+      "aadhar": "820364911871",
+      "address": " S/O Sitla Pd Jaiswara!!!!vill-pure shitalpur diamond colliery siduli!mukundapur Ondal!barddhaman!West Bengal!713322 ",
+      "alt": "9134205999",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sitla Pd Jaiswara",
+      "name": "Aman Jaiswara",
+      "num": "9547314553"
+    },
+    {
+      "aadhar": "820364911871",
+      "address": "!VILL - PURE SHITALPUR DIAMOND COLLIERY!BARDDHAMAN!BARDDHAMAN!MUKUNDAPUR BARDHAMAN!BARDDHAMAN!BARDHAMAN!West Bengal!713322",
+      "alt": "9134205999",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Sitla Jaiswara",
+      "name": "MR AMAN JAISWARA",
+      "num": "8145035225"
+    },
+    {
+      "aadhar": "820364911871",
+      "address": " S/O Sitla Pd Jaiswara!!!!vill-pure shitalpur diamond colliery siduli!mukundapur Ondal!barddhaman!West Bengal!713322 ",
+      "alt": "9134205999",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sitla Pd Jaiswara",
+      "name": "Aman Jaiswara",
+      "num": "9547314553"
+    },
+    {
+      "aadhar": "820364911871",
+      "address": "!VILL - PURE SHITALPUR DIAMOND COLLIERY!BARDDHAMAN!BARDDHAMAN!MUKUNDAPUR BARDHAMAN!BARDDHAMAN!BARDHAMAN!West Bengal!713322",
+      "alt": "9134205999",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Sitla Jaiswara",
+      "name": "MR AMAN JAISWARA",
+      "num": "8145035225"
+    }
+  ]
+}
