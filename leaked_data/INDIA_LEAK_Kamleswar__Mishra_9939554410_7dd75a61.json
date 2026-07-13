@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:23:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939554410",
+  "records": [
+    {
+      "aadhar": "Br04021294181",
+      "address": "0!Mahnichakiya!Vagahi Bazar!Gopalganj!Bihar!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinanath  Mishra",
+      "name": "Kamleswar  Mishra",
+      "num": "9939554410"
+    },
+    {
+      "aadhar": "Br04021294181",
+      "address": "0!Mahnichakiya!Vagahi Bazar!Gopalganj!Bihar!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinanath  Mishra",
+      "name": "Kamleswar  Mishra",
+      "num": "9939554410"
+    }
+  ]
+}
