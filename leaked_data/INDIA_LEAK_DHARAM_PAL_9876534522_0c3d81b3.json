@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:24:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9876534522",
+  "records": [
+    {
+      "aadhar": "749223411145",
+      "address": "S/O LAL CHAND!H NO 17!KHURLA KINGRA!JALANDHAR - I!JALANDHAR!PUNJAB!144003",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "LAL CHAND",
+      "name": "DHARAM PAL",
+      "num": "9876534522"
+    },
+    {
+      "aadhar": "749223411145",
+      "address": "S/O Lal Chand!h no 17!h no 17!!khurla kingraJALANDHAR!JALANDHAR!JALANDHAR!PUNJAB!144003",
+      "alt": "9876534522",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Lal chand",
+      "name": "DHARAM PAL",
+      "num": "9517834587"
+    },
+    {
+      "aadhar": "749223411145",
+      "address": "S/O Lal Chand!h no 17!h no 17Jalandhar 1!Jalandhar 1!khurla kingraJALANDHAR-l!JALANDHAR!JALANDHAR-l!PUNJAB!144003",
+      "alt": "9876534522",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Lal CHAND",
+      "name": "DHARAM PAL",
+      "num": "7837107814"
+    }
+  ]
+}
