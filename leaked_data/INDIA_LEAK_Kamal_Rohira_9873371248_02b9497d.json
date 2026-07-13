@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:54:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9873371248",
+  "records": [
+    {
+      "aadhar": "441543283594",
+      "address": "!M-4!2nd Floor M N-Block!Mandir!Double Storey Pratap Nagar Gulabi Bagh!Delhi!North Delhi!Delhi!110007",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "kamalrohiraca@gmail.com",
+      "fname": "Jagdish Kumar Rohira",
+      "name": "Kamal Rohira",
+      "num": "9873371248"
+    },
+    {
+      "aadhar": "441543283594",
+      "address": "!M-4!2nd Floor M N-Block!Mandir!Double Storey Pratap Nagar Gulabi Bagh!Delhi!North Delhi!Delhi!110007",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "kamalrohiraca@gmail.com",
+      "fname": "Jagdish Kumar Rohira",
+      "name": "Kamal Rohira",
+      "num": "9873371248"
+    },
+    {
+      "aadhar": "441543283594",
+      "address": "!M-4!2nd Floor M N-Block!Mandir!Double Storey Pratap Nagar Gulabi Bagh!Delhi!North Delhi!Delhi!110007",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "kamalrohiraca@gmail.com",
+      "fname": "Jagdish Kumar Rohira",
+      "name": "Kamal Rohira",
+      "num": "9873371248"
+    },
+    {
+      "aadhar": "361949050126",
+      "address": "Deepa Rani!C-45!OKHLA!PH-2!DELHI!DELHI!110020",
+      "alt": "9873371248",
+      "circle": "VI DELHI",
+      "email": "ROHIRAKAPIL@GMAIL.COM",
+      "fname": "Deepa Rani",
+      "name": "Kapil Rohira",
+      "num": "9811918029"
+    },
+    {
+      "aadhar": "361949050126",
+      "address": "Deepa Rani!C-45!OKHLA!PH-2!DELHI!DELHI!110020",
+      "alt": "9873371248",
+      "circle": "VI DELHI",
+      "email": "ROHIRAKAPIL@GMAIL.COM",
+      "fname": "Deepa Rani",
+      "name": "Kapil Rohira",
+      "num": "9811918029"
+    },
+    {
+      "aadhar": null,
+      "address": "C-45 ! OKHLA ! PH-2 ! DELHI ! DELHI ! 110020",
+      "alt": "9873371248",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "C/O- KAPIL ROHIRA",
+      "name": "MR. DEPT-NODALC.S C/O- KAPIL ROHIRA",
+      "num": "7838024048"
+    },
+    {
+      "aadhar": null,
+      "address": "C-45 ! OKHLA ! PH-2 ! DELHI ! DELHI ! 110020",
+      "alt": "9873371248",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "C/O KAPIL ROHIRA",
+      "name": "MR DEPTNODALCS C/O KAPIL ROHIRA",
+      "num": "7838024048"
+    },
+    {
+      "aadhar": "361949050126",
+      "address": "Deepa Rani!C-45!OKHLA!PH-2!DELHI!DELHI!110020",
+      "alt": "9873371248",
+      "circle": "VI DELHI",
+      "email": "ROHIRAKAPIL@GMAIL.COM",
+      "fname": "Deepa Rani",
+      "name": "KapilRohira",
+      "num": "9811918029"
+    },
+    {
+      "aadhar": null,
+      "address": "C-45 ! OKHLA ! PH-2 ! DELHI ! DELHI ! 110020",
+      "alt": "9873371248",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "C/O KAPIL ROHIRA",
+      "name": "MR DEPTNODALCS C/O KAPIL ROHIRA",
+      "num": "7838024048"
+    },
+    {
+      "aadhar": "361949050126",
+      "address": "Deepa Rani!C-45!OKHLA!PH-2!DELHI!DELHI!110020",
+      "alt": "9873371248",
+      "circle": "VI DELHI",
+      "email": "ROHIRAKAPIL@GMAIL.COM",
+      "fname": "Deepa Rani",
+      "name": "KapilRohira",
+      "num": "9811918029"
+    }
+  ]
+}
