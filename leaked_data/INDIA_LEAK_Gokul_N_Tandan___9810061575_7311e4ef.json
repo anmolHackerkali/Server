@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:53:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810061575",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "F-89/19 Okhla Industral Area Phase-1 . New Delhi DEL 110020! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Gokul N Tandan  ",
+      "num": "9810061575"
+    },
+    {
+      "aadhar": null,
+      "address": "!F89/19 Okhla Industral Area Phase1 . New Delhi DEL 110020!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Gokul N Tandan.",
+      "num": "9810061575"
+    },
+    {
+      "aadhar": null,
+      "address": "F 89/19 Okhla Industral Area Phase 1   New Delhi DEL 110020       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Gokul N Tandan  ",
+      "num": "9810061575"
+    },
+    {
+      "aadhar": null,
+      "address": "F 89/19 Okhla Industral Area Phase 1   New Delhi DEL 110020       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Gokul N Tandan  ",
+      "num": "9810061575"
+    }
+  ]
+}
