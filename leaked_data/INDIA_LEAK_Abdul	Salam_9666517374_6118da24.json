@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:21:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9666517374",
+  "records": [
+    {
+      "aadhar": "391723040203",
+      "address": "S/O Mohammed Ameer Ali!S/O Mohammed Ameer Ali  7-1-632/2/6!Bapu Nagar  S R Nagar!. !HYDERABAD-HYDERABAD!AP!500038",
+      "alt": null,
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "Mohammed Ameer Ali Ali",
+      "name": "Abdul\tSalam",
+      "num": "9666517374"
+    }
+  ]
+}
