@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:50:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8458813210",
+  "records": [
+    {
+      "aadhar": "899246872573",
+      "address": "S/O Akaluddin Khan!Pura!Nandra School!School!nandra  nandra  Nandra  Khargone KHARGONE!KHARGONE!KHARGONE!Madhya Pradesh!451225",
+      "alt": "8458813210",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Akaluddin Khan",
+      "name": "MR SHAHADAT KHAN",
+      "num": "9589044210"
+    },
+    {
+      "aadhar": "747087694898",
+      "address": "S/O  Rajaram!!Bhawati!05 morakatta!morakatta!Bhawati Barwani!Barwani!Madhya Pradesh!451551",
+      "alt": "8458813210",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Rajaram",
+      "name": "Shantilal",
+      "num": "8817264180"
+    },
+    {
+      "aadhar": "873919576705",
+      "address": "W/O Ghisilal!Nandra!Khargone School!School!Kundiya KHARGONE!KHARGONE!KHARGONE!Madhya Pradesh!451221",
+      "alt": "8458813210",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ghisilal",
+      "name": "MS INDU BAI",
+      "num": "8370088798"
+    },
+    {
+      "aadhar": null,
+      "address": " 352 krishna pura ward n 10  Nandra Khargone  Madhya Pradesh 451225",
+      "alt": "8458813210",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "akaluddin",
+      "name": "Sohel Khan",
+      "num": "8085570900 "
+    },
+    {
+      "aadhar": "899246872573",
+      "address": "S/O Akaluddin Khan!Nandra!School School!School!enandra  nandra  e Nandra  Khargone KHARGONE!KHARGONE!KHARGONE!Madhya Pradesh!451225",
+      "alt": "8458813210",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Akaluddin Khan",
+      "name": "MR SHAHADAT KHAN",
+      "num": "7697865542"
+    }
+  ]
+}
