@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:29:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8770297831",
+  "records": [
+    {
+      "aadhar": "338877615473",
+      "address": "W/O: Ashok Tiwari!!near old stat bank!jawahar ward no. 19 mandla!Binjhi Mandla!Madhya Pradesh!481661",
+      "alt": "919407018506",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ashok Tiwari",
+      "name": "Seema Tiwari",
+      "num": "8770297831"
+    }
+  ]
+}
