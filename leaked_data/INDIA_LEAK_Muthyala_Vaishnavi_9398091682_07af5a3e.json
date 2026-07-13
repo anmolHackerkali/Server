@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:31:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9398091682",
+  "records": [
+    {
+      "aadhar": "739979958783",
+      "address": "D/O Muthyala Srinivas! 24-153!Ashok road Mancherial!!Ashok road!Mancherial!Adilabad!Andhra Pradesh!504208",
+      "alt": "6309742056",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Muthyala Srinivas",
+      "name": "Muthyala Vaishnavi",
+      "num": "9398091682"
+    },
+    {
+      "aadhar": "411103418872",
+      "address": "d/o muthyala srinivas! 24-153!ashok road ashok road Mancherial!!mancherial!mancherial!adilabad!Andhra Pradesh!504208",
+      "alt": "9398091682",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "muthyala srinivas",
+      "name": "Muthyala Sravya",
+      "num": "9493420566"
+    }
+  ]
+}
