@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:59:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9550303831",
+  "records": [
+    {
+      "aadhar": "461092683701",
+      "address": "D/O Govind Rao!D/O Govind Rao  6-62!ganesh nagar!. !GUNTUPALLI-KRISHNA!AP!521241",
+      "alt": null,
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "DO GOVIND RAO  ",
+      "name": "YAMALA\tTHUSHARA",
+      "num": "9550303831"
+    }
+  ]
+}
