@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:42:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7725867117",
+  "records": [
+    {
+      "aadhar": "757651565358",
+      "address": "S/O  Bijiya! bjiya jhavliya!jhavliya!!petalavad jhavaliya mohankot!Mohankot!Jhabua!Madhya Pradesh!457775",
+      "alt": "6263652011",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Bijiya",
+      "name": "Toliya",
+      "num": "7725867117"
+    }
+  ]
+}
