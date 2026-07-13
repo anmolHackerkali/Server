@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 13:20:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7428418055",
+  "records": [
+    {
+      "aadhar": "445632680671",
+      "address": "!A-1171!00!-!METRO VIHAR PHASE - 2 HOLAMBI KALAN!Delhi!NORTH WEST DELHI!Delhi!110082",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "MANI RAM",
+      "name": "YUVRAJ KUMAR",
+      "num": "7428418055"
+    },
+    {
+      "aadhar": "445632680671",
+      "address": "!A-1171!00!-!METRO VIHAR PHASE - 2 HOLAMBI KALAN!Delhi!NORTH WEST DELHI!Delhi!110082",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "MANI RAM",
+      "name": "YUVRAJ KUMAR",
+      "num": "7428418055"
+    },
+    {
+      "aadhar": "445632680671",
+      "address": "!A-1171!00!-!METRO VIHAR PHASE - 2 HOLAMBI KALAN!Delhi!NORTH WEST DELHI!Delhi!110082",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "MANI RAM",
+      "name": "YUVRAJ KUMAR",
+      "num": "7428418055"
+    },
+    {
+      "aadhar": "713284023158",
+      "address": "S/O OMKAR!187 VilI MUHAMMADPUR SABUKPUR POST HUSA!187 VAI MUHAMMADPUR SABUKPUR POST HUSAI!tanda!Muhammad purAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7428418055",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Omkar",
+      "name": "MR. JAYA SINGH",
+      "num": "6391844707"
+    },
+    {
+      "aadhar": "713284023158",
+      "address": "S/O OMKAR!187  VilI MUHAMMADPUR SABUKPUR POST HUSA!187  VAI MUHAMMADPUR SABUKPUR POST HUSAI!tanda!Muhammad pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7428418055",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Omkar",
+      "name": "MR JAYA SINGH",
+      "num": "6391844707"
+    },
+    {
+      "aadhar": "713284023158",
+      "address": "S/O OMKAR!187  VilI MUHAMMADPUR SABUKPUR POST HUSA!187  VAI MUHAMMADPUR SABUKPUR POST HUSAI!tanda!Muhammad pur AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7428418055",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Omkar",
+      "name": "MR JAYA SINGH",
+      "num": "6391844707"
+    }
+  ]
+}
