@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:33:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8409075513",
+  "records": [
+    {
+      "aadhar": "963231469681",
+      "address": "s/o  bishwanath prasad choudhary!-!BARA BAJAR Darbhanga!po lalbagh!shamsher ganj bara bazar!darbhanga Keotiranway!darbhanga!Bihar!846004",
+      "alt": "9304575513",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "bishwanath prasad choudhary",
+      "name": "Amit Kumar Choudhary",
+      "num": "8409075513"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": "s/o  bishwanath prasad choudhary!-!BARA BAJAR Darbhanga!po lalbagh!shamsher ganj bara bazar!darbhanga Keotiranway!darbhanga!Bihar!846004",
+      "alt": "9304575513",
+      "circle": "JIO BHR&JHR",
+      "email": "amit2594@gmail.com",
+      "fname": "bishwanath prasad choudhary",
+      "name": "Amit Kumar Choudhary",
+      "num": "8409075513"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": "s/o  bishwanath prasad choudhary!-!BARA BAJAR Darbhanga!po lalbagh!shamsher ganj bara bazar!darbhanga Keotiranway!darbhanga!Bihar!846004",
+      "alt": "9304575513",
+      "circle": "JIO BHR&JHR",
+      "email": "amit2594@gmail.com",
+      "fname": "bishwanath prasad choudhary",
+      "name": "Amit Kumar Choudhary",
+      "num": "8409075513"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": " S/O  Bishwanath Prasad Choudhary S/O  Bishwanath Prasad Choudhary - BARA BAJAR PO LALBAGH Keotiranway SHAMSHER GANJ BARA BAZAR Darbhanga-Darbhanga BR 846004 ",
+      "alt": "8409075513",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BISHWANATH Prasad CHOUDHARY ",
+      "name": " AMIT KUMAR CHOUDHARY ",
+      "num": "9304505050"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": " .!BARA BAzAR!!SHAMSHER GANJ BARA BAZAR  LALBAGH  darbhanga !Darbhanga!!Bihar!846004 ",
+      "alt": "8409075513",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bishwanath Prasad Choudhary ",
+      "name": " Amit Kumar Choudhary ",
+      "num": "7762996988"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": " S/O  Bishwanath Prasad Choudhary S/O  Bishwanath Prasad Choudhary - BARA BAJAR PO LALBAGH Keotiranway SHAMSHER GANJ BARA BAZAR Darbhanga-Darbhanga BR 846004 ",
+      "alt": "8409075513",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BISHWANATH Prasad CHOUDHARY ",
+      "name": " AMIT KUMAR CHOUDHARY ",
+      "num": "9304505050"
+    },
+    {
+      "aadhar": "963231469681",
+      "address": " .!BARA BAzAR!!SHAMSHER GANJ BARA BAZAR  LALBAGH  darbhanga !Darbhanga!!Bihar!846004 ",
+      "alt": "8409075513",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bishwanath Prasad Choudhary ",
+      "name": " Amit Kumar Choudhary ",
+      "num": "7762996988"
+    }
+  ]
+}
