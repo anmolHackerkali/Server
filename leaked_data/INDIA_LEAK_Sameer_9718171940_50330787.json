@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:18:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9718171940",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Bhura Khan!!H.NO.A-285!Sangam Vihar!Deoli South Delhi!Delhi!110062",
+      "alt": "919205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bhura khan",
+      "name": "Sameer",
+      "num": "9718171940"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Bhura Khan!!HNOA-285!Sangam Vihar!DeoliSouth Delhi!Delhi!110062",
+      "alt": "919205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bhura khan",
+      "name": "Sameer",
+      "num": "9718171940"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Bhura Khan!!HNOA-285!Sangam Vihar!DeoliSouth Delhi!Delhi!110062",
+      "alt": "919205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bhura khan",
+      "name": "Sameer",
+      "num": "9718171940"
+    }
+  ]
+}
