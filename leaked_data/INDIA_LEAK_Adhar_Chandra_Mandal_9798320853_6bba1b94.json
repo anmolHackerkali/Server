@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:49:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798320853",
+  "records": [
+    {
+      "aadhar": "341748217822",
+      "address": "S/O Late Arjun Mandal!!VILL-NAGARKIYARI POST-NAGARKIYARI PS-BARWADDA!NA!!NAGARKIYARI Dhanbad!NA!Jharkhand!828109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Arjun Mandal",
+      "name": "Adhar Chandra Mandal",
+      "num": "9798320853"
+    },
+    {
+      "aadhar": "341748217822",
+      "address": "S/O Late Arjun Mandal!!VILL-NAGARKIYARI POST-NAGARKIYARI PS-BARWADDA!NA!!NAGARKIYARI Dhanbad!NA!Jharkhand!828109",
+      "alt": "6206535348",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Arjun Mandal",
+      "name": "Adhar Chandra Mandal",
+      "num": "9798320853"
+    },
+    {
+      "aadhar": "341748217822",
+      "address": "S/O Late Arjun Mandal!!VILL-NAGARKIYARI POST-NAGARKIYARI PS-BARWADDA!NA!!NAGARKIYARI Dhanbad!NA!Jharkhand!828109",
+      "alt": "6206535348",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Arjun Mandal",
+      "name": "Adhar Chandra Mandal",
+      "num": "9798320853"
+    }
+  ]
+}
