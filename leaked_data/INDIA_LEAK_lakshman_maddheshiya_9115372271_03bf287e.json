@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:59:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9115372271",
+  "records": [
+    {
+      "aadhar": "872578255027",
+      "address": "! 00!nausagar!!pharenda!Maharajganj!Maharajganj!Uttar Pradesh!273161",
+      "alt": "6392791945",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "chandrdev",
+      "name": "lakshman maddheshiya",
+      "num": "9115372271"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "! 00!nausagar!!pharenda!Maharajganj!Maharajganj!Uttar Pradesh!273161",
+      "alt": "6392791945",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "chandrdev",
+      "name": "lakshman maddheshiya",
+      "num": "9115372271"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "!01!nausagarnausagar!nausagar!NAUSAGRA NAUSAGRAMAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273161",
+      "alt": "9115372271",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Chandrdev",
+      "name": "MR. LAXMAN KUMAR",
+      "num": "8881677689"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "!01!nausagar nausagar!nausagar!NAUSAGRA NAUSAGRA MAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273161",
+      "alt": "9115372271",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chandrdev",
+      "name": "MR LAXMAN KUMAR",
+      "num": "8881677689"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "! 00!nausagar!!nausagar!Maharajganj!Maharajganj!Uttar Pradesh!273161",
+      "alt": "9115372271",
+      "circle": "JIO UPE",
+      "email": "Mohan@1234gmail.COm",
+      "fname": "chandrdev",
+      "name": "lakshman maddheshiya",
+      "num": "8468073712"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "!01!nausagar nausagar!nausagar!NAUSAGRA NAUSAGRA MAHARAJGANJ!MAHARAJGANJ!UTTAR PRADESH!273161",
+      "alt": "9115372271",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chandrdev",
+      "name": "MR LAXMAN KUMAR",
+      "num": "8881677689"
+    },
+    {
+      "aadhar": "872578255027",
+      "address": "! 00!nausagar!!nausagar!Maharajganj!Maharajganj!Uttar Pradesh!273161",
+      "alt": "9115372271",
+      "circle": "JIO UPE",
+      "email": "Mohan@1234gmail.COm",
+      "fname": "chandrdev",
+      "name": "lakshman maddheshiya",
+      "num": "8468073712"
+    }
+  ]
+}
