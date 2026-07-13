@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:15:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8588861036",
+  "records": [
+    {
+      "aadhar": "365152760778",
+      "address": "Sarvjeet Singh!6179!SECTOR-23    City/District  Faridabad State Haryana!SANJAY COLONY!FARIDABAD!HARYANA!121005",
+      "alt": "9250359700",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ramawadh singh",
+      "name": "Rekha ",
+      "num": "8588861036"
+    },
+    {
+      "aadhar": "365152760778",
+      "address": "Sarvjeet Singh!6179!SECTOR-23  City/District: Faridabad State Haryana!SANJAY COLONY!FARIDABAD!HARYANA!121005",
+      "alt": "9250359700",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ramawadh singh",
+      "name": "Rekha",
+      "num": "8588861036"
+    },
+    {
+      "aadhar": "365152760778",
+      "address": "Sarvjeet Singh!6179!SECTOR-23  City/District: Faridabad State Haryana!SANJAY COLONY!FARIDABAD!HARYANA!121005",
+      "alt": "9250359700",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ramawadh singh",
+      "name": "Rekha",
+      "num": "8588861036"
+    },
+    {
+      "aadhar": null,
+      "address": "H No-100 ! U 59 Road DLF Ph-3 ! Gurgaon ! GURGAON NCR ! HARYANA ! 122002",
+      "alt": "8588861036",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "S D S Yadav",
+      "name": "Santosh Singh Yadav",
+      "num": "8587894585"
+    },
+    {
+      "aadhar": null,
+      "address": "H No-100 ! U 59 Road DLF Ph-3 ! Gurgaon ! GURGAON NCR ! HARYANA ! 122002",
+      "alt": "8588861036",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "S D S Yadav",
+      "name": "Santosh Singh Yadav",
+      "num": "8587894585"
+    },
+    {
+      "aadhar": null,
+      "address": "H No-100 ! U 59 Road DLF Ph-3 ! Gurgaon ! GURGAON NCR ! HARYANA ! 122002",
+      "alt": "8588861036",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "S D S Yadav",
+      "name": "Santosh Singh Yadav",
+      "num": "8587894585"
+    }
+  ]
+}
