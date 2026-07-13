@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:25:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9993344593",
+  "records": [
+    {
+      "aadhar": "710299382598",
+      "address": "C/O Kanhaiyalal Mohnani! H. No. 2!shradha Satya Sai homes!!Shradha Satya Sai Homes Bairagarh Kalan!Huzur!Bhopal!Madhya Pradesh!462030",
+      "alt": "9993038528",
+      "circle": "JIO MP",
+      "email": "nmohnani79@gmail.com",
+      "fname": "kanhaiyalal mohnani",
+      "name": "Nikhlesh Mohnani",
+      "num": "9993344593"
+    },
+    {
+      "aadhar": "710299382598",
+      "address": "!h no 2 shradha satya sai homes!bairagarh kalan!kala huzur bhopal!huzur bhopal!Huzur!BHOPAL!Madhya Pradesh!462030",
+      "alt": "9993344593",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "kanhaiyalal mohnani",
+      "name": "Nikhlesh Mohnani",
+      "num": "9993038528"
+    },
+    {
+      "aadhar": "949186759287",
+      "address": "W/O  Sunil Ratwani!!6/k New-A type Bairagarh!NA!bairik bairagarh!Huzur Huzur Bhopal!NA!Madhya Pradesh!462030",
+      "alt": "9993344593",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Sunil Ratwani",
+      "name": "Mamta Ratwani",
+      "num": "9926493470"
+    },
+    {
+      "aadhar": "949186759287",
+      "address": "w/o  sunil ratwani!6/k!New-A type Bairagarh!!new-a type bairik bairagarh huzur!bairagarh Huzur!bhopal!Madhya Pradesh!462030",
+      "alt": "9993344593",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "sunil ratwani",
+      "name": "Mamta Ratwani",
+      "num": "9907288529"
+    },
+    {
+      "aadhar": "282832337023",
+      "address": "c/o late shri motumal mohnani!h. no. 2!Shradha Satya Sai Homes!!shradha satya sai homes bairagarh kalan!huzur!bhopal!Madhya Pradesh!462030",
+      "alt": "9993344593",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "shri motumal mohnani",
+      "name": "K L Mohnani",
+      "num": "9229476674"
+    }
+  ]
+}
