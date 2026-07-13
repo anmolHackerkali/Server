@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:21:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958435992",
+  "records": [
+    {
+      "aadhar": "374501496637",
+      "address": "d/o ganga ram!H no - E - 51!J J Camp Tigri!!Tigri!j j camp tigri!south delhi!Delhi!110062",
+      "alt": "9205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Ram",
+      "name": "Pinky Yadav",
+      "num": "9958435992"
+    },
+    {
+      "aadhar": "374501496637",
+      "address": "d/o ganga ram!H no - E - 51!J J Camp Tigri!!Tigri!j j camp tigri!south delhi!Delhi!110062",
+      "alt": "9205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Ram",
+      "name": "Pinky Yadav",
+      "num": "9958435992"
+    },
+    {
+      "aadhar": "374501496637",
+      "address": "d/o ganga ram!H no - E - 51!J J Camp Tigri!!Tigri!j j camp tigri!south delhi!Delhi!110062",
+      "alt": "9205839515",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ganga Ram",
+      "name": "Pinky Yadav",
+      "num": "9958435992"
+    },
+    {
+      "aadhar": "374501496637",
+      "address": "!!E-51block-E!NA!j j camp Tigri south delhi!New Delhi SouthSouth!NA!Delhi!110062",
+      "alt": "9958435992",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ganga ram",
+      "name": "pinky",
+      "num": "8882231046"
+    },
+    {
+      "aadhar": "374501496637",
+      "address": "!!E-51block-E!NA!j j camp Tigri south delhi!New Delhi SouthSouth!NA!Delhi!110062",
+      "alt": "9958435992",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ganga ram",
+      "name": "pinky",
+      "num": "8882231046"
+    },
+    {
+      "aadhar": "374501496637",
+      "address": "!!E-51block-E!NA!j j camp Tigri south delhi!New Delhi SouthSouth!NA!Delhi!110062",
+      "alt": "9958435992",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ganga ram",
+      "name": "pinky",
+      "num": "8882231046"
+    }
+  ]
+}
