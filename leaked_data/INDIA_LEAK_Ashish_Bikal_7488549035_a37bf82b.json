@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 07:33:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7488549035",
+  "records": [
+    {
+      "aadhar": "696811993087",
+      "address": "S/O  Umesh Prasad Singh!  !patel nagar bihar sharif nalanda!!patel nagar Dihar sharii ward 19!Bihar!Nalanda!Bihar!803101",
+      "alt": "7992343610",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Umesh Prasad Singh",
+      "name": "Ashish Bikal",
+      "num": "7488549035"
+    },
+    {
+      "aadhar": "696811993087",
+      "address": "S/O  Umesh Prasad Singh! .!patel nagar bihar sharif nalanda!!patel nagar Dihar sharii ward 19!Bihar!Nalanda!Bihar!803101",
+      "alt": "7992343610",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Umesh Prasad Singh",
+      "name": "Ashish Bikal",
+      "num": "7488549035"
+    },
+    {
+      "aadhar": "696811993087",
+      "address": "S/O  Umesh Prasad Singh! .!patel nagar bihar sharif nalanda!!patel nagar Dihar sharii ward 19!Bihar!Nalanda!Bihar!803101",
+      "alt": "7992343610",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Umesh Prasad Singh",
+      "name": "Ashish Bikal",
+      "num": "7488549035"
+    }
+  ]
+}
