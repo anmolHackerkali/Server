@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:04:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9327267808",
+  "records": [
+    {
+      "aadhar": "856574863720",
+      "address": "!b-159!mahalaxmi!!mahalaxmi soc punagam!chorasi!surat!Gujarat!395010",
+      "alt": "9979168966",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "govindbhai",
+      "name": "Khimani Jagdishbhai Govindbhai",
+      "num": "9327267808"
+    },
+    {
+      "aadhar": "856574863720",
+      "address": "!b-159!mahalaxmi!!mahalaxmi soc punagam!chorasi!surat!Gujarat!395010",
+      "alt": "9979168966",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "govindbhai",
+      "name": "Khimani Jagdishbhai Govindbhai",
+      "num": "9327267808"
+    },
+    {
+      "aadhar": "856574863720",
+      "address": "!b-159!mahalaxmi!!mahalaxmi soc punagam!chorasi!surat!Gujarat!395010",
+      "alt": "9979168966",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "govindbhai",
+      "name": "Khimani Jagdishbhai Govindbhai",
+      "num": "9327267808"
+    }
+  ]
+}
