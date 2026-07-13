@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 07:54:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9118547709",
+  "records": [
+    {
+      "aadhar": "TCI2311041",
+      "address": "!00!Sivil Lain 3 Sivil Lains S-Kotvali!aa!Teh-Azam Sadar Dist-Azamgarh!Azamgarh!!Uttar Pradesh!276001",
+      "alt": "8188003636",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "harigvind  ",
+      "name": "sarika  ",
+      "num": "9118547709"
+    },
+    {
+      "aadhar": "TCI2311041",
+      "address": "!00!Sivil Lain 3 Sivil Lains S-Kotvali!aa!Teh-Azam Sadar Dist-Azamgarh!Azamgarh!!Uttar Pradesh!276001",
+      "alt": "8188003636",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "harigvind  ",
+      "name": "sarika  ",
+      "num": "9118547709"
+    }
+  ]
+}
