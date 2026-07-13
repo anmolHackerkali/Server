@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:12:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7300505988",
+  "records": [
+    {
+      "aadhar": "707521783487",
+      "address": "D/O  Bachan Singh!!lodaliVedikhal!NA!!LodliThali SainPauri Garhwal!NA!Uttarakhand!246177",
+      "alt": "8191862753",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Bachan Singh",
+      "name": "Rachna Bisht",
+      "num": "7300505988"
+    },
+    {
+      "aadhar": "707521783487",
+      "address": "D/O  Bachan Singh!lodali!Vedikhal!!lodali lodli!LodliThali Sain!Pauri Garhwal!Uttarakhand!246177",
+      "alt": "7300505988",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Bachan Singh",
+      "name": "Rachna Bisht",
+      "num": "9389339764"
+    }
+  ]
+}
