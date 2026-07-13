@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:31:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017808539",
+  "records": [
+    {
+      "aadhar": "905505550037",
+      "address": "!84!goushala road!near panjabi gurudawara!saharanpur!Saharanpurmubarakshah!Saharanpur!Uttar Pradesh!247001",
+      "alt": "9456272676",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "vijay chawla",
+      "name": "Neeru Chawla  ",
+      "num": "7017808539"
+    },
+    {
+      "aadhar": "905505550037",
+      "address": "! 84!goushala road!near panjabi gurudawara!saharanpur!Saharanpur mubarakshah!Saharanpur!Uttar Pradesh!247001",
+      "alt": "9456272676",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vijay chawla",
+      "name": "Neeru Chawla",
+      "num": "7017808539"
+    },
+    {
+      "aadhar": "905505550037",
+      "address": "! 84!goushala road!near panjabi gurudawara!saharanpur!Saharanpur mubarakshah!Saharanpur!Uttar Pradesh!247001",
+      "alt": "9456272676",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vijay chawla",
+      "name": "Neeru Chawla",
+      "num": "7017808539"
+    }
+  ]
+}
