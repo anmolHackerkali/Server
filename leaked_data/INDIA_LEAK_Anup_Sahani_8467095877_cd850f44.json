@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:41:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8467095877",
+  "records": [
+    {
+      "aadhar": "345981125297",
+      "address": "!na  40!lakhima tharua!THARUA!lakhima tharua!Maharajganj!Maharajganj!Uttar Pradesh!273303",
+      "alt": "9151519452",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "baliraj sahani",
+      "name": "Anup Sahani",
+      "num": "8467095877"
+    },
+    {
+      "aadhar": "345981125297",
+      "address": "!na  40!lakhima tharua!THARUA!lakhima tharua!Maharajganj!Maharajganj!Uttar Pradesh!273303",
+      "alt": "9151519452",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "baliraj sahani",
+      "name": "Anup Sahani",
+      "num": "8467095877"
+    }
+  ]
+}
