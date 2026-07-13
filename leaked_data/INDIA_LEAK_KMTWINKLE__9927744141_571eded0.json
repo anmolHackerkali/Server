@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:25:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9927744141",
+  "records": [
+    {
+      "aadhar": "882636303073",
+      "address": "D/O: Pradeep Panwar  154 miragpur Miragpur  Deoband  MIRAGPUR-SAHARANPUR UP 247554",
+      "alt": "9719071799",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "D/O: Pradeep Panwar",
+      "name": "KM.TWINKLE .",
+      "num": "9927744141"
+    },
+    {
+      "aadhar": "882636303073",
+      "address": "D/O: Pradeep Panwar  154 miragpur Miragpur  Deoband  MIRAGPUR-SAHARANPUR UP 247554",
+      "alt": "9719071799",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "D/O: Pradeep Panwar",
+      "name": "KM.TWINKLE .",
+      "num": "9927744141"
+    }
+  ]
+}
