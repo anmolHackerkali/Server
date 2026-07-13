@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:04:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595766470",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "CV SINGH!!HOUSE NO 680!SHAHBAD DAULATPUR!SAHIBABAD DAULAT PURNorth West Delhi!Delhi!110042",
+      "alt": "919582386310",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chander veer singh",
+      "name": "Deepali Chaudhry",
+      "num": "8595766470"
+    },
+    {
+      "aadhar": null,
+      "address": "CV SINGH!!HOUSE NO 680!SHAHBAD DAULATPUR!SAHIBABAD DAULAT PURNorth West Delhi!Delhi!110042",
+      "alt": "919582386310",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chander veer singh",
+      "name": "Deepali Chaudhry",
+      "num": "8595766470"
+    },
+    {
+      "aadhar": "255461114875",
+      "address": "S/O Narender Kumar! 1014!sector 9!st. anthony school!sector 9!Faridabad!Faridabad!Haryana!121006",
+      "alt": "8595766470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Narender Kumar",
+      "name": "Aman Kumar",
+      "num": "9871136192"
+    },
+    {
+      "aadhar": "255461114875",
+      "address": "S/O Narender Kumar!1014!sector 9!st anthony school!sector 9!Faridabad!Faridabad!Haryana!121006",
+      "alt": "8595766470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Narender Kumar",
+      "name": "Aman Kumar",
+      "num": "9871136192"
+    },
+    {
+      "aadhar": "255461114875",
+      "address": "S/O Narender Kumar!1014!sector 9!st anthony school!sector 9!Faridabad!Faridabad!Haryana!121006",
+      "alt": "8595766470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Narender Kumar",
+      "name": "Aman Kumar",
+      "num": "9871136192"
+    }
+  ]
+}
