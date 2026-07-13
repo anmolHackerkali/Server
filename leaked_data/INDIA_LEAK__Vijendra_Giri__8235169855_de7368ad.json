@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:33:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8235169855",
+  "records": [
+    {
+      "aadhar": "768587902764",
+      "address": " Vill- Puran Bigha!Durgapur!!Nalanda Pawapuri!Nalanda!Nalanda!Bihar!803115 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bhagirath Giri ",
+      "name": " Vijendra Giri ",
+      "num": "8235169855"
+    },
+    {
+      "aadhar": "768587902764",
+      "address": " Vill- Puran Bigha!Durgapur!!Nalanda Pawapuri!Nalanda!Nalanda!Bihar!803115 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bhagirath Giri ",
+      "name": " Vijendra Giri ",
+      "num": "8235169855"
+    }
+  ]
+}
