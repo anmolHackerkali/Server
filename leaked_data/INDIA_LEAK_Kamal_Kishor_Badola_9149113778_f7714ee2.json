@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:24:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9149113778",
+  "records": [
+    {
+      "aadhar": "607258584586",
+      "address": "!!VIDYA VIHAR PHASE 2KARGI ROADPO.- BANJARAWALA!!DehradunDehradun!Uttarakhand!248001",
+      "alt": "+919412917456",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ramkrishan Badola",
+      "name": "Kamal Kishor Badola",
+      "num": "9149113778"
+    }
+  ]
+}
