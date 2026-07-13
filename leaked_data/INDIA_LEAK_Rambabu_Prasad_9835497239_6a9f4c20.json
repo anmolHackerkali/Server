@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:19:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835497239",
+  "records": [
+    {
+      "aadhar": "519653066883",
+      "address": "S/O  Ganesh Sah!!Chauradano!village-BHELVA!ekdari!Ekdari Narkatia!East Champaran!Bihar!845302",
+      "alt": "9504417954",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ganesh Sah",
+      "name": "Rambabu Prasad",
+      "num": "9835497239"
+    },
+    {
+      "aadhar": "519653066883",
+      "address": "S/O  Ganesh Sah!!Chauradano!village-BHELVA!ekdari!Ekdari Narkatia!East Champaran!Bihar!845302",
+      "alt": "9504417954",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ganesh Sah",
+      "name": "Rambabu Prasad",
+      "num": "9835497239"
+    },
+    {
+      "aadhar": "519653066883",
+      "address": "S/O  Ganesh Sah!!Chauradano!village-BHELVA!ekdari!Ekdari Narkatia!East Champaran!Bihar!845302",
+      "alt": "9504417954",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ganesh Sah",
+      "name": "Rambabu Prasad",
+      "num": "9835497239"
+    }
+  ]
+}
