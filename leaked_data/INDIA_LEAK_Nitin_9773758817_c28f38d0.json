@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:50:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9773758817",
+  "records": [
+    {
+      "aadhar": "689732648949",
+      "address": "!swatantra nagar 1-B!gali no-1b!swatantrata nagar!Narela!Delhi North!North West!Delhi!110040",
+      "alt": "7678683734",
+      "circle": "JIO DELHI",
+      "email": "nitinruhashna773389@gmail.com",
+      "fname": "anand kumar",
+      "name": "Nitin",
+      "num": "9773758817"
+    },
+    {
+      "aadhar": "689732648949",
+      "address": "s/o anand kumar!H NO 50!gali no 1-b!!SWATANTRA NAGAR NARELA north west DELHI!swatantra nagar!north west delhi!Delhi!110040",
+      "alt": "7303206097",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "anand kumar",
+      "name": "Nitin  ",
+      "num": "9773758817"
+    },
+    {
+      "aadhar": "689732648949",
+      "address": "!swatantra nagar1-B!gali no-1b!swatantrata nagar!Narela!Delhi North!North West!Delhi!110040",
+      "alt": "7678683734",
+      "circle": "JIO DELHI",
+      "email": "nitinruhashna773389@gmail.com",
+      "fname": "anand kumar",
+      "name": "Nitin",
+      "num": "9773758817"
+    },
+    {
+      "aadhar": "689732648949",
+      "address": "!swatantra nagar1-B!gali no-1b!swatantrata nagar!Narela!Delhi North!North West!Delhi!110040",
+      "alt": "7678683734",
+      "circle": "JIO DELHI",
+      "email": "nitinruhashna773389@gmail.com",
+      "fname": "anand kumar",
+      "name": "Nitin",
+      "num": "9773758817"
+    }
+  ]
+}
