@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:43:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9837150997",
+  "records": [
+    {
+      "aadhar": "UP81399681495",
+      "address": "420 MALIYANA!420 MALIYANA!MEERUT!MEERUT!Uttar Pradesh!201003",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "JAY PRAKASH",
+      "name": "JITENDER",
+      "num": "9837150997"
+    },
+    {
+      "aadhar": "UP81399681495",
+      "address": "420 MALIYANA!420 MALIYANA!MEERUT!MEERUT!Uttar Pradesh!201003",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "JAY PRAKASH",
+      "name": "JITENDER",
+      "num": "9837150997"
+    }
+  ]
+}
