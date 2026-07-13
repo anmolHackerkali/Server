@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:48:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9761452451",
+  "records": [
+    {
+      "aadhar": "377377704028",
+      "address": "S/O Tularam Verma!taliyan gali!beswan!!Besawan Dehat Beswan!Aligarh!Aligarh!Uttar Pradesh!202145",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tularam Verma",
+      "name": "Thakurdas Verma",
+      "num": "9761452451"
+    },
+    {
+      "aadhar": "377377704028",
+      "address": "S/O Tularam Verma!taliyan gali!beswan!!Besawan Dehat Beswan!Aligarh!Aligarh!Uttar Pradesh!202145",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tularam Verma",
+      "name": "Thakurdas Verma",
+      "num": "9761452451"
+    }
+  ]
+}
