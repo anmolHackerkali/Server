@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:12:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203397731",
+  "records": [
+    {
+      "aadhar": "473477590538",
+      "address": "S/O Purushottam Verma!!00 PANDEDIH  CHANDOUR BASTI Sijua!TETULMARI!Panredi Baghmara-cum-katras Dhanbad!Jharkhand!828121",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Purushottam Verma",
+      "name": "Aditya Verma",
+      "num": "6203397731"
+    },
+    {
+      "aadhar": "473477590538",
+      "address": "S/O Purushottam Verma!!00 PANDEDIH  CHANDOUR BASTI Sijua!TETULMARI!Panredi Baghmara-cum-katras Dhanbad!Jharkhand!828121",
+      "alt": "917870055783",
+      "circle": "JIO BHR&JHR",
+      "email": "aditya1liber@gmail.com",
+      "fname": "Purushottam Verma",
+      "name": "Aditya Verma",
+      "num": "6203397731"
+    },
+    {
+      "aadhar": "473477590538",
+      "address": "S/O Purushottam Verma!!00 PANDEDIH  CHANDOUR BASTI Sijua!TETULMARI!Panredi Baghmara-cum-katras Dhanbad!Jharkhand!828121",
+      "alt": "917870055783",
+      "circle": "JIO BHR&JHR",
+      "email": "aditya1liber@gmail.com",
+      "fname": "Purushottam Verma",
+      "name": "Aditya Verma",
+      "num": "6203397731"
+    }
+  ]
+}
