@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:51:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7042538142",
+  "records": [
+    {
+      "aadhar": "607470503271",
+      "address": " 115 delhi  village bharola azadpur Delhi North West Delhi Delhi 110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMDEV PASWAN",
+      "name": "Dhanaraj Paswan",
+      "num": "7042538142"
+    },
+    {
+      "aadhar": "607470503271",
+      "address": "!115!delhi!!village bharola azadpur!Delhi!North West Delhi!Delhi!110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMDEV PASWAN",
+      "name": "Dhanaraj Paswan",
+      "num": "7042538142"
+    },
+    {
+      "aadhar": "607470503271",
+      "address": "!115!delhi!!village bharola azadpur!Delhi!North West Delhi!Delhi!110033",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAMDEV PASWAN",
+      "name": "Dhanaraj Paswan",
+      "num": "7042538142"
+    }
+  ]
+}
