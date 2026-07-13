@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:05:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9558886553",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 53 Shital Park Society Vijalpore Eru Road Navsari Navsari NAVSARI Beside Petrol Pump NAVSARI Gujarat 396445 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " KALPESHKUMAR DILIPBHAI MANDAVIYA ",
+      "num": "9558886553"
+    },
+    {
+      "aadhar": "411858841533",
+      "address": "Dilipbhai!53!Shital Park Society Vijalpore Eru Road Navsari Navsari NAVSARI!Beside Petrol Pump!NAVSARI!Gujarat!396445",
+      "alt": "9978986800",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "DILIPBHAI ",
+      "name": "KALPESHKUMAR DILIPBHAI MANDAVIYA",
+      "num": "9558886553"
+    },
+    {
+      "aadhar": "411858841533",
+      "address": "Dilipbhai!53!Shital Park Society Vijalpore Eru Road Navsari Navsari NAVSARI!Beside Petrol Pump!NAVSARI!Gujarat!396445",
+      "alt": "9978986800",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "DILIPBHAI ",
+      "name": "KALPESHKUMAR DILIPBHAI MANDAVIYA",
+      "num": "9558886553"
+    },
+    {
+      "aadhar": null,
+      "address": " 53 Shital Park Society Vijalpore Eru Road Navsari Navsari NAVSARI Beside Petrol Pump NAVSARI Gujarat 396445 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " KALPESHKUMAR DILIPBHAI MANDAVIYA ",
+      "num": "9558886553"
+    },
+    {
+      "aadhar": "411858841533",
+      "address": "S/O  Dilipbhai Mandaviya!!1696-1 sagunanagar society behind ramji tempal Jalalpore!NA!jalalpor!Jalalpore Jalalpore Navsari!NA!Gujarat!396421",
+      "alt": "9558886553",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Dilipbhai Mandaviya",
+      "name": "Kalpeshkumar Dilipbhai Mandaviya",
+      "num": "8160372745"
+    },
+    {
+      "aadhar": "411858841533",
+      "address": "S/O  Dilipbhai Mandaviya!!1696-1 sagunanagar society behind ramji tempal Jalalpore!NA!jalalpor!Jalalpore Jalalpore Navsari!NA!Gujarat!396421",
+      "alt": "9558886553",
+      "circle": "JIO GUJARAT",
+      "email": "kalpesh_08@hotmail.com",
+      "fname": "Dilipbhai Mandaviya",
+      "name": "Kalpeshkumar Dilipbhai Mandaviya",
+      "num": "8160372745"
+    },
+    {
+      "aadhar": "411858841533",
+      "address": "S/O  Dilipbhai Mandaviya!!1696-1 sagunanagar society behind ramji tempal Jalalpore!NA!jalalpor!Jalalpore Jalalpore Navsari!NA!Gujarat!396421",
+      "alt": "9558886553",
+      "circle": "JIO GUJARAT",
+      "email": "kalpesh_08@hotmail.com",
+      "fname": "Dilipbhai Mandaviya",
+      "name": "Kalpeshkumar Dilipbhai Mandaviya",
+      "num": "8160372745"
+    }
+  ]
+}
