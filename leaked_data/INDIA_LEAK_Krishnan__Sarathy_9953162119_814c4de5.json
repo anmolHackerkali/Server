@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:09:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953162119",
+  "records": [
+    {
+      "aadhar": "Dl1220110072590",
+      "address": "Qtrs No-p/126/8 Vashant Range Colony Nh-8 Raotula Ram Marg  DEL2 110010! ! !!!",
+      "alt": "01123019360",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "B Krishnan Naicker",
+      "name": "Krishnan  Sarathy",
+      "num": "9953162119"
+    },
+    {
+      "aadhar": "Dl1220110072590",
+      "address": "!Qtrs Nop/126/8 Vashant Range Colony Nh8 Raotula Ram Marg  DEL2 110010!!!!!!!",
+      "alt": "01123019360",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "B Krishnan Naicker",
+      "name": "Krishnan  Sarathy",
+      "num": "9953162119"
+    },
+    {
+      "aadhar": "Dl1220110072590",
+      "address": "Qtrs Nop/126/8 Vashant Range Colony Nh8 Raotula Ram Marg  DEL2 110010! ! !!!",
+      "alt": "01123019360",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "B Krishnan Naicker",
+      "name": "Krishnan  Sarathy",
+      "num": "9953162119"
+    },
+    {
+      "aadhar": "Dl1220110072590",
+      "address": "Qtrs Nop/126/8 Vashant Range Colony Nh8 Raotula Ram Marg  DEL2 110010! ! !!!",
+      "alt": "01123019360",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "B Krishnan Naicker",
+      "name": "Krishnan  Sarathy",
+      "num": "9953162119"
+    }
+  ]
+}
