@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:48:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8271116746",
+  "records": [
+    {
+      "aadhar": "864961064261",
+      "address": "!!Bihariganjbihariganj!Madhepura!!Madhepura!Bihar!852101",
+      "alt": "9470788133",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sinil Saha",
+      "name": "Anjana Devi",
+      "num": "8271116746"
+    },
+    {
+      "aadhar": "864961064261",
+      "address": "!!Bihariganjbihariganj!Madhepura!!Madhepura!Bihar!852101",
+      "alt": "9470788133",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sinil Saha",
+      "name": "Anjana Devi",
+      "num": "8271116746"
+    }
+  ]
+}
