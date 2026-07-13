@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:35:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210336065",
+  "records": [
+    {
+      "aadhar": "711662425276",
+      "address": "S/O  Om Prakash Rajak!!Tetar Path(mourya Path)!Nayachak Ashish Co-operative Socity!MANOHARPUR KACHHUARA PATNA!Bihar!800016",
+      "alt": "919934464646",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Om Prakash Rajak",
+      "name": "Ashish Kumar",
+      "num": "8210336065"
+    },
+    {
+      "aadhar": "711662425276",
+      "address": "S/O  Om Prakash Rajak!!Tetar Path(mourya Path)!Nayachak Ashish Co-operative Socity!MANOHARPUR KACHHUARA PATNA!Bihar!800016",
+      "alt": "919934464646",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Om Prakash Rajak",
+      "name": "Ashish Kumar",
+      "num": "8210336065"
+    },
+    {
+      "aadhar": "483331742477",
+      "address": "D/O Shivnath Prasad!  !BAJAJA GALI!NEAR POONAM ELECTRONIC!BAKAR GANJ!Bakarganj!Patna!Bihar!800004",
+      "alt": "8210336065",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shivnath Prasad",
+      "name": "Suman Kumari",
+      "num": "9798222180"
+    },
+    {
+      "aadhar": "483331742477",
+      "address": "D/O Shivnath Prasad! .!BAJAJA GALI!NEAR POONAM ELECTRONIC!BAKAR GANJ!Bakarganj!Patna!Bihar!800004",
+      "alt": "8210336065",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shivnath Prasad",
+      "name": "Suman Kumari",
+      "num": "9798222180"
+    },
+    {
+      "aadhar": "483331742477",
+      "address": "D/O Shivnath Prasad! .!BAJAJA GALI!NEAR POONAM ELECTRONIC!BAKAR GANJ!Bakarganj!Patna!Bihar!800004",
+      "alt": "8210336065",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shivnath Prasad",
+      "name": "Suman Kumari",
+      "num": "9798222180"
+    }
+  ]
+}
