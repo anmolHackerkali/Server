@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:22:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9305487383",
+  "records": [
+    {
+      "aadhar": "970129758458",
+      "address": "S/O  Sitthu!! Pokhara!NA!Bhulandih!Bhulandih Kerakat Jaunpur!NA!Uttar Pradesh!222149",
+      "alt": "9598800792",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sitthu",
+      "name": "Sanjay",
+      "num": "9305487383"
+    },
+    {
+      "aadhar": "970129758458",
+      "address": "S/O  Sitthu!! Pokhara!NA!Bhulandih!Bhulandih Kerakat Jaunpur!NA!Uttar Pradesh!222149",
+      "alt": "9598800792",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sitthu",
+      "name": "Sanjay",
+      "num": "9305487383"
+    }
+  ]
+}
