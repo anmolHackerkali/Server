@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 06:41:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6294050583",
+  "records": [
+    {
+      "aadhar": "538689486167",
+      "address": "S/O Narottam Chand!!Kenjakura!!!Radhakantapur!Bankura!West Bengal!722139",
+      "alt": "9800374301",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Narottam Chand",
+      "name": "PARESH CHAND",
+      "num": "6294050583"
+    },
+    {
+      "aadhar": "538689486167",
+      "address": "S/O Narottam Chand!!Kenjakura!!!Radhakantapur!Bankura!West Bengal!722139",
+      "alt": "9800374301",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Narottam Chand",
+      "name": "PARESH CHAND",
+      "num": "6294050583"
+    }
+  ]
+}
