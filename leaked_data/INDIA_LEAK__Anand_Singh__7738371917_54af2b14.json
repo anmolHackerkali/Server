@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:41:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7738371917",
+  "records": [
+    {
+      "aadhar": "997005214280",
+      "address": " Rampur!Saran!!Rampur Khorram!Saran!Saran!Bihar!841442 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shilanath Singh ",
+      "name": " Anand Singh ",
+      "num": "7738371917"
+    },
+    {
+      "aadhar": "997005214280",
+      "address": " Rampur!Saran!!Rampur Khorram!Saran!Saran!Bihar!841442 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shilanath Singh ",
+      "name": " Anand Singh ",
+      "num": "7738371917"
+    }
+  ]
+}
