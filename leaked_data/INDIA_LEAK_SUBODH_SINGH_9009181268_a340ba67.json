@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:48:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9009181268",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5778",
+      "address": "S/O Sudama Singh!S/O Sudama Singhh no 225/2!sarora! !SARORA-RAIPUR!CT!493221",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SUDAMA SINGH",
+      "name": "SUBODH SINGH",
+      "num": "9009181268"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Rakesh!.!Ward No 6!Town SatwasDewas!!DEWAS!Dewas!Madhya Pradesh!455332",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "D/O Rakesh",
+      "name": "Ritika ",
+      "num": "9009181268"
+    }
+  ]
+}
