@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:36:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8804980930",
+  "records": [
+    {
+      "aadhar": "631861353376",
+      "address": "S/O Upendra Kumar!903!Road No 7 E  Magadh Colony!P O- Chandauti Gaya!Near Medical College!Gaya Gaya Gaya!Bihar!823001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Upendra  Kumar",
+      "name": "Akash Kumar Singh",
+      "num": "8804980930"
+    },
+    {
+      "aadhar": "631861353376",
+      "address": "S/O Upendra Kumar!903!Road No 7 E  Magadh Colony!P O- Chandauti Gaya!Near Medical College!Gaya Gaya Gaya!Bihar!823001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Upendra  Kumar",
+      "name": "Akash Kumar Singh",
+      "num": "8804980930"
+    }
+  ]
+}
