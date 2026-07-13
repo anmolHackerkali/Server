@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:14:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8868858388",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Pawan Kumar!!!!BadarkhaBaghpat!Uttar Pradesh!250617",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Pawan Kumar",
+      "name": "Vinit Kaushik",
+      "num": "8868858388"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Pawan Kumar!!!!Badarkha Baghpat!Uttar Pradesh!250617",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Pawan Kumar",
+      "name": "Vinit Kaushik",
+      "num": "8868858388"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Pawan Kumar!!!!Badarkha Baghpat!Uttar Pradesh!250617",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Pawan Kumar",
+      "name": "Vinit Kaushik",
+      "num": "8868858388"
+    },
+    {
+      "aadhar": "825955343077",
+      "address": "S/O  Tilak Ram Sharma!!20/365Baraut!NA!subash nagr!BarautBarautBaghpat!NA!Uttar Pradesh!250611",
+      "alt": "8868858388",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Tilak Ram Sharma",
+      "name": "Krishan Kumar Sharma",
+      "num": "8923687383"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ramnath!.!.!pipari post pipari Azamgarh!!Azamgarh!UTTAR PRADESH!276142",
+      "alt": "8868858388",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ramnath",
+      "name": "Sikandar ",
+      "num": "9616770981"
+    },
+    {
+      "aadhar": "825955343077",
+      "address": "S/O  Tilak Ram Sharma!!20/365  Baraut!NA!subash nagr!Baraut Baraut Baghpat!NA!Uttar Pradesh!250611",
+      "alt": "8868858388",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Tilak Ram Sharma",
+      "name": "Krishan Kumar Sharma",
+      "num": "8923687383"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ramnath!.!.!pipari post pipari Azamgarh!!Azamgarh!UTTAR PRADESH!276142",
+      "alt": "8868858388",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Ramnath",
+      "name": "Sikandar ",
+      "num": "9616770981"
+    },
+    {
+      "aadhar": "825955343077",
+      "address": "S/O  Tilak Ram Sharma!!20/365  Baraut!NA!subash nagr!Baraut Baraut Baghpat!NA!Uttar Pradesh!250611",
+      "alt": "8868858388",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Tilak Ram Sharma",
+      "name": "Krishan Kumar Sharma",
+      "num": "8923687383"
+    }
+  ]
+}
