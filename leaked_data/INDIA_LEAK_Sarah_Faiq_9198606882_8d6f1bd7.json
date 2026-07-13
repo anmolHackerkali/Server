@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:22:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9198606882",
+  "records": [
+    {
+      "aadhar": "257295763403",
+      "address": "d/o   mohd.faiq! 266!!!astabal char bag!moulviganj!lucknow!Uttar Pradesh!226018",
+      "alt": "9695380350",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mohdfaiq",
+      "name": "Sarah Faiq",
+      "num": "9198606882"
+    },
+    {
+      "aadhar": "257295763403",
+      "address": "d/o   mohd.faiq! 266!!!astabal char bag!moulviganj!lucknow!Uttar Pradesh!226018",
+      "alt": "9695380350",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "mohdfaiq",
+      "name": "Sarah Faiq",
+      "num": "9198606882"
+    }
+  ]
+}
