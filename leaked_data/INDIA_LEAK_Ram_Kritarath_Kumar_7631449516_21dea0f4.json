@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:28:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7631449516",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!-!HANUMAN NAGAR!NARYANPUR!BARBIGHA!Barbigha!Sheikhpura!Bihar!811101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Beni Prasad",
+      "name": "Ram Kritarath Kumar",
+      "num": "7631449516"
+    },
+    {
+      "aadhar": "714790270140",
+      "address": "  - HANUMAN NAGAR BARBIGHA Barbigha NARYANPUR Barbigha-Barbigha-Sheikhpura Bihar 811101 ",
+      "alt": "9835852515",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " beni Prasad ",
+      "name": " Ram Kritarath Kumar ",
+      "num": "7631449516"
+    },
+    {
+      "aadhar": "714790270140",
+      "address": "  - HANUMAN NAGAR BARBIGHA Barbigha NARYANPUR Barbigha-Barbigha-Sheikhpura Bihar 811101 ",
+      "alt": "9835852515",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " beni Prasad ",
+      "name": " Ram Kritarath Kumar ",
+      "num": "7631449516"
+    },
+    {
+      "aadhar": null,
+      "address": "!-!HANUMAN NAGAR!NARYANPUR!BARBIGHA!Barbigha!Sheikhpura!Bihar!811101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Beni Prasad",
+      "name": "Ram Kritarath Kumar",
+      "num": "7631449516"
+    },
+    {
+      "aadhar": "714790270140",
+      "address": " HANUMAN NAGARNARYANPUR HANUMAN NAGARNARYANPUR BARBIGHA LAKHISARAI 811101 Bihar HANUMAN NAGARNARYANPUR BARBIGHA LAKHISARAI  CHAK TAHIR Bihar 811101 ",
+      "alt": "7631449516",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BENI PRASAD ",
+      "name": " RAM KRITARATH KUMAR ",
+      "num": "9117980157"
+    },
+    {
+      "aadhar": "714790270140",
+      "address": " HANUMAN NAGARNARYANPUR HANUMAN NAGARNARYANPUR BARBIGHA LAKHISARAI 811101 Bihar HANUMAN NAGARNARYANPUR BARBIGHA LAKHISARAI  CHAK TAHIR Bihar 811101 ",
+      "alt": "7631449516",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BENI PRASAD ",
+      "name": " RAM KRITARATH KUMAR ",
+      "num": "9117980157"
+    }
+  ]
+}
