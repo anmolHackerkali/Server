@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:41:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6262872825",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx2221",
+      "address": "c/o vesta khaped! gram bhagor!!post bhagor!post bhagor!Bhagor!Jhabua!Madhya Pradesh!457779",
+      "alt": "8269882032",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "vesta",
+      "name": "Lallu Khaped",
+      "num": "6262872825"
+    }
+  ]
+}
