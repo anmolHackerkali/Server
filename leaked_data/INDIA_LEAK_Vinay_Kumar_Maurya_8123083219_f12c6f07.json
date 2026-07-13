@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:49:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8123083219",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ram Niwas Maurya 54 4th Main Road Vinayaka Nagar  Bangalore North Bangalore  Karnataka 560063",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Ram Niwas Maurya",
+      "name": "Vinay Kumar Maurya",
+      "num": "8123083219"
+    },
+    {
+      "aadhar": "376773834465",
+      "address": "!HOSE NO 11253!sanjay colony!gali no 54!sector 23!Faridabad!Faridabad!Haryana!121005",
+      "alt": "8123083219",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ram Niwas",
+      "name": "Vinay Kumar Maurya",
+      "num": "8882897682"
+    },
+    {
+      "aadhar": "376773834465",
+      "address": "!HOSE NO 11253!sanjay colony!gali no 54!sector 23!Faridabad!Faridabad!Haryana!121005",
+      "alt": "8123083219",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ram Niwas",
+      "name": "Vinay Kumar Maurya",
+      "num": "8882897682"
+    },
+    {
+      "aadhar": "376773834465",
+      "address": "!HOSE NO 11253!sanjay colony!gali no 54!sector 23!Faridabad!Faridabad!Haryana!121005",
+      "alt": "8123083219",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ram Niwas",
+      "name": "Vinay Kumar Maurya",
+      "num": "8882897682"
+    },
+    {
+      "aadhar": "376773834465",
+      "address": "#54  4th Main Road Vinayaka Nagar Bangalore North  Bangalore Karnataka 560063",
+      "alt": "8123083219",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "S/O Ram Niwas Maurya",
+      "name": "Vinay Kumar Maurya  ",
+      "num": "9483897631"
+    },
+    {
+      "aadhar": "376773834465",
+      "address": "#54  4th Main Road Vinayaka Nagar Bangalore North  Bangalore Karnataka 560063",
+      "alt": "8123083219",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "S/O Ram Niwas Maurya",
+      "name": "Vinay Kumar Maurya  ",
+      "num": "9483248381"
+    }
+  ]
+}
