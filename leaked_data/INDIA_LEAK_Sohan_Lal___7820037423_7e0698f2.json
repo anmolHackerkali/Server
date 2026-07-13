@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:27:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7820037423",
+  "records": [
+    {
+      "aadhar": "947313818362",
+      "address": "s/o chand ram!02!Bhagwat!!tehsil- tiuni shediya!bhagwat!dehradun!Uttarakhand!248199",
+      "alt": "9027508485",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "chand ram",
+      "name": "Sohan Lal  ",
+      "num": "7820037423"
+    }
+  ]
+}
