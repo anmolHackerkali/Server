@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 13:14:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765947639",
+  "records": [
+    {
+      "aadhar": "Ckt7256563",
+      "address": "46 Kh!Bagh Jafar Khan!Patna Sadar!Patna!Bihar!800009",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Premchand  Sahni",
+      "name": "Santosh  Sahni",
+      "num": "7765947639"
+    },
+    {
+      "aadhar": "Ckt7256563",
+      "address": "46 Kh!Bagh Jafar Khan!Patna Sadar!Patna!Bihar!800009",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Premchand  Sahni",
+      "name": "Santosh  Sahni",
+      "num": "7765947639"
+    },
+    {
+      "aadhar": "806409188510",
+      "address": "s/o  paramchand sahni!!Kachi Dargah!!vill-banstal po- kachchi dargah ps-didarganj kachi dargah!jethuli Fatuha!patna!Bihar!803201",
+      "alt": "7765947639",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "paramchand sahni",
+      "name": "Santosh Sahni",
+      "num": "6202186698"
+    },
+    {
+      "aadhar": "806409188510",
+      "address": "s/o  paramchand sahni!!Kachi Dargah!!vill-banstal po- kachchi dargah ps-didarganj kachi dargah!jethuli Fatuha!patna!Bihar!803201",
+      "alt": "7765947639",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "paramchand sahni",
+      "name": "Santosh Sahni",
+      "num": "6202186698"
+    }
+  ]
+}
