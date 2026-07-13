@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 15:52:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9727048687",
+  "records": [
+    {
+      "aadhar": "480854806232",
+      "address": "s/o  ishvarbhai patel! 1815!bharda faliya Ghej!!bharda faliya chikhli ghej chikhli!ghej Chikhli!navsari!Gujarat!396521",
+      "alt": "9913915221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ishvarbhai patel",
+      "name": "Ankur Ishvarbhai Patel",
+      "num": "9727048687"
+    },
+    {
+      "aadhar": "480854806232",
+      "address": "s/o  ishvarbhai patel! 1815!bharda faliya Ghej!!bharda faliya chikhli ghej chikhli!ghej Chikhli!navsari!Gujarat!396521",
+      "alt": "9913915221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ishvarbhai patel",
+      "name": "Ankur Ishvarbhai Patel",
+      "num": "9727048687"
+    },
+    {
+      "aadhar": "480854806232",
+      "address": "s/o  ishvarbhai patel! 1815!bharda faliya Ghej!!bharda faliya chikhli ghej chikhli!ghej Chikhli!navsari!Gujarat!396521",
+      "alt": "9913915221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ishvarbhai patel",
+      "name": "Ankur Ishvarbhai Patel",
+      "num": "9727048687"
+    },
+    {
+      "aadhar": "620958060798",
+      "address": "C/O: Ntanojbhai Babarbhai Patel!2027!Chikhli chikhli  Ghej!chikhli  Ghej!NISHAL faiiya  Bharda  chikhli  Ghej NAVSARI!BILLIMORA!NAVSARI!Gujarat!396521",
+      "alt": "9727048687",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Bababhai Patel",
+      "name": "MR MANOJBHAI PATEL",
+      "num": "7698823159"
+    },
+    {
+      "aadhar": "620958060798",
+      "address": "C/O: Ntanojbhai Babarbhai Patel!2027!Chikhli chikhli  Ghej!chikhli  Ghej!NISHAL faiiya  Bharda  chikhli  Ghej NAVSARI!BILLIMORA!NAVSARI!Gujarat!396521",
+      "alt": "9727048687",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Bababhai Patel",
+      "name": "MR MANOJBHAI PATEL",
+      "num": "7698823159"
+    }
+  ]
+}
