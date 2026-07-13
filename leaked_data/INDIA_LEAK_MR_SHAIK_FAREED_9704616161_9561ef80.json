@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:49:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9704616161",
+  "records": [
+    {
+      "aadhar": "993349426762",
+      "address": "C/O Md Hayat!14-24/64/11/1  Plot No 43!Road No 3  Sai High Scool  Beeramguda Krishna Devaraya!Krishna Devaraya!Colony  Ramachandrapuram  Sangareddy MEDAK!AMEENAPUR!MEDAK!Andhra Pradesh!502032",
+      "alt": "9704616161",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "MD HAYAT",
+      "name": "MR SHAIK FAREED",
+      "num": "9703545797"
+    }
+  ]
+}
