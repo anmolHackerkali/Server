@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:16:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9471418396",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX1409",
+      "address": "!chorwar!post-chorwar!thana-ariyari!thana-ariyari!Chorbar!Sheikhpura!BIHAR!811105",
+      "alt": "7488244387",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S O MAHESH PRASAD",
+      "name": "RAUSHAN KUMAR",
+      "num": "9471418396"
+    },
+    {
+      "aadhar": "XXXXXXXX1409",
+      "address": " chorwar thana-ariyari post-chorwar thana-ariyari Chorbar  Sheikhpura BIHAR 811105 ",
+      "alt": "7488244387",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O MAHESH PRASAD ",
+      "name": " RAUSHAN KUMAR  ... ",
+      "num": "9471418396"
+    },
+    {
+      "aadhar": "XXXXXXXX1409",
+      "address": " chorwar thana-ariyari post-chorwar thana-ariyari Chorbar  Sheikhpura BIHAR 811105 ",
+      "alt": "7488244387",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O MAHESH PRASAD ",
+      "name": " RAUSHAN KUMAR  ... ",
+      "num": "9471418396"
+    }
+  ]
+}
