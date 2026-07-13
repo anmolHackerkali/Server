@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:22:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9893144945",
+  "records": [
+    {
+      "aadhar": "209339642879",
+      "address": "S/O Omprakash Ahir!Narayangarh!NarayangarhHARSOLMANDSAUR Ward K 13 Ahir Mohlla Gudbheli narayangarhwali MANDSAUR!!!HARSOL!MANDSAUR!Madhya Pradesh!458553",
+      "alt": "9893144945",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "OMPRAKASH AHIR",
+      "name": "KANHAIYALAL YADAV",
+      "num": "8770802318"
+    }
+  ]
+}
