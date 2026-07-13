@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 10:07:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287028751",
+  "records": [
+    {
+      "aadhar": "ZSX2085488",
+      "address": "!!2/168 teliwara!NA!shahdara!Delhi East North East!NA!Delhi!110032",
+      "alt": "9643686249",
+      "circle": "JIO DELHI",
+      "email": "navyavermaag03@gmail.com",
+      "fname": "ajay Singh verma",
+      "name": "arun verma",
+      "num": "8287028751"
+    },
+    {
+      "aadhar": "ZSX2085488",
+      "address": "!!2/168teliwara!NA!shahdara!Delhi EastNorth East!NA!Delhi!110032",
+      "alt": "9643686249",
+      "circle": "JIO DELHI",
+      "email": "navyavermaag03@gmail.com",
+      "fname": "ajay Singh verma",
+      "name": "arun verma",
+      "num": "8287028751"
+    },
+    {
+      "aadhar": "ZSX2085488",
+      "address": "!!2/168teliwara!NA!shahdara!Delhi EastNorth East!NA!Delhi!110032",
+      "alt": "9643686249",
+      "circle": "JIO DELHI",
+      "email": "navyavermaag03@gmail.com",
+      "fname": "ajay Singh verma",
+      "name": "arun verma",
+      "num": "8287028751"
+    }
+  ]
+}
