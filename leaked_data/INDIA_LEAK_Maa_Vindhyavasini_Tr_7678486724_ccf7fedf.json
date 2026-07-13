@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:40:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7678486724",
+  "records": [
+    {
+      "aadhar": "00000038450525867",
+      "address": "H NO B-22/A KH NO 34/19!SHANTI NAGAR EAST DELHI!!DELHI!Delhi!110094",
+      "alt": "7011718138",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "SATISH KUMAR",
+      "name": "Maa Vindhyavasini Traders",
+      "num": "7678486724"
+    },
+    {
+      "aadhar": "00000038450525867",
+      "address": "H NO B-22/A KH NO 34/19!SHANTI NAGAR EAST DELHI!!DELHI!Delhi!110094",
+      "alt": "7011718138",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "SATISH KUMAR",
+      "name": "Maa Vindhyavasini Traders",
+      "num": "7678486724"
+    },
+    {
+      "aadhar": "00000038450525867",
+      "address": "H NO B-22/A KH NO 34/19!SHANTI NAGAR EAST DELHI!!DELHI!Delhi!110094",
+      "alt": "7011718138",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "SATISH KUMAR",
+      "name": "Maa Vindhyavasini Traders",
+      "num": "7678486724"
+    }
+  ]
+}
