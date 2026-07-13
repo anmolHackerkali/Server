@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:11:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7800161571",
+  "records": [
+    {
+      "aadhar": "367114749074",
+      "address": "S/O  Mahendra Kumar Gupta!!104 KAVERI  SUNRISE TOWN GHAUSABAD CHOWKAGHAT SUNRISE FOOD AND SHOPPE Varanasi Cantt!NA!!Varanasi Varanasi Varanasi!NA!Uttar Pradesh!221002",
+      "alt": "9919889444",
+      "circle": "JIO UPE",
+      "email": "shreyanshgupta208@gmail.com",
+      "fname": "Mahendra Kumar Gupta",
+      "name": "Shreyansh Gupta",
+      "num": "7800161571"
+    },
+    {
+      "aadhar": "367114749074",
+      "address": "S/O  Mahendra Kumar Gupta!!104 KAVERI  SUNRISE TOWN GHAUSABAD CHOWKAGHAT SUNRISE FOOD AND SHOPPE Varanasi Cantt!NA!!Varanasi Varanasi Varanasi!NA!Uttar Pradesh!221002",
+      "alt": "9919889444",
+      "circle": "JIO UPE",
+      "email": "shreyanshgupta208@gmail.com",
+      "fname": "Mahendra Kumar Gupta",
+      "name": "Shreyansh Gupta",
+      "num": "7800161571"
+    },
+    {
+      "aadhar": "367114749074",
+      "address": "!01!karishana radday building!!10 cross thulsi thetar road marathahalli!Bangalore!Bengaluru Urban!Karnataka!560037",
+      "alt": "9918889444",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "mahendra kumar gupta",
+      "name": "Shreyansh Gupta",
+      "num": "7800161571"
+    },
+    {
+      "aadhar": "804075821950",
+      "address": "!104 KAVERI  GHAUSABAD !SUNRISE TOWN VARANASI!SUNRISE TOWN VARANASI!CHAUKAGHAT VARANASI VARANASI!VARANASI!UTTAR PRADESH!221002",
+      "alt": "7800161571",
+      "circle": "UPE",
+      "email": "shruti.gupta015@gmail.com",
+      "fname": "Mahendra Kumar Gupta",
+      "name": "MS SHRUTI GUPTA",
+      "num": "8447438499"
+    },
+    {
+      "aadhar": "804075821950",
+      "address": "!104 KAVERI  GHAUSABAD !SUNRISE TOWN VARANASI!SUNRISE TOWN VARANASI!CHAUKAGHAT VARANASI VARANASI!VARANASI!UTTAR PRADESH!221002",
+      "alt": "7800161571",
+      "circle": "UPE",
+      "email": "shruti.gupta015@gmail.com",
+      "fname": "Mahendra Kumar Gupta",
+      "name": "MS SHRUTI GUPTA",
+      "num": "8447438499"
+    }
+  ]
+}
