@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 20:20:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7987709551",
+  "records": [
+    {
+      "aadhar": "554033118761",
+      "address": "W/O  Ramkhilawan Verma!!59 SUBHAsh CHOWK Birgaon!NA!Ward No-27!Birgaon Raipur Raipur!NA!Chhattisgarh!493221",
+      "alt": "8120544447",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ramkhilawan Verma",
+      "name": "Jamuna Bai Verma",
+      "num": "7987709551"
+    }
+  ]
+}
