@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:11:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9652187061",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "HNOI  9-3-126!MOHINPURA!WARD 9  SIDDIPET!Medak Medak!TELANGANA!502103",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "J  VEERAIAH",
+      "name": "J SATYANARAYANA  .  .",
+      "num": "9652187061"
+    }
+  ]
+}
