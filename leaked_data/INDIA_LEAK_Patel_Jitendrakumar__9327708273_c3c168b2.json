@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:41:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9327708273",
+  "records": [
+    {
+      "aadhar": "882254478011",
+      "address": "S/O Ambalal!!E/2 PAYAL PLAZA FLAT OPP PRARTHNA FLAT!NA!SAIJPUR BHOGHA!Ahmadabad City Ahmadabad!NA!Gujarat!382345",
+      "alt": "7878127150",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ambalal",
+      "name": "Patel Jitendrakumar Ambalal",
+      "num": "9327708273"
+    },
+    {
+      "aadhar": null,
+      "address": "!!J-504 dev residency keyur park society!nava nikol!Nikol Ahmedabad!Gujarat!382350",
+      "alt": "917878127150",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ambalal",
+      "name": "Patel Jitendrakumar Ambalal",
+      "num": "9327708273"
+    },
+    {
+      "aadhar": "882254478011",
+      "address": "S/O Ambalal!!E/2 PAYAL PLAZA FLAT OPP PRARTHNA FLAT!NA!SAIJPUR BHOGHA!Ahmadabad City Ahmadabad!NA!Gujarat!382345",
+      "alt": "7878127150",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ambalal",
+      "name": "Patel Jitendrakumar Ambalal",
+      "num": "9327708273"
+    },
+    {
+      "aadhar": null,
+      "address": "!!J-504 dev residency keyur park society!nava nikol!Nikol Ahmedabad!Gujarat!382350",
+      "alt": "917878127150",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ambalal",
+      "name": "Patel Jitendrakumar Ambalal",
+      "num": "9327708273"
+    },
+    {
+      "aadhar": "882254478011",
+      "address": "S/O Ambalal!!E/2 PAYAL PLAZA FLAT OPP PRARTHNA FLAT!NA!SAIJPUR BHOGHA!Ahmadabad City Ahmadabad!NA!Gujarat!382345",
+      "alt": "7878127150",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ambalal",
+      "name": "Patel Jitendrakumar Ambalal",
+      "num": "9327708273"
+    }
+  ]
+}
