@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:36:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004127927",
+  "records": [
+    {
+      "aadhar": "230143280678",
+      "address": "W/O  Arbind Kumar Singh!!ward no-7 Koilwar!!Koilwar Koilwar Bhojpur!Bihar!802160",
+      "alt": "917544984601",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arbind Kumar Singh",
+      "name": "Rakhi Singh",
+      "num": "7004127927"
+    },
+    {
+      "aadhar": "230143280678",
+      "address": "W/O  Arbind Kumar Singh!!ward no-7 Koilwar!!Koilwar Koilwar Bhojpur!Bihar!802160",
+      "alt": "917544984601",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arbind Kumar Singh",
+      "name": "Rakhi Singh",
+      "num": "7004127927"
+    },
+    {
+      "aadhar": "230143280678",
+      "address": "W/O  Arbind Kumar Singh!!ward no-7 Koilwar!!Koilwar Koilwar Bhojpur!Bihar!802160",
+      "alt": "917544984601",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arbind Kumar Singh",
+      "name": "Rakhi Singh",
+      "num": "7004127927"
+    }
+  ]
+}
