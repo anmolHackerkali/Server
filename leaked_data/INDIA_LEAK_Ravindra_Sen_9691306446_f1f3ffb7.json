@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:08:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9691306446",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Dhul Ji Sen!!!gram post gilakhedi!Gilakhedi Rajgarh!Madhya Pradesh!465667",
+      "alt": null,
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Dhul Ji Sen",
+      "name": "Ravindra Sen",
+      "num": "9691306446"
+    }
+  ]
+}
