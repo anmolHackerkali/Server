@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:20:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985642007",
+  "records": [
+    {
+      "aadhar": "414545792702",
+      "address": "D/O: Shiv Sagar!!!!Shahpur Tonda Unnao!Uttar Pradesh!229881",
+      "alt": "919889180342",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shiv Sagar",
+      "name": "Komal Gupta",
+      "num": "7985642007"
+    },
+    {
+      "aadhar": "414545792702",
+      "address": "D/O: Shiv Sagar!!!!Shahpur Tonda Unnao!Uttar Pradesh!229881",
+      "alt": "919889180342",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shiv Sagar",
+      "name": "Komal Gupta",
+      "num": "7985642007"
+    }
+  ]
+}
