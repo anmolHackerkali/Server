@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:41:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709061860",
+  "records": [
+    {
+      "aadhar": "203130858438",
+      "address": "S/O  Md  Idrish!!Sitanabad Barewa Tola!Ward No-14!SARAUNJA THANA SITANABAD SAHARSA!Bihar!852106",
+      "alt": "918678812283",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md  Idrish",
+      "name": "Md  Jalal",
+      "num": "8709061860"
+    },
+    {
+      "aadhar": "203130858438",
+      "address": "S/O  Md  Idrish!!Sitanabad Barewa Tola!Ward No-14!SARAUNJA THANA SITANABAD SAHARSA!Bihar!852106",
+      "alt": "918678812283",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md  Idrish",
+      "name": "Md  Jalal",
+      "num": "8709061860"
+    },
+    {
+      "aadhar": "203130858438",
+      "address": "S/O  Md  Idrish!!Sitanabad Barewa Tola!Ward No-14!SARAUNJA THANA SITANABAD SAHARSA!Bihar!852106",
+      "alt": "918678812283",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md  Idrish",
+      "name": "Md  Jalal",
+      "num": "8709061860"
+    },
+    {
+      "aadhar": "855843300642",
+      "address": "!House No 219!housing board colony!sect 6 huda!!Panipat!Panipat!Haryana!132103",
+      "alt": "8709061860",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Bihari",
+      "name": "Ashok Kori",
+      "num": "9350976801"
+    },
+    {
+      "aadhar": "706010566260",
+      "address": "!Ward No 7!Sanoli Road!Old Subzi Mandi!Panipat!Panipat!Panipat!Haryana!132103",
+      "alt": "8709061860",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Yunus",
+      "name": "Yusuf",
+      "num": "9350844176"
+    },
+    {
+      "aadhar": "701501788788",
+      "address": "!House No 49!VILLAGE BRAHMAN MAJRA !!BHADAR!Panipat!Panipat!Haryana!132103",
+      "alt": "8709061860",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "gani miya",
+      "name": "Md Sazahir",
+      "num": "8307785881"
+    }
+  ]
+}
