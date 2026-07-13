@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:42:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700709053",
+  "records": [
+    {
+      "aadhar": "726009489318",
+      "address": "S/O  Har Kishan!!House Number B-101 Gali Number-09!Phase-01  Shiv vihar  Karawal Nagar!Karawal Nagar North East Delhi!Delhi!110094",
+      "alt": "919582090045",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Har Kishan",
+      "name": "Jitendra Kumar",
+      "num": "8700709053"
+    },
+    {
+      "aadhar": "726009489318",
+      "address": "S/O Har Kishan!!House Number B-101Gali Number-09!Phase-01 Shiv vihar Karawal Nagar!Karawal NagarNorth East Delhi!Delhi!110094",
+      "alt": "919582090045",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Har Kishan",
+      "name": "Jitendra Kumar",
+      "num": "8700709053"
+    },
+    {
+      "aadhar": "726009489318",
+      "address": "S/O Har Kishan!!House Number B-101Gali Number-09!Phase-01 Shiv vihar Karawal Nagar!Karawal NagarNorth East Delhi!Delhi!110094",
+      "alt": "919582090045",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Har Kishan",
+      "name": "Jitendra Kumar",
+      "num": "8700709053"
+    },
+    {
+      "aadhar": "595536752128",
+      "address": "S/O  Shadiram!S/O  Shadiram  House No - B-101!B-Block Gali No -9 Phase-1  Shiv Vihar!Karawal Nagar  Seelam Pur !KARAWAL NAGAR-NORTH EAST DELHI!DL!110094",
+      "alt": "8700709053",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHADIRAM  ",
+      "name": "HARIKISHAN ",
+      "num": "8750081604"
+    },
+    {
+      "aadhar": "726009489318",
+      "address": "!B101!Gali no 9 phase 01!Gali no 9 phase 01!Shiv vihar north!EAST DELHI!EAST DELHI!Delhi!110094",
+      "alt": "8700709053",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Har kishan",
+      "name": "MR  JITENDRA KUMAR",
+      "num": "7838493252"
+    },
+    {
+      "aadhar": "595536752128",
+      "address": "S/O: Shadiram!S/O: Shadiram House No- B-101!B-Block Gali No-9 Phase-1 Shiv Vihar!Karawal Nagar Seelam Pur!KARAWAL NAGAR-NORTH EAST DELHI!DL!110094",
+      "alt": "8700709053",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHADIRAM ",
+      "name": "HARIKISHAN",
+      "num": "8750081604"
+    },
+    {
+      "aadhar": " 726009489318 ",
+      "address": "! B101 ! Gali no 9 phase 01 !  ! Shiv vihar north ! EAST DELHI !  ! Delhi ! 110094",
+      "alt": "8700709053",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Har kishan",
+      "name": "MR JITENDRA KUMAR",
+      "num": "7838493252"
+    },
+    {
+      "aadhar": "595536752128",
+      "address": "shiv vihar karwal nager   CENTRAL DELHI  JANPATH Delhi 110001",
+      "alt": "8700709053",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Shadiram",
+      "name": "HARIKISHAN .",
+      "num": "9837514996"
+    },
+    {
+      "aadhar": "595536752128",
+      "address": "S/O: Shadiram!S/O: Shadiram House No- B-101!B-Block Gali No-9 Phase-1 Shiv Vihar!Karawal Nagar Seelam Pur!KARAWAL NAGAR-NORTH EAST DELHI!DL!110094",
+      "alt": "8700709053",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHADIRAM ",
+      "name": "HARIKISHAN",
+      "num": "8750081604"
+    },
+    {
+      "aadhar": " 726009489318 ",
+      "address": "! B101 ! Gali no 9 phase 01 !  ! Shiv vihar north ! EAST DELHI !  ! Delhi ! 110094",
+      "alt": "8700709053",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Har kishan",
+      "name": "MR JITENDRA KUMAR",
+      "num": "7838493252"
+    },
+    {
+      "aadhar": "595536752128",
+      "address": "shiv vihar karwal nager   CENTRAL DELHI  JANPATH Delhi 110001",
+      "alt": "8700709053",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Shadiram",
+      "name": "HARIKISHAN .",
+      "num": "9837514996"
+    }
+  ]
+}
