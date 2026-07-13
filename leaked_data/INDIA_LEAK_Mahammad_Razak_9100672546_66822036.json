@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:09:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9100672546",
+  "records": [
+    {
+      "aadhar": "611492039441",
+      "address": "!!1-59 Irkode Siddipet!NA!Siddipet!Medak Medak!NA!Telangana!502114",
+      "alt": "9100672546",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Mahammad Bande Ali",
+      "name": "Mahammad Razak",
+      "num": "9100672546"
+    },
+    {
+      "aadhar": "611492039441",
+      "address": "!!1-59 Irkode Siddipet!NA!Siddipet!Medak Medak!NA!Telangana!502114",
+      "alt": "9100672546",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Mahammad Bande Ali",
+      "name": "Mahammad Razak",
+      "num": "9100672546"
+    }
+  ]
+}
