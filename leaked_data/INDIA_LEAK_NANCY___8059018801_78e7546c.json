@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:50:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8059018801",
+  "records": [
+    {
+      "aadhar": "595190890419",
+      "address": "D/O: Vijender Dhiran Was53 RAWALWAS khurdHISARHISAR   HISAR HISAR Haryana 125001",
+      "alt": "9991704131",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "VIJENDER  ",
+      "name": "NANCY  ",
+      "num": "8059018801"
+    }
+  ]
+}
