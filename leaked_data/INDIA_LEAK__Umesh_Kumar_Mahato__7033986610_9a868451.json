@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 08:52:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7033986610",
+  "records": [
+    {
+      "aadhar": "349153748323",
+      "address": " .!singhwars!banauli!village-banauli  post-banauli!Darbhanga!darbhanga!Bihar!847428 ",
+      "alt": "9262841066",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jagdish  Mahato ",
+      "name": " Umesh Kumar Mahato ",
+      "num": "7033986610"
+    },
+    {
+      "aadhar": "349153748323",
+      "address": " .!singhwars!banauli!village-banauli  post-banauli!Darbhanga!darbhanga!Bihar!847428 ",
+      "alt": "9262841066",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jagdish  Mahato ",
+      "name": " Umesh Kumar Mahato ",
+      "num": "7033986610"
+    }
+  ]
+}
