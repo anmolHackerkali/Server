@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:01:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708581903",
+  "records": [
+    {
+      "aadhar": "457144112044",
+      "address": "S/O  Naresh Kumar!!!!Anandpur 24 Rewari!Haryana!123501",
+      "alt": "+919467570193",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Naresh Kumar",
+      "name": "Krishan Kumar",
+      "num": "8708581903"
+    }
+  ]
+}
