@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:27:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9540913411",
+  "records": [
+    {
+      "aadhar": "402166116308",
+      "address": "!Room No 374 Sirke Compani Poket 13 Narela!Room No 374 Sirke Compani Poket 13 Narela Room No 374 Sirke Compani Poket 13 Narela NORTH WEST DELHI!!!ALI PUR!NORTH WEST DELHI!Delhi!110040",
+      "alt": "8308118147",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SANGITRAO SHENDGE",
+      "name": "MAHESH SANGITRAO SHENDGE",
+      "num": "9540913411"
+    },
+    {
+      "aadhar": " 402166116308 ",
+      "address": "! Room No 374 Sirke Compani Poket 13 Narela ! Room No 374 Sirke Compani Poket 13 Narela !  ! Room No 374 Sirke Compani Poket 13 Narela ! ALI PUR-NORTH WEST DELHI ! NORTH WEST DELHI ! DL ! 110040",
+      "alt": "8308118147",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SANGITRAO  SHENDGE",
+      "name": "MAHESH SANGITRAO SHENDGE",
+      "num": "9540913411"
+    },
+    {
+      "aadhar": "402166116308",
+      "address": "!Room No 374 Sirke Compani Poket 13 Narela!Room No 374 Sirke Compani Poket 13 NarelaRoom No 374 Sirke Compani Poket 13 NarelaNORTH WEST DELHI!!!ALI PUR!NORTH WEST DELHI!Delhi!110040",
+      "alt": "8308118147",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SANGITRAO SHENDGE",
+      "name": "MAHESH SANGITRAO SHENDGE",
+      "num": "9540913411"
+    },
+    {
+      "aadhar": "402166116308",
+      "address": "!Room No 374 Sirke Compani Poket 13 Narela!Room No 374 Sirke Compani Poket 13 NarelaRoom No 374 Sirke Compani Poket 13 NarelaNORTH WEST DELHI!!!ALI PUR!NORTH WEST DELHI!Delhi!110040",
+      "alt": "8308118147",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SANGITRAO SHENDGE",
+      "name": "MAHESH SANGITRAO SHENDGE",
+      "num": "9540913411"
+    }
+  ]
+}
