@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:53:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936370305",
+  "records": [
+    {
+      "aadhar": "409378241688",
+      "address": "S/O Ram Dulare Pal!S F 347!!sundar nagar Panki!Kanpur Nagar!Uttar Pradesh!208020",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Dulare Pal",
+      "name": "Kunvar Bahadur Pal",
+      "num": "9936370305"
+    },
+    {
+      "aadhar": "409378241688",
+      "address": "S/O Ram Dulare Pal!S F 347!!sundar nagar Panki!Kanpur Nagar!Uttar Pradesh!208020",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Dulare Pal",
+      "name": "Kunvar Bahadur Pal",
+      "num": "9936370305"
+    },
+    {
+      "aadhar": "xxxxxxxx4177",
+      "address": "D/O Kunvar Bahadur Pal!S F 347!Sundar Nagar!Panki Pankabahadur Nagar!Kanpur Nagar!Uttar Pradesh!208020",
+      "alt": "9936370305",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kunvar Bahadur Pal",
+      "name": "Neha  Pal",
+      "num": "8429229381"
+    },
+    {
+      "aadhar": "852281355574",
+      "address": "w/o ram naresh pal!262!Sundar nagar panki kanpur pankabahadur nagar kanpur!College!62 s. f sundar nagar panki kanpur!pankabahadur nagar!kanpur nagar!Uttar Pradesh!208020",
+      "alt": "9936370305",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram naresh pal",
+      "name": "Manisha Pal",
+      "num": "8181038098"
+    },
+    {
+      "aadhar": "xxxxxxxx4177",
+      "address": "D/O Kunvar Bahadur Pal!S F 347!Sundar Nagar!Panki Pankabahadur Nagar!Kanpur Nagar!Uttar Pradesh!208020",
+      "alt": "9936370305",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kunvar Bahadur Pal",
+      "name": "Neha  Pal",
+      "num": "8429229381"
+    },
+    {
+      "aadhar": "852281355574",
+      "address": "w/o ram naresh pal!262!Sundar nagar panki kanpur pankabahadur nagar kanpur!College!62 s. f sundar nagar panki kanpur!pankabahadur nagar!kanpur nagar!Uttar Pradesh!208020",
+      "alt": "9936370305",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ram naresh pal",
+      "name": "Manisha Pal",
+      "num": "8181038098"
+    }
+  ]
+}
