@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 18:23:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7830859514",
+  "records": [
+    {
+      "aadhar": "672242540247",
+      "address": " Gaderheri gadar heri Gadar Heri-Nakur-Saharanpur Uttar Pradesh 247232",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Dharmpal",
+      "name": "Charan Singh",
+      "num": "7830859514"
+    },
+    {
+      "aadhar": "672242540247",
+      "address": " Gaderheri gadar heri Gadar Heri-Nakur-Saharanpur Uttar Pradesh 247232",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Dharmpal",
+      "name": "Charan Singh",
+      "num": "7830859514"
+    }
+  ]
+}
