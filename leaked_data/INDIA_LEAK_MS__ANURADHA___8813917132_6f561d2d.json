@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 19:10:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8813917132",
+  "records": [
+    {
+      "aadhar": "613148782587",
+      "address": "Durga Colony house 55 Durga colonyKUNDLI KUNDLI D/O: Vijay BahadurSONIPAT RAI SONIPAT HARYANA 131028",
+      "alt": "9987740864",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Vijay Bahadur",
+      "name": "MS  ANURADHA  ",
+      "num": "8813917132"
+    }
+  ]
+}
