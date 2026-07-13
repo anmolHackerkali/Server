@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:58:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9695740072",
+  "records": [
+    {
+      "aadhar": "905311328837",
+      "address": "W/O Lala Ram!Bhulandih!Bhulandih!Tempal!Jaunpur Pokhara!Jaunpur!Jaunpur!Uttar Pradesh!222149",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lala Ram",
+      "name": "Suman Devi",
+      "num": "9695740072"
+    },
+    {
+      "aadhar": "905311328837",
+      "address": "W/O Lala Ram!Bhulandih!Bhulandih!Tempal!Jaunpur Pokhara!Jaunpur!Jaunpur!Uttar Pradesh!222149",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lala Ram",
+      "name": "Suman Devi",
+      "num": "9695740072"
+    }
+  ]
+}
