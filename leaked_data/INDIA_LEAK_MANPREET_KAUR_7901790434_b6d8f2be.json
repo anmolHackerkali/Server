@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:39:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7901790434",
+  "records": [
+    {
+      "aadhar": "641101211198",
+      "address": "D/O LACHHMAN SINGH!20!PATTI CHAHAL!!GALIB KALAN GALIB KALAN!LUDHIANA!LUDHIANA!PUNJAB!142036",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "JASWINDER SINGH",
+      "name": "MANPREET KAUR",
+      "num": "7901790434"
+    }
+  ]
+}
