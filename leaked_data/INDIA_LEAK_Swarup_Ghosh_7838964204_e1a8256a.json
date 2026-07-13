@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:59:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7838964204",
+  "records": [
+    {
+      "aadhar": "298969681799",
+      "address": " Ganesh Ghosh!60/4295 Second Floor!Regar Pura Karol Bagh!Karol Bagh!Karol Bagh- -Central Delhi!Delhi!110005",
+      "alt": "0",
+      "circle": "VI DELHI",
+      "email": "76sg76@gmail.com",
+      "fname": "S/O Ganesh Ghosh",
+      "name": "Swarup Ghosh",
+      "num": "7838964204"
+    },
+    {
+      "aadhar": "298969681799",
+      "address": "Ganesh Ghosh!60/4295 Second Floor!Regar Pura Karol Bagh!Karol Bagh!Karol Bagh- -Central Delhi!Delhi!110005",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "76sg76@gmail.com",
+      "fname": "S/OGanesh Ghosh",
+      "name": "SwarupGhosh",
+      "num": "7838964204"
+    },
+    {
+      "aadhar": "298969681799",
+      "address": "Ganesh Ghosh!60/4295 Second Floor!Regar Pura Karol Bagh!Karol Bagh!Karol Bagh- -Central Delhi!Delhi!110005",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "76sg76@gmail.com",
+      "fname": "S/OGanesh Ghosh",
+      "name": "SwarupGhosh",
+      "num": "7838964204"
+    }
+  ]
+}
