@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:52:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911250012",
+  "records": [
+    {
+      "aadhar": "716772950472",
+      "address": " 14 POOJA ENCLAVE RADHEY shyam park SAHIBABAD SAHIBABAD  ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "INDER PAL SINGH",
+      "name": "Balendra Singh",
+      "num": "9911250012"
+    },
+    {
+      "aadhar": "716772950472",
+      "address": "!14!POOJA ENCLAVE!RADHEY shyam park!SAHIBABAD SAHIBABAD  ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "INDER PAL SINGH",
+      "name": "Balendra Singh",
+      "num": "9911250012"
+    },
+    {
+      "aadhar": "716772950472",
+      "address": "!14!POOJA ENCLAVE!RADHEY shyam park!SAHIBABAD SAHIBABAD  ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "INDER PAL SINGH",
+      "name": "Balendra Singh",
+      "num": "9911250012"
+    },
+    {
+      "aadhar": "716772950472",
+      "address": "S/O Inder Pal Siingh!!14 Pooja Enclave Radhey Shyam Park Sahibabad!NA!Sahibabad!Sahibabad Ghaziabad Ghaziabad!NA!Uttar Pradesh!201005",
+      "alt": "9911250012",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Inder Pal Siingh",
+      "name": "Balendra Singh",
+      "num": "9990393937"
+    },
+    {
+      "aadhar": "716772950472",
+      "address": "S/O Inder Pal Siingh!!14Pooja Enclave Radhey Shyam ParkSahibabad!NA!Sahibabad!SahibabadGhaziabadGhaziabad!NA!Uttar Pradesh!201005",
+      "alt": "9911250012",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Inder Pal Siingh",
+      "name": "Balendra Singh",
+      "num": "9990393937"
+    },
+    {
+      "aadhar": "716772950472",
+      "address": "S/O Inder Pal Siingh!!14Pooja Enclave Radhey Shyam ParkSahibabad!NA!Sahibabad!SahibabadGhaziabadGhaziabad!NA!Uttar Pradesh!201005",
+      "alt": "9911250012",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Inder Pal Siingh",
+      "name": "Balendra Singh",
+      "num": "9990393937"
+    }
+  ]
+}
