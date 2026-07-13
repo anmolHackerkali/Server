@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:56:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9398792420",
+  "records": [
+    {
+      "aadhar": "617919744789",
+      "address": "!!5-112 thadiparthy near bus stop!NA!thadiparthy!Wanaparthy Mahbubnagar!NA!Telangana!509206",
+      "alt": "6302045528",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "p manyam",
+      "name": "p madhu",
+      "num": "9398792420"
+    },
+    {
+      "aadhar": "573384586592",
+      "address": "s/o mahammed nijamoddin! 5-120!Tatiparthy!!thadparthy!tatiparthy!mahbubnagar!Andhra Pradesh!509206",
+      "alt": "9398792420",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "mahammed nijamoddin",
+      "name": "Muniroddin",
+      "num": "9966868567"
+    },
+    {
+      "aadhar": "617919744789",
+      "address": "S/O P.Manyam!5-112 5!thadiparthy!!thadiparthy thadiparthy Thadparthy Mahabubnagar!Wanaparthy!Mahbubnagar!Telangana!509206",
+      "alt": "9398792420",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "P Manyam",
+      "name": "P Madhu",
+      "num": "9391976362"
+    }
+  ]
+}
