@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 12:29:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9479933415",
+  "records": [
+    {
+      "aadhar": "554373932129",
+      "address": "S/O Shrikishan Gour!S/O Shrikishan Gour!ward 27  hoshangabad!Hoshangabad  Hoshangabad !HOSHANGABAD-HOSHANGABAD!MP!461001",
+      "alt": "9479933415",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "SHRIKISHAN GOUR ",
+      "name": "BRIJ BHUSHAN GOUR",
+      "num": "9907445702"
+    }
+  ]
+}
