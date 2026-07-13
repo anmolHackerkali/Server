@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:30:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9163223701",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5922",
+      "address": "! !Shyampur    West Bengal! !Howrah! !711314",
+      "alt": "9836166311",
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "DURGASHANKER  ROY",
+      "name": "Tripti  Bose",
+      "num": "9163223701"
+    },
+    {
+      "aadhar": "xxxxxxxx5922",
+      "address": "! !Shyampur    West Bengal! !Howrah! !711314",
+      "alt": "9836166311",
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "DURGASHANKER  ROY",
+      "name": "Tripti  Bose",
+      "num": "9163223701"
+    }
+  ]
+}
