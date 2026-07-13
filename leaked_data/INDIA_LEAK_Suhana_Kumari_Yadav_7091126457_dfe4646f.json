@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:29:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7091126457",
+  "records": [
+    {
+      "aadhar": "400980045655",
+      "address": "D/O: Ramruch Gop!Jhanda Chowk forest Colony!!Ps - Ramgarh Ramgarh!Near Shiv Mandir!Ramgarh!Jharkhand!829122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramruch  Gop",
+      "name": "Suhana Kumari Yadav",
+      "num": "7091126457"
+    },
+    {
+      "aadhar": "400980045655",
+      "address": "D/O: Ramruch Gop!Jhanda Chowk forest Colony!!Ps - Ramgarh Ramgarh!Near Shiv Mandir!Ramgarh!Jharkhand!829122",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramruch  Gop",
+      "name": "Suhana Kumari Yadav",
+      "num": "7091126457"
+    }
+  ]
+}
