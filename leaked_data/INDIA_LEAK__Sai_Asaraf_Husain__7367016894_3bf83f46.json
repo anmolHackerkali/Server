@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:28:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7367016894",
+  "records": [
+    {
+      "aadhar": "YHX0140376",
+      "address": " 36!Maharaj Ki Dehari Vard Na 51!patna sadar patna!Patna Saheb!Patna!Patna!Bihar!800008 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shafik Husain ",
+      "name": " Sai Asaraf Husain ",
+      "num": "7367016894"
+    },
+    {
+      "aadhar": "YHX0140376",
+      "address": " 36!Maharaj Ki Dehari Vard Na 51!patna sadar patna!Patna Saheb!Patna!Patna!Bihar!800008 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shafik Husain ",
+      "name": " Sai Asaraf Husain ",
+      "num": "7367016894"
+    }
+  ]
+}
