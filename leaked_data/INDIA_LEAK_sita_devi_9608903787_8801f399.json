@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 03:36:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9608903787",
+  "records": [
+    {
+      "aadhar": "207039589302",
+      "address": "!!karara ghosawari!NA!karara!Patna Patna!NA!Bihar!803302",
+      "alt": "8051747034",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dilp sahani",
+      "name": "sita devi",
+      "num": "9608903787"
+    },
+    {
+      "aadhar": "207039589302",
+      "address": "!!karara ghosawari!NA!karara!Patna Patna!NA!Bihar!803302",
+      "alt": "8051747034",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Dilp sahani",
+      "name": "sita devi",
+      "num": "9608903787"
+    },
+    {
+      "aadhar": "207039589302",
+      "address": "!!karara ghosawari!NA!karara!Patna Patna!NA!Bihar!803302",
+      "alt": "8051747034",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Dilp sahani",
+      "name": "sita devi",
+      "num": "9608903787"
+    }
+  ]
+}
