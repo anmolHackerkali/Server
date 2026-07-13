@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:55:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9898868869",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Kallu!.!.!nayapurwa Bahraich!!Bahraich!UTTAR PRADESH!271865",
+      "alt": "9898868869",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Kallu",
+      "name": "Santosh Kumar",
+      "num": "9670062662"
+    },
+    {
+      "aadhar": "405481662129",
+      "address": " !S/O: Jayram!Bhadreikhi  Kalpi!. !BHADHREKHI-JALAUN!UP!285202",
+      "alt": "9898868869",
+      "circle": null,
+      "email": null,
+      "fname": "JAYRAM  ",
+      "name": "BHOORE  ",
+      "num": "8808676032"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Kallu!.!.!nayapurwa Bahraich!!Bahraich!UTTAR PRADESH!271865",
+      "alt": "9898868869",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Kallu",
+      "name": "Santosh Kumar",
+      "num": "9670062662"
+    },
+    {
+      "aadhar": "405481662129",
+      "address": " !S/O: Jayram!Bhadreikhi  Kalpi!. !BHADHREKHI-JALAUN!UP!285202",
+      "alt": "9898868869",
+      "circle": null,
+      "email": null,
+      "fname": "JAYRAM  ",
+      "name": "BHOORE  ",
+      "num": "8808676032"
+    }
+  ]
+}
