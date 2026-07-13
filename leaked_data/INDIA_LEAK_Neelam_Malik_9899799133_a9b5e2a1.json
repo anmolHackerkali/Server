@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 16:18:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899799133",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Manoj Malik!!!NEAR STYAM HOSPITALA-4/61!Rohini Sector 16North West Delhi!Delhi!110089",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manoj Malik",
+      "name": "Neelam Malik",
+      "num": "9899799133"
+    },
+    {
+      "aadhar": null,
+      "address": "A-4/61 ! SEC 16ROHINI !  ! Delhi ! DELHI ! 110089",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "NEELAM MALIK",
+      "num": "9899799133"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Manoj Malik!!!NEAR STYAM HOSPITALA-4/61!Rohini Sector 16North West Delhi!Delhi!110089",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manoj Malik",
+      "name": "Neelam Malik",
+      "num": "9899799133"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Manoj Malik!!!NEAR STYAM HOSPITALA-4/61!Rohini Sector 16North West Delhi!Delhi!110089",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manoj Malik",
+      "name": "Neelam Malik",
+      "num": "9899799133"
+    },
+    {
+      "aadhar": "414877099821",
+      "address": " a-4/61 Sector 16 Rohini Rohini sector 15 S O Rohini sector 15 sector -16 rohini rohini sector 15 s.o rohini sector 15 north west delhi DL 110089",
+      "alt": "9899799133",
+      "circle": "JIO DELHI",
+      "email": "aayushmalik123@gmail.com",
+      "fname": null,
+      "name": "Ayush Malik",
+      "num": "1135669402"
+    },
+    {
+      "aadhar": "414877099821",
+      "address": " a-4/61 Sector 16 Rohini Rohini sector 15 S O Rohini sector 15 sector -16 rohini rohini sector 15 so rohini sector 15 north west delhi DL 110089",
+      "alt": "9899799133",
+      "circle": "JIO DELHI",
+      "email": "aayushmalik123@gmail.com",
+      "fname": null,
+      "name": "Ayush Malik",
+      "num": "1135669402"
+    },
+    {
+      "aadhar": "414877099821",
+      "address": " a-4/61 Sector 16 Rohini Rohini sector 15 S O Rohini sector 15 sector -16 rohini rohini sector 15 so rohini sector 15 north west delhi DL 110089",
+      "alt": "9899799133",
+      "circle": "JIO DELHI",
+      "email": "aayushmalik123@gmail.com",
+      "fname": null,
+      "name": "Ayush Malik",
+      "num": "1135669402"
+    }
+  ]
+}
