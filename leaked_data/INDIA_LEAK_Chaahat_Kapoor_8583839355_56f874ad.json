@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 22:08:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8583839355",
+  "records": [
+    {
+      "aadhar": "282163984679",
+      "address": " S/O Rajiv Kr. Kapoor! 83 circus avenue!theatre road!CIRCUS AVENUE!circus avenu!circus avenue s.o!kolkata!West Bengal!700017 ",
+      "alt": "9769796969",
+      "circle": "JIO KOL",
+      "email": "RAAHAT.KAPOOR@BYJUS.COM",
+      "fname": "Rajiv Kr Kapoor",
+      "name": "Chaahat Kapoor",
+      "num": "8583839355"
+    },
+    {
+      "aadhar": "282163984679",
+      "address": " S/O Rajiv Kr. Kapoor! 83 circus avenue!theatre road!CIRCUS AVENUE!circus avenu!circus avenue s.o!kolkata!West Bengal!700017 ",
+      "alt": "9769796969",
+      "circle": "JIO KOL",
+      "email": "RAAHAT.KAPOOR@BYJUS.COM",
+      "fname": "Rajiv Kr Kapoor",
+      "name": "Chaahat Kapoor",
+      "num": "8583839355"
+    }
+  ]
+}
