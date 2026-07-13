@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 05:41:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7761935466",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!12 12!tapovan society!Surat Surat!Gujarat!394510",
+      "alt": "919898552723",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jitendra Tiwari",
+      "name": "Anoop Kumar",
+      "num": "7761935466"
+    },
+    {
+      "aadhar": null,
+      "address": "!!12 12!tapovan society!Surat Surat!Gujarat!394510",
+      "alt": "919898552723",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jitendra Tiwari",
+      "name": "Anoop Kumar",
+      "num": "7761935466"
+    }
+  ]
+}
