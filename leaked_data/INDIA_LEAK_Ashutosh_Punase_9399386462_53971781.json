@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:48:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9399386462",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Umesh Kumar!.!Ward N4!Sukhras Harda!!ABGAON KALAN!Harda!Madhya Pradesh!461331",
+      "alt": "9302342721",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Umesh Kumar",
+      "name": "Ashutosh Punase",
+      "num": "9399386462"
+    }
+  ]
+}
