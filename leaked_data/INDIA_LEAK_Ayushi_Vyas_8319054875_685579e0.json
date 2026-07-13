@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 21:22:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8319054875",
+  "records": [
+    {
+      "aadhar": "629492661856",
+      "address": "D/O: Vishnu Vyas!!A/56 kolar Road Rajharsh Colony!Nayapura!Huzur Bhopal!Madhya Pradesh!462042",
+      "alt": "918359857681",
+      "circle": "JIO MP",
+      "email": "ishi031998@gmail.com",
+      "fname": "Vishnu Vyas",
+      "name": "Ayushi Vyas",
+      "num": "8319054875"
+    }
+  ]
+}
