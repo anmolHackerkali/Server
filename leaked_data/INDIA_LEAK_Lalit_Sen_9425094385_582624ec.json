@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 17:42:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9425094385",
+  "records": [
+    {
+      "aadhar": "844640868940",
+      "address": "S/O  Rambabu Sen!!Parsuliya!parsuliya!Parsuliya Biaora Rajgarh!Madhya Pradesh!465674",
+      "alt": "919981560085",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Rambabu Sen",
+      "name": "Lalit Sen",
+      "num": "9425094385"
+    }
+  ]
+}
