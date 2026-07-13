@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 14:31:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9593180153",
+  "records": [
+    {
+      "aadhar": "260636613396",
+      "address": "!!Khalisani!!Khalisani- -Howrah!West Bengal!711307",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "kartick kayal",
+      "name": "Bhaskar Kayal",
+      "num": "9593180153"
+    },
+    {
+      "aadhar": "260636613396",
+      "address": "!!Khalisani!!Khalisani- -Howrah!West Bengal!711307",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "kartick kayal",
+      "name": "Bhaskar Kayal",
+      "num": "9593180153"
+    }
+  ]
+}
