@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-13 04:45:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8051769994",
+  "records": [
+    {
+      "aadhar": "431760452459",
+      "address": "! 002!gram matha post salkhua!MALE!Thana salkhua ward no 02 koparia!Saharsa!Saharsa!Bihar!852126",
+      "alt": "6299662443",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Tasiruddin",
+      "name": "Md Rizwan Alam",
+      "num": "8051769994"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Md Tasiruddin! !Gram-Matha Post-Salkhua Thana Salkhua!Ward No 02 Saharsa!!ITAHARI B O - SAH!Saharsa!BIHAR!852126",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Md Tasiruddin",
+      "name": "Md Rizwan Alam",
+      "num": "8051769994"
+    },
+    {
+      "aadhar": "431760452459",
+      "address": "! 002!gram matha post salkhua!MALE!Thana salkhua ward no 02 koparia!Saharsa!Saharsa!Bihar!852126",
+      "alt": "6299662443",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Tasiruddin",
+      "name": "Md Rizwan Alam",
+      "num": "8051769994"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Md Tasiruddin! !Gram-Matha Post-Salkhua Thana Salkhua!Ward No 02 Saharsa!!ITAHARI B O - SAH!Saharsa!BIHAR!852126",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Md Tasiruddin",
+      "name": "Md Rizwan Alam",
+      "num": "8051769994"
+    }
+  ]
+}
