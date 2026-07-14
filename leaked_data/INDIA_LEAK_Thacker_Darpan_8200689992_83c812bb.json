@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:33:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8200689992",
+  "records": [
+    {
+      "aadhar": "665724623261",
+      "address": "S/O  Thacker Dineshbhai!!bording faliyu Anjar!!anjar!Anjar Anjar!Kachchh!Gujarat!370110",
+      "alt": "6359075474",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Thacker Dineshbhai",
+      "name": "Thacker Darpan",
+      "num": "8200689992"
+    },
+    {
+      "aadhar": "665724623261",
+      "address": "S/O  Thacker Dineshbhai!!bording faliyu Anjar!!anjar!Anjar Anjar!Kachchh!Gujarat!370110",
+      "alt": "6359075474",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Thacker Dineshbhai",
+      "name": "Thacker Darpan",
+      "num": "8200689992"
+    },
+    {
+      "aadhar": "665724623261",
+      "address": "S/O  Thacker Dineshbhai!!bording faliyu Anjar!!anjar!Anjar Anjar!Kachchh!Gujarat!370110",
+      "alt": "6359075474",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Thacker Dineshbhai",
+      "name": "Thacker Darpan",
+      "num": "8200689992"
+    },
+    {
+      "aadhar": "ylx2074557",
+      "address": "15 boding faliya anjar-5 anjar anjar Anjar",
+      "alt": "8200689992",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dinesh",
+      "name": "darpan  thakkar",
+      "num": "9898297168"
+    },
+    {
+      "aadhar": "YLX2074557",
+      "address": "15 boding faliya anjar-5  kachchh Anjar",
+      "alt": "8200689992",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dinesh",
+      "name": "Thakkar  darpan",
+      "num": "9898297153"
+    },
+    {
+      "aadhar": "YLX2074557",
+      "address": "15 boding faliya anjar-5  kachchh Anjar",
+      "alt": "8200689992",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dinesh",
+      "name": "Thakkar  darpan",
+      "num": "9898297153"
+    },
+    {
+      "aadhar": "ylx2074557",
+      "address": "15 boding faliya anjar-5 anjar anjar Anjar",
+      "alt": "8200689992",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dinesh",
+      "name": "darpan  thakkar",
+      "num": "9898297168"
+    }
+  ]
+}
