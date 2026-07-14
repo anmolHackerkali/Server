@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:02:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8766236028",
+  "records": [
+    {
+      "aadhar": "616796045108",
+      "address": "S/O Ghanshyam Dass!!A-1/66 B!JANTA FLATS!PASCHIM VIHAR West Delhi!Delhi!110063",
+      "alt": "919899042381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghanshyam Dass",
+      "name": "Jeet Kumar",
+      "num": "8766236028"
+    },
+    {
+      "aadhar": "616796045108",
+      "address": "S/O Ghanshyam Dass!!A-1/66 B!JANTA FLATS!PASCHIM VIHARWest Delhi!Delhi!110063",
+      "alt": "919899042381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghanshyam Dass",
+      "name": "Jeet Kumar",
+      "num": "8766236028"
+    },
+    {
+      "aadhar": "616796045108",
+      "address": "S/O Ghanshyam Dass!!A-1/66 B!JANTA FLATS!PASCHIM VIHARWest Delhi!Delhi!110063",
+      "alt": "919899042381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ghanshyam Dass",
+      "name": "Jeet Kumar",
+      "num": "8766236028"
+    }
+  ]
+}
