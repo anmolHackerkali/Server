@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:40:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9998993007",
+  "records": [
+    {
+      "aadhar": "384693407007",
+      "address": "S/O Parshotambhai Damjibhai Kacha!!Naranpura Vistar!A/11 SHIVALI APP  NR AKHBAR NAGAR CIRCAL!NEW VADAJ!Ahmadabad City!Ahmadabad!Gujarat!380013",
+      "alt": "9638988007",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshotambhai Damjibhai Kacha",
+      "name": "Atulbhai Parshotambhai Kacha",
+      "num": "9998993007"
+    },
+    {
+      "aadhar": "384693407007",
+      "address": "S/O Parshotambhai Damjibhai Kacha!!Naranpura Vistar!A/11 SHIVALI APP  NR AKHBAR NAGAR CIRCAL!NEW VADAJ!Ahmadabad City!Ahmadabad!Gujarat!380013",
+      "alt": "9638988007",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshotambhai Damjibhai Kacha",
+      "name": "Atulbhai Parshotambhai Kacha",
+      "num": "9998993007"
+    },
+    {
+      "aadhar": "384693407007",
+      "address": "S/O Parshotambhai Damjibhai Kacha!!Naranpura Vistar!A/11 SHIVALI APP  NR AKHBAR NAGAR CIRCAL!NEW VADAJ!Ahmadabad City!Ahmadabad!Gujarat!380013",
+      "alt": "9638988007",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshotambhai Damjibhai Kacha",
+      "name": "Atulbhai Parshotambhai Kacha",
+      "num": "9998993007"
+    }
+  ]
+}
