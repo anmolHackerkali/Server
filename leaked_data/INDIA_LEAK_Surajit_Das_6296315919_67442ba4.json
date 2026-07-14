@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:46:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6296315919",
+  "records": [
+    {
+      "aadhar": "614474255625",
+      "address": " S/O Biswanath Das!-!DHARMAPARA Kunor!KUNOR!- - dharmapara kunor kunor!kunore Kaliaganj!uttar dinajpur!West Bengal!733252 ",
+      "alt": "6295719020",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Biswanath Das",
+      "name": "Surajit Das",
+      "num": "6296315919"
+    },
+    {
+      "aadhar": "614474255625",
+      "address": " S/O Biswanath Das!-!DHARMAPARA Kunor!KUNOR!- - dharmapara kunor kunor!kunore Kaliaganj!uttar dinajpur!West Bengal!733252 ",
+      "alt": "6295719020",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Biswanath Das",
+      "name": "Surajit Das",
+      "num": "6296315919"
+    }
+  ]
+}
