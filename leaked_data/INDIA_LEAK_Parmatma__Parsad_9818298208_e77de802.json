@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:11:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818298208",
+  "records": [
+    {
+      "aadhar": "651098349908",
+      "address": "!429  Block - 30!near shiv mandir!Trilok Puri Chilla Saroda Khadar Patparganj Preet ViharEast Delhi!!Delhi!110091",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Ram  Lot",
+      "name": "Parmatma  Parsad",
+      "num": "9818298208"
+    },
+    {
+      "aadhar": "651098349908",
+      "address": "!429 Block - 30!near shiv mandir!Trilok PuriChilla Saroda Khadar PatparganjPreet ViharEast Delhi!!Delhi!110091",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Lot",
+      "name": "Parmatma  Parsad",
+      "num": "9818298208"
+    },
+    {
+      "aadhar": "651098349908",
+      "address": "!429 Block - 30!near shiv mandir!Trilok PuriChilla Saroda Khadar PatparganjPreet ViharEast Delhi!!Delhi!110091",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ram  Lot",
+      "name": "Parmatma  Parsad",
+      "num": "9818298208"
+    }
+  ]
+}
