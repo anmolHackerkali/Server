@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:45:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8737934969",
+  "records": [
+    {
+      "aadhar": "770335160431",
+      "address": "!87/3!lanka   Anant Nagar!!Bhagawanpur Varanasi!Varanasi!!Uttar Pradesh!221005",
+      "alt": "8076864136",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Kumar Singh",
+      "name": "Sanjana Kumari",
+      "num": "8737934969"
+    },
+    {
+      "aadhar": "770335160431",
+      "address": "!87/3!lanka   Anant Nagar!!Bhagawanpur Varanasi!Varanasi!!Uttar Pradesh!221005",
+      "alt": "8076864136",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Kumar Singh",
+      "name": "Sanjana Kumari",
+      "num": "8737934969"
+    }
+  ]
+}
