@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:02:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6289457874",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Mojammel Haque!!!PURBA PARA!Raghubirpur North Twenty Four Parganas!West Bengal!743294 ",
+      "alt": "918348352172",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mojammel Haque",
+      "name": "Sirajul Haque",
+      "num": "6289457874"
+    },
+    {
+      "aadhar": "418485434020",
+      "address": " C/O Sk Kamal Uddin!! Sankrail!NA!Sankrail Sankrail Haora!Sankrail Haora!NA!West Bengal!711313 ",
+      "alt": "6289457874",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MESBAHAUDDIN SEKH",
+      "name": "Sk Kamal Uddin",
+      "num": "9330827599"
+    },
+    {
+      "aadhar": "418485434020",
+      "address": " C/O Sk Kamal Uddin!! Sankrail!NA!Sankrail Sankrail Haora!Sankrail Haora!NA!West Bengal!711313 ",
+      "alt": "6289457874",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MESBAHAUDDIN SEKH",
+      "name": "Sk Kamal Uddin",
+      "num": "9330827599"
+    }
+  ]
+}
