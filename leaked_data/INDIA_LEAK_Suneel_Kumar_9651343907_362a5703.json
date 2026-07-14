@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:46:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9651343907",
+  "records": [
+    {
+      "aadhar": "574486763951",
+      "address": "S/O: Barmdeen!mahuakothi!Post- Jalalpur Kasba!Jalalpur!Allahabad!Uttar Pradesh!212402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Barmdeen",
+      "name": "Suneel Kumar",
+      "num": "9651343907"
+    },
+    {
+      "aadhar": "574486763951",
+      "address": "S/O: Barmdeen!mahuakothi!Post- Jalalpur Kasba!Jalalpur!Allahabad!Uttar Pradesh!212402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Barmdeen",
+      "name": "Suneel Kumar",
+      "num": "9651343907"
+    }
+  ]
+}
