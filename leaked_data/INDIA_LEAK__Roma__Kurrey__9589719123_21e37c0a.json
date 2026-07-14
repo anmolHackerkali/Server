@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:50:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9589719123",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 2/D Street No-33 Khursipar Bhilai Durg Chhattisgarh 490011 ",
+      "alt": null,
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " G D Kurrey ",
+      "name": " Roma  Kurrey ",
+      "num": "9589719123"
+    }
+  ]
+}
