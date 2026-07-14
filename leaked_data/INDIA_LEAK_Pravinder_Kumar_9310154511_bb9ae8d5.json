@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:48:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310154511",
+  "records": [
+    {
+      "aadhar": "766169416630",
+      "address": "S/O  Omprakash Sharma! A- 190!Gali no. - 9!R K Memoriyal Public School!Indira Vihar Khora Colony Khora Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9958567675",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omprakash Sharma",
+      "name": "Pravinder Kumar",
+      "num": "9310154511"
+    },
+    {
+      "aadhar": "766169416630",
+      "address": "S/O  Omprakash Sharma!A- 190!Gali no - 9!R K Memoriyal Public School!Indira Vihar Khora Colony Khora Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9958567675",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omprakash Sharma",
+      "name": "Pravinder Kumar",
+      "num": "9310154511"
+    },
+    {
+      "aadhar": "766169416630",
+      "address": "S/O  Omprakash Sharma!A- 190!Gali no - 9!R K Memoriyal Public School!Indira Vihar Khora Colony Khora Ghaziabad!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": "9958567675",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omprakash Sharma",
+      "name": "Pravinder Kumar",
+      "num": "9310154511"
+    }
+  ]
+}
