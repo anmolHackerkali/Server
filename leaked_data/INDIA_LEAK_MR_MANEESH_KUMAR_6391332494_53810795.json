@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:48:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6391332494",
+  "records": [
+    {
+      "aadhar": "549792805212",
+      "address": "!BHATI!BHATI!!.!SULTANPUR!UTTAR PRADESH!227408",
+      "alt": "9838932747",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAM SAKAL",
+      "name": "MR. MANEESH KUMAR",
+      "num": "6391332494"
+    },
+    {
+      "aadhar": "549792805212",
+      "address": "!BHATI!BHATI!!.!SULTANPUR!UTTAR PRADESH!227408",
+      "alt": "9838932747",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAM SAKAL",
+      "name": "MR MANEESH KUMAR",
+      "num": "6391332494"
+    },
+    {
+      "aadhar": "549792805212",
+      "address": "!BHATI!BHATI!!.!SULTANPUR!UTTAR PRADESH!227408",
+      "alt": "9838932747",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAM SAKAL",
+      "name": "MR MANEESH KUMAR",
+      "num": "6391332494"
+    }
+  ]
+}
