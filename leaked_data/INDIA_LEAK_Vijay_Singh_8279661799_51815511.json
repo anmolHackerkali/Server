@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:59:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8279661799",
+  "records": [
+    {
+      "aadhar": "354753512623",
+      "address": "S/O  Shivram!!250218paschimi rathiya mohallaachhnera!!KiraoliAgra!Uttar Pradesh!283122",
+      "alt": "+919412875649",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shivram",
+      "name": "Vijay Singh",
+      "num": "8279661799"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Bhoopesh Kumar!157!dhoodsaila thok!bukhrari chhata mathura!!Bukharari!Mathura!Uttar Pradesh!281403",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhoopesh Kumar",
+      "name": "Pinki",
+      "num": "8279661799"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Bhoopesh Kumar!157!dhoodsaila thok!bukhrari chhata mathura!!Bukharari!Mathura!Uttar Pradesh!281403",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhoopesh Kumar",
+      "name": "Pinki",
+      "num": "8279661799"
+    }
+  ]
+}
