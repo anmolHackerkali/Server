@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:33:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9621378490",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Harilal!Gram- murkha!Post- Leorua!  Lebrua!Jaunpur!Uttar Pradesh!222148",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Harilal",
+      "name": "Sursati",
+      "num": "9621378490"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Harilal!Gram- murkha!Post- Leorua!  Lebrua!Jaunpur!Uttar Pradesh!222148",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Harilal",
+      "name": "Sursati",
+      "num": "9621378490"
+    }
+  ]
+}
