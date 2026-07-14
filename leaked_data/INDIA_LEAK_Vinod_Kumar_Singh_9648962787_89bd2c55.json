@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:22:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9648962787",
+  "records": [
+    {
+      "aadhar": "356383709326",
+      "address": "S/O Gaya Prasad Singh!House number 247 Udahin Khurd!Udahin Buzurg!!Kaushambi Sirathu!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gaya Prasad Singh",
+      "name": "Vinod Kumar Singh",
+      "num": "9648962787"
+    },
+    {
+      "aadhar": "356383709326",
+      "address": "S/O Gaya Prasad Singh!House number 247 Udahin Khurd!Udahin Buzurg!!Kaushambi Sirathu!Kaushambi!Kaushambi!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gaya Prasad Singh",
+      "name": "Vinod Kumar Singh",
+      "num": "9648962787"
+    },
+    {
+      "aadhar": "824529200541",
+      "address": "s/o ramphal! 247 1!1 Sirathu!!gram udahin khurd!udahin buzurg Sirathu!kaushambi!Uttar Pradesh!212217",
+      "alt": "9648962787",
+      "circle": "JIO UPE",
+      "email": "AKHILESHSINGHCKT03@GMAIL.COM",
+      "fname": "ramphal",
+      "name": "Gaya Prasad Singh",
+      "num": "7307517269"
+    },
+    {
+      "aadhar": "824529200541",
+      "address": "s/o ramphal! 247 1!1 Sirathu!!gram udahin khurd!udahin buzurg Sirathu!kaushambi!Uttar Pradesh!212217",
+      "alt": "9648962787",
+      "circle": "JIO UPE",
+      "email": "AKHILESHSINGHCKT03@GMAIL.COM",
+      "fname": "ramphal",
+      "name": "Gaya Prasad Singh",
+      "num": "7307517269"
+    }
+  ]
+}
