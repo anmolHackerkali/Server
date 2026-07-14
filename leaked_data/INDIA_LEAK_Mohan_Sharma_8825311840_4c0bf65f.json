@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:48:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8825311840",
+  "records": [
+    {
+      "aadhar": "774472361969",
+      "address": "S/O Jitan Hajam!!panchyat nawadih block jamua!vill jitodih post dumma ps jamua!Duma Giridih!Jharkhand!815318",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jitan Hajam",
+      "name": "Mohan Sharma",
+      "num": "8825311840"
+    },
+    {
+      "aadhar": "774472361969",
+      "address": "S/O Jitan Hajam!!panchyat nawadih block jamua!vill jitodih post dumma ps jamua!Duma Giridih!Jharkhand!815318",
+      "alt": "919725594387",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jitan Hajam",
+      "name": "Mohan Sharma",
+      "num": "8825311840"
+    },
+    {
+      "aadhar": "774472361969",
+      "address": "S/O Jitan Hajam!!panchyat nawadih block jamua!vill jitodih post dumma ps jamua!Duma Giridih!Jharkhand!815318",
+      "alt": "919725594387",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jitan Hajam",
+      "name": "Mohan Sharma",
+      "num": "8825311840"
+    }
+  ]
+}
