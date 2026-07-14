@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:57:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8128226658",
+  "records": [
+    {
+      "aadhar": "956742196750",
+      "address": "navaghara Rajpur  Rajpur Vijaynagar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Balubhai Patel",
+      "name": "Pinalben Balubhai Patel",
+      "num": "8128226658"
+    },
+    {
+      "aadhar": "956742196750",
+      "address": "navaghara Rajpur  Rajpur Vijaynagar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Balubhai Patel",
+      "name": "Pinalben Balubhai Patel",
+      "num": "8128226658"
+    }
+  ]
+}
