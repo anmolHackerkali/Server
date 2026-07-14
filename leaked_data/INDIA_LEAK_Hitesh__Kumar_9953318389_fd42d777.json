@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:29:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953318389",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx4920",
+      "address": "S/O Dr R K Bhatt!95!Amba Enclave! Rohini Raja Pur Kalan Sector-9 !North West DelhiNorth West Delhi!Delhi!110085",
+      "alt": "9711980789",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh  Kumar",
+      "num": "9953318389"
+    },
+    {
+      "aadhar": "xxxxxxxx4920",
+      "address": "S/O Dr R K Bhatt!95!Amba Enclave!!RohiniRaja Pur Kalan Sector-9!North West AIRTEL DELHI!!AIRTEL DELHI!110085",
+      "alt": "9711980789",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh  Kumar",
+      "num": "9953318389"
+    },
+    {
+      "aadhar": "xxxxxxxx4920",
+      "address": "S/O Dr R K Bhatt!95!Amba Enclave!RohiniRaja Pur Kalan Sector-9!North West DelhiNorth West Delhi!Delhi!110085",
+      "alt": "9711980789",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh  Kumar",
+      "num": "9953318389"
+    },
+    {
+      "aadhar": "xxxxxxxx4920",
+      "address": "S/O Dr R K Bhatt!95!Amba Enclave!RohiniRaja Pur Kalan Sector-9!North West DelhiNorth West Delhi!Delhi!110085",
+      "alt": "9711980789",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh  Kumar",
+      "num": "9953318389"
+    },
+    {
+      "aadhar": "804764614920",
+      "address": "S/O Dr. R.K Bhatt!HOUSE NO 95!Amba Enclave!!Sector 9 Rohini Raja Pur Kalan North West!Raja Pur Kalan!North West Delhi!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh Kumar",
+      "num": "9310143433"
+    },
+    {
+      "aadhar": "AFQ0822031",
+      "address": "!!HNO 95 AMBA APPTT ROHINI!NA!SECTOR 9 ROHINI!Delhi North North West!NA!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": "sharma.hemant.vp@gmail.com",
+      "fname": "RAKESH KUMAR BHATT",
+      "name": "HEMANT SHARMA",
+      "num": "7827446306"
+    },
+    {
+      "aadhar": "804764614920",
+      "address": "S/O Dr RK Bhatt!HOUSE NO 95!Amba Enclave!!Sector 9 Rohini Raja Pur Kalan North West!Raja Pur Kalan!North West Delhi!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh Kumar",
+      "num": "9310143433"
+    },
+    {
+      "aadhar": "AFQ0822031",
+      "address": "!!HNO 95AMBA APPTT ROHINI!NA!SECTOR 9 ROHINI!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": "sharma.hemant.vp@gmail.com",
+      "fname": "RAKESH KUMAR BHATT",
+      "name": "HEMANT SHARMA",
+      "num": "7827446306"
+    },
+    {
+      "aadhar": "804764614920",
+      "address": "S/O Dr RK Bhatt!HOUSE NO 95!Amba Enclave!!Sector 9 Rohini Raja Pur Kalan North West!Raja Pur Kalan!North West Delhi!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dr R K Bhatt",
+      "name": "Hitesh Kumar",
+      "num": "9310143433"
+    },
+    {
+      "aadhar": "AFQ0822031",
+      "address": "!!HNO 95AMBA APPTT ROHINI!NA!SECTOR 9 ROHINI!Delhi NorthNorth West!NA!Delhi!110085",
+      "alt": "9953318389",
+      "circle": "JIO DELHI",
+      "email": "sharma.hemant.vp@gmail.com",
+      "fname": "RAKESH KUMAR BHATT",
+      "name": "HEMANT SHARMA",
+      "num": "7827446306"
+    }
+  ]
+}
