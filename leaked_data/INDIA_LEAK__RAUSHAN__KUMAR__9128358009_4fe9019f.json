@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:32:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9128358009",
+  "records": [
+    {
+      "aadhar": "xxxx-xxxx-8277",
+      "address": " S/O  Kuldev Sahu S/O  Kuldev Sahu ward 08 kulhariya madhubani  kulhariya KULHARIA-Madhubani BR 847401 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " KULDEV  SAHU ",
+      "name": " RAUSHAN  KUMAR ",
+      "num": "9128358009"
+    },
+    {
+      "aadhar": "xxxx-xxxx-8277",
+      "address": " S/O  Kuldev Sahu S/O  Kuldev Sahu ward 08 kulhariya madhubani  kulhariya KULHARIA-Madhubani BR 847401 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " KULDEV  SAHU ",
+      "name": " RAUSHAN  KUMAR ",
+      "num": "9128358009"
+    }
+  ]
+}
