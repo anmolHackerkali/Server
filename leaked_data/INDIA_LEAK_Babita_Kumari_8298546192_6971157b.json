@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:42:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8298546192",
+  "records": [
+    {
+      "aadhar": "987904074753",
+      "address": "Deepak Mandal!ward no 06!nima Chandpura!!Niman-Cheria Bariarpur-Begusarai!Bihar!851131",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Deepak Mandal",
+      "name": "Babita Kumari",
+      "num": "8298546192"
+    },
+    {
+      "aadhar": "987904074753",
+      "address": "Deepak Mandal!ward no 06!nima Chandpura!!Niman-Cheria Bariarpur-Begusarai!Bihar!851131",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Deepak Mandal",
+      "name": "Babita Kumari",
+      "num": "8298546192"
+    }
+  ]
+}
