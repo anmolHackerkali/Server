@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:36:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8866278990",
+  "records": [
+    {
+      "aadhar": "943623936179",
+      "address": "89 Dharmdev nagar opp samrat nagar Ahmedabad ahmedabad city Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bhupendrabhai",
+      "name": "Thakkar Shwetal",
+      "num": "8866278990"
+    },
+    {
+      "aadhar": "943623936179",
+      "address": "89 Dharmdev nagar opp samrat nagar Ahmedabad ahmedabad city Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bhupendrabhai",
+      "name": "Thakkar Shwetal",
+      "num": "8866278990"
+    },
+    {
+      "aadhar": "934208412295",
+      "address": "s/o  vinod!8!ctm cross roads!!prestige bunglows amraiwadi!ahmedabad city!ahmedabad!Gujarat!380026",
+      "alt": "8866278990",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "vinod",
+      "name": "jogi URVISH",
+      "num": "7862856804"
+    },
+    {
+      "aadhar": "934208412295",
+      "address": "s/o  vinod!8!ctm cross roads!!prestige bunglows amraiwadi!ahmedabad city!ahmedabad!Gujarat!380026",
+      "alt": "8866278990",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "vinod",
+      "name": "jogi URVISH",
+      "num": "7862856804"
+    }
+  ]
+}
