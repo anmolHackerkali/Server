@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:28:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200508767",
+  "records": [
+    {
+      "aadhar": "722319307358",
+      "address": "S/O Shiv Pujan Singh Choudhary!!!PO- KUMIRDOBA PS- CHANDANKIYARI!Kumirdoba Bokaro!Jharkhand!828134",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shiv Pujan Singh Choudhary",
+      "name": "Satendar Singh Choudhary",
+      "num": "6200508767"
+    },
+    {
+      "aadhar": "722319307358",
+      "address": "S/O Shiv Pujan Singh Choudhary!!!PO- KUMIRDOBA PS- CHANDANKIYARI!Kumirdoba Bokaro!Jharkhand!828134",
+      "alt": "919771543102",
+      "circle": "JIO BHR&JHR",
+      "email": "satendar2011@gmail.com",
+      "fname": "Shiv Pujan Singh Choudhary",
+      "name": "Satendar Singh Choudhary",
+      "num": "6200508767"
+    },
+    {
+      "aadhar": "722319307358",
+      "address": "S/O Shiv Pujan Singh Choudhary!!!PO- KUMIRDOBA PS- CHANDANKIYARI!Kumirdoba Bokaro!Jharkhand!828134",
+      "alt": "919771543102",
+      "circle": "JIO BHR&JHR",
+      "email": "satendar2011@gmail.com",
+      "fname": "Shiv Pujan Singh Choudhary",
+      "name": "Satendar Singh Choudhary",
+      "num": "6200508767"
+    },
+    {
+      "aadhar": "826729868930",
+      "address": "!!56 post banstoda ps chandankiyari nutandih Nutandih bokaro!NA!Banstoda!Dhanbad Bokaro!NA!Jharkhand!828134",
+      "alt": "6200508767",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sudev gayen",
+      "name": "Prakash gayen",
+      "num": "9334309534"
+    },
+    {
+      "aadhar": "826729868930",
+      "address": "!!56 post banstoda ps chandankiyari nutandih Nutandih bokaro!NA!Banstoda!Dhanbad Bokaro!NA!Jharkhand!828134",
+      "alt": "6200508767",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sudev gayen",
+      "name": "Prakash gayen",
+      "num": "9334309534"
+    }
+  ]
+}
