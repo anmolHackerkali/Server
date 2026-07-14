@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:27:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9620152051",
+  "records": [
+    {
+      "aadhar": "676231604712",
+      "address": "S/O AMJATHA PASHA!HOSPATE  HULIYURDURGA  HULIYURDURGA  TUMAKURU!HOSPATE  HULIYURDURGA  HULIYURDURGA  TUMAKURU!!kunigal TUMKUR!HULIYURDURGA!TUMKUR!Karnataka!572123",
+      "alt": "9686819460",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Amjatha Pasha",
+      "name": "MR  ILIYAZ PASHA",
+      "num": "9620152051"
+    }
+  ]
+}
