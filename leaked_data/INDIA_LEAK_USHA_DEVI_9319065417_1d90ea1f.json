@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:20:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319065417",
+  "records": [
+    {
+      "aadhar": "695478715391",
+      "address": "W/O: Mahesh Balaji Nagar  Narayach Yamuna Bridge  Etmadpur  KUBERPUR-AGRA UP 282006",
+      "alt": "9319065417",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Mahesh",
+      "name": "USHA DEVI",
+      "num": "7037921165"
+    },
+    {
+      "aadhar": "695478715391",
+      "address": "W/O: Mahesh Balaji Nagar  Narayach Yamuna Bridge  Etmadpur  KUBERPUR-AGRA UP 282006",
+      "alt": "9319065417",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Mahesh",
+      "name": "USHA DEVI",
+      "num": "7037921165"
+    }
+  ]
+}
