@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:52:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708981903",
+  "records": [
+    {
+      "aadhar": "898951412524",
+      "address": "-!OBEROI PLYWOOD PANSRA!JAGADHRI!YAMUNANAGAR!Haryana!135001",
+      "alt": "+919896082260",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "SHIBU BARMAN",
+      "name": "RANJIT  BARMAN",
+      "num": "8708981903"
+    },
+    {
+      "aadhar": "404432611238",
+      "address": "!155!PANSRA!!SHADIPUR YAMUNA NAGAR YAMUNANAGAR!!YAMUNA NAGAR !HARYANA!135001",
+      "alt": "8708981903",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PANO BARMAN",
+      "name": "PALASH BARMAN",
+      "num": "9896730954"
+    },
+    {
+      "aadhar": "429808122402",
+      "address": "!18!vpo buria!!jagadhri!Yamuna Nagar!Yamuna Nagar!Haryana!135001",
+      "alt": "8708981903",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Paresh Burman",
+      "name": "Sanjay Burman",
+      "num": "7988738789"
+    }
+  ]
+}
