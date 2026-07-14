@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:49:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6370774339",
+  "records": [
+    {
+      "aadhar": "938807297478",
+      "address": "!!96 Village Ichakdih Post Kedia!NA!Ps Mandu Ichakdih!Hazaribagh Ramgarh!NA!Jharkhand!825325",
+      "alt": "6370774339",
+      "circle": "JIO BHR&JHR",
+      "email": "cs376431@gmail.com",
+      "fname": "Arun Kumar",
+      "name": "Chandan Kumar",
+      "num": "8252598050"
+    },
+    {
+      "aadhar": "938807297478",
+      "address": "!!96 Village Ichakdih Post Kedia!NA!Ps Mandu Ichakdih!Hazaribagh Ramgarh!NA!Jharkhand!825325",
+      "alt": "6370774339",
+      "circle": "JIO BHR&JHR",
+      "email": "cs376431@gmail.com",
+      "fname": "Arun Kumar",
+      "name": "Chandan Kumar",
+      "num": "8252598050"
+    }
+  ]
+}
