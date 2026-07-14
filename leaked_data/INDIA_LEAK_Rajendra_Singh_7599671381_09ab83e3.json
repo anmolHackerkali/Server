@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:12:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7599671381",
+  "records": [
+    {
+      "aadhar": "920692780997",
+      "address": "Sonpal Singh!4A 300!Kasganj PO!!avas vikas colony Kasganj!Etah!KANSHIRAM NAGAR!Uttar Pradesh!207123",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sonpal Singh",
+      "name": "Rajendra Singh",
+      "num": "7599671381"
+    },
+    {
+      "aadhar": "920692780997",
+      "address": "Sonpal Singh!4A 300!Kasganj PO!!avas vikas colony Kasganj!Etah!KANSHIRAM NAGAR!Uttar Pradesh!207123",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sonpal Singh",
+      "name": "Rajendra Singh",
+      "num": "7599671381"
+    }
+  ]
+}
