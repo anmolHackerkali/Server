@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:39:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8527666015",
+  "records": [
+    {
+      "aadhar": "Ajepm7270p",
+      "address": "Ground Floor!Shop No-19 Vipul Agora !Mg Road Gurgaon Gurgaon!!Haryana!122002",
+      "alt": "8860395000",
+      "circle": "AIRTEL DELHI",
+      "email": "Shibu.cherian@fbusiness.in",
+      "fname": "NULLLLL",
+      "name": "Ofb Tech Private Limited",
+      "num": "8527666015"
+    },
+    {
+      "aadhar": "06aacco1867c1zp",
+      "address": "!Ground Floor!Shop No19 Vipul Agora!!Mg Road!Gurgaon Gurgaon!!Haryana!122002",
+      "alt": "8860395000",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NULLLLlL",
+      "name": "Ofb Tech Private Limited",
+      "num": "8527666015"
+    },
+    {
+      "aadhar": "Ajepm7270p",
+      "address": "Ground Floor!Shop No-19 Vipul Agora !Mg Road Gurgaon Gurgaon!!Haryana!122002",
+      "alt": "8860395000",
+      "circle": "AIRTEL DELHI",
+      "email": "Shibu.cherian@fbusiness.in",
+      "fname": "LLL",
+      "name": "Ofb Tech Private Limited",
+      "num": "8527666015"
+    },
+    {
+      "aadhar": "Ajepm7270p",
+      "address": "Ground Floor!Shop No-19 Vipul Agora !Mg Road Gurgaon Gurgaon!!Haryana!122002",
+      "alt": "8860395000",
+      "circle": "AIRTEL DELHI",
+      "email": "Shibu.cherian@fbusiness.in",
+      "fname": "LLL",
+      "name": "Ofb Tech Private Limited",
+      "num": "8527666015"
+    }
+  ]
+}
