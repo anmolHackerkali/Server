@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:38:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825017581",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "5  RAMESHWAR CHAMBERS !OPP VONDOR POINT  CTM CHAR RASTA !AMRAIWADI!AHMEDABAD!GUJARAT!380026",
+      "alt": "7925850613",
+      "circle": "VI GUJARAT",
+      "email": "RAJESH.JOGI@RTCPL.CO.IN",
+      "fname": "JOGI",
+      "name": "MR RAJESHKUMAR RAMESHWARBHAI JOGI",
+      "num": "9825017581"
+    },
+    {
+      "aadhar": null,
+      "address": "5  RAMESHWAR CHAMBERS !OPP VONDOR POINT  CTM CHAR RASTA !AMRAIWADI!AHMEDABAD!GUJARAT!380026",
+      "alt": "7925850613",
+      "circle": "VI GUJARAT",
+      "email": "RAJESH.JOGI@RTCPL.CO.IN",
+      "fname": "JOGI",
+      "name": "MR RAJESHKUMAR RAMESHWARBHAI JOGI",
+      "num": "9825017581"
+    },
+    {
+      "aadhar": "358039515863",
+      "address": "s/o  rameshwar!22!ctm cross roads Amraiwadi!CTM Cross Roads!prestige bunglows amraiwadi!ahmedabad city Ahmadabad City!ahmedabad!Gujarat!380026",
+      "alt": "9825017581",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "rameshwar",
+      "name": "Jogi Rajesh",
+      "num": "7990304696"
+    },
+    {
+      "aadhar": "358039515863",
+      "address": "s/o  rameshwar!22!ctm cross roads Amraiwadi!CTM Cross Roads!prestige bunglows amraiwadi!ahmedabad city Ahmadabad City!ahmedabad!Gujarat!380026",
+      "alt": "9825017581",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "rameshwar",
+      "name": "Jogi Rajesh",
+      "num": "7990304696"
+    }
+  ]
+}
