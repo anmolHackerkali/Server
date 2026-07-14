@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:20:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7019399125",
+  "records": [
+    {
+      "aadhar": "535401259086",
+      "address": "S/O Mohammed Nasir Sab!!#1403/1 Malebennur 3rd Cross Indira Nagar!Malebennur Near Relaince Tower!Malebennur Davanagere!Karnataka!577530",
+      "alt": "919980252124",
+      "circle": "JIO KARNATKA",
+      "email": "shafiullas61@gmail.com",
+      "fname": "Mohammed Nasir Sab",
+      "name": "Mohammed Shafi Ulla",
+      "num": "7019399125"
+    }
+  ]
+}
