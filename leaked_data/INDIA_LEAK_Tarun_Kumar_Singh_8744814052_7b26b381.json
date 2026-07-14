@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:19:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8744814052",
+  "records": [
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash! Rz-t-70/228!West Sagar Pur!!Guffa Wala Mandir Dyal Park!Nangal Raya!South West Delhi!Delhi!110046",
+      "alt": "8287986570",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8744814052"
+    },
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash!Rz-t-70/228!West Sagar Pur!!Guffa Wala Mandir Dyal Park!Nangal Raya!South West Delhi!Delhi!110046",
+      "alt": "8287986570",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8744814052"
+    },
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash!Rz-t-70/228!West Sagar Pur!!Guffa Wala Mandir Dyal Park!Nangal Raya!South West Delhi!Delhi!110046",
+      "alt": "8287986570",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8744814052"
+    },
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash!!Rz-t-70/228 West Sagar Pur Guffa Wala Mandir Nangal Raya!NA!Dyal Park!Nangal Raya South West Delhi!NA!Delhi!110046",
+      "alt": "8744814052",
+      "circle": "JIO DELHI",
+      "email": "tarunsingh995310@gmail.com",
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8287986570"
+    },
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash!!Rz-t-70/228West Sagar PurGuffa Wala MandirNangal Raya!NA!Dyal Park!Nangal RayaSouth West Delhi!NA!Delhi!110046",
+      "alt": "8744814052",
+      "circle": "JIO DELHI",
+      "email": "tarunsingh995310@gmail.com",
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8287986570"
+    },
+    {
+      "aadhar": "958771905928",
+      "address": "S/O Satya Parkash!!Rz-t-70/228West Sagar PurGuffa Wala MandirNangal Raya!NA!Dyal Park!Nangal RayaSouth West Delhi!NA!Delhi!110046",
+      "alt": "8744814052",
+      "circle": "JIO DELHI",
+      "email": "tarunsingh995310@gmail.com",
+      "fname": "Satya Parkash",
+      "name": "Tarun Kumar Singh",
+      "num": "8287986570"
+    }
+  ]
+}
