@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:22:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9904798856",
+  "records": [
+    {
+      "aadhar": "419916067811",
+      "address": "248 GEBJARVADA PATAN!GUJARVADA PATANGUJARWADAPATAN!!HARIJ!Gujarat!384245",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "GOVABHAI RATHOD",
+      "name": "MAHESHKUMAR GOVABHAI RATHOD",
+      "num": "9904798856"
+    },
+    {
+      "aadhar": null,
+      "address": " 248 GEBJARVADA PATAN GUJARVADA PATAN GUJARWADA PATAN  HARIJ Gujarat 384245 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MAHESHKUMAR GOVABHAI RATHOD ",
+      "num": "9904798856"
+    },
+    {
+      "aadhar": "419916067811",
+      "address": "248 GEBJARVADA PATAN!GUJARVADA PATANGUJARWADAPATAN!!HARIJ!Gujarat!384245",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "GOVABHAI RATHOD",
+      "name": "MAHESHKUMAR GOVABHAI RATHOD",
+      "num": "9904798856"
+    },
+    {
+      "aadhar": null,
+      "address": " 248 GEBJARVADA PATAN GUJARVADA PATAN GUJARWADA PATAN  HARIJ Gujarat 384245 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MAHESHKUMAR GOVABHAI RATHOD ",
+      "num": "9904798856"
+    }
+  ]
+}
