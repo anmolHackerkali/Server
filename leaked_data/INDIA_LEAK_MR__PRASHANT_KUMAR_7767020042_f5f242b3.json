@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:37:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7767020042",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!FLATE NO 401 CRYSTAL ZERCON!GAUTAM BUDDHA MARG BARIYATU ROAD RANCHI NEAR BY HDFC BANK!BARIYATU RANCHI RANCHI!near by HDFC bank!RANCHI!RANCHI!JHARKHAND!834009",
+      "alt": "9304530274",
+      "circle": "VODA BHR&JHR",
+      "email": "PRASHANT2686@GMAIL.COM",
+      "fname": "Ambika Prasad Pandey",
+      "name": "MR  PRASHANT KUMAR",
+      "num": "7767020042"
+    },
+    {
+      "aadhar": null,
+      "address": "!FLATE NO 401 CRYSTAL ZERCON!GAUTAM BUDDHA MARG BARIYATU ROAD RANCHI NEAR BY HDFC BANK!BARIYATU RANCHI RANCHI!near by HDFC bank!RANCHI!RANCHI!JHARKHAND!834009",
+      "alt": "9304530274",
+      "circle": "VODA BHR&JHR",
+      "email": "PRASHANT2686@GMAIL.COM",
+      "fname": "Ambika Prasad Pandey",
+      "name": "MR  PRASHANT KUMAR",
+      "num": "7767020042"
+    },
+    {
+      "aadhar": "988088360010",
+      "address": "S/O  Ambika Prasad Pandey!!Bansa!!Vill-Basna-Post-Basna-Ps-Bishrampur!Basna!Palamu!Jharkhand!822124",
+      "alt": "7767020042",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ambika Prasad Pandey",
+      "name": "Prashant Kumar",
+      "num": "9304889798"
+    },
+    {
+      "aadhar": "988088360010",
+      "address": "S/O  Ambika Prasad Pandey!!Bansa!!Vill-Basna-Post-Basna-Ps-Bishrampur!Basna!Palamu!Jharkhand!822124",
+      "alt": "7767020042",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ambika Prasad Pandey",
+      "name": "Prashant Kumar",
+      "num": "9304889798"
+    }
+  ]
+}
