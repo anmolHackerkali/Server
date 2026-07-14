@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:16:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8002045009",
+  "records": [
+    {
+      "aadhar": "738230814969",
+      "address": "W/O  Kapildev Mandal!!Sono!Tola-sardhodih!Gram-lakhankiyari po-dumari!Tola Lakhankiari Sono!Jamui!Bihar!811314",
+      "alt": "6206955130",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kapildev Mandal",
+      "name": "Lalita Devi",
+      "num": "8002045009"
+    },
+    {
+      "aadhar": "738230814969",
+      "address": "W/O  Kapildev Mandal!!Sono!Tola-sardhodih!Gram-lakhankiyari po-dumari!Tola Lakhankiari Sono!Jamui!Bihar!811314",
+      "alt": "6206955130",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kapildev Mandal",
+      "name": "Lalita Devi",
+      "num": "8002045009"
+    }
+  ]
+}
