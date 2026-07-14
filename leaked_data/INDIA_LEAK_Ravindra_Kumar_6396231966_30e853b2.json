@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:21:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6396231966",
+  "records": [
+    {
+      "aadhar": "811926212783",
+      "address": "S/O  Rajendra Prasad!!Ghasara!ghasara!GhasaraBidhunaAuraiya!Uttar Pradesh!206241",
+      "alt": "+917830477131",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Ravindra Kumar",
+      "num": "6396231966"
+    }
+  ]
+}
