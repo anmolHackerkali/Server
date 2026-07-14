@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:40:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7698153783",
+  "records": [
+    {
+      "aadhar": "336576844188",
+      "address": "khanodar Khanodar  Banaskantha Deodar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bharaji",
+      "name": "Meruji Bharaji Thakor",
+      "num": "7698153783"
+    },
+    {
+      "aadhar": "336576844188",
+      "address": "khanodar Khanodar  Banaskantha Deodar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bharaji",
+      "name": "Meruji Bharaji Thakor",
+      "num": "7698153783"
+    }
+  ]
+}
