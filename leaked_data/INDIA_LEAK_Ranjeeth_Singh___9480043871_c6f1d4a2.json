@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:07:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9480043871",
+  "records": [
+    {
+      "aadhar": "545093027036",
+      "address": "#3237 Nagamma Layout 7th Cross 2nd Main Road Kaval bairasandra Bangalore North Bangalore North Bangalore Karnataka 560032",
+      "alt": null,
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "S/O Chandraballi Singh",
+      "name": "Ranjeeth Singh  ",
+      "num": "9480043871"
+    }
+  ]
+}
