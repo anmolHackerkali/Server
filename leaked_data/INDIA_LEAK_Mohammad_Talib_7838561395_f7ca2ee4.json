@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:36:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7838561395",
+  "records": [
+    {
+      "aadhar": "684256477240",
+      "address": "Aslam!237!NEHRU VIHAR  GALI N0  - 7 City/District  North East Delhi State Delhi! !NORTH EAST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohammad Talib",
+      "num": "7838561395"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "Aslam!237!NEHRU VIHAR GALI N0 - 7 City/District: North East Delhi State Delhi!!NORTH EAST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MohammadTalib",
+      "num": "7838561395"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "Aslam!237!NEHRU VIHAR GALI N0 - 7 City/District: North East Delhi State Delhi!!NORTH EAST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MohammadTalib",
+      "num": "7838561395"
+    }
+  ]
+}
