@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:07:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9936500494",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Baiju Ram!dangahar!!post sadarMahuaria!Mirzapur!Uttar Pradesh!231001",
+      "alt": "9453043853",
+      "circle": "AIRTEL UP EAST",
+      "email": null,
+      "fname": "Baiju Ram",
+      "name": "Satesh Kumar",
+      "num": "9936500494"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Baiju Ram!dangahar!!post sadar Mahuaria!Mirzapur!Uttar Pradesh!231001",
+      "alt": "9453043853",
+      "circle": "UP_EAST",
+      "email": "satesh007@gmail.com",
+      "fname": "Baiju Ram",
+      "name": "Satesh Kumar",
+      "num": "9936500494"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Baiju Ram!dangahar!!post sadarMahuaria!Mirzapur!Uttar Pradesh!231001",
+      "alt": "9453043853",
+      "circle": "AIRTEL UP EAST",
+      "email": null,
+      "fname": "Baiju Ram",
+      "name": "Satesh Kumar",
+      "num": "9936500494"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Baiju Ram!dangahar!!post sadar Mahuaria!Mirzapur!Uttar Pradesh!231001",
+      "alt": "9453043853",
+      "circle": "UP_EAST",
+      "email": "satesh007@gmail.com",
+      "fname": "Baiju Ram",
+      "name": "Satesh Kumar",
+      "num": "9936500494"
+    },
+    {
+      "aadhar": "740896835172",
+      "address": "s/o  baiju ram!!Mirzapur!post sadar!dangahar mahuaria!mirzapur Chunar!mirzapur!Uttar Pradesh!231001",
+      "alt": "9936500494",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "baiju ram",
+      "name": "Satesh Kumar",
+      "num": "8299059639"
+    },
+    {
+      "aadhar": "740896835172",
+      "address": "s/o  baiju ram!!Mirzapur!post sadar!dangahar mahuaria!mirzapur Chunar!mirzapur!Uttar Pradesh!231001",
+      "alt": "9936500494",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "baiju ram",
+      "name": "Satesh Kumar",
+      "num": "8299059639"
+    }
+  ]
+}
