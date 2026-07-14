@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:46:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9891099685",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRI NEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!VILLAGE BHANKARI PALI FARIDABAD!near by government senior secondary school!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9213700007",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR  ATTAR SINGH",
+      "num": "9891099685"
+    },
+    {
+      "aadhar": null,
+      "address": "Hno-13 ! Vill-Bhankri ! Fbd ! FARIDABAD NCR ! HARYANA ! 121004",
+      "alt": "9873950148",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Jagmal Singh",
+      "name": "Attar Singh",
+      "num": "9891099685"
+    },
+    {
+      "aadhar": null,
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRINEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!VILLAGE BHANKARI PALIFARIDABAD!near by government senior secondary school!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9213700007",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR ATTAR SINGH",
+      "num": "9891099685"
+    },
+    {
+      "aadhar": null,
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRINEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!VILLAGE BHANKARI PALIFARIDABAD!near by government senior secondary school!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9213700007",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR ATTAR SINGH",
+      "num": "9891099685"
+    },
+    {
+      "aadhar": "HR5120000108682",
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRI NEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!near by government senior secondary school!VILLAGE BHANKARI PALI FARIDABAD!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9891099685",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR  ATTAR SINGH",
+      "num": "9891099688"
+    },
+    {
+      "aadhar": "HR5120000108682",
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRINEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!near by government senior secondary school!VILLAGE BHANKARI PALIFARIDABAD!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9891099685",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR ATTAR SINGH",
+      "num": "9891099688"
+    },
+    {
+      "aadhar": "HR5120000108682",
+      "address": "c/o attar singh!H NO 01!VILLAGE BHANKRINEAR BY GOVERNMENT SENIOR SECONDARY SCHOOL!near by government senior secondary school!VILLAGE BHANKARI PALIFARIDABAD!FARIDABAD NCR!Faridabad!HARYANA!121004",
+      "alt": "9891099685",
+      "circle": "VI DELHI",
+      "email": "ATTARSINGH9891099685@GMAIL.COM",
+      "fname": "Jagmal Singh",
+      "name": "MR ATTAR SINGH",
+      "num": "9891099688"
+    }
+  ]
+}
