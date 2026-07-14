@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:07:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8100664683",
+  "records": [
+    {
+      "aadhar": "911644421910",
+      "address": " D/O Braja Dutta! 42/16!bedia danga 2nd lane!TILJALA!tiljala tiljala s.o!tiljala!kolkata!West Bengal!700039 ",
+      "alt": "9903602272",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Braja Dutta",
+      "name": "Putul Mitra",
+      "num": "8100664683"
+    },
+    {
+      "aadhar": "911644421910",
+      "address": " D/O Braja Dutta! 42/16!bedia danga 2nd lane!TILJALA!tiljala tiljala s.o!tiljala!kolkata!West Bengal!700039 ",
+      "alt": "9903602272",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Braja Dutta",
+      "name": "Putul Mitra",
+      "num": "8100664683"
+    }
+  ]
+}
