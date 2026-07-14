@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:30:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7046890642",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 13 baroda PALLA PALLA Baroda KHEDA BARODA KHEDA Gujarat 387530 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  JAYANTEEBHAI MAKWANA ",
+      "num": "7046890642"
+    },
+    {
+      "aadhar": "359250039999",
+      "address": "S/O: Nathubhai!13!baroda PALLA!PALLA!Baroda KHEDA!BARODA!KHEDA!Gujarat!387530",
+      "alt": "9737749061",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Nathubhai Makwana",
+      "name": "MR JAYANTEEBHAI MAKWANA",
+      "num": "7046890642"
+    },
+    {
+      "aadhar": "359250039999",
+      "address": "S/O: Nathubhai!13!baroda PALLA!PALLA!Baroda KHEDA!BARODA!KHEDA!Gujarat!387530",
+      "alt": "9737749061",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Nathubhai Makwana",
+      "name": "MR JAYANTEEBHAI MAKWANA",
+      "num": "7046890642"
+    },
+    {
+      "aadhar": null,
+      "address": " 13 baroda PALLA PALLA Baroda KHEDA BARODA KHEDA Gujarat 387530 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  JAYANTEEBHAI MAKWANA ",
+      "num": "7046890642"
+    }
+  ]
+}
