@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:48:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7068557112",
+  "records": [
+    {
+      "aadhar": "648113348954",
+      "address": "C/O Diwakar Dwivedi!nehiya!nehiya!!Nehiya Nahiyan!Varanasi!Varanasi!Uttar Pradesh!221202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Diwakar Dwivedi",
+      "name": "Punit Dwivedi",
+      "num": "7068557112"
+    },
+    {
+      "aadhar": "648113348954",
+      "address": "C/O Diwakar Dwivedi!nehiya!nehiya!!Nehiya Nahiyan!Varanasi!Varanasi!Uttar Pradesh!221202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Diwakar Dwivedi",
+      "name": "Punit Dwivedi",
+      "num": "7068557112"
+    },
+    {
+      "aadhar": "295292766503",
+      "address": "d/o  diwakar dwivedi!85!Nehiyan nehiya!Nehiya!varanasi!nehiya!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "diwakar dwivedi",
+      "name": "Kumari Priyanka Dwivedi",
+      "num": "9305998790"
+    },
+    {
+      "aadhar": "608612283905",
+      "address": "d/o  rambali patel!!Bhopapur!!bhopapur bhopapur!bhopapur Pindra!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rambali patel",
+      "name": "Smita Patel",
+      "num": "9305991589"
+    },
+    {
+      "aadhar": "736385534137",
+      "address": "d/o  kuldip dubey!!Nahiyan!!konkabodar nahiyan!nehiya Pindra!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kuldip dubey",
+      "name": "Shakshi Dubey",
+      "num": "6394633680"
+    },
+    {
+      "aadhar": "295292766503",
+      "address": "d/o  diwakar dwivedi!85!Nehiyan nehiya!Nehiya!varanasi!nehiya!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "diwakar dwivedi",
+      "name": "Kumari Priyanka Dwivedi",
+      "num": "9305998790"
+    },
+    {
+      "aadhar": "608612283905",
+      "address": "d/o  rambali patel!!Bhopapur!!bhopapur bhopapur!bhopapur Pindra!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rambali patel",
+      "name": "Smita Patel",
+      "num": "9305991589"
+    },
+    {
+      "aadhar": "736385534137",
+      "address": "d/o  kuldip dubey!!Nahiyan!!konkabodar nahiyan!nehiya Pindra!varanasi!Uttar Pradesh!221202",
+      "alt": "7068557112",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kuldip dubey",
+      "name": "Shakshi Dubey",
+      "num": "6394633680"
+    }
+  ]
+}
