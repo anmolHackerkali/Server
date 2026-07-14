@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:59:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9821152006",
+  "records": [
+    {
+      "aadhar": "251955232484",
+      "address": "!A3/06!Tower 4 Silver City Sector 93 Noida!mandir!Sector 93 Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "amehra2002@gmail.com",
+      "fname": "Rajendra Kumar Mehra",
+      "name": "Aman Mehra",
+      "num": "9821152006"
+    },
+    {
+      "aadhar": "251955232484",
+      "address": "!A3/06!Tower 4 Silver City Sector 93 Noida!mandir!Sector 93 Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "amehra2002@gmail.com",
+      "fname": "Rajendra Kumar Mehra",
+      "name": "Aman Mehra",
+      "num": "9821152006"
+    },
+    {
+      "aadhar": "251955232484",
+      "address": "!A3/06!Tower 4 Silver City Sector 93 Noida!mandir!Sector 93 Noida Gautam Buddha Nagar!Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "amehra2002@gmail.com",
+      "fname": "Rajendra Kumar Mehra",
+      "name": "Aman Mehra",
+      "num": "9821152006"
+    }
+  ]
+}
