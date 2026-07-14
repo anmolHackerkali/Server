@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:41:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9592001713",
+  "records": [
+    {
+      "aadhar": "556631316884",
+      "address": "S/O PREM SINGH!293!WARD 7!G T ROADDORAHAGURU NANAK PURA MOHALLA!LUDHIANA!PUNJAB!141421",
+      "alt": "9592001713",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "PREM SINGH",
+      "name": "KULJIT SINGH GAHIR",
+      "num": "9988353878"
+    },
+    {
+      "aadhar": "556631316884",
+      "address": "S/O PREM SINGH!293!WARD 7!G T ROADDORAHAGURU NANAK PURA MOHALLA!LUDHIANA!PUNJAB!141421",
+      "alt": "9592001713",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "PREM SINGH",
+      "name": "KULJIT SINGH GAHIR",
+      "num": "9988353878"
+    }
+  ]
+}
