@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:46:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6202808110",
+  "records": [
+    {
+      "aadhar": "227070841104",
+      "address": "S/O  Rajendra Das!!up distic begusarai Dhabauli!NA!!Dhobauli Cheria Bariarpur Begusarai!NA!Bihar!851129",
+      "alt": "8298389982",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajendra Das",
+      "name": "Jay Jay Ram Das",
+      "num": "6202808110"
+    },
+    {
+      "aadhar": "227070841104",
+      "address": "S/O  Rajendra Das!!up distic begusarai Dhabauli!NA!!Dhobauli Cheria Bariarpur Begusarai!NA!Bihar!851129",
+      "alt": "8298389982",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajendra Das",
+      "name": "Jay Jay Ram Das",
+      "num": "6202808110"
+    },
+    {
+      "aadhar": "227070841104",
+      "address": "S/O  Rajendra Das!!up distic begusarai Dhabauli!NA!!Dhobauli Cheria Bariarpur Begusarai!NA!Bihar!851129",
+      "alt": "8298389982",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajendra Das",
+      "name": "Jay Jay Ram Das",
+      "num": "6202808110"
+    }
+  ]
+}
