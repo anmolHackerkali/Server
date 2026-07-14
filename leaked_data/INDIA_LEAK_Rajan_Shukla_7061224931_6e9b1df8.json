@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:34:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061224931",
+  "records": [
+    {
+      "aadhar": "879007815190",
+      "address": "s/o  shambhu shukla! ward no -12!bhathahiyah!patilar!bhathahiya!patilar!west champaran!Bihar!845101",
+      "alt": "6299822412",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shambhu shukla",
+      "name": "Rajan Shukla",
+      "num": "7061224931"
+    },
+    {
+      "aadhar": "879007815190",
+      "address": "s/o  shambhu shukla! ward no -12!bhathahiyah!patilar!bhathahiya!patilar!west champaran!Bihar!845101",
+      "alt": "6299822412",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shambhu shukla",
+      "name": "Rajan Shukla",
+      "num": "7061224931"
+    },
+    {
+      "aadhar": "879007815190",
+      "address": "s/o  shambhu shukla! ward no -12!bhathahiyah!patilar!bhathahiya!patilar!west champaran!Bihar!845101",
+      "alt": "6299822412",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shambhu shukla",
+      "name": "Rajan Shukla",
+      "num": "7061224931"
+    }
+  ]
+}
