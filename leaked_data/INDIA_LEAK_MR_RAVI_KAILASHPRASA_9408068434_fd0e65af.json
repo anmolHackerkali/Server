@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:34:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9408068434",
+  "records": [
+    {
+      "aadhar": "465551957365",
+      "address": "S/O Kailash Prasad Motilal Chowdhary!C-202!Swaar Sangini Surat NEAR CAPITAL GREENS!NEAR CAPITAL GREENS!VIP Road Vesu Bharthana Surat SURAT!SURAT!SURAT!Gujarat!395007",
+      "alt": "9426518700",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Kailash Prasad Motilal Chowdhary",
+      "name": "MR RAVI KAILASHPRASAD CHOWDHARY",
+      "num": "9408068434"
+    },
+    {
+      "aadhar": null,
+      "address": "  C-202  Near Capital Greens Swaar Sangini VIP Road Vesu Bharthana  Surat  Surat City Surat Gujarat 395007 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " Sitadevi Kailashprasad Chowdhary     ",
+      "num": "9408068434"
+    },
+    {
+      "aadhar": "465551957365",
+      "address": "S/O Kailash Prasad Motilal Chowdhary!C-202!Swaar Sangini Surat NEAR CAPITAL GREENS!NEAR CAPITAL GREENS!VIP Road Vesu Bharthana Surat SURAT!SURAT!SURAT!Gujarat!395007",
+      "alt": "9426518700",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Kailash Prasad Motilal Chowdhary",
+      "name": "MR RAVI KAILASHPRASAD CHOWDHARY",
+      "num": "9408068434"
+    },
+    {
+      "aadhar": null,
+      "address": "  C-202  Near Capital Greens Swaar Sangini VIP Road Vesu Bharthana  Surat  Surat City Surat Gujarat 395007 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " Sitadevi Kailashprasad Chowdhary     ",
+      "num": "9408068434"
+    }
+  ]
+}
