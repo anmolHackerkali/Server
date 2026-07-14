@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:28:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8505875359",
+  "records": [
+    {
+      "aadhar": "383507696106",
+      "address": "S/O Shri Narendra Singh Bisht!69 f!pocket a1 mayur vihar phase 3 EAST DELHI!!DALLUPURA VILLAGE!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHRI NARENDRA SINGH BISHT  ",
+      "name": "SANJAY SINGH BISHT",
+      "num": "8505875359"
+    },
+    {
+      "aadhar": "383507696106",
+      "address": "S/O Shri Narendra Singh Bisht!69 f!pocket a1mayur vihar phase 3EAST DELHI!!DALLUPURA VILLAGE!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHRI NARENDRA SINGH BISHT ",
+      "name": "SANJAYSINGHBISHT",
+      "num": "8505875359"
+    },
+    {
+      "aadhar": "383507696106",
+      "address": "S/O Shri Narendra Singh Bisht!69 f!pocket a1mayur vihar phase 3EAST DELHI!!DALLUPURA VILLAGE!Delhi!110096",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "SHRI NARENDRA SINGH BISHT ",
+      "name": "SANJAYSINGHBISHT",
+      "num": "8505875359"
+    }
+  ]
+}
