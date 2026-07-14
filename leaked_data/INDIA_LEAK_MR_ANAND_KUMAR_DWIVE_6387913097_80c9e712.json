@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:55:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6387913097",
+  "records": [
+    {
+      "aadhar": "602982037408",
+      "address": "S/O PREMCHANDRA DUBEY!DAMRUBAR!DAMRUBARDAMRUBAR!DAMRUBAR!DAMRUBARSANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9794251549",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Premchandra Dubey",
+      "name": "MR. ANAND KUMAR DWIVEDI",
+      "num": "6387913097"
+    },
+    {
+      "aadhar": "602982037408",
+      "address": "S/O PREMCHANDRA DUBEY!DAMRUBAR!DAMRUBAR DAMRUBAR!DAMRUBAR!DAMRUBAR SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9794251549",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Premchandra Dubey",
+      "name": "MR ANAND KUMAR DWIVEDI",
+      "num": "6387913097"
+    },
+    {
+      "aadhar": "602982037408",
+      "address": "S/O PREMCHANDRA DUBEY!DAMRUBAR!DAMRUBAR DAMRUBAR!DAMRUBAR!DAMRUBAR SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9794251549",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Premchandra Dubey",
+      "name": "MR ANAND KUMAR DWIVEDI",
+      "num": "6387913097"
+    },
+    {
+      "aadhar": "945932939088",
+      "address": "d/o  praveen kumar singh! C- 43!power house road Kunraghat!mohaddipur!c- 43 mohaddipur mohaddipur kunraghat!khorabar urf soobabazar Sahjanwa!gorakhpur!Uttar Pradesh!273008",
+      "alt": "6387913097",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "praveen kumar singh",
+      "name": "Suhani Singh",
+      "num": "9305491189"
+    },
+    {
+      "aadhar": "945932939088",
+      "address": "d/o  praveen kumar singh! C- 43!power house road Kunraghat!mohaddipur!c- 43 mohaddipur mohaddipur kunraghat!khorabar urf soobabazar Sahjanwa!gorakhpur!Uttar Pradesh!273008",
+      "alt": "6387913097",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "praveen kumar singh",
+      "name": "Suhani Singh",
+      "num": "9305491189"
+    }
+  ]
+}
