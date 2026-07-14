@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:58:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955256019",
+  "records": [
+    {
+      "aadhar": "329651201054",
+      "address": "S/O Jagdeep Ram!jahangeeerpur salkhnni Jahangirpur Salthani!!!!Vaishali!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jagdeep  Ram",
+      "name": "Ritesh Kumar Ram",
+      "num": "9955256019"
+    },
+    {
+      "aadhar": "329651201054",
+      "address": "S/O Jagdeep Ram!jahangeeerpur salkhnni Jahangirpur Salthani!!!!Vaishali!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jagdeep  Ram",
+      "name": "Ritesh Kumar Ram",
+      "num": "9955256019"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ajay Kumar Ram! !  jahangirpur salkhanni!  Vaishali!jahangirpur salkhanni!ADALPUR B O - VSLI!Vaishali!BIHAR!844126",
+      "alt": "9955256019",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Ajay Kumar Ram",
+      "name": "Kiran Devi",
+      "num": "9525883523"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ajay Kumar Ram! !  jahangirpur salkhanni!  Vaishali!jahangirpur salkhanni!ADALPUR B O - VSLI!Vaishali!BIHAR!844126",
+      "alt": "9955256019",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Ajay Kumar Ram",
+      "name": "Kiran Devi",
+      "num": "9525883523"
+    }
+  ]
+}
