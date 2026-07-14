@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:33:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388665087",
+  "records": [
+    {
+      "aadhar": "805524966878",
+      "address": "!00!Bahadurpur!!Bahadurpur!Jalaun!!Uttar Pradesh!285124",
+      "alt": "7991238419",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramadulare  Singh",
+      "name": "Sangeeta  Devi",
+      "num": "7388665087"
+    },
+    {
+      "aadhar": "805524966878",
+      "address": "!00!Bahadurpur!!Bahadurpur!Jalaun!!Uttar Pradesh!285124",
+      "alt": "7991238419",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramadulare  Singh",
+      "name": "Sangeeta  Devi",
+      "num": "7388665087"
+    }
+  ]
+}
