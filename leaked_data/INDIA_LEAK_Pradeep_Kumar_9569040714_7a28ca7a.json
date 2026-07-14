@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:35:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569040714",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Jaykaran!!gram unchgaon!post munderwa!Unchgav Basti!Uttar Pradesh!272170",
+      "alt": "918009578937",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jaykaran",
+      "name": "Pradeep Kumar",
+      "num": "9569040714"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jaykaran!!gram unchgaon!post munderwa!Unchgav Basti!Uttar Pradesh!272170",
+      "alt": "918009578937",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jaykaran",
+      "name": "Pradeep Kumar",
+      "num": "9569040714"
+    }
+  ]
+}
