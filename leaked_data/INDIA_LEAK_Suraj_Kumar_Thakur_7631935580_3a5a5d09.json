@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:39:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7631935580",
+  "records": [
+    {
+      "aadhar": "987402211747",
+      "address": "! 05!Lakhnaur!Lakhnaur!Lakhnaur!lakhnaur!madhubani!Bihar!847403",
+      "alt": "6205049860",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chandrashekhar Thakur",
+      "name": "Suraj Kumar Thakur",
+      "num": "7631935580"
+    },
+    {
+      "aadhar": "987402211747",
+      "address": "! 05!Lakhnaur!Lakhnaur!Lakhnaur!lakhnaur!madhubani!Bihar!847403",
+      "alt": "6205049860",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "chandrashekhar Thakur",
+      "name": "Suraj Kumar Thakur",
+      "num": "7631935580"
+    },
+    {
+      "aadhar": "987402211747",
+      "address": "! 05!Lakhnaur!Lakhnaur!Lakhnaur!lakhnaur!madhubani!Bihar!847403",
+      "alt": "6205049860",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "chandrashekhar Thakur",
+      "name": "Suraj Kumar Thakur",
+      "num": "7631935580"
+    }
+  ]
+}
