@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:45:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8250144911",
+  "records": [
+    {
+      "aadhar": "779130622777",
+      "address": " Village- Karn Kudaria!Dumarsan!mandir!Dumarshan Bangra!Saran!Saran!Bihar!841410 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Raghunath Kuar ",
+      "name": " MANOJ KUMAR ",
+      "num": "8250144911"
+    },
+    {
+      "aadhar": "779130622777",
+      "address": " Village- Karn Kudaria!Dumarsan!mandir!Dumarshan Bangra!Saran!Saran!Bihar!841410 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Raghunath Kuar ",
+      "name": " MANOJ KUMAR ",
+      "num": "8250144911"
+    }
+  ]
+}
