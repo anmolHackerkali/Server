@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:28:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9538923474",
+  "records": [
+    {
+      "aadhar": "332344425608",
+      "address": "S/O Ashok!!#33 Kotilingeshwar Nagar M C Patil Layout Behand KSRTC 2nd Depot!NA!Gokul Road Hubli!Hubli Dharwad!NA!Karnataka!580024",
+      "alt": "7975623591",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Ashok",
+      "name": "Vinod Mariguddi",
+      "num": "9538923474"
+    },
+    {
+      "aadhar": "332344425608",
+      "address": "S/O Ashok! 33!!Kotilingeshwar Nagar M C Patil Layout Behand KSRTC 2nd Depot!Gokul Road Hubli!Hubli!Dharwad!Karnataka!580024",
+      "alt": "9538923474",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Ashok",
+      "name": "Vinod Mariguddi",
+      "num": "9606721125"
+    },
+    {
+      "aadhar": "802017922427",
+      "address": "!33 kotilingeshwar nagar m c patil layout!GOKUL ROAD!behand ksrtc 2nd depot!hubli!Dharwad!Dharwad!Karnataka!580024",
+      "alt": "9538923474",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "late CHANNAPPA",
+      "name": "ASHOK mariguddi",
+      "num": "9449014423"
+    },
+    {
+      "aadhar": "332344425608",
+      "address": "S/O Ashok! 33!gokul road hubli!Kotilingeshwar Nagar M C Patil Layout Behand KSRTC!Gokul Road Hubli!Hubli!Dharwad!Karnataka!580024",
+      "alt": "9538923474",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Ashok",
+      "name": "Vinod Mariguddi",
+      "num": "9019198762"
+    },
+    {
+      "aadhar": "332344425608",
+      "address": "s/o ashok! 33!gokul road hubli!2nd depot!kotilingeshwar nagar m c patil layout behand ksrtc!hubli!dharwad!Karnataka!580024",
+      "alt": "9538923474",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "ashok",
+      "name": "Vinod Mariguddi",
+      "num": "8884724373"
+    },
+    {
+      "aadhar": "NNA0713776",
+      "address": "!40!KOTILING NAGAR RAJADHANI NAGAR HUBBALLI!!Hubli!Dharwad!Dharwad!Karnataka!580024",
+      "alt": "9538923474",
+      "circle": "JIO KARNATKA",
+      "email": "vinodmariguddi@gmail.com",
+      "fname": "ASHOK",
+      "name": "MARIGUDDI VINOD",
+      "num": "8310063995"
+    }
+  ]
+}
