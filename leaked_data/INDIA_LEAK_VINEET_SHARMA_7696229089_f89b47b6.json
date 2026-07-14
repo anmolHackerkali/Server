@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:31:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7696229089",
+  "records": [
+    {
+      "aadhar": "3540",
+      "address": "H NO B 6/177 SALOH ROAD NAWASHEHARNAWANSHAHAR ADOWANANAWANSHAHARPUNJAB147201!",
+      "alt": "7696229089",
+      "circle": "PB",
+      "email": null,
+      "fname": "RAM KISHORE SHARMA",
+      "name": "VINEET SHARMA",
+      "num": "7696229089"
+    },
+    {
+      "aadhar": "3540",
+      "address": "H NO B 6/177 SALOH ROAD NAWASHEHARNAWANSHAHAR ADOWANANAWANSHAHARPUNJAB147201!",
+      "alt": "7696229089",
+      "circle": "PB",
+      "email": null,
+      "fname": "RAM KISHORE SHARMA",
+      "name": "VINEET SHARMA",
+      "num": "7696229089"
+    },
+    {
+      "aadhar": "3540",
+      "address": "H NO B 6/177 SALOH ROAD NAWASHEHARNAWANSHAHAR ADOWANANAWANSHAHARPUNJAB147201!",
+      "alt": "7696229089",
+      "circle": "PB",
+      "email": null,
+      "fname": "RAM KISHORE SHARMA",
+      "name": "VINEET SHARMA",
+      "num": "7696229089"
+    },
+    {
+      "aadhar": "3540",
+      "address": "H NO B 6/177 SALOH ROAD NAWASHEHARNAWANSHAHAR ADOWANANAWANSHAHARPUNJAB147201!",
+      "alt": "7696229089",
+      "circle": "PB",
+      "email": null,
+      "fname": "RAM KISHORE SHARMA",
+      "name": "VINEET SHARMA",
+      "num": "7696229089"
+    }
+  ]
+}
