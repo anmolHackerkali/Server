@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:13:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7696326445",
+  "records": [
+    {
+      "aadhar": "670773756764",
+      "address": "MOHAMMED ABRAR!H NO 1050 F F!SECTOR 15 PANCHKULA!!SECTOR 19 PANCHKULA!PANCHKULA!PANCHKULA!HARYANA!134113",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "MOHAMMED ABRAR",
+      "name": "MOHAMMED AMAAN",
+      "num": "7696326445"
+    },
+    {
+      "aadhar": "670773756764",
+      "address": "MOHAMMED ABRAR!H NO 1050 F F!SECTOR 15 PANCHKULA!!SECTOR 19 PANCHKULA!PANCHKULA!PANCHKULA!HARYANA!134113",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "MOHAMMED ABRAR",
+      "name": "MOHAMMED AMAAN",
+      "num": "7696326445"
+    },
+    {
+      "aadhar": "569945438146",
+      "address": "!46!SEC 5!CHANDIGARHCHANDIGARHCHAMDIGARH!CHANDIGARH!CHANDIGARH!160004",
+      "alt": "7696326445",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "MANGAL SINGH",
+      "name": "RAKESH SINGH",
+      "num": "8968660213"
+    }
+  ]
+}
