@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:28:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9880985739",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Raman LIG 160  Gandhinagar Gokul Road  Hubli  Hubli Udyamnagar Dharwad Karnataka 580030",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Raman   ",
+      "name": "C R Achuthan",
+      "num": "9880985739"
+    }
+  ]
+}
