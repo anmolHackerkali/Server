@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:53:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310110337",
+  "records": [
+    {
+      "aadhar": "533102074531",
+      "address": "D/O Shri Kishan Dass Gupta! bd-78 1st floor!!PITAM PURA!pitam pura shalimar bagh s.o!shalimar bagh!north west delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Kishan Dass",
+      "name": "Anu Jain",
+      "num": "9310110337"
+    },
+    {
+      "aadhar": "533102074531",
+      "address": "D/O Shri Kishan Dass Gupta!bd-78 1st floor!!PITAM PURA!pitam pura shalimar bagh so!shalimar bagh!north west delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Kishan Dass",
+      "name": "Anu Jain",
+      "num": "9310110337"
+    },
+    {
+      "aadhar": "533102074531",
+      "address": "D/O Shri Kishan Dass Gupta!bd-78 1st floor!!PITAM PURA!pitam pura shalimar bagh so!shalimar bagh!north west delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shri Kishan Dass",
+      "name": "Anu Jain",
+      "num": "9310110337"
+    }
+  ]
+}
