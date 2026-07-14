@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:59:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9099388187",
+  "records": [
+    {
+      "aadhar": "372370667263",
+      "address": "Pandurang ! C-303 ! NANA CHILODA NR TULSHI PARK ! MADHUVAN RECIDENCY ! AHMEDABAD ! GUJARAT ! 382325",
+      "alt": "9913417582",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Pandurang",
+      "name": "Bagul Mahesh",
+      "num": "9099388187"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "Pandurang!C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9913417582",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "Pandurang",
+      "name": "Bagul Mahesh",
+      "num": "9099388187"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "Pandurang!C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9913417582",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "Pandurang",
+      "name": "Bagul Mahesh",
+      "num": "9099388187"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "Pandurang!C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9913417582",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "Pandurang",
+      "name": "Bagul Mahesh",
+      "num": "9099388187"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "Pandurang!C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9913417582",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "Pandurang",
+      "name": "Bagul Mahesh",
+      "num": "9099388187"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9099388187",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "PANDURAM",
+      "name": "MR MAHESH BAGUL",
+      "num": "9913417582"
+    },
+    {
+      "aadhar": "372370667263",
+      "address": "C-303!NANA CHILODA NR TULSHI PARK!MADHUVAN RECIDENCY!AHMEDABAD-DASKROI!GUJARAT!382430",
+      "alt": "9099388187",
+      "circle": "VI GUJARAT",
+      "email": "MAHESHBAGUL106@GMAIL.COM",
+      "fname": "PANDURAM",
+      "name": "MR MAHESH BAGUL",
+      "num": "9913417582"
+    }
+  ]
+}
