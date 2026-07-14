@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:31:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9838720007",
+  "records": [
+    {
+      "aadhar": "273885971002",
+      "address": "!551 bansi road pandey bazar bansi road!purani basti!!akpangi!Basti!Basti!Uttar Pradesh!272002",
+      "alt": "9415824953",
+      "circle": "JIO UPE",
+      "email": "bljaiswal@hotmail.com",
+      "fname": "Basant Lal Jaiswal",
+      "name": "Virendra Kumar Jaiswal",
+      "num": "9838720007"
+    },
+    {
+      "aadhar": "273885971002",
+      "address": "!551 bansi road pandey bazar bansi road!purani basti!!akpangi!Basti!Basti!Uttar Pradesh!272002",
+      "alt": "9415824953",
+      "circle": "JIO UPE",
+      "email": "bljaiswal@hotmail.com",
+      "fname": "Basant Lal Jaiswal",
+      "name": "Virendra Kumar Jaiswal",
+      "num": "9838720007"
+    },
+    {
+      "aadhar": "672867758379",
+      "address": "!551!PANDEY BAZAR BANSI ROAD purani basti!!akpangi!Basti BASTI!Basti!Uttar Pradesh!272002",
+      "alt": "9838720007",
+      "circle": "JIO UPE",
+      "email": "bljaiswal@hotmail.com",
+      "fname": "Basant Lal Jaiswal",
+      "name": "Surendra Kumar Jaiswal",
+      "num": "9415824953"
+    },
+    {
+      "aadhar": "672867758379",
+      "address": "!551!PANDEY BAZAR BANSI ROAD purani basti!!akpangi!Basti BASTI!Basti!Uttar Pradesh!272002",
+      "alt": "9838720007",
+      "circle": "JIO UPE",
+      "email": "bljaiswal@hotmail.com",
+      "fname": "Basant Lal Jaiswal",
+      "name": "Surendra Kumar Jaiswal",
+      "num": "9415824953"
+    }
+  ]
+}
