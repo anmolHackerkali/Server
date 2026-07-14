@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:47:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8770108074",
+  "records": [
+    {
+      "aadhar": "515432544368",
+      "address": "S/O Saiyad Ahmed!!SHARMA ASHRAM!HOUSE NO-194 LABOUR COLONY KHURSIPAR SECTOR-11!Khursipar Bhilai S.O Durg!Chhattisgarh!490011",
+      "alt": "919479272555",
+      "circle": "JIO MP",
+      "email": "aliahmed.bhilai@gmail.com",
+      "fname": "Saiyad Ahmed",
+      "name": "Ali Ahmed",
+      "num": "8770108074"
+    }
+  ]
+}
