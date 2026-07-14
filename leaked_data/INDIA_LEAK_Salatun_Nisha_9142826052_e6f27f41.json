@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:06:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142826052",
+  "records": [
+    {
+      "aadhar": "845396860300",
+      "address": "!ward no 01!ward no 01nagar prashid supaul bihar!near masjid!supaul!Supaul!Supaul!Bihar!852131",
+      "alt": "9142826052",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md shafique",
+      "name": "Salatun Nisha",
+      "num": "9142826052"
+    },
+    {
+      "aadhar": "845396860300",
+      "address": " ward no 01!nagar parishad!supaul supaul!nagar parishad!Supaul!Supaul!Bihar!852131 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Shafique ",
+      "name": " Salatun Nisha ",
+      "num": "9142826052"
+    },
+    {
+      "aadhar": "845396860300",
+      "address": " ward no 01!nagar parishad!supaul supaul!nagar parishad!Supaul!Supaul!Bihar!852131 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Shafique ",
+      "name": " Salatun Nisha ",
+      "num": "9142826052"
+    },
+    {
+      "aadhar": "845396860300",
+      "address": "!ward no 01!ward no 01nagar prashid supaul bihar!near masjid!supaul!Supaul!Supaul!Bihar!852131",
+      "alt": "9142826052",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md shafique",
+      "name": "Salatun Nisha",
+      "num": "9142826052"
+    }
+  ]
+}
