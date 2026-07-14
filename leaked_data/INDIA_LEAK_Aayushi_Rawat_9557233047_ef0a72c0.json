@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:10:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9557233047",
+  "records": [
+    {
+      "aadhar": "345798460511",
+      "address": "!ASHUTOSH BHAWAN!UPPER SARTHI VIHAR!DHARAMPUR DANDA POST OFFICE NEHRUGRAM Dehradun!Dehradun Dehradun G p Chakrata!Uttarakhand!248001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "karan singh",
+      "name": "Aayushi Rawat",
+      "num": "9557233047"
+    },
+    {
+      "aadhar": "345798460511",
+      "address": "!ASHUTOSH BHAWAN!UPPER SARTHI VIHAR!DHARAMPUR DANDA POST OFFICE NEHRUGRAM Dehradun!Dehradun Dehradun G p Chakrata!Uttarakhand!248001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "karan singh",
+      "name": "Aayushi Rawat",
+      "num": "9557233047"
+    }
+  ]
+}
