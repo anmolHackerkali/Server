@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:59:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9910561263",
+  "records": [
+    {
+      "aadhar": "337949399729",
+      "address": "S/O Naresh!D-1/109!GALI NO 3!20 FT ROADASHOK NAGAR SHAHDARA Nand Nagri!North East Delhi!Delhi!110093",
+      "alt": "9990195110",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Naresh",
+      "name": "Deepak  Kumar",
+      "num": "9910561263"
+    },
+    {
+      "aadhar": "337949399729",
+      "address": "S/O Naresh!D-1/109!GALI NO 3!20 FT ROADASHOK NAGAR SHAHDARANand Nagri!North East Delhi!Delhi!110093",
+      "alt": "9990195110",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Naresh",
+      "name": "Deepak  Kumar",
+      "num": "9910561263"
+    },
+    {
+      "aadhar": "337949399729",
+      "address": "S/O Naresh!D-1/109!GALI NO 3!20 FT ROADASHOK NAGAR SHAHDARANand Nagri!North East Delhi!Delhi!110093",
+      "alt": "9990195110",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Naresh",
+      "name": "Deepak  Kumar",
+      "num": "9910561263"
+    }
+  ]
+}
