@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:20:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8347178411",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " H TYPE-7/103 H TYPE-7/103 H TYPE-7/103 S D C C COLONY  SIKKA JAMNAGAR DIGVIJAY GRAM JAMNAGAR Gujarat 361140 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  PRADEEP RATHORE ",
+      "num": "8347178411"
+    },
+    {
+      "aadhar": null,
+      "address": " H TYPE-7/103 H TYPE-7/103 H TYPE-7/103 S D C C COLONY  SIKKA JAMNAGAR DIGVIJAY GRAM JAMNAGAR Gujarat 361140 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MR  PRADEEP RATHORE ",
+      "num": "8347178411"
+    }
+  ]
+}
