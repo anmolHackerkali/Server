@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:33:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200506768",
+  "records": [
+    {
+      "aadhar": "759840583908",
+      "address": "S/O Jivalal Ram!! Bagro!gram dumardiha po bagro!Bagro Koderma Koderma!Jharkhand!825418",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jivalal Ram",
+      "name": "Narayan Ram",
+      "num": "6200506768"
+    },
+    {
+      "aadhar": "759840583908",
+      "address": "S/O Jivalal Ram!! Bagro!gram dumardiha po bagro!Bagro Koderma Koderma!Jharkhand!825418",
+      "alt": "916207591330",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jivalal Ram",
+      "name": "Narayan Ram",
+      "num": "6200506768"
+    },
+    {
+      "aadhar": "759840583908",
+      "address": "S/O Jivalal Ram!! Bagro!gram dumardiha po bagro!Bagro Koderma Koderma!Jharkhand!825418",
+      "alt": "916207591330",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jivalal Ram",
+      "name": "Narayan Ram",
+      "num": "6200506768"
+    },
+    {
+      "aadhar": "759840583908",
+      "address": "!!Gram Dumardiha po bagro!!Domchanch bagro!Domchanch!Koderma!Jharkhand!825418",
+      "alt": "6200506768",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jivalal Ram",
+      "name": "Narayan Ram",
+      "num": "6206823713"
+    },
+    {
+      "aadhar": "759840583908",
+      "address": "!!Gram Dumardiha po bagro!!Domchanch bagro!Domchanch!Koderma!Jharkhand!825418",
+      "alt": "6200506768",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jivalal Ram",
+      "name": "Narayan Ram",
+      "num": "6206823713"
+    }
+  ]
+}
