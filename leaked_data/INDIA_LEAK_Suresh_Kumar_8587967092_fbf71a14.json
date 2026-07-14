@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:06:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8587967092",
+  "records": [
+    {
+      "aadhar": "01000856nYG3mGi6+bzr",
+      "address": "!1858!S G M Nagar!NIT faridabad!FaridabadFaridabad!Haryana!121001",
+      "alt": "9811378414",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NannuMal",
+      "name": "Suresh Kumar",
+      "num": "8587967092"
+    },
+    {
+      "aadhar": null,
+      "address": "H NO 1858 ! SGN NAGARNIT !  ! Faridabad ! HARYANA ! 121001",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "SURESH KUMAR",
+      "num": "8587967092"
+    },
+    {
+      "aadhar": null,
+      "address": "!1858!S G M Nagar!NIT faridabad!FaridabadFaridabad!Haryana!121001",
+      "alt": "9811378414",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NannuMal",
+      "name": "Suresh Kumar",
+      "num": "8587967092"
+    },
+    {
+      "aadhar": null,
+      "address": "!1858!S G M Nagar!NIT faridabad!FaridabadFaridabad!Haryana!121001",
+      "alt": "9811378414",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NannuMal",
+      "name": "Suresh Kumar",
+      "num": "8587967092"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O  Nannu Mal!1858!S G M Nagar Faridabad Nit!!NIT faridabad!Faridabad Faridabad!Faridabad!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nannu Mal",
+      "name": "Suresh",
+      "num": "9910946121"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O Nannu Mal!1858!S G M Nagar!!NIT faridabadFaridabad!Faridabad!!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nannu  Mal",
+      "name": "Suresh  Kumar",
+      "num": "9811378414"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O  Nannu Mal!1858!S G M NagarFaridabad Nit!!NIT faridabad!FaridabadFaridabad!Faridabad!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nannu Mal",
+      "name": "Suresh",
+      "num": "9910946121"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O Nannu Mal!1858!S G M Nagar!!NIT faridabadFaridabad!Faridabad!!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nannu  Mal",
+      "name": "Suresh  Kumar",
+      "num": "9811378414"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O  Nannu Mal!1858!S G M NagarFaridabad Nit!!NIT faridabad!FaridabadFaridabad!Faridabad!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nannu Mal",
+      "name": "Suresh",
+      "num": "9910946121"
+    },
+    {
+      "aadhar": "237604645636",
+      "address": "S/O Nannu Mal!1858!S G M Nagar!!NIT faridabadFaridabad!Faridabad!!Haryana!121001",
+      "alt": "8587967092",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nannu  Mal",
+      "name": "Suresh  Kumar",
+      "num": "9811378414"
+    }
+  ]
+}
