@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:04:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7290890553",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O ATTAR SINGH!A 108 FIRST FLOOR!UDAY VIHAR!TRANSFARMER WALI GALICHANDER VIHAR!NilothiWest Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "Sunny Singh",
+      "num": "7290890553"
+    },
+    {
+      "aadhar": "360297566071",
+      "address": "Hardeep Singh!D-1/16/16 RANJEET VIHAR!  City/District  West Delhi State Delhi!!NILOTHI EXTENTION- -West Delhi DELHI!Delhi!110041",
+      "alt": "9250434346",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "sukhvindar",
+      "name": "Sukhvinder Kaur",
+      "num": "7290890553"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O ATTAR SINGH!A 108 FIRST FLOOR!UDAY VIHAR!TRANSFARMER WALI GALICHANDER VIHAR!NilothiWest Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "Sunny Singh",
+      "num": "7290890553"
+    },
+    {
+      "aadhar": "360297566071",
+      "address": "Hardeep Singh!D-1/16/16 RANJEET VIHAR!  City/District  West Delhi State Delhi!!NILOTHI EXTENTION- -West Delhi DELHI!Delhi!110041",
+      "alt": "9250434346",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "sukhvindar",
+      "name": "Sukhvinder Kaur",
+      "num": "7290890553"
+    },
+    {
+      "aadhar": "360297566071",
+      "address": "Hardeep Singh!D-1/16/16 RANJEET VIHAR!  City/District  West Delhi State Delhi!!NILOTHI EXTENTION- -West Delhi DELHI!Delhi!110041",
+      "alt": "9250434346",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "sukhvindar",
+      "name": "Sukhvinder Kaur",
+      "num": "7290890553"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O ATTAR SINGH!A 108 FIRST FLOOR!UDAY VIHAR!TRANSFARMER WALI GALICHANDER VIHAR!NilothiWest Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "Sunny Singh",
+      "num": "7290890553"
+    }
+  ]
+}
