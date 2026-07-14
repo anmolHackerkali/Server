@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:09:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368616192",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Hazi Abdul Wahid!H  No - F-291!Gali N0 - 10 25 Foota Road!Chand Bag North East!25 Foota Road!DELHI!North East!Delhi!110094",
+      "alt": "9318387041",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Hazi Abdul Wahid",
+      "name": "Guljar  ",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": "253199142902",
+      "address": "S/O Hazi Abdul Wahid!H .No - F-291!Gali N0 - 10Dayalpur!25 Foota Road!Chand Bag!KARAWAL NAGAR!North East!Delhi!110094",
+      "alt": "7428129393",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Hazi Abdul Wahid",
+      "name": "Guljar",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": "253199142902",
+      "address": "S/O Hazi Abdul Wahid!H No - F-291!Gali N0 - 10Dayalpur!25 Foota Road!Chand Bag!KARAWAL NAGAR!North East!Delhi!110094",
+      "alt": "7428129393",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Hazi Abdul Wahid",
+      "name": "Guljar",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hazi Abdul Wahid!H No - F-291!Gali N0 - 1025 Foota Road!Chand BagNorth East!25 Foota Road!DELHI!North East!Delhi!110094",
+      "alt": "9318387041",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Hazi Abdul Wahid",
+      "name": "Guljar ",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": "253199142902",
+      "address": "S/O Hazi Abdul Wahid!H No - F-291!Gali N0 - 10Dayalpur!25 Foota Road!Chand Bag!KARAWAL NAGAR!North East!Delhi!110094",
+      "alt": "7428129393",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Hazi Abdul Wahid",
+      "name": "Guljar",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hazi Abdul Wahid!H No - F-291!Gali N0 - 1025 Foota Road!Chand BagNorth East!25 Foota Road!DELHI!North East!Delhi!110094",
+      "alt": "9318387041",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Hazi Abdul Wahid",
+      "name": "Guljar ",
+      "num": "8368616192"
+    },
+    {
+      "aadhar": " 832098649461 ",
+      "address": "S/O Abdul Waheed ! H N0-E-233 ! GALI N0-9 !  ! CHAND BAGH KARAINVAL NAGAR North EastNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "8368616192",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Abdul Waheed",
+      "name": "MR. ABDUL KAYYUM",
+      "num": "9990737704"
+    },
+    {
+      "aadhar": " 832098649461 ",
+      "address": "S/O Abdul Waheed ! H N0-E-233 ! GALI N0-9 !  ! CHAND BAGH KARAINVAL NAGAR North EastNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "8368616192",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Abdul Waheed",
+      "name": "MR ABDUL KAYYUM",
+      "num": "9990737704"
+    },
+    {
+      "aadhar": " 832098649461 ",
+      "address": "S/O Abdul Waheed ! H N0-E-233 ! GALI N0-9 !  ! CHAND BAGH KARAINVAL NAGAR North EastNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "8368616192",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Abdul Waheed",
+      "name": "MR ABDUL KAYYUM",
+      "num": "9990737704"
+    }
+  ]
+}
