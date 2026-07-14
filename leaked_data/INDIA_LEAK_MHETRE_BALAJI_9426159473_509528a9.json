@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:34:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9426159473",
+  "records": [
+    {
+      "aadhar": "822618162672",
+      "address": "S/O: Laxman!S/O: Laxman 901!Swami Muktanand Society Ward-9/B Gopalpuri Gandhidham KACHCHH!!GANDHIDHAM!Gujarat!370240",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "LAXMAN ",
+      "name": "MHETRE BALAJI",
+      "num": "9426159473"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O  Laxman 901 Swami Muktanand Society Ward-9/B Gopalpuri Gandhidham KACHCHH  GANDHIDHAM Gujarat 370240 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MHETRE BALAJI ",
+      "num": "9426159473"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O  Laxman 901 Swami Muktanand Society Ward-9/B Gopalpuri Gandhidham KACHCHH  GANDHIDHAM Gujarat 370240 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MHETRE BALAJI ",
+      "num": "9426159473"
+    },
+    {
+      "aadhar": "822618162672",
+      "address": "S/O: Laxman!S/O: Laxman 901!Swami Muktanand Society Ward-9/B Gopalpuri Gandhidham KACHCHH!!GANDHIDHAM!Gujarat!370240",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "LAXMAN ",
+      "name": "MHETRE BALAJI",
+      "num": "9426159473"
+    }
+  ]
+}
