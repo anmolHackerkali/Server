@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:22:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7302240324",
+  "records": [
+    {
+      "aadhar": "529105110801",
+      "address": "S/O Rajavir Singh!Basai Kazi!Palirajapur!!Hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajavir Singh",
+      "name": "LAKHAN SINGH",
+      "num": "7302240324"
+    },
+    {
+      "aadhar": "529105110801",
+      "address": "S/O Rajavir Singh!Basai Kazi!Palirajapur!!Hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajavir Singh",
+      "name": "LAKHAN SINGH",
+      "num": "7302240324"
+    }
+  ]
+}
