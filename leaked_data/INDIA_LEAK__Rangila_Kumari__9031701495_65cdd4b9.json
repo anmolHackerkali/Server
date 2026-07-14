@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:19:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9031701495",
+  "records": [
+    {
+      "aadhar": "999400978254",
+      "address": " jaoj!Jaoj!vaishali!Jaoj!Vaishali!Vaishali!Bihar!844505 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bishwanath Bhagat ",
+      "name": " Rangila Kumari ",
+      "num": "9031701495"
+    },
+    {
+      "aadhar": "999400978254",
+      "address": " jaoj!Jaoj!vaishali!Jaoj!Vaishali!Vaishali!Bihar!844505 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bishwanath Bhagat ",
+      "name": " Rangila Kumari ",
+      "num": "9031701495"
+    }
+  ]
+}
