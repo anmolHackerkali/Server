@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:43:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7895091013",
+  "records": [
+    {
+      "aadhar": "932497047552",
+      "address": "!747!SATGHADA GALI!CHATTA BAZAR  mathura   mathura !Mathura!Mathura!Mathura!Uttar Pradesh!281001",
+      "alt": "7088197017",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "nitin agrawal",
+      "name": "MAMTA AGARWAL",
+      "num": "7895091013"
+    },
+    {
+      "aadhar": "932497047552",
+      "address": "!747!SATGHADA GALI!CHATTA BAZAR  mathura   mathura !Mathura!Mathura!Mathura!Uttar Pradesh!281001",
+      "alt": "7088197017",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "nitin agrawal",
+      "name": "MAMTA AGARWAL",
+      "num": "7895091013"
+    }
+  ]
+}
