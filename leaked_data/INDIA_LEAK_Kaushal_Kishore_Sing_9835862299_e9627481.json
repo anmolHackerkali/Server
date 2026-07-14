@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:40:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835862299",
+  "records": [
+    {
+      "aadhar": "973217349506",
+      "address": "!Khojagachhi Barbigha!!!!Sheikhpura Barbigha Barbigha!Bihar!811101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Vidyanand  Singh",
+      "name": "Kaushal Kishore Singh",
+      "num": "9835862299"
+    },
+    {
+      "aadhar": "973217349506",
+      "address": "!Khojagachhi Barbigha!!!!Sheikhpura Barbigha Barbigha!Bihar!811101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Vidyanand  Singh",
+      "name": "Kaushal Kishore Singh",
+      "num": "9835862299"
+    }
+  ]
+}
