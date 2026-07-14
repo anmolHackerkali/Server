@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:05:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709963066",
+  "records": [
+    {
+      "aadhar": "562171846820",
+      "address": "!-!WARD NO 11 SBI ATM!NA!NARSINGHPUR!Muzaffarpur Muzaffarpur!NA!Bihar!843105",
+      "alt": "9007190509",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Sayeed",
+      "name": "Ashfaque Alam",
+      "num": "8709963066"
+    },
+    {
+      "aadhar": "562171846820",
+      "address": "!-!WARD NO 11 SBI ATM!NA!NARSINGHPUR!Muzaffarpur Muzaffarpur!NA!Bihar!843105",
+      "alt": "9007190509",
+      "circle": "JIO BHR&JHR",
+      "email": "salehaparween799@gmail.com",
+      "fname": "Md Sayeed",
+      "name": "Ashfaque Alam",
+      "num": "8709963066"
+    },
+    {
+      "aadhar": "562171846820",
+      "address": "!-!WARD NO 11 SBI ATM!NA!NARSINGHPUR!Muzaffarpur Muzaffarpur!NA!Bihar!843105",
+      "alt": "9007190509",
+      "circle": "JIO BHR&JHR",
+      "email": "salehaparween799@gmail.com",
+      "fname": "Md Sayeed",
+      "name": "Ashfaque Alam",
+      "num": "8709963066"
+    },
+    {
+      "aadhar": "581347746247",
+      "address": " .!NARSINGHPUR!.!NARSINGHPUR  MUZAFFARPUR!Muzaffarpur!Muzaffarpur!Bihar!843105 ",
+      "alt": "8709963066",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Sayeed ",
+      "name": " Saleha Parween ",
+      "num": "9122832213"
+    },
+    {
+      "aadhar": "581347746247",
+      "address": " .!NARSINGHPUR!.!NARSINGHPUR  MUZAFFARPUR!Muzaffarpur!Muzaffarpur!Bihar!843105 ",
+      "alt": "8709963066",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Md Sayeed ",
+      "name": " Saleha Parween ",
+      "num": "9122832213"
+    }
+  ]
+}
