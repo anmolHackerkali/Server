@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:08:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8789141656",
+  "records": [
+    {
+      "aadhar": "956833072948",
+      "address": "S/O  Vidyakant Mishra!!mahishi north Mahishi!!ward no-10!Mahishi Mahishi!Saharsa!Bihar!852216",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vidyakant Mishra",
+      "name": "Govind Mishra",
+      "num": "8789141656"
+    },
+    {
+      "aadhar": "956833072948",
+      "address": "S/O  Vidyakant Mishra!!mahishi north Mahishi!!ward no-10!Mahishi Mahishi!Saharsa!Bihar!852216",
+      "alt": "8434461460",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vidyakant Mishra",
+      "name": "Govind Mishra",
+      "num": "8789141656"
+    },
+    {
+      "aadhar": "956833072948",
+      "address": "S/O  Vidyakant Mishra!!mahishi north Mahishi!!ward no-10!Mahishi Mahishi!Saharsa!Bihar!852216",
+      "alt": "8434461460",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vidyakant Mishra",
+      "name": "Govind Mishra",
+      "num": "8789141656"
+    }
+  ]
+}
