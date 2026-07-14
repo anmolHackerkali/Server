@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:04:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582714453",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!RZ C2 20 VIJAY ENCLAVE VINOD PURI!!Palam Village S O South West Delhi!Delhi!110045",
+      "alt": "919891421120",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mahesh sharma",
+      "name": "Kajal Kumari",
+      "num": "9582714453"
+    },
+    {
+      "aadhar": null,
+      "address": "!!RZ C2 20VIJAY ENCLAVEVINOD PURI!!Palam Village S OSouth West Delhi!Delhi!110045",
+      "alt": "919891421120",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mahesh sharma",
+      "name": "Kajal Kumari",
+      "num": "9582714453"
+    },
+    {
+      "aadhar": null,
+      "address": "!!RZ C2 20VIJAY ENCLAVEVINOD PURI!!Palam Village S OSouth West Delhi!Delhi!110045",
+      "alt": "919891421120",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mahesh sharma",
+      "name": "Kajal Kumari",
+      "num": "9582714453"
+    }
+  ]
+}
