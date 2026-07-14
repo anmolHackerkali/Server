@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:11:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7428730894",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Manchun Mandal!0!0!Village saran!Faridabad Sector 22Faridabad!Haryana!121005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manchun Mandal",
+      "name": "Rakesh",
+      "num": "7428730894"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Manchun Mandal!0!0!Village saran!Faridabad Sector 22Faridabad!Haryana!121005",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manchun Mandal",
+      "name": "Rakesh",
+      "num": "7428730894"
+    },
+    {
+      "aadhar": "796731674998",
+      "address": "!h no-c-85!rama park!!uttam nagar west delhi!New Delhi West!West!Delhi!110059",
+      "alt": "7428730894",
+      "circle": "JIO DELHI",
+      "email": "nofotog889@weizixu.com",
+      "fname": "Rajesh Sharma",
+      "name": "sahil Sharma",
+      "num": "9354569988"
+    },
+    {
+      "aadhar": "796731674998",
+      "address": "!h no-c-85!rama park!!uttam nagar west delhi!New Delhi West!West!Delhi!110059",
+      "alt": "7428730894",
+      "circle": "JIO DELHI",
+      "email": "nofotog889@weizixu.com",
+      "fname": "Rajesh Sharma",
+      "name": "sahil Sharma",
+      "num": "9354569988"
+    }
+  ]
+}
