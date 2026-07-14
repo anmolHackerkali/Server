@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:24:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299513342",
+  "records": [
+    {
+      "aadhar": "326421703379",
+      "address": "!112!paltan bazar pratapgarh!!sadar!Pratapgarh!Pratapgarh!Uttar Pradesh!230001",
+      "alt": "8181985208",
+      "circle": "JIO UPE",
+      "email": "mohdamir423@gmail.com",
+      "fname": "abdul salam",
+      "name": "Mohd.Amir",
+      "num": "8299513342"
+    },
+    {
+      "aadhar": "326421703379",
+      "address": "!112!paltan bazar pratapgarh!!sadar!Pratapgarh!Pratapgarh!Uttar Pradesh!230001",
+      "alt": "8181985208",
+      "circle": "JIO UPE",
+      "email": "mohdamir423@gmail.com",
+      "fname": "abdul salam",
+      "name": "Mohd.Amir",
+      "num": "8299513342"
+    },
+    {
+      "aadhar": "912291443174",
+      "address": "!112!paltan bazar!!pratapgarhPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230001",
+      "alt": "8299513342",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Abdul",
+      "name": "MR. MOHD ASIF",
+      "num": "9565513342"
+    },
+    {
+      "aadhar": "912291443174",
+      "address": "!112!paltan bazar!!pratapgarh PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230001",
+      "alt": "8299513342",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Abdul",
+      "name": "MR MOHD ASIF",
+      "num": "9565513342"
+    },
+    {
+      "aadhar": "912291443174",
+      "address": "!112!paltan bazar!!pratapgarh PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230001",
+      "alt": "8299513342",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Abdul",
+      "name": "MR MOHD ASIF",
+      "num": "9565513342"
+    }
+  ]
+}
