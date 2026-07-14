@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:30:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8437224670",
+  "records": [
+    {
+      "aadhar": "568126698543",
+      "address": "SO Ved Prakash!House No9001 hig!sector 70CHANDIGARH sector 71 sas nagar mohali!CHANDIGARH sector 71 sas nagar mohali!sas nagar mohaliSAS NAGARMOHALI!CHANDIGARH!SAS NAGARMOHALI!Chandigarh!160071",
+      "alt": "9888552270",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Ved Prakash",
+      "name": "RAJESH KUMAR",
+      "num": "8437224670"
+    }
+  ]
+}
