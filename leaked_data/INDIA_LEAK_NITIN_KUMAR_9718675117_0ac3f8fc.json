@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:22:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9718675117",
+  "records": [
+    {
+      "aadhar": "928303184075",
+      "address": "S/O Balbir Singh!S/O Balbir Singh!HOUSE N0- B-8A MASTER MOHALLA!Samai Pur !LIBAS PUR-NORTH WEST DELHI!DL!110042",
+      "alt": "9718025760",
+      "circle": "VI DELHI",
+      "email": "nitinbhati64@gmail.com",
+      "fname": "BALBIR SINGH",
+      "name": "NITIN KUMAR",
+      "num": "9718675117"
+    },
+    {
+      "aadhar": "928303184075",
+      "address": "S/O Balbir Singh!S/O Balbir Singh!HOUSE N0- B-8A MASTER MOHALLA!Samai Pur !LIBAS PUR-NORTH WEST DELHI!DL!110042",
+      "alt": "9718025760",
+      "circle": "VI DELHI",
+      "email": "nitinbhati64@gmail.com",
+      "fname": "BALBIR SINGH",
+      "name": "NITIN KUMAR",
+      "num": "9718675117"
+    },
+    {
+      "aadhar": "928303184075",
+      "address": "S/O Balbir Singh!S/O Balbir Singh!HOUSE N0- B-8A MASTER MOHALLA!Samai Pur!LIBAS PUR-NORTH WEST DELHI!DL!110042",
+      "alt": "9718025760",
+      "circle": "VI DELHI",
+      "email": "nitinbhati64@gmail.com",
+      "fname": "BALBIR SINGH",
+      "name": "NITINKUMAR",
+      "num": "9718675117"
+    },
+    {
+      "aadhar": "928303184075",
+      "address": "S/O Balbir Singh!S/O Balbir Singh!HOUSE N0- B-8A MASTER MOHALLA!Samai Pur!LIBAS PUR-NORTH WEST DELHI!DL!110042",
+      "alt": "9718025760",
+      "circle": "VI DELHI",
+      "email": "nitinbhati64@gmail.com",
+      "fname": "BALBIR SINGH",
+      "name": "NITINKUMAR",
+      "num": "9718675117"
+    }
+  ]
+}
