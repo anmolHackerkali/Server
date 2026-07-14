@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:59:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9455441100",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Rajesh Kumar Singh Tomar!!saxena photo studio SITAPUR!adarsh NAGAR sec- 2 naipalapur!Sitapur Sitapur!Uttar Pradesh!261001",
+      "alt": "919307050506",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajesh Kumar Singh Tomar",
+      "name": "Suraj Singh Tomar",
+      "num": "9455441100"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rajesh Kumar Singh Tomar!!saxena photo studio SITAPUR!adarsh NAGAR sec- 2 naipalapur!Sitapur Sitapur!Uttar Pradesh!261001",
+      "alt": "919307050506",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajesh Kumar Singh Tomar",
+      "name": "Suraj Singh Tomar",
+      "num": "9455441100"
+    },
+    {
+      "aadhar": "641680504649",
+      "address": "s/o  rajesh kumar singh tomar!!Sitapur!saxena photo studio SITAPUR!saxena photo studio sitapur adarsh nagar sec- 2 naipalapur!sitapur Biswan!sitapur!Uttar Pradesh!261001",
+      "alt": "9455441100",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar singh",
+      "name": "Suraj Singh Tomar",
+      "num": "7310441100"
+    },
+    {
+      "aadhar": "641680504649",
+      "address": "s/o  rajesh kumar singh tomar!!Sitapur!saxena photo studio SITAPUR!saxena photo studio sitapur adarsh nagar sec- 2 naipalapur!sitapur Biswan!sitapur!Uttar Pradesh!261001",
+      "alt": "9455441100",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar singh",
+      "name": "Suraj Singh Tomar",
+      "num": "7310441100"
+    }
+  ]
+}
