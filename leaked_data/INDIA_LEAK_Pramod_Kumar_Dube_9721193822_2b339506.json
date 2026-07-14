@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:45:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721193822",
+  "records": [
+    {
+      "aadhar": "495686891115",
+      "address": " !29!bharuhi bharari    City/District: Allahabad State Uttar Pradesh! !ALLAHABAD!UTTAR PRADESH!212303",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": ": Matambar Dube",
+      "name": "Pramod Kumar Dube",
+      "num": "9721193822"
+    },
+    {
+      "aadhar": "495686891115",
+      "address": " !29!bharuhi bharari    City/District: Allahabad State Uttar Pradesh! !ALLAHABAD!UTTAR PRADESH!212303",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": ": Matambar Dube",
+      "name": "Pramod Kumar Dube",
+      "num": "9721193822"
+    }
+  ]
+}
