@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:06:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9889538397",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O: Sukha!.!.!.!!Mau!Mau!276403",
+      "alt": "7310350518",
+      "circle": null,
+      "email": null,
+      "fname": "D/O: Sukha",
+      "name": "Rekha ",
+      "num": "9889538397"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Sukha!.!.!.!!Mau!Mau!276403",
+      "alt": "7310350518",
+      "circle": null,
+      "email": null,
+      "fname": "D/O: Sukha",
+      "name": "Rekha ",
+      "num": "9889538397"
+    }
+  ]
+}
