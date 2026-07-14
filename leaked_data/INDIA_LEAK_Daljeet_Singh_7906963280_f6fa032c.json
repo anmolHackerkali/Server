@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:23:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906963280",
+  "records": [
+    {
+      "aadhar": "234186740022",
+      "address": "S/O Kartar Singh!!.BANK COLONYKHUSHALPUR!GURUDWARA ROAD!MoradabadMoradabad!Uttar Pradesh!244001",
+      "alt": "+919412641733",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kartar Singh",
+      "name": "Daljeet Singh",
+      "num": "7906963280"
+    },
+    {
+      "aadhar": "234186740022",
+      "address": "S/O Kartar Singh!!. BANK COLONY KHUSHALPUR!GURUDWARA ROAD!Moradabad Moradabad!Uttar Pradesh!244001",
+      "alt": "919412641733",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kartar Singh",
+      "name": "Daljeet Singh",
+      "num": "7906963280"
+    },
+    {
+      "aadhar": "234186740022",
+      "address": "S/O Kartar Singh!!. BANK COLONY KHUSHALPUR!GURUDWARA ROAD!Moradabad Moradabad!Uttar Pradesh!244001",
+      "alt": "919412641733",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kartar Singh",
+      "name": "Daljeet Singh",
+      "num": "7906963280"
+    },
+    {
+      "aadhar": "234186740022",
+      "address": "!1233!Nanak pura road bank colony!near sardar ji ki chakki!khushalpur!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7906963280",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kartar singh",
+      "name": "Daljeet Singh  ",
+      "num": "9548838739"
+    },
+    {
+      "aadhar": "234186740022",
+      "address": "!1233!Nanak pura road bank colony!near sardar ji ki chakki!khushalpur!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7906963280",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "kartar singh",
+      "name": "Daljeet Singh",
+      "num": "9548838739"
+    },
+    {
+      "aadhar": "234186740022",
+      "address": "!1233!Nanak pura road bank colony!near sardar ji ki chakki!khushalpur!Moradabad!Moradabad!Uttar Pradesh!244001",
+      "alt": "7906963280",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "kartar singh",
+      "name": "Daljeet Singh",
+      "num": "9548838739"
+    }
+  ]
+}
