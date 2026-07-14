@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:47:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7065620240",
+  "records": [
+    {
+      "aadhar": "826387795434",
+      "address": "!124 ward no 2!new ahirwara near tail mil!!faridabad!Faridabad!Faridabad!Uttar Pradesh!121001",
+      "alt": "9818298182",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "baljit  singh",
+      "name": "romi  hooda",
+      "num": "7065620240"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "!124 ward no 2 new ahirwara near tail mil Faridabad faridabad Haryana 121001!!!!!!!",
+      "alt": "9818298182",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "baljit  singh",
+      "name": "romi  hooda",
+      "num": "7065620240"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "!124!ward no 2!near tail mil!new ahirwara!Faridabad!faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "baljit singh",
+      "name": "romi hooda",
+      "num": "7065620240"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "!124!ward no 2!near tail mil!new ahirwara!Faridabad!faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "baljit singh",
+      "name": "romi hooda",
+      "num": "7065620240"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "S/O Baljit Singh Hooda!H No - E-33!Ali Vihar!Badrapur Jait Pur!South Delhi!Delhi!110044",
+      "alt": "7065620240",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Baljit Singh Hooda",
+      "name": "Romi  Hooda",
+      "num": "9818298182"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "S/O Baljit Singh Hooda!H No - E-33!Ali Vihar!BadrapurJait Pur!South Delhi!Delhi!110044",
+      "alt": "7065620240",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Baljit Singh Hooda",
+      "name": "Romi  Hooda",
+      "num": "9818298182"
+    },
+    {
+      "aadhar": "826387795434",
+      "address": "S/O Baljit Singh Hooda!H No - E-33!Ali Vihar!BadrapurJait Pur!South Delhi!Delhi!110044",
+      "alt": "7065620240",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Baljit Singh Hooda",
+      "name": "Romi  Hooda",
+      "num": "9818298182"
+    }
+  ]
+}
