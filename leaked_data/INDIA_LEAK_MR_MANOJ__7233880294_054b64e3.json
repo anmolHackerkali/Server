@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:06:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7233880294",
+  "records": [
+    {
+      "aadhar": "224367776047",
+      "address": "S/O MOHAN!0!kashmandi kala!!malihabadLUCKNOW!LUCKNOW!UTTAR PRADESH!227111",
+      "alt": "7233881460",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Mohan",
+      "name": "MR. MANOJ ",
+      "num": "7233880294"
+    },
+    {
+      "aadhar": "224367776047",
+      "address": "S/O MOHAN!0!kashmandi kala!!malihabad LUCKNOW!LUCKNOW!UTTAR PRADESH!227111",
+      "alt": "7233881460",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan",
+      "name": "MR MANOJ ",
+      "num": "7233880294"
+    },
+    {
+      "aadhar": "224367776047",
+      "address": "S/O MOHAN!0!kashmandi kala!!malihabad LUCKNOW!LUCKNOW!UTTAR PRADESH!227111",
+      "alt": "7233881460",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan",
+      "name": "MR MANOJ ",
+      "num": "7233880294"
+    }
+  ]
+}
