@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:48:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9131870535",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 00 shankarpura  betma indore Indore  Madhya Pradesh 453001",
+      "alt": "9131870535",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Ramesh Rathore",
+      "name": "Mahesh Rathore",
+      "num": "9589580535 "
+    },
+    {
+      "aadhar": "914965359820",
+      "address": "s/o  ramesh rathore! 16!Betma S.O!!shankarpura betma s.o!betma For New VTC!indore!Madhya Pradesh!453001",
+      "alt": "9131870535",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "ramesh rathore",
+      "name": "Mahesh",
+      "num": "8236059394"
+    },
+    {
+      "aadhar": null,
+      "address": " 16 shankarpura  Betma Indore  Madhya Pradesh 453001",
+      "alt": "9131870535",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Ramesh Rathore",
+      "name": "Mahesh Rathore",
+      "num": "7225020535 "
+    }
+  ]
+}
