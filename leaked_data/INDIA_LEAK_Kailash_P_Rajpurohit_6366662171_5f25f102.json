@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:59:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6366662171",
+  "records": [
+    {
+      "aadhar": "647876876033",
+      "address": " 115 M H Plaza 1000 Mamul Pet Bangalore North Blaji Complex Sulthanpet  Bangalore City Bangalore Bengaluru BENGALURU Karnataka 560002",
+      "alt": "9844379614",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Pahad Singh Rajpurohit",
+      "name": "Kailash P Rajpurohit",
+      "num": "6366662171"
+    }
+  ]
+}
