@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:01:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999295002",
+  "records": [
+    {
+      "aadhar": "249222654904",
+      "address": " Purushottam Saxena!Flat No  E 1206!Ajnara Integrity Rajnagar Extn Raj Nagar Extension!Ghaziabad!Raj Nagar Extension- -Ghaziabad!Uttar Pradesh!201017",
+      "alt": "0",
+      "circle": "VI DELHI",
+      "email": "deepalisaxena75@gmail.com",
+      "fname": "S/O Purushottam Saxena",
+      "name": "Piyush Saxena",
+      "num": "9999295002"
+    },
+    {
+      "aadhar": "249222654904",
+      "address": "Purushottam Saxena!Flat No E 1206!Ajnara Integrity Rajnagar Extn Raj Nagar Extension!Ghaziabad!Raj Nagar Extension- -Ghaziabad!Uttar Pradesh!201017",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "deepalisaxena75@gmail.com",
+      "fname": "S/OPurushottam Saxena",
+      "name": "PiyushSaxena",
+      "num": "9999295002"
+    },
+    {
+      "aadhar": "249222654904",
+      "address": "Purushottam Saxena!Flat No E 1206!Ajnara Integrity Rajnagar Extn Raj Nagar Extension!Ghaziabad!Raj Nagar Extension- -Ghaziabad!Uttar Pradesh!201017",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "deepalisaxena75@gmail.com",
+      "fname": "S/OPurushottam Saxena",
+      "name": "PiyushSaxena",
+      "num": "9999295002"
+    },
+    {
+      "aadhar": "249222654904",
+      "address": "S/O Purushottam Saxena!Flat No E 1206!Ajnara Integrity!Rajnagar ExtnGhaziabad Raj Nagar Extension!Ghaziabad!Uttar Pradesh!201017",
+      "alt": "9999295002",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Saxena  ",
+      "name": "Piyush  Saxena",
+      "num": "9910117323"
+    },
+    {
+      "aadhar": "249222654904",
+      "address": "S/OPurushottam Saxena!Flat No E 1206!Ajnara Integrity!Rajnagar ExtnGhaziabadRaj Nagar Extension!Ghaziabad!Uttar Pradesh!201017",
+      "alt": "9999295002",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Saxena  ",
+      "name": "Piyush  Saxena",
+      "num": "9910117323"
+    },
+    {
+      "aadhar": "249222654904",
+      "address": "S/OPurushottam Saxena!Flat No E 1206!Ajnara Integrity!Rajnagar ExtnGhaziabadRaj Nagar Extension!Ghaziabad!Uttar Pradesh!201017",
+      "alt": "9999295002",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Saxena  ",
+      "name": "Piyush  Saxena",
+      "num": "9910117323"
+    }
+  ]
+}
