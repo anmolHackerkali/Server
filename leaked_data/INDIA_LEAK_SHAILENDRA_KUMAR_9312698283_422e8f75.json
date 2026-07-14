@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:14:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9312698283",
+  "records": [
+    {
+      "aadhar": "786953524838",
+      "address": "S/O Ram Datt!S/O Ram Datt  C-30!Block-c  Harigan Basti!Vasundhra Enclave !KONDLI-EAST DELHI!DL!110096",
+      "alt": "9990359006",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM DATT  ",
+      "name": "SHAILENDRA KUMAR",
+      "num": "9312698283"
+    },
+    {
+      "aadhar": "786953524838",
+      "address": "S/ORam Datt!S/ORam Datt C-30!Block-c Harigan Basti!Vasundhra Enclave!KONDLI-EAST DELHI!DL!110096",
+      "alt": "9990359006",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM DATT ",
+      "name": "SHAILENDRAKUMAR",
+      "num": "9312698283"
+    },
+    {
+      "aadhar": "786953524838",
+      "address": "S/ORam Datt!S/ORam Datt C-30!Block-c Harigan Basti!Vasundhra Enclave!KONDLI-EAST DELHI!DL!110096",
+      "alt": "9990359006",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM DATT ",
+      "name": "SHAILENDRAKUMAR",
+      "num": "9312698283"
+    }
+  ]
+}
