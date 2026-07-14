@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:15:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7760376179",
+  "records": [
+    {
+      "aadhar": "690478681569",
+      "address": " 108/1 GANESHA TEMPLE STREET Hosahalli  Hosahalli Honnali Davangere Karnataka 577224",
+      "alt": "9686979314",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Samdsab   ",
+      "name": "ARSHAD  ALI",
+      "num": "7760376179"
+    },
+    {
+      "aadhar": "690478681569",
+      "address": "S/O Samad Sab! 108/1!GANESHA TEMPLE STREET Hosahalli!!hosahalli!Hosahalli Honnali!Davangere!Karnataka!577224",
+      "alt": "7760376179",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Samad Sab",
+      "name": "ARSHAD ALI",
+      "num": "9019694421"
+    },
+    {
+      "aadhar": "690478681569",
+      "address": "SAMAD SAB!108!Ganesh tempel road!Hosahalli!Hosahalli Davangere!Davangere!Davangere!Karnataka!577224",
+      "alt": "7760376179",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "SAMAD SAB",
+      "name": "ARSHAD ALI",
+      "num": "7411069410"
+    }
+  ]
+}
