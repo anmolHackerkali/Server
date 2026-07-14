@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:43:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9935553212",
+  "records": [
+    {
+      "aadhar": "982639689334",
+      "address": "S/O Chndrabhan Pandey!12!Kishunpurwa!Jhahraw!Kishunpurwa Bansi!Siddharthnagar!MATHURA!Uttar Pradesh!272153",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chndrabhan Pandey",
+      "name": "Ajay Pandey",
+      "num": "9935553212"
+    },
+    {
+      "aadhar": "982639689334",
+      "address": "S/O Chndrabhan Pandey!12!Kishunpurwa!Jhahraw!Kishunpurwa Bansi!Siddharthnagar!MATHURA!Uttar Pradesh!272153",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chndrabhan Pandey",
+      "name": "Ajay Pandey",
+      "num": "9935553212"
+    }
+  ]
+}
