@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:59:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9113315987",
+  "records": [
+    {
+      "aadhar": "716823156712",
+      "address": "S/O  Sri Rajendra Nishad!!North Tisra!Thana Tisra!Suranga Dhanbad!Jharkhand!828115",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sri Rajendra Nishad",
+      "name": "Lalan Nishad",
+      "num": "9113315987"
+    },
+    {
+      "aadhar": "716823156712",
+      "address": "S/O  Sri Rajendra Nishad!!North Tisra!Thana Tisra!Suranga Dhanbad!Jharkhand!828115",
+      "alt": "919155866178",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sri Rajendra Nishad",
+      "name": "Lalan Nishad",
+      "num": "9113315987"
+    },
+    {
+      "aadhar": "716823156712",
+      "address": "S/O  Sri Rajendra Nishad!!North Tisra!Thana Tisra!Suranga Dhanbad!Jharkhand!828115",
+      "alt": "919155866178",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sri Rajendra Nishad",
+      "name": "Lalan Nishad",
+      "num": "9113315987"
+    },
+    {
+      "aadhar": "715385438087",
+      "address": " S/O LALAN NISHAD SUGIYADH   SARAIDHELA SUGIYADH   SARAIDHELA NEAR MAHATO TOLA NEAR MAHATO TOLA Near mahato tola saraidhela DHANBAD DHANBAD DHANBAD JHARKHAND 828127 ",
+      "alt": "9113315987",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " LALAN NISHAD ",
+      "name": " MR  ANIKET NISHAD ",
+      "num": "7808782332"
+    },
+    {
+      "aadhar": "715385438087",
+      "address": " S/O LALAN NISHAD SUGIYADH   SARAIDHELA SUGIYADH   SARAIDHELA NEAR MAHATO TOLA NEAR MAHATO TOLA Near mahato tola saraidhela DHANBAD DHANBAD DHANBAD JHARKHAND 828127 ",
+      "alt": "9113315987",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " LALAN NISHAD ",
+      "name": " MR  ANIKET NISHAD ",
+      "num": "7808782332"
+    }
+  ]
+}
