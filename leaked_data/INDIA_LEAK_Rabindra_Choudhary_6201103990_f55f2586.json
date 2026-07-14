@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:47:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6201103990",
+  "records": [
+    {
+      "aadhar": "935606078770",
+      "address": "S/O  Late Ram Ayodhya Choudhary! DOMGARH DL2 - 281!WARD NO - 54!PO- DOMGARH!WARD NO - 54 DOMGARH DL2 - 281 PO- DOMGARH PS- SINDRI!Sindri!Dhanbad!Jharkhand!828122",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Ram Ayodhya Choudhary",
+      "name": "Rabindra Choudhary",
+      "num": "6201103990"
+    },
+    {
+      "aadhar": "935606078770",
+      "address": "S/O  Late Ram Ayodhya Choudhary! DOMGARH DL2 - 281!WARD NO - 54!PO- DOMGARH!WARD NO - 54 DOMGARH DL2 - 281 PO- DOMGARH PS- SINDRI!Sindri!Dhanbad!Jharkhand!828122",
+      "alt": "9693377995",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Ram Ayodhya Choudhary",
+      "name": "Rabindra Choudhary",
+      "num": "6201103990"
+    },
+    {
+      "aadhar": "935606078770",
+      "address": "S/O  Late Ram Ayodhya Choudhary! DOMGARH DL2 - 281!WARD NO - 54!PO- DOMGARH!WARD NO - 54 DOMGARH DL2 - 281 PO- DOMGARH PS- SINDRI!Sindri!Dhanbad!Jharkhand!828122",
+      "alt": "9693377995",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Ram Ayodhya Choudhary",
+      "name": "Rabindra Choudhary",
+      "num": "6201103990"
+    }
+  ]
+}
