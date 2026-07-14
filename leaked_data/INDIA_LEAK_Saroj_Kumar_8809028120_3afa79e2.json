@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:47:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809028120",
+  "records": [
+    {
+      "aadhar": "891539810997",
+      "address": "S/O  Guljari Yadav!!Maheshpur!!!Maheshpur Bhagwanpur!Begusarai!Bihar!851133",
+      "alt": "9835454050",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Guljari Yadav",
+      "name": "Saroj Kumar",
+      "num": "8809028120"
+    },
+    {
+      "aadhar": "891539810997",
+      "address": "S/O  Guljari Yadav!!Maheshpur!!!Maheshpur Bhagwanpur!Begusarai!Bihar!851133",
+      "alt": "9835454050",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Guljari Yadav",
+      "name": "Saroj Kumar",
+      "num": "8809028120"
+    },
+    {
+      "aadhar": "891539810997",
+      "address": "S/O  Guljari Yadav!!Maheshpur!!!Maheshpur Bhagwanpur!Begusarai!Bihar!851133",
+      "alt": "9835454050",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Guljari Yadav",
+      "name": "Saroj Kumar",
+      "num": "8809028120"
+    },
+    {
+      "aadhar": "285690330207",
+      "address": "D/O  Shambhu Ray!!Bhadaiya!!Ramaiya!Bhadaia Mohiuddinnagar!Samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shambhu Ray",
+      "name": "Arati Kumari",
+      "num": "9835454050"
+    },
+    {
+      "aadhar": "452362498819",
+      "address": "d/o  shambhu ray!!Bhadaiya!!ramaiya goriyari bhadaiya!bhadaia Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shambhu ray",
+      "name": "Komal Kumari",
+      "num": "9334688569"
+    },
+    {
+      "aadhar": "285690330207",
+      "address": "D/O  Shambhu Ray!!Bhadaiya!!Ramaiya!Bhadaia Mohiuddinnagar!Samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shambhu Ray",
+      "name": "Arati Kumari",
+      "num": "9835454050"
+    },
+    {
+      "aadhar": "452362498819",
+      "address": "d/o  shambhu ray!!Bhadaiya!!ramaiya goriyari bhadaiya!bhadaia Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shambhu ray",
+      "name": "Komal Kumari",
+      "num": "9334688569"
+    },
+    {
+      "aadhar": "285690330207",
+      "address": "D/O  Shambhu Ray!!Bhadaiya!!Ramaiya!Bhadaia Mohiuddinnagar!Samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shambhu Ray",
+      "name": "Arati Kumari",
+      "num": "9835454050"
+    },
+    {
+      "aadhar": "452362498819",
+      "address": "d/o  shambhu ray!!Bhadaiya!!ramaiya goriyari bhadaiya!bhadaia Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "8809028120",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shambhu ray",
+      "name": "Komal Kumari",
+      "num": "9334688569"
+    }
+  ]
+}
