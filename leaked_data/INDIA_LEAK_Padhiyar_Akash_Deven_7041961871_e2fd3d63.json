@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:24:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7041961871",
+  "records": [
+    {
+      "aadhar": "340169762470",
+      "address": "PADHIYAR GROUP vistar budhecha budhecha budhecha Budhecha Budhecha Chorvad",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Devendrabhai",
+      "name": "Padhiyar Akash Devendrabhai",
+      "num": "7041961871"
+    },
+    {
+      "aadhar": "340169762470",
+      "address": "PADHIYAR GROUP vistar budhecha budhecha budhecha Budhecha Budhecha Chorvad",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Devendrabhai",
+      "name": "Padhiyar Akash Devendrabhai",
+      "num": "7041961871"
+    }
+  ]
+}
