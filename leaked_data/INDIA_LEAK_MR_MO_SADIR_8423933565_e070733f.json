@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:44:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8423933565",
+  "records": [
+    {
+      "aadhar": "742984494526",
+      "address": "Rajafathpur!Tiloi!Bhikhipur!Bhikhipur!Tiloi Amethi RAEBARELI!AMETHI!UTTAR PRADESH!229309",
+      "alt": "8423933565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saddik",
+      "name": "MR MO SADIR",
+      "num": "8423933565"
+    },
+    {
+      "aadhar": "742984494526",
+      "address": "Rajafathpur!Tiloi!Bhikhipur!Bhikhipur!Tiloi Amethi RAEBARELI!AMETHI!UTTAR PRADESH!229309",
+      "alt": "8423933565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saddik",
+      "name": "MR MO SADIR",
+      "num": "8423933565"
+    },
+    {
+      "aadhar": "742984494526",
+      "address": "Rajafathpur!Tiloi!Bhikhipur!Bhikhipur!Tiloi Amethi RAEBARELI!AMETHI!UTTAR PRADESH!229309",
+      "alt": "8423933565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saddik",
+      "name": "MR MO SADIR",
+      "num": "8423933565"
+    },
+    {
+      "aadhar": "742984494526",
+      "address": "Rajafathpur!Tiloi!Bhikhipur!Bhikhipur!Tiloi Amethi RAEBARELI!AMETHI!UTTAR PRADESH!229309",
+      "alt": "8423933565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saddik",
+      "name": "MR MO SADIR",
+      "num": "8423933565"
+    }
+  ]
+}
