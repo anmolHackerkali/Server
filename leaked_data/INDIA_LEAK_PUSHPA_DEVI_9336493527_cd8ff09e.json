@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:58:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336493527",
+  "records": [
+    {
+      "aadhar": "850934011672",
+      "address": "W/O  Chhunnan Prasad!! Vsi Shivpur!NA!!Parmanandpur Varanasi Varanasi!NA!Uttar Pradesh!221003",
+      "alt": "7839754827",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chhunnan Prasad",
+      "name": "PUSHPA DEVI",
+      "num": "9336493527"
+    },
+    {
+      "aadhar": "850934011672",
+      "address": "W/O  Chhunnan Prasad!! Vsi Shivpur!NA!!Parmanandpur Varanasi Varanasi!NA!Uttar Pradesh!221003",
+      "alt": "7839754827",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chhunnan Prasad",
+      "name": "PUSHPA DEVI",
+      "num": "9336493527"
+    }
+  ]
+}
