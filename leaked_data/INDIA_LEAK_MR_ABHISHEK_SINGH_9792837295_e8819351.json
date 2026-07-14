@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:55:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792837295",
+  "records": [
+    {
+      "aadhar": "553492498810",
+      "address": "Hari Singh!56!Jalalpur Mangauwan!!JALAL PUR MAGAUWAN MAGAUWANBARABANKI!BARABANKI!UTTAR PRADESH!227302",
+      "alt": "9580255565",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Hari Singh",
+      "name": "MR. ABHISHEK SINGH",
+      "num": "9792837295"
+    },
+    {
+      "aadhar": "553492498810",
+      "address": "Hari Singh!56!Jalalpur Mangauwan!!JALAL PUR MAGAUWAN MAGAUWAN BARABANKI!BARABANKI!UTTAR PRADESH!227302",
+      "alt": "9580255565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hari Singh",
+      "name": "MR ABHISHEK SINGH",
+      "num": "9792837295"
+    },
+    {
+      "aadhar": "553492498810",
+      "address": "Hari Singh!56!Jalalpur Mangauwan!!JALAL PUR MAGAUWAN MAGAUWAN BARABANKI!BARABANKI!UTTAR PRADESH!227302",
+      "alt": "9580255565",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hari Singh",
+      "name": "MR ABHISHEK SINGH",
+      "num": "9792837295"
+    }
+  ]
+}
