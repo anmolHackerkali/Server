@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:02:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8789643002",
+  "records": [
+    {
+      "aadhar": "906274349934",
+      "address": "s/o  ramanuj singh! Ramanuj Singh!vill post Aranda!vill post aranda!Aranda!aranda!aurangabad!Bihar!824113",
+      "alt": "7543063746",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ramanuj singh",
+      "name": "Anish Kumar Singh",
+      "num": "8789643002"
+    },
+    {
+      "aadhar": "906274349934",
+      "address": "s/o  ramanuj singh! Ramanuj Singh!vill post Aranda!vill post aranda!Aranda!aranda!aurangabad!Bihar!824113",
+      "alt": "7543063746",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramanuj singh",
+      "name": "Anish Kumar Singh",
+      "num": "8789643002"
+    },
+    {
+      "aadhar": "906274349934",
+      "address": "s/o  ramanuj singh! Ramanuj Singh!vill post Aranda!vill post aranda!Aranda!aranda!aurangabad!Bihar!824113",
+      "alt": "7543063746",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramanuj singh",
+      "name": "Anish Kumar Singh",
+      "num": "8789643002"
+    }
+  ]
+}
