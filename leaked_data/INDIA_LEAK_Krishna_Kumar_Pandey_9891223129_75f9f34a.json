@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:18:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9891223129",
+  "records": [
+    {
+      "aadhar": "-",
+      "address": "V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001! ! !!!",
+      "alt": "  8368350449 ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "-",
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": null,
+      "address": "!V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001!!!!!!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": null,
+      "address": "V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001! ! !!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": null,
+      "address": "V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001! ! !!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": "676549700356",
+      "address": "! c/o jagdish narayan pandey!8/B SF Block E Jawahar park khanpur South Delhi!!Jawahar park Khanpur South Delhi!New Delhi South!South!Delhi!110062",
+      "alt": "9891223129",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagdish narayan panday",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "9315884202"
+    },
+    {
+      "aadhar": "676549700356",
+      "address": "!c/o jagdish narayan pandey!8/B SF Block E Jawahar park khanpur South Delhi!!Jawahar park Khanpur South Delhi!New Delhi South!South!Delhi!110062",
+      "alt": "9891223129",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagdish narayan panday",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "9315884202"
+    },
+    {
+      "aadhar": "676549700356",
+      "address": "!c/o jagdish narayan pandey!8/B SF Block E Jawahar park khanpur South Delhi!!Jawahar park Khanpur South Delhi!New Delhi South!South!Delhi!110062",
+      "alt": "9891223129",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jagdish narayan panday",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "9315884202"
+    }
+  ]
+}
