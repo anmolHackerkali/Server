@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:17:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336038186",
+  "records": [
+    {
+      "aadhar": "839531810605",
+      "address": "!bagulehai!bugulehaiBAGULIYAI!BAGULIYAI!TALGRAM TAHPUR TAHPURKANNAUJ!KANNAUJ!UTTAR PRADESH!209731",
+      "alt": "8853431809",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Saraman",
+      "name": "MRS. SUNDRI .",
+      "num": "9336038186"
+    },
+    {
+      "aadhar": "839531810605",
+      "address": "!bagulehai!bugulehai BAGULIYAI!BAGULIYAI!TALGRAM TAHPUR TAHPUR KANNAUJ!KANNAUJ!UTTAR PRADESH!209731",
+      "alt": "8853431809",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saraman",
+      "name": "MRS SUNDRI ",
+      "num": "9336038186"
+    },
+    {
+      "aadhar": "839531810605",
+      "address": "!bagulehai!bugulehai BAGULIYAI!BAGULIYAI!TALGRAM TAHPUR TAHPUR KANNAUJ!KANNAUJ!UTTAR PRADESH!209731",
+      "alt": "8853431809",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Saraman",
+      "name": "MRS SUNDRI ",
+      "num": "9336038186"
+    },
+    {
+      "aadhar": "326846028663",
+      "address": "s/o  saroj mishra!145!akbar pur kannauj!!chhibramau!akbar pur!kannauj!Uttar Pradesh!209721",
+      "alt": "9336038186",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "saroj mishra",
+      "name": "Mayank Mishra",
+      "num": "8853431809"
+    },
+    {
+      "aadhar": "326846028663",
+      "address": "s/o  saroj mishra!145!akbar pur kannauj!!chhibramau!akbar pur!kannauj!Uttar Pradesh!209721",
+      "alt": "9336038186",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "saroj mishra",
+      "name": "Mayank Mishra",
+      "num": "8853431809"
+    }
+  ]
+}
