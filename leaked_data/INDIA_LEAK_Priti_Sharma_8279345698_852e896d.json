@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:58:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8279345698",
+  "records": [
+    {
+      "aadhar": "406794666306",
+      "address": "W/O  Balram Sharma!!445Gali no 1BankhandiSubhash Bankhandi!Rishikesh!RishikeshRishikeshDehradun!Uttarakhand!249201",
+      "alt": "+918979823058",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Balram Sharma",
+      "name": "Priti Sharma",
+      "num": "8279345698"
+    }
+  ]
+}
