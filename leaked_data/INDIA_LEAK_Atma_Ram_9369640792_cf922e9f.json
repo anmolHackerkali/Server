@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:01:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9369640792",
+  "records": [
+    {
+      "aadhar": "687301225681",
+      "address": "S/O Bodil Prasad!545 - Ka / R - 138!Ram Vihar Colony Para Road!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bodil Prasad",
+      "name": "Atma Ram",
+      "num": "9369640792"
+    },
+    {
+      "aadhar": "687301225681",
+      "address": "S/O Bodil Prasad!545 - Ka / R - 138!Ram Vihar Colony Para Road!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bodil Prasad",
+      "name": "Atma Ram",
+      "num": "9369640792"
+    }
+  ]
+}
