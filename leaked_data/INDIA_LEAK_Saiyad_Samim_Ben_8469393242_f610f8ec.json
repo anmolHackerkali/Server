@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:28:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8469393242",
+  "records": [
+    {
+      "aadhar": "420682324831",
+      "address": "!sarvjanik high school pase juna kosamba Kosamba!!Tarsadi-Mangrol-Surat!394120",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Jakir Bhai",
+      "name": "Saiyad Samim Ben",
+      "num": "8469393242"
+    },
+    {
+      "aadhar": "420682324831",
+      "address": "Jakir Bhai!!sarvjanik high school pase juna kosamba Kosamba!!Tarsadi-Mangrol-Surat!Gujarat!394120",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Jakir Bhai",
+      "name": "Saiyad Samim Ben",
+      "num": "8469393242"
+    },
+    {
+      "aadhar": "420682324831",
+      "address": "Jakir Bhai!!sarvjanik high school pase juna kosamba Kosamba!!Tarsadi-Mangrol-Surat!Gujarat!394120",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Jakir Bhai",
+      "name": "Saiyad Samim Ben",
+      "num": "8469393242"
+    },
+    {
+      "aadhar": "459102133006",
+      "address": "!4765 nulll!sarvjanik haigh school pase!juna kosamba!kosamba  mangrol!Surat!Surat!Gujarat!394120",
+      "alt": "8469393242",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "jakirbhai saiyad",
+      "name": "Rubinabanu Jakirbhai Saiyad",
+      "num": "9737338057"
+    },
+    {
+      "aadhar": "459102133006",
+      "address": "!4765 nulll!sarvjanik haigh school pase!juna kosamba!kosamba  mangrol!Surat!Surat!Gujarat!394120",
+      "alt": "8469393242",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "jakirbhai saiyad",
+      "name": "Rubinabanu Jakirbhai Saiyad",
+      "num": "9737338057"
+    }
+  ]
+}
