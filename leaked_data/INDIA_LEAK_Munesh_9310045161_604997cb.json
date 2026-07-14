@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:57:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310045161",
+  "records": [
+    {
+      "aadhar": "228894386523",
+      "address": "! A-8/685!GALI NO 8!!Amar Colony East Gokalpur!Gokal Pur!North East Delhi!Delhi!110094",
+      "alt": "7065753979",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAVEEN KUMAR",
+      "name": "Munesh",
+      "num": "9310045161"
+    },
+    {
+      "aadhar": "228894386523",
+      "address": "!A-8/685!GALI NO 8!!Amar Colony East Gokalpur!Gokal Pur!North East Delhi!Delhi!110094",
+      "alt": "7065753979",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAVEEN KUMAR",
+      "name": "Munesh",
+      "num": "9310045161"
+    },
+    {
+      "aadhar": "228894386523",
+      "address": "!A-8/685!GALI NO 8!!Amar Colony East Gokalpur!Gokal Pur!North East Delhi!Delhi!110094",
+      "alt": "7065753979",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "PRAVEEN KUMAR",
+      "name": "Munesh",
+      "num": "9310045161"
+    }
+  ]
+}
