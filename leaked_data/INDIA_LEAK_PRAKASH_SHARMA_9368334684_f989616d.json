@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:23:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368334684",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Rakesh Sharma!!!9756886846!Basai KaziHathras!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Rakesh Sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9368334684"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Rakesh Sharma!!!9756886846!Basai Kazi Hathras!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rakesh Sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9368334684"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Rakesh Sharma!!!9756886846!Basai Kazi Hathras!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rakesh Sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9368334684"
+    },
+    {
+      "aadhar": "559182498548",
+      "address": "S/O Gokul Chandra!!-Palirajapur!BASAI KAJI!-!Basai KaziSasni!Hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Gokul Chandra",
+      "name": "Rakesh Kumar",
+      "num": "9756886846"
+    },
+    {
+      "aadhar": "225704787442",
+      "address": "w/o  vinod kumar!!-Palirajapur!BASAI KAJI!- - basai kaji basai kazi!palirajapurSasni!hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Seema Devi",
+      "num": "8006029750"
+    },
+    {
+      "aadhar": "622938391268",
+      "address": "!basai kazi!9756886846 basai kazi!mandir!hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rakesh sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9897657264"
+    },
+    {
+      "aadhar": "559182498548",
+      "address": "S/O Gokul Chandra!!- Palirajapur!BASAI KAJI!-!Basai Kazi Sasni!Hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Gokul Chandra",
+      "name": "Rakesh Kumar",
+      "num": "9756886846"
+    },
+    {
+      "aadhar": "225704787442",
+      "address": "w/o  vinod kumar!!- Palirajapur!BASAI KAJI!- - basai kaji basai kazi!palirajapur Sasni!hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Seema Devi",
+      "num": "8006029750"
+    },
+    {
+      "aadhar": "564698165407",
+      "address": "S/O Rajendra Singh!Basai Kazi!Palirajapur!!Hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "RAJENDR SINGH",
+      "name": "RAKESH KUMAR",
+      "num": "7827460426"
+    },
+    {
+      "aadhar": "622938391268",
+      "address": "!basai kazi!9756886846 basai kazi!mandir!hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rakesh sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9897657264"
+    },
+    {
+      "aadhar": "559182498548",
+      "address": "S/O Gokul Chandra!!- Palirajapur!BASAI KAJI!-!Basai Kazi Sasni!Hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Gokul Chandra",
+      "name": "Rakesh Kumar",
+      "num": "9756886846"
+    },
+    {
+      "aadhar": "225704787442",
+      "address": "w/o  vinod kumar!!- Palirajapur!BASAI KAJI!- - basai kaji basai kazi!palirajapur Sasni!hathras!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "vinod kumar",
+      "name": "Seema Devi",
+      "num": "8006029750"
+    },
+    {
+      "aadhar": "564698165407",
+      "address": "S/O Rajendra Singh!Basai Kazi!Palirajapur!!Hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "RAJENDR SINGH",
+      "name": "RAKESH KUMAR",
+      "num": "7827460426"
+    }
+  ]
+}
