@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:45:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920421282",
+  "records": [
+    {
+      "aadhar": "435958180770",
+      "address": "S/O  Rajendra Prasad!!MTR AND S 13 BRD  AIR FORCE STATION!PALAM NEW PINTO PARK!MORADABAD PAHARI SOUTH WEST DELHI!Delhi!110010",
+      "alt": "919891245188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Mukesh Kumar",
+      "num": "8920421282"
+    },
+    {
+      "aadhar": "435958180770",
+      "address": "S/O  Rajendra Prasad!!MTR AND S 13 BRD AIR FORCE STATION!PALAM NEW PINTO PARK!MORADABAD PAHARI SOUTH WEST DELHI!Delhi!110010",
+      "alt": "919891245188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Mukesh Kumar",
+      "num": "8920421282"
+    },
+    {
+      "aadhar": "435958180770",
+      "address": "S/O  Rajendra Prasad!!MTR AND S 13 BRD AIR FORCE STATION!PALAM NEW PINTO PARK!MORADABAD PAHARI SOUTH WEST DELHI!Delhi!110010",
+      "alt": "919891245188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Mukesh Kumar",
+      "num": "8920421282"
+    },
+    {
+      "aadhar": "898808303759",
+      "address": "D/O mukesh kumar!MTR AND S!13 BRD AIR FORCE STATION Delhi Cantt!!PALAM!Moradabad Pahari Delhi Cantonment!South West Delhi!Delhi!110010",
+      "alt": "8920421282",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh kumar",
+      "name": "Tripti",
+      "num": "9968618514"
+    },
+    {
+      "aadhar": "898808303759",
+      "address": "D/O mukesh kumar!MTR AND S!13 BRD AIR FORCE STATIONDelhi Cantt!!PALAM!Moradabad PahariDelhi Cantonment!South West Delhi!Delhi!110010",
+      "alt": "8920421282",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh kumar",
+      "name": "Tripti",
+      "num": "9968618514"
+    },
+    {
+      "aadhar": "898808303759",
+      "address": "D/O mukesh kumar!MTR AND S!13 BRD AIR FORCE STATIONDelhi Cantt!!PALAM!Moradabad PahariDelhi Cantonment!South West Delhi!Delhi!110010",
+      "alt": "8920421282",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mukesh kumar",
+      "name": "Tripti",
+      "num": "9968618514"
+    }
+  ]
+}
