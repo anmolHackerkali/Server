@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:50:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7224036060",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " SHARMA ASHRAM  HOUSE NO-194 LABOUR COLONY KHURSIPAR SECTOR-11 Khursipar Bhilai S O Durg Chhattisgarh 490011  ",
+      "alt": null,
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Saiyad  Ahmed ",
+      "name": " Ali  Ahmed ",
+      "num": "7224036060"
+    }
+  ]
+}
