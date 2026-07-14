@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:44:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9891351227",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "RAILWAY ROAD NEAR RUPBA SMORE WARD NO 8 HOUSE NO 721 ESCORT COLONY DAULAT RAM COLONY DADRI ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8750018929",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SURESH KUMAR SHARMA",
+      "name": "KESHAV -",
+      "num": "9891351227"
+    },
+    {
+      "aadhar": null,
+      "address": "RAILWAY ROAD NEAR RUPBA SMORE WARD NO 8 HOUSE NO 721 ESCORT COLONY DAULAT RAM COLONY DADRI ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8750018929",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SURESH KUMAR SHARMA",
+      "name": "KESHAV ",
+      "num": "9891351227"
+    },
+    {
+      "aadhar": null,
+      "address": "RAILWAY ROAD NEAR RUPBA SMORE WARD NO 8 HOUSE NO 721 ESCORT COLONY DAULAT RAM COLONY DADRI ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8750018929",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SURESH KUMAR SHARMA",
+      "name": "KESHAV ",
+      "num": "9891351227"
+    },
+    {
+      "aadhar": "896112800494",
+      "address": "!U149 Shakarpur!Shakarpur Delhi Delhi EAST DELHI!!!AAMARPALI!EAST DELHI!Delhi!110092",
+      "alt": "9891351227",
+      "circle": "VI DELHI",
+      "email": "skeshav574@gmail.com",
+      "fname": "RAJENDRA KUMAR SHARMA",
+      "name": "BHUPENDRA KUMAR SHARMA",
+      "num": "8750018929"
+    },
+    {
+      "aadhar": "896112800494",
+      "address": "!U149 Shakarpur!ShakarpurDelhi DelhiEAST DELHI!!!AAMARPALI!EAST DELHI!Delhi!110092",
+      "alt": "9891351227",
+      "circle": "VI DELHI",
+      "email": "skeshav574@gmail.com",
+      "fname": "RAJENDRA KUMAR SHARMA",
+      "name": "BHUPENDRA KUMAR SHARMA",
+      "num": "8750018929"
+    },
+    {
+      "aadhar": "896112800494",
+      "address": "!U149 Shakarpur!ShakarpurDelhi DelhiEAST DELHI!!!AAMARPALI!EAST DELHI!Delhi!110092",
+      "alt": "9891351227",
+      "circle": "VI DELHI",
+      "email": "skeshav574@gmail.com",
+      "fname": "RAJENDRA KUMAR SHARMA",
+      "name": "BHUPENDRA KUMAR SHARMA",
+      "num": "8750018929"
+    }
+  ]
+}
