@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:01:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8551904026",
+  "records": [
+    {
+      "aadhar": "788597217648",
+      "address": "Sunil Kumar!4769 IST FLOOR!NR COLUMBIA ASIA HOSPITAL!SEC-23A!GURGAON NCR!HARYANA!122001",
+      "alt": "0",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "S/O Sunil Kumar",
+      "name": "Rishabha Srivastava",
+      "num": "8551904026"
+    },
+    {
+      "aadhar": null,
+      "address": "!F4769!f block!gurgaonpalam vihar!GurgaonGurugram!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Rishabha Srivastava",
+      "num": "8551904026"
+    },
+    {
+      "aadhar": null,
+      "address": "!F4769!f block!gurgaonpalam vihar!GurgaonGurugram!Haryana!122001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Rishabha Srivastava",
+      "num": "8551904026"
+    },
+    {
+      "aadhar": "372155323206",
+      "address": "H No-4769 Sec-23a Gurgaon Gurgaon Haryana 122001! ! !!!",
+      "alt": "8551904026",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Kumar Gupta",
+      "name": "Ragvendra Gupta",
+      "num": "8447592827"
+    },
+    {
+      "aadhar": "372155323206",
+      "address": "!H No-4769 Sec-23a Gurgaon Gurgaon Haryana 122001!!!!!!!",
+      "alt": "8551904026",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Kumar Gupta",
+      "name": "Ragvendra Gupta",
+      "num": "8447592827"
+    },
+    {
+      "aadhar": "372155323206",
+      "address": "H No 4769 Sec 23a Gurgaon Gurgaon Haryana 122001       ",
+      "alt": "8551904026",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Kumar Gupta",
+      "name": "Ragvendra Gupta",
+      "num": "8447592827"
+    },
+    {
+      "aadhar": "372155323206",
+      "address": "H No 4769 Sec 23a Gurgaon Gurgaon Haryana 122001       ",
+      "alt": "8551904026",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh Kumar Gupta",
+      "name": "Ragvendra Gupta",
+      "num": "8447592827"
+    }
+  ]
+}
