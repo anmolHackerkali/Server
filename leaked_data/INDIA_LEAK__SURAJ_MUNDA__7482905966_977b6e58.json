@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:32:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7482905966",
+  "records": [
+    {
+      "aadhar": "212774289455",
+      "address": " 02!BARGAH TOLA!nakipur katihar b simaria!Baidnath tola!Katihar!Katihar!Bihar!854106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Dashu Munda ",
+      "name": " SURAJ MUNDA ",
+      "num": "7482905966"
+    },
+    {
+      "aadhar": "212774289455",
+      "address": " 02!BARGAH TOLA!nakipur katihar b simaria!Baidnath tola!Katihar!Katihar!Bihar!854106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Dashu Munda ",
+      "name": " SURAJ MUNDA ",
+      "num": "7482905966"
+    }
+  ]
+}
