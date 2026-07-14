@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:43:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9572335172",
+  "records": [
+    {
+      "aadhar": "548402095355",
+      "address": "0!Vill Bara Dighee Po Bara Dighee!Ps Ranga Barharwa Barharwa!Sahibganj!Jharkhand!816101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Kanahi Lal Prasad",
+      "name": "Baski Prasad Sah",
+      "num": "9572335172"
+    },
+    {
+      "aadhar": "548402095355",
+      "address": "0!Vill Bara Dighee Po Bara Dighee!Ps Ranga Barharwa Barharwa!Sahibganj!Jharkhand!816101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Kanahi Lal Prasad",
+      "name": "Baski Prasad Sah",
+      "num": "9572335172"
+    }
+  ]
+}
