@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:36:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911502915",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Chander Shekhar!House no -5392!gali no -69!raigar pura Central Delhi!!CENTRAL DELHI!Central Delhi!Delhi!110005",
+      "alt": "8595880038",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "D/O Chander Shekhar",
+      "name": "KANCHAN  ",
+      "num": "9911502915"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Chander Shekhar!House no-5392!gali no-69!raigar puraCentral Delhi!!CENTRAL DELHI!Central Delhi!Delhi!110005",
+      "alt": "8595880038",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "D/O Chander Shekhar",
+      "name": "KANCHAN ",
+      "num": "9911502915"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Chander Shekhar!House no-5392!gali no-69!raigar puraCentral Delhi!!CENTRAL DELHI!Central Delhi!Delhi!110005",
+      "alt": "8595880038",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "D/O Chander Shekhar",
+      "name": "KANCHAN ",
+      "num": "9911502915"
+    }
+  ]
+}
