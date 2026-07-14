@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:57:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905781438",
+  "records": [
+    {
+      "aadhar": "337047161770",
+      "address": "S/O Kameshwar Tiwari!!4H NEW BASTI DUBEY TALAB!!NAINI Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kameshwar Tiwari",
+      "name": "Chandra Bhushan Tiwari",
+      "num": "7905781438"
+    },
+    {
+      "aadhar": "337047161770",
+      "address": "S/O Kameshwar Tiwari!!4H NEW BASTI DUBEY TALAB!!NAINI Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kameshwar Tiwari",
+      "name": "Chandra Bhushan Tiwari",
+      "num": "7905781438"
+    }
+  ]
+}
