@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:04:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599352850",
+  "records": [
+    {
+      "aadhar": "332068780463",
+      "address": "!Block-A-1/193!! New Kondli Mayur Vihar Phase-3 Vasundhra Enclave !Vasundhra Enclave Preet ViharEast Delhi!DELHI!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "9599352850"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "!Block-A-1/193 New Kondli Mayur Vihar Phase-3 Vasundhra Enclave Vasundhra Enclave Preet Vihar East AIRTEL DELHI AIRTEL DELHI 110096!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "9599352850"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "!Block-A-1/193!!New Kondli Mayur Vihar Phase-3Vasundhra Enclave!Vasundhra Enclave Preet ViharEast Delhi!DELHI!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "9599352850"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "!Block-A-1/193!!New Kondli Mayur Vihar Phase-3Vasundhra Enclave!Vasundhra Enclave Preet ViharEast Delhi!DELHI!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "9599352850"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "S/O  Ayodhya Rai!!block-a-1/193Vasundhra Enclave!NA!new kondli mayur vihar phase-3!Vasundhra EnclavePreet ViharEast Delhi!NA!Delhi!110096",
+      "alt": "9599352850",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "7827485725"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "S/O  Ayodhya Rai!!block-a-1/193Vasundhra Enclave!NA!new kondli mayur vihar phase-3!Vasundhra EnclavePreet ViharEast Delhi!NA!Delhi!110096",
+      "alt": "9599352850",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "7827485725"
+    },
+    {
+      "aadhar": "292658780435",
+      "address": " W/O  Mahesh Ray Tara Singhara Tara singhara  singhara tara  ABBU CHAK-VAISHALI Vaishali 844126 BIHAR ",
+      "alt": "9599352850",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MAHESH  RAY ",
+      "name": " PRAMILA  DEVI ",
+      "num": "9135783174"
+    },
+    {
+      "aadhar": "332068780463",
+      "address": "S/O  Ayodhya Rai!!block-a-1/193Vasundhra Enclave!NA!new kondli mayur vihar phase-3!Vasundhra EnclavePreet ViharEast Delhi!NA!Delhi!110096",
+      "alt": "9599352850",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ayodhya Rai",
+      "name": "Mahesh Kumar Rai",
+      "num": "7827485725"
+    },
+    {
+      "aadhar": "292658780435",
+      "address": " W/O  Mahesh Ray Tara Singhara Tara singhara  singhara tara  ABBU CHAK-VAISHALI Vaishali 844126 BIHAR ",
+      "alt": "9599352850",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MAHESH  RAY ",
+      "name": " PRAMILA  DEVI ",
+      "num": "9135783174"
+    }
+  ]
+}
