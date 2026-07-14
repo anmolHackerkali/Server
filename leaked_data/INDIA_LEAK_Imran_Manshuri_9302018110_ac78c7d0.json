@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:08:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9302018110",
+  "records": [
+    {
+      "aadhar": "504648190762",
+      "address": "S/O Vajir Khan Manshuri! tah kalapipal!aara mashin ke pass Khokra Kalan!sifai mohlla!Ward 12!Khokara Kalan!Shajapur!Madhya Pradesh!465339",
+      "alt": "9977919894",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Vajir Khan Manshuri",
+      "name": "Imran Manshuri",
+      "num": "9302018110"
+    },
+    {
+      "aadhar": null,
+      "address": " Post Khokra Kalan Teh Kalapipal  Ward 12 Pathan Mohlla Khokara Kalan Shajapur  Madhya Pradesh 465339",
+      "alt": "9302018110",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bajir Khan",
+      "name": "Vasim Khan",
+      "num": "9893769568 "
+    },
+    {
+      "aadhar": null,
+      "address": " Post Khokra Kalan Teh Kalapipal Khokra Kalan PO  Pathan Mohlla Khokara Kalan Shajapur  Madhya Pradesh 465339",
+      "alt": "9302018110",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bajir Khan",
+      "name": "Vasim Khan",
+      "num": "9174214208 "
+    },
+    {
+      "aadhar": null,
+      "address": " Post Khokra Kalan Teh Kalapipal  Ward 12 Pathan Mohlla Khokara Kalan Shajapur  Madhya Pradesh 465339",
+      "alt": "9302018110",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Bajir Khan",
+      "name": "Vasim Khan",
+      "num": "8982770747 "
+    },
+    {
+      "aadhar": "629836004394",
+      "address": "S/O Bajir Khan!62!Shajapur Post Khokra Kalan!Post Khokra Kalan!Khokra Kalan SHAJAPUR!SHAJAPUR!SHAJAPUR!Madhya Pradesh!465339",
+      "alt": "9302018110",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Bajir Khan",
+      "name": "MR VASIM KHAN",
+      "num": "7049353110"
+    }
+  ]
+}
