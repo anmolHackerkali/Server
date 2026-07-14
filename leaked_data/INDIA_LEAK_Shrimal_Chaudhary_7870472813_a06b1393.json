@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:03:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7870472813",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX6424",
+      "address": "1!Mahamadpur deopar!mahamadpur deopar!Mahamadpur Deopar!BIHAR!848125",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Ram Chandra Chaudhary",
+      "name": "Shrimal Chaudhary",
+      "num": "7870472813"
+    },
+    {
+      "aadhar": "XXXXXXXX6424",
+      "address": " 1  Mahamadpur deopar mahamadpur deopar Mahamadpur Deopar  Samastipur BIHAR 848125 ",
+      "alt": "9934021764",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Ram Chandra Chaudhary ",
+      "name": " Shrimal   Chaudhary ",
+      "num": "7870472813"
+    },
+    {
+      "aadhar": "XXXXXXXX6424",
+      "address": " 1  Mahamadpur deopar mahamadpur deopar Mahamadpur Deopar  Samastipur BIHAR 848125 ",
+      "alt": "9934021764",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Ram Chandra Chaudhary ",
+      "name": " Shrimal   Chaudhary ",
+      "num": "7870472813"
+    },
+    {
+      "aadhar": "282560366424",
+      "address": "S/O  Ram Chandra Chaudhary!!mahamadpur deopar ward no01 Pusa!NA!mahamadpur deopar!Mahamadpur Deopar Pusa Samastipur!NA!Bihar!848125",
+      "alt": "7870472813",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Chandra Chaudhary",
+      "name": "Shrimal Chaudhary",
+      "num": "7667053502"
+    },
+    {
+      "aadhar": "282560366424",
+      "address": "S/O  Ram Chandra Chaudhary!!mahamadpur deopar ward no01 Pusa!NA!mahamadpur deopar!Mahamadpur Deopar Pusa Samastipur!NA!Bihar!848125",
+      "alt": "7870472813",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Chandra Chaudhary",
+      "name": "Shrimal Chaudhary",
+      "num": "7667053502"
+    },
+    {
+      "aadhar": "282560366424",
+      "address": "S/O  Ram Chandra Chaudhary!!mahamadpur deopar ward no01 Pusa!NA!mahamadpur deopar!Mahamadpur Deopar Pusa Samastipur!NA!Bihar!848125",
+      "alt": "7870472813",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Chandra Chaudhary",
+      "name": "Shrimal Chaudhary",
+      "num": "7667053502"
+    }
+  ]
+}
