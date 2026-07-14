@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:49:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6392939717",
+  "records": [
+    {
+      "aadhar": "441180112814",
+      "address": "S/O Babu Lai Vishwakarma! 0!koirajpur!shiv mandir!Harahua!Koirajpur!Varanasi!Uttar Pradesh!221105",
+      "alt": "8869904836",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu LaL Vishwakarma",
+      "name": "Gorakh Vishwakarma",
+      "num": "6392939717"
+    },
+    {
+      "aadhar": "441180112814",
+      "address": "S/O Babu Lai Vishwakarma! 0!koirajpur!shiv mandir!Harahua!Koirajpur!Varanasi!Uttar Pradesh!221105",
+      "alt": "8869904836",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu LaL Vishwakarma",
+      "name": "Gorakh Vishwakarma",
+      "num": "6392939717"
+    }
+  ]
+}
