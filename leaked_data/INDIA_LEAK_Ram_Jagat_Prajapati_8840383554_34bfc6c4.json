@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:38:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8840383554",
+  "records": [
+    {
+      "aadhar": "876153052229",
+      "address": "S/O Ram Naresh!35!Gram mohammadpur sabukpur post husenapur girent!Gram mohammadpur sabukpur post husenapur girent!Tanda Ambedkar Nagar Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Naresh",
+      "name": "Ram Jagat Prajapati",
+      "num": "8840383554"
+    },
+    {
+      "aadhar": "876153052229",
+      "address": "S/O Ram Naresh!35!Gram mohammadpur sabukpur post husenapur girent!Gram mohammadpur sabukpur post husenapur girent!Tanda Ambedkar Nagar Tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Naresh",
+      "name": "Ram Jagat Prajapati",
+      "num": "8840383554"
+    }
+  ]
+}
