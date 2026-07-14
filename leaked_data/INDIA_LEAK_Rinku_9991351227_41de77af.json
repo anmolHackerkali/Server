@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:45:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9991351227",
+  "records": [
+    {
+      "aadhar": "336196066506",
+      "address": "Karishan HOUSE no 509 majad pana Garhi Sisana ED GARHI SISANA Garhi Sisana 27-r-Kharkhoda-Sonipat Haryana 131408",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Karishan",
+      "name": "Rinku",
+      "num": "9991351227"
+    },
+    {
+      "aadhar": "336196066506",
+      "address": "Karishan HOUSE no 509 majad pana Garhi Sisana ED GARHI SISANA Garhi Sisana 27-r-Kharkhoda-Sonipat Haryana 131408",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Karishan",
+      "name": "Rinku",
+      "num": "9991351227"
+    },
+    {
+      "aadhar": "336196066506",
+      "address": "Karishan HOUSE no 509 majad pana Garhi Sisana ED GARHI SISANA Garhi Sisana 27-r-Kharkhoda-Sonipat Haryana 131408",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Karishan",
+      "name": "Rinku",
+      "num": "9991351227"
+    },
+    {
+      "aadhar": "YTJ0866111",
+      "address": "!house no 1404near govt school!vill-sisana!!teh-kharkhoda!Sonepat!Sonipat!Haryana!131408",
+      "alt": "9991351227",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "nafe singh",
+      "name": "balraj",
+      "num": "9350865526"
+    }
+  ]
+}
