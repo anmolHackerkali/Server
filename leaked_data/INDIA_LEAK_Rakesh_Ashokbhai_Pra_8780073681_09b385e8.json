@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:17:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8780073681",
+  "records": [
+    {
+      "aadhar": "986442982665",
+      "address": "S/O Ashokbhai Narottamdas Prajapati  132/2 kuivari fali Jetalpur B/h bapa no chorao JETALPUR AHMADABAD Gujarat 382427",
+      "alt": "919638622323",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ashokbhai Narottamdas Prajapati",
+      "name": "Rakesh Ashokbhai Prajapati",
+      "num": "8780073681"
+    },
+    {
+      "aadhar": "986442982665",
+      "address": "S/O Ashokbhai Narottamdas Prajapati!!132/2 kuivari fali!Jetalpur B/h bapa no chorao!JETALPUR AHMADABAD!Gujarat!382427",
+      "alt": "919638622323",
+      "circle": "JIO GUJARAT",
+      "email": "ruppkhanvilkar@yahoo.in",
+      "fname": "Ashokbhai Narottamdas Prajapati",
+      "name": "Rakesh Ashokbhai Prajapati",
+      "num": "8780073681"
+    },
+    {
+      "aadhar": "986442982665",
+      "address": "S/O Ashokbhai Narottamdas Prajapati!!132/2 kuivari fali!Jetalpur B/h bapa no chorao!JETALPUR AHMADABAD!Gujarat!382427",
+      "alt": "919638622323",
+      "circle": "JIO GUJARAT",
+      "email": "ruppkhanvilkar@yahoo.in",
+      "fname": "Ashokbhai Narottamdas Prajapati",
+      "name": "Rakesh Ashokbhai Prajapati",
+      "num": "8780073681"
+    }
+  ]
+}
