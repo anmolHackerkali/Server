@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:19:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8445375019",
+  "records": [
+    {
+      "aadhar": "317736212548",
+      "address": " !!Bilawan!Bilawan!Auraiya!Uttar Pradesh!206121 ",
+      "alt": "7535952707",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Sukhpal   ",
+      "name": " Sughar  Singh ",
+      "num": "8445375019"
+    },
+    {
+      "aadhar": "317736212548",
+      "address": " !!Bilawan!Bilawan!Auraiya!Uttar Pradesh!206121 ",
+      "alt": "7535952707",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Sukhpal   ",
+      "name": " Sughar  Singh ",
+      "num": "8445375019"
+    }
+  ]
+}
