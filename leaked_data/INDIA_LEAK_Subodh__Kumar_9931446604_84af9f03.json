@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:45:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931446604",
+  "records": [
+    {
+      "aadhar": "782031293888",
+      "address": "S/O Ram Sakal Singh!Rikhauli!!!!Sitamarhi!Bihar!843302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sakal  Singh",
+      "name": "Subodh  Kumar",
+      "num": "9931446604"
+    },
+    {
+      "aadhar": "782031293888",
+      "address": "S/O Ram Sakal Singh!Rikhauli!!!!Sitamarhi!Bihar!843302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sakal  Singh",
+      "name": "Subodh  Kumar",
+      "num": "9931446604"
+    },
+    {
+      "aadhar": "328696713383",
+      "address": "!85!t begur!!t begur!Bangalore Rural!BENGALURU RURAL!Karnataka!562123",
+      "alt": "9931446604",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "ram avtar mandal",
+      "name": "Sumit Kumar",
+      "num": "7022618216"
+    }
+  ]
+}
