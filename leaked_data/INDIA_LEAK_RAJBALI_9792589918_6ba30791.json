@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:16:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792589918",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "H NO 108!VILL PO MAJHAUVA KHAJURI TEH BHANPUR PS WALTERGANJ!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAJIVE",
+      "name": "RAJBALI",
+      "num": "9792589918"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 108!VILL PO MAJHAUVA KHAJURI TEH BHANPUR PS WALTERGANJ!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "RAJIVE",
+      "name": "RAJBALI",
+      "num": "9792589918"
+    },
+    {
+      "aadhar": "NA",
+      "address": "H NO 108!VILL PO MAJHAUVA KHAJURI TEH BHANPUR PS WALTERGANJ!NA!BASTI!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "RAJIVE",
+      "name": "RAJBALI",
+      "num": "9792589918"
+    },
+    {
+      "aadhar": "282015375617",
+      "address": "!VILL-MAJHAUWA KHAJURI!VILL-MAJHAUWA KHAJURIPOST-MAJHAUWA KHAJ!POST-MAJHAUWA KHAJURI!PURANI BASTI PURANI BASTIBASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR. ARJUN .",
+      "num": "9919248923"
+    },
+    {
+      "aadhar": "282015375617",
+      "address": "!VILL-MAJHAUWA KHAJURI!VILL-MAJHAUWA KHAJURI POST-MAJHAUWA KHAJ!POST-MAJHAUWA KHAJURI!PURANI BASTI PURANI BASTI BASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR ARJUN ",
+      "num": "9919248923"
+    },
+    {
+      "aadhar": "353818847395",
+      "address": "S/O RAM TIHUL!VILL MAJHAUWA KHAJURI  POST PURAINA  PUR!VILL MAJHAUWA KHAJURI  POST PURAINA  PUR!PURANI BASTI!MAJHAUWA KHAJURI BASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR RAM KUMAR",
+      "num": "9919083715"
+    },
+    {
+      "aadhar": "353818847395",
+      "address": "S/O RAM TIHUL!VILL MAJHAUWA KHAJURI POST PURAINA PUR!VILL MAJHAUWA KHAJURI POST PURAINA PUR!PURANI BASTI!MAJHAUWA KHAJURIBASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR. RAM KUMAR",
+      "num": "9919083715"
+    },
+    {
+      "aadhar": "282015375617",
+      "address": "!VILL-MAJHAUWA KHAJURI!VILL-MAJHAUWA KHAJURIPOST-MAJHAUWA KHAJ!POST-MAJHAUWA KHAJURI!PURANI BASTI PURANI BASTIBASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR. ARJUN .",
+      "num": "9919248923"
+    },
+    {
+      "aadhar": "282015375617",
+      "address": "!VILL-MAJHAUWA KHAJURI!VILL-MAJHAUWA KHAJURI POST-MAJHAUWA KHAJ!POST-MAJHAUWA KHAJURI!PURANI BASTI PURANI BASTI BASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR ARJUN ",
+      "num": "9919248923"
+    },
+    {
+      "aadhar": "353818847395",
+      "address": "S/O RAM TIHUL!VILL MAJHAUWA KHAJURI  POST PURAINA  PUR!VILL MAJHAUWA KHAJURI  POST PURAINA  PUR!PURANI BASTI!MAJHAUWA KHAJURI BASTI!BASTI!UTTAR PRADESH!272002",
+      "alt": "9792589918",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Tihul",
+      "name": "MR RAM KUMAR",
+      "num": "9919083715"
+    }
+  ]
+}
