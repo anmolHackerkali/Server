@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:17:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9661361425",
+  "records": [
+    {
+      "aadhar": "256374512537",
+      "address": " ward 7 saifganj!goswami tola saifganj!Shaifganj Parwana Forbesganj!saifganj p o parwaha forbesanj p o parwaha!Araria!Araria!Bihar!854318 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bikash Goswami ",
+      "name": " Rupa Devi ",
+      "num": "9661361425"
+    },
+    {
+      "aadhar": "256374512537",
+      "address": " ward 7 saifganj!goswami tola saifganj!Shaifganj Parwana Forbesganj!saifganj p o parwaha forbesanj p o parwaha!Araria!Araria!Bihar!854318 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bikash Goswami ",
+      "name": " Rupa Devi ",
+      "num": "9661361425"
+    }
+  ]
+}
