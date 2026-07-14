@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:12:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8284064465",
+  "records": [
+    {
+      "aadhar": "354436719548",
+      "address": "NA!3893!NEW ASHOK NAGAR!!JALANDHARNAJALANDHAR!!JALANDHAR!PUNJAB!144002",
+      "alt": "7340717022",
+      "circle": "PUNAJB",
+      "email": null,
+      "fname": "SUNIL KUMAR",
+      "name": "VISHAL",
+      "num": "8284064465"
+    }
+  ]
+}
