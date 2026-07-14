@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:18:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6351006331",
+  "records": [
+    {
+      "aadhar": "646088131275",
+      "address": "W/O  Joshi Pragnesh! D-330 Hindi Society!Bharatnagar Gopalpuri!Hindi Society!Ward-11/A Bharatnagar Gandhidham!Gopalpuri Gandhidham!Kachchh!Gujarat!370240",
+      "alt": "8469691139",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Joshi Pragnesh",
+      "name": "Joshi Vijya Pragnesh",
+      "num": "6351006331"
+    },
+    {
+      "aadhar": "646088131275",
+      "address": "W/O  Joshi Pragnesh! D-330 Hindi Society!Bharatnagar Gopalpuri!Hindi Society!Ward-11/A Bharatnagar Gandhidham!Gopalpuri Gandhidham!Kachchh!Gujarat!370240",
+      "alt": "8469691139",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Joshi Pragnesh",
+      "name": "Joshi Vijya Pragnesh",
+      "num": "6351006331"
+    },
+    {
+      "aadhar": "646088131275",
+      "address": "W/O  Joshi Pragnesh! D-330 Hindi Society!Bharatnagar Gopalpuri!Hindi Society!Ward-11/A Bharatnagar Gandhidham!Gopalpuri Gandhidham!Kachchh!Gujarat!370240",
+      "alt": "8469691139",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Joshi Pragnesh",
+      "name": "Joshi Vijya Pragnesh",
+      "num": "6351006331"
+    }
+  ]
+}
