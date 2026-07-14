@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:52:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9354695460",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Sita Ram Sharma!!!C-2/20 Vinod Puri!vijay enclave South West Delhi!Delhi!110045",
+      "alt": "919990591070",
+      "circle": "JIO DELHI",
+      "email": "shabhi004@gmail.com",
+      "fname": "Sita Ram Sharma",
+      "name": "Mahesh Kumar Sharma",
+      "num": "9354695460"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sita Ram Sharma!!!C-2/20 Vinod Puri!vijay enclaveSouth West Delhi!Delhi!110045",
+      "alt": "919990591070",
+      "circle": "JIO DELHI",
+      "email": "shabhi004@gmail.com",
+      "fname": "Sita Ram Sharma",
+      "name": "Mahesh Kumar Sharma",
+      "num": "9354695460"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sita Ram Sharma!!!C-2/20 Vinod Puri!vijay enclaveSouth West Delhi!Delhi!110045",
+      "alt": "919990591070",
+      "circle": "JIO DELHI",
+      "email": "shabhi004@gmail.com",
+      "fname": "Sita Ram Sharma",
+      "name": "Mahesh Kumar Sharma",
+      "num": "9354695460"
+    }
+  ]
+}
