@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:37:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "1234567899",
+  "records": [
+    {
+      "aadhar": "289976379230",
+      "address": "!H No 4/62!Shivaji Nagar!Near State Bank of India!Gurgaon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Partap Singh Sood",
+      "name": "Rakesh  Sood",
+      "num": "9971250003"
+    },
+    {
+      "aadhar": "486974621014",
+      "address": "!d 94!vijay ratan vihar!near jharsa roadsec 15 part 2!Gurgaon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vasudev  Chaudhari",
+      "name": "Sachin Vasudev Chaudhari",
+      "num": "9958298609"
+    },
+    {
+      "aadhar": "468260771782",
+      "address": "D/O Hitesh Kumar Palta K C!E-124!Road No-10!Opp Noida StadiumSector-21 Jalvayu Vihar Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Hitesh  ",
+      "name": "Pooja  Palita",
+      "num": "9910235723"
+    },
+    {
+      "aadhar": "304498712393",
+      "address": "W/O Ashok Sharma!682!!SECTOR-15 part-2 Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ashok  Sharma",
+      "name": "Rohini  Sharma",
+      "num": "9910077791"
+    },
+    {
+      "aadhar": "664190986366",
+      "address": "S/O Om Prakash Sharma!101  SEC-6  DDA  PKT-1 DWARKA!!!South West Delhi!Delhi!110075",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Om Prakash Sharma",
+      "name": "Umesh  Sharma",
+      "num": "9871263693"
+    },
+    {
+      "aadhar": "353041020767",
+      "address": "!H No 91/8!Marla Model Town!Nr Sethi Hospital!Gurgaon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raj Kumar Gulati",
+      "name": "Rahul  Gulaati",
+      "num": "9818958002"
+    },
+    {
+      "aadhar": "633975637018",
+      "address": "D/O Mela Singh!1204 - C   AMRAPALI SAPPHIRE!!SECTOR - 45   NOIDA Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mela  Singh",
+      "name": "Paramjit  Kaur",
+      "num": "9810972303"
+    },
+    {
+      "aadhar": "818074001784",
+      "address": "!806 g 21!sec 83!near matri kiransec 83!Gurgaon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ompal  Singh",
+      "name": "Raghvinder  Singh",
+      "num": "9810935600"
+    },
+    {
+      "aadhar": "343081573083",
+      "address": "S/O Har Kumar Nagpal!2020!!Noida Sector 37!Gautam Buddha Nagar!Uttar Pradesh!201303",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Har Kumar Nagpal",
+      "name": "Jitendra  Nagpal",
+      "num": "9810529798"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Om Parkash Atri!House No-273/7!STREET no-7!NEAR RAJIV CHOWKHANS ENCLAVE Gurgaon!Gurgaon Farrukhnagar!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Om",
+      "name": "Satish",
+      "num": "9810258858"
+    },
+    {
+      "aadhar": "243357220191",
+      "address": "S/O Kripa Shankar Sharma!Flat No - 701  Tower - T4!Sunworld Vanalika Society!GH- 1BSector - 107 Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kripa Shankar Sharma",
+      "name": "Aseem Ranjan Sharma",
+      "num": "9810014819"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bharat Bhushan Raina!N-13 / 3 Ground floor!DLF Phase-2!Gurgaon Haryana DLF Phase-II!Dlf Ph-II Gurgaon!Haryana!122008",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bharat",
+      "name": "Vikram",
+      "num": "9810006251"
+    },
+    {
+      "aadhar": "310534260550",
+      "address": "S/O Bansi Lal Kumar!299!KUMHAR BASTI!VILLAGE GHAROLI Vasundhra Enclave S O!East Delhi!Delhi!110096",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Bansi Lal Kumar",
+      "name": "Pradeep  Kumar",
+      "num": "9582572902"
+    },
+    {
+      "aadhar": null,
+      "address": "!171/744!gali no 1!anaj mandishivaji nager!guragon!Haryana!122001",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jagarnath",
+      "name": "Manoj",
+      "num": "8802527593"
+    },
+    {
+      "aadhar": "422448432782",
+      "address": "S/O Pawan Kumar Bansal!C 73!C Block!Sector 30 Noida!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "1234567899",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pawan Kumar Bansal",
+      "name": "Vikram  Bansal",
+      "num": "8130064220"
+    }
+  ]
+}
