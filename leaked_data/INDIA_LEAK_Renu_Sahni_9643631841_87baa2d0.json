@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:48:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9643631841",
+  "records": [
+    {
+      "aadhar": "639317833139",
+      "address": "W/O Balraj Sahni!!M- 45!!South City 1 Gurgaon!Haryana!122001",
+      "alt": "919313007244",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Balraj Sahni",
+      "name": "Renu Sahni",
+      "num": "9643631841"
+    },
+    {
+      "aadhar": "639317833139",
+      "address": "W/O Balraj Sahni!!M- 45!!South City 1Gurgaon!Haryana!122001",
+      "alt": "919313007244",
+      "circle": "JIO DELHI",
+      "email": "muskaan.sahni01@gmail.com",
+      "fname": "Balraj Sahni",
+      "name": "Renu Sahni",
+      "num": "9643631841"
+    },
+    {
+      "aadhar": "639317833139",
+      "address": "W/O Balraj Sahni!!M- 45!!South City 1Gurgaon!Haryana!122001",
+      "alt": "919313007244",
+      "circle": "JIO DELHI",
+      "email": "muskaan.sahni01@gmail.com",
+      "fname": "Balraj Sahni",
+      "name": "Renu Sahni",
+      "num": "9643631841"
+    }
+  ]
+}
