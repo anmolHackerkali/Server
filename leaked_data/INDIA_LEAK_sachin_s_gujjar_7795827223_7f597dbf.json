@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:34:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7795827223",
+  "records": [
+    {
+      "aadhar": "255919282578",
+      "address": "!!179 manjunath nagar gokul road hubli udyamnagar!NA!hubli UDYAMNAGAR!Dharwad Dharwad!NA!Karnataka!580030",
+      "alt": "6361659523",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "sham",
+      "name": "sachin s gujjar",
+      "num": "7795827223"
+    },
+    {
+      "aadhar": "255919282578",
+      "address": "Sham!#179!Gokul Road    City/District Dharwad State Karnataka!Manjunath Nagar!DHARWAD!Karnataka!580030",
+      "alt": "7795827223",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "Sham",
+      "name": "Sachin S Gujjar",
+      "num": "9513282143"
+    },
+    {
+      "aadhar": "FLV1953140",
+      "address": "179 MANJUNATH NAGARAJ GOKUL ROAD HUBLI DHARAWAD KARNATAKA 580030",
+      "alt": "7795827223",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "MALLARAO",
+      "name": "SHAM MALLARAO GUJJAR",
+      "num": "8762486148"
+    }
+  ]
+}
