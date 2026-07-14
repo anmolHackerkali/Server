@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:30:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7275473457",
+  "records": [
+    {
+      "aadhar": "371958142556",
+      "address": "S/O  Rewati Raman Tiwari!!swaroop nagar Sitapur!NA!!Sitapur Biswan Sitapur!NA!Uttar Pradesh!261001",
+      "alt": "7275473457",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rewati Raman Tiwari",
+      "name": "Shyam Ji Tiwari",
+      "num": "8423893067"
+    },
+    {
+      "aadhar": "371958142556",
+      "address": "S/O  Rewati Raman Tiwari!!swaroop nagar Sitapur!NA!!Sitapur Biswan Sitapur!NA!Uttar Pradesh!261001",
+      "alt": "7275473457",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rewati Raman Tiwari",
+      "name": "Shyam Ji Tiwari",
+      "num": "8423893067"
+    }
+  ]
+}
