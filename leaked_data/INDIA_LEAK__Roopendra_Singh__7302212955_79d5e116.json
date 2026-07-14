@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:44:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7302212955",
+  "records": [
+    {
+      "aadhar": "954946196659",
+      "address": " S/O Vanshiram!  jaloopur muradganj  !!!Auraiya!Uttar Pradesh!206129 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Vanshiram ",
+      "name": " Roopendra Singh ",
+      "num": "7302212955"
+    },
+    {
+      "aadhar": "954946196659",
+      "address": " S/O Vanshiram!  jaloopur muradganj  !!!Auraiya!Uttar Pradesh!206129 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Vanshiram ",
+      "name": " Roopendra Singh ",
+      "num": "7302212955"
+    }
+  ]
+}
