@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:35:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7046272009",
+  "records": [
+    {
+      "aadhar": "297569116758",
+      "address": "734 Nirdoshanandnagar bhavnagar Sidsar Sidsar Bhavnagar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Chudasama Dhanjibhai",
+      "name": "Chudasama Vijaybhai Dhanjibhai",
+      "num": "7046272009"
+    },
+    {
+      "aadhar": "297569116758",
+      "address": "734 Nirdoshanandnagar bhavnagar Sidsar Sidsar Bhavnagar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Chudasama Dhanjibhai",
+      "name": "Chudasama Vijaybhai Dhanjibhai",
+      "num": "7046272009"
+    }
+  ]
+}
