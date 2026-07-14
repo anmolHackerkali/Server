@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:18:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8860869489",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "E-138 IST FLOOR!BAL UDYAN ROAD UTTAM NAGAR!NR SBI ATM!DELHI!DELHI!110059",
+      "alt": "9336571140",
+      "circle": "VI DELHI",
+      "email": "SAMEERS38@YMAIL.COM",
+      "fname": "Mohd Shahid",
+      "name": "MR  GULAM MUHEE UDDIN",
+      "num": "8860869489"
+    },
+    {
+      "aadhar": null,
+      "address": "E-138 IST FLOOR ! BAL UDYAN ROAD UTTAM NAGAR ! NR SBI ATM ! DELHI ! DELHI ! 110059",
+      "alt": "9336571140",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohd Shahid",
+      "name": "MR GULAM MUHEE UDDIN",
+      "num": "8860869489"
+    },
+    {
+      "aadhar": null,
+      "address": "E-138 IST FLOOR ! BAL UDYAN ROAD UTTAM NAGAR ! NR SBI ATM ! DELHI ! DELHI ! 110059",
+      "alt": "9336571140",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohd Shahid",
+      "name": "MR GULAM MUHEE UDDIN",
+      "num": "8860869489"
+    },
+    {
+      "aadhar": "688648029573",
+      "address": "! Publicis.Sapient  Oxygen SEZ  Plot 7  Tower C  Sec !oxygen park!tor 144 Expresswa!NoidaGautam Buddha Nagar!Uttar Pradesh!201304",
+      "alt": "8860869489",
+      "circle": "AIRTEL DELHI",
+      "email": "Prateekrpandey@Gmail.Com",
+      "fname": "Akhilesh",
+      "name": "Prateek Ranjan Pandey",
+      "num": "7838331626"
+    },
+    {
+      "aadhar": "844580322948",
+      "address": "Hashmat Ali!tower g404!goutam bhuddnagar super tec!kasana!NOIDA NCR!UTTAR PRADESH!201301",
+      "alt": "8860869489",
+      "circle": "VI DELHI",
+      "email": "ali.aemran@gmail.com",
+      "fname": "Hashmat Ali",
+      "name": "Imran Ali",
+      "num": "8587830427"
+    },
+    {
+      "aadhar": "688648029573",
+      "address": "!Publicis.Sapient Oxygen SEZ Plot 7 Tower C Sec!oxygen park!!tor 144 Expresswa!Noida!!Uttar Pradesh!201304",
+      "alt": "8860869489",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Akhilesh",
+      "name": "Prateek Ranjan Pandey",
+      "num": "7838331626"
+    },
+    {
+      "aadhar": "844580322948",
+      "address": "Hashmat Ali!tower g404!goutam bhuddnagarsuper tec!kasana!NOIDA NCR!UTTAR PRADESH!201301",
+      "alt": "8860869489",
+      "circle": "VI DELHI",
+      "email": "ali.aemran@gmail.com",
+      "fname": "Hashmat Ali",
+      "name": "ImranAli",
+      "num": "8587830427"
+    },
+    {
+      "aadhar": "688648029573",
+      "address": "!PublicisSapient Oxygen SEZ Plot 7 Tower C Sec!oxygen park!tor 144 Expresswa!NoidaGautam Buddha Nagar!Uttar Pradesh!201304",
+      "alt": "8860869489",
+      "circle": "AIRTEL DELHI",
+      "email": "Prateekrpandey@Gmail.Com",
+      "fname": "Akhilesh",
+      "name": "Prateek Ranjan Pandey",
+      "num": "7838331626"
+    },
+    {
+      "aadhar": "659609778465",
+      "address": "!100 street no 4!dhorra mafi!!koil!Aligarh!!Uttar Pradesh!202001",
+      "alt": "8860869489",
+      "circle": "AIRTEL UPW",
+      "email": "sameers38@ymail.com",
+      "fname": "Mohd Shahid",
+      "name": "Gulam Muhee uddin",
+      "num": "9997001152"
+    },
+    {
+      "aadhar": "844580322948",
+      "address": "Hashmat Ali!tower g404!goutam bhuddnagarsuper tec!kasana!NOIDA NCR!UTTAR PRADESH!201301",
+      "alt": "8860869489",
+      "circle": "VI DELHI",
+      "email": "ali.aemran@gmail.com",
+      "fname": "Hashmat Ali",
+      "name": "ImranAli",
+      "num": "8587830427"
+    },
+    {
+      "aadhar": "688648029573",
+      "address": "!PublicisSapient Oxygen SEZ Plot 7 Tower C Sec!oxygen park!tor 144 Expresswa!NoidaGautam Buddha Nagar!Uttar Pradesh!201304",
+      "alt": "8860869489",
+      "circle": "AIRTEL DELHI",
+      "email": "Prateekrpandey@Gmail.Com",
+      "fname": "Akhilesh",
+      "name": "Prateek Ranjan Pandey",
+      "num": "7838331626"
+    },
+    {
+      "aadhar": "659609778465",
+      "address": "!100 street no 4!dhorra mafi!!koil!Aligarh!!Uttar Pradesh!202001",
+      "alt": "8860869489",
+      "circle": "AIRTEL UPW",
+      "email": "sameers38@ymail.com",
+      "fname": "Mohd Shahid",
+      "name": "Gulam Muhee uddin",
+      "num": "9997001152"
+    }
+  ]
+}
