@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:19:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9879647463",
+  "records": [
+    {
+      "aadhar": "310552445440",
+      "address": " !WARD 12 Madansar Badbar Buhana Jhunjhunun Rajasthan! !Jhunjhunun!333502",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Umarav Singh",
+      "name": "Rajesh Kaloya",
+      "num": "9879647463"
+    },
+    {
+      "aadhar": "310552445440",
+      "address": "Umarav Singh! !WARD 12 Madansar Badbar Buhana Jhunjhunun Rajasthan! !Jhunjhunun!Rajasthan!333502",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Umarav Singh",
+      "name": "Rajesh Kaloya",
+      "num": "9879647463"
+    },
+    {
+      "aadhar": "310552445440",
+      "address": "Umarav Singh! !WARD 12 Madansar Badbar Buhana Jhunjhunun Rajasthan! !Jhunjhunun!Rajasthan!333502",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Umarav Singh",
+      "name": "Rajesh Kaloya",
+      "num": "9879647463"
+    }
+  ]
+}
