@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:51:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508578369",
+  "records": [
+    {
+      "aadhar": "274542509413",
+      "address": "S/O  Ram Vilas Singh! 07!CHORA tabhka!!Ward-07 Chora tabhka Chora Tabhka!Chora Tabhka!Samastipur!Bihar!848211",
+      "alt": "8809176402",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Vilas Singh",
+      "name": "Phudo Singh",
+      "num": "9508578369"
+    },
+    {
+      "aadhar": "274542509413",
+      "address": "S/O  Ram Vilas Singh! 07!CHORA tabhka!!Ward-07 Chora tabhka Chora Tabhka!Chora Tabhka!Samastipur!Bihar!848211",
+      "alt": "8809176402",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Vilas Singh",
+      "name": "Phudo Singh",
+      "num": "9508578369"
+    },
+    {
+      "aadhar": "274542509413",
+      "address": "S/O  Ram Vilas Singh! 07!CHORA tabhka!!Ward-07 Chora tabhka Chora Tabhka!Chora Tabhka!Samastipur!Bihar!848211",
+      "alt": "8809176402",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Vilas Singh",
+      "name": "Phudo Singh",
+      "num": "9508578369"
+    }
+  ]
+}
