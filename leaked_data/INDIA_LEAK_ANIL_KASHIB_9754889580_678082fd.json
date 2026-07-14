@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:42:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9754889580",
+  "records": [
+    {
+      "aadhar": "352074542539",
+      "address": "S/O Heeralal Kashib!S/O Heeralal Kashib!Teh-harda!. Post-harda Khurd!MANJHALI-HARDA!MP!461331",
+      "alt": "9893219690",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "HEERALAL KASHIB",
+      "name": "ANIL KASHIB",
+      "num": "9754889580"
+    },
+    {
+      "aadhar": "352074542539",
+      "address": "!post harda khurd!post harda khurd!post harda khurd teh harda manjhali harda!teh harda manjhali harda!Harda!HARDA!Madhya Pradesh!461331",
+      "alt": "9754889580",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "heeralal kashib",
+      "name": "Anil Kashib",
+      "num": "7803082850"
+    }
+  ]
+}
