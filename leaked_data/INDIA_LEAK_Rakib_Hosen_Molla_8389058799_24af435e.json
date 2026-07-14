@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:46:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8389058799",
+  "records": [
+    {
+      "aadhar": "785828456014",
+      "address": " C/O  Abdul Kader Molla! BANTRA!Bantra South 24 parganas!Bantra!West Bengal South 24 parganas!Bantra!South 24 Parganas!West Bengal!743337 ",
+      "alt": "9733714167",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "ABDUL KADER MOLLA",
+      "name": "Rakib Hosen Molla",
+      "num": "8389058799"
+    },
+    {
+      "aadhar": "785828456014",
+      "address": " C/O  Abdul Kader Molla! BANTRA!Bantra South 24 parganas!Bantra!West Bengal South 24 parganas!Bantra!South 24 Parganas!West Bengal!743337 ",
+      "alt": "9733714167",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "ABDUL KADER MOLLA",
+      "name": "Rakib Hosen Molla",
+      "num": "8389058799"
+    }
+  ]
+}
