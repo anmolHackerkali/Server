@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:29:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801563148",
+  "records": [
+    {
+      "aadhar": "210142835834",
+      "address": "0!Pachawari Tola Ward No 05 Bangaon!Bangaon!Saharsa!Bihar!852212",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Hari Narayan Khan",
+      "name": "Ujjwal  Kumar",
+      "num": "9801563148"
+    },
+    {
+      "aadhar": "210142835834",
+      "address": "0!Pachawari Tola Ward No 05 Bangaon!Bangaon!Saharsa!Bihar!852212",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Hari Narayan Khan",
+      "name": "Ujjwal  Kumar",
+      "num": "9801563148"
+    }
+  ]
+}
