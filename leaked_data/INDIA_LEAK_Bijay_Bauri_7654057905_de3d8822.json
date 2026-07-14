@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:33:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7654057905",
+  "records": [
+    {
+      "aadhar": "661078077112",
+      "address": "NA!VILL GOURKHUTI   BHOWRA!Pani Tanki!KanchanPUR!Dhanbad!Dhanbad!Jharkhand!828302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amardip Bauri",
+      "name": "Bijay Bauri",
+      "num": "7654057905"
+    },
+    {
+      "aadhar": "661078077112",
+      "address": "NA!VILL GOURKHUTI   BHOWRA!Pani Tanki!KanchanPUR!Dhanbad!Dhanbad!Jharkhand!828302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amardip Bauri",
+      "name": "Bijay Bauri",
+      "num": "7654057905"
+    }
+  ]
+}
