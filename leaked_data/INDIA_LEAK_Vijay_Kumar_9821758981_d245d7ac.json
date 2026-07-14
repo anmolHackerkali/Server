@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:41:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9821758981",
+  "records": [
+    {
+      "aadhar": "996638651051",
+      "address": "S/O  Shadu Ram!!house NO - 223 gali no - 6 near heera mandir Faridabad Sector 29!new baselwa colony!Faridabad Sector 29 Faridabad Faridabad!Haryana!121008",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shadu Ram",
+      "name": "Vijay Kumar",
+      "num": "9821758981"
+    },
+    {
+      "aadhar": "996638651051",
+      "address": "S/O  Shadu Ram!!house NO - 223gali no - 6near heera mandirFaridabad Sector 29!new baselwa colony!Faridabad Sector 29FaridabadFaridabad!Haryana!121008",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shadu Ram",
+      "name": "Vijay Kumar",
+      "num": "9821758981"
+    },
+    {
+      "aadhar": "996638651051",
+      "address": "S/O  Shadu Ram!!house NO - 223gali no - 6near heera mandirFaridabad Sector 29!new baselwa colony!Faridabad Sector 29FaridabadFaridabad!Haryana!121008",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shadu Ram",
+      "name": "Vijay Kumar",
+      "num": "9821758981"
+    },
+    {
+      "aadhar": "891283423586",
+      "address": "!7/1!sector 93!sabji mandi!hayatpur sector 93!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9821758981",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Neetu  ",
+      "num": "8287617189"
+    },
+    {
+      "aadhar": "891283423586",
+      "address": "!7/1!sector 93!sabji mandi!hayatpur sector 93!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9821758981",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Neetu  ",
+      "num": "8287617189"
+    },
+    {
+      "aadhar": "891283423586",
+      "address": "!7/1!sector 93!sabji mandi!hayatpur sector 93!Gurgaon!Gurgaon!Haryana!122001",
+      "alt": "9821758981",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Neetu  ",
+      "num": "8287617189"
+    }
+  ]
+}
