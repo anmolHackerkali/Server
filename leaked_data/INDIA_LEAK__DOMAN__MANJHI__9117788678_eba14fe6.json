@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:49:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9117788678",
+  "records": [
+    {
+      "aadhar": "709390214631",
+      "address": " S/O  Arjun Manjhi S/O  Arjun Manjhi jamukhairaya  vill-dhiba-po-keshopur-ps-jhajha Keshopur  Jhajha  KESHOPUR-JAMUI BR 811305 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ARJUN MANJHI  ",
+      "name": " DOMAN  MANJHI ",
+      "num": "9117788678"
+    },
+    {
+      "aadhar": "709390214631",
+      "address": " S/O  Arjun Manjhi S/O  Arjun Manjhi jamukhairaya  vill-dhiba-po-keshopur-ps-jhajha Keshopur  Jhajha  KESHOPUR-JAMUI BR 811305 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ARJUN MANJHI  ",
+      "name": " DOMAN  MANJHI ",
+      "num": "9117788678"
+    }
+  ]
+}
