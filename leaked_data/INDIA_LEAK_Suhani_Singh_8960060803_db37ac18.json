@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:58:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8960060803",
+  "records": [
+    {
+      "aadhar": "945932939088",
+      "address": "D/O Praveen Kumar Singh!43!power house road!Kunraghat!mohaddipur mohaddipur Khorabar Urf Soobabazar!Gorakhpur!Gorakhpur!Uttar Pradesh!273008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Praveen Kumar Singh",
+      "name": "Suhani Singh",
+      "num": "8960060803"
+    },
+    {
+      "aadhar": "945932939088",
+      "address": "D/O Praveen Kumar Singh!43!power house road!Kunraghat!mohaddipur mohaddipur Khorabar Urf Soobabazar!Gorakhpur!Gorakhpur!Uttar Pradesh!273008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Praveen Kumar Singh",
+      "name": "Suhani Singh",
+      "num": "8960060803"
+    }
+  ]
+}
