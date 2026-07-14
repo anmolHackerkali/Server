@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:26:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417573741",
+  "records": [
+    {
+      "aadhar": "867975673012",
+      "address": "s/o tanseer ahmed!196!mandi!muzaffarnagar!mandi baghra!baghra!muzaffarnagar!Uttar Pradesh!251306",
+      "alt": "7302608764",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "tanseer ahmed",
+      "name": "Mohd Adil",
+      "num": "7417573741"
+    },
+    {
+      "aadhar": "867975673012",
+      "address": "s/o tanseer ahmed!196!mandi!muzaffarnagar!mandi baghra!baghra!muzaffarnagar!Uttar Pradesh!251306",
+      "alt": "7302608764",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "tanseer ahmed",
+      "name": "Mohd Adil",
+      "num": "7417573741"
+    },
+    {
+      "aadhar": "815350365111",
+      "address": "w/o  hasanoodeen!148!Mandi!!!mandiMuzaffarnagar!muzaffarnagar!Uttar Pradesh!251306",
+      "alt": "7417573741",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "hasanoodeen",
+      "name": "Sahira",
+      "num": "8630732215"
+    },
+    {
+      "aadhar": "815350365111",
+      "address": "w/o  hasanoodeen! 148!Mandi!!!mandi Muzaffarnagar!muzaffarnagar!Uttar Pradesh!251306",
+      "alt": "7417573741",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "hasanoodeen",
+      "name": "Sahira",
+      "num": "8630732215"
+    },
+    {
+      "aadhar": "815350365111",
+      "address": "w/o  hasanoodeen! 148!Mandi!!!mandi Muzaffarnagar!muzaffarnagar!Uttar Pradesh!251306",
+      "alt": "7417573741",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "hasanoodeen",
+      "name": "Sahira",
+      "num": "8630732215"
+    }
+  ]
+}
