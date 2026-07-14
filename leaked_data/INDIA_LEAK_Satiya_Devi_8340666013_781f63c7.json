@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:49:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340666013",
+  "records": [
+    {
+      "aadhar": "701441538329",
+      "address": "W/O  Anil Chaudhary!!!Gram Jota Po-Sheotar!Jota Gaya!Bihar!805109",
+      "alt": "918084242846",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Anil Chaudhary",
+      "name": "Satiya Devi",
+      "num": "8340666013"
+    },
+    {
+      "aadhar": "701441538329",
+      "address": "W/O  Anil Chaudhary!!!Gram Jota Po-Sheotar!Jota Gaya!Bihar!805109",
+      "alt": "918084242846",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Anil Chaudhary",
+      "name": "Satiya Devi",
+      "num": "8340666013"
+    },
+    {
+      "aadhar": "701441538329",
+      "address": "W/O  Anil Chaudhary!!!Gram Jota Po-Sheotar!Jota Gaya!Bihar!805109",
+      "alt": "918084242846",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Anil Chaudhary",
+      "name": "Satiya Devi",
+      "num": "8340666013"
+    }
+  ]
+}
