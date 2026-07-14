@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:08:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7858827662",
+  "records": [
+    {
+      "aadhar": "233329002730",
+      "address": "w/o  sanju kumar!!Sisia!Parmanandpur!parmanandpur bisafia sisia!bisaria Korha!katihar!Bihar!854108",
+      "alt": "7479723537",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanju kumar",
+      "name": "Lakshmi Devi",
+      "num": "7858827662"
+    },
+    {
+      "aadhar": "233329002730",
+      "address": "w/o  sanju kumar!!Sisia!Parmanandpur!parmanandpur bisafia sisia!bisaria Korha!katihar!Bihar!854108",
+      "alt": "7479723537",
+      "circle": "JIO BHR&JHR",
+      "email": "SUBHASHKUMAR9123481040@GMAIL.COM",
+      "fname": "sanju kumar",
+      "name": "Lakshmi Devi",
+      "num": "7858827662"
+    },
+    {
+      "aadhar": "233329002730",
+      "address": "w/o  sanju kumar!!Sisia!Parmanandpur!parmanandpur bisafia sisia!bisaria Korha!katihar!Bihar!854108",
+      "alt": "7479723537",
+      "circle": "JIO BHR&JHR",
+      "email": "SUBHASHKUMAR9123481040@GMAIL.COM",
+      "fname": "sanju kumar",
+      "name": "Lakshmi Devi",
+      "num": "7858827662"
+    },
+    {
+      "aadhar": null,
+      "address": " 1 ujjain  1 impiriyal maxi road ujjain Ujjain  Madhya Pradesh 456010",
+      "alt": "7858827662",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "asiruddin",
+      "name": "Mukityar Alam",
+      "num": "8602366542 "
+    }
+  ]
+}
