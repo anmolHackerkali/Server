@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:41:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810057909",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "408-409 1064/B Qutub Green Apts Ward No 7 Mehrauli Near Jain Mandir Dada Bari Road New Delhi Delhi 110030! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Raghu  Rai  ",
+      "num": "9810057909"
+    },
+    {
+      "aadhar": null,
+      "address": "!408409 1064/B Qutub Green Apts Ward No 7 Mehrauli Near Jain Mandir Dada Bari Road New Delhi Delhi 110030!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Raghu  Rai.",
+      "num": "9810057909"
+    },
+    {
+      "aadhar": null,
+      "address": "408 409 1064/B Qutub Green Apts Ward No 7 Mehrauli Near Jain Mandir Dada Bari Road New Delhi Delhi 110030       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Raghu  Rai  ",
+      "num": "9810057909"
+    },
+    {
+      "aadhar": null,
+      "address": "408 409 1064/B Qutub Green Apts Ward No 7 Mehrauli Near Jain Mandir Dada Bari Road New Delhi Delhi 110030       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Raghu  Rai  ",
+      "num": "9810057909"
+    },
+    {
+      "aadhar": "608956359362",
+      "address": "D/O Gurpreet Singh Sangha!3 B!GREEN VIEW APARTMENT!JAIN MANDIR DADABARI ROAD  MEHRAULI Gadai Pur!South Delhi!Delhi!110030",
+      "alt": "9810057909",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gurpreet Singh Sangha",
+      "name": "Gurmeet Sangha Rai",
+      "num": "9810205484"
+    },
+    {
+      "aadhar": "608956359362",
+      "address": "D/O Gurpreet Singh Sangha!3 B!GREEN VIEW APARTMENT!JAIN MANDIR DADABARI ROAD MEHRAULIGadai Pur!South Delhi!Delhi!110030",
+      "alt": "9810057909",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gurpreet Singh Sangha",
+      "name": "Gurmeet Sangha Rai",
+      "num": "9810205484"
+    },
+    {
+      "aadhar": "608956359362",
+      "address": "D/O Gurpreet Singh Sangha!3 B!GREEN VIEW APARTMENT!JAIN MANDIR DADABARI ROAD MEHRAULIGadai Pur!South Delhi!Delhi!110030",
+      "alt": "9810057909",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Gurpreet Singh Sangha",
+      "name": "Gurmeet Sangha Rai",
+      "num": "9810205484"
+    }
+  ]
+}
