@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:19:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8100536587",
+  "records": [
+    {
+      "aadhar": "743303673631",
+      "address": "D/O Gopal Saha!01!halishahar Netaji Subhash sasani!mail pukur par!n.s.sarani halisahar halishahar!halishahar!north 24 parganas!West Bengal!743134",
+      "alt": "9331201345",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Gopal Saha",
+      "name": "Bani Saha",
+      "num": "8100536587"
+    },
+    {
+      "aadhar": "743303673631",
+      "address": "D/O Gopal Saha!01!halishahar Netaji Subhash sasani!mail pukur par!n.s.sarani halisahar halishahar!halishahar!north 24 parganas!West Bengal!743134",
+      "alt": "9331201345",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Gopal Saha",
+      "name": "Bani Saha",
+      "num": "8100536587"
+    }
+  ]
+}
