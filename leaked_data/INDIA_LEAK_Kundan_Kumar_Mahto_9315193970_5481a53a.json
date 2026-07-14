@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:31:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315193970",
+  "records": [
+    {
+      "aadhar": "930906038482",
+      "address": "!c93a!Mahavir enclave!Uttam Nagar!New Delhi West West!Delhi!110059",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kusum Kumar Mahto",
+      "name": "Kundan Kumar Mahto",
+      "num": "9315193970"
+    },
+    {
+      "aadhar": "930906038482",
+      "address": "!c93a!Mahavir enclave!Uttam Nagar!New Delhi WestWest!Delhi!110059",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kusum Kumar Mahto",
+      "name": "Kundan Kumar Mahto",
+      "num": "9315193970"
+    },
+    {
+      "aadhar": "930906038482",
+      "address": "!c93a!Mahavir enclave!Uttam Nagar!New Delhi WestWest!Delhi!110059",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kusum Kumar Mahto",
+      "name": "Kundan Kumar Mahto",
+      "num": "9315193970"
+    },
+    {
+      "aadhar": "718375111857",
+      "address": "S/O Ram Pukar Yadav!!GALI NO-37!NA!C-93A GALI NO-37!MAHAVIR ENCLAVE III West Delhi!NA!Delhi!110059",
+      "alt": "9315193970",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Pukar Yadav",
+      "name": "Daroga Yadav",
+      "num": "9958463751"
+    },
+    {
+      "aadhar": "718375111857",
+      "address": "S/O Ram Pukar Yadav!!GALI NO-37!NA!C-93A GALI NO-37!MAHAVIR ENCLAVE IIIWest Delhi!NA!Delhi!110059",
+      "alt": "9315193970",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Pukar Yadav",
+      "name": "Daroga Yadav",
+      "num": "9958463751"
+    },
+    {
+      "aadhar": "718375111857",
+      "address": "S/O Ram Pukar Yadav!!GALI NO-37!NA!C-93A GALI NO-37!MAHAVIR ENCLAVE IIIWest Delhi!NA!Delhi!110059",
+      "alt": "9315193970",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Pukar Yadav",
+      "name": "Daroga Yadav",
+      "num": "9958463751"
+    }
+  ]
+}
