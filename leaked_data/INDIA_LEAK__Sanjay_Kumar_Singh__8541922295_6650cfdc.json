@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:10:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8541922295",
+  "records": [
+    {
+      "aadhar": "385926214085",
+      "address": " ward-03!Mishrauliya!!Chora Tabhka Chora Tabhka!Samastipur!Samastipur!Bihar!848211 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jhari Lal Singh ",
+      "name": " Sanjay Kumar Singh ",
+      "num": "8541922295"
+    },
+    {
+      "aadhar": "385926214085",
+      "address": " ward-03!Mishrauliya!!Chora Tabhka Chora Tabhka!Samastipur!Samastipur!Bihar!848211 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jhari Lal Singh ",
+      "name": " Sanjay Kumar Singh ",
+      "num": "8541922295"
+    }
+  ]
+}
