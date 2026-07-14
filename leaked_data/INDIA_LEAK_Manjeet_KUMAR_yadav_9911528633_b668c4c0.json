@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:30:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911528633",
+  "records": [
+    {
+      "aadhar": "692986765413",
+      "address": "!!3013 2nd floor j block sanik colony sec 49 near police chowki!NA!faridabad NIt!Faridabad Faridabad!NA!Haryana!121001",
+      "alt": "8683900152",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satyapal singh",
+      "name": "Manjeet KUMAR yadav",
+      "num": "9911528633"
+    },
+    {
+      "aadhar": "692986765413",
+      "address": "!!3013 2nd floor j blocksanik colony sec 49near police chowki!NA!faridabad NIt!FaridabadFaridabad!NA!Haryana!121001",
+      "alt": "8683900152",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satyapal singh",
+      "name": "Manjeet KUMAR yadav",
+      "num": "9911528633"
+    },
+    {
+      "aadhar": "692986765413",
+      "address": "!!3013 2nd floor j blocksanik colony sec 49near police chowki!NA!faridabad NIt!FaridabadFaridabad!NA!Haryana!121001",
+      "alt": "8683900152",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "satyapal singh",
+      "name": "Manjeet KUMAR yadav",
+      "num": "9911528633"
+    }
+  ]
+}
