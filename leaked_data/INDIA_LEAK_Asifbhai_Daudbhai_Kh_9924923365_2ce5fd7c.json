@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:55:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9924923365",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Khilji Daudbhai!-!KUMBHAR VAD JANTRAN!- Bharuch!JANTRAN!ANKLESHWAR!Bharuch!Gujarat!392155",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Khilji Daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "9924923365"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Khilji Daudbhai!-!KUMBHAR VAD JANTRAN!- Bharuch!JANTRAN!ANKLESHWAR!Bharuch!Gujarat!392155",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Khilji Daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "9924923365"
+    },
+    {
+      "aadhar": "817208136569",
+      "address": "w/o  ashifbhai!-!KUMBHAR FALIYU Jantran!-!- - kumbhar faliyu jantran jantran!jantran Jambusar!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ashifbhai",
+      "name": "Khilji Anishabanu Ashifbhai",
+      "num": "9510587651"
+    },
+    {
+      "aadhar": "817208136569",
+      "address": "w/o  ashifbhai!-!KUMBHAR FALIYU Jantran!-!- - kumbhar faliyu jantran jantran!jantran Jambusar!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ashifbhai",
+      "name": "Khilji Anishabanu Ashifbhai",
+      "num": "9316010318"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "S/O  Khilji Daudbhai! -!KUMBHAR VAD Kora!JANTRAN!-!Jantran Jambusar!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Khilji Daudbhai",
+      "name": "Asif Daudbhai Khilji",
+      "num": "8758722258"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "s/o  khilji daudbhai!59!Jantran road!kumbharwad!kumbhar vad jantran!jantran!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "khilji daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "8128135520"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "!-!KUMBHAR VAD!!- JANTRAN!Jantran!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "7862947623"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "!-!KUMBHAR VAD!!- JANTRAN!Jantran!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "7862946387"
+    },
+    {
+      "aadhar": "817208136569",
+      "address": "C/O Ashif Bhai! 07!nilam row house!near petrol pump!unn!Chorasi!Surat!Gujarat!394210",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ashif bhai",
+      "name": "Khilji Anishabanu Ashifbhai",
+      "num": "7600348127"
+    },
+    {
+      "aadhar": "817208136569",
+      "address": "w/o  ashifbhai!-!KUMBHAR FALIYU Jantran!-!- - kumbhar faliyu jantran jantran!jantran Jambusar!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ashifbhai",
+      "name": "Khilji Anishabanu Ashifbhai",
+      "num": "9510587651"
+    },
+    {
+      "aadhar": "817208136569",
+      "address": "w/o  ashifbhai!-!KUMBHAR FALIYU Jantran!-!- - kumbhar faliyu jantran jantran!jantran Jambusar!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ashifbhai",
+      "name": "Khilji Anishabanu Ashifbhai",
+      "num": "9316010318"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "S/O  Khilji Daudbhai! -!KUMBHAR VAD Kora!JANTRAN!-!Jantran Jambusar!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Khilji Daudbhai",
+      "name": "Asif Daudbhai Khilji",
+      "num": "8758722258"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "s/o  khilji daudbhai!59!Jantran road!kumbharwad!kumbhar vad jantran!jantran!bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "khilji daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "8128135520"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "!-!KUMBHAR VAD!!- JANTRAN!Jantran!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "7862946387"
+    },
+    {
+      "aadhar": "449901441219",
+      "address": "!-!KUMBHAR VAD!!- JANTRAN!Jantran!Bharuch!Gujarat!392155",
+      "alt": "9924923365",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "daudbhai",
+      "name": "Asifbhai Daudbhai Khilji",
+      "num": "7862947623"
+    }
+  ]
+}
