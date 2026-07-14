@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:02:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650430553",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H No-C-102 ! First Flour ! Paryavaran Complex ! DELHI ! DELHI ! 110068",
+      "alt": "9643311854",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Ashish Singh",
+      "num": "9650430553"
+    },
+    {
+      "aadhar": null,
+      "address": "H No-C-102 ! First Flour ! Paryavaran Complex ! DELHI ! DELHI ! 110068",
+      "alt": "9643311854",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Ashish Singh",
+      "num": "9650430553"
+    },
+    {
+      "aadhar": null,
+      "address": "H No-C-102 ! First Flour ! Paryavaran Complex ! DELHI ! DELHI ! 110068",
+      "alt": "9643311854",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Ashish Singh",
+      "num": "9650430553"
+    },
+    {
+      "aadhar": "797094972794",
+      "address": "C-102 Paryavaran Complex Paryavaran Complex   Delhi Delhi 110068! ! !!!",
+      "alt": "9650430553",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Abhishek Ranjan",
+      "num": "9971436968"
+    },
+    {
+      "aadhar": "797094972794",
+      "address": "!C102 Paryavaran Complex Paryavaran Complex   Delhi Delhi 110068!!!!!!!",
+      "alt": "9650430553",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Abhishek Ranjan",
+      "num": "9971436968"
+    },
+    {
+      "aadhar": "797094972794",
+      "address": "C102 Paryavaran Complex Paryavaran Complex   Delhi Delhi 110068! ! !!!",
+      "alt": "9650430553",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Abhishek Ranjan",
+      "num": "9971436968"
+    },
+    {
+      "aadhar": "797094972794",
+      "address": "C102 Paryavaran Complex Paryavaran Complex   Delhi Delhi 110068! ! !!!",
+      "alt": "9650430553",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Anil Kumar Singh",
+      "name": "Abhishek Ranjan",
+      "num": "9971436968"
+    }
+  ]
+}
