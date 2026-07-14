@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:08:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8420873313",
+  "records": [
+    {
+      "aadhar": "Wb24166483405",
+      "address": "!Daspara Jagadishpur City KOLKT! !Howrah! !711328",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "Gopal  Adhikari",
+      "name": "Jyotsna  Adhikari",
+      "num": "8420873313"
+    },
+    {
+      "aadhar": "Wb24166483405",
+      "address": "!Daspara Jagadishpur City KOLKT! !Howrah! !711328",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "Gopal  Adhikari",
+      "name": "Jyotsna  Adhikari",
+      "num": "8420873313"
+    }
+  ]
+}
