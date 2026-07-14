@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:16:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8373991244",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Prem Pal!!!HOUSE NO 20 I MS BLOCK RANA JI ENCLAVE!Nangli Sakrawati South West Delhi!Delhi!110043",
+      "alt": "919868434193",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prem Pal",
+      "name": "Tota Ram",
+      "num": "8373991244"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Prem Pal!!!HOUSE NO 20 I MS BLOCK RANA JI ENCLAVE!Nangli SakrawatiSouth West Delhi!Delhi!110043",
+      "alt": "919868434193",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prem Pal",
+      "name": "Tota Ram",
+      "num": "8373991244"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Prem Pal!!!HOUSE NO 20 I MS BLOCK RANA JI ENCLAVE!Nangli SakrawatiSouth West Delhi!Delhi!110043",
+      "alt": "919868434193",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prem Pal",
+      "name": "Tota Ram",
+      "num": "8373991244"
+    }
+  ]
+}
