@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:41:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6355918108",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Rameshwar  22 Prestige Bunglows CTM Cross Roads Amraiwadi Ahmedabad City Ahmedabad Gujarat 380026",
+      "alt": "919825017581",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Rameshwar",
+      "name": "Jogi Rajesh",
+      "num": "6355918108"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rameshwar!!22 Prestige Bunglows CTM Cross Roads!Amraiwadi!Ahmedabad City Ahmedabad!Gujarat!380026",
+      "alt": "919825017581",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Rameshwar",
+      "name": "Jogi Rajesh",
+      "num": "6355918108"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rameshwar!!22 Prestige Bunglows CTM Cross Roads!Amraiwadi!Ahmedabad City Ahmedabad!Gujarat!380026",
+      "alt": "919825017581",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Rameshwar",
+      "name": "Jogi Rajesh",
+      "num": "6355918108"
+    }
+  ]
+}
