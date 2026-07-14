@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:18:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7571853769",
+  "records": [
+    {
+      "aadhar": "746832808197",
+      "address": " ! !gram dorwa po bojhiya    City/District: Azamgarh State Uttar Pradesh! !AZAMGARH!UTTAR PRADESH!276138",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Late Ram Shabad Chauhan",
+      "name": "Lal Chandra Chauhan",
+      "num": "7571853769"
+    },
+    {
+      "aadhar": "746832808197",
+      "address": " ! !gram dorwa po bojhiya    City/District: Azamgarh State Uttar Pradesh! !AZAMGARH!UTTAR PRADESH!276138",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Late Ram Shabad Chauhan",
+      "name": "Lal Chandra Chauhan",
+      "num": "7571853769"
+    }
+  ]
+}
