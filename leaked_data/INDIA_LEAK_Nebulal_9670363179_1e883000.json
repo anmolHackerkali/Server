@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:39:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9670363179",
+  "records": [
+    {
+      "aadhar": "204943111534",
+      "address": " !!Village-chilma Parsan Chilma Bazar!Post-Chilma Bazar!Gauspur-Basti-Basti!Uttar Pradesh!272301",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santlal",
+      "name": "Nebulal",
+      "num": "9670363179"
+    },
+    {
+      "aadhar": "204943111534",
+      "address": " !!Village-chilma Parsan Chilma Bazar!Post-Chilma Bazar!Gauspur-Basti-Basti!Uttar Pradesh!272301",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Santlal",
+      "name": "Nebulal",
+      "num": "9670363179"
+    }
+  ]
+}
