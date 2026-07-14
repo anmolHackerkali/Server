@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:41:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9886386156",
+  "records": [
+    {
+      "aadhar": "542034290359",
+      "address": "Birendra Kumar Singh!NO 10 B!5TH Cross 3RD Main Near F M C Doorvaninagar!Hoysala Nagar Ramamurthy Nagar!Bangalore North-Bangalore North-Bangalore!Karnataka!560016",
+      "alt": null,
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "S/O  Birendra Kumar Singh",
+      "name": "Abhishek Kumar",
+      "num": "9886386156"
+    },
+    {
+      "aadhar": "771970278921",
+      "address": "!NO 74  BABA NAGAR  YELAHANKA!BAGALUR MAIN ROAD BANGALORE NORTH!BANGALORE NORTH!A F STATION YELAHANKA BANGALORE!BANGALORE!BANGALORE!Karnataka!560063",
+      "alt": "9886386156",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Abhishek Kumar",
+      "name": "MRS  RASHMI RANJANA",
+      "num": "9986181274"
+    },
+    {
+      "aadhar": null,
+      "address": "!74  Baba Nagar  Bagalur Main Road!.!Yelahanka Bengaluru!!BANGALORE!Bengaluru!Karnataka!560063",
+      "alt": "9886386156",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "Birendara Kumar",
+      "name": "Abhishek Kumar",
+      "num": "9513076972"
+    }
+  ]
+}
