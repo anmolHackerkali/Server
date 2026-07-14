@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:46:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8445552424",
+  "records": [
+    {
+      "aadhar": "954946196659",
+      "address": " !!muradganjjaloopur!!Auraiya!Uttar Pradesh!206129 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Vanshiram   ",
+      "name": " Roopendra  Singh ",
+      "num": "8445552424"
+    },
+    {
+      "aadhar": "954946196659",
+      "address": " !!muradganjjaloopur!!Auraiya!Uttar Pradesh!206129 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Vanshiram   ",
+      "name": " Roopendra  Singh ",
+      "num": "8445552424"
+    }
+  ]
+}
