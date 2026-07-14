@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:35:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9219226018",
+  "records": [
+    {
+      "aadhar": "527181161176",
+      "address": "!66!bhulandih pokhara!tempal!kerakat!Jaunpur!Jaunpur!Uttar Pradesh!222149",
+      "alt": "7704884206",
+      "circle": "JIO UPE",
+      "email": "SARAWTI123@GMEL.COM",
+      "fname": "Bambhole",
+      "name": "Sarswati",
+      "num": "9219226018"
+    },
+    {
+      "aadhar": "527181161176",
+      "address": "!66!bhulandih pokhara!tempal!kerakat!Jaunpur!Jaunpur!Uttar Pradesh!222149",
+      "alt": "7704884206",
+      "circle": "JIO UPE",
+      "email": "SARAWTI123@GMEL.COM",
+      "fname": "Bambhole",
+      "name": "Sarswati",
+      "num": "9219226018"
+    }
+  ]
+}
