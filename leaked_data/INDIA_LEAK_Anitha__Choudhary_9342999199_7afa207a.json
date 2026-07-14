@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:22:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9342999199",
+  "records": [
+    {
+      "aadhar": "605000417279",
+      "address": "Dharmendra Choudhary 2370 CH 9 New Kanth Raj urs Road K G Koppal Mysore   Mysore Karnataka 570014",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Dharmendra  Choudhary",
+      "name": "Anitha  Choudhary",
+      "num": "9342999199"
+    },
+    {
+      "aadhar": null,
+      "address": "Dhagala Ram 2370   CH-9 New Kantharaj Urs Road K G Koppal  Mysore   Mysore Karnataka 570014",
+      "alt": "9342999199",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Dhagala  Ram",
+      "name": "Dharmendra  Chowdary",
+      "num": "9880887060"
+    }
+  ]
+}
