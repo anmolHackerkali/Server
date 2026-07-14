@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:04:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7440986594",
+  "records": [
+    {
+      "aadhar": "579208225297",
+      "address": "S/O Jitendra Kumar Agrawal!S/O Jitendra Kumar Agrawal!Subhash Ward No. 6  Main Road!. !KHIRKIYA-HARDA!MP!461441",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "JITENDRA KUMAR AGRAWAL ",
+      "name": "SIDDHARTH AGRAWAL",
+      "num": "7440986594"
+    }
+  ]
+}
