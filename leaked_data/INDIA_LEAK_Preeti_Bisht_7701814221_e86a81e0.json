@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:46:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7701814221",
+  "records": [
+    {
+      "aadhar": "896646358285",
+      "address": "!house no 368 block b!vasundhra enclave!!new ashok nagar!Delhi East!East!Delhi!110096",
+      "alt": "8588835144",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ganga singh",
+      "name": "Preeti Bisht",
+      "num": "7701814221"
+    },
+    {
+      "aadhar": "896646358285",
+      "address": "!house no 368 block b!vasundhra enclave!!new ashok nagar!Delhi East!East!Delhi!110096",
+      "alt": "8588835144",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ganga singh",
+      "name": "Preeti Bisht",
+      "num": "7701814221"
+    },
+    {
+      "aadhar": "896646358285",
+      "address": "!house no 368 block b!vasundhra enclave!!new ashok nagar!Delhi East!East!Delhi!110096",
+      "alt": "8588835144",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ganga singh",
+      "name": "Preeti Bisht",
+      "num": "7701814221"
+    }
+  ]
+}
