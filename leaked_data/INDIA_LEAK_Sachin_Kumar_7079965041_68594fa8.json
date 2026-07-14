@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:46:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7079965041",
+  "records": [
+    {
+      "aadhar": "918483717970",
+      "address": "S/O  Ashok Singh!!ward-08 M t alampur!niyamat tola!alampur!Mahthi Tola Alampur Bibhutipur!Samastipur!Bihar!848236",
+      "alt": "9430543624",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Singh",
+      "name": "Sachin Kumar",
+      "num": "7079965041"
+    },
+    {
+      "aadhar": "918483717970",
+      "address": "S/O  Ashok Singh!!ward-08 M t alampur!niyamat tola!alampur!Mahthi Tola Alampur Bibhutipur!Samastipur!Bihar!848236",
+      "alt": "9430543624",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Singh",
+      "name": "Sachin Kumar",
+      "num": "7079965041"
+    },
+    {
+      "aadhar": "918483717970",
+      "address": "S/O  Ashok Singh!!ward-08 M t alampur!niyamat tola!alampur!Mahthi Tola Alampur Bibhutipur!Samastipur!Bihar!848236",
+      "alt": "9430543624",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Singh",
+      "name": "Sachin Kumar",
+      "num": "7079965041"
+    }
+  ]
+}
