@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:21:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990414647",
+  "records": [
+    {
+      "aadhar": "931262909664",
+      "address": "!516!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR DAV CHOCK!Charan Singh Colony Vijay Nagar GAUTAM BUDDHA NAGAR Dav Chock!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR CHAPROLA!GHAZIABAD ",
+      "alt": "9990217646",
+      "circle": "VI DELHI",
+      "email": "KADILCHOUDHARY07@GMAIL.COM",
+      "fname": "JAAN Mo",
+      "name": "MR  KADIR  ",
+      "num": "9990414647"
+    },
+    {
+      "aadhar": " 931262909664 ",
+      "address": "S/O  Jaan Mo. ! 516 ! Charan Singh Colony ! Dav Chock ! Vijay NagarDav Chock ! CHAPROLA-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201009",
+      "alt": "9990217646",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JAAN  MO",
+      "name": "KADIR  .",
+      "num": "9990414647"
+    },
+    {
+      "aadhar": " 931262909664 ",
+      "address": "S/O: Jaan Mo. ! 516 ! Charan Singh Colony ! Dav Chock ! Vijay NagarDav Chock ! CHAPROLA-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201009",
+      "alt": "9990217646",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JAAN  MO",
+      "name": "KADIR  ",
+      "num": "9990414647"
+    },
+    {
+      "aadhar": "931262909664",
+      "address": "!516!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR DAV CHOCK!Charan Singh Colony Vijay Nagar GAUTAM BUDDHA NAGAR Dav Chock!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR CHAPROLA!GHAZIABAD ",
+      "alt": "9990217646",
+      "circle": "VI DELHI",
+      "email": "KADILCHOUDHARY07@GMAIL.COM",
+      "fname": "JAAN Mo",
+      "name": "MR  KADIR  ",
+      "num": "9990414647"
+    },
+    {
+      "aadhar": "931262909664",
+      "address": "!516!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR DAV CHOCK!Charan Singh Colony Vijay Nagar GAUTAM BUDDHA NAGAR Dav Chock!CHARAN SINGH COLONY VIJAY NAGAR GAUTAM BUDDHA NAGAR CHAPROLA!GHAZIABAD ",
+      "alt": "9990217646",
+      "circle": "VI DELHI",
+      "email": "KADILCHOUDHARY07@GMAIL.COM",
+      "fname": "JAAN Mo",
+      "name": "MR  KADIR  ",
+      "num": "9990414647"
+    },
+    {
+      "aadhar": " 931262909664 ",
+      "address": "S/O: Jaan Mo. ! 516 ! Charan Singh Colony ! Dav Chock ! Vijay NagarDav Chock ! CHAPROLA-GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UP ! 201009",
+      "alt": "9990217646",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JAAN  MO",
+      "name": "KADIR  ",
+      "num": "9990414647"
+    }
+  ]
+}
