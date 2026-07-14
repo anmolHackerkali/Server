@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:38:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7888963971",
+  "records": [
+    {
+      "aadhar": "902873555159",
+      "address": "S/OSatya Singh!!H No 25preet NagarBatala Road!!Amritsar -IAmritsar!Punjab!143001",
+      "alt": "+919872316944",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Satya Singh",
+      "name": "Sabbal Singh",
+      "num": "7888963971"
+    }
+  ]
+}
