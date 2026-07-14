@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:25:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9538667723",
+  "records": [
+    {
+      "aadhar": "795012561614",
+      "address": "2-5-3 Taranath Road Shalam Sab Doddi  Raichur Raichur Karnataka 584101",
+      "alt": "8792219414",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Maqbool Ahmed Pasha",
+      "name": "Mohammed Shamsalam Hussaini",
+      "num": "9538667723"
+    },
+    {
+      "aadhar": "XXXXXXXX1614",
+      "address": "2-5-3 Taranath Road Shalam Sab Doddi Shalam Sab Doddi Raichur Raichur KARNATAKA 584101",
+      "alt": "9538667723",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "S O MAQBOOL AHMED PASHA",
+      "name": "MOHAMMED SHAMSALAM HUSSAINI ",
+      "num": "9141713861"
+    },
+    {
+      "aadhar": "XXXXXXXX1614",
+      "address": "2-5-3 Taranath Road Shalam Sab Doddi Shalam Sab Doddi Raichur Raichur KARNATAKA 584101",
+      "alt": "9538667723",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "S O MAQBOOL AHMED PASHA",
+      "name": "MOHAMMED SHAMSALAM HUSSAINI ",
+      "num": "9141681956"
+    }
+  ]
+}
