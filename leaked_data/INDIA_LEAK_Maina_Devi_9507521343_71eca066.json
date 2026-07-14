@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:33:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9507521343",
+  "records": [
+    {
+      "aadhar": "502285862757",
+      "address": "w/o  dhiraj singh! 59!Mano!MANO!mano mano!mano Surajgarha!lakhisarai!Bihar!811310",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "dhiraj singh",
+      "name": "Maina Devi",
+      "num": "9507521343"
+    },
+    {
+      "aadhar": "502285862757",
+      "address": "w/o  dhiraj singh! 59!Mano!MANO!mano mano!mano Surajgarha!lakhisarai!Bihar!811310",
+      "alt": "9472624062",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dhiraj singh",
+      "name": "Maina Devi",
+      "num": "9507521343"
+    },
+    {
+      "aadhar": "502285862757",
+      "address": "w/o  dhiraj singh! 59!Mano!MANO!mano mano!mano Surajgarha!lakhisarai!Bihar!811310",
+      "alt": "9472624062",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dhiraj singh",
+      "name": "Maina Devi",
+      "num": "9507521343"
+    }
+  ]
+}
