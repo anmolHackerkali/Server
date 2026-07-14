@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:57:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8957245508",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ram Ugrah Chaudhary!!gram majhouva khajuri!post majhouvam khajuri!Puraina Basti!Uttar Pradesh!272002",
+      "alt": "917007042872",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Ugrah Chaudhary",
+      "name": "Umesh Kumar Chaudhary",
+      "num": "8957245508"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ram Ugrah Chaudhary!!gram majhouva khajuri!post majhouvam khajuri!Puraina Basti!Uttar Pradesh!272002",
+      "alt": "917007042872",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Ugrah Chaudhary",
+      "name": "Umesh Kumar Chaudhary",
+      "num": "8957245508"
+    }
+  ]
+}
