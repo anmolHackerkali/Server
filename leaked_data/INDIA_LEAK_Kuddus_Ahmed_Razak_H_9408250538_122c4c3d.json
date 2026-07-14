@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:41:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9408250538",
+  "records": [
+    {
+      "aadhar": "783728192330",
+      "address": "  3/347 MUNSHI MOHALLO Olpad  Olpad Olpad Surat Gujarat 394540",
+      "alt": "919898751774",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "razak husain",
+      "name": "Kuddus Ahmed Razak Husain Shaikh",
+      "num": "9408250538"
+    },
+    {
+      "aadhar": "783728192330",
+      "address": "!!3/347 MUNSHI MOHALLO Olpad!!Olpad Olpad Surat!Gujarat!394540",
+      "alt": "919898751774",
+      "circle": "JIO GUJARAT",
+      "email": "nasreenshaikh1989@gmail.com",
+      "fname": "razak husain",
+      "name": "Kuddus Ahmed Razak Husain Shaikh",
+      "num": "9408250538"
+    },
+    {
+      "aadhar": "783728192330",
+      "address": "!!3/347 MUNSHI MOHALLO Olpad!!Olpad Olpad Surat!Gujarat!394540",
+      "alt": "919898751774",
+      "circle": "JIO GUJARAT",
+      "email": "nasreenshaikh1989@gmail.com",
+      "fname": "razak husain",
+      "name": "Kuddus Ahmed Razak Husain Shaikh",
+      "num": "9408250538"
+    }
+  ]
+}
