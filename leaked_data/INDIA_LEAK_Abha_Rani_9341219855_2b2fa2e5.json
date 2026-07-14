@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:32:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9341219855",
+  "records": [
+    {
+      "aadhar": "747504991053",
+      "address": "W/O  Devanand Kumar! H NO  24!Kewti!KEVATI!pank!Pank Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "7903922016",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Devanand Kumar",
+      "name": "Abha Rani",
+      "num": "9341219855"
+    },
+    {
+      "aadhar": "747504991053",
+      "address": "W/O  Devanand Kumar! H.NO. 24!Kewti!KEVATI!pank!Pank Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "7903922016",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Devanand Kumar",
+      "name": "Abha Rani",
+      "num": "9341219855"
+    },
+    {
+      "aadhar": "747504991053",
+      "address": "W/O  Devanand Kumar! H.NO. 24!Kewti!KEVATI!pank!Pank Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "7903922016",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Devanand Kumar",
+      "name": "Abha Rani",
+      "num": "9341219855"
+    }
+  ]
+}
