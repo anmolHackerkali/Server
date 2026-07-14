@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:02:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9695932974",
+  "records": [
+    {
+      "aadhar": "365150939005",
+      "address": "D/O Nishar Ahamad!Dedhauna!!Derhawana!Mirzapur!Uttar Pradesh!231302",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nishar  Ahamad",
+      "name": "Shabiya  Khatoon",
+      "num": "9695932974"
+    },
+    {
+      "aadhar": "365150939005",
+      "address": "D/O Nishar Ahamad!Dedhauna!!Derhawana!Mirzapur!Uttar Pradesh!231302",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nishar  Ahamad",
+      "name": "Shabiya  Khatoon",
+      "num": "9695932974"
+    }
+  ]
+}
