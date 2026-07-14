@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:30:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9510062352",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Bhawarlal Hiralal Parmar!!Plot No.-173 Ward-9/AG Bhai Pratap Ashish Society Near Ramdev Pir Temple!New Bharatnagar!Gandhidham Kachchh!Gujarat!370201",
+      "alt": "917874041961",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhawarlal Hiralal Parmar",
+      "name": "Parmar Yogesh",
+      "num": "9510062352"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bhawarlal Hiralal Parmar!!Plot No.-173 Ward-9/AG Bhai Pratap Ashish Society Near Ramdev Pir Temple!New Bharatnagar!Gandhidham Kachchh!Gujarat!370201",
+      "alt": "917874041961",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhawarlal Hiralal Parmar",
+      "name": "Parmar Yogesh",
+      "num": "9510062352"
+    }
+  ]
+}
