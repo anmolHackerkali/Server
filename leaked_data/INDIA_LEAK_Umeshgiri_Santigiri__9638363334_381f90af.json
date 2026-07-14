@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:52:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9638363334",
+  "records": [
+    {
+      "aadhar": "702833673687",
+      "address": "  8 Krusna nagar Ankleshwar Near Jalaram Tempal ANKLESVAR BHARUCH Gujarat 393001",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9638363334"
+    },
+    {
+      "aadhar": "702833673687",
+      "address": "!!8 Krusna nagar!Ankleshwar Near Jalaram Tempal!ANKLESVAR BHARUCH!Gujarat!393001",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9638363334"
+    },
+    {
+      "aadhar": "702833673687",
+      "address": "!!8 Krusna nagar!Ankleshwar Near Jalaram Tempal!ANKLESVAR BHARUCH!Gujarat!393001",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9638363334"
+    },
+    {
+      "aadhar": "702833673687",
+      "address": "08!Krusna nagar Ankleshwar City/District  Bharuch!Near Jalaram Tempal!BHARUCH!393001",
+      "alt": "9638363334",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9033660368"
+    },
+    {
+      "aadhar": "702833673687",
+      "address": "!08!Krusna nagar Ankleshwar City/District: Bharuch!Near Jalaram Tempal!BHARUCH!Gujarat!393001",
+      "alt": "9638363334",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9033660368"
+    },
+    {
+      "aadhar": "702833673687",
+      "address": "!08!Krusna nagar Ankleshwar City/District: Bharuch!Near Jalaram Tempal!BHARUCH!Gujarat!393001",
+      "alt": "9638363334",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "santigiri",
+      "name": "Umeshgiri Santigiri Goswami",
+      "num": "9033660368"
+    }
+  ]
+}
