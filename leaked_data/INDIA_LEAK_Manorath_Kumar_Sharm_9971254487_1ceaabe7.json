@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:21:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971254487",
+  "records": [
+    {
+      "aadhar": "566358083590",
+      "address": "!b 75 3 t/f block B!block b harijan basti kondi!mandir!kondli kandli east delhi!New Delhi!East!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "rajeshwar sharma",
+      "name": "Manorath Kumar Sharma",
+      "num": "9971254487"
+    },
+    {
+      "aadhar": "TQP2273282",
+      "address": "!B 410!new friends colony!!nfc!Delhi!South Delhi!Delhi!110025",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "UPENDRA YADAV",
+      "name": "RANJIT YADAV",
+      "num": "9971254487"
+    },
+    {
+      "aadhar": "TQP2273282",
+      "address": "!B 410!new friends colony!!nfc!Delhi!South Delhi!Delhi!110025",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "UPENDRA YADAV",
+      "name": "RANJIT YADAV",
+      "num": "9971254487"
+    },
+    {
+      "aadhar": "566358083590",
+      "address": "!b 75 3 t/f block B!block b harijan basti kondi!mandir!kondli kandli east delhi!New Delhi!East!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "rajeshwar sharma",
+      "name": "Manorath Kumar Sharma",
+      "num": "9971254487"
+    },
+    {
+      "aadhar": "566358083590",
+      "address": "!b 75 3 t/f block B!block b harijan basti kondi!mandir!kondli kandli east delhi!New Delhi!East!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "rajeshwar sharma",
+      "name": "Manorath Kumar Sharma",
+      "num": "9971254487"
+    },
+    {
+      "aadhar": "TQP2273282",
+      "address": "!B 410!new friends colony!!nfc!Delhi!South Delhi!Delhi!110025",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "UPENDRA YADAV",
+      "name": "RANJIT YADAV",
+      "num": "9971254487"
+    }
+  ]
+}
