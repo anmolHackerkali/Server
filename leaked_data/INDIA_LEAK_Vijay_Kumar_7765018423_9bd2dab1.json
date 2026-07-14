@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:46:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765018423",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Sudeshwar Yadav!!!AT KARMA MASUD PO/ PS RAFIGANJ!!Karma masud!Aurangabad!Bihar!824125",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sudeshwar Yadav",
+      "name": "Vijay Kumar",
+      "num": "7765018423"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Sudeshwar Yadav!!!AT KARMA MASUD PO/ PS RAFIGANJ!!Karma masud!Aurangabad!Bihar!824125",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sudeshwar Yadav",
+      "name": "Vijay Kumar",
+      "num": "7765018423"
+    }
+  ]
+}
