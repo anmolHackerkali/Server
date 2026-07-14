@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:14:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9540685285",
+  "records": [
+    {
+      "aadhar": "474016382439",
+      "address": " D 10 Palika Niwas Lodhi Road  lodhi colony  ndmc  sauth Delhi Central Delhi Delhi 110003",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Haridyal",
+      "name": "Sumant Kumar",
+      "num": "9540685285"
+    },
+    {
+      "aadhar": "474016382439",
+      "address": "!D 10!Palika Niwas Lodhi Road!!lodhi colony  ndmc  sauth!Delhi!Central Delhi!Delhi!110003",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Haridyal",
+      "name": "Sumant Kumar",
+      "num": "9540685285"
+    },
+    {
+      "aadhar": "474016382439",
+      "address": "!D 10!Palika Niwas Lodhi Road!!lodhi colony  ndmc  sauth!Delhi!Central Delhi!Delhi!110003",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Haridyal",
+      "name": "Sumant Kumar",
+      "num": "9540685285"
+    }
+  ]
+}
