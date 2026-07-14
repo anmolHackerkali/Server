@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:36:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9304708293",
+  "records": [
+    {
+      "aadhar": "919765852981",
+      "address": "D/O Bikash Prasad Singh!!PLOT NO-504 RAILWAY GOL MARKET Bscity Rs NEAR HANUMAN MANDIR!PSBALIDIH Chas POST-RAILWAY COLONY!Sibandih Bokaro!Jharkhand!827010",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bikash Prasad Singh",
+      "name": "Rajni Singh",
+      "num": "9304708293"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "D/O Bikash Prasad Singh!!PLOT.NO-504 RAILWAY GOL MARKET Bscity Rs NEAR HANUMAN MANDIR!PSBALIDIH Chas POST-RAILWAY COLONY!Sibandih Bokaro!Jharkhand!827010",
+      "alt": "918294802199",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bikash Prasad Singh",
+      "name": "Rajni Singh",
+      "num": "9304708293"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "D/O Bikash Prasad Singh!!PLOT.NO-504 RAILWAY GOL MARKET Bscity Rs NEAR HANUMAN MANDIR!PSBALIDIH Chas POST-RAILWAY COLONY!Sibandih Bokaro!Jharkhand!827010",
+      "alt": "918294802199",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bikash Prasad Singh",
+      "name": "Rajni Singh",
+      "num": "9304708293"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "!plot no 504!railway gol market near hanuman mandir!near Hanuman mandir!post railway colony ps balidih sibandih bokaro!Bokaro!Bokaro!Jharkhand!827010",
+      "alt": "9304708293",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "bikash Prasad singh",
+      "name": "Rajni Singh",
+      "num": "9693311355"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "d/o bikash prasad singh! plot.no-04!NEAR HANUMAN MANDIR B.s.city R.s.!near hanuman mandir!railway gol market post-railway colony p.s-balidih!sibandih Chas!bokaro!Jharkhand!827010",
+      "alt": "9304708293",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "bikash prasad singh",
+      "name": "Rajni Singh",
+      "num": "7667198256"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "!plot no 504!railway gol market near hanuman mandir!near Hanuman mandir!post railway colony ps balidih sibandih bokaro!Bokaro!Bokaro!Jharkhand!827010",
+      "alt": "9304708293",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "bikash Prasad singh",
+      "name": "Rajni Singh",
+      "num": "9693311355"
+    },
+    {
+      "aadhar": "919765852981",
+      "address": "d/o bikash prasad singh! plot.no-04!NEAR HANUMAN MANDIR B.s.city R.s.!near hanuman mandir!railway gol market post-railway colony p.s-balidih!sibandih Chas!bokaro!Jharkhand!827010",
+      "alt": "9304708293",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "bikash prasad singh",
+      "name": "Rajni Singh",
+      "num": "7667198256"
+    }
+  ]
+}
