@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:26:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9855840437",
+  "records": [
+    {
+      "aadhar": "666532447647",
+      "address": "SO Surinder Pal!Hlouse No 1698!Hlouse No 1698Near Killa!Near Killa!manimajraCHANDIGARH!CHANDIGARH!CHANDIGARH!Chandigarh!160101",
+      "alt": "7508557327",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Surinder Pal",
+      "name": "VISHAL GUPTA",
+      "num": "9855840437"
+    }
+  ]
+}
