@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:15:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9741220301",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "NO 10905/108 4TH MAIN   6TH CROSS VIDYARANYAPURAM MYSORE MYSRE 570008",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "RAGHAVENDRA RAO",
+      "name": "TULASI ANAND MR    ",
+      "num": "9741220301"
+    },
+    {
+      "aadhar": "586175270298",
+      "address": "1063/38 1ST MAIN 4TH CROSS VIDYARANYAPURAM MYSORE KARNATAKA 570008",
+      "alt": "9741220301",
+      "circle": "KARNATAKA BSNL",
+      "email": null,
+      "fname": "LATE M G RAGHAVENDRA RAO",
+      "name": "THULSANAND M R -- --",
+      "num": "9738669226"
+    }
+  ]
+}
