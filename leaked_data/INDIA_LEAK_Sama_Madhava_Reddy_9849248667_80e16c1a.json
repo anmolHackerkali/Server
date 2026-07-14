@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:27:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9849248667",
+  "records": [
+    {
+      "aadhar": "826047193149",
+      "address": "!2-3-63!upper pally  near renuka ellama temple sainagar hyderguda!sai nagar!Rajendranagar!Hyderabad South East k v rangareddy!Hyderabad!Telangana!500048",
+      "alt": "9247124043",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "late Sama Prama Reddy",
+      "name": "Sama Madhava Reddy",
+      "num": "9849248667"
+    }
+  ]
+}
