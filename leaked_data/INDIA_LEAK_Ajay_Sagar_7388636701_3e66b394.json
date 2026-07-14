@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:33:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388636701",
+  "records": [
+    {
+      "aadhar": "329034775657",
+      "address": "S/O: Mithlesh Kumar!raspahadiya mauranipur Mau Rural!!!Jhansi!Uttar Pradesh!284204",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Mithlesh Kumar",
+      "name": "Ajay Sagar",
+      "num": "7388636701"
+    },
+    {
+      "aadhar": "329034775657",
+      "address": "S/O: Mithlesh Kumar!raspahadiya mauranipur Mau Rural!!!Jhansi!Uttar Pradesh!284204",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Mithlesh Kumar",
+      "name": "Ajay Sagar",
+      "num": "7388636701"
+    },
+    {
+      "aadhar": "329034775657",
+      "address": "S/O MITHLESH KUMAR!RASPAHADIYA!RASPAHADIYA!!MAURANIPURJHANSI!JHANSI!UTTAR PRADESH!284204",
+      "alt": "7388636701",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Mithlesh Kumar",
+      "name": "MR. AJAY SAGAR",
+      "num": "7379129708"
+    },
+    {
+      "aadhar": "329034775657",
+      "address": "S/O MITHLESH KUMAR!RASPAHADIYA!RASPAHADIYA!!MAURANIPUR JHANSI!JHANSI!UTTAR PRADESH!284204",
+      "alt": "7388636701",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mithlesh Kumar",
+      "name": "MR AJAY SAGAR",
+      "num": "7379129708"
+    },
+    {
+      "aadhar": "329034775657",
+      "address": "S/O MITHLESH KUMAR!RASPAHADIYA!RASPAHADIYA!!MAURANIPUR JHANSI!JHANSI!UTTAR PRADESH!284204",
+      "alt": "7388636701",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mithlesh Kumar",
+      "name": "MR AJAY SAGAR",
+      "num": "7379129708"
+    }
+  ]
+}
