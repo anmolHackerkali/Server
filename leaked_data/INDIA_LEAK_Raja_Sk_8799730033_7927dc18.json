@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:54:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8799730033",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!532 wazirabad dhani chowk!sector 52!Gurgaon Gurgaon!Haryana!122003",
+      "alt": "917703875188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nurmahammad sk",
+      "name": "Raja Sk",
+      "num": "8799730033"
+    },
+    {
+      "aadhar": "224376868477",
+      "address": "S/O Chanderika Prashad!H NO 831!ROHINI SECTOR 7!NA!RESETTELMENT COLONEY!SECTOR 26 ROHININorth West Delhi!NA!Delhi!110085",
+      "alt": "9958913211",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Chanderika Prashad",
+      "name": "Radhey Shyam",
+      "num": "8799730033"
+    },
+    {
+      "aadhar": "224376868477",
+      "address": "S/O Chanderika Prashad!H NO 831!ROHINI SECTOR 7!NA!RESETTELMENT COLONEY!SECTOR 26 ROHININorth West Delhi!NA!Delhi!110085",
+      "alt": "9958913211",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Chanderika Prashad",
+      "name": "Radhey Shyam",
+      "num": "8799730033"
+    },
+    {
+      "aadhar": null,
+      "address": "!!532wazirabaddhani chowk!sector 52!GurgaonGurgaon!Haryana!122003",
+      "alt": "917703875188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nurmahammad sk",
+      "name": "Raja Sk",
+      "num": "8799730033"
+    },
+    {
+      "aadhar": "224376868477",
+      "address": "S/O Chanderika Prashad!H NO 831!ROHINI SECTOR 7!NA!RESETTELMENT COLONEY!SECTOR 26 ROHININorth West Delhi!NA!Delhi!110085",
+      "alt": "9958913211",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Chanderika Prashad",
+      "name": "Radhey Shyam",
+      "num": "8799730033"
+    },
+    {
+      "aadhar": null,
+      "address": "!!532wazirabaddhani chowk!sector 52!GurgaonGurgaon!Haryana!122003",
+      "alt": "917703875188",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Nurmahammad sk",
+      "name": "Raja Sk",
+      "num": "8799730033"
+    }
+  ]
+}
