@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:26:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534456570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Pappu Yadav! !  ward no 03!tulsipur Bhagalpur!ward no 03!BHAGALPUR!Bhagalpur!BIHAR!853202",
+      "alt": "9334956348",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Pappu Yadav",
+      "name": "Gaurav Kumar",
+      "num": "9534456570"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Pappu Yadav! !  ward no 03!tulsipur Bhagalpur!ward no 03!BHAGALPUR!Bhagalpur!BIHAR!853202",
+      "alt": "9334956348",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Pappu Yadav",
+      "name": "Gaurav Kumar",
+      "num": "9534456570"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rajendra Yadav! !  Tulsipur!Tulsipur Bhagalpur!Tulsipur!BHAGALPUR!Bhagalpur!BIHAR!853202",
+      "alt": "9534456570",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Rajendra Yadav",
+      "name": "Shrawan Yadav",
+      "num": "9534451156"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Rajendra Yadav! !  Tulsipur!Tulsipur Bhagalpur!Tulsipur!BHAGALPUR!Bhagalpur!BIHAR!853202",
+      "alt": "9534456570",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Rajendra Yadav",
+      "name": "Shrawan Yadav",
+      "num": "9534451156"
+    }
+  ]
+}
