@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:12:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6397813288",
+  "records": [
+    {
+      "aadhar": "KCD1593334",
+      "address": "!120!basai kaji anshik!mandir!sasani  mahamayanagar!Hathras!ALIGARH!Uttar Pradesh!204216",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Gokul Chandra",
+      "name": "Vinod Kumar",
+      "num": "6397813288"
+    },
+    {
+      "aadhar": "KCD1593334",
+      "address": "!120!basai kaji anshik!mandir!sasani  mahamayanagar!Hathras!ALIGARH!Uttar Pradesh!204216",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Gokul Chandra",
+      "name": "Vinod Kumar",
+      "num": "6397813288"
+    }
+  ]
+}
