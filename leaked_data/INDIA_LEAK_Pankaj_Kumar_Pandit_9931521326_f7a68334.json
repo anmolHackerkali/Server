@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:41:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931521326",
+  "records": [
+    {
+      "aadhar": "756713248238",
+      "address": "S/O Shambhu Pandit!anchal-parihar thana-bela Bhagaha!!!!Sitamarhi!Bihar!843324",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shambhu  Pandit",
+      "name": "Pankaj Kumar Pandit",
+      "num": "9931521326"
+    },
+    {
+      "aadhar": "756713248238",
+      "address": "S/O Shambhu Pandit!anchal-parihar thana-bela Bhagaha!!!!Sitamarhi!Bihar!843324",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shambhu  Pandit",
+      "name": "Pankaj Kumar Pandit",
+      "num": "9931521326"
+    }
+  ]
+}
