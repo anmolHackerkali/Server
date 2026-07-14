@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:32:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7678111519",
+  "records": [
+    {
+      "aadhar": "290780009300",
+      "address": "S/O Bhuwan Chandra!!!B-605 AVANTIKA SECTOR-1 ROHINI!Rohini North West Delhi!Delhi!110085",
+      "alt": "919896179518",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhuwan Chandra",
+      "name": "Sumit Kumar",
+      "num": "7678111519"
+    },
+    {
+      "aadhar": "290780009300",
+      "address": "S/O Bhuwan Chandra!!!B-605 AVANTIKA SECTOR-1 ROHINI!Rohini North West Delhi!Delhi!110085",
+      "alt": "919896179518",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhuwan Chandra",
+      "name": "Sumit Kumar",
+      "num": "7678111519"
+    },
+    {
+      "aadhar": "290780009300",
+      "address": "S/O Bhuwan Chandra!!!B-605 AVANTIKA SECTOR-1 ROHINI!Rohini North West Delhi!Delhi!110085",
+      "alt": "919896179518",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhuwan Chandra",
+      "name": "Sumit Kumar",
+      "num": "7678111519"
+    }
+  ]
+}
