@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:58:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8866222747",
+  "records": [
+    {
+      "aadhar": "506185490553",
+      "address": "G-301 sadguru sanidhya opp avakash park  society nikol  nikol  ahmadabad Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "mahendrabhai",
+      "name": "Hemanshi Mahendrabhai Sharma",
+      "num": "8866222747"
+    },
+    {
+      "aadhar": "506185490553",
+      "address": "G-301 sadguru sanidhya opp avakash park  society nikol  nikol  ahmadabad Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "mahendrabhai",
+      "name": "Hemanshi Mahendrabhai Sharma",
+      "num": "8866222747"
+    }
+  ]
+}
