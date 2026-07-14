@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:12:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7503226486",
+  "records": [
+    {
+      "aadhar": "405715498958",
+      "address": "Deen Dayal Verma!R C-321!  SHIV PARK KHODA COLONY City/District  Ghaziabad! !GHAZIABAD!UTTAR PRADESH!201309",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Deen Dayal Verma",
+      "name": "Pooja Verma",
+      "num": "7503226486"
+    },
+    {
+      "aadhar": "405715498958",
+      "address": "Deen Dayal Verma!R C-321!SHIV PARK KHODA COLONY City/District: Ghaziabad!!GHAZIABAD!UTTAR PRADESH!201309",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Deen Dayal Verma",
+      "name": "PoojaVerma",
+      "num": "7503226486"
+    },
+    {
+      "aadhar": "405715498958",
+      "address": "Deen Dayal Verma!R C-321!SHIV PARK KHODA COLONY City/District: Ghaziabad!!GHAZIABAD!UTTAR PRADESH!201309",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Deen Dayal Verma",
+      "name": "PoojaVerma",
+      "num": "7503226486"
+    }
+  ]
+}
