@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:47:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207343253",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baidyanath Khan!!ward no 01 Bangaon bhagwati sthan ke pass!Bangaon South!Bangaon Saharsa!Bihar!852212",
+      "alt": "917488528229",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baidyanath Khan",
+      "name": "Chandan Kumar",
+      "num": "6207343253"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baidyanath Khan!!ward no 01 Bangaon bhagwati sthan ke pass!Bangaon South!Bangaon Saharsa!Bihar!852212",
+      "alt": "917488528229",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baidyanath Khan",
+      "name": "Chandan Kumar",
+      "num": "6207343253"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baidyanath Khan!!ward no 01 Bangaon bhagwati sthan ke pass!Bangaon South!Bangaon Saharsa!Bihar!852212",
+      "alt": "917488528229",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baidyanath Khan",
+      "name": "Chandan Kumar",
+      "num": "6207343253"
+    },
+    {
+      "aadhar": "757928657800",
+      "address": "!Ward No 01!Bhagwati Sthan Ke Pass!Bangaon!Bangaon South!Saharsa!Saharsa!BIHAR!852212",
+      "alt": "6207343253",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAIDYANATH KHAN",
+      "name": "CHADAN KUMAR",
+      "num": "9473158669"
+    },
+    {
+      "aadhar": "757928657800",
+      "address": "!Ward No 01!Bhagwati Sthan Ke Pass!Bangaon!Bangaon South!Saharsa!Saharsa!BIHAR!852212",
+      "alt": "6207343253",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAIDYANATH KHAN",
+      "name": "CHADAN KUMAR",
+      "num": "9473158669"
+    },
+    {
+      "aadhar": "757928657800",
+      "address": "!Ward No 01!Bhagwati Sthan Ke Pass!Bangaon!Bangaon South!Saharsa!Saharsa!BIHAR!852212",
+      "alt": "6207343253",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAIDYANATH KHAN",
+      "name": "CHADAN KUMAR",
+      "num": "9473158669"
+    }
+  ]
+}
