@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:05:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9467610475",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Dharambir Singh!!H No-1042sector-15!Housing Board Colony!HisarHisar!Haryana!125001",
+      "alt": "+919416304474",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Dharambir Singh",
+      "name": "Anil Sharma",
+      "num": "9467610475"
+    },
+    {
+      "aadhar": "367378281832",
+      "address": "c/o  dharambir!1128!housing board colony near Soni hospital sec 15a Hisar!near soni hospital!sector - 15 a!hisar!hisar!Haryana!125001",
+      "alt": "9467610475",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Dharambir",
+      "name": "Anil Sharma",
+      "num": "9588567002"
+    },
+    {
+      "aadhar": "367378281832",
+      "address": "!1042!HOUSING BOARD COLONY!!SECTOR -15 HISAR!!HISAR!HARYANA!125001",
+      "alt": "9467610475",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "DHARAMBIR SINGH",
+      "name": "ANIL  SHARMA",
+      "num": "8950347200"
+    }
+  ]
+}
