@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:26:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7050035319",
+  "records": [
+    {
+      "aadhar": "514295914010",
+      "address": "!!GayaGosain Bagh!Gaya!!Gaya!Bihar!823001",
+      "alt": "7903474288",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Subhash Kumar",
+      "name": "Srishty Kumari",
+      "num": "7050035319"
+    },
+    {
+      "aadhar": "514295914010",
+      "address": "!!GayaGosain Bagh!Gaya!!Gaya!Bihar!823001",
+      "alt": "7903474288",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Subhash Kumar",
+      "name": "Srishty Kumari",
+      "num": "7050035319"
+    }
+  ]
+}
