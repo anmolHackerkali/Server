@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:44:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560822993",
+  "records": [
+    {
+      "aadhar": "Aahpy8490k",
+      "address": "20180 Roop Nagar New Delhi Near Roop Nagar No- Ii School Delhi  Delhi 110007! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Mky158@yahoo.com",
+      "fname": "Kailash Chander Yadav",
+      "name": "Manoj Kumar Yadav",
+      "num": "9560822993"
+    },
+    {
+      "aadhar": "Dl0119930202238",
+      "address": "!20180 Roop Nagar New Delhi Near Roop Nagar No Ii School Delhi  Delhi 110007!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kailash Chander Yadav",
+      "name": "Manoj Kumar Yadav",
+      "num": "9560822993"
+    },
+    {
+      "aadhar": "Aahpy8490k",
+      "address": "20180 Roop Nagar New Delhi Near Roop Nagar No Ii School Delhi  Delhi 110007! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Mky158@yahoo.com",
+      "fname": "Kailash Chander Yadav",
+      "name": "Manoj Kumar Yadav",
+      "num": "9560822993"
+    },
+    {
+      "aadhar": "Aahpy8490k",
+      "address": "20180 Roop Nagar New Delhi Near Roop Nagar No Ii School Delhi  Delhi 110007! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "Mky158@yahoo.com",
+      "fname": "Kailash Chander Yadav",
+      "name": "Manoj Kumar Yadav",
+      "num": "9560822993"
+    }
+  ]
+}
