@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:25:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9212067519",
+  "records": [
+    {
+      "aadhar": "361250429111",
+      "address": "S/O  Ram Kumar Parashar!S/O  Ram Kumar Parashar  190-!SECTOR17!Kheri Kalan  Faridabad !KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAK PARASHAR",
+      "num": "9212067519"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O: Ram Kumar Parashar!S/O: Ram Kumar Parashar 190-!SECTOR17!Kheri Kalan Faridabad!KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAKPARASHAR",
+      "num": "9212067519"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O: Ram Kumar Parashar!S/O: Ram Kumar Parashar 190-!SECTOR17!Kheri Kalan Faridabad!KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAKPARASHAR",
+      "num": "9212067519"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O  Ram Kumar Parashar!S/O  Ram Kumar Parashar  190-!SECTOR17!Kheri Kalan  Faridabad !KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": "9212067519",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAK PARASHAR",
+      "num": "9210584033"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O  Ram Kumar Parashar! 190-!Kheri Kalan!!SECTOR17!Kheri Kalan 113 Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Kumar Parashar",
+      "name": "Deepak Parashar",
+      "num": "8595683960"
+    },
+    {
+      "aadhar": "6074F2004",
+      "address": "! 190!sector 17!!faridabad!Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram kumar parashar",
+      "name": "deepak parashar",
+      "num": "7827626656"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O: Ram Kumar Parashar!S/O: Ram Kumar Parashar 190-!SECTOR17!Kheri Kalan Faridabad!KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": "9212067519",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAKPARASHAR",
+      "num": "9210584033"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O  Ram Kumar Parashar!190-!Kheri Kalan!!SECTOR17!Kheri Kalan 113Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Kumar Parashar",
+      "name": "Deepak Parashar",
+      "num": "8595683960"
+    },
+    {
+      "aadhar": "6074F2004",
+      "address": "!190!sector 17!!faridabad!Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram kumar parashar",
+      "name": "deepak parashar",
+      "num": "7827626656"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O: Ram Kumar Parashar!S/O: Ram Kumar Parashar 190-!SECTOR17!Kheri Kalan Faridabad!KHERI KALAN113-FARIDABAD!HR!121002",
+      "alt": "9212067519",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "RAM KUMAR Kumar PARASHAR",
+      "name": "DEEPAKPARASHAR",
+      "num": "9210584033"
+    },
+    {
+      "aadhar": "361250429111",
+      "address": "S/O  Ram Kumar Parashar!190-!Kheri Kalan!!SECTOR17!Kheri Kalan 113Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Kumar Parashar",
+      "name": "Deepak Parashar",
+      "num": "8595683960"
+    },
+    {
+      "aadhar": "6074F2004",
+      "address": "!190!sector 17!!faridabad!Faridabad!Faridabad!Haryana!121002",
+      "alt": "9212067519",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram kumar parashar",
+      "name": "deepak parashar",
+      "num": "7827626656"
+    }
+  ]
+}
