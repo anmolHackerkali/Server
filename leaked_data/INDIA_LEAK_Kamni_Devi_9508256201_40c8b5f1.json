@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:05:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508256201",
+  "records": [
+    {
+      "aadhar": "535553936790",
+      "address": "W/O  Dinesh Sah!!Narga!village-naranga utari ward no -05!ps -parihar dist -sitamarhi!Naranga Parihar!Sitamarhi!Bihar!843324",
+      "alt": "8428766569",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dinesh Sah",
+      "name": "Kamni Devi",
+      "num": "9508256201"
+    },
+    {
+      "aadhar": "535553936790",
+      "address": "W/O  Dinesh Sah!!Narga!village-naranga utari ward no.-05!ps.-parihar dist.-sitamarhi!Naranga Parihar!Sitamarhi!Bihar!843324",
+      "alt": "8428766569",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Dinesh Sah",
+      "name": "Kamni Devi",
+      "num": "9508256201"
+    },
+    {
+      "aadhar": "535553936790",
+      "address": "W/O  Dinesh Sah!!Narga!village-naranga utari ward no.-05!ps.-parihar dist.-sitamarhi!Naranga Parihar!Sitamarhi!Bihar!843324",
+      "alt": "8428766569",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Dinesh Sah",
+      "name": "Kamni Devi",
+      "num": "9508256201"
+    }
+  ]
+}
