@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:35:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9933920000",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " Hanuman Kata North Valley Ispat Udyog Complex Salugara SILIG Darjiling West Bengal 734008 ",
+      "alt": "9800079000",
+      "circle": "AIRTEL POSTPAID WB",
+      "email": null,
+      "fname": "Tanish Distributor",
+      "name": "      Tanish Distributor",
+      "num": "9933920000"
+    },
+    {
+      "aadhar": null,
+      "address": "H Q 202 MTN BDE C/O 99 APO Binnaguri Cantt Sirvice Id IC40680N Degg Commander Binnaguri WB 735203",
+      "alt": "339800290202",
+      "circle": "AIRTEL POSTPAID WB",
+      "email": null,
+      "fname": "BRIG P Nagesh Rao Indian Army",
+      "name": "BRIG P Nagesh Rao BRIG P Nagesh Rao Indian Army",
+      "num": "9933920000"
+    },
+    {
+      "aadhar": "9933919999",
+      "address": " Hanuman Kata North Valley Ispat Udyog Complex Salugara SILIG Darjiling West Bengal 734008 ",
+      "alt": "9800079000",
+      "circle": "AIRTEL POSTPAID WB",
+      "email": null,
+      "fname": "Tanish Distributor",
+      "name": "      Tanish Distributor",
+      "num": "9933920000"
+    },
+    {
+      "aadhar": "9933920000",
+      "address": "H Q \n202 MTN BDE C/O 99 APO Binnaguri Cantt Sirvice Id IC40680N Degg Commander Binnaguri WB 735203",
+      "alt": "339800290202",
+      "circle": "AIRTEL POSTPAID WB",
+      "email": null,
+      "fname": "BRIG P Nagesh Rao Indian Army",
+      "name": "BRIG P Nagesh Rao BRIG P Nagesh Rao Indian Army",
+      "num": "9933920000"
+    },
+    {
+      "aadhar": null,
+      "address": "!K 2 North View!Chayan Para !Sevoke Road Siliguri!Darjeeling DARJILING!West Bengal!734001",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Narasingha Hotta",
+      "name": "Sasikanta Hotta",
+      "num": "9933920000"
+    },
+    {
+      "aadhar": null,
+      "address": "!K 2 North View!Chayan Para !Sevoke Road Siliguri!Darjeeling DARJILING!West Bengal!734001",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Narasingha Hotta",
+      "name": "Sasikanta Hotta",
+      "num": "9933920000"
+    }
+  ]
+}
