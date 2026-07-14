@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:54:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8051561756",
+  "records": [
+    {
+      "aadhar": "596412666034",
+      "address": " S/O  Md Irfan!!12/6 TOPSIA 2ND LANE Tiljala!NA!!Tiljala Tiljala South 24 Parganas!NA!West Bengal!700039 ",
+      "alt": "6290856615",
+      "circle": "JIO KOL",
+      "email": "ms.imran1011@gmail.com",
+      "fname": "Md Irfan",
+      "name": "Md Zafar",
+      "num": "8051561756"
+    },
+    {
+      "aadhar": "596412666034",
+      "address": " S/O  Md Irfan!!12/6 TOPSIA 2ND LANE Tiljala!NA!!Tiljala Tiljala South 24 Parganas!NA!West Bengal!700039 ",
+      "alt": "6290856615",
+      "circle": "JIO KOL",
+      "email": "ms.imran1011@gmail.com",
+      "fname": "Md Irfan",
+      "name": "Md Zafar",
+      "num": "8051561756"
+    }
+  ]
+}
