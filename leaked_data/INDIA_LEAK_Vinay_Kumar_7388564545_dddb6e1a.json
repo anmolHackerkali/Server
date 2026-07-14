@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:52:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388564545",
+  "records": [
+    {
+      "aadhar": "762638699304",
+      "address": " !34!  Gram Mohamadpur Sabukpur Post Husainpur Girant City/District: Ambedkar Na! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Hans Raj",
+      "name": "Vinay Kumar",
+      "num": "7388564545"
+    },
+    {
+      "aadhar": "762638699304",
+      "address": " !34!  Gram Mohamadpur Sabukpur Post Husainpur Girant City/District: Ambedkar Na! !AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Hans Raj",
+      "name": "Vinay Kumar",
+      "num": "7388564545"
+    }
+  ]
+}
