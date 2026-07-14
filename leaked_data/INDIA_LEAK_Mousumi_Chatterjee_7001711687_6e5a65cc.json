@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 20:54:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7001711687",
+  "records": [
+    {
+      "aadhar": "402926928765",
+      "address": "W/O  Utpal Chatterjee!!Gouri Apartment 27/3  Baishnabghata Road Naktala!!Naktala Circus Avenue Kolkata!West Bengal!700047",
+      "alt": "919836811225",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Utpal Chatterjee",
+      "name": "Mousumi Chatterjee",
+      "num": "7001711687"
+    },
+    {
+      "aadhar": "402926928765",
+      "address": "W/O  Utpal Chatterjee!!Gouri Apartment 27/3  Baishnabghata Road Naktala!!Naktala Circus Avenue Kolkata!West Bengal!700047",
+      "alt": "919836811225",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Utpal Chatterjee",
+      "name": "Mousumi Chatterjee",
+      "num": "7001711687"
+    }
+  ]
+}
