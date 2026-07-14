@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:46:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9826287294",
+  "records": [
+    {
+      "aadhar": "UIR0054486",
+      "address": "HNO 78 C BAG UMRAV DULHA B SECTOR BHAG 1 BAGH UMRAO DULHA TEHSIL HUJUR DIST BHOPAL!  BHOPAL!!BHOPAL!Madhya Pradesh!462001",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "VAKILAAHMAD - -",
+      "name": "NAUSHAD AHAMAD - -",
+      "num": "9826287294"
+    },
+    {
+      "aadhar": null,
+      "address": "Vill-Jaurasi  Tehsil-Dabra  Dist-Gwalior Antri Gwalior Madhya Pradesh 475001",
+      "alt": "9826287294",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Netram  ",
+      "name": "Kiran  ",
+      "num": "9981245195 "
+    },
+    {
+      "aadhar": "644480060841",
+      "address": "S/O Ramcharan!S/O Ramcharan!Rora  Gird!. !RORA-GWALIOR!MP!475001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAMCHARAN ",
+      "name": "MOHAR SINGH BALMIK",
+      "num": "9926179013"
+    },
+    {
+      "aadhar": "722063533961",
+      "address": "S/O Ramzan Khan!S/O Ramzan Khan  house no 165!ranipura  naka chandravadni!Lashkar City  Gird !GIRD-GWALIOR!MP!474009",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAMZAN KHAN ",
+      "name": "EHASAN KHAN",
+      "num": "9826459557"
+    },
+    {
+      "aadhar": "669955775794",
+      "address": "S/O Chhote Lal!S/O Chhote Lal  221!naka chandrabadni  kali mata mandir ke pass!Lashkar City  Gird !GIRD-GWALIOR!MP!474009",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "CHHOTE LAL",
+      "name": "BAIJNATH BAGHEL",
+      "num": "9826293155"
+    },
+    {
+      "aadhar": "720668542397",
+      "address": "S/O Feran Singh Gurjar!S/O Feran Singh Gurjar!laliyapura!Lashkar  Gird !GIRD-GWALIOR!MP!474001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "FERAN SINGH Singh GURJAR",
+      "name": "BHOLA SINGH GURJAR",
+      "num": "9826288013"
+    },
+    {
+      "aadhar": "200193448952",
+      "address": "S/O Chote Singh!S/O Chote Singh!gram rawar!Rora  Gird !RAWAR-GWALIOR!MP!475001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "CHOTE SINGH",
+      "name": "BEJNATH ",
+      "num": "9753971479"
+    },
+    {
+      "aadhar": "841947852554",
+      "address": "D/O Dinesh Kumar Mittal!D/O Dinesh Kumar Mittal  Flat No 204 Wincon Plaza!Shinde ki Chhawani  Lashkar!Lashkar  Gird !GIRD-GWALIOR!MP!474001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "DO DINESH KUMAR Dinesh Kumar MITTAL",
+      "name": "SUDHA MITTAL",
+      "num": "9753500991"
+    },
+    {
+      "aadhar": "841947852554",
+      "address": "D/O Dinesh Kumar Mittal!D/O Dinesh Kumar Mittal  Flat No 204 Wincon Plaza!Shinde ki Chhawani  Lashkar!Lashkar  Gird !GIRD-GWALIOR!MP!474001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "DO DINESH KUMAR Dinesh Kumar MITTAL",
+      "name": "SUDHA MITTAL",
+      "num": "9644134267"
+    },
+    {
+      "aadhar": null,
+      "address": "310 radha rani coloni indore Indore Indore Madhya Pradesh 452001",
+      "alt": "9826287294",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Dayaram  Kushwah",
+      "name": "Gangasingh  Kushwah",
+      "num": "9575510748 "
+    },
+    {
+      "aadhar": "276895983121",
+      "address": "S/O Gangaram Chauhan!S/O Gangaram Chauhan!sindhiya ji ki chatri ke piche offo ki bagiya!Lashkar City  Gird !GIRD-GWALIOR!MP!474009",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "GANGARAM CHAUHAN",
+      "name": "DHARMENDRA CHAUHAN",
+      "num": "9575052289"
+    },
+    {
+      "aadhar": "602999992416",
+      "address": "S/O Kundan Singh!S/O Kundan Singh  ward 57!affo ki bagiya!Lashkar City  Gird !GIRD-GWALIOR!MP!474009",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "KUNDAN SINGH",
+      "name": "BAHADUR ",
+      "num": "9329624267"
+    },
+    {
+      "aadhar": "640787621429",
+      "address": "S/O Pancham Das!S/O Pancham Das!graam barbuspur  post bichhiya!Bichhia  Shahpura !BICHHIYA-DINDORI!MP!481885",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "PANCHAM DAS ",
+      "name": "VINOD KUMAR BAIRAGI",
+      "num": "9171169254"
+    },
+    {
+      "aadhar": "532635832706",
+      "address": "S/O Rajaram Parihar!S/O Rajaram Parihar!scindia nagar vivekanand nidam!Lashkar City  Gird !GIRD-GWALIOR!MP!474009",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAJARAM PARIHAR ",
+      "name": "DHEER SINGH PARIHAR",
+      "num": "9171169057"
+    },
+    {
+      "aadhar": "358339402437",
+      "address": "S/O Kishori Lal!S/O Kishori Lal!SINDHIYA NAGAR!Lashkar !GIRD-GWALIOR!MP!474001",
+      "alt": "9826287294",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "KISHORI LAL ",
+      "name": "BAL MUKUND JATAV",
+      "num": "8966978464"
+    }
+  ]
+}
