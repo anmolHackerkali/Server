@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:24:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6201599907",
+  "records": [
+    {
+      "aadhar": "860042711945",
+      "address": "W/O Vikash Kumar!!House No B-68 C/O S N Verma Baily Road BV College!KhajpuraAshok PuriPatna!Phulwari Patna!Bihar!800014",
+      "alt": "918986185078",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vikash Kumar",
+      "name": "Neeta Kumari",
+      "num": "6201599907"
+    },
+    {
+      "aadhar": "860042711945",
+      "address": "W/O Vikash Kumar!!House No B-68 C/O S N Verma Baily Road BV College!KhajpuraAshok PuriPatna!Phulwari Patna!Bihar!800014",
+      "alt": "918986185078",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vikash Kumar",
+      "name": "Neeta Kumari",
+      "num": "6201599907"
+    },
+    {
+      "aadhar": "860042711945",
+      "address": "W/O Vikash Kumar!!House No B-68 C/O S N Verma Baily Road BV College!KhajpuraAshok PuriPatna!Phulwari Patna!Bihar!800014",
+      "alt": "918986185078",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vikash Kumar",
+      "name": "Neeta Kumari",
+      "num": "6201599907"
+    },
+    {
+      "aadhar": "860042711945",
+      "address": "c/o vikash kumar! flat no - 103 nirmala kunj apartment!ambedkar path bailey road!ambedkar path bailey road patna!khajpura bailey road b v college!b.v. college!patna!Bihar!800014",
+      "alt": "6201599907",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vikash Kumar",
+      "name": "Neeta Kumari",
+      "num": "8210805610"
+    },
+    {
+      "aadhar": "860042711945",
+      "address": "c/o vikash kumar! flat no - 103 nirmala kunj apartment!ambedkar path bailey road!ambedkar path bailey road patna!khajpura bailey road b v college!b.v. college!patna!Bihar!800014",
+      "alt": "6201599907",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vikash Kumar",
+      "name": "Neeta Kumari",
+      "num": "8210805610"
+    }
+  ]
+}
