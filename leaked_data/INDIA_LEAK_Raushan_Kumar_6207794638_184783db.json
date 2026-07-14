@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:51:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207794638",
+  "records": [
+    {
+      "aadhar": "769628949612",
+      "address": "! ward no 6!mundka village!!mundka!New Delhi West!West!Delhi!110041",
+      "alt": "6207794638",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nathuni ray",
+      "name": "Raushan Kumar",
+      "num": "7703900874"
+    },
+    {
+      "aadhar": "769628949612",
+      "address": "!ward no 6!mundka village!!mundka!New Delhi West!West!Delhi!110041",
+      "alt": "6207794638",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nathuni ray",
+      "name": "Raushan Kumar",
+      "num": "7703900874"
+    },
+    {
+      "aadhar": "769628949612",
+      "address": "!ward no 6!mundka village!!mundka!New Delhi West!West!Delhi!110041",
+      "alt": "6207794638",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nathuni ray",
+      "name": "Raushan Kumar",
+      "num": "7703900874"
+    }
+  ]
+}
