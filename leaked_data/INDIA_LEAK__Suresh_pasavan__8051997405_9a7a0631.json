@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:41:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8051997405",
+  "records": [
+    {
+      "aadhar": "SVI2703585",
+      "address": " Anchal Jhanjharpur!Naruaar!Madhubani!Madhubani!Darbhanga!Darbhanga!Bihar!847407 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bamabholi pasavan ",
+      "name": " Suresh pasavan ",
+      "num": "8051997405"
+    },
+    {
+      "aadhar": "SVI2703585",
+      "address": " Anchal Jhanjharpur!Naruaar!Madhubani!Madhubani!Darbhanga!Darbhanga!Bihar!847407 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bamabholi pasavan ",
+      "name": " Suresh pasavan ",
+      "num": "8051997405"
+    },
+    {
+      "aadhar": "845921741424",
+      "address": "!naruar!narua!narua!madhubani!madhubani!Darbhanga!BIHAR!847407",
+      "alt": "8051997405",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAMBHOLI PASWAN",
+      "name": "SURESHPASWAN",
+      "num": "7488628296"
+    },
+    {
+      "aadhar": "XXXXXXXX1424",
+      "address": " naruar narua  narua madhubani madhubani  Darbhanga BIHAR 847407 ",
+      "alt": "8051997405",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " BAMBHOLI PASWAN ",
+      "name": " SURESH  PASWAN ",
+      "num": "7488628296"
+    },
+    {
+      "aadhar": "845921741424",
+      "address": "!naruar!narua!narua!madhubani!madhubani!Darbhanga!BIHAR!847407",
+      "alt": "8051997405",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAMBHOLI PASWAN",
+      "name": "SURESHPASWAN",
+      "num": "7488628296"
+    },
+    {
+      "aadhar": "XXXXXXXX1424",
+      "address": " naruar narua  narua madhubani madhubani  Darbhanga BIHAR 847407 ",
+      "alt": "8051997405",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " BAMBHOLI PASWAN ",
+      "name": " SURESH  PASWAN ",
+      "num": "7488628296"
+    },
+    {
+      "aadhar": "845921741424",
+      "address": "!naruar!narua!narua!madhubani!madhubani!Darbhanga!BIHAR!847407",
+      "alt": "8051997405",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "BAMBHOLI PASWAN",
+      "name": "SURESHPASWAN",
+      "num": "7488628296"
+    }
+  ]
+}
