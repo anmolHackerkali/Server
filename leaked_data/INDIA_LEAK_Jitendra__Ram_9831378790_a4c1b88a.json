@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:58:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9831378790",
+  "records": [
+    {
+      "aadhar": "832778680202",
+      "address": "47 south tangra road bander more kolkata 24 pgs   Kolkata West Bengal 700046",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Yogendra  Ram",
+      "name": "Jitendra  Ram",
+      "num": "9831378790"
+    },
+    {
+      "aadhar": "832778680202",
+      "address": "! !47 south tangra road kolkata bander more 24 pgs West Bengal! !Kolkata! !700046",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "Yogendra  Ram",
+      "name": "Jitendra  Ram",
+      "num": "9831378790"
+    },
+    {
+      "aadhar": "832778680202",
+      "address": "! !47 south tangra road kolkata bander more 24 pgs West Bengal! !Kolkata! !700046",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": null,
+      "fname": "Yogendra  Ram",
+      "name": "Jitendra  Ram",
+      "num": "9831378790"
+    }
+  ]
+}
