@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:06:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200279521",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Satyendra Kumar!!!Snehi tola!Naubatpur Patna!Bihar!801109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "6200279521"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Satyendra Kumar!!!Snehi tola!Naubatpur Patna!Bihar!801109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "6200279521"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Satyendra Kumar!!!Snehi tola!Naubatpur Patna!Bihar!801109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "6200279521"
+    },
+    {
+      "aadhar": "964654513050",
+      "address": "S/O Satyendra Kumar! NAGWAN!- Naubatpur!NAGWAN!!Nagwan Khas Naubatpur!Patna!Bihar!801109",
+      "alt": "6200279521",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "7488980966"
+    },
+    {
+      "aadhar": "XXXXXXXX3050",
+      "address": " NAGWAN  - Naubatpur  Nagwan Khas  Patna BIHAR 801109 ",
+      "alt": "6200279521",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " SATYENDRA KUMAR ",
+      "name": " RAJEEV RANJAN  ... ",
+      "num": "9431612457"
+    },
+    {
+      "aadhar": "964654513050",
+      "address": "S/O Satyendra Kumar! NAGWAN!- Naubatpur!NAGWAN!!Nagwan Khas Naubatpur!Patna!Bihar!801109",
+      "alt": "6200279521",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "7488980966"
+    },
+    {
+      "aadhar": "XXXXXXXX3050",
+      "address": " NAGWAN  - Naubatpur  Nagwan Khas  Patna BIHAR 801109 ",
+      "alt": "6200279521",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " SATYENDRA KUMAR ",
+      "name": " RAJEEV RANJAN  ... ",
+      "num": "9431612457"
+    },
+    {
+      "aadhar": "964654513050",
+      "address": "S/O Satyendra Kumar! NAGWAN!- Naubatpur!NAGWAN!!Nagwan Khas Naubatpur!Patna!Bihar!801109",
+      "alt": "6200279521",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Satyendra Kumar",
+      "name": "Rajeev Ranjan",
+      "num": "7488980966"
+    }
+  ]
+}
