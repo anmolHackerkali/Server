@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:44:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6205036354",
+  "records": [
+    {
+      "aadhar": "911414763562",
+      "address": "W/O  Ibrar Ahamed Siddique!!afaqe siddiq road Araria!ward no 27!near makki masjid!Araria Forbesganj!Araria!Bihar!854311",
+      "alt": "9934855949",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ibrar Ahamed Siddique",
+      "name": "Marjan Kausar",
+      "num": "6205036354"
+    },
+    {
+      "aadhar": "911414763562",
+      "address": "W/O  Ibrar Ahamed Siddique!!afaqe siddiq road Araria!ward no 27!near makki masjid!Araria Forbesganj!Araria!Bihar!854311",
+      "alt": "9934855949",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ibrar Ahamed Siddique",
+      "name": "Marjan Kausar",
+      "num": "6205036354"
+    },
+    {
+      "aadhar": "911414763562",
+      "address": "W/O  Ibrar Ahamed Siddique!!afaqe siddiq road Araria!ward no 27!near makki masjid!Araria Forbesganj!Araria!Bihar!854311",
+      "alt": "9934855949",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ibrar Ahamed Siddique",
+      "name": "Marjan Kausar",
+      "num": "6205036354"
+    }
+  ]
+}
