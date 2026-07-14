@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:57:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9546573048",
+  "records": [
+    {
+      "aadhar": "748181155250",
+      "address": "s/o  md aslam!Terhagachh!jhunki mushara!!terhagachh tehragachh!jhunki musahara!kishanganj!Bihar!855101",
+      "alt": "8290830175",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md aslam",
+      "name": "Md Farhan Rahi",
+      "num": "9546573048"
+    },
+    {
+      "aadhar": "748181155250",
+      "address": "s/o  md.aslam!Terhagachh!jhunki mushara!!terhagachh tehragachh!jhunki musahara!kishanganj!Bihar!855101",
+      "alt": "8290830175",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "md aslam",
+      "name": "Md Farhan Rahi",
+      "num": "9546573048"
+    },
+    {
+      "aadhar": "748181155250",
+      "address": "s/o  md.aslam!Terhagachh!jhunki mushara!!terhagachh tehragachh!jhunki musahara!kishanganj!Bihar!855101",
+      "alt": "8290830175",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "md aslam",
+      "name": "Md Farhan Rahi",
+      "num": "9546573048"
+    }
+  ]
+}
