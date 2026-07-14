@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:28:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9289464363",
+  "records": [
+    {
+      "aadhar": "999130825657",
+      "address": "S/O  R L Ahuja!S/O  R L Ahuja  3 C/188!N I T NO 3!Faridabad Nit  Faridabad !FARIDABAD-FARIDABAD!HR!121001",
+      "alt": "9212018157",
+      "circle": "VI DELHI",
+      "email": "mohilahuja@gmail.com",
+      "fname": "RL AHUJA",
+      "name": "SUNIL AHUJA",
+      "num": "9289464363"
+    },
+    {
+      "aadhar": "999130825657",
+      "address": "S/O: RL Ahuja!S/O: RL Ahuja 3 C/188!N I T NO 3!Faridabad Nit Faridabad!FARIDABAD-FARIDABAD!HR!121001",
+      "alt": "9212018157",
+      "circle": "VI DELHI",
+      "email": "mohilahuja@gmail.com",
+      "fname": "RL AHUJA",
+      "name": "SUNILAHUJA",
+      "num": "9289464363"
+    },
+    {
+      "aadhar": "999130825657",
+      "address": "S/O: RL Ahuja!S/O: RL Ahuja 3 C/188!N I T NO 3!Faridabad Nit Faridabad!FARIDABAD-FARIDABAD!HR!121001",
+      "alt": "9212018157",
+      "circle": "VI DELHI",
+      "email": "mohilahuja@gmail.com",
+      "fname": "RL AHUJA",
+      "name": "SUNILAHUJA",
+      "num": "9289464363"
+    }
+  ]
+}
