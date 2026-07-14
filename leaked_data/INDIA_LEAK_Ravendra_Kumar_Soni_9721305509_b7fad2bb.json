@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:39:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721305509",
+  "records": [
+    {
+      "aadhar": "779477753592",
+      "address": "s/o  bhagirathi soni!house number - 211!Sirathu!!chak nara sirathu!sirathu Sirathu!kaushambi!Uttar Pradesh!212217",
+      "alt": "8787255220",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "bhagirathi soni",
+      "name": "Ravendra Kumar Soni",
+      "num": "9721305509"
+    },
+    {
+      "aadhar": "779477753592",
+      "address": "s/o  bhagirathi soni!house number - 211!Sirathu!!chak nara sirathu!sirathu Sirathu!kaushambi!Uttar Pradesh!212217",
+      "alt": "8787255220",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "bhagirathi soni",
+      "name": "Ravendra Kumar Soni",
+      "num": "9721305509"
+    }
+  ]
+}
