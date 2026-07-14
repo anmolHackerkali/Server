@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:42:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939281615",
+  "records": [
+    {
+      "aadhar": "252991325443",
+      "address": "s/o  alam ansari! ward no - 11!Puraina Gosain!School!Bankat Puraina!puraina gosain!west champaran!Bihar!845449",
+      "alt": "9708275674",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "alam ansari",
+      "name": "Rizwan Ansari",
+      "num": "9939281615"
+    },
+    {
+      "aadhar": "252991325443",
+      "address": "s/o  alam ansari! ward no - 11!Puraina Gosain!School!Bankat Puraina!puraina gosain!west champaran!Bihar!845449",
+      "alt": "9708275674",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "alam ansari",
+      "name": "Rizwan Ansari",
+      "num": "9939281615"
+    }
+  ]
+}
