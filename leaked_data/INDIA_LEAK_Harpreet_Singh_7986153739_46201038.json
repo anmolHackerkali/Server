@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:55:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7986153739",
+  "records": [
+    {
+      "aadhar": "812310257196",
+      "address": "S/O Jagwant Singh!!Patti Zaildara Di VerkaVerka!Verka!Amritsar IIAmritsar IiAmritsar!Punjab!143501",
+      "alt": null,
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Jagwant Singh",
+      "name": "Harpreet Singh",
+      "num": "7986153739"
+    }
+  ]
+}
