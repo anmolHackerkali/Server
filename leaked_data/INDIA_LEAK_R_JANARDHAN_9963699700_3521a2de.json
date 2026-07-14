@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:28:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9963699700",
+  "records": [
+    {
+      "aadhar": "AGDPR4692L",
+      "address": "PLOT NO 12 Chandra homes!chakripuram  kushaiguda!opp teachers colony!kapra ranga reddy  hyderabad!Kushaiguda!Hyderabad!Telangana!500062",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "LAXMIPATHI RACHAKONDA",
+      "name": "R JANARDHAN",
+      "num": "9963699700"
+    }
+  ]
+}
