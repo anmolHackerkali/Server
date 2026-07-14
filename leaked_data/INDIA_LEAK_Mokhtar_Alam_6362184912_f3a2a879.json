@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:03:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6362184912",
+  "records": [
+    {
+      "aadhar": "908596472022",
+      "address": "!flat12/14!akash vihar!!marathahalli!Bangalore East!Bangalore!Karnataka!560037",
+      "alt": "7619218126",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Rabedin Ansari",
+      "name": "Mokhtar Alam",
+      "num": "6362184912"
+    }
+  ]
+}
