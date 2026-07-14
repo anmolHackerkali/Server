@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:32:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7302655031",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!09!Salempur Bahdrabad! Uk!Haridwar Haridwar!Uttarakhand!249402",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Vijendra Singh",
+      "name": "Gajendra Singh",
+      "num": "7302655031"
+    },
+    {
+      "aadhar": null,
+      "address": "!09!Salempur Bahdrabad! Uk!Haridwar Haridwar!Uttarakhand!249402",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Vijendra Singh",
+      "name": "Gajendra Singh",
+      "num": "7302655031"
+    }
+  ]
+}
