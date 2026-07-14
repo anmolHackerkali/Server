@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:44:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939068074",
+  "records": [
+    {
+      "aadhar": "917024400929",
+      "address": "S/O Ramanuj Singh!Aranda Aranda!!!!Aurangabad Aranda Obra!Bihar!824113",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramanuj  Singh",
+      "name": "Niraj  Kumar",
+      "num": "9939068074"
+    },
+    {
+      "aadhar": "917024400929",
+      "address": "S/O Ramanuj Singh!Aranda Aranda!!!!Aurangabad Aranda Obra!Bihar!824113",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramanuj  Singh",
+      "name": "Niraj  Kumar",
+      "num": "9939068074"
+    }
+  ]
+}
