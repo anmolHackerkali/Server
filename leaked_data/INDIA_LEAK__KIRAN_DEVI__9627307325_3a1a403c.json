@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:03:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9627307325",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " W/O Ranpat Singh!!!mirzapur khadar!post - SABDALPUR REHRA!Akbarpur!Bijnor!Uttar Pradesh!246725 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ranpat Singh ",
+      "name": " KIRAN DEVI ",
+      "num": "9627307325"
+    },
+    {
+      "aadhar": null,
+      "address": " W/O Ranpat Singh!!!mirzapur khadar!post - SABDALPUR REHRA!Akbarpur!Bijnor!Uttar Pradesh!246725 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ranpat Singh ",
+      "name": " KIRAN DEVI ",
+      "num": "9627307325"
+    },
+    {
+      "aadhar": "998326585245",
+      "address": "!01!01 vill ajjunangli post babarpur!!Bijnor ajjunagli bijnor uttar pradesh!Bijnor!Bijnor!Uttar Pradesh!246725",
+      "alt": "9627307325",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Zakir Hussain",
+      "name": "Mohd Asad",
+      "num": "8171978477"
+    },
+    {
+      "aadhar": "212011103346",
+      "address": "S/O Haseennuddeen!SAIDPUR NAIPURA!POST-SABDALPUR REHRA!!Mundhal!Bijnor!Bijnor!Uttar Pradesh!246725",
+      "alt": "9627307325",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Haseennuddeen",
+      "name": "KASIM",
+      "num": "7500780870"
+    },
+    {
+      "aadhar": "998326585245",
+      "address": "!01!01 vill ajjunangli post babarpur!!Bijnor ajjunagli bijnor uttar pradesh!Bijnor!Bijnor!Uttar Pradesh!246725",
+      "alt": "9627307325",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Zakir Hussain",
+      "name": "Mohd Asad",
+      "num": "8171978477"
+    },
+    {
+      "aadhar": "212011103346",
+      "address": "S/O Haseennuddeen!SAIDPUR NAIPURA!POST-SABDALPUR REHRA!!Mundhal!Bijnor!Bijnor!Uttar Pradesh!246725",
+      "alt": "9627307325",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Haseennuddeen",
+      "name": "KASIM",
+      "num": "7500780870"
+    }
+  ]
+}
