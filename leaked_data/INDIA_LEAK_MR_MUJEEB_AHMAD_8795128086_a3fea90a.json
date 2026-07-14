@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:42:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795128086",
+  "records": [
+    {
+      "aadhar": "414601233606",
+      "address": "0",
+      "alt": "9838381541",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MR. MUJEEB AHMAD",
+      "num": "8795128086"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "S/O Said Ahmad!GARA0 BHIKHIPUR!PO RAJA FATTEPUR PO RAJA FATTEPUR!!tiloi tiloi!AMETHI!UTTAR PRADESH!229309",
+      "alt": "9838381541",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MR MUJEEB AHMAD",
+      "num": "8795128086"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "S/O Said Ahmad!GARA0 BHIKHIPUR!PO RAJA FATTEPUR PO RAJA FATTEPUR!!tiloi tiloi!AMETHI!UTTAR PRADESH!229309",
+      "alt": "9838381541",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MR MUJEEB AHMAD",
+      "num": "8795128086"
+    }
+  ]
+}
