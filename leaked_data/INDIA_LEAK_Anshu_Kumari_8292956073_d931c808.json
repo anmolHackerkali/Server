@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:33:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8292956073",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Dewendra Pathak!!!Mahabalipur!!Mohbalipur!Patna!Bihar!801110",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dewendra Pathak",
+      "name": "Anshu Kumari",
+      "num": "8292956073"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Dewendra Pathak!!!Mahabalipur!!Mohbalipur!Patna!Bihar!801110",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dewendra Pathak",
+      "name": "Anshu Kumari",
+      "num": "8292956073"
+    }
+  ]
+}
