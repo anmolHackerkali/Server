@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:39:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9980024979",
+  "records": [
+    {
+      "aadhar": "901600871269",
+      "address": "!Flat 123!Dsmax Solitaire Banjara Layout Horamavu!Horamavu Horamavu!Near Horamavu Agara Lake Horamavu!Bangalore!BENGALURU!Karnataka!560043",
+      "alt": "7798231457",
+      "circle": "AIRTEL KARNATKA",
+      "email": "ravipratap8@yahoo.co.in",
+      "fname": "Sangita Gupta",
+      "name": "Ravi Pratap Gupta",
+      "num": "9980024979"
+    },
+    {
+      "aadhar": "UP5320000002726",
+      "address": "!Flat No 123!DSMAX SOLITAIRE!agara lakebangalore north bangalore!Banjara Layout horamavu near horamavu!Bangalore!BENGALURU!Karnataka!560043",
+      "alt": "9980024979",
+      "circle": "AIRTEL KARNATKA",
+      "email": "ravi14feb@gmail.com",
+      "fname": "O P Gupta",
+      "name": "R Ravi Pratap Gupta",
+      "num": "7798231457"
+    }
+  ]
+}
