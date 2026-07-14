@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:22:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9877369711",
+  "records": [
+    {
+      "aadhar": "401430729391",
+      "address": "S/O Barkat Ram!!shanti nagar!ferozepur city!FerozepurRuralFerozepur!Punjab!152002",
+      "alt": "+919023094149",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Barkat Ram",
+      "name": "Judge Kumar",
+      "num": "9877369711"
+    }
+  ]
+}
