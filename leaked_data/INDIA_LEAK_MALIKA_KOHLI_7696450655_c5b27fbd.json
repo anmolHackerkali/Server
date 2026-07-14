@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:49:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7696450655",
+  "records": [
+    {
+      "aadhar": "PBA4710091",
+      "address": "NA!3106!SECTOR 22D!SCHOOL!CHANDIGARH!CHANDIGARH!CHANDIGHAR!CHANDIGARH!160022",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "ROHIT KOHLI",
+      "name": "MALIKA KOHLI",
+      "num": "7696450655"
+    },
+    {
+      "aadhar": "PBA4710091",
+      "address": "NA!3106!SECTOR 22D!SCHOOL!CHANDIGARH!CHANDIGARH!CHANDIGHAR!CHANDIGARH!160022",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "ROHIT KOHLI",
+      "name": "MALIKA KOHLI",
+      "num": "7696450655"
+    }
+  ]
+}
