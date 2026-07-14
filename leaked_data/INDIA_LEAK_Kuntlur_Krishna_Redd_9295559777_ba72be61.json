@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:46:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9295559777",
+  "records": [
+    {
+      "aadhar": "222759568591",
+      "address": "7-A16!PANCHAVATI!MANIKONDA  rajendra nagar!!rangareddi!K v Rangareddy!Telangana!500089",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Kuntlur Bal Reddy",
+      "name": "Kuntlur Krishna Reddy",
+      "num": "9295559777"
+    }
+  ]
+}
