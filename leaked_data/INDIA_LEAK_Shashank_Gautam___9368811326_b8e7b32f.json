@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:50:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368811326",
+  "records": [
+    {
+      "aadhar": "375816822174",
+      "address": "S/O Hirdyesh Gautam!!!!43/120/l-4 kailash road sikandar!agra!Agra!Uttar Pradesh!282007",
+      "alt": "9528130714",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Hirdyesh Gautam",
+      "name": "Shashank Gautam  ",
+      "num": "9368811326"
+    },
+    {
+      "aadhar": "375816822174",
+      "address": "S/O Hirdyesh Gautam!!!!43/120/l-4 kailash road sikandar!agra!Agra!Uttar Pradesh!282007",
+      "alt": "9528130714",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Hirdyesh Gautam",
+      "name": "Shashank Gautam",
+      "num": "9368811326"
+    },
+    {
+      "aadhar": "375816822174",
+      "address": "S/O Hirdyesh Gautam!!!!43/120/l-4 kailash road sikandar!agra!Agra!Uttar Pradesh!282007",
+      "alt": "9528130714",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Hirdyesh Gautam",
+      "name": "Shashank Gautam",
+      "num": "9368811326"
+    },
+    {
+      "aadhar": "967455364534",
+      "address": "!!00sambhaltatarpur sandal esapur sunwari Sambhal!NA!Sambhal!MoradabadMoradabad!NA!Uttar Pradesh!244302",
+      "alt": "9368811326",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "bhuvnesh Kumar Sharma",
+      "name": "shubham sharma",
+      "num": "7055192206"
+    },
+    {
+      "aadhar": "967455364534",
+      "address": "!!00 sambhal tatarpur sandal esapur sunwari Sambhal!NA!Sambhal!Moradabad Moradabad!NA!Uttar Pradesh!244302",
+      "alt": "9368811326",
+      "circle": "JIO UPE UPW",
+      "email": "Shubhamkumar180597@gmail.com",
+      "fname": "bhuvnesh Kumar Sharma",
+      "name": "shubham sharma",
+      "num": "7055192206"
+    },
+    {
+      "aadhar": "967455364534",
+      "address": "!!00 sambhal tatarpur sandal esapur sunwari Sambhal!NA!Sambhal!Moradabad Moradabad!NA!Uttar Pradesh!244302",
+      "alt": "9368811326",
+      "circle": "JIO UPE UPW",
+      "email": "Shubhamkumar180597@gmail.com",
+      "fname": "bhuvnesh Kumar Sharma",
+      "name": "shubham sharma",
+      "num": "7055192206"
+    }
+  ]
+}
