@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:30:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9235744110",
+  "records": [
+    {
+      "aadhar": "472776257526",
+      "address": "W/O Vinod Kumar!House Number 4/7!RATAPUR ROADNear School!Near School!FIROJ GANDHI POLITECNIC CAMPUS Rae Bare!RAEBARELI!UTTAR PRADESH!229316",
+      "alt": "9235744110",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Vinod kumar",
+      "name": "MS. PINKI .",
+      "num": "9554567357"
+    },
+    {
+      "aadhar": "472776257526",
+      "address": "W/O Vinod Kumar!House Number 4/7!RATAPUR ROAD Near School!Near School!FIROJ GANDHI POLITECNIC CAMPUS  Rae Bare!RAEBARELI!UTTAR PRADESH!229316",
+      "alt": "9235744110",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vinod kumar",
+      "name": "MS PINKI ",
+      "num": "9554567357"
+    },
+    {
+      "aadhar": "472776257526",
+      "address": "W/O Vinod Kumar!House Number 4/7!RATAPUR ROAD Near School!Near School!FIROJ GANDHI POLITECNIC CAMPUS  Rae Bare!RAEBARELI!UTTAR PRADESH!229316",
+      "alt": "9235744110",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vinod kumar",
+      "name": "MS PINKI ",
+      "num": "9554567357"
+    }
+  ]
+}
