@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:10:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931224580",
+  "records": [
+    {
+      "aadhar": "277056878755",
+      "address": "S/O Ram Kritarth Singh!Chanda house!Rajendra nagar ara!Arrah!!Bhojpur!Bihar!802301",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Kritarth Singh",
+      "name": "Satyendra  Singh",
+      "num": "9931224580"
+    },
+    {
+      "aadhar": "277056878755",
+      "address": "S/O Ram Kritarth Singh!Chanda house!Rajendra nagar ara!Arrah!!Bhojpur!Bihar!802301",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Kritarth Singh",
+      "name": "Satyendra  Singh",
+      "num": "9931224580"
+    },
+    {
+      "aadhar": "982940232710",
+      "address": "w/o satyendra singh!chanda house!Rajendra Nagar Arrah!!rajendra nagar arrah!arrah!bhojpur!Bihar!802301",
+      "alt": "9931224580",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "satyendra singh",
+      "name": "Lilawati Devi",
+      "num": "9123492457"
+    },
+    {
+      "aadhar": "982940232710",
+      "address": "w/o satyendra singh!chanda house!Rajendra Nagar Arrah!!rajendra nagar arrah!arrah!bhojpur!Bihar!802301",
+      "alt": "9931224580",
+      "circle": "JIO BHR&JHR",
+      "email": "LILAWATI1976@GMAIL.COM",
+      "fname": "satyendra singh",
+      "name": "Lilawati Devi",
+      "num": "9123492457"
+    },
+    {
+      "aadhar": "982940232710",
+      "address": "w/o satyendra singh!chanda house!Rajendra Nagar Arrah!!rajendra nagar arrah!arrah!bhojpur!Bihar!802301",
+      "alt": "9931224580",
+      "circle": "JIO BHR&JHR",
+      "email": "LILAWATI1976@GMAIL.COM",
+      "fname": "satyendra singh",
+      "name": "Lilawati Devi",
+      "num": "9123492457"
+    }
+  ]
+}
