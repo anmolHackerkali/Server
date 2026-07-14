@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:55:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792837299",
+  "records": [
+    {
+      "aadhar": "720012326994",
+      "address": " !!Laglesra!!Laglaisra-Hasanganj-!Uttar Pradesh!241503",
+      "alt": "9792837299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Bhajan",
+      "name": "Mithlesh Kumar",
+      "num": "9792837299"
+    },
+    {
+      "aadhar": "720012326994",
+      "address": " !!Laglesra!!Laglaisra-Hasanganj-!Uttar Pradesh!241503",
+      "alt": "9792837299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Bhajan",
+      "name": "Mithlesh Kumar",
+      "num": "9792837299"
+    },
+    {
+      "aadhar": "720012326994",
+      "address": " !!Laglesra!!Laglaisra-Hasanganj-!Uttar Pradesh!241503",
+      "alt": "9792837299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Bhajan",
+      "name": "Mithlesh Kumar",
+      "num": "9792837299"
+    },
+    {
+      "aadhar": "720012326994",
+      "address": " !!Laglesra!!Laglaisra-Hasanganj-!Uttar Pradesh!241503",
+      "alt": "9792837299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Bhajan",
+      "name": "Mithlesh Kumar",
+      "num": "9792837299"
+    }
+  ]
+}
