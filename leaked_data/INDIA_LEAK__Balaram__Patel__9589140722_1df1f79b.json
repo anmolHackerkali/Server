@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:37:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9589140722",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "   kopara Kopra Gariyaband Chhattisgarh 493887 ",
+      "alt": null,
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Khorbahra  Patel ",
+      "name": " Balaram  Patel ",
+      "num": "9589140722"
+    }
+  ]
+}
