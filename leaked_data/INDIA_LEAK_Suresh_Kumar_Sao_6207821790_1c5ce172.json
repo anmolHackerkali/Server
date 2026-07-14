@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:44:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207821790",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Sohan Saw!!GHANOODIH COLIARY OFFICE!POST-JHARIA PS-TISRA!jharia Dhanbad!Jharkhand!828111",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Sao",
+      "num": "6207821790"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Sohan Saw!!GHANOODIH COLIARY OFFICE!POST-JHARIA PS-TISRA!jharia Dhanbad!Jharkhand!828111",
+      "alt": "919693473713",
+      "circle": "JIO BHR&JHR",
+      "email": "jaydeepkumar2000@gmail.com",
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Sao",
+      "num": "6207821790"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Sohan Saw!!GHANOODIH COLIARY OFFICE!POST-JHARIA PS-TISRA!jharia Dhanbad!Jharkhand!828111",
+      "alt": "919693473713",
+      "circle": "JIO BHR&JHR",
+      "email": "jaydeepkumar2000@gmail.com",
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Sao",
+      "num": "6207821790"
+    }
+  ]
+}
