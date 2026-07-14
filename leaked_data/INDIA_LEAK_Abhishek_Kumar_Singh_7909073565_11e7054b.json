@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:34:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7909073565",
+  "records": [
+    {
+      "aadhar": "294316288377",
+      "address": "S/O Sunil Kumar Singh!! Ranchi University!4QTNear Zee School Old Road New Morabadi!Morabadi Kanke Ranchi!Jharkhand!834008",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sunil Kumar Singh",
+      "name": "Abhishek Kumar Singh",
+      "num": "7909073565"
+    },
+    {
+      "aadhar": "294316288377",
+      "address": "S/O Sunil Kumar Singh!! Ranchi University!4QTNear Zee School Old Road New Morabadi!Morabadi Kanke Ranchi!Jharkhand!834008",
+      "alt": "917644077779",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sunil Kumar Singh",
+      "name": "Abhishek Kumar Singh",
+      "num": "7909073565"
+    },
+    {
+      "aadhar": "294316288377",
+      "address": "S/O Sunil Kumar Singh!! Ranchi University!4QTNear Zee School Old Road New Morabadi!Morabadi Kanke Ranchi!Jharkhand!834008",
+      "alt": "917644077779",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sunil Kumar Singh",
+      "name": "Abhishek Kumar Singh",
+      "num": "7909073565"
+    }
+  ]
+}
