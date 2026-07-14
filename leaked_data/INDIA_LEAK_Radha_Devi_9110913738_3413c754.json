@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:43:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9110913738",
+  "records": [
+    {
+      "aadhar": "719327721908",
+      "address": "w/o  subhash paswan! 15!shrimata thana-tikapatti srimata!thana-tika patti panchayat goriarpatti srimata!at/po- srimata panchayat goriarpatti!srimatta!purnia!Bihar!854204",
+      "alt": "9709558593",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "subhash paswan",
+      "name": "Radha Devi",
+      "num": "9110913738"
+    },
+    {
+      "aadhar": "719327721908",
+      "address": "w/o  subhash paswan! 15!shrimata thana-tikapatti srimata!thana-tika patti panchayat goriarpatti srimata!at/po- srimata panchayat goriarpatti!srimatta!purnia!Bihar!854204",
+      "alt": "9709558593",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "subhash paswan",
+      "name": "Radha Devi",
+      "num": "9110913738"
+    },
+    {
+      "aadhar": "719327721908",
+      "address": "w/o  subhash paswan! 15!shrimata thana-tikapatti srimata!thana-tika patti panchayat goriarpatti srimata!at/po- srimata panchayat goriarpatti!srimatta!purnia!Bihar!854204",
+      "alt": "9709558593",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "subhash paswan",
+      "name": "Radha Devi",
+      "num": "9110913738"
+    }
+  ]
+}
