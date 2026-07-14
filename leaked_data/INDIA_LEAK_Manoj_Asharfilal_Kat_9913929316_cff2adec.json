@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:13:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9913929316",
+  "records": [
+    {
+      "aadhar": "621166449098",
+      "address": "Plot No-310!Bharatnagar  Ward-11/A City/District  Kachchh State Gujarat!Ravi Society!KACHCHH!370201",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Asharfilal Kataria",
+      "name": "Manoj Asharfilal Kataria",
+      "num": "9913929316"
+    },
+    {
+      "aadhar": "621166449098",
+      "address": "Asharfilal Kataria!Plot No.-310!Bharatnagar  Ward-11/A City/District: Kachchh State Gujarat!Ravi Society!KACHCHH!Gujarat!370201",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Asharfilal Kataria",
+      "name": "Manoj Asharfilal Kataria",
+      "num": "9913929316"
+    },
+    {
+      "aadhar": "621166449098",
+      "address": "Asharfilal Kataria!Plot No.-310!Bharatnagar  Ward-11/A City/District: Kachchh State Gujarat!Ravi Society!KACHCHH!Gujarat!370201",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Asharfilal Kataria",
+      "name": "Manoj Asharfilal Kataria",
+      "num": "9913929316"
+    }
+  ]
+}
