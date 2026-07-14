@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:26:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9616014500",
+  "records": [
+    {
+      "aadhar": "7211007670",
+      "address": "HNO.91!PALTAN BAZAR SADAR!PRATAPGARH !SADAR-PRATAPGARH!UP!230122",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "WALI  MOHAMMAD",
+      "name": "MOHAMMAD  KALEEM",
+      "num": "9616014500"
+    },
+    {
+      "aadhar": "7211007670",
+      "address": "HNO.91!PALTAN BAZAR SADAR PRATAPGARH PRATAPGARH!NA!SADAR!Uttar Pradesh!230122",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "WALI MOHAMMAD",
+      "name": "MOHAMMAD KALEEM",
+      "num": "9616014500"
+    },
+    {
+      "aadhar": "7211007670",
+      "address": "HNO.91!PALTAN BAZAR SADAR PRATAPGARH PRATAPGARH!NA!SADAR!Uttar Pradesh!230122",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "WALI MOHAMMAD",
+      "name": "MOHAMMAD KALEEM",
+      "num": "9616014500"
+    }
+  ]
+}
