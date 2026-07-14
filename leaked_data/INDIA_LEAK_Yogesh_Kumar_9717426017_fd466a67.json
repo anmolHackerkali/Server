@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:59:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717426017",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Pale Ram!R C 606!!RAJEEV NAGAR KHODA COLONY!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pale Ram",
+      "name": "Yogesh Kumar",
+      "num": "9717426017"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Pale Ram!R C 606!!RAJEEV NAGAR KHODA COLONY!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pale Ram",
+      "name": "Yogesh Kumar",
+      "num": "9717426017"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Pale Ram!R C 606!!RAJEEV NAGAR KHODA COLONY!KhoraGhaziabad!Uttar Pradesh!201309",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pale Ram",
+      "name": "Yogesh Kumar",
+      "num": "9717426017"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan! a-4/317!SULTANA PURI!!NORTH WEST DELHI!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha",
+      "num": "9953898011"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan!a-4/317!block a4!maszid!sultanpuri!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha  ",
+      "num": "8810475865"
+    },
+    {
+      "aadhar": "898975917354",
+      "address": "!A-317!KIRARI SULEMAN NAGAR!!NORTH WEST DELHI!Delhi North!North West!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sujeet saroj",
+      "name": "Aneeta  ",
+      "num": "8382022522"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan!a-4/317!SULTANA PURI!!NORTH WEST DELHI!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha",
+      "num": "9953898011"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan!a-4/317!block a4!maszid!sultanpuri!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha  ",
+      "num": "8810475865"
+    },
+    {
+      "aadhar": "898975917354",
+      "address": "!A-317!KIRARI SULEMAN NAGAR!!NORTH WEST DELHI!Delhi North!North West!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sujeet saroj",
+      "name": "Aneeta  ",
+      "num": "8382022522"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan!a-4/317!SULTANA PURI!!NORTH WEST DELHI!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha",
+      "num": "9953898011"
+    },
+    {
+      "aadhar": "303296919994",
+      "address": "w/o ram badan!a-4/317!block a4!maszid!sultanpuri!sultanpuri!north west delhi!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ram badan",
+      "name": "Usha  ",
+      "num": "8810475865"
+    },
+    {
+      "aadhar": "898975917354",
+      "address": "!A-317!KIRARI SULEMAN NAGAR!!NORTH WEST DELHI!Delhi North!North West!Delhi!110086",
+      "alt": "9717426017",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Sujeet saroj",
+      "name": "Aneeta  ",
+      "num": "8382022522"
+    }
+  ]
+}
