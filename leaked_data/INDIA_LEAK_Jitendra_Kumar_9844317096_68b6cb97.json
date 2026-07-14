@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:44:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9844317096",
+  "records": [
+    {
+      "aadhar": "591198331082",
+      "address": "S/O Parasmal!!#16/17 3rd floor hovadigara lane opp Gokul restarunt!NA!Balepet circle!Bangalore South Bangalore!NA!Karnataka!560053",
+      "alt": "8310447812",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Parasmal",
+      "name": "Jitendra Kumar",
+      "num": "9844317096"
+    },
+    {
+      "aadhar": "418561227266",
+      "address": "W/O Vikram Kumar V Bhansali!11 1st Floor!Annadanappa Lane!Near Ram Medical Store!Nagarathpet!Bangalore North!Bangalore!Karnataka!560002",
+      "alt": "9844317096",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Vikram Kumar V",
+      "name": "Meenakshi Devi",
+      "num": "9449526714"
+    }
+  ]
+}
