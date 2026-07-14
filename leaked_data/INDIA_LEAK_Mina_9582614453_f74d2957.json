@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:04:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582614453",
+  "records": [
+    {
+      "aadhar": "253974747099",
+      "address": "Balvir!227 BLOCK - K!NARDAN BASTI LAL KUAN Badarpur!NEW DELHI!PUL PEHLAD-Kalkaji-South Delhi PUL PEHLAD-Kalkaji-South Delhi!Delhi!110044",
+      "alt": "9350324205",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Balvir",
+      "name": "Mina",
+      "num": "9582614453"
+    },
+    {
+      "aadhar": "253974747099",
+      "address": "Balvir!227 BLOCK - K!NARDAN BASTI LAL KUAN Badarpur!NEW DELHI!PUL PEHLAD-Kalkaji-South Delhi PUL PEHLAD-Kalkaji-South Delhi!Delhi!110044",
+      "alt": "9350324205",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Balvir",
+      "name": "Mina",
+      "num": "9582614453"
+    },
+    {
+      "aadhar": "253974747099",
+      "address": "Balvir!227 BLOCK - K!NARDAN BASTI LAL KUAN Badarpur!NEW DELHI!PUL PEHLAD-Kalkaji-South Delhi PUL PEHLAD-Kalkaji-South Delhi!Delhi!110044",
+      "alt": "9350324205",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Balvir",
+      "name": "Mina",
+      "num": "9582614453"
+    }
+  ]
+}
