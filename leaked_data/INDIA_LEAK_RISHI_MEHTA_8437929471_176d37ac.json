@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:25:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8437929471",
+  "records": [
+    {
+      "aadhar": "346732375072",
+      "address": "S/O VIJAY MEHTA!9719!4!!NEAR HANUMAN MANDIR JOSHI NAGAR HAIBOWAL KALAN!LUDHIANA!LUDHIANA!PUNJAB!141001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "VIJAY MEHTA",
+      "name": "RISHI MEHTA",
+      "num": "8437929471"
+    }
+  ]
+}
