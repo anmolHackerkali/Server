@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:07:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206709396",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baliram Singh!!!!Alipur Kaimur Bhabua!Bihar!821106",
+      "alt": "917070206125",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baliram Singh",
+      "name": "Ramavdh Yadav",
+      "num": "6206709396"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baliram Singh!!!!Alipur Kaimur Bhabua!Bihar!821106",
+      "alt": "917070206125",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baliram Singh",
+      "name": "Ramavdh Yadav",
+      "num": "6206709396"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Baliram Singh!!!!Alipur Kaimur Bhabua!Bihar!821106",
+      "alt": "917070206125",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baliram Singh",
+      "name": "Ramavdh Yadav",
+      "num": "6206709396"
+    }
+  ]
+}
