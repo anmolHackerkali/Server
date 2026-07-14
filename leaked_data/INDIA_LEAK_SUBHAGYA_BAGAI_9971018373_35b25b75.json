@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:56:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971018373",
+  "records": [
+    {
+      "aadhar": "-",
+      "address": "H 86 IIND FLOOR W PATEL NAGAR DELHI DELHI 110008 110008! ! !!!",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "J L BAGAI",
+      "name": "SUBHAGYA BAGAI",
+      "num": "9971018373"
+    },
+    {
+      "aadhar": null,
+      "address": "!H 86 IIND FLOOR W PATEL NAGAR DELHI DELHI 110008 110008!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "J L BAGAI",
+      "name": "SUBHAGYA BAGAI",
+      "num": "9971018373"
+    },
+    {
+      "aadhar": null,
+      "address": "H 86 IIND FLOOR W PATEL NAGAR DELHI DELHI 110008 110008! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "J L BAGAI",
+      "name": "SUBHAGYA BAGAI",
+      "num": "9971018373"
+    },
+    {
+      "aadhar": null,
+      "address": "H 86 IIND FLOOR W PATEL NAGAR DELHI DELHI 110008 110008! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "J L BAGAI",
+      "name": "SUBHAGYA BAGAI",
+      "num": "9971018373"
+    },
+    {
+      "aadhar": "850588644002",
+      "address": "D/O  Virendra Kumar Pandey! 270 B!old district hospital Shahjahanpur!near kapoor hospital!Shahjahanpur!Shahjahanpur Jalalabad!Shahjahanpur!Uttar Pradesh!242001",
+      "alt": "9971018373",
+      "circle": "JIO UPE",
+      "email": "er.supriyapandey@gmail.com",
+      "fname": "Virendra Kumar Pandey",
+      "name": "Supriya Pandey",
+      "num": "9026701815"
+    },
+    {
+      "aadhar": "850588644002",
+      "address": "D/O  Virendra Kumar Pandey! 270 B!old district hospital Shahjahanpur!near kapoor hospital!Shahjahanpur!Shahjahanpur Jalalabad!Shahjahanpur!Uttar Pradesh!242001",
+      "alt": "9971018373",
+      "circle": "JIO UPE",
+      "email": "er.supriyapandey@gmail.com",
+      "fname": "Virendra Kumar Pandey",
+      "name": "Supriya Pandey",
+      "num": "9026701815"
+    }
+  ]
+}
