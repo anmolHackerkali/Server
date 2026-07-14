@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:45:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9267066765",
+  "records": [
+    {
+      "aadhar": "954946196659",
+      "address": "S/O Vanshiram!!!NA!jaloopur!muradganjAuraiya!NA!Uttar Pradesh!206129",
+      "alt": "9837088835",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Vanshiram",
+      "name": "Roopendra Singh",
+      "num": "9267066765"
+    },
+    {
+      "aadhar": "954946196659",
+      "address": "S/O Vanshiram!!!NA!jaloopur!muradganj Auraiya!NA!Uttar Pradesh!206129",
+      "alt": "9837088835",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vanshiram",
+      "name": "Roopendra Singh",
+      "num": "9267066765"
+    },
+    {
+      "aadhar": "954946196659",
+      "address": "S/O Vanshiram!!!NA!jaloopur!muradganj Auraiya!NA!Uttar Pradesh!206129",
+      "alt": "9837088835",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vanshiram",
+      "name": "Roopendra Singh",
+      "num": "9267066765"
+    }
+  ]
+}
