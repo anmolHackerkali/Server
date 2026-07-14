@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:50:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7503625261",
+  "records": [
+    {
+      "aadhar": "710099261186",
+      "address": "s/o  madan lal! 256!matiala D K mohan Garden West Delhi!!West Delhi!d.k.mohan garden!west delhi!Delhi!110059",
+      "alt": "8920945836",
+      "circle": "JIO DELHI",
+      "email": "roopnarish@gmail.com",
+      "fname": "madan lal",
+      "name": "Roop Naresh",
+      "num": "7503625261"
+    },
+    {
+      "aadhar": "710099261186",
+      "address": "s/o  madan lal!256!matiala D K mohan Garden West Delhi!!West Delhi!dkmohan garden!west delhi!Delhi!110059",
+      "alt": "8920945836",
+      "circle": "JIO DELHI",
+      "email": "roopnarish@gmail.com",
+      "fname": "madan lal",
+      "name": "Roop Naresh",
+      "num": "7503625261"
+    },
+    {
+      "aadhar": "710099261186",
+      "address": "s/o  madan lal!256!matiala D K mohan Garden West Delhi!!West Delhi!dkmohan garden!west delhi!Delhi!110059",
+      "alt": "8920945836",
+      "circle": "JIO DELHI",
+      "email": "roopnarish@gmail.com",
+      "fname": "madan lal",
+      "name": "Roop Naresh",
+      "num": "7503625261"
+    }
+  ]
+}
