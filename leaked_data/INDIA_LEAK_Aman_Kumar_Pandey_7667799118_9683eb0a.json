@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:18:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7667799118",
+  "records": [
+    {
+      "aadhar": "774579191154",
+      "address": "S/O Rajeev Kumar Pandey!!!HANUMAN NAGAR BOOTY PO- KOKAR PS- SADAR!KOKAR Ranchi!Jharkhand!834010",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajeev Kumar Pandey",
+      "name": "Aman Kumar Pandey",
+      "num": "7667799118"
+    },
+    {
+      "aadhar": "774579191154",
+      "address": "S/O Rajeev Kumar Pandey!!!HANUMAN NAGAR BOOTY PO- KOKAR PS- SADAR!KOKAR Ranchi!Jharkhand!834010",
+      "alt": "918809194526",
+      "circle": "JIO BHR&JHR",
+      "email": "believe.aman123@gmail.com",
+      "fname": "Rajeev Kumar Pandey",
+      "name": "Aman Kumar Pandey",
+      "num": "7667799118"
+    },
+    {
+      "aadhar": "774579191154",
+      "address": "S/O Rajeev Kumar Pandey!!!HANUMAN NAGAR BOOTY PO- KOKAR PS- SADAR!KOKAR Ranchi!Jharkhand!834010",
+      "alt": "918809194526",
+      "circle": "JIO BHR&JHR",
+      "email": "believe.aman123@gmail.com",
+      "fname": "Rajeev Kumar Pandey",
+      "name": "Aman Kumar Pandey",
+      "num": "7667799118"
+    },
+    {
+      "aadhar": "774579191154",
+      "address": "s/o rajeev kumar pandey!!!!hanuman nagar booty po- kokar ps- sadar!kokar!ranchi!Jharkhand!834010",
+      "alt": "7667799118",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajeev kumar pandey",
+      "name": "Aman Kumar Pandey",
+      "num": "8809194526"
+    },
+    {
+      "aadhar": "774579191154",
+      "address": "s/o rajeev kumar pandey!!!!hanuman nagar booty po- kokar ps- sadar!kokar!ranchi!Jharkhand!834010",
+      "alt": "7667799118",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajeev kumar pandey",
+      "name": "Aman Kumar Pandey",
+      "num": "8809194526"
+    }
+  ]
+}
