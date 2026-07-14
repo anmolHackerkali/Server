@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:51:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8128806599",
+  "records": [
+    {
+      "aadhar": "859496915882",
+      "address": "01 galpadar galpadar darbarvas  Anjar",
+      "alt": "7359225160",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harshadsinh",
+      "name": "Zala Pratipalsinh Harshadsinh",
+      "num": "8128806599"
+    },
+    {
+      "aadhar": "859496915882",
+      "address": "01 galpadar galpadar darbarvas  Anjar",
+      "alt": "7359225160",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harshadsinh",
+      "name": "Zala Pratipalsinh Harshadsinh",
+      "num": "8128806599"
+    }
+  ]
+}
