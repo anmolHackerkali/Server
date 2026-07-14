@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:02:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9832527836",
+  "records": [
+    {
+      "aadhar": "875016278480",
+      "address": " S/O Sushil Mondal!!Khasbalanda!!khasbalanda!Jhanjha Haroa!North 24 Parganas!West Bengal!743425 ",
+      "alt": "8513845928",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sushil Mondal",
+      "name": "Krishno Mondal",
+      "num": "9832527836"
+    },
+    {
+      "aadhar": "875016278480",
+      "address": " S/O Sushil Mondal!!Khasbalanda!!khasbalanda!Jhanjha Haroa!North 24 Parganas!West Bengal!743425 ",
+      "alt": "8513845928",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sushil Mondal",
+      "name": "Krishno Mondal",
+      "num": "9832527836"
+    }
+  ]
+}
