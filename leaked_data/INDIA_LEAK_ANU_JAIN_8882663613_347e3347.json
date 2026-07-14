@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:23:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8882663613",
+  "records": [
+    {
+      "aadhar": "533102074531",
+      "address": "D/O SHRI KISHAN DASS GUPTA!BD-78 1ST FLOOR!!PITAM PURA!!Shalimar Bagh S.O!North West Delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHRI KISHAN DASS",
+      "name": "ANU JAIN",
+      "num": "8882663613"
+    },
+    {
+      "aadhar": "533102074531",
+      "address": "D/O SHRI KISHAN DASS GUPTA!BD-78 1ST FLOOR!!PITAM PURA!!Shalimar Bagh SO!North West Delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHRI KISHAN DASS",
+      "name": "ANU JAIN",
+      "num": "8882663613"
+    },
+    {
+      "aadhar": "533102074531",
+      "address": "D/O SHRI KISHAN DASS GUPTA!BD-78 1ST FLOOR!!PITAM PURA!!Shalimar Bagh SO!North West Delhi!Delhi!110088",
+      "alt": "9899796727",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHRI KISHAN DASS",
+      "name": "ANU JAIN",
+      "num": "8882663613"
+    },
+    {
+      "aadhar": null,
+      "address": "A 160 ! MADAN PUR KHADAR J J COLONY SARITA VIHAR . ! DELHI ! DELHI ! DELHI ! 110076",
+      "alt": "8882663613",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SHEESH PAL",
+      "name": "SAVITA .",
+      "num": "8860977958"
+    },
+    {
+      "aadhar": null,
+      "address": "A 160 ! MADAN PUR KHADAR J J COLONY SARITA VIHAR  ! DELHI ! DELHI ! DELHI ! 110076",
+      "alt": "8882663613",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SHEESH PAL",
+      "name": "SAVITA ",
+      "num": "8860977958"
+    },
+    {
+      "aadhar": null,
+      "address": "A 160 ! MADAN PUR KHADAR J J COLONY SARITA VIHAR  ! DELHI ! DELHI ! DELHI ! 110076",
+      "alt": "8882663613",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SHEESH PAL",
+      "name": "SAVITA ",
+      "num": "8860977958"
+    }
+  ]
+}
