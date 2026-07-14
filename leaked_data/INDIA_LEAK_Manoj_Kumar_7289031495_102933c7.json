@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:22:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7289031495",
+  "records": [
+    {
+      "aadhar": "825280098735",
+      "address": "Ramadev Ray!134!Patel nagarPatel nagar!ghaziabad!GHAZIABAD NCR!UTTAR PRADESH!201001",
+      "alt": "7291893154",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev Ray",
+      "name": "Manoj Kumar",
+      "num": "7289031495"
+    },
+    {
+      "aadhar": "825280098735",
+      "address": "Ramadev Ray!134!Patel nagarPatel nagar!ghaziabad!GHAZIABAD NCR!UTTAR PRADESH!201001",
+      "alt": "7291893154",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev Ray",
+      "name": "Manoj Kumar",
+      "num": "7289031495"
+    },
+    {
+      "aadhar": "825280098735",
+      "address": "Ramadev Ray!134!Patel nagarPatel nagar!ghaziabad!GHAZIABAD NCR!UTTAR PRADESH!201001",
+      "alt": "7291893154",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev Ray",
+      "name": "Manoj Kumar",
+      "num": "7289031495"
+    },
+    {
+      "aadhar": " 825280098735 ",
+      "address": "S/O Ramadev Ray ! 128 ! Patel Nagar 2nd !  ! GhaziabadGHAZIABAD ! GHAZIABAD ! GHAZIABAD ! UTTAR PRADESH ! 201001",
+      "alt": "7289031495",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev ray",
+      "name": "MR. MANOJ KUMAR",
+      "num": "9868625259"
+    },
+    {
+      "aadhar": "825280098735",
+      "address": "S/O Ramadev Ray ! 128 ! Patel Nagar 2nd !  ! GhaziabadGHAZIABAD ! GHAZIABAD ! GHAZIABAD ! UTTAR PRADESH ! 201001",
+      "alt": "7289031495",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev ray",
+      "name": "MR MANOJ KUMAR",
+      "num": "9868625259"
+    },
+    {
+      "aadhar": "825280098735",
+      "address": "S/O Ramadev Ray ! 128 ! Patel Nagar 2nd !  ! GhaziabadGHAZIABAD ! GHAZIABAD ! GHAZIABAD ! UTTAR PRADESH ! 201001",
+      "alt": "7289031495",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramadev ray",
+      "name": "MR MANOJ KUMAR",
+      "num": "9868625259"
+    }
+  ]
+}
