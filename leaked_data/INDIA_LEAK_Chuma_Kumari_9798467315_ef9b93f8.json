@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:38:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798467315",
+  "records": [
+    {
+      "aadhar": "452993598057",
+      "address": "D/O Balmukund Singh!! Palkot!NA!vill-dholchuwaps-palkot!Dahupani Palkot Gumla!NA!Jharkhand!835220",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Balmukund Singh",
+      "name": "Chuma Kumari",
+      "num": "9798467315"
+    },
+    {
+      "aadhar": "737862874835",
+      "address": "w/o  dharmnath mahto!!Sheora!!post-shiura adalpur!sheora Patori!samastipur!Bihar!848504",
+      "alt": "7319908645",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dharmnath mahto",
+      "name": "Sangita Devi",
+      "num": "9798467315"
+    },
+    {
+      "aadhar": "452993598057",
+      "address": "D/O Balmukund Singh!! Palkot!NA!vill-dholchuwaps-palkot!Dahupani Palkot Gumla!NA!Jharkhand!835220",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Balmukund Singh",
+      "name": "Chuma Kumari",
+      "num": "9798467315"
+    },
+    {
+      "aadhar": "737862874835",
+      "address": "w/o  dharmnath mahto!!Sheora!!post-shiura adalpur!sheora Patori!samastipur!Bihar!848504",
+      "alt": "7319908645",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dharmnath mahto",
+      "name": "Sangita Devi",
+      "num": "9798467315"
+    },
+    {
+      "aadhar": "452993598057",
+      "address": "D/O Balmukund Singh!! Palkot!NA!vill-dholchuwaps-palkot!Dahupani Palkot Gumla!NA!Jharkhand!835220",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Balmukund Singh",
+      "name": "Chuma Kumari",
+      "num": "9798467315"
+    }
+  ]
+}
