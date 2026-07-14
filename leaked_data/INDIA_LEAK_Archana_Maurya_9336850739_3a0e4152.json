@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:09:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336850739",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O  Nand Lal Maurya!!village atarawa!post kekrahi!Atarawa Sonbhadra!Uttar Pradesh!231216",
+      "alt": "919120458505",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nand Lal Maurya",
+      "name": "Archana Maurya",
+      "num": "9336850739"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Nand Lal Maurya!!village atarawa!post kekrahi!Atarawa Sonbhadra!Uttar Pradesh!231216",
+      "alt": "919120458505",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nand Lal Maurya",
+      "name": "Archana Maurya",
+      "num": "9336850739"
+    }
+  ]
+}
