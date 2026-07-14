@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:55:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7016085676",
+  "records": [
+    {
+      "aadhar": "840151967007",
+      "address": "S/O  Ramchandra Kadam  68 Vitthal park tarsali RAVI park VADODARA Gujarat 390009",
+      "alt": "919638145530",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramchandra Kadam",
+      "name": "Hiren Kadam",
+      "num": "7016085676"
+    },
+    {
+      "aadhar": "840151967007",
+      "address": "S/O: Ramchandra Kadam!!68 Vitthal park!tarsali RAVI park!VADODARA!Gujarat!390009",
+      "alt": "919638145530",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramchandra Kadam",
+      "name": "Hiren Kadam",
+      "num": "7016085676"
+    },
+    {
+      "aadhar": "840151967007",
+      "address": "S/O: Ramchandra Kadam!!68 Vitthal park!tarsali RAVI park!VADODARA!Gujarat!390009",
+      "alt": "919638145530",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramchandra Kadam",
+      "name": "Hiren Kadam",
+      "num": "7016085676"
+    },
+    {
+      "aadhar": "481479836715",
+      "address": "!S O: SHANKARRAO BAPURAO UGLE  C 27!KOTIYARKNAGAR SOCIETY  WADI PADRA!NR.SHASTRIBAUG!VADODARA!GUJARAT!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": "SANJAY_UGALE67@YAHOO.COM",
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9924133085"
+    },
+    {
+      "aadhar": "404408853436",
+      "address": "S/O: Ugle Sanjay!C-27 first floor!kotayark nagar society near Shastribaug!near Shastribaug!wadi s n road VADODARA!BARODA!VADODARA!Gujarat!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "UgleSanjay",
+      "name": "MR SWAPNIL UGLE",
+      "num": "6356980969"
+    },
+    {
+      "aadhar": "481479836715",
+      "address": "!S O: SHANKARRAO BAPURAO UGLE  C 27!KOTIYARKNAGAR SOCIETY  WADI PADRA!NR.SHASTRIBAUG!VADODARA!GUJARAT!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": "SANJAY_UGALE67@YAHOO.COM",
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9924133085"
+    },
+    {
+      "aadhar": "404408853436",
+      "address": "S/O: Ugle Sanjay!C-27 first floor!kotayark nagar society near Shastribaug!near Shastribaug!wadi s n road VADODARA!BARODA!VADODARA!Gujarat!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "UgleSanjay",
+      "name": "MR SWAPNIL UGLE",
+      "num": "6356980969"
+    }
+  ]
+}
