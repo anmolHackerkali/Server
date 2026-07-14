@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:38:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825642587",
+  "records": [
+    {
+      "aadhar": "365959211782",
+      "address": "s/o  bipinchandra bhavsar! a-203 arjun palace prakash society!Arjun Palace Prakash Society Nanpura!near umra police station!athwalines nanpura!surat m corp Surat City!surat!Gujarat!395001",
+      "alt": "7984738308",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bipinchandra bhavsar",
+      "name": "Bhavsar Kaushal Bipinchandra",
+      "num": "9825642587"
+    },
+    {
+      "aadhar": "365959211782",
+      "address": "s/o  bipinchandra bhavsar! a-203 arjun palace prakash society!Arjun Palace Prakash Society Nanpura!near umra police station!athwalines nanpura!surat m corp Surat City!surat!Gujarat!395001",
+      "alt": "7984738308",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bipinchandra bhavsar",
+      "name": "Bhavsar Kaushal Bipinchandra",
+      "num": "9825642587"
+    },
+    {
+      "aadhar": "365959211782",
+      "address": "s/o  bipinchandra bhavsar! a-203 arjun palace prakash society!Arjun Palace Prakash Society Nanpura!near umra police station!athwalines nanpura!surat m corp Surat City!surat!Gujarat!395001",
+      "alt": "7984738308",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bipinchandra bhavsar",
+      "name": "Bhavsar Kaushal Bipinchandra",
+      "num": "9825642587"
+    },
+    {
+      "aadhar": "776678433915",
+      "address": "817A15Nanpura Ni Chali Ahmadabad Citykankaria Kankaria Ahmedabad Gujarat 380022",
+      "alt": "9825642587",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Sukhlal",
+      "name": "Bakulbhai Sukhlal Koshti",
+      "num": "8490927261"
+    },
+    {
+      "aadhar": "776678433915",
+      "address": "817A15Nanpura Ni Chali Ahmadabad Citykankaria Kankaria Ahmedabad Gujarat 380022",
+      "alt": "9825642587",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Sukhlal",
+      "name": "Bakulbhai Sukhlal Koshti",
+      "num": "8490927261"
+    }
+  ]
+}
