@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:24:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7983258665",
+  "records": [
+    {
+      "aadhar": "523918006058",
+      "address": "!!557/Lrest camp colony tundlatundla!NA!tundla!TundlaFirozabad!NA!Uttar Pradesh!283204",
+      "alt": "8218975443",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Karan singh",
+      "name": "Devendra kumar",
+      "num": "7983258665"
+    },
+    {
+      "aadhar": "523918006058",
+      "address": "!!557/L rest camp colony tundla tundla!NA!tundla!Tundla Firozabad!NA!Uttar Pradesh!283204",
+      "alt": "8218975443",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Karan singh",
+      "name": "Devendra kumar",
+      "num": "7983258665"
+    },
+    {
+      "aadhar": "523918006058",
+      "address": "!!557/L rest camp colony tundla tundla!NA!tundla!Tundla Firozabad!NA!Uttar Pradesh!283204",
+      "alt": "8218975443",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Karan singh",
+      "name": "Devendra kumar",
+      "num": "7983258665"
+    }
+  ]
+}
