@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:50:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8601016290",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Said Ahmad!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!. Amethi!TILOEE!Amethi!UTTAR PRADESH!229309",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!mandir!Bhikhipur fatehpur Amethi Raja Fattepur!Raibareilly!Raebareli!Uttar Pradesh!229309",
+      "alt": "8601016290",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Said Ahmad!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!. Amethi!TILOEE!Amethi!UTTAR PRADESH!229309",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!mandir!Bhikhipur fatehpur Amethi Raja Fattepur!Raibareilly!Raebareli!Uttar Pradesh!229309",
+      "alt": "8601016290",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!mandir!Bhikhipur fatehpur Amethi Raja Fattepur!Raibareilly!Raebareli!Uttar Pradesh!229309",
+      "alt": "8601016290",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    },
+    {
+      "aadhar": "414601233606",
+      "address": "!GARA0 BHIKHIPUR!PO RAJA FATTEPUR TILOEE!mandir!Bhikhipur fatehpur Amethi Raja Fattepur!Raibareilly!Raebareli!Uttar Pradesh!229309",
+      "alt": "8601016290",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Said Ahmad",
+      "name": "MUJEEB AHMAD",
+      "num": "8601016290"
+    }
+  ]
+}
