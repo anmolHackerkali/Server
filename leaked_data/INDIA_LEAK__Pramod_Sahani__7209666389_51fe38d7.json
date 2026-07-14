@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:21:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7209666389",
+  "records": [
+    {
+      "aadhar": "479545336638",
+      "address": " khauna!ward-NO-01!!Khauna Khauna!Madhubani!Madhubani!Bihar!847225 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shrichandra Sahani ",
+      "name": " Pramod Sahani ",
+      "num": "7209666389"
+    },
+    {
+      "aadhar": "479545336638",
+      "address": " khauna!ward-NO-01!!Khauna Khauna!Madhubani!Madhubani!Bihar!847225 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shrichandra Sahani ",
+      "name": " Pramod Sahani ",
+      "num": "7209666389"
+    }
+  ]
+}
