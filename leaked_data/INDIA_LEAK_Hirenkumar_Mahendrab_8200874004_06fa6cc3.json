@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:28:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8200874004",
+  "records": [
+    {
+      "aadhar": "754407921868",
+      "address": "S/O Mahendrabhai Madhavlal Patel  53 Samarpan Tenament Nr  Jantanagar Crosing Ghatlodia Ahmadabad City Ahmadabad Gujarat 380061",
+      "alt": "918511552548",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahendrabhai Madhavlal Patel",
+      "name": "Hirenkumar Mahendrabhai Patel",
+      "num": "8200874004"
+    },
+    {
+      "aadhar": "754407921868",
+      "address": "S/O Mahendrabhai Madhavlal Patel!!53 Samarpan Tenament Nr. Jantanagar Crosing!Ghatlodia!Ahmadabad City Ahmadabad!Gujarat!380061",
+      "alt": "918511552548",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahendrabhai Madhavlal Patel",
+      "name": "Hirenkumar Mahendrabhai Patel",
+      "num": "8200874004"
+    },
+    {
+      "aadhar": "754407921868",
+      "address": "S/O Mahendrabhai Madhavlal Patel!!53 Samarpan Tenament Nr. Jantanagar Crosing!Ghatlodia!Ahmadabad City Ahmadabad!Gujarat!380061",
+      "alt": "918511552548",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahendrabhai Madhavlal Patel",
+      "name": "Hirenkumar Mahendrabhai Patel",
+      "num": "8200874004"
+    }
+  ]
+}
