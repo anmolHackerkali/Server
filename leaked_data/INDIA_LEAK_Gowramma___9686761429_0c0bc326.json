@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:22:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9686761429",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Huchappa 115 Hosahalli 1st Cross Mandya  Mandya Basaveswara Main Road Mandya Mandya Karnataka 571401",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Huchappa   ",
+      "name": "Gowramma  ",
+      "num": "9686761429"
+    }
+  ]
+}
