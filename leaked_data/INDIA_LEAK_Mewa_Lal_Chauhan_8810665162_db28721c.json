@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:19:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8810665162",
+  "records": [
+    {
+      "aadhar": "313121007962",
+      "address": "s/o  munesher!nw-147!!vishnu garden rajouri garden!tilak nagar!tilak nagar!west delhi!Delhi!110018",
+      "alt": "9560644760",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "munesher",
+      "name": "Mewa Lal Chauhan",
+      "num": "8810665162"
+    },
+    {
+      "aadhar": "313121007962",
+      "address": "s/o  munesher!nw-147!!vishnu garden rajouri garden!tilak nagar!tilak nagar!west delhi!Delhi!110018",
+      "alt": "9560644760",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "munesher",
+      "name": "Mewa Lal Chauhan",
+      "num": "8810665162"
+    },
+    {
+      "aadhar": "313121007962",
+      "address": "s/o  munesher!nw-147!!vishnu garden rajouri garden!tilak nagar!tilak nagar!west delhi!Delhi!110018",
+      "alt": "9560644760",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "munesher",
+      "name": "Mewa Lal Chauhan",
+      "num": "8810665162"
+    }
+  ]
+}
