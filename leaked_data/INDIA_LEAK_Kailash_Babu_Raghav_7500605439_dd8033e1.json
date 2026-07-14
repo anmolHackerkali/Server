@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:16:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7500605439",
+  "records": [
+    {
+      "aadhar": "377773182909",
+      "address": "S/O Tikam Singh!-!-!sasni!Nadauna Nagla Lachhi Hathras Palirajapur!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tikam Singh",
+      "name": "Kailash Babu Raghav",
+      "num": "7500605439"
+    },
+    {
+      "aadhar": "377773182909",
+      "address": "S/O Tikam Singh!-!-!sasni!Nadauna Nagla Lachhi Hathras Palirajapur!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tikam Singh",
+      "name": "Kailash Babu Raghav",
+      "num": "7500605439"
+    }
+  ]
+}
