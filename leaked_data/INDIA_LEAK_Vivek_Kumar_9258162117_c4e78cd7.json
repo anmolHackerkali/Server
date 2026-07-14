@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:09:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9258162117",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Virender Singh!!!!Chanchali Gautam Buddha Nagar!Uttar Pradesh!203155",
+      "alt": "917505116619",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Virender Singh",
+      "name": "Vivek Kumar",
+      "num": "9258162117"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Virender Singh!!!!Chanchali Gautam Buddha Nagar!Uttar Pradesh!203155",
+      "alt": "917505116619",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Virender Singh",
+      "name": "Vivek Kumar",
+      "num": "9258162117"
+    }
+  ]
+}
