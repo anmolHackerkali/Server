@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:42:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178141598",
+  "records": [
+    {
+      "aadhar": "374231431849",
+      "address": "S/O  Jaswant Singh!!16/1 E-block phase -1 jai vihar!najafgarh!Bapraula West Delhi!Delhi!110043",
+      "alt": "919213779377",
+      "circle": "JIO DELHI",
+      "email": "sumantverma12345@gmail.com",
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8178141598"
+    },
+    {
+      "aadhar": "374231431849",
+      "address": "S/O Jaswant Singh!!16/1E-block phase -1jai vihar!najafgarh!BapraulaWest Delhi!Delhi!110043",
+      "alt": "919213779377",
+      "circle": "JIO DELHI",
+      "email": "sumantverma12345@gmail.com",
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8178141598"
+    },
+    {
+      "aadhar": "374231431849",
+      "address": "S/O Jaswant Singh!!16/1E-block phase -1jai vihar!najafgarh!BapraulaWest Delhi!Delhi!110043",
+      "alt": "919213779377",
+      "circle": "JIO DELHI",
+      "email": "sumantverma12345@gmail.com",
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8178141598"
+    },
+    {
+      "aadhar": "374231431849",
+      "address": "S/O Jaswant Singh!house no 30 C!G/F KH no -56/4 block G!near bani camp!jai vihar Baprola Najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8178141598",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8595968471"
+    },
+    {
+      "aadhar": null,
+      "address": "30C ! KH NO 56/4 JAI VIHAR ! BAPROLA ! DELHI ! Delhi ! 110043",
+      "alt": "8178141598",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT SINGH",
+      "name": "DISHANT ",
+      "num": "9213779377"
+    },
+    {
+      "aadhar": "374231431849",
+      "address": "S/O Jaswant Singh!house no 30 C!G/F KH no -56/4 block G!near bani camp!jai vihar Baprola Najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8178141598",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8595968471"
+    },
+    {
+      "aadhar": null,
+      "address": "30C ! KH NO 56/4 JAI VIHAR ! BAPROLA ! DELHI ! Delhi ! 110043",
+      "alt": "8178141598",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT SINGH",
+      "name": "DISHANT ",
+      "num": "9213779377"
+    },
+    {
+      "aadhar": "374231431849",
+      "address": "S/O Jaswant Singh!house no 30 C!G/F KH no -56/4 block G!near bani camp!jai vihar Baprola Najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8178141598",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Jaswant Singh",
+      "name": "Dishant",
+      "num": "8595968471"
+    }
+  ]
+}
