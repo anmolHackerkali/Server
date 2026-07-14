@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:07:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8815883169",
+  "records": [
+    {
+      "aadhar": "MP0720120024987",
+      "address": "! 488!488 A new mohan nagar thatipur gwalior!!gwalior!Gwalior!Gwalior!Madhya Pradesh!474011",
+      "alt": "9039211037",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "m p satyarathi",
+      "name": "sangh priy samrat",
+      "num": "8815883169"
+    }
+  ]
+}
