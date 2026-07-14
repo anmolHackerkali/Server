@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:46:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6294541910",
+  "records": [
+    {
+      "aadhar": "273544722287",
+      "address": "!!.COLLEGE PARA KAMARPUKUR ROAD BASIRHAT COLLEGE Basirhat College!!BasirhatM Basirhat - I North 24 Parganas!West Bengal!743412",
+      "alt": "917469010188",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "biswanath paul",
+      "name": "Lakshman Chandra Paul",
+      "num": "6294541910"
+    },
+    {
+      "aadhar": "273544722287",
+      "address": "!!.COLLEGE PARA KAMARPUKUR ROAD BASIRHAT COLLEGE Basirhat College!!BasirhatM Basirhat - I North 24 Parganas!West Bengal!743412",
+      "alt": "917469010188",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "biswanath paul",
+      "name": "Lakshman Chandra Paul",
+      "num": "6294541910"
+    },
+    {
+      "aadhar": "273544722287",
+      "address": " S/O Bishwanath Paul!.COLLEGE PARA!kamarpukur road Basirhat College!college para basirhat college!basirhat m!basirhat college Basirhat - I!north 24 parganas!West Bengal!743412 ",
+      "alt": "6294541910",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bishwanath Paul",
+      "name": "Lakshman Chandra Paul",
+      "num": "9732638921"
+    },
+    {
+      "aadhar": "273544722287",
+      "address": " S/O Bishwanath Paul!.COLLEGE PARA!kamarpukur road Basirhat College!college para basirhat college!basirhat m!basirhat college Basirhat - I!north 24 parganas!West Bengal!743412 ",
+      "alt": "6294541910",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bishwanath Paul",
+      "name": "Lakshman Chandra Paul",
+      "num": "9732638921"
+    }
+  ]
+}
