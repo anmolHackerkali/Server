@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:26:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9467764480",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O  Sukh Dayal Satija!!FCA-3698 A!SGM nagar!Faridabad Faridabad!Haryana!121001",
+      "alt": "919212574480",
+      "circle": "JIO DELHI",
+      "email": "richasatija69@gmail.com",
+      "fname": "Sukh Dayal Satija",
+      "name": "Neelam Satija",
+      "num": "9467764480"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Sukh Dayal Satija!!FCA-3698 A!SGM nagar!FaridabadFaridabad!Haryana!121001",
+      "alt": "919212574480",
+      "circle": "JIO DELHI",
+      "email": "richasatija69@gmail.com",
+      "fname": "Sukh Dayal Satija",
+      "name": "Neelam Satija",
+      "num": "9467764480"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Sukh Dayal Satija!!FCA-3698 A!SGM nagar!FaridabadFaridabad!Haryana!121001",
+      "alt": "919212574480",
+      "circle": "JIO DELHI",
+      "email": "richasatija69@gmail.com",
+      "fname": "Sukh Dayal Satija",
+      "name": "Neelam Satija",
+      "num": "9467764480"
+    }
+  ]
+}
