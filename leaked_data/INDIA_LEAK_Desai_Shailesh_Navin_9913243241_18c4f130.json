@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:28:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9913243241",
+  "records": [
+    {
+      "aadhar": "334084670072",
+      "address": "772!Dadari Faliyu Opp Petrol Pump Vyara!Vyara!Vyara-Vyara-Tapi!394650",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9913243241"
+    },
+    {
+      "aadhar": "334084670072",
+      "address": "Desai Navinbhai Nathubhai!772!Dadari Faliyu Opp Petrol Pump Vyara!Vyara!Vyara-Vyara-Tapi!Gujarat!394650",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9913243241"
+    },
+    {
+      "aadhar": "334084670072",
+      "address": "Desai Navinbhai Nathubhai!772!Dadari Faliyu Opp Petrol Pump Vyara!Vyara!Vyara-Vyara-Tapi!Gujarat!394650",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9913243241"
+    },
+    {
+      "aadhar": "334084670072",
+      "address": "772!Dadari Faliyu Vyara City/District  Tapi!Opp Petrol Pump!TAPI!394650",
+      "alt": "9913243241",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9998134141"
+    },
+    {
+      "aadhar": "334084670072",
+      "address": "Desai Navinbhai Nathubhai!772!Dadari Faliyu Vyara City/District: Tapi!Opp Petrol Pump!TAPI!Gujarat!394650",
+      "alt": "9913243241",
+      "circle": "VI GUJARAT",
+      "email": "shaileshdsi17@gmail.com",
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9998134141"
+    },
+    {
+      "aadhar": "334084670072",
+      "address": "Desai Navinbhai Nathubhai!772!Dadari Faliyu Vyara City/District: Tapi!Opp Petrol Pump!TAPI!Gujarat!394650",
+      "alt": "9913243241",
+      "circle": "VI GUJARAT",
+      "email": "shaileshdsi17@gmail.com",
+      "fname": "Desai Navinbhai Nathubhai",
+      "name": "Desai Shailesh Navinbhai",
+      "num": "9998134141"
+    }
+  ]
+}
