@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:50:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9998622899",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Shankarrao Bapurao Ugle  C/27 Kotiyarknagar Society Nr Shastribaug Wadi Vadodara Vadodara Gujarat 390017",
+      "alt": "917016085676",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9998622899"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Shankarrao Bapurao Ugle!!C/27 Kotiyarknagar Society Nr.Shastribaug!Wadi!Vadodara Vadodara!Gujarat!390017",
+      "alt": "917016085676",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9998622899"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Shankarrao Bapurao Ugle!!C/27 Kotiyarknagar Society Nr.Shastribaug!Wadi!Vadodara Vadodara!Gujarat!390017",
+      "alt": "917016085676",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9998622899"
+    }
+  ]
+}
