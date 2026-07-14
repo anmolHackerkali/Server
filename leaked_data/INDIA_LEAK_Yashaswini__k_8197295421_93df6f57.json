@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:36:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8197295421",
+  "records": [
+    {
+      "aadhar": "INA3603545",
+      "address": "01 1st NMC 6th cross right side bhadravathi Hosamane shimoga Shivamogga Karnataka 577301",
+      "alt": "9739429138",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Sandeep   ",
+      "name": "Yashaswini  k",
+      "num": "8197295421"
+    }
+  ]
+}
