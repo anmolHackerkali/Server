@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:34:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140785781",
+  "records": [
+    {
+      "aadhar": "329034775657",
+      "address": "S/O  Mithlesh Kumar!!!raspahadiya mauranipur!Mau Rural Jhansi!Uttar Pradesh!284204",
+      "alt": "917388636701",
+      "circle": "JIO UPE",
+      "email": "sagarajay252@gmail.com",
+      "fname": "Mithlesh Kumar",
+      "name": "Ajay Sagar",
+      "num": "9140785781"
+    },
+    {
+      "aadhar": "329034775657",
+      "address": "S/O  Mithlesh Kumar!!!raspahadiya mauranipur!Mau Rural Jhansi!Uttar Pradesh!284204",
+      "alt": "917388636701",
+      "circle": "JIO UPE",
+      "email": "sagarajay252@gmail.com",
+      "fname": "Mithlesh Kumar",
+      "name": "Ajay Sagar",
+      "num": "9140785781"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Vijay Kumar Chauhan!.!.!.!!Ballia!Ballia!277209",
+      "alt": "9140785781",
+      "circle": null,
+      "email": null,
+      "fname": "C/O Vijay Kumar Chauhan",
+      "name": "Aadesh Kumar Chauhan",
+      "num": "7619941640"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Vijay Kumar Chauhan!.!.!.!!Ballia!Ballia!277209",
+      "alt": "9140785781",
+      "circle": null,
+      "email": null,
+      "fname": "C/O Vijay Kumar Chauhan",
+      "name": "Aadesh Kumar Chauhan",
+      "num": "7619941640"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Vijay Kumar Chauhan!.!.!.!!Ballia!Ballia!277209",
+      "alt": "9140785781",
+      "circle": null,
+      "email": null,
+      "fname": "C/O Vijay Kumar Chauhan",
+      "name": "Aadesh Kumar Chauhan",
+      "num": "7619941640"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Vijay Kumar Chauhan!.!.!.!!Ballia!Ballia!277209",
+      "alt": "9140785781",
+      "circle": null,
+      "email": null,
+      "fname": "C/O Vijay Kumar Chauhan",
+      "name": "Aadesh Kumar Chauhan",
+      "num": "7619941640"
+    }
+  ]
+}
