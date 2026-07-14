@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:49:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9328738176",
+  "records": [
+    {
+      "aadhar": "518811814390",
+      "address": "S/O  Kalidas!!50 kastodiyan ni chali naroda road Saijpur Bogha!NA!amdupura!Ahmedabad City Ahmadabad City Ahmedabad!NA!Gujarat!382345",
+      "alt": "7698358557",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Kalidas",
+      "name": "Solanki Mukeshbhai Kalidas",
+      "num": "9328738176"
+    },
+    {
+      "aadhar": "518811814390",
+      "address": "S/O  Kalidas!!50 kastodiyan ni chali naroda road Saijpur Bogha!NA!amdupura!Ahmedabad City Ahmadabad City Ahmedabad!NA!Gujarat!382345",
+      "alt": "7698358557",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Kalidas",
+      "name": "Solanki Mukeshbhai Kalidas",
+      "num": "9328738176"
+    },
+    {
+      "aadhar": "518811814390",
+      "address": "S/O  Kalidas!!50 kastodiyan ni chali naroda road Saijpur Bogha!NA!amdupura!Ahmedabad City Ahmadabad City Ahmedabad!NA!Gujarat!382345",
+      "alt": "7698358557",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Kalidas",
+      "name": "Solanki Mukeshbhai Kalidas",
+      "num": "9328738176"
+    }
+  ]
+}
