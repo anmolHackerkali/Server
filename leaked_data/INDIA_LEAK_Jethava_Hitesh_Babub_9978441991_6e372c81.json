@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:10:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9978441991",
+  "records": [
+    {
+      "aadhar": "361626260715",
+      "address": "Gayno Gondro Keshod  Keshod Keshod",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Jethava Babubhai",
+      "name": "Jethava Hitesh Babubhai",
+      "num": "9978441991"
+    },
+    {
+      "aadhar": "361626260715",
+      "address": "Gayno Gondro Keshod  Keshod Keshod",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Jethava Babubhai",
+      "name": "Jethava Hitesh Babubhai",
+      "num": "9978441991"
+    },
+    {
+      "aadhar": "748123891608",
+      "address": "W/O Hirenbhai!!Gomtipura Near Pani Tanki Wadi Sn Road!NA!Gajrawadi!Vadodara Padra Vadodara!NA!Gujarat!390017",
+      "alt": "9978441991",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Hirenbhai",
+      "name": "Nirali Hirenbhai Pavale",
+      "num": "9327508055"
+    },
+    {
+      "aadhar": "748123891608",
+      "address": "W/O Hirenbhai!!Gomtipura Near Pani Tanki Wadi Sn Road!NA!Gajrawadi!Vadodara Padra Vadodara!NA!Gujarat!390017",
+      "alt": "9978441991",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Hirenbhai",
+      "name": "Nirali Hirenbhai Pavale",
+      "num": "9327508055"
+    },
+    {
+      "aadhar": "748123891608",
+      "address": "W/O Hirenbhai!!Gomtipura Near Pani Tanki Wadi Sn Road!NA!Gajrawadi!Vadodara Padra Vadodara!NA!Gujarat!390017",
+      "alt": "9978441991",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Hirenbhai",
+      "name": "Nirali Hirenbhai Pavale",
+      "num": "9327508055"
+    }
+  ]
+}
