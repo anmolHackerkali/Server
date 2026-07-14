@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:56:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6353716744",
+  "records": [
+    {
+      "aadhar": "578502388183",
+      "address": "S/O Ramdas Sobhai Yadav  Purpidit Nagar vibhag - 2 Rabari Vasahat Opp Swagat Appartment Naranpura Vistar Nava Vadaj Ahmadabad City Ahmadabad Gujarat 380013",
+      "alt": "919574126064",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramdas Sobhai Yadav",
+      "name": "Dalsingar Ramdas Yadav",
+      "num": "6353716744"
+    },
+    {
+      "aadhar": "578502388183",
+      "address": "S/O Ramdas Sobhai Yadav!!Purpidit Nagar vibhag - 2 Rabari Vasahat Opp.Swagat Appartment Naranpura Vistar!Nava Vadaj!Ahmadabad City Ahmadabad!Gujarat!380013",
+      "alt": "919574126064",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramdas Sobhai Yadav",
+      "name": "Dalsingar Ramdas Yadav",
+      "num": "6353716744"
+    },
+    {
+      "aadhar": "578502388183",
+      "address": "S/O Ramdas Sobhai Yadav!!Purpidit Nagar vibhag - 2 Rabari Vasahat Opp.Swagat Appartment Naranpura Vistar!Nava Vadaj!Ahmadabad City Ahmadabad!Gujarat!380013",
+      "alt": "919574126064",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Ramdas Sobhai Yadav",
+      "name": "Dalsingar Ramdas Yadav",
+      "num": "6353716744"
+    }
+  ]
+}
