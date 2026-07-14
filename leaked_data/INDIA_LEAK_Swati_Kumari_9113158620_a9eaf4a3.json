@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:06:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9113158620",
+  "records": [
+    {
+      "aadhar": "673374943767",
+      "address": "D/O  Dhirendra Prasad!!VILLAGE-BIND POST-BIND!THANA-BIND!Bind Nalanda!Bihar!803107",
+      "alt": "917061296449",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dhirendra Prasad",
+      "name": "Swati Kumari",
+      "num": "9113158620"
+    },
+    {
+      "aadhar": "673374943767",
+      "address": "D/O  Dhirendra Prasad!!VILLAGE-BIND POST-BIND!THANA-BIND!Bind Nalanda!Bihar!803107",
+      "alt": "917061296449",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dhirendra Prasad",
+      "name": "Swati Kumari",
+      "num": "9113158620"
+    },
+    {
+      "aadhar": "673374943767",
+      "address": "D/O  Dhirendra Prasad!!VILLAGE-BIND POST-BIND!THANA-BIND!Bind Nalanda!Bihar!803107",
+      "alt": "917061296449",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dhirendra Prasad",
+      "name": "Swati Kumari",
+      "num": "9113158620"
+    }
+  ]
+}
