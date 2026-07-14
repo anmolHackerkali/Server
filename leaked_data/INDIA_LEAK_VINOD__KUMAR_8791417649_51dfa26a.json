@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:21:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8791417649",
+  "records": [
+    {
+      "aadhar": "551465709043",
+      "address": "!176!NEHRU NAGAR! !Roorkee!UTTARAKHAND!247667",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "SURESH PRASAD",
+      "name": "VINOD  KUMAR",
+      "num": "8791417649"
+    },
+    {
+      "aadhar": "551465709043",
+      "address": "!176!NEHRU NAGAR! !Roorkee!UTTARAKHAND!247667",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "SURESH PRASAD",
+      "name": "VINOD  KUMAR",
+      "num": "8791417649"
+    }
+  ]
+}
