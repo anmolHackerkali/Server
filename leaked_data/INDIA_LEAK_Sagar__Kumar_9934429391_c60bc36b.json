@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:57:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9934429391",
+  "records": [
+    {
+      "aadhar": "549052448797",
+      "address": "S/O Dhaneshwar Yadav!Pansari Tola Gomia!!Bokaro Gumia!Thana-Gomia!Gumia!Jharkhand!829111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dhaneshwar Yadav",
+      "name": "Sagar  Kumar",
+      "num": "9934429391"
+    },
+    {
+      "aadhar": "549052448797",
+      "address": "S/O Dhaneshwar Yadav!Pansari Tola Gomia!!Bokaro Gumia!Thana-Gomia!Gumia!Jharkhand!829111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dhaneshwar Yadav",
+      "name": "Sagar  Kumar",
+      "num": "9934429391"
+    }
+  ]
+}
