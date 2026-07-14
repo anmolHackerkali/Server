@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:03:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810181764",
+  "records": [
+    {
+      "aadhar": "-",
+      "address": "T 83 RAJPURA GURMANDI DELHI DELHI 110007 110007! ! !!!",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "NAINSINGH",
+      "name": "RAVINDER SINGH PAL",
+      "num": "9810181764"
+    },
+    {
+      "aadhar": null,
+      "address": "!T 83 RAJPURA GURMANDI DELHI DELHI 110007 110007!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NAINSINGH",
+      "name": "RAVINDER SINGH PAL",
+      "num": "9810181764"
+    },
+    {
+      "aadhar": null,
+      "address": "T 83 RAJPURA GURMANDI DELHI DELHI 110007 110007! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NAINSINGH",
+      "name": "RAVINDER SINGH PAL",
+      "num": "9810181764"
+    },
+    {
+      "aadhar": null,
+      "address": "T 83 RAJPURA GURMANDI DELHI DELHI 110007 110007! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NAINSINGH",
+      "name": "RAVINDER SINGH PAL",
+      "num": "9810181764"
+    },
+    {
+      "aadhar": "895271768511",
+      "address": "!A-989  First Floor!G D Colony!Mayur Vihar Phase-3 Mayur Vihar Ph-III  Preet ViharEast Delhi!!Delhi!110096",
+      "alt": "9810181764",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nain  Singh",
+      "name": "Ravinder Singh Pal",
+      "num": "9971483999"
+    },
+    {
+      "aadhar": "895271768511",
+      "address": "!A-989 First Floor!G D Colony!Mayur Vihar Phase-3 Mayur Vihar Ph-III Preet ViharEast Delhi!!Delhi!110096",
+      "alt": "9810181764",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nain  Singh",
+      "name": "Ravinder Singh Pal",
+      "num": "9971483999"
+    },
+    {
+      "aadhar": "895271768511",
+      "address": "!A-989 First Floor!G D Colony!Mayur Vihar Phase-3 Mayur Vihar Ph-III Preet ViharEast Delhi!!Delhi!110096",
+      "alt": "9810181764",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Nain  Singh",
+      "name": "Ravinder Singh Pal",
+      "num": "9971483999"
+    }
+  ]
+}
