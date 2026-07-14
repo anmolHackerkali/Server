@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:16:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8544364503",
+  "records": [
+    {
+      "aadhar": "841123323799",
+      "address": "s/o  ram sagar ray!!Bhadaiya!!ramaiya bhadaia!bhadaiya Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "7544920666",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram sagar ray",
+      "name": "Shambhu Ray",
+      "num": "8544364503"
+    },
+    {
+      "aadhar": "841123323799",
+      "address": "s/o  ram sagar ray!!Bhadaiya!!ramaiya bhadaia!bhadaiya Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "7544920666",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram sagar ray",
+      "name": "Shambhu Ray",
+      "num": "8544364503"
+    },
+    {
+      "aadhar": "841123323799",
+      "address": "s/o  ram sagar ray!!Bhadaiya!!ramaiya bhadaia!bhadaiya Mohiuddinnagar!samastipur!Bihar!848502",
+      "alt": "7544920666",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram sagar ray",
+      "name": "Shambhu Ray",
+      "num": "8544364503"
+    },
+    {
+      "aadhar": "758513526450",
+      "address": " hathwan Khagaria hathwan Khagaria ward 13Khagaria Khagaria BAIRWA-BEGUSARAI 848203 BR hathwan Khagaria ward 13Khagaria Khagaria BAIRWA-BEGUSARAI BR 848203 ",
+      "alt": "8544364503",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MAHENDRA  YADAV ",
+      "name": " NITISH  KUMAR ",
+      "num": "6209489697"
+    },
+    {
+      "aadhar": "758513526450",
+      "address": " hathwan Khagaria hathwan Khagaria ward 13Khagaria Khagaria BAIRWA-BEGUSARAI 848203 BR hathwan Khagaria ward 13Khagaria Khagaria BAIRWA-BEGUSARAI BR 848203 ",
+      "alt": "8544364503",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " MAHENDRA  YADAV ",
+      "name": " NITISH  KUMAR ",
+      "num": "6209489697"
+    }
+  ]
+}
