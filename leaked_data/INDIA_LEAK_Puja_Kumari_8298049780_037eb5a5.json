@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:31:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8298049780",
+  "records": [
+    {
+      "aadhar": "677211379620",
+      "address": "!golaghat sonwarsha lane Bhagalpur!golaghat sonwarsha lane Bhagalpur!!Jagdishpur!Bhagalpur!Bhagalpur!Bihar!812002",
+      "alt": "7970561842",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anjani Poddar",
+      "name": "Puja Kumari",
+      "num": "8298049780"
+    },
+    {
+      "aadhar": "677211379620",
+      "address": "!golaghat sonwarsha lane Bhagalpur!golaghat sonwarsha lane Bhagalpur!!Jagdishpur!Bhagalpur!Bhagalpur!Bihar!812002",
+      "alt": "7970561842",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Anjani Poddar",
+      "name": "Puja Kumari",
+      "num": "8298049780"
+    }
+  ]
+}
