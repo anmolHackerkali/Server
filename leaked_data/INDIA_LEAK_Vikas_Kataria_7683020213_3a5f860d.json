@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:50:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7683020213",
+  "records": [
+    {
+      "aadhar": "HR-51/7499/2011",
+      "address": "!Hno-3G-86!Nit-3 Faridabad!!Nit-Faridabad!Faridabad!Faridabad!Haryana!121001",
+      "alt": "8700457699",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prabhu Dayal",
+      "name": "Vikas Kataria",
+      "num": "7683020213"
+    },
+    {
+      "aadhar": "HR-51/7499/2011",
+      "address": "!Hno-3G-86!Nit-3 Faridabad!!Nit-Faridabad!Faridabad!Faridabad!Haryana!121001",
+      "alt": "8700457699",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prabhu Dayal",
+      "name": "Vikas Kataria",
+      "num": "7683020213"
+    },
+    {
+      "aadhar": "HR-51/7499/2011",
+      "address": "!Hno-3G-86!Nit-3 Faridabad!!Nit-Faridabad!Faridabad!Faridabad!Haryana!121001",
+      "alt": "8700457699",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Prabhu Dayal",
+      "name": "Vikas Kataria",
+      "num": "7683020213"
+    }
+  ]
+}
