@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:43:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7631618622",
+  "records": [
+    {
+      "aadhar": "971012880463",
+      "address": "s/o  ram padarath thakur!!Sahebpur Kamal!Ward No- 09!ward no- 09 sahebpur kamal west sahebpur kamal!sahebpur kamal Sahebpur Kamal!begusarai!Bihar!851217",
+      "alt": "7979964315",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram padarath thakur",
+      "name": "Anurag Kumar",
+      "num": "7631618622"
+    },
+    {
+      "aadhar": "971012880463",
+      "address": "s/o  ram padarath thakur!!Sahebpur Kamal!Ward No- 09!ward no- 09 sahebpur kamal west sahebpur kamal!sahebpur kamal Sahebpur Kamal!begusarai!Bihar!851217",
+      "alt": "7979964315",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ram padarath thakur",
+      "name": "Anurag Kumar",
+      "num": "7631618622"
+    },
+    {
+      "aadhar": "971012880463",
+      "address": "s/o  ram padarath thakur!!Sahebpur Kamal!Ward No- 09!ward no- 09 sahebpur kamal west sahebpur kamal!sahebpur kamal Sahebpur Kamal!begusarai!Bihar!851217",
+      "alt": "7979964315",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ram padarath thakur",
+      "name": "Anurag Kumar",
+      "num": "7631618622"
+    }
+  ]
+}
