@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:52:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9749790082",
+  "records": [
+    {
+      "aadhar": "497819846991",
+      "address": "PALITBEGHIA  CHAKBEGHIYA Chak Bege Palit Behgia Kaliganj  Nadia Nadia West Bengal 741137",
+      "alt": "9932464978",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "nurmahsddad  sk",
+      "name": "Raja  Sk",
+      "num": "9749790082"
+    },
+    {
+      "aadhar": "497819846991",
+      "address": "!PALITBEGHIA!!CHAKBEGHIYA Chak Bege !Nadia Palit Behgia Kaliganj!West Bengal!741137",
+      "alt": "9932464978",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "nurmahsddad  sk",
+      "name": "Raja  Sk",
+      "num": "9749790082"
+    },
+    {
+      "aadhar": "497819846991",
+      "address": "!PALITBEGHIA!!CHAKBEGHIYA Chak Bege !Nadia Palit Behgia Kaliganj!West Bengal!741137",
+      "alt": "9932464978",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "nurmahsddad  sk",
+      "name": "Raja  Sk",
+      "num": "9749790082"
+    }
+  ]
+}
