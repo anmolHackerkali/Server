@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:00:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8271674210",
+  "records": [
+    {
+      "aadhar": "772801591625",
+      "address": "! -!GRAM Dih Nijamat!Shiv Temple!Post-Kewti Thana-Barbigh!Sheikhpura!Sheikhpura!Bihar!811101",
+      "alt": "7004760156",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Amit Kumar",
+      "num": "8271674210"
+    },
+    {
+      "aadhar": "772801591625",
+      "address": "!-!GRAM Dih Nijamat!Shiv Temple!Post-Kewti Thana-Barbigh!Sheikhpura!Sheikhpura!Bihar!811101",
+      "alt": "7004760156",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Amit Kumar",
+      "num": "8271674210"
+    },
+    {
+      "aadhar": "772801591625",
+      "address": "!-!GRAM Dih Nijamat!Shiv Temple!Post-Kewti Thana-Barbigh!Sheikhpura!Sheikhpura!Bihar!811101",
+      "alt": "7004760156",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Amit Kumar",
+      "num": "8271674210"
+    },
+    {
+      "aadhar": "477316405954",
+      "address": "!-!Vill-Nichali Kila Garhpar!Shiv Temple!Po-Bihar Sharif Thana-Bihar Sharif!Nalanda!Nalanda!Bihar!803101",
+      "alt": "8271674210",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Anjali Rani",
+      "num": "7667705772"
+    },
+    {
+      "aadhar": "477316405954",
+      "address": "!-!Vill-Nichali Kila Garhpar!Shiv Temple!Po-Bihar Sharif Thana-Bihar Sharif!Nalanda!Nalanda!Bihar!803101",
+      "alt": "8271674210",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Anjali Rani",
+      "num": "7667705772"
+    },
+    {
+      "aadhar": "477316405954",
+      "address": "!-!Vill-Nichali Kila Garhpar!Shiv Temple!Po-Bihar Sharif Thana-Bihar Sharif!Nalanda!Nalanda!Bihar!803101",
+      "alt": "8271674210",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Umesh Prasad",
+      "name": "Anjali Rani",
+      "num": "7667705772"
+    }
+  ]
+}
