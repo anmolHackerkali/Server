@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:22:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9811156106",
+  "records": [
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMIT JAIN",
+      "num": "9811156106"
+    },
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMIT JAIN",
+      "num": "9811156106"
+    },
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMITJAIN",
+      "num": "9811156106"
+    },
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMITJAIN",
+      "num": "9811156106"
+    },
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMITJAIN",
+      "num": "9811156106"
+    },
+    {
+      "aadhar": "509637623751",
+      "address": "!B-10/3!GROUP INDUSTRIAL AREA!WAZIRPUR!DELHI!DELHI!110052",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "om praksh",
+      "name": "AMITJAIN",
+      "num": "9811156106"
+    }
+  ]
+}
