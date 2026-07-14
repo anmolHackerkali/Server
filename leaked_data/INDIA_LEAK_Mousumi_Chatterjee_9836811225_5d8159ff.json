@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 20:53:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9836811225",
+  "records": [
+    {
+      "aadhar": "402926928765",
+      "address": "Utpal Chatterjee!GENPACT BUILDING NO 8!NEAR INFOSYS!POCHARAM IT RAHEJA MINDSPACE!HYDERABAD!TELANGANA!500081",
+      "alt": "9051966495",
+      "circle": "VI TELANGANA & AP",
+      "email": "MOUSUMI.CHAKRABORTY2@GENPACT.COM",
+      "fname": "Utpal Chatterjee",
+      "name": "Mousumi Chatterjee",
+      "num": "9836811225"
+    },
+    {
+      "aadhar": "236330241158",
+      "address": " S/O Sankar Chakraborty! 7-c/2unit-1 golebazar!KHARAGPUR!7-c/2unit-1 golebazar!kharagpur m!kharagpur!west midnapore!West Bengal!721301 ",
+      "alt": "9836811225",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sankar Chakraborty",
+      "name": "Sourav Chakraborty",
+      "num": "8900012013"
+    },
+    {
+      "aadhar": "236330241158",
+      "address": " S/O Sankar Chakraborty! 7-c/2unit-1 golebazar!KHARAGPUR!7-c/2unit-1 golebazar!kharagpur m!kharagpur!west midnapore!West Bengal!721301 ",
+      "alt": "9836811225",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sankar Chakraborty",
+      "name": "Sourav Chakraborty",
+      "num": "8900012013"
+    }
+  ]
+}
