@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:08:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7091939796",
+  "records": [
+    {
+      "aadhar": "659653152034",
+      "address": "!VILL BELA Aurangabad!!!!Aurangabad Aurangabad bh Aurangabad!Bihar!824101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Basist Narayan Singh",
+      "name": "Dhirendra  Singh",
+      "num": "7091939796"
+    },
+    {
+      "aadhar": "659653152034",
+      "address": "!VILL BELA Aurangabad!!!!Aurangabad Aurangabad bh Aurangabad!Bihar!824101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Basist Narayan Singh",
+      "name": "Dhirendra  Singh",
+      "num": "7091939796"
+    },
+    {
+      "aadhar": "659653152034",
+      "address": "S/O  Basist Narayan Singh!! Aurangabad bh!NA!VILL BELA!Aurangabad Aurangabad Aurangabad!NA!Bihar!824101",
+      "alt": "7091939796",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Basist Narayan Singh",
+      "name": "Dhirendra Singh",
+      "num": "7667513198"
+    },
+    {
+      "aadhar": "659653152034",
+      "address": "S/O  Basist Narayan Singh!!Aurangabad bh!NA!VILL BELA!Aurangabad Aurangabad Aurangabad!NA!Bihar!824101",
+      "alt": "7091939796",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Basist Narayan Singh",
+      "name": "Dhirendra Singh",
+      "num": "7667513198"
+    },
+    {
+      "aadhar": "659653152034",
+      "address": "S/O  Basist Narayan Singh!!Aurangabad bh!NA!VILL BELA!Aurangabad Aurangabad Aurangabad!NA!Bihar!824101",
+      "alt": "7091939796",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Basist Narayan Singh",
+      "name": "Dhirendra Singh",
+      "num": "7667513198"
+    }
+  ]
+}
