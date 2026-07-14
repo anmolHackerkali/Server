@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:39:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8573851672",
+  "records": [
+    {
+      "aadhar": "958439778403",
+      "address": " !PO. DUGREI!Dugrai  Fatehpur!. PO. DUGREI!DUGREAI-FATEHPUR!UP!212662",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "SHERA",
+      "name": "NAWSAD  ",
+      "num": "8573851672"
+    },
+    {
+      "aadhar": "958439778403",
+      "address": " !PO. DUGREI!Dugrai  Fatehpur!. PO. DUGREI!DUGREAI-FATEHPUR!UP!212662",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "SHERA",
+      "name": "NAWSAD  ",
+      "num": "8573851672"
+    }
+  ]
+}
