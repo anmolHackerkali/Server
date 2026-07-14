@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:48:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7518966411",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Hans Raj!34!! Gram Mohamadpur Sabukpur Post Husainpur Girant Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hans Raj",
+      "name": "Vinay Kumar",
+      "num": "7518966411"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Hans Raj!34!! Gram Mohamadpur Sabukpur Post Husainpur Girant Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hans Raj",
+      "name": "Vinay Kumar",
+      "num": "7518966411"
+    },
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR. ADITY KUMAR",
+      "num": "9044898534"
+    },
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR ADITY KUMAR",
+      "num": "9044898534"
+    },
+    {
+      "aadhar": "457802459862",
+      "address": "S/O JAWAHIR LAL!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR !!GRAM MUHAMMADPUR SABUKPUR POST HUSENPUR!AMBEDKAR NAGAR!UTTAR PRADESH!224190",
+      "alt": "7518966411",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jawahir Lal",
+      "name": "MR ADITY KUMAR",
+      "num": "9044898534"
+    }
+  ]
+}
