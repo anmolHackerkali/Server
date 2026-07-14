@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:57:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582685299",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O Anis!!H-N0.640 Street N0.8!Rajiv Gandhi Nagar!New mustafabaad North East!Delhi!110094",
+      "alt": "919718701674",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anis",
+      "name": "Asma",
+      "num": "9582685299"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Anis!!H-N0640Street N08!Rajiv Gandhi Nagar!New mustafabaadNorth East!Delhi!110094",
+      "alt": "919718701674",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anis",
+      "name": "Asma",
+      "num": "9582685299"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Anis!!H-N0640Street N08!Rajiv Gandhi Nagar!New mustafabaadNorth East!Delhi!110094",
+      "alt": "919718701674",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anis",
+      "name": "Asma",
+      "num": "9582685299"
+    },
+    {
+      "aadhar": "763355617631",
+      "address": "S/O Ismail! H-N0.640!Gali N0. 8 Dayalpur!!RAJIV GANDHI NAGAR!NEW MUSTAFABAD!North East!Delhi!110094",
+      "alt": "9582685299",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ismail",
+      "name": "Anish",
+      "num": "9560583411"
+    },
+    {
+      "aadhar": "763355617631",
+      "address": "S/O Ismail!H-N0640!Gali N0 8Dayalpur!!RAJIV GANDHI NAGAR!NEW MUSTAFABAD!North East!Delhi!110094",
+      "alt": "9582685299",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ismail",
+      "name": "Anish",
+      "num": "9560583411"
+    },
+    {
+      "aadhar": "763355617631",
+      "address": "S/O Ismail!H-N0640!Gali N0 8Dayalpur!!RAJIV GANDHI NAGAR!NEW MUSTAFABAD!North East!Delhi!110094",
+      "alt": "9582685299",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ismail",
+      "name": "Anish",
+      "num": "9560583411"
+    }
+  ]
+}
