@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:27:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7859845850",
+  "records": [
+    {
+      "aadhar": "664490200333",
+      "address": "!!gochnad thakorvas!!thakorvas gochnad!gochnad!patan!Gujarat!385340",
+      "alt": "8155812823",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "gandabhai",
+      "name": "Thakor Nanjibhai Gandabhai",
+      "num": "7859845850"
+    },
+    {
+      "aadhar": "664490200333",
+      "address": "!!gochnad thakorvas!!thakorvas gochnad!gochnad!patan!Gujarat!385340",
+      "alt": "8155812823",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "gandabhai",
+      "name": "Thakor Nanjibhai Gandabhai",
+      "num": "7859845850"
+    },
+    {
+      "aadhar": "664490200333",
+      "address": "!!gochnad thakorvas!!thakorvas gochnad!gochnad!patan!Gujarat!385340",
+      "alt": "8155812823",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "gandabhai",
+      "name": "Thakor Nanjibhai Gandabhai",
+      "num": "7859845850"
+    }
+  ]
+}
