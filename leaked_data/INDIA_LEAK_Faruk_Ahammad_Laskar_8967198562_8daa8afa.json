@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:09:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8967198562",
+  "records": [
+    {
+      "aadhar": "440292995141",
+      "address": " S/O  Usup Laskar!!Thakurchak!!THAKUR CHAK!Gordoani Jaynagar - II!South 24 Parganas!West Bengal!743338 ",
+      "alt": "8967198562",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Usup Laskar",
+      "name": "Faruk Ahammad Laskar",
+      "num": "9339898190"
+    },
+    {
+      "aadhar": "440292995141",
+      "address": " S/O  Usup Laskar!!Thakurchak!!THAKUR CHAK!Gordoani Jaynagar - II!South 24 Parganas!West Bengal!743338 ",
+      "alt": "8967198562",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Usup Laskar",
+      "name": "Faruk Ahammad Laskar",
+      "num": "9339898190"
+    }
+  ]
+}
