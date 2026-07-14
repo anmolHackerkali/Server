@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:31:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8737005633",
+  "records": [
+    {
+      "aadhar": "275704985297",
+      "address": "! 561-B!Railway Colony Civil Line!!Allahabad!Allahabad!Allahabad!Uttar Pradesh!211001",
+      "alt": "9794957333",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kisun Singh",
+      "name": "Santosh Kumar",
+      "num": "8737005633"
+    },
+    {
+      "aadhar": "275704985297",
+      "address": "! 561-B!Railway Colony Civil Line!!Allahabad!Allahabad!Allahabad!Uttar Pradesh!211001",
+      "alt": "9794957333",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kisun Singh",
+      "name": "Santosh Kumar",
+      "num": "8737005633"
+    }
+  ]
+}
