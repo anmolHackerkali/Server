@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:14:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7284821496",
+  "records": [
+    {
+      "aadhar": "451358314660",
+      "address": "rangli sheri  sipai vada!rangli sheri  sipai vada shivalay mandir pase!shivalay mandir pase!rangli sheri  sipai vada BHAVNAGAR!BOTAD!BHAVNAGAR!Gujarat!364710",
+      "alt": "9601479979",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Rakeshbhai Vala",
+      "name": "MR DHAVAL VALA",
+      "num": "7284821496"
+    },
+    {
+      "aadhar": "451358314660",
+      "address": "!rangli sheri  sipai vada!rangli sheri  sipai vada shivalay mandir pase!shivalay mandir pase!rangli sheri  sipai vada BHAVNAGAR!BOTAD!BHAVNAGAR!Gujarat!364710",
+      "alt": "9601479979",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Rakeshbhai Vala",
+      "name": "MR DHAVAL VALA",
+      "num": "7284821496"
+    },
+    {
+      "aadhar": "451358314660",
+      "address": "!rangli sheri  sipai vada!rangli sheri  sipai vada shivalay mandir pase!shivalay mandir pase!rangli sheri  sipai vada BHAVNAGAR!BOTAD!BHAVNAGAR!Gujarat!364710",
+      "alt": "9601479979",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Rakeshbhai Vala",
+      "name": "MR DHAVAL VALA",
+      "num": "7284821496"
+    }
+  ]
+}
