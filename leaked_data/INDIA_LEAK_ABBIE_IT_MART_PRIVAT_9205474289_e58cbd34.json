@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:10:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9205474289",
+  "records": [
+    {
+      "aadhar": "BXJPD1512K",
+      "address": "405 & 406  FOURTH FLOOR!  JMD MEGAPOLIS  SECTOR-48  SOHNA ROAD !GURUGRAM Gurgaon!Gurgaon!Haryana!122018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "ABBIE IT MART PRIVATE LIMITED",
+      "num": "9205474289"
+    },
+    {
+      "aadhar": "0124772928",
+      "address": "!405 & 406  FOURTH FLOOR!!JMD MEGAPOLIS SECTOR-48 SOHNA ROAD!GURUGRAM!Gurgaon!Gurgaon!Haryana!122018",
+      "alt": "-",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "ABBIE IT MART PRIVATE LIMITED",
+      "num": "9205474289"
+    },
+    {
+      "aadhar": "BXJPD1512K",
+      "address": "405 & 406  FOURTH FLOOR!  JMD MEGAPOLIS  SECTOR-48  SOHNA ROAD !GURUGRAM Gurgaon!Gurgaon!Haryana!122018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "ABBIE IT MART PRIVATE LIMITED",
+      "num": "9205474289"
+    },
+    {
+      "aadhar": "BXJPD1512K",
+      "address": "405 & 406  FOURTH FLOOR!  JMD MEGAPOLIS  SECTOR-48  SOHNA ROAD !GURUGRAM Gurgaon!Gurgaon!Haryana!122018",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "ABBIE IT MART PRIVATE LIMITED",
+      "num": "9205474289"
+    }
+  ]
+}
