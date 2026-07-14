@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:34:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7056613201",
+  "records": [
+    {
+      "aadhar": "xxxx-xxxx-6004",
+      "address": "W/O: Harinder Pal Singh W/O: Harinder Pal Singh   SINGHRA 21-Karnal HR 132024",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "HARINDER PAL SINGH",
+      "name": "KARAMJEET KAUR",
+      "num": "7056613201"
+    }
+  ]
+}
