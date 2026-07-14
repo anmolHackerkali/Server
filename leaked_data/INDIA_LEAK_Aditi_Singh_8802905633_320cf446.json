@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:24:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8802905633",
+  "records": [
+    {
+      "aadhar": "895988008681",
+      "address": "!62!A STREET NO 1!LAXMI NAGAR!Delhi East East!Delhi!110092",
+      "alt": "919999645652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Amrendra Kumar Singh",
+      "name": "Aditi Singh",
+      "num": "8802905633"
+    },
+    {
+      "aadhar": "895988008681",
+      "address": "!62!ASTREET NO 1!LAXMI NAGAR!Delhi EastEast!Delhi!110092",
+      "alt": "919999645652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Amrendra Kumar Singh",
+      "name": "Aditi Singh",
+      "num": "8802905633"
+    },
+    {
+      "aadhar": "895988008681",
+      "address": "!62!ASTREET NO 1!LAXMI NAGAR!Delhi EastEast!Delhi!110092",
+      "alt": "919999645652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Amrendra Kumar Singh",
+      "name": "Aditi Singh",
+      "num": "8802905633"
+    },
+    {
+      "aadhar": null,
+      "address": "ROOM NO 407 KOSHALYA RES K P II ND GR NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8802905633",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AMRENDRA KUMAR SINGH .",
+      "name": "ADITI . .",
+      "num": "9891175652"
+    },
+    {
+      "aadhar": null,
+      "address": "ROOM NO 407 KOSHALYA RES K P II ND GR NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8802905633",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AMRENDRA KUMAR SINGH ",
+      "name": "ADITI  ",
+      "num": "9891175652"
+    },
+    {
+      "aadhar": null,
+      "address": "ROOM NO 407 KOSHALYA RES K P II ND GR NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "8802905633",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "AMRENDRA KUMAR SINGH ",
+      "name": "ADITI  ",
+      "num": "9891175652"
+    }
+  ]
+}
