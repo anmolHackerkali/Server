@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:35:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9830011054",
+  "records": [
+    {
+      "aadhar": "ACRPA9725B",
+      "address": "23 A Netaji Subhas Road!8th Floor Room No 13!!Kolkata!West Bengal!700001",
+      "alt": "9830156456",
+      "circle": "JIO KOL",
+      "email": "vikash.opa@gmail.com",
+      "fname": "Vikash Agarwal",
+      "name": "Shree Krishna Iron & Steel Co Pvt Ltd",
+      "num": "9830011054"
+    },
+    {
+      "aadhar": "ACRPA9725B",
+      "address": "23 A Netaji Subhas Road!8th Floor Room No 13!!Kolkata!West Bengal!700001",
+      "alt": "9830156456",
+      "circle": "JIO KOL",
+      "email": "vikash.opa@gmail.com",
+      "fname": "Vikash Agarwal",
+      "name": "Shree Krishna Iron & Steel Co Pvt Ltd",
+      "num": "9830011054"
+    }
+  ]
+}
