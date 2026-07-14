@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:58:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299707596",
+  "records": [
+    {
+      "aadhar": "985342023166",
+      "address": "S/O: Pankaj!!1417 Sector-k1!Ashiyana!L D A Colony Lucknow!Uttar Pradesh!226012",
+      "alt": "917376811243",
+      "circle": "JIO UPE",
+      "email": "paranjaysrivastava93@gmail.com",
+      "fname": "Pankaj",
+      "name": "Paranjay Srivastava",
+      "num": "8299707596"
+    },
+    {
+      "aadhar": "985342023166",
+      "address": "S/O: Pankaj!!1417 Sector-k1!Ashiyana!L D A Colony Lucknow!Uttar Pradesh!226012",
+      "alt": "917376811243",
+      "circle": "JIO UPE",
+      "email": "paranjaysrivastava93@gmail.com",
+      "fname": "Pankaj",
+      "name": "Paranjay Srivastava",
+      "num": "8299707596"
+    },
+    {
+      "aadhar": "UP3220150036919",
+      "address": "! ff 21 pmc!maheshwari Nagar!near St anns public school!mahadevapura!Bangalore East!Bangalore!Karnataka!560048",
+      "alt": "8299707596",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Pankaj",
+      "name": "Paranjay srivastava",
+      "num": "9019212387"
+    }
+  ]
+}
