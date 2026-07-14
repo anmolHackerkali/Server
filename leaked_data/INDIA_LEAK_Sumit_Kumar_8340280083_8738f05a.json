@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:09:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340280083",
+  "records": [
+    {
+      "aadhar": "211615520614",
+      "address": "C/O Sanjiv Kumar!!Nepura Near Siva Temple!!Asthawan Nalanda!Bihar!803107",
+      "alt": "919037116434",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanjiv kumar",
+      "name": "Sumit Kumar",
+      "num": "8340280083"
+    },
+    {
+      "aadhar": "211615520614",
+      "address": "C/O Sanjiv Kumar!!Nepura Near Siva Temple!!Asthawan Nalanda!Bihar!803107",
+      "alt": "919037116434",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanjiv kumar",
+      "name": "Sumit Kumar",
+      "num": "8340280083"
+    },
+    {
+      "aadhar": "211615520614",
+      "address": "C/O Sanjiv Kumar!!Nepura Near Siva Temple!!Asthawan Nalanda!Bihar!803107",
+      "alt": "919037116434",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanjiv kumar",
+      "name": "Sumit Kumar",
+      "num": "8340280083"
+    }
+  ]
+}
