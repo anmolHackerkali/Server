@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:14:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7678247798",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!215  3rd Floor Tagore Park North West Model Town!!Dr Muhkerjee Nagar North West Delhi!Delhi!110009",
+      "alt": "919811068168",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand kishore bhasin",
+      "name": "Dushyant Bhasin",
+      "num": "7678247798"
+    },
+    {
+      "aadhar": "903348976435",
+      "address": "W/O Narinder Kumar Soni!!!A135RAMA PARK!UTTAM NAGAR West Delhi!Delhi!110059",
+      "alt": "+919818326914",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Narinder Kumar Soni",
+      "name": "Kiran Soni",
+      "num": "7678247798"
+    },
+    {
+      "aadhar": null,
+      "address": "!!215 3rd FloorTagore ParkNorth West Model Town!!Dr Muhkerjee NagarNorth West Delhi!Delhi!110009",
+      "alt": "919811068168",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand kishore bhasin",
+      "name": "Dushyant Bhasin",
+      "num": "7678247798"
+    },
+    {
+      "aadhar": "903348976435",
+      "address": "W/O Narinder Kumar Soni!!!A135RAMA PARK!UTTAM NAGAR West Delhi!Delhi!110059",
+      "alt": "+919818326914",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Narinder Kumar Soni",
+      "name": "Kiran Soni",
+      "num": "7678247798"
+    },
+    {
+      "aadhar": null,
+      "address": "!!215 3rd FloorTagore ParkNorth West Model Town!!Dr Muhkerjee NagarNorth West Delhi!Delhi!110009",
+      "alt": "919811068168",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand kishore bhasin",
+      "name": "Dushyant Bhasin",
+      "num": "7678247798"
+    },
+    {
+      "aadhar": "903348976435",
+      "address": "W/O Narinder Kumar Soni!!!A135RAMA PARK!UTTAM NAGAR West Delhi!Delhi!110059",
+      "alt": "+919818326914",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Narinder Kumar Soni",
+      "name": "Kiran Soni",
+      "num": "7678247798"
+    }
+  ]
+}
