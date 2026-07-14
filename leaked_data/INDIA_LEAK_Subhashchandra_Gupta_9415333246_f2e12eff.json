@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:32:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9415333246",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Autar Gupta!!! ovri Ovri!Maharajganj!Uttar Pradesh!273304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Autar Gupta",
+      "name": "Subhashchandra Gupta",
+      "num": "9415333246"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Autar Gupta!!! ovri Ovri!Maharajganj!Uttar Pradesh!273304",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Autar Gupta",
+      "name": "Subhashchandra Gupta",
+      "num": "9415333246"
+    }
+  ]
+}
