@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:11:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9205569962",
+  "records": [
+    {
+      "aadhar": "640967147322",
+      "address": "!rz t 70/228!!dayal park!west sagarpur!nangal raya s.o!south west delhi!Delhi!110046",
+      "alt": "7739802233",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "saytay prakaash singh",
+      "name": "Gaurav Kumar Singh",
+      "num": "9205569962"
+    },
+    {
+      "aadhar": "640967147322",
+      "address": "!rz t 70/228!!dayal park!west sagarpur!nangal raya so!south west delhi!Delhi!110046",
+      "alt": "7739802233",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "saytay prakaash singh",
+      "name": "Gaurav Kumar Singh",
+      "num": "9205569962"
+    },
+    {
+      "aadhar": "640967147322",
+      "address": "!rz t 70/228!!dayal park!west sagarpur!nangal raya so!south west delhi!Delhi!110046",
+      "alt": "7739802233",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "saytay prakaash singh",
+      "name": "Gaurav Kumar Singh",
+      "num": "9205569962"
+    },
+    {
+      "aadhar": "640967147322",
+      "address": "S/O SATYA PRAKASH!RZ T 70/228 DAYAL PARK!WEST SAGARPUR!!West sagarpur!Nangal Raya S.O!South West Delhi!Delhi!110046",
+      "alt": "9205569962",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SATYA PRAKASH",
+      "name": "GAURAV KUMAR SINGH",
+      "num": "9891684916"
+    },
+    {
+      "aadhar": "640967147322",
+      "address": "S/O SATYA PRAKASH!RZ T 70/228 DAYAL PARK!WEST SAGARPUR!!West sagarpur!Nangal Raya SO!South West Delhi!Delhi!110046",
+      "alt": "9205569962",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SATYA PRAKASH",
+      "name": "GAURAV KUMAR SINGH",
+      "num": "9891684916"
+    },
+    {
+      "aadhar": "640967147322",
+      "address": "S/O SATYA PRAKASH!RZ T 70/228 DAYAL PARK!WEST SAGARPUR!!West sagarpur!Nangal Raya SO!South West Delhi!Delhi!110046",
+      "alt": "9205569962",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SATYA PRAKASH",
+      "name": "GAURAV KUMAR SINGH",
+      "num": "9891684916"
+    }
+  ]
+}
