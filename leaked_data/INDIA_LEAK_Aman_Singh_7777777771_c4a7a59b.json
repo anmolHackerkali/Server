@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:33:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7777777771",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Rajendra Singh!House No 121!Gali No 3 Wazirabad!Wazirabad NORTH DELHI!Wazirabad!DELHI!NORTH DELHI!Delhi!110084",
+      "alt": "7777777771",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rajendra Singh",
+      "name": "Aman Singh",
+      "num": "9953971424"
+    },
+    {
+      "aadhar": null,
+      "address": "Rajendra Singh!House No 121!Gali No 3Wazirabad!WazirabadNORTH DELHI!Wazirabad!DELHI!NORTH DELHI!Delhi!110084",
+      "alt": "7777777771",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rajendra Singh",
+      "name": "Aman Singh",
+      "num": "9953971424"
+    },
+    {
+      "aadhar": null,
+      "address": "Rajendra Singh!House No 121!Gali No 3Wazirabad!WazirabadNORTH DELHI!Wazirabad!DELHI!NORTH DELHI!Delhi!110084",
+      "alt": "7777777771",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Rajendra Singh",
+      "name": "Aman Singh",
+      "num": "9953971424"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shamim Khan!Mandi moholla!. near by power house!. Raisen!near by power house!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Shamim Khan",
+      "name": "Sarim Khan",
+      "num": "9993954179"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Mohammad Said!ward no 05!jahid colony bareli!. Raisen!!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "C/O Mohammad Said",
+      "name": "Asif Khan",
+      "num": "9993907785"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bhagvan Singh Prajapati!.!. ward no.2!pashuchikitshaly ke pass Raisen!ward no.2!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Bhagvan Singh Prajapati",
+      "name": "Manoj Kumar Prajapati",
+      "num": "9993541630"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jeevan Lal!.!.!kathotiya Narsimhapur!!GADARWARA!Narsimhapur!Madhya Pradesh!487551",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Jeevan Lal",
+      "name": "Rajkumar Kachhi",
+      "num": "9993400529"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Hariram!.!Ward 4!saket nagar Raisen!!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Hariram",
+      "name": "Hanumat Singh",
+      "num": "9993223866"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Deepak Sharma!.!.!gram chhabaraRaisen!!RAISEN!Raisen!Madhya Pradesh!464671",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "W/O Deepak Sharma",
+      "name": "Archana Sharma",
+      "num": "9993103967"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Praveen Kumar Jain!ward 09!jain mohalla bagalwada road!bareli Raisen!bagalwada road!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Praveen Kumar Jain",
+      "name": "Prabal Kumar Jain",
+      "num": "9993065151"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ganesh Prasad Panthi!41!sai ram colony semra gate!bhopal Bhopal!semra gate!BADJHIRI!Bhopal!Madhya Pradesh!462001",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Ganesh Prasad Panthi",
+      "name": "Dilip Panthi",
+      "num": "9981857542"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Raghuraj Singh Thakur!.!.!kothari Raisen!!RAISEN!Raisen!Madhya Pradesh!464665",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Raghuraj Singh Thakur",
+      "name": "Ashish Thakur",
+      "num": "9981690307"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Julfkar Kha!ward.no. 8!vidua colony!bareli Raisen!!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Julfkar Kha",
+      "name": "Arbaj Kha",
+      "num": "9981576235"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bhujja!.!.!. Raisen!!BARELI!Raisen!Madhya Pradesh!464668",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Bhujja",
+      "name": "Koduram ",
+      "num": "9981361463"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramesh Dhakad!house no.223!nadi road near hanuman mandir!gram chhabara Raisen!near hanuman mandir!RAISEN!Raisen!Madhya Pradesh!464671",
+      "alt": "7777777771",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Ramesh Dhakad",
+      "name": "Deepesh Dhakad",
+      "num": "9981343826"
+    }
+  ]
+}
