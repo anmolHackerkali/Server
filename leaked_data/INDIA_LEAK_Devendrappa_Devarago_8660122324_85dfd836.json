@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:07:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8660122324",
+  "records": [
+    {
+      "aadhar": "415791610150",
+      "address": "S/O Mareppa!2-1981!Chodeshwari nagar!near ambigara choudayya temple!choudeshwari nagar!shahapur!Yadgir!Karnataka!585223",
+      "alt": "9880537795",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Mareppa",
+      "name": "Devendrappa Devaragonal",
+      "num": "8660122324"
+    }
+  ]
+}
