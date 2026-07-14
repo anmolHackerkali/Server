@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:10:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7778920141",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 435 Geeta gram society Bharat Nagar Gandhidham GUJARAT 370240 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " WANKHEDEDHERAJ ",
+      "num": "7778920141"
+    },
+    {
+      "aadhar": null,
+      "address": " 435 Geeta gram society Bharat Nagar Gandhidham GUJARAT 370240 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " WANKHEDEDHERAJ ",
+      "num": "7778920141"
+    }
+  ]
+}
