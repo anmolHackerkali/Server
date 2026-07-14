@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:26:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8884908908",
+  "records": [
+    {
+      "aadhar": "934991412267",
+      "address": "!NO 100!Hanumaiahna Palya kannamedi post!Kannamedi!Pavagada!Tumkur!Tumkur!Karnataka!561202",
+      "alt": "6361550190",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Badappa",
+      "name": "Balaraju B",
+      "num": "8884908908"
+    },
+    {
+      "aadhar": "934991412267",
+      "address": "12 Hanumaiahna palya kannamedi post  pavagada TUMKUR Tumakuru Karnataka 561202",
+      "alt": "8884908908",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Badappa   ",
+      "name": "Balaraju  ",
+      "num": "9606206048"
+    },
+    {
+      "aadhar": "934991412267",
+      "address": "S/O Badappa Hanumaiahna Palya Kannamedi Post Pavagada   Tumkur  Karnataka 561202",
+      "alt": "8884908908",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Badappa",
+      "name": "Balaraju",
+      "num": "9148289156"
+    }
+  ]
+}
