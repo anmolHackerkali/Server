@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:35:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7985693402",
+  "records": [
+    {
+      "aadhar": "385479394184",
+      "address": "S/O  Ashok Kumar Singh!!house no 73  Berwai!mauranipur!Berwai Mauranipur Jhansi!Uttar Pradesh!284204",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": "singhutkarsh277@gmail.com",
+      "fname": "Ashok Kumar Singh",
+      "name": "Arun Yadav",
+      "num": "7985693402"
+    },
+    {
+      "aadhar": "385479394184",
+      "address": "S/O  Ashok Kumar Singh!!house no 73  Berwai!mauranipur!Berwai Mauranipur Jhansi!Uttar Pradesh!284204",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": "singhutkarsh277@gmail.com",
+      "fname": "Ashok Kumar Singh",
+      "name": "Arun Yadav",
+      "num": "7985693402"
+    },
+    {
+      "aadhar": "230703605334",
+      "address": "s/o  anil singh!!Sijari Buzurg!sijari buzurg!gram-larauni post-sijari bujurg tahsil-mauranipur!larauni Mauranipur!jhansi!Uttar Pradesh!284204",
+      "alt": "7985693402",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "anil singh",
+      "name": "Akshay Pratap Singh",
+      "num": "7905645056"
+    },
+    {
+      "aadhar": "230703605334",
+      "address": "s/o  anil singh!!Sijari Buzurg!sijari buzurg!gram-larauni post-sijari bujurg tahsil-mauranipur!larauni Mauranipur!jhansi!Uttar Pradesh!284204",
+      "alt": "7985693402",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "anil singh",
+      "name": "Akshay Pratap Singh",
+      "num": "7905645056"
+    }
+  ]
+}
