@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:16:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9044024118",
+  "records": [
+    {
+      "aadhar": "375943126518",
+      "address": "S/O Faiyaz Khan!3632 new patel nagar!Orai!!Jalaun!Jalaun!!Uttar Pradesh!285001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faiyaz Khan",
+      "name": "Zahid Khan",
+      "num": "9044024118"
+    },
+    {
+      "aadhar": "375943126518",
+      "address": "S/O Faiyaz Khan!3632 new patel nagar!Orai!!Jalaun!Jalaun!!Uttar Pradesh!285001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faiyaz Khan",
+      "name": "Zahid Khan",
+      "num": "9044024118"
+    },
+    {
+      "aadhar": "375943126518",
+      "address": "!3632!New Patel Nagar!!Orai!Jalaun!!Uttar Pradesh!285001",
+      "alt": "9044024118",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faiyaz Khan",
+      "name": "Zahid Khan",
+      "num": "9170231632"
+    },
+    {
+      "aadhar": "804874719436",
+      "address": "!00!naya patel nagar!!orai jalaun!Jalaun!!Uttar Pradesh!285001",
+      "alt": "9044024118",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "rakesh kumar sirohi",
+      "name": "Abhay Sirohi",
+      "num": "8381991767"
+    },
+    {
+      "aadhar": "375943126518",
+      "address": "!3632!New Patel Nagar!!Orai!Jalaun!!Uttar Pradesh!285001",
+      "alt": "9044024118",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faiyaz Khan",
+      "name": "Zahid Khan",
+      "num": "9170231632"
+    },
+    {
+      "aadhar": "804874719436",
+      "address": "!00!naya patel nagar!!orai jalaun!Jalaun!!Uttar Pradesh!285001",
+      "alt": "9044024118",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "rakesh kumar sirohi",
+      "name": "Abhay Sirohi",
+      "num": "8381991767"
+    }
+  ]
+}
