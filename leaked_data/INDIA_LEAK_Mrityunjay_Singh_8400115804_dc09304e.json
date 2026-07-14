@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:04:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8400115804",
+  "records": [
+    {
+      "aadhar": "511345467466",
+      "address": "S/O Chhunnan Prasad!Parmanandpur!!!Varanasi!Uttar Pradesh!221003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chhunnan Prasad",
+      "name": "Mrityunjay Singh",
+      "num": "8400115804"
+    },
+    {
+      "aadhar": "511345467466",
+      "address": "S/O Chhunnan Prasad!Parmanandpur!!!Varanasi!Uttar Pradesh!221003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chhunnan Prasad",
+      "name": "Mrityunjay Singh",
+      "num": "8400115804"
+    }
+  ]
+}
