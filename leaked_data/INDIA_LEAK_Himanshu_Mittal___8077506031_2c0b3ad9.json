@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:23:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077506031",
+  "records": [
+    {
+      "aadhar": "726441339087",
+      "address": "S/OPradeep Kumar Gupta!!H No 499 Near ParkBackside Hanuman MandirAwas Vikas Colony!Roorkee!RoorkeeHaridwar!Uttarakhand!247667",
+      "alt": "+919576427741",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "pradeep Kumar Gupta",
+      "name": "Himanshu Mittal  ",
+      "num": "8077506031"
+    },
+    {
+      "aadhar": "713029497467",
+      "address": "!ramji chak.!digha.!!ramji chak!patna!Patna!BIHAR!800013",
+      "alt": "8077506031",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "SUKHARI PRASAD",
+      "name": "PRAMODKUMAR",
+      "num": "9472949767"
+    },
+    {
+      "aadhar": "713029497467",
+      "address": "!ramji chak.!digha.!!ramji chak!patna!Patna!BIHAR!800013",
+      "alt": "8077506031",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "SUKHARI PRASAD",
+      "name": "PRAMODKUMAR",
+      "num": "9472949767"
+    },
+    {
+      "aadhar": "XXXXXXXX7467",
+      "address": " ramji chak.   digha.  ramji chak patna  Patna BIHAR 800013 ",
+      "alt": "8077506031",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " SUKHARI PRASAD ",
+      "name": " PRAMOD  KUMAR ",
+      "num": "9472949767"
+    },
+    {
+      "aadhar": "XXXXXXXX7467",
+      "address": " ramji chak.   digha.  ramji chak patna  Patna BIHAR 800013 ",
+      "alt": "8077506031",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " SUKHARI PRASAD ",
+      "name": " PRAMOD  KUMAR ",
+      "num": "9472949767"
+    },
+    {
+      "aadhar": "713029497467",
+      "address": "!ramji chak.!digha.!!ramji chak!patna!Patna!BIHAR!800013",
+      "alt": "8077506031",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "SUKHARI PRASAD",
+      "name": "PRAMODKUMAR",
+      "num": "9472949767"
+    }
+  ]
+}
