@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:39:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8427640756",
+  "records": [
+    {
+      "aadhar": "850651649412",
+      "address": "W/O PRITHI PAL SINGH SODHI!HOUSE NO 3136!!SECTOR 27-DCHANDIGARHSECTOR 19CHANDIGARH!CHANDIGARH!CHANDIGARH!160019",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "PRITHI",
+      "name": "RINKU SODHI",
+      "num": "8427640756"
+    }
+  ]
+}
