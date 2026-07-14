@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:47:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7870801488",
+  "records": [
+    {
+      "aadhar": "677034535975",
+      "address": "s/o shekh najmuddin! ward no 11!bankat!school!bankat praina!puraina gosain!west champaran!Bihar!845449",
+      "alt": "7870801488",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shekh najmuddin",
+      "name": "Neyajuddin Alam",
+      "num": "9508504381"
+    },
+    {
+      "aadhar": "746278046008",
+      "address": "S/O  Sheikh Nejamuddin!!Puraina Gosai!!bankat bagahi!Puraina Gosain Chanpatia!West Champaran!Bihar!845449",
+      "alt": "7870801488",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sheikh Nejamuddin",
+      "name": "Mohammad Aushan Alam",
+      "num": "9973325114"
+    },
+    {
+      "aadhar": "677034535975",
+      "address": "s/o shekh najmuddin! ward no 11!bankat!school!bankat praina!puraina gosain!west champaran!Bihar!845449",
+      "alt": "7870801488",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shekh najmuddin",
+      "name": "Neyajuddin Alam",
+      "num": "9508504381"
+    },
+    {
+      "aadhar": "746278046008",
+      "address": "S/O  Sheikh Nejamuddin!!Puraina Gosai!!bankat bagahi!Puraina Gosain Chanpatia!West Champaran!Bihar!845449",
+      "alt": "7870801488",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sheikh Nejamuddin",
+      "name": "Mohammad Aushan Alam",
+      "num": "9973325114"
+    },
+    {
+      "aadhar": "677034535975",
+      "address": "s/o shekh najmuddin! ward no 11!bankat!school!bankat praina!puraina gosain!west champaran!Bihar!845449",
+      "alt": "7870801488",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shekh najmuddin",
+      "name": "Neyajuddin Alam",
+      "num": "9508504381"
+    }
+  ]
+}
