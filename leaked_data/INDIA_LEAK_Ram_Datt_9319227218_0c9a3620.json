@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:20:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319227218",
+  "records": [
+    {
+      "aadhar": "842362590541",
+      "address": "!C 30!Harijan Basti!!Kondli!Delhi!east delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jhabbu Lal",
+      "name": "Ram Datt",
+      "num": "9319227218"
+    },
+    {
+      "aadhar": "842362590541",
+      "address": "!C 30 Harijan Basti Kondli  Delhi east delhi Delhi 110096!!!!!!!",
+      "alt": "9811490974",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Jhabbu Lal",
+      "name": "Ram Datt",
+      "num": "9319227218"
+    },
+    {
+      "aadhar": "842362590541",
+      "address": "!C 30!Harijan Basti!!Kondli!Delhi!east delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jhabbu Lal",
+      "name": "Ram Datt",
+      "num": "9319227218"
+    },
+    {
+      "aadhar": "842362590541",
+      "address": "!C 30!Harijan Basti!!Kondli!Delhi!east delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jhabbu Lal",
+      "name": "Ram Datt",
+      "num": "9319227218"
+    }
+  ]
+}
