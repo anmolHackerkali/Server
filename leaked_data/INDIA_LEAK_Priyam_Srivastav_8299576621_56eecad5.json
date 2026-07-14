@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:14:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299576621",
+  "records": [
+    {
+      "aadhar": "401050053161",
+      "address": "S/O Sushil Kumar!!2/375-A SECTOR L L.D.A. COLONY KANPUR ROAD LUCKNOW CHANCELLOR CLUB AASHIYANA!SECTOR L AASHIYANA!lucknow Lucknow!Uttar Pradesh!226012",
+      "alt": "919454886957",
+      "circle": "JIO UPE",
+      "email": "priyamsrivastava29893@gmail.com",
+      "fname": "Sushil Kumar",
+      "name": "Priyam Srivastav",
+      "num": "8299576621"
+    },
+    {
+      "aadhar": "401050053161",
+      "address": "S/O Sushil Kumar!!2/375-A SECTOR L L.D.A. COLONY KANPUR ROAD LUCKNOW CHANCELLOR CLUB AASHIYANA!SECTOR L AASHIYANA!lucknow Lucknow!Uttar Pradesh!226012",
+      "alt": "919454886957",
+      "circle": "JIO UPE",
+      "email": "priyamsrivastava29893@gmail.com",
+      "fname": "Sushil Kumar",
+      "name": "Priyam Srivastav",
+      "num": "8299576621"
+    }
+  ]
+}
