@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:26:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8013224846",
+  "records": [
+    {
+      "aadhar": "653228452461",
+      "address": " !s/o durga rajak 23 katadanga road po fingapara!fingapara!!barrackpur i fingapara!North Presidency!North Twenty Four Parganas!West Bengal!743129 ",
+      "alt": "7439175980",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "durga rajak",
+      "name": "Ranjeet Rajak",
+      "num": "8013224846"
+    },
+    {
+      "aadhar": "653228452461",
+      "address": " !s/o durga rajak 23 katadanga road po fingapara!fingapara!!barrackpur i fingapara!North Presidency!North Twenty Four Parganas!West Bengal!743129 ",
+      "alt": "7439175980",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "durga rajak",
+      "name": "Ranjeet Rajak",
+      "num": "8013224846"
+    }
+  ]
+}
