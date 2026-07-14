@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:25:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004725475",
+  "records": [
+    {
+      "aadhar": "791405457968",
+      "address": "S/O   ACHIMBHIT PRASAD SINGH!!thana shahkund village post kodanda KODANDA!!koranda!KODANDA SHAHKUND!BHAGALPUR!Bihar!813108",
+      "alt": "9708287233",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ACHaMBHIT PRASAD SINGH",
+      "name": "Shyam Kishore Singh",
+      "num": "7004725475"
+    },
+    {
+      "aadhar": "791405457968",
+      "address": "S/O   ACHIMBHIT PRASAD SINGH!!thana shahkund village post kodanda KODANDA!!koranda!KODANDA SHAHKUND!BHAGALPUR!Bihar!813108",
+      "alt": "9708287233",
+      "circle": "JIO BHR&JHR",
+      "email": "SHAYAMKISHRESINGH@GMAIL.COM",
+      "fname": "ACHaMBHIT PRASAD SINGH",
+      "name": "Shyam Kishore Singh",
+      "num": "7004725475"
+    },
+    {
+      "aadhar": "791405457968",
+      "address": "S/O   ACHIMBHIT PRASAD SINGH!!thana shahkund village post kodanda KODANDA!!koranda!KODANDA SHAHKUND!BHAGALPUR!Bihar!813108",
+      "alt": "9708287233",
+      "circle": "JIO BHR&JHR",
+      "email": "SHAYAMKISHRESINGH@GMAIL.COM",
+      "fname": "ACHaMBHIT PRASAD SINGH",
+      "name": "Shyam Kishore Singh",
+      "num": "7004725475"
+    }
+  ]
+}
