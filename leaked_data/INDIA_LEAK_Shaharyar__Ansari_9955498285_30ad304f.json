@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:56:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955498285",
+  "records": [
+    {
+      "aadhar": "722658913412",
+      "address": "S/O Abdul Bari Ansari!panchayat-mahuawa katharwa!!semara Harnatanr!ward no 04!West Champaran!Bihar!845105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Abdul Bari Ansari",
+      "name": "Shaharyar  Ansari",
+      "num": "9955498285"
+    },
+    {
+      "aadhar": "722658913412",
+      "address": "S/O Abdul Bari Ansari!panchayat-mahuawa katharwa!!semara Harnatanr!ward no 04!West Champaran!Bihar!845105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Abdul Bari Ansari",
+      "name": "Shaharyar  Ansari",
+      "num": "9955498285"
+    }
+  ]
+}
