@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:07:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8935871360",
+  "records": [
+    {
+      "aadhar": "420420830752",
+      "address": "109!situmdih!Sonahatu  ranchi!Landupdih!Ranchi!Ranchi!Jharkhand!835225",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Prahalad Kumhar",
+      "name": "Jay Dev Kumhar",
+      "num": "8935871360"
+    },
+    {
+      "aadhar": "420420830752",
+      "address": "109!situmdih!Sonahatu  ranchi!Landupdih!Ranchi!Ranchi!Jharkhand!835225",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Prahalad Kumhar",
+      "name": "Jay Dev Kumhar",
+      "num": "8935871360"
+    }
+  ]
+}
