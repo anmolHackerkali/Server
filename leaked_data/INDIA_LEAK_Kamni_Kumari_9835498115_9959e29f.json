@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:20:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835498115",
+  "records": [
+    {
+      "aadhar": "274575549436",
+      "address": "W/O  Ram Bhros Singh!!ward-09 Chora Tabhka!!CHANDSURARI!Chandsurari Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9060807786",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Bhros Singh",
+      "name": "Kamni Kumari",
+      "num": "9835498115"
+    },
+    {
+      "aadhar": "274575549436",
+      "address": "W/O  Ram Bhros Singh!!ward-09 Chora Tabhka!!CHANDSURARI!Chandsurari Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9060807786",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Bhros Singh",
+      "name": "Kamni Kumari",
+      "num": "9835498115"
+    },
+    {
+      "aadhar": "274575549436",
+      "address": "W/O  Ram Bhros Singh!!ward-09 Chora Tabhka!!CHANDSURARI!Chandsurari Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9060807786",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Bhros Singh",
+      "name": "Kamni Kumari",
+      "num": "9835498115"
+    }
+  ]
+}
