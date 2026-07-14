@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:38:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9506698744",
+  "records": [
+    {
+      "aadhar": "843999841613",
+      "address": "!96 m!reliance academy!gorakhpur!rail vihar phase 4 karim nager urf pokharbhinda gorakhpur!Gorakhpur!Gorakhpur!Uttar Pradesh!273013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": "imtiyazgkp4@gmail.com",
+      "fname": "birendra singh",
+      "name": "Ranju Sinha",
+      "num": "9506698744"
+    },
+    {
+      "aadhar": "843999841613",
+      "address": "!96 m!reliance academy!gorakhpur!rail vihar phase 4 karim nager urf pokharbhinda gorakhpur!Gorakhpur!Gorakhpur!Uttar Pradesh!273013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": "imtiyazgkp4@gmail.com",
+      "fname": "birendra singh",
+      "name": "Ranju Sinha",
+      "num": "9506698744"
+    }
+  ]
+}
