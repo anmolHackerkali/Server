@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:38:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8084866351",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "68!Rampurwa   Rampur!W Champaran!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Vindeshwari Sah",
+      "name": "Dukhi  Sah",
+      "num": "8084866351"
+    },
+    {
+      "aadhar": null,
+      "address": "68!Rampurwa   Rampur!W Champaran!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Vindeshwari Sah",
+      "name": "Dukhi  Sah",
+      "num": "8084866351"
+    }
+  ]
+}
