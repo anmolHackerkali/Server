@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:21:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9198817433",
+  "records": [
+    {
+      "aadhar": "775328634513",
+      "address": "W/O Mo Taukir!027 Bhikhipur!RAJA FATTEPUR!!Singhpur Tiloi Rae Bareli Raebarely!Raibareilly!Raebareli!Uttar Pradesh!229001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mo Taukir",
+      "name": "Rukaiya Bano",
+      "num": "9198817433"
+    },
+    {
+      "aadhar": "775328634513",
+      "address": "W/O Mo Taukir!027 Bhikhipur!RAJA FATTEPUR!!Singhpur Tiloi Rae Bareli Raebarely!Raibareilly!Raebareli!Uttar Pradesh!229001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mo Taukir",
+      "name": "Rukaiya Bano",
+      "num": "9198817433"
+    },
+    {
+      "aadhar": "291447336635",
+      "address": "S/O RAM KISHUN!41!SITAPURRUKUNPUR!RUKUNPUR!TILOI Rae bareliRAE BARELI!RAE BARELI RAEBAREL!UTTAR PRADESH!229001",
+      "alt": "9198817433",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Kishun",
+      "name": "MR. SHIV KUMAR",
+      "num": "7408005407"
+    },
+    {
+      "aadhar": "291447336635",
+      "address": "S/O RAM KISHUN!41!SITAPUR RUKUNPUR!RUKUNPUR!TILOI Rae bareli RAE BARELI!RAE BARELI  RAEBAREL!UTTAR PRADESH!229001",
+      "alt": "9198817433",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Kishun",
+      "name": "MR SHIV KUMAR",
+      "num": "7408005407"
+    },
+    {
+      "aadhar": "291447336635",
+      "address": "S/O RAM KISHUN!41!SITAPUR RUKUNPUR!RUKUNPUR!TILOI Rae bareli RAE BARELI!RAE BARELI  RAEBAREL!UTTAR PRADESH!229001",
+      "alt": "9198817433",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Kishun",
+      "name": "MR SHIV KUMAR",
+      "num": "7408005407"
+    }
+  ]
+}
