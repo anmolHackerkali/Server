@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:43:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7667094443",
+  "records": [
+    {
+      "aadhar": "866322188951",
+      "address": "s/o  hadish ansari!!VILL BALHA MANORATH janakpur road Janakpur Road!!POST RASALPUR ps bajpatti BALHA MANORATH JANAKPUR ROAD!balha manorath Bajpatti!sitamarhi!Bihar!843320",
+      "alt": "7888853374",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "hadish ansari",
+      "name": "Saifuddin Ansari",
+      "num": "7667094443"
+    },
+    {
+      "aadhar": "866322188951",
+      "address": "s/o  hadish ansari!!VILL BALHA MANORATH janakpur road Janakpur Road!!POST RASALPUR ps bajpatti BALHA MANORATH JANAKPUR ROAD!balha manorath Bajpatti!sitamarhi!Bihar!843320",
+      "alt": "7888853374",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "hadish ansari",
+      "name": "Saifuddin Ansari",
+      "num": "7667094443"
+    }
+  ]
+}
