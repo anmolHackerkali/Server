@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:31:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004437727",
+  "records": [
+    {
+      "aadhar": "584978758843",
+      "address": "S/O  Vishwanath Prasad Yadav!! Sitamarhi!mahavir chaok ward no 07 dumra!Dumra Dumra Sitamarhi!Bihar!843301",
+      "alt": "919708333986",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vishwanath Prasad Yadav",
+      "name": "Annu Kumar",
+      "num": "7004437727"
+    },
+    {
+      "aadhar": "584978758843",
+      "address": "S/O  Vishwanath Prasad Yadav!! Sitamarhi!mahavir chaok ward no 07 dumra!Dumra Dumra Sitamarhi!Bihar!843301",
+      "alt": "919708333986",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vishwanath Prasad Yadav",
+      "name": "Annu Kumar",
+      "num": "7004437727"
+    },
+    {
+      "aadhar": "584978758843",
+      "address": "S/O  Vishwanath Prasad Yadav!! Sitamarhi!mahavir chaok ward no 07 dumra!Dumra Dumra Sitamarhi!Bihar!843301",
+      "alt": "919708333986",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vishwanath Prasad Yadav",
+      "name": "Annu Kumar",
+      "num": "7004437727"
+    }
+  ]
+}
