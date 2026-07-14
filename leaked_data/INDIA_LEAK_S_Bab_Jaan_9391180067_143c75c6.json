@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:59:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9391180067",
+  "records": [
+    {
+      "aadhar": "521580326674",
+      "address": "S/O Masthan Sab!!14-104 Devarentipalli!NA!Devarentipalli!Nallacheruvu Anantapur!NA!Andhra Pradesh!515551",
+      "alt": "9963439887",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Masthan Sab",
+      "name": "S Bab Jaan",
+      "num": "9391180067"
+    }
+  ]
+}
