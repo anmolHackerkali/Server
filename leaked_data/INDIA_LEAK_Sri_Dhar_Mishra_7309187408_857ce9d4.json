@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:44:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7309187408",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!55!2nd Main!!Btm 2nd Stgae!Bangalore!Bengaluru Urban!Karnataka!560076",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Rakesh Mishra",
+      "name": "Sri Dhar Mishra",
+      "num": "7309187408"
+    },
+    {
+      "aadhar": "631437075063",
+      "address": "s/o  avadhnarayan!!Amilia Kalan!!choravana amiliya kala meja!amilia kalan Meja!allahabad!Uttar Pradesh!212303",
+      "alt": "7309187408",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "avadhnarayan",
+      "name": "Anil Kumar Yadav",
+      "num": "8467048705"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": "s/o  rakesh mishra!!Meja Road!!chaukatha gaura chaukatha gaura meja!meja road Meja!allahabad!Uttar Pradesh!212303",
+      "alt": "7309187408",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rakesh mishra",
+      "name": "Sri Dhar Mishra",
+      "num": "6392855694"
+    },
+    {
+      "aadhar": "631437075063",
+      "address": "s/o  avadhnarayan!!Amilia Kalan!!choravana amiliya kala meja!amilia kalan Meja!allahabad!Uttar Pradesh!212303",
+      "alt": "7309187408",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "avadhnarayan",
+      "name": "Anil Kumar Yadav",
+      "num": "8467048705"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": "s/o  rakesh mishra!!Meja Road!!chaukatha gaura chaukatha gaura meja!meja road Meja!allahabad!Uttar Pradesh!212303",
+      "alt": "7309187408",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rakesh mishra",
+      "name": "Sri Dhar Mishra",
+      "num": "6392855694"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": "S/O  Rakesh Mishra!64 2nd Cross!Sc Road Gandhinagar!!Bangalore BANGALORE!BANGALORE!BANGALORE!Karnataka!560009",
+      "alt": "7309187408",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Rakesh Mishra",
+      "name": "MR  SRI DHAR MISHRA",
+      "num": "9916108774"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": "!59 2nd Cross 8th Main!Bazar Street!!Neelasandra BANGALORE!BANGALORE!BANGALORE!Karnataka!560047",
+      "alt": "7309187408",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Rakesh Mishra",
+      "name": "MR  SRI DHAR MISHRA",
+      "num": "8095852271"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": " !33!Bazzer Street!!Neelasandra Banglore BANGALORE!BANGALORE!BANGALORE!Karnataka!560047",
+      "alt": "7309187408",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Rakesh Mishra",
+      "name": "MR  SRI DHAR MISHRA",
+      "num": "8095611483"
+    },
+    {
+      "aadhar": "442126687560",
+      "address": "!34!Bazzer Street!!Neelasandra Banglore BANGALORE!BANGALORE!BANGALORE!Karnataka!560047",
+      "alt": "7309187408",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "Rakesh Mishra",
+      "name": "MR  SRI DHAR MISHRA",
+      "num": "8095611362"
+    }
+  ]
+}
