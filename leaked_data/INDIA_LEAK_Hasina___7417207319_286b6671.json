@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:30:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417207319",
+  "records": [
+    {
+      "aadhar": "354107608802",
+      "address": "w/o  kallu!62!Gaidbara!!bopura gaidbara!bopuraBaraut!baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kallu",
+      "name": "Hasina  ",
+      "num": "8979069597"
+    },
+    {
+      "aadhar": "786957662922",
+      "address": "!!bopura!!bopura baghpat!Meerut!Baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Riyasat",
+      "name": "Khalid  ",
+      "num": "8923948143"
+    },
+    {
+      "aadhar": "682476867285",
+      "address": "s/o  jahul hak!!bopura!!bopura baghpat!bopura!baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "jahul hak",
+      "name": "Savej  ",
+      "num": "8650915800"
+    },
+    {
+      "aadhar": "696399763314",
+      "address": "!!bopura!!bopura baghpat!Meerut!Baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ikramu",
+      "name": "Kallu  ",
+      "num": "6397693864"
+    },
+    {
+      "aadhar": "696399763314",
+      "address": "!!bopura!!!Meerut!Baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ikramu",
+      "name": "Kallu  ",
+      "num": "6397080744"
+    },
+    {
+      "aadhar": "696399763314",
+      "address": "!!bopura!!!Meerut!Baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "ikramu",
+      "name": "Kallu",
+      "num": "6397080744"
+    },
+    {
+      "aadhar": "696399763314",
+      "address": "!!bopura!!!Meerut!Baghpat!Uttar Pradesh!250622",
+      "alt": "7417207319",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "ikramu",
+      "name": "Kallu",
+      "num": "6397080744"
+    }
+  ]
+}
