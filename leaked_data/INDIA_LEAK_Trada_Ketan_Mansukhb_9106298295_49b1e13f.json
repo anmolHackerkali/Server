@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:53:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9106298295",
+  "records": [
+    {
+      "aadhar": "733430858384",
+      "address": "a-14 104!om township v-3 kamrej City/District  Surat!pasodara!SURAT!395008",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Trada Ketan Mansukhbhai",
+      "num": "9106298295"
+    },
+    {
+      "aadhar": "733430858384",
+      "address": "!a-14 104!om township v-3 kamrej City/District: Surat!pasodara!SURAT!Gujarat!395008",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Trada Ketan Mansukhbhai",
+      "num": "9106298295"
+    },
+    {
+      "aadhar": "733430858384",
+      "address": "!a-14 104!om township v-3 kamrej City/District: Surat!pasodara!SURAT!Gujarat!395008",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Trada Ketan Mansukhbhai",
+      "num": "9106298295"
+    }
+  ]
+}
