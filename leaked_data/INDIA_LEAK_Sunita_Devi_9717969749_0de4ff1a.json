@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:26:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717969749",
+  "records": [
+    {
+      "aadhar": "925759792525",
+      "address": "W/O Manoj Kumar! 1/202!Chilla!!KHICHRI PUR!KHICHRI PUR!East Delhi!Delhi!110091",
+      "alt": "8920932804",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Sunita Devi",
+      "num": "9717969749"
+    },
+    {
+      "aadhar": "925759792525",
+      "address": "W/O Manoj Kumar!1/202!Chilla!!KHICHRI PUR!KHICHRI PUR!East Delhi!Delhi!110091",
+      "alt": "8920932804",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Sunita Devi",
+      "num": "9717969749"
+    },
+    {
+      "aadhar": "925759792525",
+      "address": "W/O Manoj Kumar!1/202!Chilla!!KHICHRI PUR!KHICHRI PUR!East Delhi!Delhi!110091",
+      "alt": "8920932804",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Manoj Kumar",
+      "name": "Sunita Devi",
+      "num": "9717969749"
+    },
+    {
+      "aadhar": "989628699780",
+      "address": "S/O Mahavir Singh! 1/202!Chilla!KHICHDIPUR!!Chilla Saroda Khadar Preet Vihar!East Delhi!Delhi!110091",
+      "alt": "9717969749",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahavir Singh",
+      "name": "Manoj Kumar",
+      "num": "9717836126"
+    },
+    {
+      "aadhar": "989628699780",
+      "address": "S/O Mahavir Singh!1/202!Chilla!KHICHDIPUR!!Chilla Saroda KhadarPreet Vihar!East Delhi!Delhi!110091",
+      "alt": "9717969749",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahavir Singh",
+      "name": "Manoj Kumar",
+      "num": "9717836126"
+    },
+    {
+      "aadhar": "989628699780",
+      "address": "S/O Mahavir Singh!1/202!Chilla!KHICHDIPUR!!Chilla Saroda KhadarPreet Vihar!East Delhi!Delhi!110091",
+      "alt": "9717969749",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahavir Singh",
+      "name": "Manoj Kumar",
+      "num": "9717836126"
+    }
+  ]
+}
