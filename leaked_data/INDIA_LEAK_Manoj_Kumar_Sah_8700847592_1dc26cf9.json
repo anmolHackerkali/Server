@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:06:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700847592",
+  "records": [
+    {
+      "aadhar": "927234398583",
+      "address": "S/O Sheo Pujan Sah!!HOUSE NO-K 100A!LAXMI NAGAR!Shakar Pur Baramad East Delhi!Delhi!110092",
+      "alt": "919818659958",
+      "circle": "JIO DELHI",
+      "email": "seemashah732@gmail.com",
+      "fname": "Sheo Pujan Sah",
+      "name": "Manoj Kumar Sah",
+      "num": "8700847592"
+    },
+    {
+      "aadhar": "927234398583",
+      "address": "S/O Sheo Pujan Sah!!HOUSE NO-K 100A!LAXMI NAGAR!Shakar Pur BaramadEast Delhi!Delhi!110092",
+      "alt": "919818659958",
+      "circle": "JIO DELHI",
+      "email": "seemashah732@gmail.com",
+      "fname": "Sheo Pujan Sah",
+      "name": "Manoj Kumar Sah",
+      "num": "8700847592"
+    },
+    {
+      "aadhar": "927234398583",
+      "address": "S/O Sheo Pujan Sah!!HOUSE NO-K 100A!LAXMI NAGAR!Shakar Pur BaramadEast Delhi!Delhi!110092",
+      "alt": "919818659958",
+      "circle": "JIO DELHI",
+      "email": "seemashah732@gmail.com",
+      "fname": "Sheo Pujan Sah",
+      "name": "Manoj Kumar Sah",
+      "num": "8700847592"
+    }
+  ]
+}
