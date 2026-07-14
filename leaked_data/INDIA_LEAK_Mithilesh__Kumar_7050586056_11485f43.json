@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:55:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7050586056",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5798",
+      "address": "S/O Bindeshwari Prasad!Arrah  ministrial quarter!!!!Bhojpur!Bihar!802301",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bindeshwari  Prasad",
+      "name": "Mithilesh  Kumar",
+      "num": "7050586056"
+    },
+    {
+      "aadhar": "xxxxxxxx5798",
+      "address": "S/O Bindeshwari Prasad!Arrah  ministrial quarter!!!!Bhojpur!Bihar!802301",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bindeshwari  Prasad",
+      "name": "Mithilesh  Kumar",
+      "num": "7050586056"
+    },
+    {
+      "aadhar": "XXXXXXXX5798",
+      "address": " 00  ministrial quarter Arrah Arrah  Bhojpur BIHAR 802301 ",
+      "alt": "7050586056",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O BINDESHWARI PRASAD ",
+      "name": " MITHILESH KUMAR  ... ",
+      "num": "9472984437"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bindeshwari Prasad! ! !ministrial quarter Bhojpur!!ARRAH!Bhojpur!BIHAR!802301",
+      "alt": "7050586056",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O Bindeshwari Prasad",
+      "name": "Mithilesh Kumar",
+      "num": "7563964098"
+    },
+    {
+      "aadhar": "XXXXXXXX5798",
+      "address": " 00  ministrial quarter Arrah Arrah  Bhojpur BIHAR 802301 ",
+      "alt": "7050586056",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O BINDESHWARI PRASAD ",
+      "name": " MITHILESH KUMAR  ... ",
+      "num": "9472984437"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bindeshwari Prasad! ! !ministrial quarter Bhojpur!!ARRAH!Bhojpur!BIHAR!802301",
+      "alt": "7050586056",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O Bindeshwari Prasad",
+      "name": "Mithilesh Kumar",
+      "num": "7563964098"
+    }
+  ]
+}
