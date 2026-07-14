@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:06:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7493986061",
+  "records": [
+    {
+      "aadhar": "280390888446",
+      "address": " .!maheshwarpur tajpur bidupur!!rs vaishali bidupur!Vaishali!Vaishali!Bihar!844502 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Ram ",
+      "name": " Indu Devi ",
+      "num": "7493986061"
+    },
+    {
+      "aadhar": "280390888446",
+      "address": " .!maheshwarpur tajpur bidupur!!rs vaishali bidupur!Vaishali!Vaishali!Bihar!844502 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Jitendra Ram ",
+      "name": " Indu Devi ",
+      "num": "7493986061"
+    }
+  ]
+}
