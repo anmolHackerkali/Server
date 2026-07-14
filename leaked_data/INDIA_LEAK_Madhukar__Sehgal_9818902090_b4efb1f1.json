@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:51:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818902090",
+  "records": [
+    {
+      "aadhar": "421801954843",
+      "address": "S/O  Ravinder Sehgal!Gopal Gali!!New Delhi Railway StationSangtrashan  Pahar Ganj Pahar Ganj!Pahar Ganj!Delhi!110055",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S/O  Ravinder S",
+      "name": "Madhukar  Sehgal",
+      "num": "9818902090"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O: Ravinder Sehgal!Gopal Gali!!New Delhi Railway StationSangtrashan Pahar GanjPahar Ganj!Pahar Ganj!Delhi!110055",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S/O: Ravinder S",
+      "name": "Madhukar  Sehgal",
+      "num": "9818902090"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O: Ravinder Sehgal!Gopal Gali!!New Delhi Railway StationSangtrashan Pahar GanjPahar Ganj!Pahar Ganj!Delhi!110055",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "S/O: Ravinder S",
+      "name": "Madhukar  Sehgal",
+      "num": "9818902090"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O Ravinder Sehgal!H NO-1430!Gopal Gali! Sangtrashan  Pahar Ganj Pahar Ganj !Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9818902090",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ravinder  Sehgal",
+      "name": "Madhukar  Sehgal",
+      "num": "9667621426"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O Ravinder Sehgal!H NO-1430!Gopal Gali!Sangtrashan Pahar GanjPahar Ganj!!Central AIRTEL DELHI!!AIRTEL DELHI!110055",
+      "alt": "9818902090",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ravinder  Sehgal",
+      "name": "Madhukar  Sehgal",
+      "num": "9667621426"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O Ravinder Sehgal!H NO-1430!Gopal Gali!Sangtrashan Pahar GanjPahar Ganj!Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9818902090",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ravinder  Sehgal",
+      "name": "Madhukar  Sehgal",
+      "num": "9667621426"
+    },
+    {
+      "aadhar": "421801954843",
+      "address": "S/O Ravinder Sehgal!H NO-1430!Gopal Gali!Sangtrashan Pahar GanjPahar Ganj!Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9818902090",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ravinder  Sehgal",
+      "name": "Madhukar  Sehgal",
+      "num": "9667621426"
+    }
+  ]
+}
