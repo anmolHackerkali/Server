@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:20:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8077403894",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Ashok Kumar!!!!!Bhawanpur!Meerut!Uttar Pradesh!250406 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ashok Kumar ",
+      "name": " Rohit Kumar ",
+      "num": "8077403894"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Ashok Kumar!!!!!Bhawanpur!Meerut!Uttar Pradesh!250406 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ashok Kumar ",
+      "name": " Rohit Kumar ",
+      "num": "8077403894"
+    },
+    {
+      "aadhar": "549172786956",
+      "address": "!00!Bhawanpur!!Bhawanpur!Meerut!!Uttar Pradesh!250406",
+      "alt": "8077403894",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ashok Kumar",
+      "name": "Rohit Kumar",
+      "num": "7037596336"
+    },
+    {
+      "aadhar": "549172786956",
+      "address": "!00!Bhawanpur!!Bhawanpur!Meerut!!Uttar Pradesh!250406",
+      "alt": "8077403894",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ashok Kumar",
+      "name": "Rohit Kumar",
+      "num": "7037596336"
+    }
+  ]
+}
