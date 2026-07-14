@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:02:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8437897807",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Duni Chand Mehra!!H NO 1772/10GALI NALKE WALI!BAZAR SIRKI BANDAN!Amritsar- IIAmritsar!Punjab!143001",
+      "alt": "+919781602288",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Duni Chand Mehra",
+      "name": "Sumesh Mehra",
+      "num": "8437897807"
+    }
+  ]
+}
