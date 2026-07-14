@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:18:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178385925",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Pashupati Mehto!24 K Sector-4!D I Z Area!Shaheed Bhagat Singh Marg!New Delhi G P O New Delhi!Delhi!110001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pashupati Mehto",
+      "name": "Chhote Lal",
+      "num": "8178385925"
+    },
+    {
+      "aadhar": "941138232834",
+      "address": "C/O!!24 - K Sectore - 4 D I Z Area  Shaheed Bhagat Singh Marg!New Delhi - 110001!NEW DELHI G.P.O. NEW DELHI!Delhi!110001",
+      "alt": "+919968158024",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "pashupati mehto",
+      "name": "Chhote Lal",
+      "num": "8178385925"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Pashupati Mehto!24 KSector-4!DIZ Area!Shaheed Bhagat Singh Marg!New Delhi GPONew Delhi!Delhi!110001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pashupati Mehto",
+      "name": "Chhote Lal",
+      "num": "8178385925"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Pashupati Mehto!24 KSector-4!DIZ Area!Shaheed Bhagat Singh Marg!New Delhi GPONew Delhi!Delhi!110001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Pashupati Mehto",
+      "name": "Chhote Lal",
+      "num": "8178385925"
+    }
+  ]
+}
