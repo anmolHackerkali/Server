@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:42:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7808705060",
+  "records": [
+    {
+      "aadhar": "463192297053",
+      "address": " ward no 07 village gauchh anl p0rst gopalpur!Gochhari!!Khagarla!Khagaria!Khagaria!Bihar!851203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Brahamdeo Prasad ",
+      "name": " Prlya Kumari ",
+      "num": "7808705060"
+    },
+    {
+      "aadhar": "463192297053",
+      "address": " ward no 07 village gauchh anl p0rst gopalpur!Gochhari!!Khagarla!Khagaria!Khagaria!Bihar!851203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Brahamdeo Prasad ",
+      "name": " Prlya Kumari ",
+      "num": "7808705060"
+    }
+  ]
+}
