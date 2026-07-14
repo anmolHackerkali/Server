@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:48:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798666187",
+  "records": [
+    {
+      "aadhar": "799739224701",
+      "address": "w/o  sohan kumar yadav!-!- Laxmisagar!SADHUGACHHI LAXMISAGAR!- - sadhugachhi laxmisagar milki!laxmisagar Alinagar!darbhanga!Bihar!846009",
+      "alt": "8521855690",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sohan kumar yadav",
+      "name": "Kiran Devi",
+      "num": "9798666187"
+    },
+    {
+      "aadhar": "799739224701",
+      "address": "w/o  sohan kumar yadav!-!- Laxmisagar!SADHUGACHHI LAXMISAGAR!- - sadhugachhi laxmisagar milki!laxmisagar Alinagar!darbhanga!Bihar!846009",
+      "alt": "8521855690",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sohan kumar yadav",
+      "name": "Kiran Devi",
+      "num": "9798666187"
+    },
+    {
+      "aadhar": "799739224701",
+      "address": "w/o  sohan kumar yadav!-!- Laxmisagar!SADHUGACHHI LAXMISAGAR!- - sadhugachhi laxmisagar milki!laxmisagar Alinagar!darbhanga!Bihar!846009",
+      "alt": "8521855690",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sohan kumar yadav",
+      "name": "Kiran Devi",
+      "num": "9798666187"
+    }
+  ]
+}
