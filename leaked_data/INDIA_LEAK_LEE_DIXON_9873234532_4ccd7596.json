@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:16:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9873234532",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "122 ! TOWER -C ! DLF CREST GOLF COURSE ROAD SEC-54 ! GURGAON NCR ! HARYANA ! 122001",
+      "alt": "9896519696",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DIXON",
+      "name": "LEE DIXON",
+      "num": "9873234532"
+    },
+    {
+      "aadhar": null,
+      "address": "122 ! TOWER -C ! DLF CREST GOLF COURSE ROAD SEC-54 ! GURGAON NCR ! HARYANA ! 122001",
+      "alt": "9896519696",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DIXON",
+      "name": "LEE DIXON",
+      "num": "9873234532"
+    },
+    {
+      "aadhar": null,
+      "address": "122 ! TOWER -C ! DLF CREST GOLF COURSE ROAD SEC-54 ! GURGAON NCR ! HARYANA ! 122001",
+      "alt": "9896519696",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DIXON",
+      "name": "LEE DIXON",
+      "num": "9873234532"
+    },
+    {
+      "aadhar": "999260667323",
+      "address": "!a591!j j colony!raghubir Nagar!DelhiDelhi!Delhi!110027",
+      "alt": "9873234532",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramchand  Yadav",
+      "name": "Rajiv Kumar Yadav",
+      "num": "9910914551"
+    },
+    {
+      "aadhar": "999260667323",
+      "address": "!a591!j j colony!!raghubir Nagar!AIRTEL DELHI!!AIRTEL DELHI!110027",
+      "alt": "9873234532",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramchand  Yadav",
+      "name": "Rajiv Kumar Yadav",
+      "num": "9910914551"
+    },
+    {
+      "aadhar": "999260667323",
+      "address": "!a591!j j colony!raghubir Nagar!DelhiDelhi!Delhi!110027",
+      "alt": "9873234532",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramchand  Yadav",
+      "name": "Rajiv Kumar Yadav",
+      "num": "9910914551"
+    },
+    {
+      "aadhar": "999260667323",
+      "address": "!a591!j j colony!raghubir Nagar!DelhiDelhi!Delhi!110027",
+      "alt": "9873234532",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramchand  Yadav",
+      "name": "Rajiv Kumar Yadav",
+      "num": "9910914551"
+    }
+  ]
+}
