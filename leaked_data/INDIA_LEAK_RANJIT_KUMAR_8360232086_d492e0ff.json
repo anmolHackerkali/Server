@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:08:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8360232086",
+  "records": [
+    {
+      "aadhar": "242120519974",
+      "address": "NA!G/O SANTOKH SINGH!VILLAGE GARUPAR!!GRUPAR SHAHEED BHAGAT SINGH NAGAR!PHAMBRA!JALANDHAR!PUNJAB!144417",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SANTOKH SINGH",
+      "name": "RANJIT KUMAR",
+      "num": "8360232086"
+    }
+  ]
+}
