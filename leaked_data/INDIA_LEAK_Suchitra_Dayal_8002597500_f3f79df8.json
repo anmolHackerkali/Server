@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:29:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8002597500",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Flat No 801!Khagaul Danapur Road!Om Vamika Appt  Vijay Singh Yadav Path!Patna!Bihar!801503",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dindayal Singh",
+      "name": "Suchitra Dayal",
+      "num": "8002597500"
+    },
+    {
+      "aadhar": null,
+      "address": "Flat No 801!Khagaul Danapur Road!Om Vamika Appt  Vijay Singh Yadav Path!Patna!Bihar!801503",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dindayal Singh",
+      "name": "Suchitra Dayal",
+      "num": "8002597500"
+    }
+  ]
+}
