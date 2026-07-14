@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:41:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534626411",
+  "records": [
+    {
+      "aadhar": "966645674688",
+      "address": "!NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR BEGUSARAI!BEGUSARAI!BEGUSARAI!BIHAR!848201",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Sarvan Sada",
+      "name": "MRS  DAULATI DEVI",
+      "num": "9534626411"
+    },
+    {
+      "aadhar": "966645674688",
+      "address": "!NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR!ABHUAR WARD NO -12 MOHANPUR MOHANPUR BEGUSARAI!BEGUSARAI!BEGUSARAI!BIHAR!848201",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Sarvan Sada",
+      "name": "MRS  DAULATI DEVI",
+      "num": "9534626411"
+    }
+  ]
+}
