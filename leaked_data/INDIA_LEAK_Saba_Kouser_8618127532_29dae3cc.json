@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:02:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8618127532",
+  "records": [
+    {
+      "aadhar": "990129143073",
+      "address": "D/O Nisar Ahmed!!#M68 3rd Cross!Bharath Matha Layout Venkateshapura!Bangalore North Bangalore!Karnataka!560045",
+      "alt": "919845862921",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Nisar Ahmed",
+      "name": "Saba Kouser",
+      "num": "8618127532"
+    }
+  ]
+}
