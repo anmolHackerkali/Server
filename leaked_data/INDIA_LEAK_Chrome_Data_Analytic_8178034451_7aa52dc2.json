@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:11:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178034451",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX8397",
+      "address": "C 01 819!World Trade Tower Wtt!Sector 16 Noida!Noida!Uttar Pradesh!201301",
+      "alt": "9643815371",
+      "circle": "JIO DELHI",
+      "email": "admin@chromedm.com",
+      "fname": "Vinod Singh Negi",
+      "name": "Chrome Data Analytics & Media Private Limited",
+      "num": "8178034451"
+    },
+    {
+      "aadhar": "5071166378",
+      "address": "C 01 819!World Trade Tower Wtt!Sector 16 Noida!Noida!Uttar Pradesh!201301",
+      "alt": "9643815371",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Vinod Singh Negi",
+      "name": "Chrome Data Analytics & Media Private Limited",
+      "num": "8178034451"
+    },
+    {
+      "aadhar": "XXXXXXXX8397",
+      "address": "C 01 819!World Trade Tower Wtt!Sector 16 Noida!Noida!Uttar Pradesh!201301",
+      "alt": "9643815371",
+      "circle": "JIO DELHI",
+      "email": "admin@chromedm.com",
+      "fname": "Vinod Singh Negi",
+      "name": "Chrome Data Analytics & Media Private Limited",
+      "num": "8178034451"
+    },
+    {
+      "aadhar": null,
+      "address": "C 01 819 World Trade Tower Wtt Sector 16 Noida Noida Uttar Pradesh 201301",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chrome Data Analytics & Media Private Limited",
+      "name": "Navjot  Singh",
+      "num": "8178034451"
+    },
+    {
+      "aadhar": "XXXXXXXX8397",
+      "address": "C 01 819!World Trade Tower Wtt!Sector 16 Noida!Noida!Uttar Pradesh!201301",
+      "alt": "9643815371",
+      "circle": "JIO DELHI",
+      "email": "admin@chromedm.com",
+      "fname": "Vinod Singh Negi",
+      "name": "Chrome Data Analytics & Media Private Limited",
+      "num": "8178034451"
+    },
+    {
+      "aadhar": null,
+      "address": "C 01 819 World Trade Tower Wtt Sector 16 Noida Noida Uttar Pradesh 201301",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chrome Data Analytics & Media Private Limited",
+      "name": "Navjot  Singh",
+      "num": "8178034451"
+    }
+  ]
+}
