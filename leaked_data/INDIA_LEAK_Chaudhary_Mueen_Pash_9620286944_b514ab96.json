@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:08:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9620286944",
+  "records": [
+    {
+      "aadhar": "665545224359",
+      "address": "! 25!lal masid a Street!!Shivajinagar!Bangalore North!Bangalore!Karnataka!560051",
+      "alt": "9035144731",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Chaudhary Amanilla",
+      "name": "Chaudhary Mueen Pasha",
+      "num": "9620286944"
+    },
+    {
+      "aadhar": "228142865080",
+      "address": "D/O Majeed M! 3/1!B No 19th Street Chandini Chowk Road H.K.P. Road!!Shivajinagar!Bangalore North!Bangalore!Karnataka!560051",
+      "alt": "9620286944",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Majeed M",
+      "name": "Ruksana M",
+      "num": "8618921141"
+    }
+  ]
+}
