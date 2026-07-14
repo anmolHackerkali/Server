@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:34:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9557488820",
+  "records": [
+    {
+      "aadhar": "426995974004",
+      "address": " S/O Surendra Kumar Pandey!  KEONTRA Keontra  !!!Auraiya!Uttar Pradesh!206122 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Surendra Kumar Pandey ",
+      "name": " Jitendra Kumar ",
+      "num": "9557488820"
+    },
+    {
+      "aadhar": "426995974004",
+      "address": " S/O Surendra Kumar Pandey!  KEONTRA Keontra  !!!Auraiya!Uttar Pradesh!206122 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Surendra Kumar Pandey ",
+      "name": " Jitendra Kumar ",
+      "num": "9557488820"
+    },
+    {
+      "aadhar": "749505274479",
+      "address": "S/O RAM SWAROOP!!KODA JAHANABADKora Jahanabad!NA!puran pur!Akbarpur NasirpurBindkiFatehpur!NA!Uttar Pradesh!212659",
+      "alt": "9557488820",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "RAM SWAROOP",
+      "name": "Vivek Kumar",
+      "num": "7300641624"
+    }
+  ]
+}
