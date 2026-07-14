@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:35:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9925318918",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 28-K SAWASAR NAKA PASE  ANJAR-4 ANJAR Kachchh GUJARAT 370110 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " DINESH KHETSHI KARIA ",
+      "num": "9925318918"
+    },
+    {
+      "aadhar": null,
+      "address": " 28-K SAWASAR NAKA PASE  ANJAR-4 ANJAR Kachchh GUJARAT 370110 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " DINESH KHETSHI KARIA ",
+      "num": "9925318918"
+    }
+  ]
+}
