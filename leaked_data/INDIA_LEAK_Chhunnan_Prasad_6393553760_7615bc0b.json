@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:56:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393553760",
+  "records": [
+    {
+      "aadhar": "820360915006",
+      "address": "S/O  Durga Prasad!! Vsi Shivpur!!Parmanandpur Varanasi Varanasi!Uttar Pradesh!221003",
+      "alt": "919336493527",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Durga Prasad",
+      "name": "Chhunnan Prasad",
+      "num": "6393553760"
+    },
+    {
+      "aadhar": "820360915006",
+      "address": "S/O  Durga Prasad!! Vsi Shivpur!!Parmanandpur Varanasi Varanasi!Uttar Pradesh!221003",
+      "alt": "919336493527",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Durga Prasad",
+      "name": "Chhunnan Prasad",
+      "num": "6393553760"
+    },
+    {
+      "aadhar": "473708298200",
+      "address": "s/o  banarasi!!Gangapur!!hardaspur gangapur!gangapur Varanasi!varanasi!Uttar Pradesh!221302",
+      "alt": "6393553760",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "banarasi",
+      "name": "Ashok Kumar",
+      "num": "7307134018"
+    },
+    {
+      "aadhar": "473708298200",
+      "address": "s/o  banarasi!!Gangapur!!hardaspur gangapur!gangapur Varanasi!varanasi!Uttar Pradesh!221302",
+      "alt": "6393553760",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "banarasi",
+      "name": "Ashok Kumar",
+      "num": "7307134018"
+    }
+  ]
+}
