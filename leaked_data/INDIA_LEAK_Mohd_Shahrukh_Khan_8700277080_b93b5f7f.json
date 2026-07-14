@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:03:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700277080",
+  "records": [
+    {
+      "aadhar": "509669765560",
+      "address": "S/O Mohammad Yasin Khan!!Sabhapur!Seelam Pur!Badar Pur Khadar North East!Delhi!110094",
+      "alt": "919650837830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohammad Yasin Khan",
+      "name": "Mohd Shahrukh Khan",
+      "num": "8700277080"
+    },
+    {
+      "aadhar": "509669765560",
+      "address": "S/O Mohammad Yasin Khan!!Sabhapur!Seelam Pur!Badar Pur Khadar North East!Delhi!110094",
+      "alt": "919650837830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohammad Yasin Khan",
+      "name": "Mohd Shahrukh Khan",
+      "num": "8700277080"
+    },
+    {
+      "aadhar": "509669765560",
+      "address": "S/O Mohammad Yasin Khan!!Sabhapur!Seelam Pur!Badar Pur Khadar North East!Delhi!110094",
+      "alt": "919650837830",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohammad Yasin Khan",
+      "name": "Mohd Shahrukh Khan",
+      "num": "8700277080"
+    }
+  ]
+}
