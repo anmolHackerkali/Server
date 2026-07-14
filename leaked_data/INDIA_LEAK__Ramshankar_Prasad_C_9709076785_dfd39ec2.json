@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:38:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9709076785",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx3386",
+      "address": " Sitaram Prasad   ward no-07    City/District: Khagaria State Bihar gauchhari KHAGARIA BIHAR 851203 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sitaram Prasad ",
+      "name": " Ramshankar Prasad Chaurasia ",
+      "num": "9709076785"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": "!Ward no 07!At-Khagaria maheshkhunt GAUCHHARI!GAUCHHARI!post Gopalpur thana Gochhari KHAGARIA!GOPALPUR B O - KGG!KHAGARIA!BIHAR!851203",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Ramashankar Prasad Chaurasia",
+      "name": "MR  PREM KUMAR",
+      "num": "9709076785"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": "!Ward no 07!At-Khagaria maheshkhunt GAUCHHARI!GAUCHHARI!post Gopalpur thana Gochhari KHAGARIA!GOPALPUR B O - KGG!KHAGARIA!BIHAR!851203",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Ramashankar Prasad Chaurasia",
+      "name": "MR  PREM KUMAR",
+      "num": "9709076785"
+    },
+    {
+      "aadhar": "xxxxxxxx3386",
+      "address": " Sitaram Prasad   ward no-07    City/District: Khagaria State Bihar gauchhari KHAGARIA BIHAR 851203 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sitaram Prasad ",
+      "name": " Ramshankar Prasad Chaurasia ",
+      "num": "9709076785"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": " GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 KHAGARIA 851203 BIHAR ",
+      "alt": "9709076785",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Ramashankar Prasad ",
+      "name": " MR  PREM KUMAR ",
+      "num": "9507215842"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": " RAMASHANKAR PRASAD CHAURASIA GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 gochhari gochhari GOPALPUR KHAGARIA GOPALPUR B.O - KGG KHAGARIA BIHA",
+      "alt": "9709076785",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Ramashankar Prasad Chaurasia ",
+      "name": " MR  PREM KUMAR ",
+      "num": "9128101841"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": " GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 KHAGARIA 851203 BIHAR ",
+      "alt": "9709076785",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Ramashankar Prasad ",
+      "name": " MR  PREM KUMAR ",
+      "num": "9507215842"
+    },
+    {
+      "aadhar": "567150385806",
+      "address": " RAMASHANKAR PRASAD CHAURASIA GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 GAUCHHARI POST - THANA - MAHESHKHUNT  WARD NO - 07 gochhari gochhari GOPALPUR KHAGARIA GOPALPUR B.O - KGG KHAGARIA BIHA",
+      "alt": "9709076785",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Ramashankar Prasad Chaurasia ",
+      "name": " MR  PREM KUMAR ",
+      "num": "9128101841"
+    }
+  ]
+}
