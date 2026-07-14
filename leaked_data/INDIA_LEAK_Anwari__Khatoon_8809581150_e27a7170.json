@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:01:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809581150",
+  "records": [
+    {
+      "aadhar": "228360339515",
+      "address": "W/O Mohammad Salauddin!Rajanpura!!!!Siwan Rajanpura Hasanpura!Bihar!841236",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mohammad  Salauddin",
+      "name": "Anwari  Khatoon",
+      "num": "8809581150"
+    },
+    {
+      "aadhar": "228360339515",
+      "address": "W/O Mohammad Salauddin!Rajanpura!!!!Siwan Rajanpura Hasanpura!Bihar!841236",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mohammad  Salauddin",
+      "name": "Anwari  Khatoon",
+      "num": "8809581150"
+    },
+    {
+      "aadhar": "454775950525",
+      "address": "S/O Habib!165!Khori Gaon surajkund!surajkund!Lakkarpur FARIDABAD!FARIDABAD!FARIDABAD!HARYANA!121009",
+      "alt": "8809581150",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Habib",
+      "name": "MR  GAFFAR  ",
+      "num": "8743957090"
+    },
+    {
+      "aadhar": "823669283772",
+      "address": "! rn 104!rasulpur nawada!!b block sector 62 noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "8809581150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "md salauddin",
+      "name": "Mahtab Alam",
+      "num": "8178962896"
+    },
+    {
+      "aadhar": "454775950525",
+      "address": "S/O Habib!165!Khori Gaonsurajkund!surajkund!LakkarpurFARIDABAD!FARIDABAD!FARIDABAD!HARYANA!121009",
+      "alt": "8809581150",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Habib",
+      "name": "MR GAFFAR ",
+      "num": "8743957090"
+    },
+    {
+      "aadhar": "823669283772",
+      "address": "!rn 104!rasulpur nawada!!b block sector 62 noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "8809581150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "md salauddin",
+      "name": "Mahtab Alam",
+      "num": "8178962896"
+    },
+    {
+      "aadhar": "454775950525",
+      "address": "S/O Habib!165!Khori Gaonsurajkund!surajkund!LakkarpurFARIDABAD!FARIDABAD!FARIDABAD!HARYANA!121009",
+      "alt": "8809581150",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Habib",
+      "name": "MR GAFFAR ",
+      "num": "8743957090"
+    },
+    {
+      "aadhar": "823669283772",
+      "address": "!rn 104!rasulpur nawada!!b block sector 62 noida!Ghaziabad!Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "8809581150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "md salauddin",
+      "name": "Mahtab Alam",
+      "num": "8178962896"
+    }
+  ]
+}
