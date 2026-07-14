@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:11:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9638842193",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Harishankar Srivastav plot no 63 survey no 260/3 gaytri township anjar  Varsamedi",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harishankar Srivastav",
+      "name": "Sunil Kumar Harishankar Srivastava",
+      "num": "9638842193"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Harishankar Srivastav plot no 63 survey no 260/3 gaytri township anjar  Varsamedi",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harishankar Srivastav",
+      "name": "Sunil Kumar Harishankar Srivastava",
+      "num": "9638842193"
+    },
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    },
+    {
+      "aadhar": "320577472020",
+      "address": "plot no - 63!gayatri township!varsamedi!ANJAR!370110",
+      "alt": "9638842193",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Harishankar",
+      "name": "Sunil Kumar Harishankar Srivastava",
+      "num": "7041573670"
+    },
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    },
+    {
+      "aadhar": "320577472020",
+      "address": "Sunil Kumar Harishankar Srivastava!plot no - 63!gayatri township!varsamedi!ANJAR!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Harishankar",
+      "name": "Sunil Kumar Harishankar Srivastava",
+      "num": "7041573670"
+    },
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    },
+    {
+      "aadhar": "320577472020",
+      "address": "Sunil Kumar Harishankar Srivastava!plot no - 63!gayatri township!varsamedi!ANJAR!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Harishankar",
+      "name": "Sunil Kumar Harishankar Srivastava",
+      "num": "7041573670"
+    }
+  ]
+}
