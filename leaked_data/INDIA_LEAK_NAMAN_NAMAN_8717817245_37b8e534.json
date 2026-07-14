@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:59:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8717817245",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "588 ! SEC 22 A GURGAON SEC 22 GGN HR ! GURGAON NCR ! GURGAON NCR ! HARYANA ! 122000",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "GYANENDRA KUMAR",
+      "name": "NAMAN NAMAN",
+      "num": "8717817245"
+    },
+    {
+      "aadhar": null,
+      "address": "588 ! SEC 22 A GURGAON SEC 22 GGN HR ! GURGAON NCR ! GURGAON NCR ! HARYANA ! 122000",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "GYANENDRA KUMAR",
+      "name": "NAMAN NAMAN",
+      "num": "8717817245"
+    },
+    {
+      "aadhar": null,
+      "address": "588 ! SEC 22 A GURGAON SEC 22 GGN HR ! GURGAON NCR ! GURGAON NCR ! HARYANA ! 122000",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "GYANENDRA KUMAR",
+      "name": "NAMAN NAMAN",
+      "num": "8717817245"
+    }
+  ]
+}
