@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:25:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7836897272",
+  "records": [
+    {
+      "aadhar": "233498793034",
+      "address": "s/o om prakash sethi! house number - 3 g/195 a!Faridabad NIT!near raja chowk!!faridabad!faridabad!Haryana!121001",
+      "alt": "9540897272",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "om prakash sethi",
+      "name": "Bharat Sethi",
+      "num": "7836897272"
+    },
+    {
+      "aadhar": "233498793034",
+      "address": "s/o om prakash sethi!house number - 3 g/195 a!Faridabad NIT!near raja chowk!!faridabad!faridabad!Haryana!121001",
+      "alt": "9540897272",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "om prakash sethi",
+      "name": "Bharat Sethi",
+      "num": "7836897272"
+    },
+    {
+      "aadhar": "233498793034",
+      "address": "s/o om prakash sethi!house number - 3 g/195 a!Faridabad NIT!near raja chowk!!faridabad!faridabad!Haryana!121001",
+      "alt": "9540897272",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "om prakash sethi",
+      "name": "Bharat Sethi",
+      "num": "7836897272"
+    }
+  ]
+}
