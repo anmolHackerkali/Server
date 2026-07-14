@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:51:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9576744646",
+  "records": [
+    {
+      "aadhar": "835539218934",
+      "address": "!Singhiaghat!!Singhia Ghat Singhia Buzurg!!Samastipur Singhia Ghat Bibhutipur!Bihar!848236",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Hare Krishna Prasad",
+      "name": "Sachin  Kumar",
+      "num": "9576744646"
+    },
+    {
+      "aadhar": "835539218934",
+      "address": "!Singhiaghat!!Singhia Ghat Singhia Buzurg!!Samastipur Singhia Ghat Bibhutipur!Bihar!848236",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Hare Krishna Prasad",
+      "name": "Sachin  Kumar",
+      "num": "9576744646"
+    },
+    {
+      "aadhar": "835539218934",
+      "address": "! ward no 09!Singhia ghat singhia ghat singhia Buzurg!near hanuman mandir!Singhiaghat!Samastipur!Samastipur!Bihar!848236",
+      "alt": "9576744646",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Hare Krishna Prasad",
+      "name": "Sachin Kumar",
+      "num": "6204669126"
+    },
+    {
+      "aadhar": "835539218934",
+      "address": "! ward no 09!Singhia ghat singhia ghat singhia Buzurg!near hanuman mandir!Singhiaghat!Samastipur!Samastipur!Bihar!848236",
+      "alt": "9576744646",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Hare Krishna Prasad",
+      "name": "Sachin Kumar",
+      "num": "6204669126"
+    },
+    {
+      "aadhar": "835539218934",
+      "address": "! ward no 09!Singhia ghat singhia ghat singhia Buzurg!near hanuman mandir!Singhiaghat!Samastipur!Samastipur!Bihar!848236",
+      "alt": "9576744646",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Hare Krishna Prasad",
+      "name": "Sachin Kumar",
+      "num": "6204669126"
+    }
+  ]
+}
