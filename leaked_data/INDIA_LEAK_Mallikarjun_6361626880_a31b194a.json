@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:50:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6361626880",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Laxman Maroon!!!Chincholi H!Chincholi H Kalaburagi!Karnataka!585312",
+      "alt": "917353804235",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Laxman Maroon",
+      "name": "Mallikarjun",
+      "num": "6361626880"
+    }
+  ]
+}
