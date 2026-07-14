@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:03:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9045326410",
+  "records": [
+    {
+      "aadhar": "659514110864",
+      "address": " S/O Dharm Vir Kumar!Krishna Nagar!!      203/136 Hari Nagar mathura      !Mathura!Uttar Pradesh!281004 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Dharm Vir Kumar ",
+      "name": " Navin Kumar ",
+      "num": "9045326410"
+    },
+    {
+      "aadhar": "659514110864",
+      "address": " S/O Dharm Vir Kumar!Krishna Nagar!!      203/136 Hari Nagar mathura      !Mathura!Uttar Pradesh!281004 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Dharm Vir Kumar ",
+      "name": " Navin Kumar ",
+      "num": "9045326410"
+    }
+  ]
+}
