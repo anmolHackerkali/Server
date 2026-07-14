@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:26:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8349100426",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " ward no 27 house no 33 near chaurasiya narsing road  vainkat batliyan road rewa huaur Rewa  Madhya Pradesh 486001",
+      "alt": "8349100426",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Girja Prasad Chaturvedi",
+      "name": "Kishan Chaturvedi",
+      "num": "9685331373 "
+    },
+    {
+      "aadhar": "577795054225",
+      "address": "! 27 h no 33 near chaurasiya narsing road!vainkat batliyan road!!huzur!Huzur!Rewa!Madhya Pradesh!486001",
+      "alt": "8349100426",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "girja prasad chaturvedi",
+      "name": "Kishan Chaturvedi",
+      "num": "9407887488"
+    },
+    {
+      "aadhar": "503664134151",
+      "address": "S/O Shri Pradeep Kumar Pandey!S/O Shri Pradeep Kumar Pandey!TEHASIL NAIGRHI!Garhwa  Teonthar village garhwa lakhankhorihan!GADHWA-REWA!MP!486117",
+      "alt": "8349100426",
+      "circle": "VI MP",
+      "email": "Kishanchaturvedi1998@gmail.com",
+      "fname": "SHRI PRADEEP KUMAR PANDEY ",
+      "name": "SUBHAM KUMAR PANDAY",
+      "num": "9111900749"
+    },
+    {
+      "aadhar": "mp17n20160310805",
+      "address": "!near chaurasiya nursing ward no 27  ward no 27 pts road!near chourasia hospital!pts road!huzur rewa!Huzur!Rewa!Madhya Pradesh!486001",
+      "alt": "8349100426",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "girja prasad chaturvedi",
+      "name": "Kishan chaturvedi",
+      "num": "8827459872"
+    },
+    {
+      "aadhar": "569476267968",
+      "address": "S/O Bhaiya Lal Upadhayay!S/O Bhaiya Lal Upadhayay  ward no-00!graam-post -devra  jaisinghnagar!Jaisinghnagar  Jaisinghnagar !JAISINGHNAGAR-SHAHDOL!MP!484771",
+      "alt": "8349100426",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "BHAIYA LAL Lal UPADHAYAY",
+      "name": "SHUBHAM UPADHAYAY",
+      "num": "7746839716"
+    }
+  ]
+}
