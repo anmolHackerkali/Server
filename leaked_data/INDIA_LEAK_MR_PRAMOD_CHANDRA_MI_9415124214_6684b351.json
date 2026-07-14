@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:44:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9415124214",
+  "records": [
+    {
+      "aadhar": "620440454339",
+      "address": "S/O RAJ NARAYAN MISHRA!SEMARI!SEMARI!!PRATAPPURALLAHABAD!ALLAHABAD!UTTAR PRADESH!212402",
+      "alt": "9838219498",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAJ NARAYAN MISHRA",
+      "name": "MR. PRAMOD CHANDRA MISHRA",
+      "num": "9415124214"
+    },
+    {
+      "aadhar": "620440454339",
+      "address": "S/O RAJ NARAYAN MISHRA!SEMARI!SEMARI!!PRATAPPUR ALLAHABAD!ALLAHABAD!UTTAR PRADESH!212402",
+      "alt": "9838219498",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAJ NARAYAN MISHRA",
+      "name": "MR PRAMOD CHANDRA MISHRA",
+      "num": "9415124214"
+    },
+    {
+      "aadhar": "620440454339",
+      "address": "S/O RAJ NARAYAN MISHRA!SEMARI!SEMARI!!PRATAPPUR ALLAHABAD!ALLAHABAD!UTTAR PRADESH!212402",
+      "alt": "9838219498",
+      "circle": "UPE",
+      "email": null,
+      "fname": "RAJ NARAYAN MISHRA",
+      "name": "MR PRAMOD CHANDRA MISHRA",
+      "num": "9415124214"
+    }
+  ]
+}
