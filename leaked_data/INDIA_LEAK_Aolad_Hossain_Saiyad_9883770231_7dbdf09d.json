@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:24:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9883770231",
+  "records": [
+    {
+      "aadhar": "925592724322",
+      "address": "S/O  Musaraf Saiyad!!charpur!dignagar!dignagar hooghly!Dignagar!Hooghly!West Bengal!712706",
+      "alt": "9998196704",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Musaraf Saiyad",
+      "name": "Aolad Hossain Saiyad",
+      "num": "9883770231"
+    },
+    {
+      "aadhar": "925592724322",
+      "address": "S/O  Musaraf Saiyad!!charpur!dignagar!dignagar hooghly!Dignagar!Hooghly!West Bengal!712706",
+      "alt": "9998196704",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Musaraf Saiyad",
+      "name": "Aolad Hossain Saiyad",
+      "num": "9883770231"
+    }
+  ]
+}
