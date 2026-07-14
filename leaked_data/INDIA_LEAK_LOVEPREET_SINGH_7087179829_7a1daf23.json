@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:30:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7087179829",
+  "records": [
+    {
+      "aadhar": "778048096233",
+      "address": "S/O JASMEL SINGH!551!PATTI HARDAS DI VERKA!PATTIHARDASDI!AMRITSAR!AMRITSAR!AMRITSAR!PUNJAB!143501",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "JASMEL SINGH",
+      "name": "LOVEPREET SINGH",
+      "num": "7087179829"
+    }
+  ]
+}
