@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:03:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8010203156",
+  "records": [
+    {
+      "aadhar": "676940291412",
+      "address": "!12!habibpur!Village habibpur greater noida!NoidaNoida!Uttar Pradesh!201306",
+      "alt": "7838050994",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rahishuddin",
+      "name": "Shahanawaj",
+      "num": "8010203156"
+    },
+    {
+      "aadhar": "676940291412",
+      "address": "!12!habibpur!!Village habibpur greater noida!Noida!!Uttar Pradesh!201306",
+      "alt": "7838050994",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rahishuddin",
+      "name": "Shahanawaj",
+      "num": "8010203156"
+    },
+    {
+      "aadhar": "676940291412",
+      "address": "!12!habibpur!Village habibpur greater noida!NoidaNoida!Uttar Pradesh!201306",
+      "alt": "7838050994",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rahishuddin",
+      "name": "Shahanawaj",
+      "num": "8010203156"
+    },
+    {
+      "aadhar": "676940291412",
+      "address": "!12!habibpur!Village habibpur greater noida!NoidaNoida!Uttar Pradesh!201306",
+      "alt": "7838050994",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Rahishuddin",
+      "name": "Shahanawaj",
+      "num": "8010203156"
+    }
+  ]
+}
