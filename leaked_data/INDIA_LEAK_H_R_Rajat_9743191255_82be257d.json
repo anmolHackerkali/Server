@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:32:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9743191255",
+  "records": [
+    {
+      "aadhar": "712349372555",
+      "address": "! 201 2nd floor akshay paradise!1st cross laxminagar ravinagar gokul road!near ganesh temple!Hubli udyamnagar dharwad!Dharwad!Dharwad!Karnataka!580030",
+      "alt": "9844665445",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Ramarao",
+      "name": "H R Rajat",
+      "num": "9743191255"
+    },
+    {
+      "aadhar": "779310212650",
+      "address": "! 201 2nd floor akshay paradise!1st cross laxminagar near ganesh temple!!Hubli udyamnagar!Dharwad!Dharwad!Karnataka!580030",
+      "alt": "9743191255",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Shrinivas rao",
+      "name": "H.S.Ramarao",
+      "num": "9844665445"
+    },
+    {
+      "aadhar": "712349372555",
+      "address": "S/O H S Ramarao 62 Green Garden Gokul Road Hubli Dharwad  Karnataka 580030",
+      "alt": "9743191255",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "HSRamarao",
+      "name": "HRRajat",
+      "num": "9148023648"
+    }
+  ]
+}
