@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:54:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717003522",
+  "records": [
+    {
+      "aadhar": "680491129113",
+      "address": "A4/86 New Kondli Mayur Vihar 3 Delhi   East Delhi Delhi 110096! ! !!!",
+      "alt": "8826247127",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brijesh Chand Goyal",
+      "name": "Krishan Kant",
+      "num": "9717003522"
+    },
+    {
+      "aadhar": "680491129113",
+      "address": "!A4/86 New Kondli Mayur Vihar 3 Delhi   East Delhi Delhi 110096!!!!!!!",
+      "alt": "8826247127",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brijesh Chand Goyal",
+      "name": "Krishan Kant",
+      "num": "9717003522"
+    },
+    {
+      "aadhar": "680491129113",
+      "address": "A4/86 New Kondli Mayur Vihar 3 Delhi   East Delhi Delhi 110096       ",
+      "alt": "8826247127",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brijesh Chand Goyal",
+      "name": "Krishan Kant",
+      "num": "9717003522"
+    },
+    {
+      "aadhar": "680491129113",
+      "address": "A4/86 New Kondli Mayur Vihar 3 Delhi   East Delhi Delhi 110096       ",
+      "alt": "8826247127",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brijesh Chand Goyal",
+      "name": "Krishan Kant",
+      "num": "9717003522"
+    }
+  ]
+}
