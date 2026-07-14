@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:30:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9870340436",
+  "records": [
+    {
+      "aadhar": "494111607765",
+      "address": "!!A-87 JEEWAN PARK PANKHA ROAD!NA!UTTAM NAGAR!New Delhi West West!NA!Delhi!110059",
+      "alt": "9910586623",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Kumar",
+      "name": "Sagar Kumar",
+      "num": "9870340436"
+    },
+    {
+      "aadhar": "494111607765",
+      "address": "!!A-87JEEWAN PARK PANKHA ROAD!NA!UTTAM NAGAR!New Delhi WestWest!NA!Delhi!110059",
+      "alt": "9910586623",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Kumar",
+      "name": "Sagar Kumar",
+      "num": "9870340436"
+    },
+    {
+      "aadhar": "494111607765",
+      "address": "!!A-87JEEWAN PARK PANKHA ROAD!NA!UTTAM NAGAR!New Delhi WestWest!NA!Delhi!110059",
+      "alt": "9910586623",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Kumar",
+      "name": "Sagar Kumar",
+      "num": "9870340436"
+    },
+    {
+      "aadhar": "429252465296",
+      "address": "D/O Sanjeev Kumar Behal!!B-58 NEAR JEEWAN PARK!NA!ANOOP NAGAR MANDIR WALI GALI!UTTAM NAGAR West Delhi!NA!Delhi!110059",
+      "alt": "9870340436",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjeev Kumar Behal",
+      "name": "Geetanjali",
+      "num": "7701925539"
+    },
+    {
+      "aadhar": "429252465296",
+      "address": "D/O Sanjeev Kumar Behal!!B-58NEAR JEEWAN PARK!NA!ANOOP NAGAR MANDIR WALI GALI!UTTAM NAGARWest Delhi!NA!Delhi!110059",
+      "alt": "9870340436",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjeev Kumar Behal",
+      "name": "Geetanjali",
+      "num": "7701925539"
+    },
+    {
+      "aadhar": "429252465296",
+      "address": "D/O Sanjeev Kumar Behal!!B-58NEAR JEEWAN PARK!NA!ANOOP NAGAR MANDIR WALI GALI!UTTAM NAGARWest Delhi!NA!Delhi!110059",
+      "alt": "9870340436",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sanjeev Kumar Behal",
+      "name": "Geetanjali",
+      "num": "7701925539"
+    }
+  ]
+}
