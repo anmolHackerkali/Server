@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:04:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7054005336",
+  "records": [
+    {
+      "aadhar": "528030389158",
+      "address": "S/O Kishun!House No 91 KA!!!Maharajganj!Uttar Pradesh!273305",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kishun",
+      "name": "Narsingh",
+      "num": "7054005336"
+    },
+    {
+      "aadhar": "528030389158",
+      "address": "S/O Kishun!House No 91 KA!!!Maharajganj!Uttar Pradesh!273305",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kishun",
+      "name": "Narsingh",
+      "num": "7054005336"
+    }
+  ]
+}
