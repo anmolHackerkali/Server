@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:07:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9174791719",
+  "records": [
+    {
+      "aadhar": "405082060374",
+      "address": "S/O Rasid Khan!10!Shajapur!Shajapur!Khokara Kalan SHAJAPUR!SHAJAPUR!SHAJAPUR!Madhya Pradesh!465339",
+      "alt": "9174791719",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Rasid Khan",
+      "name": "MR RAEES KHAN",
+      "num": "9340209601"
+    },
+    {
+      "aadhar": null,
+      "address": "khokra kalan shajapur Gram-post-khokara kalan  Ward N-10 Khokara Kalan Shajapur  Madhya Pradesh 465339",
+      "alt": "9174791719",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Raees Khan",
+      "name": "Arman Khan",
+      "num": "9174791719 "
+    },
+    {
+      "aadhar": "902892773848",
+      "address": "S/O Raees Khan!10!Shajapur Gram-post-khokara Kalan!Gram-post-khokara Kalan!Khokra Kalan SHAJAPUR!SHAJAPUR!SHAJAPUR!Madhya Pradesh!465339",
+      "alt": "9174791719",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Raees Khan",
+      "name": "MR ARMAN KHAN",
+      "num": "9165987431"
+    },
+    {
+      "aadhar": "902892773848",
+      "address": "S/O Raees Khan!Khokra Kalan Khokar!Gram-post-khokara Kalan Shajapur!Gram-post-khokara Kalan Shajapur!Ward N-10 SHAJAPUR!SHAJAPUR!SHAJAPUR!Madhya Pradesh!465339",
+      "alt": "9174791719",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Raees Khan",
+      "name": "MR ARMAN KHAN",
+      "num": "8819974623"
+    },
+    {
+      "aadhar": "902892773848",
+      "address": "S/O Raees Khan!Khokra Kalan Khokar!Gram-post-khokara Kalan Shajapur!Gram-post-khokara Kalan Shajapur!Ward N-10 SHAJAPUR!SHAJAPUR!SHAJAPUR!Madhya Pradesh!465339",
+      "alt": "9174791719",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Raees Khan",
+      "name": "MR ARMAN KHAN",
+      "num": "8819974623"
+    }
+  ]
+}
