@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:52:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708181903",
+  "records": [
+    {
+      "aadhar": "602942000922",
+      "address": "S/O Prem Prakash Mehra!!!20306 GALI NO4 NAI BASTI!BAHADURGARH JHAJJAR!Haryana!124507",
+      "alt": "+919729291532",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Prem Prakash Mehra",
+      "name": "Rahul Mehra",
+      "num": "8708181903"
+    }
+  ]
+}
