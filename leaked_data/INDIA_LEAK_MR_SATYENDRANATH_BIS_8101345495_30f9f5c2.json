@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:44:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8101345495",
+  "records": [
+    {
+      "aadhar": "328167390728",
+      "address": "S/O MADHUSUDAN BISWAS!16!school!school!ASSANNAGAR NADIA!NADIA!NADIA!West Bengal!741161",
+      "alt": "6295260129",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Madhusudan Biswas",
+      "name": "MR SATYENDRANATH BISWAS",
+      "num": "8101345495"
+    },
+    {
+      "aadhar": "328167390728",
+      "address": "S/O MADHUSUDAN BISWAS!16!school!school!ASSANNAGAR NADIA!NADIA!NADIA!West Bengal!741161",
+      "alt": "6295260129",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Madhusudan Biswas",
+      "name": "MR SATYENDRANATH BISWAS",
+      "num": "8101345495"
+    },
+    {
+      "aadhar": "898077705776",
+      "address": " !!-!ASANNAGAR!- asannagar assannagar!asannagar Krishnagar - I!nadia!West Bengal!741161 ",
+      "alt": "8101345495",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Manojit Joyardar",
+      "name": "Anjana Joyardar",
+      "num": "8317828821"
+    },
+    {
+      "aadhar": "898077705776",
+      "address": " !!-!ASANNAGAR!- asannagar assannagar!asannagar Krishnagar - I!nadia!West Bengal!741161 ",
+      "alt": "8101345495",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Manojit Joyardar",
+      "name": "Anjana Joyardar",
+      "num": "8317828821"
+    }
+  ]
+}
