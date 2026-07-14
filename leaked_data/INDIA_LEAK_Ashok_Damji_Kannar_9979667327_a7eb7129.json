@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:42:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9979667327",
+  "records": [
+    {
+      "aadhar": "598745965961",
+      "address": "S/O  Damji! house no 430!Kachchh!!sector 6 ganeshnagar!Gandhidham!Kachchh!Gujarat!370201",
+      "alt": "6354630547",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Damji",
+      "name": "Ashok Damji Kannar",
+      "num": "9979667327"
+    },
+    {
+      "aadhar": "598745965961",
+      "address": "S/O  Damji! house no 430!Kachchh!!sector 6 ganeshnagar!Gandhidham!Kachchh!Gujarat!370201",
+      "alt": "6354630547",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Damji",
+      "name": "Ashok Damji Kannar",
+      "num": "9979667327"
+    },
+    {
+      "aadhar": "598745965961",
+      "address": "S/O  Damji! house no 430!Kachchh!!sector 6 ganeshnagar!Gandhidham!Kachchh!Gujarat!370201",
+      "alt": "6354630547",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Damji",
+      "name": "Ashok Damji Kannar",
+      "num": "9979667327"
+    }
+  ]
+}
