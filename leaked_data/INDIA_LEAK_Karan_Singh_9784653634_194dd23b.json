@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:29:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9784653634",
+  "records": [
+    {
+      "aadhar": "743979090521",
+      "address": "!321 utsav appartment!bhavsar hostel road!!Nava vadaj!Ahmedabad City!Ahmadabad!Gujarat!380013",
+      "alt": "9784653634",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "swaroop singh",
+      "name": "Karan Singh",
+      "num": "9023787133"
+    },
+    {
+      "aadhar": "743979090521",
+      "address": "!321 utsav appartment!bhavsar hostel road!!Nava vadaj!Ahmedabad City!Ahmadabad!Gujarat!380013",
+      "alt": "9784653634",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "swaroop singh",
+      "name": "Karan Singh",
+      "num": "9023787133"
+    }
+  ]
+}
