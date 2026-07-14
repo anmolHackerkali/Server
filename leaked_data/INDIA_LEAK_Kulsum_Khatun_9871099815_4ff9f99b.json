@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:05:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871099815",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Md Israil!Flat No-  Block-B-7 M!Urben Shelter New EWS Adrash Apartment!Sector-16BDwarka!KakrolaSouth West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Md Israil",
+      "name": "Kulsum Khatun",
+      "num": "9871099815"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Md Israil!Flat No-  Block-B-7 M!Urben Shelter New EWS Adrash Apartment!Sector-16BDwarka!KakrolaSouth West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Md Israil",
+      "name": "Kulsum Khatun",
+      "num": "9871099815"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Md Israil!Flat No-  Block-B-7 M!Urben Shelter New EWS Adrash Apartment!Sector-16BDwarka!KakrolaSouth West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Md Israil",
+      "name": "Kulsum Khatun",
+      "num": "9871099815"
+    }
+  ]
+}
