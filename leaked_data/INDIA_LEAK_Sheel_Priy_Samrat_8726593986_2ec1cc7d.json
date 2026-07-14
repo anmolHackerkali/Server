@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:04:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8726593986",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!A75 sigma 4!greater Noida!Ghaziabad Gautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "918851194007",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sarnam Singh",
+      "name": "Sheel Priy Samrat",
+      "num": "8726593986"
+    },
+    {
+      "aadhar": null,
+      "address": "!!A75sigma 4!greater Noida!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "918851194007",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sarnam Singh",
+      "name": "Sheel Priy Samrat",
+      "num": "8726593986"
+    },
+    {
+      "aadhar": null,
+      "address": "!!A75sigma 4!greater Noida!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201310",
+      "alt": "918851194007",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sarnam Singh",
+      "name": "Sheel Priy Samrat",
+      "num": "8726593986"
+    }
+  ]
+}
