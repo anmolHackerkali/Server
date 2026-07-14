@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:07:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9855990775",
+  "records": [
+    {
+      "aadhar": "825543850414",
+      "address": "!Flat No 101!Tower No 11!Mandir!Pir MusshalaMandir!DHAKOLI-S A S NAGAR(MOHALI)!S A S NAGAR(MOHALI)!PB!140603",
+      "alt": "7696850000",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "SATPAL GUPTA",
+      "name": "VIJAY GUPTA",
+      "num": "9855990775"
+    }
+  ]
+}
