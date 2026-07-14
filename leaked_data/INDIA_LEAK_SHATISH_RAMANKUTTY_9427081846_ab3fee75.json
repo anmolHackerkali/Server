@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:53:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9427081846",
+  "records": [
+    {
+      "aadhar": "DMW3855517",
+      "address": "11 WATER PARK!BALIYASAN!MEHSANA!MEHSANA!GUJARAT!384001",
+      "alt": "7567332833",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "RAMANKUTTY",
+      "name": "SHATISH RAMANKUTTY",
+      "num": "9427081846"
+    },
+    {
+      "aadhar": "DMW3855517",
+      "address": "11 WATER PARK!BALIYASAN!MEHSANA!MEHSANA!GUJARAT!384001",
+      "alt": "7567332833",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "RAMANKUTTY",
+      "name": "SHATISH RAMANKUTTY",
+      "num": "9427081846"
+    }
+  ]
+}
