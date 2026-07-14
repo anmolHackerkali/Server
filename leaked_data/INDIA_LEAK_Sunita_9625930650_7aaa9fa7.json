@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:23:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625930650",
+  "records": [
+    {
+      "aadhar": "551916710256",
+      "address": "!Hosue no I -336!Sunder Nagri!!North East!Delhi East!North East!Delhi!110093",
+      "alt": "8053894662",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sanjay kumar",
+      "name": "Sunita",
+      "num": "9625930650"
+    },
+    {
+      "aadhar": "551916710256",
+      "address": "!Hosue no I -336!Sunder Nagri!!North East!Delhi East!North East!Delhi!110093",
+      "alt": "8053894662",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sanjay kumar",
+      "name": "Sunita",
+      "num": "9625930650"
+    },
+    {
+      "aadhar": "551916710256",
+      "address": "!Hosue no I -336!Sunder Nagri!!North East!Delhi East!North East!Delhi!110093",
+      "alt": "8053894662",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "sanjay kumar",
+      "name": "Sunita",
+      "num": "9625930650"
+    },
+    {
+      "aadhar": "551916710256",
+      "address": "!rz 59!sainik encleve part 1!najafgarh new delhi!jharodha kalan!South West Delhi!Delhi!Delhi!110072",
+      "alt": "9625930650",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "SanjayKumar",
+      "name": "Sunita",
+      "num": "8053894662"
+    }
+  ]
+}
