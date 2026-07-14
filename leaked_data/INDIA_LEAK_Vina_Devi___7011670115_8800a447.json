@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:28:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7011670115",
+  "records": [
+    {
+      "aadhar": "413202116702",
+      "address": "!plot no-161 GF vaishali sector-3F vaishali Ghaziabad!plot n-161 vaishali sector-3F Ghaziabad!!vaishali sector-3F Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "7011267287",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dayanand yadav",
+      "name": "Vina Devi  ",
+      "num": "7011670115"
+    },
+    {
+      "aadhar": null,
+      "address": "!!A-81jasola!New delhi!New Delhi SouthSouth!Delhi!110025",
+      "alt": "917838084592",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ramnath",
+      "name": "Chandrasen",
+      "num": "7011670115"
+    },
+    {
+      "aadhar": "413202116702",
+      "address": "!plot no-161 GF vaishali sector-3F vaishali Ghaziabad!plot n-161 vaishali sector-3F Ghaziabad!!vaishali sector-3F Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "7011267287",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dayanand yadav",
+      "name": "Vina Devi  ",
+      "num": "7011670115"
+    },
+    {
+      "aadhar": "413202116702",
+      "address": "!plot no-161 GF vaishali sector-3F vaishali Ghaziabad!plot n-161 vaishali sector-3F Ghaziabad!!vaishali sector-3F Ghaziabad!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "7011267287",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Dayanand yadav",
+      "name": "Vina Devi  ",
+      "num": "7011670115"
+    },
+    {
+      "aadhar": null,
+      "address": "!!A-81jasola!New delhi!New Delhi SouthSouth!Delhi!110025",
+      "alt": "917838084592",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ramnath",
+      "name": "Chandrasen",
+      "num": "7011670115"
+    }
+  ]
+}
