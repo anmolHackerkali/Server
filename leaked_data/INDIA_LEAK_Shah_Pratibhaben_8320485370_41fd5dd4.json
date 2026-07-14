@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:53:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8320485370",
+  "records": [
+    {
+      "aadhar": "783193330980",
+      "address": "W/O  Nareshbhai  sagar jalaram colony porbandar Porbandar Gujarat 360575",
+      "alt": "919428703470",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Shah Pratibhaben",
+      "num": "8320485370"
+    },
+    {
+      "aadhar": "783193330980",
+      "address": "W/O: Nareshbhai!!sagar jalaram colony!porbandar!Porbandar!Gujarat!360575",
+      "alt": "919428703470",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Shah Pratibhaben",
+      "num": "8320485370"
+    },
+    {
+      "aadhar": "783193330980",
+      "address": "W/O: Nareshbhai!!sagar jalaram colony!porbandar!Porbandar!Gujarat!360575",
+      "alt": "919428703470",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Shah Pratibhaben",
+      "num": "8320485370"
+    },
+    {
+      "aadhar": "783193330980",
+      "address": "W/O Nareshbhai! 24!jalaram colony!!jalaram colony sagar porbandar!Porbandar!Porbandar!Gujarat!360575",
+      "alt": "8320485370",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Pratibha Nareshbhai Shah",
+      "num": "9428703470"
+    },
+    {
+      "aadhar": "783193330980",
+      "address": "W/O Nareshbhai! 24!jalaram colony!!jalaram colony sagar porbandar!Porbandar!Porbandar!Gujarat!360575",
+      "alt": "8320485370",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Pratibha Nareshbhai Shah",
+      "num": "9428703470"
+    },
+    {
+      "aadhar": "783193330980",
+      "address": "W/O Nareshbhai! 24!jalaram colony!!jalaram colony sagar porbandar!Porbandar!Porbandar!Gujarat!360575",
+      "alt": "8320485370",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nareshbhai",
+      "name": "Pratibha Nareshbhai Shah",
+      "num": "9428703470"
+    }
+  ]
+}
