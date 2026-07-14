@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:53:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899728180",
+  "records": [
+    {
+      "aadhar": "687729747067",
+      "address": "s/o akhilesh kumar!b-318!Noida!near police station sector-20!sector-20 noida!noida!gautam buddha nagar!Uttar Pradesh!201301",
+      "alt": "9808889977",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "akhilesh kumar",
+      "name": "Prateek Gupta",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": null,
+      "address": "B-318 ! GB NGR ! SECTOR-20 ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9999122805",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "suresh chandra gupta",
+      "name": "AKHILESH KUMAR",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": null,
+      "address": "B-318 ! GB NGR ! SECTOR-20 ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9999122805",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "suresh chandra gupta",
+      "name": "AKHILESH KUMAR",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": "687729747067",
+      "address": "s/o akhilesh kumar!b-318!Noida!near police station sector-20!sector-20 noida!noida!gautam buddha nagar!Uttar Pradesh!201301",
+      "alt": "9808889977",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "akhilesh kumar",
+      "name": "Prateek Gupta",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": "687729747067",
+      "address": "s/o akhilesh kumar!b-318!Noida!near police station sector-20!sector-20 noida!noida!gautam buddha nagar!Uttar Pradesh!201301",
+      "alt": "9808889977",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "akhilesh kumar",
+      "name": "Prateek Gupta",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": null,
+      "address": "B-318 ! GB NGR ! SECTOR-20 ! NOIDA NCR ! UTTAR PRADESH ! 201301",
+      "alt": "9999122805",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "suresh chandra gupta",
+      "name": "AKHILESH KUMAR",
+      "num": "9899728180"
+    },
+    {
+      "aadhar": "ZYH6297204",
+      "address": " H N B 318 Block B noida dadri Sector- 20 Ghaziabad Gautam Buddha Nagar UP 201301",
+      "alt": "9899728180",
+      "circle": "JIO DELHI",
+      "email": "prateekg123@gmail.com",
+      "fname": "Akhilesh Gupta",
+      "name": "Saransh Gupta",
+      "num": "1203102882"
+    },
+    {
+      "aadhar": "ZYH6297204",
+      "address": " H N B 318 Block B noida dadri Sector- 20 Ghaziabad Gautam Buddha Nagar UP 201301",
+      "alt": "9899728180",
+      "circle": "JIO DELHI",
+      "email": "prateekg123@gmail.com",
+      "fname": "Akhilesh Gupta",
+      "name": "Saransh Gupta",
+      "num": "1203102882"
+    },
+    {
+      "aadhar": "ZYH6297204",
+      "address": " H N B 318 Block B noida dadri Sector- 20 Ghaziabad Gautam Buddha Nagar UP 201301",
+      "alt": "9899728180",
+      "circle": "JIO DELHI",
+      "email": "prateekg123@gmail.com",
+      "fname": "Akhilesh Gupta",
+      "name": "Saransh Gupta",
+      "num": "1203102882"
+    }
+  ]
+}
