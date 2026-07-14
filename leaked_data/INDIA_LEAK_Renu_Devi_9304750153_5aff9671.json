@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:43:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9304750153",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Ramuchit Ram!!!!Gauri Har Khalik Nagar Muzaffarpur!Bihar!843102",
+      "alt": "917481926921",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramuchit Ram",
+      "name": "Renu Devi",
+      "num": "9304750153"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ramuchit Ram!!!!Gauri Har Khalik Nagar Muzaffarpur!Bihar!843102",
+      "alt": "917481926921",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramuchit Ram",
+      "name": "Renu Devi",
+      "num": "9304750153"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ramuchit Ram!!!!Gauri Har Khalik Nagar Muzaffarpur!Bihar!843102",
+      "alt": "917481926921",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramuchit Ram",
+      "name": "Renu Devi",
+      "num": "9304750153"
+    }
+  ]
+}
