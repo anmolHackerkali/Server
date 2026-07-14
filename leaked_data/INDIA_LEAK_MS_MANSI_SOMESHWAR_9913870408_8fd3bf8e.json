@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:34:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9913870408",
+  "records": [
+    {
+      "aadhar": "801834080039",
+      "address": "House no-33!Shri Krishna Housing Society Behind DV Highschool!Behind DV Highschool!anjar anjar Kachchh!ANJAR!Kachchh!Gujarat!370110",
+      "alt": "9016739640",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Someshwar Bipinchandra",
+      "name": "MS MANSI SOMESHWAR",
+      "num": "9913870408"
+    },
+    {
+      "aadhar": "801834080039",
+      "address": "D/O Someshwar Bipinchandra!House no-33!Shri Krishna Housing Society Behind DV Highschool!Behind DV Highschool!anjar anjar Kachchh!ANJAR!Kachchh!Gujarat!370110",
+      "alt": "9016739640",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Someshwar Bipinchandra",
+      "name": "MS MANSI SOMESHWAR",
+      "num": "9913870408"
+    },
+    {
+      "aadhar": "801834080039",
+      "address": "D/O Someshwar Bipinchandra!House no-33!Shri Krishna Housing Society Behind DV Highschool!Behind DV Highschool!anjar anjar Kachchh!ANJAR!Kachchh!Gujarat!370110",
+      "alt": "9016739640",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Someshwar Bipinchandra",
+      "name": "MS MANSI SOMESHWAR",
+      "num": "9913870408"
+    }
+  ]
+}
