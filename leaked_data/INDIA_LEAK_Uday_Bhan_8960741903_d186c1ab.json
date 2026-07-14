@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:18:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8960741903",
+  "records": [
+    {
+      "aadhar": "853161148878",
+      "address": "S/O Umapti!142 S!akmpur  Rakmapur!Rakmapur!Bihar Unnao!Pakrakhurd!Pakrakhurd!Uttar Pradesh!229504",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Umapti",
+      "name": "Uday Bhan",
+      "num": "8960741903"
+    },
+    {
+      "aadhar": "853161148878",
+      "address": "S/O Umapti!142 S!akmpur  Rakmapur!Rakmapur!Bihar Unnao!Pakrakhurd!Pakrakhurd!Uttar Pradesh!229504",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Umapti",
+      "name": "Uday Bhan",
+      "num": "8960741903"
+    }
+  ]
+}
