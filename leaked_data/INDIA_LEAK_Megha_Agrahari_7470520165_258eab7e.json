@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:27:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7470520165",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Arvind Agrahari!ward number 06!rani durgawati wardbehind vinod medical!mandlaMandla!behind vinod medical!BALAGHAT!Mandla!Madhya Pradesh!481661",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "C/O Arvind Agrahari",
+      "name": "Megha Agrahari",
+      "num": "7470520165"
+    },
+    {
+      "aadhar": "244642922750",
+      "address": "W/O ARVIND AGRAHRI! HOUSE NO. 105!RANI DURGAWATI WARD 06!BEHIND VINOD MEDICAL!MANDLA!Mandla!Mandla!Madhya Pradesh!481661",
+      "alt": "7470520165",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "ARVIND AGRAHRI",
+      "name": "USHA AGRAHRI",
+      "num": "9301582542"
+    },
+    {
+      "aadhar": "953433126805",
+      "address": "ARVIND AGRAHARI!WARD NUMBER RANI DURGAWATI WARD  BEHIND VINOD MEDICAL!WARD NUMBER RANI DURGAWATI WARD  BEHIND VINOD MEDICAL mandla!mandla!durgawati ward MANDLA!MANDLA!MANDLA!Madhya Pradesh!481661",
+      "alt": "7470520165",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Arvind",
+      "name": "MS MEGHA AGRAHARI",
+      "num": "7748843788"
+    }
+  ]
+}
