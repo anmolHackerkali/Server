@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:22:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835815933",
+  "records": [
+    {
+      "aadhar": "539274969210",
+      "address": "W/O Vijay Modak!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!Pargha!Dhanbad!Jharkhand!828201",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vijay Modak",
+      "name": "Rita Devi",
+      "num": "9835815933"
+    },
+    {
+      "aadhar": "539274969210",
+      "address": "W/O Vijay Modak!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!Pargha!Dhanbad!Jharkhand!828201",
+      "alt": "8207718089",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Modak",
+      "name": "Rita Devi",
+      "num": "9835815933"
+    },
+    {
+      "aadhar": "539274969210",
+      "address": "W/O Vijay Modak!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!!VILL KHAS PARGHA POST PARGHA PS BALIAPUR!Pargha!Dhanbad!Jharkhand!828201",
+      "alt": "8207718089",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Modak",
+      "name": "Rita Devi",
+      "num": "9835815933"
+    }
+  ]
+}
