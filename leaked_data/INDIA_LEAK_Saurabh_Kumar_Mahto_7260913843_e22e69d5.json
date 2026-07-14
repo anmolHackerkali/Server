@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:11:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7260913843",
+  "records": [
+    {
+      "aadhar": "527850280260",
+      "address": "Vill-Selari!Po!!Ps- Tarhasi Selari Tarhasi Palamu!Palamau!Palamau!Jharkhand!822118",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Mahto",
+      "name": "Saurabh Kumar Mahto",
+      "num": "7260913843"
+    },
+    {
+      "aadhar": "527850280260",
+      "address": "Vill-Selari!Po!!Ps- Tarhasi Selari Tarhasi Palamu!Palamau!Palamau!Jharkhand!822118",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Mahto",
+      "name": "Saurabh Kumar Mahto",
+      "num": "7260913843"
+    },
+    {
+      "aadhar": "527850280260",
+      "address": "Vill-Selari!Po!!Ps- Tarhasi Selari Tarhasi Palamu!Palamau!Palamau!Jharkhand!822118",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Mahto",
+      "name": "Saurabh Kumar Mahto",
+      "num": "7260913843"
+    },
+    {
+      "aadhar": "527850280260",
+      "address": "Vill-Selari!Po!!Ps- Tarhasi Selari Tarhasi Palamu!Palamau!Palamau!Jharkhand!822118",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Mahto",
+      "name": "Saurabh Kumar Mahto",
+      "num": "7260913843"
+    }
+  ]
+}
