@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:27:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9620152084",
+  "records": [
+    {
+      "aadhar": "458337633582",
+      "address": "S/O  Ramachandra!!Awaradi Street Channapeth Old Hubli!Old Hubli!Hubli Hubli Dharwad!Karnataka!580024",
+      "alt": "917760416467",
+      "circle": "KARNATAKA JIO ",
+      "email": null,
+      "fname": "Ramachandra",
+      "name": "Ravi Mudagal",
+      "num": "9620152084"
+    }
+  ]
+}
