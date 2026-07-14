@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7459956902",
+  "records": [
+    {
+      "aadhar": "207861753846",
+      "address": "!1/84!G G I C ke pichhe civil line!mandir!ballia city ballia!Ballia!Ballia!Uttar Pradesh!277001",
+      "alt": "9935682979",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay kumar Srivastava",
+      "name": "Anjali Srivastava",
+      "num": "7459956902"
+    },
+    {
+      "aadhar": "207861753846",
+      "address": "!1/84!G G I C ke pichhe civil line!mandir!ballia city ballia!Ballia!Ballia!Uttar Pradesh!277001",
+      "alt": "9935682979",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay kumar Srivastava",
+      "name": "Anjali Srivastava",
+      "num": "7459956902"
+    }
+  ]
+}
