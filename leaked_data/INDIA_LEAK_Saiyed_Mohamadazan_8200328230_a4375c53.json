@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:52:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8200328230",
+  "records": [
+    {
+      "aadhar": "664315958968",
+      "address": "S/O  Saiyed Asifmiya  301 sahil complex Near patrakar society Akota Tandalja Road Vadodara Vadodara Vadodara Gujarat 390020",
+      "alt": "918306739898",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Saiyed Asifmiya",
+      "name": "Saiyed Mohamadazan",
+      "num": "8200328230"
+    },
+    {
+      "aadhar": "664315958968",
+      "address": "S/O  Saiyed Asifmiya!!301 sahil complex Near patrakar society Akota!Tandalja Road!Vadodara Vadodara Vadodara!Gujarat!390020",
+      "alt": "918306739898",
+      "circle": "JIO GUJARAT",
+      "email": "aezan.saiyed96@gmail.com",
+      "fname": "Saiyed Asifmiya",
+      "name": "Saiyed Mohamadazan",
+      "num": "8200328230"
+    },
+    {
+      "aadhar": "664315958968",
+      "address": "S/O  Saiyed Asifmiya!!301 sahil complex Near patrakar society Akota!Tandalja Road!Vadodara Vadodara Vadodara!Gujarat!390020",
+      "alt": "918306739898",
+      "circle": "JIO GUJARAT",
+      "email": "aezan.saiyed96@gmail.com",
+      "fname": "Saiyed Asifmiya",
+      "name": "Saiyed Mohamadazan",
+      "num": "8200328230"
+    }
+  ]
+}
