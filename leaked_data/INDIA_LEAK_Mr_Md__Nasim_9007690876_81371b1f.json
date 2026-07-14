@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:07:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9007690876",
+  "records": [
+    {
+      "aadhar": "Xyr1010149",
+      "address": "!C/o - Bengal Travel Service 4 Sudder Street Kolkata WB! !-!700016",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": "-",
+      "fname": "Abdul Hakim",
+      "name": "Mr Md  Nasim",
+      "num": "9007690876"
+    },
+    {
+      "aadhar": "Xyr1010149",
+      "address": "!C/o - Bengal Travel Service 4 Sudder Street Kolkata WB! !-!700016",
+      "alt": null,
+      "circle": "AIRTEL KOL",
+      "email": "-",
+      "fname": "Abdul Hakim",
+      "name": "Mr Md  Nasim",
+      "num": "9007690876"
+    }
+  ]
+}
