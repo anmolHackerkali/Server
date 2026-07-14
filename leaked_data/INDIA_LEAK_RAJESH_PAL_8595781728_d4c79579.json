@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:56:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595781728",
+  "records": [
+    {
+      "aadhar": "SFJ2224888",
+      "address": "! C74!C Block Mandawali Unchepar east Delhi!!C-BLOCK MANDAWALI UNCHEPAR!Delhi East!East!Delhi!110092",
+      "alt": "9810893381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Naresh Pal",
+      "name": "RAJESH PAL",
+      "num": "8595781728"
+    },
+    {
+      "aadhar": "SFJ2224888",
+      "address": "!C74!C Block Mandawali Unchepar east Delhi!!C-BLOCK MANDAWALI UNCHEPAR!Delhi East!East!Delhi!110092",
+      "alt": "9810893381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Naresh Pal",
+      "name": "RAJESH PAL",
+      "num": "8595781728"
+    },
+    {
+      "aadhar": "SFJ2224888",
+      "address": "!C74!C Block Mandawali Unchepar east Delhi!!C-BLOCK MANDAWALI UNCHEPAR!Delhi East!East!Delhi!110092",
+      "alt": "9810893381",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ram Naresh Pal",
+      "name": "RAJESH PAL",
+      "num": "8595781728"
+    }
+  ]
+}
