@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:50:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9199898998",
+  "records": [
+    {
+      "aadhar": "657150001723",
+      "address": "S/O Laxmi Sah!KALIBAGH!WARD NO 13!BETTIAH Bettiah!NEAR LOHAR PATTI!West Champaran!Bihar!845438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laxmi  Sah",
+      "name": "Dinesh Prasad Sharraf",
+      "num": "9199898998"
+    },
+    {
+      "aadhar": "657150001723",
+      "address": "S/O Laxmi Sah!KALIBAGH!WARD NO 13!BETTIAH Bettiah!NEAR LOHAR PATTI!West Champaran!Bihar!845438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laxmi  Sah",
+      "name": "Dinesh Prasad Sharraf",
+      "num": "9199898998"
+    }
+  ]
+}
