@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:12:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6289100634",
+  "records": [
+    {
+      "aadhar": "423514451044",
+      "address": " !!bira bathaniya BIRA BATHANIYA Bira Ballavepara!NA!!Bira North 24 Parganas!NA!West Bengal!743234 ",
+      "alt": "7449469325",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mobarek mondal",
+      "name": "Ensan Ali Mondla",
+      "num": "6289100634"
+    },
+    {
+      "aadhar": "810637422404",
+      "address": " D/O Shukar Ali Mondal!!w/o mobarek mondal Bira Ballavepara!P.O.BIRA BALLABH PARA!bira bathaniya!Bira Habra II!North 24 Parganas!West Bengal!743234 ",
+      "alt": "6289100634",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Shukar Ali Mondal",
+      "name": "Manowara Bibi",
+      "num": "9088344526"
+    },
+    {
+      "aadhar": "423514451044",
+      "address": " S/O Mobarek Mondal!!Bira Ballavepara!BIRA BATHANIYA!!Bira Habra - II!North 24 Parganas!West Bengal!743234 ",
+      "alt": "6289100634",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mobarek Mondal",
+      "name": "Ensan Ali Mondla",
+      "num": "7449469325"
+    },
+    {
+      "aadhar": "810637422404",
+      "address": " D/O Shukar Ali Mondal!!w/o mobarek mondal Bira Ballavepara!P.O.BIRA BALLABH PARA!bira bathaniya!Bira Habra II!North 24 Parganas!West Bengal!743234 ",
+      "alt": "6289100634",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Shukar Ali Mondal",
+      "name": "Manowara Bibi",
+      "num": "9088344526"
+    },
+    {
+      "aadhar": "423514451044",
+      "address": " S/O Mobarek Mondal!!Bira Ballavepara!BIRA BATHANIYA!!Bira Habra - II!North 24 Parganas!West Bengal!743234 ",
+      "alt": "6289100634",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Mobarek Mondal",
+      "name": "Ensan Ali Mondla",
+      "num": "7449469325"
+    }
+  ]
+}
