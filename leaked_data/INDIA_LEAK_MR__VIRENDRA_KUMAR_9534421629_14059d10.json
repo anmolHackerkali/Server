@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:30:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534421629",
+  "records": [
+    {
+      "aadhar": "279215475355",
+      "address": "!0 ramnagar amahara!mankattha lakhisarai MANKATTHA lakhisarai!MANKATTHA lakhisarai!RAMNAGAR MANKATTHA  LAKHISARAI!LAKHISARAI!LAKHISARAI!BIHAR!811311",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Jhagru Mandan",
+      "name": "MR  VIRENDRA KUMAR",
+      "num": "9534421629"
+    },
+    {
+      "aadhar": "279215475355",
+      "address": "!0 ramnagar amahara!mankattha lakhisarai MANKATTHA lakhisarai!MANKATTHA lakhisarai!RAMNAGAR MANKATTHA  LAKHISARAI!LAKHISARAI!LAKHISARAI!BIHAR!811311",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Jhagru Mandan",
+      "name": "MR  VIRENDRA KUMAR",
+      "num": "9534421629"
+    }
+  ]
+}
