@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:08:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9897455091",
+  "records": [
+    {
+      "aadhar": "315820372532",
+      "address": "!6!ratauti bah Agra!!Post office!Agra!Agra!Uttar Pradesh!283113",
+      "alt": "6397783540",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Indrajeet",
+      "name": "Avadesh",
+      "num": "9897455091"
+    },
+    {
+      "aadhar": "315820372532",
+      "address": "!6!ratauti bah Agra!!Post office!Agra!Agra!Uttar Pradesh!283113",
+      "alt": "6397783540",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Indrajeet",
+      "name": "Avadesh",
+      "num": "9897455091"
+    }
+  ]
+}
