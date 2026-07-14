@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:42:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389890847",
+  "records": [
+    {
+      "aadhar": "848146181815",
+      "address": "S/O  Sullarh Singh!!Kumhera!gajipur!gajipur kumhera!KumheraNajibabad!Bijnor!Uttar Pradesh!246731",
+      "alt": "9756577426",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Sullarh Singh",
+      "name": "Rajpal Singh  ",
+      "num": "9389890847"
+    },
+    {
+      "aadhar": "848146181815",
+      "address": "S/O  Sullarh Singh!!Kumhera!gajipur!gajipur kumhera!Kumhera Najibabad!Bijnor!Uttar Pradesh!246731",
+      "alt": "9756577426",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Sullarh Singh",
+      "name": "Rajpal Singh",
+      "num": "9389890847"
+    },
+    {
+      "aadhar": "848146181815",
+      "address": "S/O  Sullarh Singh!!Kumhera!gajipur!gajipur kumhera!Kumhera Najibabad!Bijnor!Uttar Pradesh!246731",
+      "alt": "9756577426",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Sullarh Singh",
+      "name": "Rajpal Singh",
+      "num": "9389890847"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "S/O: Rajpal Singhgajipur kumhera bijnorgajipur kumhera bijnorgajipur kumhera bijnorgajipur BIJNORBIJNORBIJNORUTTAR PRADESH246731",
+      "alt": "9389890847",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "MR MONTI ",
+      "num": "9639137208"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "s/o  rajpal singh!!gajipur Kumhera Bijnor!gajipur Kumhera Bijnor!gajipur!kumhera!bijnor!Uttar Pradesh!246731",
+      "alt": "9389890847",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "rajpal singh",
+      "name": "Monti",
+      "num": "9068020060"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "S/O Rajpal Singh!gajipur!Kumhera!uttar pradesh!Bijnor!Bijnor!Bijnor!Uttarakhand!246731",
+      "alt": "9389890847",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "Monti",
+      "num": "8265986207"
+    },
+    {
+      "aadhar": "248692400099",
+      "address": "S/O: Rajpal00000village gajipur Bijnor nillnillpost Kumhera BIJNORBIJNORBIJNORUTTAR PRADESH246731",
+      "alt": "9389890847",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal",
+      "name": "MR ABHISHEK ",
+      "num": "7351147653"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "!Gajipur!Kumhera!mandir!Bijnor!Bijnor!Bijnor!Uttarakhand!246731",
+      "alt": "9389890847",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Pajpal Singh",
+      "name": "Monti Kumar",
+      "num": "8273458940"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "S/O: Rajpal Singhgajipur kumhera bijnorgajipur kumhera bijnorgajipur kumhera bijnorgajipur BIJNORBIJNORBIJNORUTTAR PRADESH246731",
+      "alt": "9389890847",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "MR MONTI ",
+      "num": "9639137208"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "s/o  rajpal singh!!gajipur Kumhera Bijnor!gajipur Kumhera Bijnor!gajipur!kumhera!bijnor!Uttar Pradesh!246731",
+      "alt": "9389890847",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "rajpal singh",
+      "name": "Monti",
+      "num": "9068020060"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "S/O Rajpal Singh!gajipur!Kumhera!uttar pradesh!Bijnor!Bijnor!Bijnor!Uttarakhand!246731",
+      "alt": "9389890847",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "Monti",
+      "num": "8265986207"
+    },
+    {
+      "aadhar": "248692400099",
+      "address": "S/O: Rajpal00000village gajipur Bijnor nillnillpost Kumhera BIJNORBIJNORBIJNORUTTAR PRADESH246731",
+      "alt": "9389890847",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal",
+      "name": "MR ABHISHEK ",
+      "num": "7351147653"
+    },
+    {
+      "aadhar": "928476978219",
+      "address": "!Gajipur!Kumhera!mandir!Bijnor!Bijnor!Bijnor!Uttarakhand!246731",
+      "alt": "9389890847",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Pajpal Singh",
+      "name": "Monti Kumar",
+      "num": "8273458940"
+    }
+  ]
+}
