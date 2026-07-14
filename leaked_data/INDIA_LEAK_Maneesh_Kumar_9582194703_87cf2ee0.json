@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:06:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582194703",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5598",
+      "address": "Ram Charan!1480!Kotla Mubrak pur Kotla Mubrak pur!Kotla Mubrak pur!DELHI!Delhi!110003",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ram Charan",
+      "name": "Maneesh Kumar",
+      "num": "9582194703"
+    },
+    {
+      "aadhar": "xxxxxxxx5598",
+      "address": "Ram Charan!1480!Kotla Mubrak purKotla Mubrak pur!Kotla Mubrak pur!DELHI!Delhi!110003",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ram Charan",
+      "name": "ManeeshKumar",
+      "num": "9582194703"
+    },
+    {
+      "aadhar": "xxxxxxxx5598",
+      "address": "Ram Charan!1480!Kotla Mubrak purKotla Mubrak pur!Kotla Mubrak pur!DELHI!Delhi!110003",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ram Charan",
+      "name": "ManeeshKumar",
+      "num": "9582194703"
+    },
+    {
+      "aadhar": "364932352926",
+      "address": "Ranveer!C- 1269!  JAHANGIRPURI City/District  North West Delhi! !NORTH WEST DELHI!Delhi!110033",
+      "alt": "9582194703",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "prithavi raj",
+      "name": "Babali ",
+      "num": "8467805054"
+    },
+    {
+      "aadhar": "347404585598",
+      "address": "!1480!Wazir Nagar!NA!kotla Mubarak pur!Delhi South!NA!Delhi!110003",
+      "alt": "9582194703",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram charan",
+      "name": "Maneesh kumar",
+      "num": "7827545964"
+    },
+    {
+      "aadhar": "364932352926",
+      "address": "Ranveer!C- 1269!JAHANGIRPURI City/District: North West Delhi!!NORTH WEST DELHI!Delhi!110033",
+      "alt": "9582194703",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "prithavi raj",
+      "name": "Babali",
+      "num": "8467805054"
+    },
+    {
+      "aadhar": "347404585598",
+      "address": "!1480!Wazir Nagar!NA!kotla Mubarak pur!DelhiSouth!NA!Delhi!110003",
+      "alt": "9582194703",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram charan",
+      "name": "Maneesh kumar",
+      "num": "7827545964"
+    },
+    {
+      "aadhar": "364932352926",
+      "address": "Ranveer!C- 1269!JAHANGIRPURI City/District: North West Delhi!!NORTH WEST DELHI!Delhi!110033",
+      "alt": "9582194703",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "prithavi raj",
+      "name": "Babali",
+      "num": "8467805054"
+    },
+    {
+      "aadhar": "347404585598",
+      "address": "!1480!Wazir Nagar!NA!kotla Mubarak pur!DelhiSouth!NA!Delhi!110003",
+      "alt": "9582194703",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ram charan",
+      "name": "Maneesh kumar",
+      "num": "7827545964"
+    }
+  ]
+}
