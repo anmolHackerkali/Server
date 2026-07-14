@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:59:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9302332541",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ramesh!!31  1-5 near hand pump!podi!Bhelaudi Rewa!Madhya Pradesh!486446",
+      "alt": "918518025885",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ramesh",
+      "name": "Vinay Kumar Tiwari",
+      "num": "9302332541"
+    },
+    {
+      "aadhar": null,
+      "address": "!121!Bankuiya Road maidani!Podi Rewa REWA!maidani!REWA!REWA!Madhya Pradesh!486446",
+      "alt": "9302332541",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "W/O Vinay",
+      "name": "Suneeta ",
+      "num": "9174933418"
+    }
+  ]
+}
