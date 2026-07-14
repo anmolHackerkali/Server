@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:39:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9932804219",
+  "records": [
+    {
+      "aadhar": "913538241811",
+      "address": "DEULTI DEULTI Deulti  Howrah Haora West Bengal 711303",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Bankim",
+      "name": "Ganesh  Manna",
+      "num": "9932804219"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": "!DEULTI!!Deulti DEULTI!Haora !West Bengal!711303",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Bankim  Manna",
+      "name": "Ganesh  Manna",
+      "num": "9932804219"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": "!DEULTI!!Deulti DEULTI!Haora !West Bengal!711303",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Bankim  Manna",
+      "name": "Ganesh  Manna",
+      "num": "9932804219"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": "!!Deulti DEULTI!!Bagnan!Howrah!Haora!West Bengal!711303",
+      "alt": "9932804219",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bankim Manna",
+      "name": "Ganesh Manna",
+      "num": "9907520937"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": " ! deulti!deulti bagnan deulti!deulti!bagnan!Howrah!Haora!West Bengal!711303 ",
+      "alt": "9932804219",
+      "circle": "JIO WB",
+      "email": "ganesh1234@gmail.com",
+      "fname": "bankim manna",
+      "name": "Ganesh Manna",
+      "num": "7601842756"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": "!!Deulti DEULTI!!Bagnan!Howrah!Haora!West Bengal!711303",
+      "alt": "9932804219",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bankim Manna",
+      "name": "Ganesh Manna",
+      "num": "9907520937"
+    },
+    {
+      "aadhar": "913538241811",
+      "address": " ! deulti!deulti bagnan deulti!deulti!bagnan!Howrah!Haora!West Bengal!711303 ",
+      "alt": "9932804219",
+      "circle": "JIO WB",
+      "email": "ganesh1234@gmail.com",
+      "fname": "bankim manna",
+      "name": "Ganesh Manna",
+      "num": "7601842756"
+    }
+  ]
+}
