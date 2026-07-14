@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:52:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8059922339",
+  "records": [
+    {
+      "aadhar": "686539331233",
+      "address": "147 Bhorakalan Binola  Gurgaon Haryana 122413! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Neeraj",
+      "num": "8059922339"
+    },
+    {
+      "aadhar": "686539331233",
+      "address": "!147 Bhorakalan Binola  Gurgaon Haryana 122413!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Neeraj",
+      "num": "8059922339"
+    },
+    {
+      "aadhar": "686539331233",
+      "address": "147 Bhorakalan Binola  Gurgaon Haryana 122413       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Neeraj",
+      "num": "8059922339"
+    },
+    {
+      "aadhar": "686539331233",
+      "address": "147 Bhorakalan Binola  Gurgaon Haryana 122413       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Neeraj",
+      "num": "8059922339"
+    },
+    {
+      "aadhar": "222950708201",
+      "address": "!57!Deg!Binola!GurgaonGurgaon!Haryana!122001",
+      "alt": "8059922339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan  Singh",
+      "name": "Parmod  Tawar",
+      "num": "9671971450"
+    },
+    {
+      "aadhar": "222950708201",
+      "address": "!57 Deg Binola Binola Gurgaon Gurgaon Haryana 122001!!!!!!!",
+      "alt": "8059922339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan  Singh",
+      "name": "Parmod  Tawar",
+      "num": "9671971450"
+    },
+    {
+      "aadhar": "222950708201",
+      "address": "!57!Deg!Binola!GurgaonGurgaon!Haryana!122001",
+      "alt": "8059922339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan  Singh",
+      "name": "Parmod  Tawar",
+      "num": "9671971450"
+    },
+    {
+      "aadhar": "222950708201",
+      "address": "!57!Deg!Binola!GurgaonGurgaon!Haryana!122001",
+      "alt": "8059922339",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Karan  Singh",
+      "name": "Parmod  Tawar",
+      "num": "9671971450"
+    }
+  ]
+}
