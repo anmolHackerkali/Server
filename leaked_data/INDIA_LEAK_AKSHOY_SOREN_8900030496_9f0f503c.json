@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:51:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8900030496",
+  "records": [
+    {
+      "aadhar": "YAF1551191",
+      "address": "DHITPUR;DHITPUR BAGANDA;JANGIPARA;Hooghly;WEST BENGAL;712404",
+      "alt": "9474751565",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "DASU SOREN",
+      "name": "AKSHOY SOREN",
+      "num": "8900030496"
+    },
+    {
+      "aadhar": "YAF1551191",
+      "address": "DHITPUR;DHITPUR BAGANDA;JANGIPARA;Hooghly;WEST BENGAL;712404",
+      "alt": "9474751565",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "DASU SOREN",
+      "name": "AKSHOY SOREN",
+      "num": "8900030496"
+    }
+  ]
+}
