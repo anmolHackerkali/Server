@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:04:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7892043619",
+  "records": [
+    {
+      "aadhar": "426004847425",
+      "address": "!2BHK!ration shop street road mullusoge!opp temple!kushalnagar road!Kodagu!Kodagu!Karnataka!571234",
+      "alt": "9901275435",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Muhamed saleem",
+      "name": "Shahina M L",
+      "num": "7892043619"
+    }
+  ]
+}
