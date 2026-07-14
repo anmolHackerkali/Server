@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:19:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368350449",
+  "records": [
+    {
+      "aadhar": "BZJ2531473",
+      "address": "8/B SF!BLOCK EJAWAHAR PARK KHANPUR!KANPUR!DELHI!Delhi!110062",
+      "alt": "919891223129",
+      "circle": "JIO DELHI",
+      "email": "krishankp@yahoo.co.in",
+      "fname": "JAGDISH NARAYAN PANDAY",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "8368350449"
+    },
+    {
+      "aadhar": "BZJ2531473",
+      "address": "8/B SF!BLOCK EJAWAHAR PARK KHANPUR!KANPUR!DELHI!Delhi!110062",
+      "alt": "+919891223129",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "JAGDISH NARAYAN PANDAY",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "8368350449"
+    },
+    {
+      "aadhar": "BZJ2531473",
+      "address": "8/B SF!BLOCK EJAWAHAR PARK KHANPUR!KANPUR!DELHI!Delhi!110062",
+      "alt": "919891223129",
+      "circle": "JIO DELHI",
+      "email": "krishankp@yahoo.co.in",
+      "fname": "JAGDISH NARAYAN PANDAY",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "8368350449"
+    },
+    {
+      "aadhar": "BZJ2531473",
+      "address": "8/B SF!BLOCK EJAWAHAR PARK KHANPUR!KANPUR!DELHI!Delhi!110062",
+      "alt": "919891223129",
+      "circle": "JIO DELHI",
+      "email": "krishankp@yahoo.co.in",
+      "fname": "JAGDISH NARAYAN PANDAY",
+      "name": "KRISHNA KUMAR PANDaY",
+      "num": "8368350449"
+    },
+    {
+      "aadhar": null,
+      "address": "!V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001!!!!!!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": null,
+      "address": "V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001! ! !!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    },
+    {
+      "aadhar": null,
+      "address": "V3/7 Near Mother Dairy Dlf Phase 3 Gurgaon Haryana 122001! ! !!!",
+      "alt": "8368350449",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Krishna Kumar Pandey",
+      "num": "9891223129"
+    }
+  ]
+}
