@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:52:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8147694970",
+  "records": [
+    {
+      "aadhar": "728285905785",
+      "address": "S/O  Narayan Lal!!#1762 Attibele Kote Bidi!Anekal!Attibele Bangalore!Karnataka!562107",
+      "alt": "919480523599",
+      "circle": "KARNATAKA JIO ",
+      "email": null,
+      "fname": "Narayan Lal",
+      "name": "Badri Vishal",
+      "num": "8147694970"
+    },
+    {
+      "aadhar": "297278523384",
+      "address": "!3!Mukesh textailes!!attibele!BANGALORE!!Karnataka!562107",
+      "alt": "8147694970",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "banwar lal gurjar",
+      "name": "MR  MOHIT GURJAR",
+      "num": "9620802905"
+    },
+    {
+      "aadhar": "UBB3117538",
+      "address": "!01!0 ward No 17 Sadashiva Nagara Siruguppa!Sadashivs Nagara!Siruguppa Siruguppa Bellary!Bellary!Ballari!Karnataka!583121",
+      "alt": "8147694970",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Bhanwar Lal Gurjar",
+      "name": "Mohit Gurjar",
+      "num": "8904265160"
+    },
+    {
+      "aadhar": null,
+      "address": "!s/o bhanwar lal gurjar!ward no 17 sadashiva nagara!bellary dist!siruguppa siruguppa!Ballari!Bellary!Karnataka!583121",
+      "alt": "8147694970",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "bhanwar lal gurjar",
+      "name": "mohit gurjar",
+      "num": "8105374270"
+    }
+  ]
+}
