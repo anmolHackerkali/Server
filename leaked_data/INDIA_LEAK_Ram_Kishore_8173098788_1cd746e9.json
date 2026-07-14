@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:13:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8173098788",
+  "records": [
+    {
+      "aadhar": "897302478893",
+      "address": "S/O Lokai!ghada!jai rampur!!Bambhera Bambhera!Sitapur!Sitapur!Uttar Pradesh!261302",
+      "alt": "7607754834",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lokai",
+      "name": "Ram Kishore",
+      "num": "8173098788"
+    },
+    {
+      "aadhar": "897302478893",
+      "address": "S/O Lokai!ghada!jai rampur!!Bambhera Bambhera!Sitapur!Sitapur!Uttar Pradesh!261302",
+      "alt": "7607754834",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lokai",
+      "name": "Ram Kishore",
+      "num": "8173098788"
+    }
+  ]
+}
