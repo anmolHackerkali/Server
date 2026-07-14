@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:08:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971772631",
+  "records": [
+    {
+      "aadhar": "999158790690",
+      "address": "!28/4!gali no 16!!visvash nagar!Delhi!SHAHDARA!Delhi!110032",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Md Mofil",
+      "name": "Molana Md Daud",
+      "num": "9971772631"
+    },
+    {
+      "aadhar": "873212336189",
+      "address": "S/O Har Dayal!M 87!dharam vihar khora colony!mandir!khora khora gaon ghaziabad!Noida!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Har Dayal",
+      "name": "Raj Kumar",
+      "num": "9971772631"
+    },
+    {
+      "aadhar": "999158790690",
+      "address": "!28/4!gali no 16!!visvash nagar!Delhi!SHAHDARA!Delhi!110032",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Md Mofil",
+      "name": "Molana Md Daud",
+      "num": "9971772631"
+    },
+    {
+      "aadhar": "999158790690",
+      "address": "!28/4!gali no 16!!visvash nagar!Delhi!SHAHDARA!Delhi!110032",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Md Mofil",
+      "name": "Molana Md Daud",
+      "num": "9971772631"
+    },
+    {
+      "aadhar": "873212336189",
+      "address": "S/O Har Dayal!M 87!dharam vihar khora colony!mandir!khora khora gaon ghaziabad!Noida!Gautam Buddha Nagar!Uttar Pradesh!201309",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Har Dayal",
+      "name": "Raj Kumar",
+      "num": "9971772631"
+    }
+  ]
+}
