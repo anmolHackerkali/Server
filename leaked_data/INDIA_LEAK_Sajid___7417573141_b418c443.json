@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:26:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417573141",
+  "records": [
+    {
+      "aadhar": "876240111329",
+      "address": "S/O  Nasir!0!Mohalla Durga PrsadPilibhit!!!PilibhitPilibhit!Pilibhit!Uttar Pradesh!262001",
+      "alt": "7351734988",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Nasir",
+      "name": "Sajid  ",
+      "num": "7417573141"
+    },
+    {
+      "aadhar": "876240111329",
+      "address": "S/O  Nasir!0!Mohalla Durga Prsad Pilibhit!!!Pilibhit Pilibhit!Pilibhit!Uttar Pradesh!262001",
+      "alt": "7351734988",
+      "circle": "JIO UPE UPW",
+      "email": "gty397683@gmail.com",
+      "fname": "Nasir",
+      "name": "Sajid",
+      "num": "7417573141"
+    },
+    {
+      "aadhar": "876240111329",
+      "address": "S/O  Nasir!0!Mohalla Durga Prsad Pilibhit!!!Pilibhit Pilibhit!Pilibhit!Uttar Pradesh!262001",
+      "alt": "7351734988",
+      "circle": "JIO UPE UPW",
+      "email": "gty397683@gmail.com",
+      "fname": "Nasir",
+      "name": "Sajid",
+      "num": "7417573141"
+    },
+    {
+      "aadhar": "277247298226",
+      "address": "S/O: Himayatulla Pilibhit  Pilibhit . DUGAPRASAD PILIBHIT-PILIBHIT UP 262001",
+      "alt": "7417573141",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Himayatulla",
+      "name": "AJMAT MIYAN",
+      "num": "8958015881"
+    },
+    {
+      "aadhar": "277247298226",
+      "address": "S/O: Himayatulla Pilibhit  Pilibhit . DUGAPRASAD PILIBHIT-PILIBHIT UP 262001",
+      "alt": "7417573141",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Himayatulla",
+      "name": "AJMAT MIYAN",
+      "num": "8958015881"
+    }
+  ]
+}
