@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:50:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210093875",
+  "records": [
+    {
+      "aadhar": "271095876604",
+      "address": "W/O Naushad Ali!!ward 5 Harnatar harnatar!Sidhaw!Harnatanr West Champaran!Bihar!845105",
+      "alt": "919199560299",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Naushad Ali",
+      "name": "Shakila Khatun",
+      "num": "8210093875"
+    },
+    {
+      "aadhar": "271095876604",
+      "address": "W/O Naushad Ali!!ward 5 Harnatar harnatar!Sidhaw!Harnatanr West Champaran!Bihar!845105",
+      "alt": "919199560299",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Naushad Ali",
+      "name": "Shakila Khatun",
+      "num": "8210093875"
+    },
+    {
+      "aadhar": "271095876604",
+      "address": "W/O Naushad Ali!!ward 5 Harnatar harnatar!Sidhaw!Harnatanr West Champaran!Bihar!845105",
+      "alt": "919199560299",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Naushad Ali",
+      "name": "Shakila Khatun",
+      "num": "8210093875"
+    },
+    {
+      "aadhar": "548029973710",
+      "address": "s/o  naushad ali!!harnatar!post harnatar!ward 5!harnatanr!west champaran!Bihar!845105",
+      "alt": "8210093875",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "naushad ali",
+      "name": "Irfan Ali",
+      "num": "9546716024"
+    },
+    {
+      "aadhar": "548029973710",
+      "address": "s/o  naushad ali!!harnatar!post harnatar!ward 5!harnatanr!west champaran!Bihar!845105",
+      "alt": "8210093875",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "naushad ali",
+      "name": "Irfan Ali",
+      "num": "9546716024"
+    },
+    {
+      "aadhar": "548029973710",
+      "address": "s/o  naushad ali!!harnatar!post harnatar!ward 5!harnatanr!west champaran!Bihar!845105",
+      "alt": "8210093875",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "naushad ali",
+      "name": "Irfan Ali",
+      "num": "9546716024"
+    },
+    {
+      "aadhar": "548029973710",
+      "address": "s/o  naushad ali!!harnatar!post harnatar!ward 5!harnatanr!west champaran!Bihar!845105",
+      "alt": "8210093875",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "naushad ali",
+      "name": "Irfan Ali",
+      "num": "9546716024"
+    },
+    {
+      "aadhar": "548029973710",
+      "address": "s/o  naushad ali!!harnatar!post harnatar!ward 5!harnatanr!west champaran!Bihar!845105",
+      "alt": "8210093875",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "naushad ali",
+      "name": "Irfan Ali",
+      "num": "9546716024"
+    }
+  ]
+}
