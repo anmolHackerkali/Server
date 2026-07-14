@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:50:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9560848213",
+  "records": [
+    {
+      "aadhar": "-",
+      "address": "VILL NAHAR PUR GALI NO - 3 H NO - 334 / 3 Gurgaon 110020! ! !!!",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "BHAGWAR DASS",
+      "name": "SUNIL KUMAR",
+      "num": "9560848213"
+    },
+    {
+      "aadhar": null,
+      "address": "!VILL NAHAR PUR GALI NO  3 H NO  334 / 3 Gurgaon 110020!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "BHAGWAR DASS",
+      "name": "SUNIL KUMAR",
+      "num": "9560848213"
+    },
+    {
+      "aadhar": null,
+      "address": "VILL NAHAR PUR GALI NO  3 H NO  334 / 3 Gurgaon 110020! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "BHAGWAR DASS",
+      "name": "SUNIL KUMAR",
+      "num": "9560848213"
+    },
+    {
+      "aadhar": null,
+      "address": "VILL NAHAR PUR GALI NO  3 H NO  334 / 3 Gurgaon 110020! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "BHAGWAR DASS",
+      "name": "SUNIL KUMAR",
+      "num": "9560848213"
+    }
+  ]
+}
