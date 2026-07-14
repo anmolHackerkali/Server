@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:18:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9917035700",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Raji!!!!Husain pur!Husenpur!Bulandshahr!Uttar Pradesh!245408 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Raji ",
+      "name": " Aslam ",
+      "num": "9917035700"
+    },
+    {
+      "aadhar": "783568539320",
+      "address": "S/O: Raji Husain pur Gulaothi  Bulandshahr  HUSENPUR-BULANDSHAHR UP 245408",
+      "alt": "9917004925",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Raji",
+      "name": "ASLAM .",
+      "num": "9917035700"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Raji!!!!Husain pur!Husenpur!Bulandshahr!Uttar Pradesh!245408 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Raji ",
+      "name": " Aslam ",
+      "num": "9917035700"
+    },
+    {
+      "aadhar": "783568539320",
+      "address": "S/O: Raji Husain pur Gulaothi  Bulandshahr  HUSENPUR-BULANDSHAHR UP 245408",
+      "alt": "9917004925",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Raji",
+      "name": "ASLAM .",
+      "num": "9917035700"
+    }
+  ]
+}
