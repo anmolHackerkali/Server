@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:28:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8528514257",
+  "records": [
+    {
+      "aadhar": "819729721105",
+      "address": "W/O: Jahid!sagra Pratapgarh!!!Pratapgarh!Uttar Pradesh!230001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jahid",
+      "name": "Nigar Fatma",
+      "num": "8528514257"
+    },
+    {
+      "aadhar": "819729721105",
+      "address": "W/O: Jahid!sagra Pratapgarh!!!Pratapgarh!Uttar Pradesh!230001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jahid",
+      "name": "Nigar Fatma",
+      "num": "8528514257"
+    }
+  ]
+}
