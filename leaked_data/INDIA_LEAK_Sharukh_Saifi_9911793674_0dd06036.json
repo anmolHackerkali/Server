@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:24:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9911793674",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Jafruddin Saifi!House No-236!Gali NO-3  Block-B!Jaitpur Extn South Delhi!!DELHI!South Delhi!Delhi!110044",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O  Jafruddin Saifi",
+      "name": "Sharukh Saifi",
+      "num": "9911793674"
+    },
+    {
+      "aadhar": " 568010801011 ",
+      "address": "! H No 347 Gali No 19 ! Ashok Vihar Ph 2GurgaonGURGAON ! Near Govt School ! Near Govt School ! ADAMPUR90 ! GURGAON ! Haryana ! 122001",
+      "alt": "8800142222",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANIL DUBEY",
+      "name": "RAJANISH DUBEY",
+      "num": "9911793674"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Jafruddin Saifi!House No-236!Gali NO-3 Block-B!Jaitpur ExtnSouth Delhi!!DELHI!South Delhi!Delhi!110044",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Jafruddin Saifi",
+      "name": "Sharukh Saifi",
+      "num": "9911793674"
+    },
+    {
+      "aadhar": "568010801011",
+      "address": "! H No 347 Gali No 19 ! Ashok Vihar Ph 2GurgaonGURGAON ! Near Govt School ! Near Govt School ! ADAMPUR90 ! GURGAON ! Haryana ! 122001",
+      "alt": "8800142222",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANIL DUBEY",
+      "name": "RAJANISH DUBEY",
+      "num": "9911793674"
+    },
+    {
+      "aadhar": "568010801011",
+      "address": "! H No 347 Gali No 19 ! Ashok Vihar Ph 2GurgaonGURGAON ! Near Govt School ! Near Govt School ! ADAMPUR90 ! GURGAON ! Haryana ! 122001",
+      "alt": "8800142222",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "ANIL DUBEY",
+      "name": "RAJANISH DUBEY",
+      "num": "9911793674"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Jafruddin Saifi!House No-236!Gali NO-3 Block-B!Jaitpur ExtnSouth Delhi!!DELHI!South Delhi!Delhi!110044",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Jafruddin Saifi",
+      "name": "Sharukh Saifi",
+      "num": "9911793674"
+    }
+  ]
+}
