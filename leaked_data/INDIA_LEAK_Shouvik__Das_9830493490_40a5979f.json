@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 21:02:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9830493490",
+  "records": [
+    {
+      "aadhar": "814812090742",
+      "address": "PURBA BISHALAXMI TALA Chandannagar Khalisani Hooghly  Hooghly Hooghly West Bengal 712138",
+      "alt": "9346475365",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SujitKumarDas",
+      "name": "Shouvik  Das",
+      "num": "9830493490"
+    },
+    {
+      "aadhar": "814812090742",
+      "address": "!P NO 80 3Rd Floor!SNEHA NAGAR ST NO 8!NA!HABSIGUDA MEDCHAL!Secunderabad Rangareddy!NA!Telangana!500007",
+      "alt": "9830493490",
+      "circle": "JIO AP",
+      "email": "shvkds21@gmail.com",
+      "fname": "Sujit Kumar Das",
+      "name": "Shouvik Das",
+      "num": "9346475365"
+    }
+  ]
+}
