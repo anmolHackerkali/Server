@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:19:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007451001",
+  "records": [
+    {
+      "aadhar": "527996890837",
+      "address": "S/O  Shivnath Mishra!!hamirpur Hamirpur!!Hamirpur Maudaha Hamirpur!Uttar Pradesh!210301",
+      "alt": "918960997256",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shivnath Mishra",
+      "name": "Pankaj Kumar Mishra",
+      "num": "7007451001"
+    },
+    {
+      "aadhar": "527996890837",
+      "address": "S/O  Shivnath Mishra!!hamirpur Hamirpur!!Hamirpur Maudaha Hamirpur!Uttar Pradesh!210301",
+      "alt": "918960997256",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shivnath Mishra",
+      "name": "Pankaj Kumar Mishra",
+      "num": "7007451001"
+    }
+  ]
+}
