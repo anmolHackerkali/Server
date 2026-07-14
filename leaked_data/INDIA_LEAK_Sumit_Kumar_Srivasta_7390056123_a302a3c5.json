@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:49:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7390056123",
+  "records": [
+    {
+      "aadhar": "226131152550",
+      "address": "S/O Sanjay Kumar Srivastava!1/84!G G I C KE PICHHE!Ballia City!Ballia!Uttar Pradesh!277001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Kumar Srivastava",
+      "name": "Sumit Kumar Srivastava",
+      "num": "7390056123"
+    },
+    {
+      "aadhar": "226131152550",
+      "address": "S/O Sanjay Kumar Srivastava!1/84!G G I C KE PICHHE!Ballia City!Ballia!Uttar Pradesh!277001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sanjay Kumar Srivastava",
+      "name": "Sumit Kumar Srivastava",
+      "num": "7390056123"
+    }
+  ]
+}
