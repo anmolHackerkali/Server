@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:43:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7310724828",
+  "records": [
+    {
+      "aadhar": "894282092971",
+      "address": "!676!Street no peer Walla Mohalla!mandir!begamabad modinagar!Modinagar!Ghaziabad!Uttar Pradesh!201204",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Monika",
+      "num": "7310724828"
+    },
+    {
+      "aadhar": "894282092971",
+      "address": "!676!Street no peer Walla Mohalla!mandir!begamabad modinagar!Modinagar!Ghaziabad!Uttar Pradesh!201204",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ravindra Kumar",
+      "name": "Monika",
+      "num": "7310724828"
+    }
+  ]
+}
