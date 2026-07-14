@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:19:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953062452",
+  "records": [
+    {
+      "aadhar": "247085091092",
+      "address": "Raju!56!Kheri Chopal Mandir!Mandir!  Kheri GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "7042214852",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sultan khan",
+      "name": "MR  SHABBEER KHAN",
+      "num": "9953062452"
+    },
+    {
+      "aadhar": "247085091092",
+      "address": "Raju!56!Kheri ChopalMandir!Mandir! KheriGAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "7042214852",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sultan khan",
+      "name": "MR SHABBEER KHAN",
+      "num": "9953062452"
+    },
+    {
+      "aadhar": "247085091092",
+      "address": "Raju!56!Kheri ChopalMandir!Mandir! KheriGAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "7042214852",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Sultan khan",
+      "name": "MR SHABBEER KHAN",
+      "num": "9953062452"
+    },
+    {
+      "aadhar": "768086823805",
+      "address": "shabbir khan!house no 133!near shiv mandir khedi dadri dadri!dadri!greater noida GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "9953062452",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shabbir khan",
+      "name": "MS  SAHIBA KHAN",
+      "num": "9560888513"
+    },
+    {
+      "aadhar": "907447430322",
+      "address": "shabbir khan!house no 136!near shiv mandir khedi bhnota dadri dadri!dadri!greater noida GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "9953062452",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shabbeer Khan",
+      "name": "MR  SOHAIL KHAN",
+      "num": "9560617180"
+    },
+    {
+      "aadhar": "768086823805",
+      "address": "shabbir khan!house no 133!near shiv mandir khedi dadridadri!dadri!greater noidaGAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "9953062452",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shabbir khan",
+      "name": "MS SAHIBA KHAN",
+      "num": "9560888513"
+    },
+    {
+      "aadhar": " 907447430322 ",
+      "address": "shabbir khan ! house no 136 ! near shiv mandir khedi bhnota dadridadri ! dadri ! greater noidaGAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UTTAR PRADESH ! 203207",
+      "alt": "9953062452",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Shabbeer Khan",
+      "name": "MR SOHAIL KHAN",
+      "num": "9560617180"
+    },
+    {
+      "aadhar": "768086823805",
+      "address": "shabbir khan!house no 133!near shiv mandir khedi dadridadri!dadri!greater noidaGAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!203207",
+      "alt": "9953062452",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shabbir khan",
+      "name": "MS SAHIBA KHAN",
+      "num": "9560888513"
+    },
+    {
+      "aadhar": " 907447430322 ",
+      "address": "shabbir khan ! house no 136 ! near shiv mandir khedi bhnota dadridadri ! dadri ! greater noidaGAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! GAUTAM BUDDHA NAGAR ! UTTAR PRADESH ! 203207",
+      "alt": "9953062452",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Shabbeer Khan",
+      "name": "MR SOHAIL KHAN",
+      "num": "9560617180"
+    }
+  ]
+}
