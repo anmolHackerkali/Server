@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:21:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7003120842",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " !!BI GOL SUNDARPUR!!Upar Orahar Murshidabad!West Bengal!742135 ",
+      "alt": "918653379818",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "hasibu sekh",
+      "name": "Sahin Alam",
+      "num": "7003120842"
+    },
+    {
+      "aadhar": null,
+      "address": " !!BI GOL SUNDARPUR!!Upar Orahar Murshidabad!West Bengal!742135 ",
+      "alt": "918653379818",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "hasibu sekh",
+      "name": "Sahin Alam",
+      "num": "7003120842"
+    },
+    {
+      "aadhar": "913305949282",
+      "address": " w/o  ranjit shaw! 74/7!mulajore road Jagatdal!Mulajore Road!priti nagar golghar!bhatpara m North 24 Paraganas!north 24 pa rganas!West Bengal!743125 ",
+      "alt": "7003120842",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "ranjit shaw",
+      "name": "Pampa Shaw",
+      "num": "9330089657"
+    },
+    {
+      "aadhar": "913305949282",
+      "address": " w/o  ranjit shaw! 74/7!mulajore road Jagatdal!Mulajore Road!priti nagar golghar!bhatpara m North 24 Paraganas!north 24 pa rganas!West Bengal!743125 ",
+      "alt": "7003120842",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "ranjit shaw",
+      "name": "Pampa Shaw",
+      "num": "9330089657"
+    }
+  ]
+}
