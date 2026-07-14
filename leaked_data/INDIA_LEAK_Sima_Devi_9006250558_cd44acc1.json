@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:40:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9006250558",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O  Sushil Kumar Tiwari!!Ward No 06!bakuli!Bakulia West Champaran!Bihar!845105",
+      "alt": "919507838113",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Tiwari",
+      "name": "Sima Devi",
+      "num": "9006250558"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O  Sushil Kumar Tiwari!!Ward No 06!bakuli!Bakulia West Champaran!Bihar!845105",
+      "alt": "919507838113",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Tiwari",
+      "name": "Sima Devi",
+      "num": "9006250558"
+    }
+  ]
+}
