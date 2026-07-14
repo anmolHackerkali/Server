@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:45:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7783869154",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx4094",
+      "address": "S/O Sagar Paswan!H No-1da!!Kustore Alkusa!Near Regional Hospital!Dhanbad!Jharkhand!828117",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sagar  Paswan",
+      "name": "Prem  Kumar",
+      "num": "7783869154"
+    },
+    {
+      "aadhar": "xxxxxxxx4094",
+      "address": "S/O Sagar Paswan!H No-1da!!Kustore Alkusa!Near Regional Hospital!Dhanbad!Jharkhand!828117",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sagar  Paswan",
+      "name": "Prem  Kumar",
+      "num": "7783869154"
+    }
+  ]
+}
