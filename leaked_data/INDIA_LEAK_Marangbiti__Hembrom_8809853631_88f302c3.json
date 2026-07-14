@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:33:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8809853631",
+  "records": [
+    {
+      "aadhar": "289737948550",
+      "address": "D/O Manjhi Hembrom!bhalasudhiya!!moti pahari Borio!!Sahebganj Borio Borio!Jharkhand!816120",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Manjhi  Hembrom",
+      "name": "Marangbiti  Hembrom",
+      "num": "8809853631"
+    },
+    {
+      "aadhar": "289737948550",
+      "address": "D/O Manjhi Hembrom!bhalasudhiya!!moti pahari Borio!!Sahebganj Borio Borio!Jharkhand!816120",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Manjhi  Hembrom",
+      "name": "Marangbiti  Hembrom",
+      "num": "8809853631"
+    }
+  ]
+}
