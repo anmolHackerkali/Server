@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:04:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7050061162",
+  "records": [
+    {
+      "aadhar": "966140138384",
+      "address": " 01 kamalpur!Gopalganj!School!Barauli!Gopalganj!Gopalganj!Bihar!841405 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shaligram Prasad ",
+      "name": " Hiramati Devi ",
+      "num": "7050061162"
+    },
+    {
+      "aadhar": "966140138384",
+      "address": " 01 kamalpur!Gopalganj!School!Barauli!Gopalganj!Gopalganj!Bihar!841405 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shaligram Prasad ",
+      "name": " Hiramati Devi ",
+      "num": "7050061162"
+    }
+  ]
+}
