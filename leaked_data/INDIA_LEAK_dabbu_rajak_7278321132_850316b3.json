@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:25:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7278321132",
+  "records": [
+    {
+      "aadhar": "XHJ0762617",
+      "address": " !!9/96 mulajore road kankinara BHATPARA!NA!jagaddal!North Presidency North 24 Parganas!NA!West Bengal!743125 ",
+      "alt": "7003148706",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "bechhan rajak",
+      "name": "dabbu rajak",
+      "num": "7278321132"
+    },
+    {
+      "aadhar": "XHJ0762617",
+      "address": " !!9/96 mulajore road kankinara BHATPARA!NA!jagaddal!North Presidency North 24 Parganas!NA!West Bengal!743125 ",
+      "alt": "7003148706",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "bechhan rajak",
+      "name": "dabbu rajak",
+      "num": "7278321132"
+    }
+  ]
+}
