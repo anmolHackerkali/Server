@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:47:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7880211227",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "  House no 01 ward no 10 kharora bemcha kharora  mahasamund bemcha Mahasamund  Chhattisgarh 493445  ",
+      "alt": "7898790346",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Santosh yadav ",
+      "name": " KARAN YADAV ",
+      "num": "7880211227"
+    }
+  ]
+}
