@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:07:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7503964665",
+  "records": [
+    {
+      "aadhar": "351332505267",
+      "address": "S/O Ali Mohammad!415!GALI N0 - 6! RAJIV GANDHI NAGAR NEW MUSTAFABAD Dayalpur !North East DelhiNorth East Delhi!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali  Mohammad",
+      "name": "Ikramuddin",
+      "num": "7503964665"
+    },
+    {
+      "aadhar": "351332505267",
+      "address": "S/O Ali Mohammad!415!GALI N0 - 6!!RAJIV GANDHI NAGAR NEW MUSTAFABADDayalpur!North East AIRTEL DELHI!!AIRTEL DELHI!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali  Mohammad",
+      "name": "Ikramuddin",
+      "num": "7503964665"
+    },
+    {
+      "aadhar": "351332505267",
+      "address": "S/O Ali Mohammad!415!GALI N0 - 6!RAJIV GANDHI NAGAR NEW MUSTAFABADDayalpur!North East DelhiNorth East Delhi!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali  Mohammad",
+      "name": "Ikramuddin",
+      "num": "7503964665"
+    },
+    {
+      "aadhar": "351332505267",
+      "address": "S/O Ali Mohammad!415!GALI N0 - 6!RAJIV GANDHI NAGAR NEW MUSTAFABADDayalpur!North East DelhiNorth East Delhi!Delhi!110094",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ali  Mohammad",
+      "name": "Ikramuddin",
+      "num": "7503964665"
+    }
+  ]
+}
