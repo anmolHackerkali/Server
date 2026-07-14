@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:04:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8865855203",
+  "records": [
+    {
+      "aadhar": "781672096122",
+      "address": "!01!nagla khangar Pariyar Pariyar!park!FIROZABAD Shikohabad!Firozabad!FIROZABAD!Uttar Pradesh!205142",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "duryodhan singh",
+      "name": "Raju Singh Tomar",
+      "num": "8865855203"
+    },
+    {
+      "aadhar": "781672096122",
+      "address": "!01!nagla khangar Pariyar Pariyar!park!FIROZABAD Shikohabad!Firozabad!FIROZABAD!Uttar Pradesh!205142",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "duryodhan singh",
+      "name": "Raju Singh Tomar",
+      "num": "8865855203"
+    }
+  ]
+}
