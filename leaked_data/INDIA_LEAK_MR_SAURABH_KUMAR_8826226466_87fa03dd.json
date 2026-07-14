@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:31:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8826226466",
+  "records": [
+    {
+      "aadhar": "478934092414",
+      "address": "Ram Kumar!4 B- 1144! ! !GHAZIABAD NCR!UTTAR PRADESH!201012",
+      "alt": "8447752292",
+      "circle": "VI DELHI",
+      "email": "KUMAR.SKB1990@GMAIL.COM",
+      "fname": "RAM KUMAR",
+      "name": "MR SAURABH KUMAR",
+      "num": "8826226466"
+    },
+    {
+      "aadhar": "478934092414",
+      "address": "Ram Kumar!4 B- 1144!!!GHAZIABAD NCR!UTTAR PRADESH!201012",
+      "alt": "8447752292",
+      "circle": "VI DELHI",
+      "email": "KUMAR.SKB1990@GMAIL.COM",
+      "fname": "RAM KUMAR",
+      "name": "MRSAURABHKUMAR",
+      "num": "8826226466"
+    },
+    {
+      "aadhar": "478934092414",
+      "address": "Ram Kumar!4 B- 1144!!!GHAZIABAD NCR!UTTAR PRADESH!201012",
+      "alt": "8447752292",
+      "circle": "VI DELHI",
+      "email": "KUMAR.SKB1990@GMAIL.COM",
+      "fname": "RAM KUMAR",
+      "name": "MRSAURABHKUMAR",
+      "num": "8826226466"
+    }
+  ]
+}
