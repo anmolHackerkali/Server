@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:43:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6767676767",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Sinahsan Singh!272!Laxmi Park Nangloi!Laxmi Park Nangloi WEST DELHI!!DELHI!WEST DELHI!Delhi!110041",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Sinahsan Singh",
+      "name": "Vinod Singh",
+      "num": "9990876823"
+    },
+    {
+      "aadhar": null,
+      "address": "Rahusuddin!203!Laxmi Park Nangloi!Laxmi Park Nangloi WEST DELHI!!DELHI!WEST DELHI!Delhi!110041",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Rahisuddin",
+      "name": "Arshad  ",
+      "num": "9911976726"
+    },
+    {
+      "aadhar": null,
+      "address": "79!48!Hallan!Ghandhi Nagar NORTH EAST!!DELHI!NORTH EAST!Delhi!110053",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Rustam Ali",
+      "name": "Shorab Alam",
+      "num": "9911497881"
+    },
+    {
+      "aadhar": null,
+      "address": "75!40!Hallan!Ghandhi Nagar NORTH EAST!!DELHI!NORTH EAST!Delhi!110053",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Madar Baks",
+      "name": "Nasir  ",
+      "num": "9911361489"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Gulfam!F-79! !LAXMI PARK West Delhi!!DELHI!West Delhi!Delhi!110041",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Gulfam",
+      "name": "Jagbir Singh",
+      "num": "9899976473"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Rajender Verma!house no B-216!balaji mandir wali gali!subhash colony Faridabad!!BALLABGARH!Faridabad!HARYANA!121004",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "W/O Rajender Verma",
+      "name": "Poonam Verma",
+      "num": "9899736003"
+    },
+    {
+      "aadhar": null,
+      "address": "!65!Prem Nagar 2!Kiradi Suleman Nagar NORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110086",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Mithai Lal",
+      "name": "Gyanendra  ",
+      "num": "9891735894"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Om Prakash!House no 391!  Near Sector -2!Bhatiya Colony Faridabad!Near Sector -2!BALLABGARH!Faridabad!HARYANA!121004",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Om Prakash",
+      "name": "Pankaj Kumar",
+      "num": "9891493793"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No 65!Gali Non9 khureji khas!Khureji Khas EAST DELHI!khureji khas!DELHI!EAST DELHI!Delhi!110051",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Mehndi Khan",
+      "name": "Mohd Zeeshan",
+      "num": "9811706837"
+    },
+    {
+      "aadhar": null,
+      "address": "Phool Chand Sharma!94463!Subhash Colony!BALLABGARH FARIDABAD!!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Phool Chand Sharma",
+      "name": "Yogesh Sharma",
+      "num": "9718589089"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No 65!Gali Non9 khureji khas!Khureji Khas EAST DELHI!khureji khas!DELHI!EAST DELHI!Delhi!110051",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Mehndi Khan",
+      "name": "Mohd Zeeshan",
+      "num": "9811706837"
+    },
+    {
+      "aadhar": null,
+      "address": "Phool Chand Sharma!94463!Subhash Colony!BALLABGARH FARIDABAD!!BALLABGARH!FARIDABAD!HARYANA!121004",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Phool Chand Sharma",
+      "name": "Yogesh Sharma",
+      "num": "9718589089"
+    },
+    {
+      "aadhar": null,
+      "address": "Alam!H No 213!Gali No 19!Old Seelampur EAST DELHI!!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Ayyub",
+      "name": "Riyajul Hasan",
+      "num": "9711329247"
+    },
+    {
+      "aadhar": null,
+      "address": "Jiban Mandal!887!Gali No 5!Nand Nagri EAST DELHI!!DELHI!EAST DELHI!Delhi!110093",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Jiban Mandal",
+      "name": "Riju Mandal",
+      "num": "9654984543"
+    },
+    {
+      "aadhar": null,
+      "address": "!Block N-86!Lawrence Road!Keshav Puram NORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110035",
+      "alt": "6767676767",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Ramesh",
+      "name": "Sushil  ",
+      "num": "9540575397"
+    }
+  ]
+}
