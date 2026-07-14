@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:19:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9972616100",
+  "records": [
+    {
+      "aadhar": "920920854069",
+      "address": "W/O  Akbar!!Gokak!House no 184/1B Plot No44!Vivekanand Nagar 6th Cross Gokak!Gokak Gokak!Belgaum!Karnataka!591307",
+      "alt": "9035050201",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Akbar",
+      "name": "Noorin Khoja",
+      "num": "9972616100"
+    }
+  ]
+}
