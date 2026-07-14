@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:13:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9643547723",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Raja Ram!!House No-207 Gujjar Basti!!Gharoli East Delhi!Delhi!110096",
+      "alt": "918744819091",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raja Ram",
+      "name": "Babit Kumar",
+      "num": "9643547723"
+    },
+    {
+      "aadhar": "234492991663",
+      "address": "Raje Ram!207!!GUJJAR BASTI!GHAROLI VILLAGE- -East Delhi GHAROLI VILLAGE- -East Delhi!Delhi!110096",
+      "alt": "8744819091",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Raje Ram",
+      "name": "Babit Kumar",
+      "num": "9643547723"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Raja Ram!!House No-207Gujjar Basti!!GharoliEast Delhi!Delhi!110096",
+      "alt": "918744819091",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raja Ram",
+      "name": "Babit Kumar",
+      "num": "9643547723"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Raja Ram!!House No-207Gujjar Basti!!GharoliEast Delhi!Delhi!110096",
+      "alt": "918744819091",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raja Ram",
+      "name": "Babit Kumar",
+      "num": "9643547723"
+    },
+    {
+      "aadhar": "234492991663",
+      "address": "S/O Raje Ram!207!! GUJJAR BASTI GHAROLI VILLAGE !East DelhiEast Delhi!Delhi!110096",
+      "alt": "9643547723",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raje  Ram",
+      "name": "Babit  Kumar",
+      "num": "9205501577"
+    },
+    {
+      "aadhar": "234492991663",
+      "address": "S/O Raje Ram!207!!!GUJJAR BASTIGHAROLI VILLAGE!East AIRTEL DELHI!!AIRTEL DELHI!110096",
+      "alt": "9643547723",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raje  Ram",
+      "name": "Babit  Kumar",
+      "num": "9205501577"
+    },
+    {
+      "aadhar": "234492991663",
+      "address": "S/O Raje Ram!207!!GUJJAR BASTIGHAROLI VILLAGE!East DelhiEast Delhi!Delhi!110096",
+      "alt": "9643547723",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raje  Ram",
+      "name": "Babit  Kumar",
+      "num": "9205501577"
+    },
+    {
+      "aadhar": "234492991663",
+      "address": "S/O Raje Ram!207!!GUJJAR BASTIGHAROLI VILLAGE!East DelhiEast Delhi!Delhi!110096",
+      "alt": "9643547723",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Raje  Ram",
+      "name": "Babit  Kumar",
+      "num": "9205501577"
+    }
+  ]
+}
