@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:39:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9810162666",
+  "records": [
+    {
+      "aadhar": "637608251176",
+      "address": "Chander Bhan!3387 A!SGM nagar Gali NO 10! !FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810826222",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDER BHAN",
+      "name": "Pawan Satija",
+      "num": "9810162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "Chander Bhan!3387 A!SGM nagar Gali NO 10! !FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810826222",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDER BHAN",
+      "name": "Pawan Satija",
+      "num": "9810162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "Chander Bhan!3387 A!SGM nagar Gali NO 10!!FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810826222",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDER BHAN",
+      "name": "PawanSatija",
+      "num": "9810162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "Chander Bhan!3387 A!SGM nagar Gali NO 10!!FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810826222",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "CHANDER BHAN",
+      "name": "PawanSatija",
+      "num": "9810162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "!3387 A gali no 10!SGM Nagar!SGM Nagar!Faridabad!FARIDABAD NCR!FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810162666",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chander Bhan",
+      "name": "MR  PAWAN SATIJA",
+      "num": "9710162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "!3387 A gali no 10!SGM Nagar!SGM Nagar!Faridabad!FARIDABAD NCR!FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810162666",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chander Bhan",
+      "name": "MR PAWAN SATIJA",
+      "num": "9710162666"
+    },
+    {
+      "aadhar": "637608251176",
+      "address": "!3387 A gali no 10!SGM Nagar!SGM Nagar!Faridabad!FARIDABAD NCR!FARIDABAD NCR!HARYANA!121001",
+      "alt": "9810162666",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chander Bhan",
+      "name": "MR PAWAN SATIJA",
+      "num": "9710162666"
+    }
+  ]
+}
