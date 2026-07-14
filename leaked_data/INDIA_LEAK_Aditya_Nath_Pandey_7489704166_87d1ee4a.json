@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:30:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7489704166",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Vasudeo Panday!!Jug Mohan Tiwari -42 Tnfront Of Dutta Mandir!Champa Bag!Sagar Sagar!Madhya Pradesh!470002",
+      "alt": "919755272707",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Vasudeo Panday",
+      "name": "Aditya Nath Pandey",
+      "num": "7489704166"
+    }
+  ]
+}
