@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:57:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9161402096",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "VILL DAMRUWAR!PS MEHANDAWAL!NA!SANT KABIR NAGAR!UTTAR PRADESH!272001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "NARESH",
+      "name": "PREM CHANDRA DWIVEDI",
+      "num": "9161402096"
+    },
+    {
+      "aadhar": "NA",
+      "address": "VILL DAMRUWAR!PS MEHANDAWAL!NA!SANT KABIR NAGAR!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "NARESH",
+      "name": "PREM CHANDRA DWIVEDI",
+      "num": "9161402096"
+    },
+    {
+      "aadhar": "NA",
+      "address": "VILL DAMRUWAR!PS MEHANDAWAL!NA!SANT KABIR NAGAR!UTTAR PRADESH!272001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "NARESH",
+      "name": "PREM CHANDRA DWIVEDI",
+      "num": "9161402096"
+    }
+  ]
+}
