@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:49:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931890803",
+  "records": [
+    {
+      "aadhar": "729567110656",
+      "address": "S/O  Vajir Ansari!!BANKAT Ward no 10 Chanpatia R S!NA!BANKAT!Bankat Chanpatia West Champaran!NA!Bihar!845449",
+      "alt": "9931890803",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vajir Ansari",
+      "name": "Sarfullah Ansari",
+      "num": "9931890803"
+    },
+    {
+      "aadhar": "729567110656",
+      "address": "S/O  Vajir Ansari!!BANKAT Ward no 10 Chanpatia R S!NA!BANKAT!Bankat Chanpatia West Champaran!NA!Bihar!845449",
+      "alt": "9931890803",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vajir Ansari",
+      "name": "Sarfullah Ansari",
+      "num": "9931890803"
+    },
+    {
+      "aadhar": "729567110656",
+      "address": "S/O  Vajir Ansari!!BANKAT Ward no 10 Chanpatia R S!NA!BANKAT!Bankat Chanpatia West Champaran!NA!Bihar!845449",
+      "alt": "9931890803",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vajir Ansari",
+      "name": "Sarfullah Ansari",
+      "num": "9931890803"
+    },
+    {
+      "aadhar": "729567110656",
+      "address": "S/O  Vajir Ansari!!BANKAT Ward no 10 Chanpatia R S!NA!BANKAT!Bankat Chanpatia West Champaran!NA!Bihar!845449",
+      "alt": "9931890803",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vajir Ansari",
+      "name": "Sarfullah Ansari",
+      "num": "9931890803"
+    }
+  ]
+}
