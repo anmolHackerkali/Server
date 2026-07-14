@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:02:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795407287",
+  "records": [
+    {
+      "aadhar": "547881386804",
+      "address": " !ltp!ltp!ltp !SIWANI KHURD-LALITPU!UP!284403",
+      "alt": "7881110084",
+      "circle": null,
+      "email": null,
+      "fname": "JAGANNATH  PRASAD",
+      "name": "SARNAM  SINGH",
+      "num": "9795407287"
+    },
+    {
+      "aadhar": "547881386804",
+      "address": " !ltp!ltp!ltp !SIWANI KHURD-LALITPU!UP!284403",
+      "alt": "7881110084",
+      "circle": null,
+      "email": null,
+      "fname": "JAGANNATH  PRASAD",
+      "name": "SARNAM  SINGH",
+      "num": "9795407287"
+    }
+  ]
+}
