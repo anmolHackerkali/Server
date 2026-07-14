@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:07:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599763001",
+  "records": [
+    {
+      "aadhar": "805688064029",
+      "address": "ASSOTECH BUSINESS CRESTERRA!PLOT NO 22 SECTOR 135 EXPRESSWAY NOIDA!Noida !Noida!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "BLUECRUMBS INFRA PVT LTD",
+      "num": "9599763001"
+    },
+    {
+      "aadhar": "805688064029",
+      "address": "ASSOTECH BUSINESS CRESTERRA!PLOT NO 22 SECTOR 135 EXPRESSWAY NOIDA!Noida !Noida!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "BLUECRUMBS INFRA PVT LTD",
+      "num": "9599763001"
+    },
+    {
+      "aadhar": "805688064029",
+      "address": "ASSOTECH BUSINESS CRESTERRA!PLOT NO 22 SECTOR 135 EXPRESSWAY NOIDA!Noida !Noida!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "BLUECRUMBS INFRA PVT LTD",
+      "num": "9599763001"
+    }
+  ]
+}
