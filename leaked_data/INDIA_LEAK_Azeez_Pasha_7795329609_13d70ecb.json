@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:13:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7795329609",
+  "records": [
+    {
+      "aadhar": "272190105895",
+      "address": "!74!3rd Cross !Gandhinagara  Tiptur Town  Tumkur!Near R C C Tank !Tumakuru!TUMAKURU!Karnataka!572201",
+      "alt": "9620091676",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Chote Sab",
+      "name": "Azeez Pasha",
+      "num": "7795329609"
+    },
+    {
+      "aadhar": "272190105895",
+      "address": "s/o chota sab! 74!3rd cross!near r c c tank!gandhinagara!tiptur town!tumkur!Karnataka!572201",
+      "alt": "7795329609",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "chota sab",
+      "name": "Azeez Pasha",
+      "num": "9620091676"
+    },
+    {
+      "aadhar": "701377889562",
+      "address": "SYED ANSAR!#06 1ST CROSS  EIDGHA MOHALLA   D J HALLI!MODI ROAD D J HALLI BANGALORE NORTH BENGALURU KARNATAKA NEAR HYDER ALI CIRCLE!NEAR HYDER ALI CIRCLE!EIDHA MOHALLA MODI ROAD D J HALLI BANGALORE!BAN",
+      "alt": "7795329609",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "SYED ANSAR",
+      "name": "MS  YASMEEN BEGUM",
+      "num": "8722279028"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Syed Ansar!#06 1st Cross!Eidgha Mohalla Near Hyder Ali Circle!Modi Road D J Halli Bengaluru!Near Hyder Ali Circle!BANGALORE!Bengaluru!Karnataka!560045",
+      "alt": "7795329609",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "W/O Syed Ansar",
+      "name": "Yasmeen Begum",
+      "num": "8722279046"
+    },
+    {
+      "aadhar": "701377889562",
+      "address": "SYED ANSAR!#06 1ST CROSS  EIDGHA MOHALLA   D J HALLI!MODI ROAD D J HALLI BANGALORE NORTH BENGALURU KARNATAKA NEAR HYDER ALI CIRCLE!NEAR HYDER ALI CIRCLE!EIDHA MOHALLA MODI ROAD D J HALLI BANGALORE!BAN",
+      "alt": "7795329609",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "SYED ANSAR",
+      "name": "MS YASMEEN BEGUM",
+      "num": "8722279028"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Abdul Shukur!#32!modi garden karnataka public school!kavalbyrasandra Bangalore!karnataka public school!BANGALORE!Bangalore!Karnataka!560032",
+      "alt": "7795329609",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "S/O Abdul Shukur",
+      "name": "Arif Pasha",
+      "num": "8722275374"
+    },
+    {
+      "aadhar": "201778254392",
+      "address": "ABDUL SHUKUR!32  MODI GARDEN  KARNATAKA PUBLIC SCHOOL!  MODI GARDEN  KARNATAKA PUBLIC SCHOOL BANGALORE NORTH BANGALORE!BANGALORE NORTH BANGALORE!KAVAL BAIRASANDRA BANGALORE!BANGALORE!BANGALORE!Karnata",
+      "alt": "7795329609",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "ABDUL SHUKUR",
+      "name": "MR ARIF PASHA",
+      "num": "8722275368"
+    },
+    {
+      "aadhar": "201778254392",
+      "address": "ABDUL SHUKUR!32  MODI GARDEN  KARNATAKA PUBLIC SCHOOL!  MODI GARDEN  KARNATAKA PUBLIC SCHOOL BANGALORE NORTH BANGALORE!BANGALORE NORTH BANGALORE!KAVAL BAIRASANDRA BANGALORE!BANGALORE!BANGALORE!Karnata",
+      "alt": "7795329609",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "ABDUL SHUKUR",
+      "name": "MR  ARIF PASHA",
+      "num": "8722275368"
+    }
+  ]
+}
