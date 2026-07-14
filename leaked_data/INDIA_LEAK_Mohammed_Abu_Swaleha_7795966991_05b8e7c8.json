@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:18:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7795966991",
+  "records": [
+    {
+      "aadhar": "676170715851",
+      "address": " Bilal Road  Kerebilachi Channagiri Kerebilichi Davanagere Karnataka 577218",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "MOHAMMED  SHAFIULLA",
+      "name": "Mohammed Abu Swaleha",
+      "num": "7795966991"
+    },
+    {
+      "aadhar": null,
+      "address": " BILAL ROAD  Kerebilachi Davanagere Karnataka 577218",
+      "alt": "7795966991",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "MOHMEED  SAFIULLA",
+      "name": "Mohammed Abu Swaleha",
+      "num": "9886750771"
+    }
+  ]
+}
