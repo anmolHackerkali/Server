@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:07:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6201988830",
+  "records": [
+    {
+      "aadhar": "527306125538",
+      "address": "W/O  Arjun Ray!!Ward-10 Chora Tabhka!!chandsurari!Chora Tabhka Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9709746910",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arjun Ray",
+      "name": "Anita Devi",
+      "num": "6201988830"
+    },
+    {
+      "aadhar": "527306125538",
+      "address": "W/O  Arjun Ray!!Ward-10 Chora Tabhka!!chandsurari!Chora Tabhka Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9709746910",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Ray",
+      "name": "Anita Devi",
+      "num": "6201988830"
+    },
+    {
+      "aadhar": "527306125538",
+      "address": "W/O  Arjun Ray!!Ward-10 Chora Tabhka!!chandsurari!Chora Tabhka Bibhutipur!Samastipur!Bihar!848211",
+      "alt": "9709746910",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Ray",
+      "name": "Anita Devi",
+      "num": "6201988830"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "s/o  arjun ray!!Ward-10 Chora Tabhka!!ward-10 chandsurari chora tabhka!chandsurari Bibhutipur!samastipur!Bihar!848211",
+      "alt": "6201988830",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "arjun ray",
+      "name": "Raja Kumar",
+      "num": "7903831652"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "  WARD-10 WARD-10  CHANDSURARI CHORA TABHKA CHORA TABHKA SAMASTIPUR BIBHUTIPUR SAMASTIPUR 848211 BIHAR ",
+      "alt": "6201988830",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Arjun Ray ",
+      "name": " MR  RAJA KUMAR ",
+      "num": "9576881283"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "  WARD-10 WARD-10  CHANDSURARI CHORA TABHKA CHORA TABHKA SAMASTIPUR BIBHUTIPUR SAMASTIPUR 848211 BIHAR ",
+      "alt": "6201988830",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Arjun Ray ",
+      "name": " MR  RAJA KUMAR ",
+      "num": "9576541376"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "s/o  arjun ray!!Ward-10 Chora Tabhka!!ward-10 chandsurari chora tabhka!chandsurari Bibhutipur!samastipur!Bihar!848211",
+      "alt": "6201988830",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "arjun ray",
+      "name": "Raja Kumar",
+      "num": "7903831652"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "  WARD-10 WARD-10  CHANDSURARI CHORA TABHKA CHORA TABHKA SAMASTIPUR BIBHUTIPUR SAMASTIPUR 848211 BIHAR ",
+      "alt": "6201988830",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Arjun Ray ",
+      "name": " MR  RAJA KUMAR ",
+      "num": "9576881283"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "  WARD-10 WARD-10  CHANDSURARI CHORA TABHKA CHORA TABHKA SAMASTIPUR BIBHUTIPUR SAMASTIPUR 848211 BIHAR ",
+      "alt": "6201988830",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Arjun Ray ",
+      "name": " MR  RAJA KUMAR ",
+      "num": "9576541376"
+    },
+    {
+      "aadhar": "653518823951",
+      "address": "s/o  arjun ray!!Ward-10 Chora Tabhka!!ward-10 chandsurari chora tabhka!chandsurari Bibhutipur!samastipur!Bihar!848211",
+      "alt": "6201988830",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "arjun ray",
+      "name": "Raja Kumar",
+      "num": "7903831652"
+    }
+  ]
+}
