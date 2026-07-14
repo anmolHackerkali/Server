@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:50:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6361626830",
+  "records": [
+    {
+      "aadhar": "751065220195",
+      "address": "S/O  Rudraiah!! Baragenahalli!!Bargenahalli Nelamangala Bangalore Rural!Karnataka!562111",
+      "alt": "919980593589",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Rudraiah",
+      "name": "Anil Kumar R",
+      "num": "6361626830"
+    }
+  ]
+}
