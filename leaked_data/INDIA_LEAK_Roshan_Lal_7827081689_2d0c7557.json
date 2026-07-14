@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:09:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7827081689",
+  "records": [
+    {
+      "aadhar": "943312695050",
+      "address": "!1299!main bazar!NDLS!Paharganj!New Delhi Central!Central!Delhi!110055",
+      "alt": "8057937216",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sansar chand",
+      "name": "Roshan Lal",
+      "num": "7827081689"
+    },
+    {
+      "aadhar": null,
+      "address": "!!162/3 Gali no03Anjana ColonyShani mandir!Gurgaon!GurgaonGurgaon!Haryana!122001",
+      "alt": "919155430867",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Haidar Ali",
+      "name": "Nasurdin Ansari",
+      "num": "7827081689"
+    },
+    {
+      "aadhar": "943312695050",
+      "address": "!1299!main bazar!NDLS!Paharganj!New Delhi Central!Central!Delhi!110055",
+      "alt": "8057937216",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sansar chand",
+      "name": "Roshan Lal",
+      "num": "7827081689"
+    },
+    {
+      "aadhar": null,
+      "address": "!!162/3 Gali no03Anjana ColonyShani mandir!Gurgaon!GurgaonGurgaon!Haryana!122001",
+      "alt": "919155430867",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Haidar Ali",
+      "name": "Nasurdin Ansari",
+      "num": "7827081689"
+    },
+    {
+      "aadhar": "943312695050",
+      "address": "!1299!main bazar!NDLS!Paharganj!New Delhi Central!Central!Delhi!110055",
+      "alt": "8057937216",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sansar chand",
+      "name": "Roshan Lal",
+      "num": "7827081689"
+    }
+  ]
+}
