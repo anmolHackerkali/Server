@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:53:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9511020756",
+  "records": [
+    {
+      "aadhar": "595150108887",
+      "address": "!61!muhmmadpur sabukpur husinpur girent tanda!mandir!ambedkar nagar tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shashikala",
+      "name": "Shashikala",
+      "num": "9511020756"
+    },
+    {
+      "aadhar": "595150108887",
+      "address": "!61!muhmmadpur sabukpur husinpur girent tanda!mandir!ambedkar nagar tanda!Ambedkar Nagar!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shashikala",
+      "name": "Shashikala",
+      "num": "9511020756"
+    },
+    {
+      "aadhar": "268484503820",
+      "address": "s/o kamla prasad! 61!Tanda!gram muhammadpur sabukpur post husenpur girant!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9511020756",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kamla prasad",
+      "name": "Rajaram",
+      "num": "9415951923"
+    },
+    {
+      "aadhar": "531676392177",
+      "address": "W/O  Rajesh Kumar! 177!Hajlapur!!kondra!Kodra Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9511020756",
+      "circle": "JIO UPE",
+      "email": "VRAJ61788@GMAIL.COM",
+      "fname": "Rajesh Kumar",
+      "name": "Ishmati",
+      "num": "9335476662"
+    },
+    {
+      "aadhar": "268484503820",
+      "address": "s/o kamla prasad! 61!Tanda!gram muhammadpur sabukpur post husenpur girant!tanda!tanda Tanda!ambedkar nagar!Uttar Pradesh!224190",
+      "alt": "9511020756",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "kamla prasad",
+      "name": "Rajaram",
+      "num": "9415951923"
+    },
+    {
+      "aadhar": "531676392177",
+      "address": "W/O  Rajesh Kumar! 177!Hajlapur!!kondra!Kodra Tanda!Ambedkar Nagar!Uttar Pradesh!224190",
+      "alt": "9511020756",
+      "circle": "JIO UPE",
+      "email": "VRAJ61788@GMAIL.COM",
+      "fname": "Rajesh Kumar",
+      "name": "Ishmati",
+      "num": "9335476662"
+    }
+  ]
+}
