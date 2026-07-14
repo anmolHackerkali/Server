@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:03:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9334467904",
+  "records": [
+    {
+      "aadhar": "469011065354",
+      "address": "!na s/o abhimanyu kumar soni!vill parsauni post parsauni!shiv mandir!ps itkhori parsauni chatra!Chatra!Chatra!Jharkhand!825408",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abhimanyu Kumar soni",
+      "name": "Deepak Kumar Soni",
+      "num": "9334467904"
+    },
+    {
+      "aadhar": "469011065354",
+      "address": "!na s/o abhimanyu kumar soni!vill parsauni post parsauni!shiv mandir!ps itkhori parsauni chatra!Chatra!Chatra!Jharkhand!825408",
+      "alt": "7004952901",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Abhimanyu Kumar soni",
+      "name": "Deepak Kumar Soni",
+      "num": "9334467904"
+    },
+    {
+      "aadhar": "469011065354",
+      "address": "!na s/o abhimanyu kumar soni!vill parsauni post parsauni!shiv mandir!ps itkhori parsauni chatra!Chatra!Chatra!Jharkhand!825408",
+      "alt": "7004952901",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Abhimanyu Kumar soni",
+      "name": "Deepak Kumar Soni",
+      "num": "9334467904"
+    },
+    {
+      "aadhar": "291386446650",
+      "address": "S/O  Arjun Saw!!Parsauni!!vill parsauni- ps itkhori!Parsauni Itkhori!Chatra!Jharkhand!825408",
+      "alt": "9334467904",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Saw",
+      "name": "Abhimanyu Kumar Soni",
+      "num": "9525282762"
+    },
+    {
+      "aadhar": "958025802762",
+      "address": "w/o  kishor ghansi!!Vill-Khedadih siray Bishungarh!!vill-khedadih siray po-anchaljamu bishungarh!achaljamu Bishungarh!hazaribagh!Jharkhand!825312",
+      "alt": "9334467904",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "kishor ghansi",
+      "name": "Urmila Devi",
+      "num": "8789433021"
+    },
+    {
+      "aadhar": "291386446650",
+      "address": "S/O  Arjun Saw!!Parsauni!!vill parsauni- ps itkhori!Parsauni Itkhori!Chatra!Jharkhand!825408",
+      "alt": "9334467904",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Saw",
+      "name": "Abhimanyu Kumar Soni",
+      "num": "9525282762"
+    },
+    {
+      "aadhar": "958025802762",
+      "address": "w/o  kishor ghansi!!Vill-Khedadih siray Bishungarh!!vill-khedadih siray po-anchaljamu bishungarh!achaljamu Bishungarh!hazaribagh!Jharkhand!825312",
+      "alt": "9334467904",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "kishor ghansi",
+      "name": "Urmila Devi",
+      "num": "8789433021"
+    }
+  ]
+}
