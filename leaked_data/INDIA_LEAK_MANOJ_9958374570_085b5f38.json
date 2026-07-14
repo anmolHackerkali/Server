@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:17:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958374570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C\\O HANS RAJ T 12/9 VILLAGE NATHUPUR GGN DEL2 122002 122002! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAM   IKBAL",
+      "name": "MANOJ",
+      "num": "9958374570"
+    },
+    {
+      "aadhar": null,
+      "address": "!C\\O HANS RAJ T 12/9 VILLAGE NATHUPUR GGN DEL2 122002 122002!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAM   IKBAL",
+      "name": "MANOJ",
+      "num": "9958374570"
+    },
+    {
+      "aadhar": null,
+      "address": "C\\O HANS RAJ T 12/9 VILLAGE NATHUPUR GGN DEL2 122002 122002       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAM   IKBAL",
+      "name": "MANOJ",
+      "num": "9958374570"
+    },
+    {
+      "aadhar": null,
+      "address": "C\\O HANS RAJ T 12/9 VILLAGE NATHUPUR GGN DEL2 122002 122002       ",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "RAM   IKBAL",
+      "name": "MANOJ",
+      "num": "9958374570"
+    }
+  ]
+}
