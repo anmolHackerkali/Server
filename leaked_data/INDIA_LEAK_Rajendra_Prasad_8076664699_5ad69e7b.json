@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:12:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8076664699",
+  "records": [
+    {
+      "aadhar": "954291505597",
+      "address": "!688!saktikhand inderapuram!gaziyabad!Ghaziabad Ghaziabad!Uttar Pradesh!201001",
+      "alt": "919999190464",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Santram Chaudhary",
+      "name": "Rajendra Prasad",
+      "num": "8076664699"
+    },
+    {
+      "aadhar": "954291505597",
+      "address": "!688!saktikhandinderapuram!gaziyabad!GhaziabadGhaziabad!Uttar Pradesh!201001",
+      "alt": "919999190464",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Santram Chaudhary",
+      "name": "Rajendra Prasad",
+      "num": "8076664699"
+    },
+    {
+      "aadhar": "954291505597",
+      "address": "!688!saktikhandinderapuram!gaziyabad!GhaziabadGhaziabad!Uttar Pradesh!201001",
+      "alt": "919999190464",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Santram Chaudhary",
+      "name": "Rajendra Prasad",
+      "num": "8076664699"
+    }
+  ]
+}
