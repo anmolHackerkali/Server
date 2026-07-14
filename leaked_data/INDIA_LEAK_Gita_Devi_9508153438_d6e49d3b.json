@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:00:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508153438",
+  "records": [
+    {
+      "aadhar": "260724316364",
+      "address": "w/o  harinarayan mistri!!Malia!!malia!malia Surajgarha!lakhisarai!Bihar!811310",
+      "alt": "8002110033",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "harinarayan mistri",
+      "name": "Gita Devi",
+      "num": "9508153438"
+    },
+    {
+      "aadhar": "260724316364",
+      "address": "w/o  harinarayan mistri!!Malia!!malia!malia Surajgarha!lakhisarai!Bihar!811310",
+      "alt": "8002110033",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "harinarayan mistri",
+      "name": "Gita Devi",
+      "num": "9508153438"
+    },
+    {
+      "aadhar": "260724316364",
+      "address": "w/o  harinarayan mistri!!Malia!!malia!malia Surajgarha!lakhisarai!Bihar!811310",
+      "alt": "8002110033",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "harinarayan mistri",
+      "name": "Gita Devi",
+      "num": "9508153438"
+    }
+  ]
+}
