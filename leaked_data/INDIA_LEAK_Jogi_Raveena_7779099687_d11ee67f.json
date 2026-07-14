@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:40:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7779099687",
+  "records": [
+    {
+      "aadhar": "885416267277",
+      "address": "8 Prestige Bunglows CTM Cross Roads mandir Amraiwadi Ahmedabad City Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vinod",
+      "name": "Jogi Raveena",
+      "num": "7779099687"
+    },
+    {
+      "aadhar": "885416267277",
+      "address": "8 Prestige Bunglows CTM Cross Roads mandir Amraiwadi Ahmedabad City Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vinod",
+      "name": "Jogi Raveena",
+      "num": "7779099687"
+    }
+  ]
+}
