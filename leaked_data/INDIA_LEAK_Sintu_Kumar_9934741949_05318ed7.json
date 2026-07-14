@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:45:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9934741949",
+  "records": [
+    {
+      "aadhar": "521738937364",
+      "address": "s/o  ashok kumar!!ward-08 M.t.alampur!!ward-08 alampur m.t.alampur!mahthi tola alampur Bibhutipur!samastipur!Bihar!848236",
+      "alt": "8809717853",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Sintu Kumar",
+      "num": "9934741949"
+    },
+    {
+      "aadhar": "521738937364",
+      "address": "s/o  ashok kumar!!ward-08 M.t.alampur!!ward-08 alampur m.t.alampur!mahthi tola alampur Bibhutipur!samastipur!Bihar!848236",
+      "alt": "8809717853",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Sintu Kumar",
+      "num": "9934741949"
+    },
+    {
+      "aadhar": "521738937364",
+      "address": "s/o  ashok kumar!!ward-08 M t alampur!!ward-08 alampur m t alampur!mahthi tola alampur Bibhutipur!samastipur!Bihar!848236",
+      "alt": "9934741949",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Sintu Kumar",
+      "num": "6206715737"
+    },
+    {
+      "aadhar": "349107332301",
+      "address": "W/O Ashok Kumar!ward-08!!alampur Mahthi Tola Alampur!!Samastipur!Bihar!848236",
+      "alt": "9934741949",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Gita  Kumari",
+      "num": "8809717853"
+    },
+    {
+      "aadhar": "521738937364",
+      "address": "s/o  ashok kumar!!ward-08 M t alampur!!ward-08 alampur m t alampur!mahthi tola alampur Bibhutipur!samastipur!Bihar!848236",
+      "alt": "9934741949",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Sintu Kumar",
+      "num": "6206715737"
+    },
+    {
+      "aadhar": "349107332301",
+      "address": "W/O Ashok Kumar!ward-08!!alampur Mahthi Tola Alampur!!Samastipur!Bihar!848236",
+      "alt": "9934741949",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ashok  Kumar",
+      "name": "Gita  Kumari",
+      "num": "8809717853"
+    },
+    {
+      "aadhar": "521738937364",
+      "address": "s/o  ashok kumar!!ward-08 M t alampur!!ward-08 alampur m t alampur!mahthi tola alampur Bibhutipur!samastipur!Bihar!848236",
+      "alt": "9934741949",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ashok kumar",
+      "name": "Sintu Kumar",
+      "num": "6206715737"
+    }
+  ]
+}
