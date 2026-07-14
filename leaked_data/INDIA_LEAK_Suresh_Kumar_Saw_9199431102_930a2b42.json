@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:46:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9199431102",
+  "records": [
+    {
+      "aadhar": "682362191687",
+      "address": "S/O Sohan Saw! s/o sohan saw!Ghanoodih coliary office post jharia!!ps tisra jharia jharia dhanbad!Jharia!Dhanbad!Jharkhand!828111",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Saw",
+      "num": "9199431102"
+    },
+    {
+      "aadhar": "682362191687",
+      "address": "S/O Sohan Saw! s/o sohan saw!Ghanoodih coliary office post jharia!!ps tisra jharia jharia dhanbad!Jharia!Dhanbad!Jharkhand!828111",
+      "alt": "9708627849",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Saw",
+      "num": "9199431102"
+    },
+    {
+      "aadhar": "682362191687",
+      "address": "S/O Sohan Saw! s/o sohan saw!Ghanoodih coliary office post jharia!!ps tisra jharia jharia dhanbad!Jharia!Dhanbad!Jharkhand!828111",
+      "alt": "9708627849",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sohan Saw",
+      "name": "Suresh Kumar Saw",
+      "num": "9199431102"
+    }
+  ]
+}
