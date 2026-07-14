@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:28:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9471939225",
+  "records": [
+    {
+      "aadhar": "257641297507",
+      "address": "01!Jaysinghpur Dakshini!Jaysinghpur Dakshini!East Champaran!BIHAR!845437",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "DHANPAT RAM",
+      "name": "RAMANANDRAM",
+      "num": "9471939225"
+    },
+    {
+      "aadhar": "257641297507",
+      "address": " 01  Jaysinghpur Dakshini Jaysinghpur Dakshini East Champaran  East Champaran BIHAR 845437 ",
+      "alt": "8676875151",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " DHANPAT RAM ",
+      "name": " RAMANAND  RAM ",
+      "num": "9471939225"
+    },
+    {
+      "aadhar": "257641297507",
+      "address": " 01  Jaysinghpur Dakshini Jaysinghpur Dakshini East Champaran  East Champaran BIHAR 845437 ",
+      "alt": "8676875151",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " DHANPAT RAM ",
+      "name": " RAMANAND  RAM ",
+      "num": "9471939225"
+    }
+  ]
+}
