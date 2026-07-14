@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:38:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8851070699",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Basau Ram!!!HN0-403 KHASRA N0-932 AND 933 BLOCK A RAJA VIHAR!BADLI North West Delhi!Delhi!110042",
+      "alt": "919555566479",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basau Ram",
+      "name": "Sunil Kumar",
+      "num": "8851070699"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Basau Ram!!!HN0-403 KHASRA N0-932 AND 933 BLOCK A RAJA VIHAR!BADLINorth West Delhi!Delhi!110042",
+      "alt": "919555566479",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basau Ram",
+      "name": "Sunil Kumar",
+      "num": "8851070699"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Basau Ram!!!HN0-403 KHASRA N0-932 AND 933 BLOCK A RAJA VIHAR!BADLINorth West Delhi!Delhi!110042",
+      "alt": "919555566479",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Basau Ram",
+      "name": "Sunil Kumar",
+      "num": "8851070699"
+    }
+  ]
+}
