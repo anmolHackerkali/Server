@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:44:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801497743",
+  "records": [
+    {
+      "aadhar": "466835024704",
+      "address": "S/O Dharamdev Prasad Sharma!Enayatpur!!Ward No 05 Enayetpur Parbodhi!!Vaishali Sarai Bhagwanpur!Bihar!844125",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dharamdev Prasad Sharma",
+      "name": "Santosh Kumar Sharma",
+      "num": "9801497743"
+    },
+    {
+      "aadhar": "466835024704",
+      "address": "S/O Dharamdev Prasad Sharma!Enayatpur!!Ward No 05 Enayetpur Parbodhi!!Vaishali Sarai Bhagwanpur!Bihar!844125",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dharamdev Prasad Sharma",
+      "name": "Santosh Kumar Sharma",
+      "num": "9801497743"
+    }
+  ]
+}
