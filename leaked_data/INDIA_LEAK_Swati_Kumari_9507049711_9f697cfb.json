@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:12:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9507049711",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Mithlesh Sharma! ! !  Samastipur!!SAMASTIPUR!Samastipur!BIHAR!848114",
+      "alt": "8877409887",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Mithlesh Sharma",
+      "name": "Swati Kumari",
+      "num": "9507049711"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Mithlesh Sharma! ! !  Samastipur!!SAMASTIPUR!Samastipur!BIHAR!848114",
+      "alt": "8877409887",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "W/O  Mithlesh Sharma",
+      "name": "Swati Kumari",
+      "num": "9507049711"
+    }
+  ]
+}
