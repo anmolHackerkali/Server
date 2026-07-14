@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:47:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920088925",
+  "records": [
+    {
+      "aadhar": "719332838970",
+      "address": "S/O Himmat Singh!!House no-903 Tower-5 Sushant Estate!Sector-52!Wazirabad(75) Gurgaon!Haryana!122003",
+      "alt": "919810944299",
+      "circle": "JIO DELHI",
+      "email": "singhniyati363@gmail.com",
+      "fname": "Himmat Singh",
+      "name": "Praveen Singh",
+      "num": "8920088925"
+    },
+    {
+      "aadhar": "719332838970",
+      "address": "S/O Himmat Singh!!House no-903Tower-5Sushant Estate!Sector-52!Wazirabad(75)Gurgaon!Haryana!122003",
+      "alt": "919810944299",
+      "circle": "JIO DELHI",
+      "email": "singhniyati363@gmail.com",
+      "fname": "Himmat Singh",
+      "name": "Praveen Singh",
+      "num": "8920088925"
+    },
+    {
+      "aadhar": "719332838970",
+      "address": "S/O Himmat Singh!!House no-903Tower-5Sushant Estate!Sector-52!Wazirabad(75)Gurgaon!Haryana!122003",
+      "alt": "919810944299",
+      "circle": "JIO DELHI",
+      "email": "singhniyati363@gmail.com",
+      "fname": "Himmat Singh",
+      "name": "Praveen Singh",
+      "num": "8920088925"
+    }
+  ]
+}
