@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:16:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8780035336",
+  "records": [
+    {
+      "aadhar": "378582181488",
+      "address": "D/O  Joshi Anilbhai  68 S D X-N Near Zanda Chowk  Gandhidham Kachchh Gujarat 370201",
+      "alt": "918733823134",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Joshi Anilbhai",
+      "name": "Joshi Rutu Anilbhai",
+      "num": "8780035336"
+    },
+    {
+      "aadhar": "378582181488",
+      "address": "D/O: Joshi Anilbhai!!68 S.D.X-N Near Zanda Chowk!!Gandhidham Kachchh!Gujarat!370201",
+      "alt": "918733823134",
+      "circle": "JIO GUJARAT",
+      "email": "rutujoshi2904@gmail.com",
+      "fname": "Joshi Anilbhai",
+      "name": "Joshi Rutu Anilbhai",
+      "num": "8780035336"
+    },
+    {
+      "aadhar": "378582181488",
+      "address": "D/O: Joshi Anilbhai!!68 S.D.X-N Near Zanda Chowk!!Gandhidham Kachchh!Gujarat!370201",
+      "alt": "918733823134",
+      "circle": "JIO GUJARAT",
+      "email": "rutujoshi2904@gmail.com",
+      "fname": "Joshi Anilbhai",
+      "name": "Joshi Rutu Anilbhai",
+      "num": "8780035336"
+    }
+  ]
+}
