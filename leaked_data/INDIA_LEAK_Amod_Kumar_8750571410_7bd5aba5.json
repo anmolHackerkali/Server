@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:42:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8750571410",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!H No 346!Sanjay Colony!Sec 23 FARIDABAD!!FARIDABAD!FARIDABAD!HARYANA!121005",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Dukhan Paswan",
+      "name": "Amod Kumar",
+      "num": "8750571410"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 346!Sanjay Colony!Sec 23FARIDABAD!!FARIDABAD!FARIDABAD!HARYANA!121005",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Dukhan Paswan",
+      "name": "Amod Kumar",
+      "num": "8750571410"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 346!Sanjay Colony!Sec 23FARIDABAD!!FARIDABAD!FARIDABAD!HARYANA!121005",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Dukhan Paswan",
+      "name": "Amod Kumar",
+      "num": "8750571410"
+    }
+  ]
+}
