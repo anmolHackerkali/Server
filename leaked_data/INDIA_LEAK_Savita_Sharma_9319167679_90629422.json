@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:29:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9319167679",
+  "records": [
+    {
+      "aadhar": "709300550269",
+      "address": "! B-2/360 61 !00!!New Kondli  Mayur Vihar 3!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Parma Nand",
+      "name": "Savita Sharma",
+      "num": "9319167679"
+    },
+    {
+      "aadhar": "709300550269",
+      "address": "! B-2/360 61 !00!!New Kondli  Mayur Vihar 3!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Parma Nand",
+      "name": "Savita Sharma",
+      "num": "9319167679"
+    },
+    {
+      "aadhar": "709300550269",
+      "address": "! B-2/360 61 !00!!New Kondli  Mayur Vihar 3!Delhi!East Delhi!Delhi!110096",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Parma Nand",
+      "name": "Savita Sharma",
+      "num": "9319167679"
+    }
+  ]
+}
