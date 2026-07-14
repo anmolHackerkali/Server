@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:10:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9213779377",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "30C ! KH NO 56/4 JAI VIHAR ! BAPROLA ! DELHI ! Delhi ! 110043",
+      "alt": "8178141598",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT SINGH",
+      "name": "DISHANT ",
+      "num": "9213779377"
+    },
+    {
+      "aadhar": null,
+      "address": "30C ! KH NO 56/4 JAI VIHAR ! BAPROLA ! DELHI ! Delhi ! 110043",
+      "alt": "8178141598",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "JASWANT SINGH",
+      "name": "DISHANT ",
+      "num": "9213779377"
+    }
+  ]
+}
