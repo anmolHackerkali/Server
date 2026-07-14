@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:26:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9510591068",
+  "records": [
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    },
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    },
+    {
+      "aadhar": "696625632128",
+      "address": "c/o lalo!62-260-3!!!gayatri township!varsamedi!kachchh!Gujarat!370110",
+      "alt": "9638842193",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Lalo Das",
+      "name": "Ashok Das",
+      "num": "9510591068"
+    }
+  ]
+}
