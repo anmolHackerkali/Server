@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:06:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7439550144",
+  "records": [
+    {
+      "aadhar": "482367417279",
+      "address": "85 c/o Md jakir hossain    MALIAKUR  Bamangachhi North 24 Parganas Bamangachi NEAR scool marth NORTH 24 PARGANAS North 24 Parganas West Bengal 743248",
+      "alt": "7439550144",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Md Jakir Hossain",
+      "name": "Rehena  Parvin",
+      "num": "8274839056"
+    }
+  ]
+}
