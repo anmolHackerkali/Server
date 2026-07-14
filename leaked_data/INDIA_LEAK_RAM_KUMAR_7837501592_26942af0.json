@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:27:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7837501592",
+  "records": [
+    {
+      "aadhar": "981328049062",
+      "address": "DARSHAN LAL!HNO # 52!WADHAVA NAGAR WARD NO 1 ZIRAKPUR DHAKAULI!!SAS NAGAR MOHALI DHAKAULI!ZIRAKPUR!MOHALI!PUNJAB!140603",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "DARSHAN LAL",
+      "name": "RAM KUMAR",
+      "num": "7837501592"
+    }
+  ]
+}
