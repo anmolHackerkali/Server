@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:58:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8745868008",
+  "records": [
+    {
+      "aadhar": " 907409749520 ",
+      "address": "S/O  Rampalat ! 16 587 Block I ! Bapa Nagar !  ! Karol Bagh New DelhiCENTRAL DELHI ! CENTRAL DELHI ! CENTRAL DELHI ! Delhi ! 110005",
+      "alt": "9170442640",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rampalat",
+      "name": "MR. AMIT KUMAR",
+      "num": "8745868008"
+    },
+    {
+      "aadhar": "907409749520",
+      "address": "S/O  Rampalat ! 16 587 Block I ! Bapa Nagar !  ! Karol Bagh New DelhiCENTRAL DELHI ! CENTRAL DELHI ! CENTRAL DELHI ! Delhi ! 110005",
+      "alt": "9170442640",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rampalat",
+      "name": "MR AMIT KUMAR",
+      "num": "8745868008"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Subhash Chandra!!House no 82Village-!!DallupuraEast Delhi!Delhi!110096",
+      "alt": "918933886845",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "subhash chandra",
+      "name": "Sumit",
+      "num": "8745868008"
+    },
+    {
+      "aadhar": "907409749520",
+      "address": "S/O  Rampalat ! 16 587 Block I ! Bapa Nagar !  ! Karol Bagh New DelhiCENTRAL DELHI ! CENTRAL DELHI ! CENTRAL DELHI ! Delhi ! 110005",
+      "alt": "9170442640",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rampalat",
+      "name": "MR AMIT KUMAR",
+      "num": "8745868008"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Subhash Chandra!!House no 82Village-!!DallupuraEast Delhi!Delhi!110096",
+      "alt": "918933886845",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "subhash chandra",
+      "name": "Sumit",
+      "num": "8745868008"
+    }
+  ]
+}
