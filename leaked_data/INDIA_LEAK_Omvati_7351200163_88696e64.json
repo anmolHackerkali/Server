@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:12:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7351200163",
+  "records": [
+    {
+      "aadhar": "438755602378",
+      "address": "!133!nagal road gram kapasi kapasi!near ravidas mandir!hassanpur!Saharanpur!Saharanpur!Uttar Pradesh!247001",
+      "alt": "9027111486",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "kuldeep",
+      "name": "Omvati",
+      "num": "7351200163"
+    },
+    {
+      "aadhar": "438755602378",
+      "address": "!133!nagal road gram kapasi kapasi!near ravidas mandir!hassanpur!Saharanpur!Saharanpur!Uttar Pradesh!247001",
+      "alt": "9027111486",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "kuldeep",
+      "name": "Omvati",
+      "num": "7351200163"
+    },
+    {
+      "aadhar": "683064000620",
+      "address": "W/O Bablu!Mirzapurj!A!!chand!Saharanpur!Saharanpur!Uttar Pradesh!247451",
+      "alt": "7351200163",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bablu",
+      "name": "Geeta Devi",
+      "num": "7060990294"
+    },
+    {
+      "aadhar": "683064000620",
+      "address": "W/O Bablu!Mirzapurj!A!!chand!Saharanpur!Saharanpur!Uttar Pradesh!247451",
+      "alt": "7351200163",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bablu",
+      "name": "Geeta Devi",
+      "num": "7060990294"
+    }
+  ]
+}
