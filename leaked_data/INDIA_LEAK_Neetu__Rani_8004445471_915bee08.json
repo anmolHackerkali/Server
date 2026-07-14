@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:50:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8004445471",
+  "records": [
+    {
+      "aadhar": "586624931269",
+      "address": "!c145!sec15!Noida!NoidaNoida!Uttar Pradesh!201301",
+      "alt": "8004445471",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surinder  Kumar",
+      "name": "Neetu  Rani",
+      "num": "7696903004"
+    },
+    {
+      "aadhar": "586624931269",
+      "address": "!c145!sec15!Noida!!Noida!!Uttar Pradesh!201301",
+      "alt": "8004445471",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surinder  Kumar",
+      "name": "Neetu  Rani",
+      "num": "7696903004"
+    },
+    {
+      "aadhar": "586624931269",
+      "address": "!c145!sec15!Noida!NoidaNoida!Uttar Pradesh!201301",
+      "alt": "8004445471",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surinder  Kumar",
+      "name": "Neetu  Rani",
+      "num": "7696903004"
+    },
+    {
+      "aadhar": "586624931269",
+      "address": "!c145!sec15!Noida!NoidaNoida!Uttar Pradesh!201301",
+      "alt": "8004445471",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Surinder  Kumar",
+      "name": "Neetu  Rani",
+      "num": "7696903004"
+    }
+  ]
+}
