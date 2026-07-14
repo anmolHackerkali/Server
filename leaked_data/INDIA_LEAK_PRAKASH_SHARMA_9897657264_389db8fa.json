@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:17:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9897657264",
+  "records": [
+    {
+      "aadhar": "622938391268",
+      "address": "!basai kazi!9756886846 basai kazi!mandir!hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rakesh sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9897657264"
+    },
+    {
+      "aadhar": "622938391268",
+      "address": "!basai kazi!9756886846 basai kazi!mandir!hathras!Aligarh!Aligarh!Uttar Pradesh!202150",
+      "alt": "9368334684",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Rakesh sharma",
+      "name": "PRAKASH SHARMA",
+      "num": "9897657264"
+    }
+  ]
+}
