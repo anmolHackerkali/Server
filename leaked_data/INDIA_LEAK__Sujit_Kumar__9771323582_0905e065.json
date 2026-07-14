@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:13:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9771323582",
+  "records": [
+    {
+      "aadhar": "876835314997",
+      "address": " gram lakhankyari!Lakhankiari!post dumari tola lakhankiari!Jamui!Jamui!Jamui!Bihar!811314 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Prakash Mandal ",
+      "name": " Sujit Kumar ",
+      "num": "9771323582"
+    },
+    {
+      "aadhar": "876835314997",
+      "address": " gram lakhankyari!Lakhankiari!post dumari tola lakhankiari!Jamui!Jamui!Jamui!Bihar!811314 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Prakash Mandal ",
+      "name": " Sujit Kumar ",
+      "num": "9771323582"
+    }
+  ]
+}
