@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:34:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8127008382",
+  "records": [
+    {
+      "aadhar": "878154815446",
+      "address": "W/O: Vinod Rai!gram-mohanbhitti!!post-chilbili!Chandauli!Uttar Pradesh!232106",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vinod Rai",
+      "name": "Savita Rai",
+      "num": "8127008382"
+    },
+    {
+      "aadhar": "878154815446",
+      "address": "W/O: Vinod Rai!gram-mohanbhitti!!post-chilbili!Chandauli!Uttar Pradesh!232106",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vinod Rai",
+      "name": "Savita Rai",
+      "num": "8127008382"
+    }
+  ]
+}
