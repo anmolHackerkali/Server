@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:20:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9117031026",
+  "records": [
+    {
+      "aadhar": "216411445766",
+      "address": "S/O  Asrfi Ram!!Jahangirpur Salkhanni!!JAHANGEERPUR salkhnni!Jahangirpur Salthani Mahua!Vaishali!Bihar!844126",
+      "alt": "8406830120",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Asrfi Ram",
+      "name": "Vivek Kumar Ram",
+      "num": "9117031026"
+    },
+    {
+      "aadhar": "216411445766",
+      "address": "S/O  Asrfi Ram!!Jahangirpur Salkhanni!!JAHANGEERPUR salkhnni!Jahangirpur Salthani Mahua!Vaishali!Bihar!844126",
+      "alt": "8406830120",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Asrfi Ram",
+      "name": "Vivek Kumar Ram",
+      "num": "9117031026"
+    },
+    {
+      "aadhar": "216411445766",
+      "address": "S/O  Asrfi Ram!!Jahangirpur Salkhanni!!JAHANGEERPUR salkhnni!Jahangirpur Salthani Mahua!Vaishali!Bihar!844126",
+      "alt": "8406830120",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Asrfi Ram",
+      "name": "Vivek Kumar Ram",
+      "num": "9117031026"
+    }
+  ]
+}
