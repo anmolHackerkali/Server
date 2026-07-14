@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:37:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9546486856",
+  "records": [
+    {
+      "aadhar": "241494784509",
+      "address": " vill P O garhmohani jamalpur!khagaria!bihar!jamalpur gogri!Khagaria!Khagaria!Bihar!851203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shri Shivnandan Mandal ",
+      "name": " Shambhu Kumar ",
+      "num": "9546486856"
+    },
+    {
+      "aadhar": "241494784509",
+      "address": " vill P O garhmohani jamalpur!khagaria!bihar!jamalpur gogri!Khagaria!Khagaria!Bihar!851203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Shri Shivnandan Mandal ",
+      "name": " Shambhu Kumar ",
+      "num": "9546486856"
+    }
+  ]
+}
