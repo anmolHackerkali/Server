@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:14:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8757627232",
+  "records": [
+    {
+      "aadhar": "623800248468",
+      "address": " ward no-09!Chandchour PO!gonw-chand chaur mishratola!dakghar-mishratola Chand Chaur Ujiarpur!Samastipur!Samastipur!Bihar!848114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Balak Singh ",
+      "name": " Naveen Kumar Singh ",
+      "num": "8757627232"
+    },
+    {
+      "aadhar": "623800248468",
+      "address": " ward no-09!Chandchour PO!gonw-chand chaur mishratola!dakghar-mishratola Chand Chaur Ujiarpur!Samastipur!Samastipur!Bihar!848114 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Balak Singh ",
+      "name": " Naveen Kumar Singh ",
+      "num": "8757627232"
+    }
+  ]
+}
