@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:40:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8521032880",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H No 12C Town/Vill Fulhar Anchal Harlakhi!!Madhubani!!!847240",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sonafi Sinn",
+      "name": "Virendra  Sinn",
+      "num": "8521032880"
+    },
+    {
+      "aadhar": null,
+      "address": "H No 12C Town/Vill Fulhar Anchal Harlakhi!!Madhubani!!!847240",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sonafi Sinn",
+      "name": "Virendra  Sinn",
+      "num": "8521032880"
+    }
+  ]
+}
