@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:38:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9661744348",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "7 Mathahiya!Town Vill  Bhathahiya!Anchal Bagaha 1 W Champaran!!!845101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shambhoo Shukla",
+      "name": "Rajan   Shukla",
+      "num": "9661744348"
+    },
+    {
+      "aadhar": null,
+      "address": "7 Mathahiya!Town Vill  Bhathahiya!Anchal Bagaha 1 W Champaran!!!845101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shambhoo Shukla",
+      "name": "Rajan   Shukla",
+      "num": "9661744348"
+    }
+  ]
+}
