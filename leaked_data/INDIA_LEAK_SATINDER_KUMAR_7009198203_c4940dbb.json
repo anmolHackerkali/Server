@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:29:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7009198203",
+  "records": [
+    {
+      "aadhar": "CP/ASR/DUP/SR0312016",
+      "address": "336!GALI NO 7-C PH IINEW JAWAHAR NAGAR!AMARTSAR!AMRITSARAMRITSAR!Punjab!143001",
+      "alt": "+918146292200",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "CHARANJIT KUMAR",
+      "name": "SATINDER KUMAR",
+      "num": "7009198203"
+    },
+    {
+      "aadhar": "887722668658",
+      "address": "NA!F-23- 258!NEW JAWAHAR NAGAR!!AMRITSAR -IBATALA ROADAMRITSAR!!AMRITSAR!PUNJAB!143001",
+      "alt": "7009198203",
+      "circle": "PUNAJB",
+      "email": null,
+      "fname": "RAKESH KUMAR",
+      "name": "MONIKA SHARMA",
+      "num": "9417199918"
+    }
+  ]
+}
