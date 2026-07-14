@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:05:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7903357447",
+  "records": [
+    {
+      "aadhar": "209964099715",
+      "address": "S/O Jharkhandi Yadav!!!sabladih!Sauladih Hazaribagh!Jharkhand!825312",
+      "alt": "917277945978",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jharkhandi Yadav",
+      "name": "Vikash Kumar",
+      "num": "7903357447"
+    },
+    {
+      "aadhar": "209964099715",
+      "address": "S/O Jharkhandi Yadav!!!sabladih!Sauladih Hazaribagh!Jharkhand!825312",
+      "alt": "917277945978",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jharkhandi Yadav",
+      "name": "Vikash Kumar",
+      "num": "7903357447"
+    },
+    {
+      "aadhar": "209964099715",
+      "address": "S/O Jharkhandi Yadav!!!sabladih!Sauladih Hazaribagh!Jharkhand!825312",
+      "alt": "917277945978",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jharkhandi Yadav",
+      "name": "Vikash Kumar",
+      "num": "7903357447"
+    }
+  ]
+}
