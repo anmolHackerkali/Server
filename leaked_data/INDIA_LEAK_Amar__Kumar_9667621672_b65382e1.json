@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:07:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9667621672",
+  "records": [
+    {
+      "aadhar": "896977573755",
+      "address": "S/O Late Nirmal Kumar!2887!Gali no-4 Chuna Mandi!Pahar Ganj!Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9312386083",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Late Nirmal Kumar",
+      "name": "Amar  Kumar",
+      "num": "9667621672"
+    },
+    {
+      "aadhar": "896977573755",
+      "address": "S/O Late Nirmal Kumar!2887!Gali no-4 Chuna Mandi!Pahar Ganj!!Central AIRTEL DELHI!!AIRTEL DELHI!110055",
+      "alt": "9312386083",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Late Nirmal Kumar",
+      "name": "Amar  Kumar",
+      "num": "9667621672"
+    },
+    {
+      "aadhar": "896977573755",
+      "address": "S/O Late Nirmal Kumar!2887!Gali no-4 Chuna Mandi!Pahar Ganj!Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9312386083",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Late Nirmal Kumar",
+      "name": "Amar  Kumar",
+      "num": "9667621672"
+    },
+    {
+      "aadhar": "896977573755",
+      "address": "S/O Late Nirmal Kumar!2887!Gali no-4 Chuna Mandi!Pahar Ganj!Central DelhiCentral Delhi!Delhi!110055",
+      "alt": "9312386083",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Late Nirmal Kumar",
+      "name": "Amar  Kumar",
+      "num": "9667621672"
+    },
+    {
+      "aadhar": "287671074908",
+      "address": "W/O Ashok Kumar Prasad!HOUSE NO- E-16/24 E-BLOCK!phase 1 qutub vihar goyala dairy NEAR MAA SHAKTI MANDIR!NEAR MAA SHAKTI MANDIR!PHASE 1 Qutub vihar goyala dairy SOUTH WEST DELHI!DELHI!SOUTH WEST DELHI",
+      "alt": "9667621672",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS  RITA DEVI",
+      "num": "7836915359"
+    },
+    {
+      "aadhar": "287671074908",
+      "address": "W/O Ashok Kumar Prasad!HOUSE N0- E-16/24 E-BLOCK!phase 1 Qutub vihar goyala dairy NEAR MAA SHAKTI MANDIR!NEAR MAA SHAKTI MANDIR!PHASE 1 Qutub vihar goyala dairy SOUTH WEST DELHI!DELHI!SOUTH WEST DELHI",
+      "alt": "9667621672",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS  RITA DEVI",
+      "num": "7836915363"
+    },
+    {
+      "aadhar": " 287671074908 ",
+      "address": "W/O Ashok Kumar Prasad ! HOUSE NO- E-16/24 E-BLOCK ! phase 1 qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR ! NEAR MAA SHAKTI MANDIR ! PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI ! DELHI ! SOUTH ",
+      "alt": "9667621672",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS. RITA DEVI",
+      "num": "7836915359"
+    },
+    {
+      "aadhar": " 287671074908 ",
+      "address": "W/O Ashok Kumar Prasad ! HOUSE N0- E-16/24 E-BLOCK ! phase 1 Qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR ! NEAR MAA SHAKTI MANDIR ! PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI ! DELHI ! SOUTH ",
+      "alt": "9667621672",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS. RITA DEVI",
+      "num": "7836915363"
+    },
+    {
+      "aadhar": " 287671074908 ",
+      "address": "W/O Ashok Kumar Prasad ! HOUSE N0- E-16/24 E-BLOCK ! phase 1 Qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR ! NEAR MAA SHAKTI MANDIR ! PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI ! DELHI ! SOUTH ",
+      "alt": "9667621672",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS RITA DEVI",
+      "num": "7836915363"
+    },
+    {
+      "aadhar": "287671074908",
+      "address": "W/O Ashok Kumar Prasad!HOUSE NO- E-16/24 E-BLOCK!phase 1 qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR!NEAR MAA SHAKTI MANDIR!PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!D",
+      "alt": "9667621672",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS RITA DEVI",
+      "num": "7836915359"
+    },
+    {
+      "aadhar": " 287671074908 ",
+      "address": "W/O Ashok Kumar Prasad ! HOUSE N0- E-16/24 E-BLOCK ! phase 1 Qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR ! NEAR MAA SHAKTI MANDIR ! PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI ! DELHI ! SOUTH ",
+      "alt": "9667621672",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS RITA DEVI",
+      "num": "7836915363"
+    },
+    {
+      "aadhar": "287671074908",
+      "address": "W/O Ashok Kumar Prasad!HOUSE NO- E-16/24 E-BLOCK!phase 1 qutub vihar goyala dairyNEAR MAA SHAKTI MANDIR!NEAR MAA SHAKTI MANDIR!PHASE 1 Qutub vihar goyala dairySOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!D",
+      "alt": "9667621672",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Prasad",
+      "name": "MS RITA DEVI",
+      "num": "7836915359"
+    }
+  ]
+}
