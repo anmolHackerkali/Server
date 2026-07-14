@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:08:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835871360",
+  "records": [
+    {
+      "aadhar": "707279124740",
+      "address": "S/O Ramvali Das!Singhara Buzurg!!!!Vaishali!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramvali  Das",
+      "name": "Ramesh  Das",
+      "num": "9835871360"
+    },
+    {
+      "aadhar": "707279124740",
+      "address": "S/O Ramvali Das!Singhara Buzurg!!!!Vaishali!Bihar!844126",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramvali  Das",
+      "name": "Ramesh  Das",
+      "num": "9835871360"
+    },
+    {
+      "aadhar": "707279124740",
+      "address": "S/O  Ramvali Das!S/O  Ramvali Das!Singhara  Mahua!  !SINGHARA BUZURG-VAISHALI!BR!844126",
+      "alt": "9835871360",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "RAMVALI DAS",
+      "name": "RAMESH DAS",
+      "num": "7542009278"
+    },
+    {
+      "aadhar": "707279124740",
+      "address": "S/O  Ramvali Das!S/O  Ramvali Das!Singhara  Mahua!  !SINGHARA BUZURG-VAISHALI!BR!844126",
+      "alt": "9835871360",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "RAMVALI DAS",
+      "name": "RAMESH DAS",
+      "num": "7542009278"
+    }
+  ]
+}
