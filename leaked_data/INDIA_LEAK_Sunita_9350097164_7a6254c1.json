@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:26:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9350097164",
+  "records": [
+    {
+      "aadhar": "HR-1920150087187",
+      "address": "!369!Dadri Badhrach dadri!!Birhi kalan!Bhiwani!Bhiwani!Haryana!127026",
+      "alt": "8053894662",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sanjay kumar",
+      "name": "Sunita",
+      "num": "9350097164"
+    }
+  ]
+}
