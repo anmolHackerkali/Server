@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:18:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9555222895",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx6827",
+      "address": "S/O Ramnaresh Singh! S-359  Ist FLOOR SCHOOL BLOCK !!SHAKARPUR!East DelhiEast Delhi!Delhi!110092",
+      "alt": "8470954001",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramnaresh  Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "9555222895"
+    },
+    {
+      "aadhar": "xxxxxxxx6827",
+      "address": "S/O Ramnaresh Singh!S-359 Ist FLOOR SCHOOL BLOCK!!!SHAKARPUR!East AIRTEL DELHI!!AIRTEL DELHI!110092",
+      "alt": "8470954001",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramnaresh  Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "9555222895"
+    },
+    {
+      "aadhar": "xxxxxxxx6827",
+      "address": "S/O Ramnaresh Singh!S-359 Ist FLOOR SCHOOL BLOCK!!SHAKARPUR!East DelhiEast Delhi!Delhi!110092",
+      "alt": "8470954001",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramnaresh  Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "9555222895"
+    },
+    {
+      "aadhar": "xxxxxxxx6827",
+      "address": "S/O Ramnaresh Singh!S-359 Ist FLOOR SCHOOL BLOCK!!SHAKARPUR!East DelhiEast Delhi!Delhi!110092",
+      "alt": "8470954001",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramnaresh  Singh",
+      "name": "Hemant Kumar Singh",
+      "num": "9555222895"
+    },
+    {
+      "aadhar": "792187998269",
+      "address": "!S406!S406 STREET NO11!NA!DELHI!Delhi East East!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dhenukh Singh",
+      "name": "Baby Kumari",
+      "num": "9631924952"
+    },
+    {
+      "aadhar": "IPS2643236",
+      "address": "!S 406!school block shakarpurshiv mandir!NA!shakarpur!Delhi EastEast!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramnaresh Singh",
+      "name": "hemant Kumar Singh",
+      "num": "9318380963"
+    },
+    {
+      "aadhar": "AIG0604256",
+      "address": "!  !vill supauli anchal pacharukhi siwan!near by kali mandir!anchal-pacharukhi!Siwan!Siwan!Bihar!841241",
+      "alt": "9555222895",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ramnaresh singh",
+      "name": "hemanta Kumar sinh",
+      "num": "9693097039"
+    },
+    {
+      "aadhar": "792187998269",
+      "address": "!S406!S406STREET NO11!NA!DELHI!Delhi EastEast!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dhenukh Singh",
+      "name": "Baby Kumari",
+      "num": "9631924952"
+    },
+    {
+      "aadhar": "IPS2643236",
+      "address": "!S 406!school block shakarpurshiv mandir!NA!shakarpur!Delhi EastEast!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramnaresh Singh",
+      "name": "hemant Kumar Singh",
+      "num": "9318380963"
+    },
+    {
+      "aadhar": "AIG0604256",
+      "address": "! .!vill supauli anchal pacharukhi siwan!near by kali mandir!anchal-pacharukhi!Siwan!Siwan!Bihar!841241",
+      "alt": "9555222895",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramnaresh singh",
+      "name": "hemanta Kumar sinh",
+      "num": "9693097039"
+    },
+    {
+      "aadhar": "792187998269",
+      "address": "!S406!S406STREET NO11!NA!DELHI!Delhi EastEast!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Dhenukh Singh",
+      "name": "Baby Kumari",
+      "num": "9631924952"
+    },
+    {
+      "aadhar": "IPS2643236",
+      "address": "!S 406!school block shakarpurshiv mandir!NA!shakarpur!Delhi EastEast!NA!Delhi!110092",
+      "alt": "9555222895",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ramnaresh Singh",
+      "name": "hemant Kumar Singh",
+      "num": "9318380963"
+    },
+    {
+      "aadhar": "AIG0604256",
+      "address": "! .!vill supauli anchal pacharukhi siwan!near by kali mandir!anchal-pacharukhi!Siwan!Siwan!Bihar!841241",
+      "alt": "9555222895",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramnaresh singh",
+      "name": "hemanta Kumar sinh",
+      "num": "9693097039"
+    }
+  ]
+}
