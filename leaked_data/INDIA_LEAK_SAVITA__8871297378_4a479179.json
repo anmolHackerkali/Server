@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:38:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8871297378",
+  "records": [
+    {
+      "aadhar": "480875304056",
+      "address": "W/O Mukesh!W/O Mukesh!26 gadra khedi!Army Head Quarter  Indore !INDORE-INDORE!MP!452006",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "MUKESH ",
+      "name": "SAVITA ",
+      "num": "8871297378"
+    },
+    {
+      "aadhar": "908149148266",
+      "address": "C/O Ravi Dhanuk!177 Gadarakhedee!marimata square indore!indore!police petrol pump INDORE!INDORE!INDORE!Madhya Pradesh!452006",
+      "alt": "8871297378",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ravi Dhanuk",
+      "name": "MS POOJA DHANUK",
+      "num": "7087553572"
+    }
+  ]
+}
