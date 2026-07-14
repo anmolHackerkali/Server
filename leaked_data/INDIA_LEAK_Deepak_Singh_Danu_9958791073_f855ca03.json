@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:00:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958791073",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5785",
+      "address": "!35!I block!Alfa2 navin hospital!Greater NoidaGreater Noida!Delhi!201308",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahipal Singh Danu",
+      "name": "Deepak Singh Danu",
+      "num": "9958791073"
+    },
+    {
+      "aadhar": "xxxxxxxx5785",
+      "address": "!35!I block!!Alfa2 navin hospital!Greater Noida!!AIRTEL DELHI!201308",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahipal Singh Danu",
+      "name": "Deepak Singh Danu",
+      "num": "9958791073"
+    },
+    {
+      "aadhar": "xxxxxxxx5785",
+      "address": "!35!I block!Alfa2 navin hospital!Greater NoidaGreater Noida!Delhi!201308",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahipal Singh Danu",
+      "name": "Deepak Singh Danu",
+      "num": "9958791073"
+    },
+    {
+      "aadhar": "xxxxxxxx5785",
+      "address": "!35!I block!Alfa2 navin hospital!Greater NoidaGreater Noida!Delhi!201308",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mahipal Singh Danu",
+      "name": "Deepak Singh Danu",
+      "num": "9958791073"
+    }
+  ]
+}
