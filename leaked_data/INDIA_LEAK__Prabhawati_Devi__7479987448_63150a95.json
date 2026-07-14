@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:45:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7479987448",
+  "records": [
+    {
+      "aadhar": "202479955278",
+      "address": " NA!Bettiah PO!KALIBAG JORA INAR WEST CHAMPARAN BETTIAH!Bettiah Bettiah!West Champaran!West Champaran!Bihar!845438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kashi Sah ",
+      "name": " Prabhawati Devi ",
+      "num": "7479987448"
+    },
+    {
+      "aadhar": "202479955278",
+      "address": " NA!Bettiah PO!KALIBAG JORA INAR WEST CHAMPARAN BETTIAH!Bettiah Bettiah!West Champaran!West Champaran!Bihar!845438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kashi Sah ",
+      "name": " Prabhawati Devi ",
+      "num": "7479987448"
+    },
+    {
+      "aadhar": "498823061648",
+      "address": "S/O  Gopal Mondal!S/O  Gopal Mondal!talberia!Benagoria  Nirsa-cum-chirkunda !BENAGARIA-DHANBAD!JH!828204",
+      "alt": "7479987448",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "GOPAL MONDAL",
+      "name": "AMRIT MONDAL",
+      "num": "8579930625"
+    },
+    {
+      "aadhar": "498823061648",
+      "address": "S/O  Gopal Mondal!S/O  Gopal Mondal!talberia!Benagoria  Nirsa-cum-chirkunda !BENAGARIA-DHANBAD!JH!828204",
+      "alt": "7479987448",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "GOPAL MONDAL",
+      "name": "AMRIT MONDAL",
+      "num": "8579930625"
+    }
+  ]
+}
