@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:56:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9173284970",
+  "records": [
+    {
+      "aadhar": "556255503229",
+      "address": "402 kedar apartment Ahmadabad city shankar nagar society akhbarnagar road opp gopi ashram nava vadaj Ahmadabad Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dineshbhai",
+      "name": "Jaydip dineshbhai Mahant",
+      "num": "9173284970"
+    },
+    {
+      "aadhar": "556255503229",
+      "address": "402 kedar apartment Ahmadabad city shankar nagar society akhbarnagar road opp gopi ashram nava vadaj Ahmadabad Ahmadabad City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "dineshbhai",
+      "name": "Jaydip dineshbhai Mahant",
+      "num": "9173284970"
+    }
+  ]
+}
