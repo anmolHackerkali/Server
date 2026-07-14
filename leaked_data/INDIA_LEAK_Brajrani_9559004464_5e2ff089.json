@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:39:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9559004464",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Girja Shankar!!! Villege Dhami saray Punji Khera!Sitapur!Uttar Pradesh!261202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Girja Shankar",
+      "name": "Brajrani",
+      "num": "9559004464"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Girja Shankar!!! Villege Dhami saray Punji Khera!Sitapur!Uttar Pradesh!261202",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Girja Shankar",
+      "name": "Brajrani",
+      "num": "9559004464"
+    }
+  ]
+}
