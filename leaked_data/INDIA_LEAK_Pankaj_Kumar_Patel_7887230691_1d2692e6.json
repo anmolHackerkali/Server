@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:58:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7887230691",
+  "records": [
+    {
+      "aadhar": "956180623117",
+      "address": "S/O Amarnath Nath Patel!C4/13!PARAMANANDPUR!varanasi Tarna SHIVPUR!Varanasi!Uttar Pradesh!221003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Amarnath Nath Patel",
+      "name": "Pankaj Kumar Patel",
+      "num": "7887230691"
+    },
+    {
+      "aadhar": "956180623117",
+      "address": "S/O Amarnath Nath Patel!C4/13!PARAMANANDPUR!varanasi Tarna SHIVPUR!Varanasi!Uttar Pradesh!221003",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Amarnath Nath Patel",
+      "name": "Pankaj Kumar Patel",
+      "num": "7887230691"
+    }
+  ]
+}
