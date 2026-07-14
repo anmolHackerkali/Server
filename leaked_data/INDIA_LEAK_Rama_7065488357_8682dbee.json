@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:45:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7065488357",
+  "records": [
+    {
+      "aadhar": "841199137525",
+      "address": "w/o uday pratap pandey! ground floor!jain mandir gali!!b - 82!shakarpur!east delhi!Delhi!110092",
+      "alt": "9968327561",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "uday pratap pandey",
+      "name": "Rama",
+      "num": "7065488357"
+    },
+    {
+      "aadhar": "841199137525",
+      "address": "w/o uday pratap pandey!ground floor!jain mandir gali!!b - 82!shakarpur!east delhi!Delhi!110092",
+      "alt": "9968327561",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "uday pratap pandey",
+      "name": "Rama",
+      "num": "7065488357"
+    },
+    {
+      "aadhar": "841199137525",
+      "address": "w/o uday pratap pandey!ground floor!jain mandir gali!!b - 82!shakarpur!east delhi!Delhi!110092",
+      "alt": "9968327561",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "uday pratap pandey",
+      "name": "Rama",
+      "num": "7065488357"
+    },
+    {
+      "aadhar": "841199137525",
+      "address": "W/O Uday Pratap Pandey!B - 82  Ground Floor!Jain Mandir Gali!Shakarpur!East Delhi!Delhi!110092",
+      "alt": "7065488357",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Uday Pratap Pandey",
+      "name": "Rama",
+      "num": "9968327561"
+    },
+    {
+      "aadhar": "841199137525",
+      "address": "W/O Uday Pratap Pandey!B - 82 Ground Floor!Jain Mandir Gali!Shakarpur!East Delhi!Delhi!110092",
+      "alt": "7065488357",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Uday Pratap Pandey",
+      "name": "Rama",
+      "num": "9968327561"
+    },
+    {
+      "aadhar": "841199137525",
+      "address": "W/O Uday Pratap Pandey!B - 82 Ground Floor!Jain Mandir Gali!Shakarpur!East Delhi!Delhi!110092",
+      "alt": "7065488357",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Uday Pratap Pandey",
+      "name": "Rama",
+      "num": "9968327561"
+    }
+  ]
+}
