@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:06:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9036155506",
+  "records": [
+    {
+      "aadhar": "yuz2613297",
+      "address": "82/ Anjaneya Temple Street Lingashetty Pet Cubbonpet  Bangalore  Karnataka 560003~NO 82/ Anjaneya Temple Street Lingashetty Pet Cubbonpet bangalore bbmp   Bangalore Bangalore KARNATAKA 560002",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Subhas",
+      "name": "Bhavesh",
+      "num": "9036155506"
+    }
+  ]
+}
