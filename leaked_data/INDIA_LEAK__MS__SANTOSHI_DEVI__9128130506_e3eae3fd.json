@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:11:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9128130506",
+  "records": [
+    {
+      "aadhar": "408837698702",
+      "address": " W/O BULAT YADAV WARD 10  MAHUAWA  MAHUAWA WARD 10  MAHUAWA  MAHUAWA  bettiah WEST CHAMPARAN BETTIAH WEST CHAMPARAN 845450 BIHAR ",
+      "alt": "9708764236",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bulat Yadav ",
+      "name": " MS  SANTOSHI DEVI ",
+      "num": "9128130506"
+    },
+    {
+      "aadhar": "408837698702",
+      "address": " W/O BULAT YADAV WARD 10  MAHUAWA  MAHUAWA WARD 10  MAHUAWA  MAHUAWA  bettiah WEST CHAMPARAN BETTIAH WEST CHAMPARAN 845450 BIHAR ",
+      "alt": "9708764236",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Bulat Yadav ",
+      "name": " MS  SANTOSHI DEVI ",
+      "num": "9128130506"
+    }
+  ]
+}
