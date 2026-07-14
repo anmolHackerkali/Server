@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:04:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8860503590",
+  "records": [
+    {
+      "aadhar": "377077311212",
+      "address": "Shiv Pujan!HOUSE NO-K-100 A!Shakarpur!LAXMI NAGAR!Shakar Pur Baramad- -East Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "skbdk@gmail.com",
+      "fname": "Shiv Pujan",
+      "name": "Santosh Kumar",
+      "num": "8860503590"
+    },
+    {
+      "aadhar": "377077311212",
+      "address": "Shiv Pujan!HOUSE NO-K-100 A!Shakarpur!LAXMI NAGAR!Shakar Pur Baramad- -East Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "skbdk@gmail.com",
+      "fname": "Shiv Pujan",
+      "name": "SantoshKumar",
+      "num": "8860503590"
+    },
+    {
+      "aadhar": "377077311212",
+      "address": "Shiv Pujan!HOUSE NO-K-100 A!Shakarpur!LAXMI NAGAR!Shakar Pur Baramad- -East Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": "skbdk@gmail.com",
+      "fname": "Shiv Pujan",
+      "name": "SantoshKumar",
+      "num": "8860503590"
+    }
+  ]
+}
