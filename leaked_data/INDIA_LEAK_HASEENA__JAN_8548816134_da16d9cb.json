@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:58:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8548816134",
+  "records": [
+    {
+      "aadhar": "245047136280",
+      "address": "0 URDU SCHOOL STREET  Nallur  Nallur  davanagere Davangere Karnataka 577221",
+      "alt": "7019005054",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Noor  Ulla",
+      "name": "HASEENA  JAN",
+      "num": "8548816134"
+    },
+    {
+      "aadhar": "831401738624",
+      "address": "C/O Noorulla! 01!Fathima Masjid Street!!Nallur Channagiri Taluk!Nallur!Davangere!Karnataka!577221",
+      "alt": "8548816134",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Noorulla",
+      "name": "Nazneenbanu",
+      "num": "8550876008"
+    },
+    {
+      "aadhar": "603715117344",
+      "address": "! 01!urdu school street!!Nallur!nallur!davanagere!Karnataka!577221",
+      "alt": "8548816134",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Noorulla",
+      "name": "Asma Parveen",
+      "num": "7019461532"
+    }
+  ]
+}
