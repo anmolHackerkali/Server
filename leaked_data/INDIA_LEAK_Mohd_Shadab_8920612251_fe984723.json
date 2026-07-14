@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:46:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920612251",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Shahzab!!L-52/40 Gali No-4 Near Khajoli Masjid!Gautam Vihar!Garhi Mendu North East Delhi!Delhi!110053",
+      "alt": "919310786752",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHAHZAB",
+      "name": "Mohd Shadab",
+      "num": "8920612251"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Shahzab!!L-52/40Gali No-4Near Khajoli Masjid!Gautam Vihar!Garhi MenduNorth East Delhi!Delhi!110053",
+      "alt": "919310786752",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHAHZAB",
+      "name": "Mohd Shadab",
+      "num": "8920612251"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Shahzab!!L-52/40Gali No-4Near Khajoli Masjid!Gautam Vihar!Garhi MenduNorth East Delhi!Delhi!110053",
+      "alt": "919310786752",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "SHAHZAB",
+      "name": "Mohd Shadab",
+      "num": "8920612251"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam Vihar North East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O  Abdul Aleem",
+      "name": "Farhana  ",
+      "num": "9873493674"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam Vihar North East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O  Abdul Aleem",
+      "name": "Farhana  ",
+      "num": "9873439766"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam ViharNorth East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Abdul Aleem",
+      "name": "Farhana ",
+      "num": "9873493674"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam ViharNorth East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Abdul Aleem",
+      "name": "Farhana ",
+      "num": "9873439766"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam ViharNorth East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Abdul Aleem",
+      "name": "Farhana ",
+      "num": "9873493674"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Abdul Aleem!L-52/40 T/F Left side!gali no-7/4!Gautam ViharNorth East Delhi!!DELHI!North East Delhi!Delhi!110053",
+      "alt": "8920612251",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "C/O Abdul Aleem",
+      "name": "Farhana ",
+      "num": "9873439766"
+    }
+  ]
+}
