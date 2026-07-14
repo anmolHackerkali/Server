@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:37:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825039255",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "AT POST - SEDRANA  !TA - SIDDHPUR  !!SIDDHPUR!GUJARAT!384151",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": "JAYANTIBHAI.PRAJAPATI03@GMAIL.COM",
+      "fname": "PRAJAPATI",
+      "name": "MR JAYANTIBHAI KALUBHAI PRAJAPATI",
+      "num": "9825039255"
+    },
+    {
+      "aadhar": null,
+      "address": "AT POST - SEDRANA  !TA - SIDDHPUR  !!SIDDHPUR!GUJARAT!384151",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": "JAYANTIBHAI.PRAJAPATI03@GMAIL.COM",
+      "fname": "PRAJAPATI",
+      "name": "MR JAYANTIBHAI KALUBHAI PRAJAPATI",
+      "num": "9825039255"
+    },
+    {
+      "aadhar": " JTZ1689926 ",
+      "address": " ! AT POST - SEDRANA   ! TA - SIDDHPUR   ! rabari vas pase sedrana !  ! SIDDHPUR ! patan ! GUJARAT ! 384151",
+      "alt": "9825039255",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Kanjihhai Prajapati",
+      "name": "MR BIPINBHAI PRAJAPATI",
+      "num": "9825068578"
+    },
+    {
+      "aadhar": null,
+      "address": "AT POST - SEDRANA!TA- SIDDHPUR!DIST - PATAN!SIDDHPUR!GUJARAT!384151",
+      "alt": "9825039255",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "PRAJAPATI",
+      "name": "MR BIPINKUMAR KANJIBHAI PRAJAPATI",
+      "num": "9825588478"
+    },
+    {
+      "aadhar": "JTZ1689926",
+      "address": "!AT POST - SEDRANA  !TA - SIDDHPUR  !rabari vas pase sedrana!!SIDDHPUR!patan!GUJARAT!384151",
+      "alt": "9825039255",
+      "circle": "VI GUJARAT",
+      "email": "JAYANTIBHAI.PRAJAPATI03@GMAIL.COM",
+      "fname": "Kanjihhai Prajapati",
+      "name": "MR BIPINBHAI PRAJAPATI",
+      "num": "9825068578"
+    },
+    {
+      "aadhar": null,
+      "address": "AT POST - SEDRANA!TA- SIDDHPUR!DIST - PATAN!SIDDHPUR!GUJARAT!384151",
+      "alt": "9825039255",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "PRAJAPATI",
+      "name": "MR BIPINKUMAR KANJIBHAI PRAJAPATI",
+      "num": "9825588478"
+    },
+    {
+      "aadhar": "JTZ1689926",
+      "address": "!AT POST - SEDRANA  !TA - SIDDHPUR  !rabari vas pase sedrana!!SIDDHPUR!patan!GUJARAT!384151",
+      "alt": "9825039255",
+      "circle": "VI GUJARAT",
+      "email": "JAYANTIBHAI.PRAJAPATI03@GMAIL.COM",
+      "fname": "Kanjihhai Prajapati",
+      "name": "MR BIPINBHAI PRAJAPATI",
+      "num": "9825068578"
+    }
+  ]
+}
