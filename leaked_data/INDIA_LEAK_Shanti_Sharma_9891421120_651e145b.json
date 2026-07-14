@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:54:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9891421120",
+  "records": [
+    {
+      "aadhar": "402651890670",
+      "address": "W/O Mahesh Kumar Sharma!!c-2/20vinod puri!NA!c-2/20vinod puri!Vijay Enclave South West Delhi!NA!Delhi!110045",
+      "alt": "8384035993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar Sharma",
+      "name": "Shanti Sharma",
+      "num": "9891421120"
+    },
+    {
+      "aadhar": "402651890670",
+      "address": "W/O Mahesh Kumar Sharma!!c-2/20vinod puri!NA!c-2/20vinod puri!Vijay EnclaveSouth West Delhi!NA!Delhi!110045",
+      "alt": "8384035993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar Sharma",
+      "name": "Shanti Sharma",
+      "num": "9891421120"
+    },
+    {
+      "aadhar": "402651890670",
+      "address": "W/O Mahesh Kumar Sharma!!c-2/20vinod puri!NA!c-2/20vinod puri!Vijay EnclaveSouth West Delhi!NA!Delhi!110045",
+      "alt": "8384035993",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mahesh Kumar Sharma",
+      "name": "Shanti Sharma",
+      "num": "9891421120"
+    }
+  ]
+}
