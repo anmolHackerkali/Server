@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:46:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9945300058",
+  "records": [
+    {
+      "aadhar": "450110734450",
+      "address": "s/o a s venkata rathnam! 321!Ammavarpete Kolar!opp.vegitable market!ammavarpete opp.vegitable market!kolar!kolar!Karnataka!563101",
+      "alt": "7975976052",
+      "circle": "KARNATAKA JIO ",
+      "email": null,
+      "fname": "a s venkata",
+      "name": "A V Rajesh",
+      "num": "9945300058"
+    },
+    {
+      "aadhar": "260033054838",
+      "address": "W/O A V Rajesh!!#15/A 6th Cross J P Nagar!NA!Vinayaka Nagar J P Nagar 5th Phase!Bangalore South Bangalore!NA!Karnataka!560078",
+      "alt": "9945300058",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "A V Rajesh",
+      "name": "Swathi N",
+      "num": "7676574066"
+    }
+  ]
+}
