@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:54:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9339460194",
+  "records": [
+    {
+      "aadhar": "NRZ2215978",
+      "address": "!!konarpur!!kotulpur bankura!Bankura!Bankura!West Bengal!722161",
+      "alt": "9327585832",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "mohan Bhangi",
+      "name": "Pradip bhangi",
+      "num": "9339460194"
+    },
+    {
+      "aadhar": "NRZ2215978",
+      "address": "!!konarpur!!kotulpur bankura!Bankura!Bankura!West Bengal!722161",
+      "alt": "9327585832",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "mohan Bhangi",
+      "name": "Pradip bhangi",
+      "num": "9339460194"
+    }
+  ]
+}
