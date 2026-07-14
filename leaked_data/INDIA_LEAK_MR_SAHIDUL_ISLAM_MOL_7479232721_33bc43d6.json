@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:53:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7479232721",
+  "records": [
+    {
+      "aadhar": "706578765834",
+      "address": "!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!Gotra  Basirhat NORTH 24 PARGANAS!NORTH 24 PARGANAS!NORTH 24 PARGANAS!West Bengal!",
+      "alt": "9735641955",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Babujan Molla",
+      "name": "MR SAHIDUL ISLAM MOLLA",
+      "num": "7479232721"
+    },
+    {
+      "aadhar": "706578765834",
+      "address": "!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!GHONA  GOTRA  NORTH 24 PARGANAS  GOTRA!Gotra  Basirhat NORTH 24 PARGANAS!NORTH 24 PARGANAS!NORTH 24 PARGANAS!West Bengal!",
+      "alt": "9735641955",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Babujan Molla",
+      "name": "MR SAHIDUL ISLAM MOLLA",
+      "num": "7479232721"
+    }
+  ]
+}
