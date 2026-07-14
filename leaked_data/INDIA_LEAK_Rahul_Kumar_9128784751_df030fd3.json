@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:22:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9128784751",
+  "records": [
+    {
+      "aadhar": "358861633168",
+      "address": "S/O haribansh ojha! dhodhwaliya!Jogapatti!!!Dhonrhwalia Jogapatti!West Champaran!Bihar!845452",
+      "alt": "8826258565",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "haribansh ojha",
+      "name": "Rahul Kumar",
+      "num": "9128784751"
+    },
+    {
+      "aadhar": "358861633168",
+      "address": "S/O haribansh ojha! dhodhwaliya!Jogapatti!!!Dhonrhwalia Jogapatti!West Champaran!Bihar!845452",
+      "alt": "8826258565",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "haribansh ojha",
+      "name": "Rahul Kumar",
+      "num": "9128784751"
+    },
+    {
+      "aadhar": "358861633168",
+      "address": "S/O haribansh ojha! dhodhwaliya!Jogapatti!!!Dhonrhwalia Jogapatti!West Champaran!Bihar!845452",
+      "alt": "8826258565",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "haribansh ojha",
+      "name": "Rahul Kumar",
+      "num": "9128784751"
+    }
+  ]
+}
