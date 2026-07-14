@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:35:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6355532500",
+  "records": [
+    {
+      "aadhar": "968802354428",
+      "address": "!!Nandana!!nandana!nandana Jamjodhpur!jamnagar!Gujarat!360520",
+      "alt": "6354613595",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "sajanbhai",
+      "name": "Karangiya Hardikbhai Sajanbhai",
+      "num": "6355532500"
+    },
+    {
+      "aadhar": "968802354428",
+      "address": "!!Nandana!!nandana!nandana Jamjodhpur!jamnagar!Gujarat!360520",
+      "alt": "6354613595",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "sajanbhai",
+      "name": "Karangiya Hardikbhai Sajanbhai",
+      "num": "6355532500"
+    },
+    {
+      "aadhar": "968802354428",
+      "address": "!!Nandana!!nandana!nandana Jamjodhpur!jamnagar!Gujarat!360520",
+      "alt": "6354613595",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "sajanbhai",
+      "name": "Karangiya Hardikbhai Sajanbhai",
+      "num": "6355532500"
+    }
+  ]
+}
