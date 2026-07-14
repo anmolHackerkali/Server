@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:23:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8603778361",
+  "records": [
+    {
+      "aadhar": "321554655109",
+      "address": "S/O SUBHASH KUMAR!ROAD GOSAI BAGH !ROAD GOSAI BAGH  TELIK BHAWAN  POST - H  P  O TELIK BHAWAN  POST - H  P  O!TELIK BHAWAN  POST - H  P  O!GAYA po h p o GAYA!GAYA!GAYA!BIHAR!823001",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Subhash Kumar",
+      "name": "MR  ADITYA KUMAR SETH",
+      "num": "8603778361"
+    },
+    {
+      "aadhar": "321554655109",
+      "address": "S/O SUBHASH KUMAR!ROAD GOSAI BAGH !ROAD GOSAI BAGH  TELIK BHAWAN  POST - H  P  O TELIK BHAWAN  POST - H  P  O!TELIK BHAWAN  POST - H  P  O!GAYA po h p o GAYA!GAYA!GAYA!BIHAR!823001",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Subhash Kumar",
+      "name": "MR  ADITYA KUMAR SETH",
+      "num": "8603778361"
+    }
+  ]
+}
