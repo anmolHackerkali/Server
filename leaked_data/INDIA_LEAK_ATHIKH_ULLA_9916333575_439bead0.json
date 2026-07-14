@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:54:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9916333575",
+  "records": [
+    {
+      "aadhar": "IMN1542794",
+      "address": "ATHIKULLA!DN 78 1!SASIVEHALI!DAVANGERE!KARNATAKA!570002",
+      "alt": "9916333575",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "MUZEEBULLA",
+      "name": "ATHIKH ULLA",
+      "num": "9916333575"
+    },
+    {
+      "aadhar": "IMN1542794",
+      "address": "ATHIKULLA!DN 78 1!SASIVEHALI!DAVANGERE!KARNATAKA!570002",
+      "alt": "9916333575",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "MUZEEBULLA",
+      "name": "ATHIKH ULLA",
+      "num": "9916333575"
+    }
+  ]
+}
