@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:12:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8757065055",
+  "records": [
+    {
+      "aadhar": "874382016031",
+      "address": "S/O Ashok Prasad Sinha!opp central gurudwara!!bank more dhanbad Dhanbad!!Dhanbad Dhanbad Nirsa cum chirkunda!Jharkhand!826001",
+      "alt": "9934357859",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ashok Prasad Sinha",
+      "name": "Rajesh Kumar Sinha",
+      "num": "8757065055"
+    },
+    {
+      "aadhar": "874382016031",
+      "address": "S/O Ashok Prasad Sinha!opp central gurudwara!!bank more dhanbad Dhanbad!!Dhanbad Dhanbad Nirsa cum chirkunda!Jharkhand!826001",
+      "alt": "9934357859",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ashok Prasad Sinha",
+      "name": "Rajesh Kumar Sinha",
+      "num": "8757065055"
+    }
+  ]
+}
