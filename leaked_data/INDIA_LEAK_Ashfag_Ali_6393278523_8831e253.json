@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:56:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393278523",
+  "records": [
+    {
+      "aadhar": "570259654442",
+      "address": "S/O Fida Rasool!!Diguria!479/15ka!karbala nasiruddin shah daliganj!Allu Nagar Diguria!Lucknow!Uttar Pradesh!226020",
+      "alt": "8881110447",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Fida Rasool",
+      "name": "Ashfag Ali",
+      "num": "6393278523"
+    },
+    {
+      "aadhar": "570259654442",
+      "address": "S/O Fida Rasool!!Diguria!479/15ka!karbala nasiruddin shah daliganj!Allu Nagar Diguria!Lucknow!Uttar Pradesh!226020",
+      "alt": "8881110447",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Fida Rasool",
+      "name": "Ashfag Ali",
+      "num": "6393278523"
+    }
+  ]
+}
