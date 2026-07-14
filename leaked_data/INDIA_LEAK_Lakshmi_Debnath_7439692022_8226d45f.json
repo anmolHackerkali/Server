@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:23:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7439692022",
+  "records": [
+    {
+      "aadhar": "921748446952",
+      "address": " c/o  mona debnath!C/O MONA DEBNATH  123/13!MULAJORE ROAD!!JAGATDAL BHATPARA M!bhatpara m!north 24 parganas!West Bengal!743125 ",
+      "alt": "8100278929",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MONA DEBNATH",
+      "name": "Lakshmi Debnath",
+      "num": "7439692022"
+    },
+    {
+      "aadhar": "921748446952",
+      "address": " c/o  mona debnath!C/O MONA DEBNATH  123/13!MULAJORE ROAD!!JAGATDAL BHATPARA M!bhatpara m!north 24 parganas!West Bengal!743125 ",
+      "alt": "8100278929",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MONA DEBNATH",
+      "name": "Lakshmi Debnath",
+      "num": "7439692022"
+    },
+    {
+      "aadhar": "921748446952",
+      "address": " c/o  mona debnath!C/O MONA DEBNATH  123/13!MULAJORE ROAD!!JAGATDAL BHATPARA M!bhatpara m!north 24 parganas!West Bengal!743125 ",
+      "alt": "7439692022",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MONA DEBNATH",
+      "name": "Lakshmi Debnath",
+      "num": "8100492453"
+    },
+    {
+      "aadhar": "921748446952",
+      "address": " c/o  mona debnath!C/O MONA DEBNATH  123/13!MULAJORE ROAD!!JAGATDAL BHATPARA M!bhatpara m!north 24 parganas!West Bengal!743125 ",
+      "alt": "7439692022",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "MONA DEBNATH",
+      "name": "Lakshmi Debnath",
+      "num": "8100492453"
+    }
+  ]
+}
