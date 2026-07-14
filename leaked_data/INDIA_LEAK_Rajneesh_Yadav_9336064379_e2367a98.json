@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:07:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336064379",
+  "records": [
+    {
+      "aadhar": "913074055668",
+      "address": "s/o  rajesh kumar yadav!!Jaunpur!ishapur!ishapur sadar jaunpur!jaunpur Mariahu!jaunpur!Uttar Pradesh!222001",
+      "alt": "7007356637",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar yadav",
+      "name": "Rajneesh Yadav",
+      "num": "9336064379"
+    },
+    {
+      "aadhar": "913074055668",
+      "address": "s/o  rajesh kumar yadav!!Jaunpur!ishapur!ishapur sadar jaunpur!jaunpur Mariahu!jaunpur!Uttar Pradesh!222001",
+      "alt": "7007356637",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "rajesh kumar yadav",
+      "name": "Rajneesh Yadav",
+      "num": "9336064379"
+    },
+    {
+      "aadhar": "734701022378",
+      "address": "! C24/7 kabirchaura varanasi!kabirchaura!kabirchaura!kabirchaura!Varanasi!Varanasi!Uttar Pradesh!221001",
+      "alt": "9336064379",
+      "circle": "JIO UPE",
+      "email": "esft@gmail.com",
+      "fname": "krishna kumar singh",
+      "name": "kiran devi",
+      "num": "6390372727"
+    },
+    {
+      "aadhar": "734701022378",
+      "address": "! C24/7 kabirchaura varanasi!kabirchaura!kabirchaura!kabirchaura!Varanasi!Varanasi!Uttar Pradesh!221001",
+      "alt": "9336064379",
+      "circle": "JIO UPE",
+      "email": "esft@gmail.com",
+      "fname": "krishna kumar singh",
+      "name": "kiran devi",
+      "num": "6390372727"
+    }
+  ]
+}
