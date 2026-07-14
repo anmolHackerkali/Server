@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:45:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8860059213",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8728",
+      "address": "W/O Sanjay Agarwal! Tower-5  Flat-603 Uni World Garden !Sohna Road! Sector-47 Islampur 97 Subhash Chowk !GurgaonGurgaon!Haryana!122018",
+      "alt": "9811113438",
+      "circle": "AIRTEL DELHI",
+      "email": "evolze.gurgaon@gmail.com",
+      "fname": "Sanjay  Agarwal",
+      "name": "Nisha  Agarwal",
+      "num": "8860059213"
+    },
+    {
+      "aadhar": "xxxxxxxx8728",
+      "address": "W/O Sanjay Agarwal!Tower-5 Flat-603Uni World Garden!Sohna Road!!Sector-47Islampur 97 Subhash Chowk!Gurgaon!!Haryana!122018",
+      "alt": "9811113438",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sanjay  Agarwal",
+      "name": "Nisha  Agarwal",
+      "num": "8860059213"
+    },
+    {
+      "aadhar": "xxxxxxxx8728",
+      "address": "W/O Sanjay Agarwal!Tower-5 Flat-603Uni World Garden!Sohna Road!Sector-47Islampur 97 Subhash Chowk!GurgaonGurgaon!Haryana!122018",
+      "alt": "9811113438",
+      "circle": "AIRTEL DELHI",
+      "email": "evolze.gurgaon@gmail.com",
+      "fname": "Sanjay  Agarwal",
+      "name": "Nisha  Agarwal",
+      "num": "8860059213"
+    },
+    {
+      "aadhar": "xxxxxxxx8728",
+      "address": "W/O Sanjay Agarwal!Tower-5 Flat-603Uni World Garden!Sohna Road!Sector-47Islampur 97 Subhash Chowk!GurgaonGurgaon!Haryana!122018",
+      "alt": "9811113438",
+      "circle": "AIRTEL DELHI",
+      "email": "evolze.gurgaon@gmail.com",
+      "fname": "Sanjay  Agarwal",
+      "name": "Nisha  Agarwal",
+      "num": "8860059213"
+    }
+  ]
+}
