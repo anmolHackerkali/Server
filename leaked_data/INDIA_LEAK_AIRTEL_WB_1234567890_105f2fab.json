@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:35:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "1234567890",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Prasanta  Chakraborty",
+      "alt": "Manindra Chandra Chakraborty",
+      "circle": "52/5 Central Road  Bhatpara M  Shyamnagar North 24\n Parganas West Bengal 743127",
+      "email": null,
+      "fname": "355624795960\"9883488744",
+      "name": "AIRTEL WB",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "7631910236",
+      "address": "Mahendra  Sah",
+      "alt": "Late Saryug Sah",
+      "circle": "15 mohini mohan road  j bazar bhowanipur  kolkata   Kolk\nata West Bengal 700020",
+      "email": null,
+      "fname": " \"9874596931",
+      "name": "VODAFONE KOLKATA",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "BAIDYANATH MURMMU",
+      "alt": null,
+      "circle": "PASCHIM NARAYANPUR J L NO 21!BAHIRKHAND HARIPAL!!HOOGHLY!WEST BENGAL!712405",
+      "email": null,
+      "fname": "9735148609",
+      "name": "VODAFONE  KOLKATA R",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "7980639530",
+      "address": "LAXMI JAISWAL",
+      "alt": "RAJESH JAISWAL",
+      "circle": "36B!SIMLA ROAD!NA!KOLKATA!West Bengal!700006",
+      "email": null,
+      "fname": " \"9874030614",
+      "name": "VODAFONE KOLKATA",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "7359969771",
+      "address": "badrilal",
+      "alt": "koda",
+      "circle": "!35!35 dhank!NA!upleta!Gondal Rajkot!NA!Gujarat!360460",
+      "email": null,
+      "fname": "6352044791",
+      "name": "VI GUJARAT",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "Biswajit Pramanik",
+      "alt": "Krishna pada pramanik",
+      "circle": " !!Baruipur!Salepur east Praman\nikpara!Salipur P-Baruipur-South 24 Pargana\ns!West Bengal!700144 ",
+      "email": null,
+      "fname": "321090065551\"9874568372",
+      "name": "VODAFONE KOLKATA",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "RITA GHOSH",
+      "alt": "Nitai Das",
+      "circle": " ! !     City/District  North 24 Parganas State West Bengal!SHAKTIGARH!NORTH 24 PARGANAS!West Bengal!743235 ",
+      "email": null,
+      "fname": "977560\n3833",
+      "name": "VODAFONE  KOLKATA R",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "Rajput Dipakbhai Fulaji",
+      "alt": "Dipakbhai",
+      "circle": "  B/303 Parshvanath Appartment Main Road Amroli Amroli Amroli Surat\n City Surat Gujarat 394107",
+      "email": null,
+      "fname": "6352198382",
+      "name": "VI GUJARAT",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "9831320203",
+      "address": "Paromita  Dutta",
+      "alt": "pradip kumar dutta",
+      "circle": "35 DUTTAPARA LANE Uttarpara Kotrung M Bhadrakali Serampur Uttarpara   Hooghly West B\nengal 712232",
+      "email": null,
+      "fname": "535597627248\"9831320203",
+      "name": "AIRTEL WB",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "Nitai Chandra Nandi",
+      "alt": "Mahadeb  Nandi",
+      "circle": "Gourhati     Hooghly West Bengal 7126\n13",
+      "email": null,
+      "fname": "9749122926",
+      "name": "VODAFONE  KOLKATA R",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "8240699729",
+      "address": "MS  MALA DHARA",
+      "alt": "Goutam DHARA",
+      "circle": " W/O GOUTAM DHARA!111!NARAYAN PALLI School!School!Howrah HOWRAH!HOWRAH!HOWRAH!West Bengal!711104 ",
+      "email": null,
+      "fname": "9836420064",
+      "name": "AIRTEL POSTPAID WB",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "BEBI PARAMANIK     ",
+      "alt": "W/O RAMKRISHNA PARAMANIK",
+      "circle": "Gopalnagar East Gopalnagar Purbapara singur Singur Hooghly WEST BENGAL 7\n12409",
+      "email": null,
+      "fname": "563533626040\"9804948212",
+      "name": "AIRTEL WB",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": "9038568627",
+      "address": "Snigdha Pal",
+      "alt": "Mondal",
+      "circle": "!28 THAKUR PARA ROAD!Naihati!!Naihati M-North 24 Paraganas-North 24 Parganas!West Bengal!743165",
+      "email": null,
+      "fname": " \"9874610294",
+      "name": "VODAFONE KOLKATA",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "Sambhu Nath Das",
+      "alt": "Shyama Pada Das",
+      "circle": "Shyama Pada Das!24-B!LA\nTA FATH HOSSAIN LANE NEAR ORIA BAGAN!BELEGHATA!K G Bose Sarani S O- -Kolkata!West Bengal!700085",
+      "email": null,
+      "fname": "496545433124\"9830636913",
+      "name": "VODAFONE KOLKATA",
+      "num": "1234567890"
+    },
+    {
+      "aadhar": null,
+      "address": "AMAR SARKAR",
+      "alt": "Susil Sarkar",
+      "circle": "!!RAJGANJ Rajganj!SAKIRAJOT!Majhiali- -Jalpaiguri!West Bengal!735134",
+      "email": null,
+      "fname": "9749880032",
+      "name": "VODAFONE  KOLKATA R",
+      "num": "1234567890"
+    }
+  ]
+}
