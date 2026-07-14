@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:08:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9466509646",
+  "records": [
+    {
+      "aadhar": "840070442066",
+      "address": "GRAM HARASOULA HARSOLA MANDIR KAITHAL KAITHAL KURUKSHETRA HARYANA 136027",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KULDEEP",
+      "name": "GOURAV DHULL",
+      "num": "9466509646"
+    },
+    {
+      "aadhar": "840070442066",
+      "address": "S/O KULDEEP!GRAM HARASOULA!HARSOLA!MANDIR!KAITHAL!KAITHAL!KURUKSHETRA!HARYANA!136027",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KULDEEP",
+      "name": "GOURAV DHULL",
+      "num": "9466509646"
+    },
+    {
+      "aadhar": "840070442066",
+      "address": "S/O: Kuldeep 35 harsola karnal roadgram harasoula gram harasoula kaithalKAITHAL GUHLA KAITHAL HARYANA 136027",
+      "alt": "9466509646",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Kuldeep",
+      "name": "MR  GOURAV DHULL",
+      "num": "9992249508"
+    },
+    {
+      "aadhar": "840070442066",
+      "address": "S/O: Kuldeep 156 house no village harsolakaithal kaithal Gram - HarasoulaKAITHAL GUHLA KAITHAL HARYANA 136027",
+      "alt": "9466509646",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Kuldeep",
+      "name": "MR  GOURAV DHULL",
+      "num": "9053382584"
+    },
+    {
+      "aadhar": "840070442066",
+      "address": "S/O: Kuldeep 35 harsola karnal roadgram harasoula gram harasoula kaithalKAITHAL GUHLA KAITHAL HARYANA 136027",
+      "alt": "9466509646",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Kuldeep",
+      "name": "MR  GOURAV DHULL",
+      "num": "9992249508"
+    }
+  ]
+}
