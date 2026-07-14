@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:56:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7078591063",
+  "records": [
+    {
+      "aadhar": "692869472252",
+      "address": " !3a/304!Krishna vihar colony phase-2  Mathura!Krishna vihar colony phase-2  Mathura!Mathura!Uttar Pradesh!281001 ",
+      "alt": "9759779295",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ramveer  Singh ",
+      "name": " Narendra  Singh ",
+      "num": "7078591063"
+    },
+    {
+      "aadhar": "692869472252",
+      "address": " !3a/304!Krishna vihar colony phase-2  Mathura!Krishna vihar colony phase-2  Mathura!Mathura!Uttar Pradesh!281001 ",
+      "alt": "9759779295",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Ramveer  Singh ",
+      "name": " Narendra  Singh ",
+      "num": "7078591063"
+    }
+  ]
+}
