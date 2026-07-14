@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:49:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9924133085",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S O: SHANKARRAO BAPURAO UGLE  C 27 KOTIYARKNAGAR SOCIETY  WADI PADRA NR SHASTRIBAUG VADODARA GUJARAT 390017 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " Sanjay Shankarrao Ugle ",
+      "num": "9924133085"
+    },
+    {
+      "aadhar": "481479836715",
+      "address": "!S O: SHANKARRAO BAPURAO UGLE  C 27!KOTIYARKNAGAR SOCIETY  WADI PADRA!NR.SHASTRIBAUG!VADODARA!GUJARAT!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": "SANJAY_UGALE67@YAHOO.COM",
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9924133085"
+    },
+    {
+      "aadhar": null,
+      "address": " S O: SHANKARRAO BAPURAO UGLE  C 27 KOTIYARKNAGAR SOCIETY  WADI PADRA NR SHASTRIBAUG VADODARA GUJARAT 390017 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " Sanjay Shankarrao Ugle ",
+      "num": "9924133085"
+    },
+    {
+      "aadhar": "481479836715",
+      "address": "!S O: SHANKARRAO BAPURAO UGLE  C 27!KOTIYARKNAGAR SOCIETY  WADI PADRA!NR.SHASTRIBAUG!VADODARA!GUJARAT!390017",
+      "alt": "7016085676",
+      "circle": "VI GUJARAT",
+      "email": "SANJAY_UGALE67@YAHOO.COM",
+      "fname": "Shankarrao Bapurao Ugle",
+      "name": "Sanjay Shankarrao Ugle",
+      "num": "9924133085"
+    }
+  ]
+}
