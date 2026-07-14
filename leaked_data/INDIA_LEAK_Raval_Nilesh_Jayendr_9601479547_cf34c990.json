@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:41:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9601479547",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Raval Jayendrakumar 00 gandhi chali   Harij (Town)",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Raval Jayendrakumar",
+      "name": "Raval Nilesh Jayendrakumar",
+      "num": "9601479547"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Raval Jayendrakumar 00 gandhi chali   Harij (Town)",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Raval Jayendrakumar",
+      "name": "Raval Nilesh Jayendrakumar",
+      "num": "9601479547"
+    }
+  ]
+}
