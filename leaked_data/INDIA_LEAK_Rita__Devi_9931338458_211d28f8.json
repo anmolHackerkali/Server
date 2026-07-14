@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:04:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931338458",
+  "records": [
+    {
+      "aadhar": "218966186914",
+      "address": "W/O Devendra Sah!gram-bakhari barai Bakhri Subain!!!!Vaishali!Bihar!844504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Devendra  Sah",
+      "name": "Rita  Devi",
+      "num": "9931338458"
+    },
+    {
+      "aadhar": "218966186914",
+      "address": "W/O Devendra Sah!gram-bakhari barai Bakhri Subain!!!!Vaishali!Bihar!844504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Devendra  Sah",
+      "name": "Rita  Devi",
+      "num": "9931338458"
+    }
+  ]
+}
