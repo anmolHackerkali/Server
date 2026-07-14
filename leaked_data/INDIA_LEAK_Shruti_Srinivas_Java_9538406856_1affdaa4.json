@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:31:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9538406856",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Srinivas Javali!Flat No 5 Charanthimath Residency!!Near City High School!Vijayanagar  !Hubli!Dharwad!Karnataka!580032",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Srinivas Javali",
+      "name": "Shruti Srinivas Javali",
+      "num": "9538406856"
+    },
+    {
+      "aadhar": "xxxxxxxx5756",
+      "address": "Srinivas Javali!Flat No 5 Charanthimath Residency!Vijayanagar    City/District  Dharwad State Karnataka!Near City High School!DHARWAD!Karnataka!580032",
+      "alt": null,
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "anilkumar",
+      "name": "Shruti Srinivas Javali",
+      "num": "9538406856"
+    }
+  ]
+}
