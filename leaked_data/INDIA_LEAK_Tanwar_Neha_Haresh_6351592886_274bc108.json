@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:22:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6351592886",
+  "records": [
+    {
+      "aadhar": "427071700106",
+      "address": "! 15!ward 9 ag!Bharat Nagar!gandhidham!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9979917288",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "haresh tanwar",
+      "name": "Tanwar Neha Haresh",
+      "num": "6351592886"
+    },
+    {
+      "aadhar": "427071700106",
+      "address": "! 15!ward 9 ag!Bharat Nagar!gandhidham!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9979917288",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "haresh tanwar",
+      "name": "Tanwar Neha Haresh",
+      "num": "6351592886"
+    },
+    {
+      "aadhar": "427071700106",
+      "address": "! 15!ward 9 ag!Bharat Nagar!gandhidham!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9979917288",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "haresh tanwar",
+      "name": "Tanwar Neha Haresh",
+      "num": "6351592886"
+    }
+  ]
+}
