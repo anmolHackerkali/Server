@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:17:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310124957",
+  "records": [
+    {
+      "aadhar": "290683386431",
+      "address": "s/o aman kumar! house no r 45!gali no 15 b!!swatantar Nagar NARELA DELHI!swatantar nagar narela!north west  delhi!Delhi!110040",
+      "alt": "9810298463",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "aman kumar",
+      "name": "Tajender Swami",
+      "num": "9310124957"
+    },
+    {
+      "aadhar": "290683386431",
+      "address": "s/o aman kumar!house no r 45!gali no 15 b!!swatantar Nagar NARELA DELHI!swatantar nagar narela!north west  delhi!Delhi!110040",
+      "alt": "9810298463",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "aman kumar",
+      "name": "Tajender Swami",
+      "num": "9310124957"
+    },
+    {
+      "aadhar": "290683386431",
+      "address": "s/o aman kumar!house no r 45!gali no 15 b!!swatantar Nagar NARELA DELHI!swatantar nagar narela!north west  delhi!Delhi!110040",
+      "alt": "9810298463",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "aman kumar",
+      "name": "Tajender Swami",
+      "num": "9310124957"
+    }
+  ]
+}
