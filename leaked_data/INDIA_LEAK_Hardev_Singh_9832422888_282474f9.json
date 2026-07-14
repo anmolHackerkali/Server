@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 16:38:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9832422888",
+  "records": [
+    {
+      "aadhar": "889965978195",
+      "address": "!!PRASHANTI MARG GURUNANAK SARANI HAIDER PARA Siliguri!WARD NO 40!Siliguri mcorp Rajganj Jalpaiguri!West Bengal!734001",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "harbhajan singh",
+      "name": "Hardev Singh",
+      "num": "9832422888"
+    },
+    {
+      "aadhar": "889965978195",
+      "address": "!!PRASHANTI MARG GURUNANAK SARANI HAIDER PARA Siliguri!WARD NO 40!Siliguri mcorp Rajganj Jalpaiguri!West Bengal!734001",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "harbhajan singh",
+      "name": "Hardev Singh",
+      "num": "9832422888"
+    }
+  ]
+}
