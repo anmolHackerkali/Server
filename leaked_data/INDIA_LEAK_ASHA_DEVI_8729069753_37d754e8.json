@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:00:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8729069753",
+  "records": [
+    {
+      "aadhar": "528003149710",
+      "address": "W/O Manoj Kumar!W/O Manoj Kumar H-4/1502!VILL TUNG PAI ABADI JUDGE NAGAR!I/S GALI NO 3!AMRITSAR -I-AMRITSAR!PB!143001",
+      "alt": "9876750457",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "MANOJ KUMAR",
+      "name": "ASHA DEVI",
+      "num": "8729069753"
+    }
+  ]
+}
