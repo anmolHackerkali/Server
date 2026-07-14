@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:37:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7895425866",
+  "records": [
+    {
+      "aadhar": "419039403584",
+      "address": "S/O D D Shastri!STREET N0-05!! SHASTRI NAGAR nehrugram!Dehradun Nehrugram!Uttarakhand!248005",
+      "alt": "9557682698",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "D D Shastri",
+      "name": "Padmender Dabral",
+      "num": "7895425866"
+    },
+    {
+      "aadhar": "419039403584",
+      "address": "S/O D D Shastri!STREET N0-05!! SHASTRI NAGAR nehrugram!Dehradun Nehrugram!Uttarakhand!248005",
+      "alt": "9557682698",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "D D Shastri",
+      "name": "Padmender Dabral",
+      "num": "7895425866"
+    }
+  ]
+}
