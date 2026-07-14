@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:28:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569874085",
+  "records": [
+    {
+      "aadhar": "431583433221",
+      "address": "FAIZAN!79!hanswer!hanswer!HARSAMHAR AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224143",
+      "alt": "6390215129",
+      "circle": "UPE",
+      "email": null,
+      "fname": "FAIZAN ALI",
+      "name": "MR ABDUL MAJEED",
+      "num": "9569874085"
+    },
+    {
+      "aadhar": "431583433221",
+      "address": "FAIZAN!79!hanswer!hanswer!HARSAMHAR AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224143",
+      "alt": "6390215129",
+      "circle": "UPE",
+      "email": null,
+      "fname": "FAIZAN ALI",
+      "name": "MR ABDUL MAJEED",
+      "num": "9569874085"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Moti Lal!.!.!Narayanpur Pritampur Post Rasoolpur Mundera!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Moti Lal",
+      "name": "Radhe Shyam",
+      "num": "8295585612"
+    },
+    {
+      "aadhar": "528180857876",
+      "address": "!NARAYANPUR!NARAYANPUR PREETAMPUR!PREETAMPUR!PRETAMPUR AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohd Azam",
+      "name": "MR MOHD ANAS",
+      "num": "7239015179"
+    },
+    {
+      "aadhar": "472402603375",
+      "address": "S/O Satya Prakash Tiwari! 00!Shiva ji nagar.tendua mafi!!shiva ji nagar tendua mafi Bikapur!Bikapur!Faizabad!Uttar Pradesh!224204",
+      "alt": "9569874085",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Satya Prakash Tiwari",
+      "name": "Sonu Tiwari",
+      "num": "7007486509"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd Abubkar!08!.!Aribpur Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Mohd Abubkar",
+      "name": "Mohd Ammar",
+      "num": "6389680690"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Moti Lal!.!.!Narayanpur Pritampur Post Rasoolpur Mundera!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Moti Lal",
+      "name": "Radhe Shyam",
+      "num": "8295585612"
+    },
+    {
+      "aadhar": "528180857876",
+      "address": "!NARAYANPUR!NARAYANPUR PREETAMPUR!PREETAMPUR!PRETAMPUR AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohd Azam",
+      "name": "MR MOHD ANAS",
+      "num": "7239015179"
+    },
+    {
+      "aadhar": "472402603375",
+      "address": "S/O Satya Prakash Tiwari! 00!Shiva ji nagar.tendua mafi!!shiva ji nagar tendua mafi Bikapur!Bikapur!Faizabad!Uttar Pradesh!224204",
+      "alt": "9569874085",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Satya Prakash Tiwari",
+      "name": "Sonu Tiwari",
+      "num": "7007486509"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd Abubkar!08!.!Aribpur Ambedkar Nagar!!Ambedkar Nagar!UTTAR PRADESH!224143",
+      "alt": "9569874085",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Mohd Abubkar",
+      "name": "Mohd Ammar",
+      "num": "6389680690"
+    }
+  ]
+}
