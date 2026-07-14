@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:06:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8873533641",
+  "records": [
+    {
+      "aadhar": "577761071651",
+      "address": "s/o  mustikam miyan! ward no 2!Kurwa Mathia!ward no 2!patakhauli kurwa mathia kurwa mathia!chanpatia Chanpatia!west champaran!Bihar!845450",
+      "alt": "6283162560",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "mustikam miyan",
+      "name": "Shakil Ahamd",
+      "num": "8873533641"
+    },
+    {
+      "aadhar": "577761071651",
+      "address": "s/o  mustikam miyan! ward no 2!Kurwa Mathia!ward no 2!patakhauli kurwa mathia kurwa mathia!chanpatia Chanpatia!west champaran!Bihar!845450",
+      "alt": "6283162560",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mustikam miyan",
+      "name": "Shakil Ahamd",
+      "num": "8873533641"
+    },
+    {
+      "aadhar": "577761071651",
+      "address": "s/o  mustikam miyan! ward no 2!Kurwa Mathia!ward no 2!patakhauli kurwa mathia kurwa mathia!chanpatia Chanpatia!west champaran!Bihar!845450",
+      "alt": "6283162560",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mustikam miyan",
+      "name": "Shakil Ahamd",
+      "num": "8873533641"
+    }
+  ]
+}
