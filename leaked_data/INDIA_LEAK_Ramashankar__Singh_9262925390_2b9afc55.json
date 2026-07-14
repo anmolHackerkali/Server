@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:25:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9262925390",
+  "records": [
+    {
+      "aadhar": "994754957964",
+      "address": "S/O Maniram Singh!village machhaha Bhasar Machhaha!!!!Sitamarhi B machacha Dumra!Bihar!843314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Maniram  Singh",
+      "name": "Ramashankar  Singh",
+      "num": "9262925390"
+    },
+    {
+      "aadhar": "994754957964",
+      "address": "S/O Maniram Singh!village machhaha Bhasar Machhaha!!!!Sitamarhi B machacha Dumra!Bihar!843314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Maniram  Singh",
+      "name": "Ramashankar  Singh",
+      "num": "9262925390"
+    }
+  ]
+}
