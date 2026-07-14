@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:25:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388017689",
+  "records": [
+    {
+      "aadhar": "469573914607",
+      "address": "S/O: Subash Chandra!kuriyar!kuriyar!kuriyar Kuriyar Khas!Basti!Uttar Pradesh!272170",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Subash Chandra",
+      "name": "Sujeet Chaudhary",
+      "num": "7388017689"
+    },
+    {
+      "aadhar": "469573914607",
+      "address": "S/O: Subash Chandra!kuriyar!kuriyar!kuriyar Kuriyar Khas!Basti!Uttar Pradesh!272170",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Subash Chandra",
+      "name": "Sujeet Chaudhary",
+      "num": "7388017689"
+    },
+    {
+      "aadhar": "469573914607",
+      "address": "S/O  Subash Chandra!!kuriyar kuriyar Kuriyar!NA!kuriyar!Kuriyar Khas Basti Basti!NA!Uttar Pradesh!272170",
+      "alt": "7388017689",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Subash Chandra",
+      "name": "Sujeet Chaudhary",
+      "num": "8303060462"
+    },
+    {
+      "aadhar": "469573914607",
+      "address": "S/O  Subash Chandra!!kuriyar kuriyar Kuriyar!NA!kuriyar!Kuriyar Khas Basti Basti!NA!Uttar Pradesh!272170",
+      "alt": "7388017689",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Subash Chandra",
+      "name": "Sujeet Chaudhary",
+      "num": "8303060462"
+    }
+  ]
+}
