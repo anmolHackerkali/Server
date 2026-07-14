@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:14:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971679029",
+  "records": [
+    {
+      "aadhar": "810512084391",
+      "address": "!12!vall chandwali ball faridabad!chandwali!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deviram",
+      "name": "Rajendra",
+      "num": "9971679029"
+    },
+    {
+      "aadhar": "810512084391",
+      "address": "!12!vall chandwali ball faridabad!!chandwali!Faridabad!!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deviram",
+      "name": "Rajendra",
+      "num": "9971679029"
+    },
+    {
+      "aadhar": "810512084391",
+      "address": "!12!vall chandwali ball faridabad!chandwali!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deviram",
+      "name": "Rajendra",
+      "num": "9971679029"
+    },
+    {
+      "aadhar": "810512084391",
+      "address": "!12!vall chandwali ball faridabad!chandwali!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Deviram",
+      "name": "Rajendra",
+      "num": "9971679029"
+    }
+  ]
+}
