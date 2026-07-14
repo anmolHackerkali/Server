@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 14:32:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9909417382",
+  "records": [
+    {
+      "aadhar": "446772006201",
+      "address": "37!nandanpark near anand party plot ranip Ranip!ahmedabad!Ahmedabad City-Ahmadabad City-Ahmedabad!382480",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Prajapati Praheladbhai",
+      "name": "Prajapati Bharatbhai",
+      "num": "9909417382"
+    },
+    {
+      "aadhar": "446772006201",
+      "address": "Prajapati Praheladbhai!37!nandanpark near anand party plot ranip Ranip!ahmedabad!Ahmedabad City-Ahmadabad City-Ahmedabad!Gujarat!382480",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Prajapati Praheladbhai",
+      "name": "Prajapati Bharatbhai",
+      "num": "9909417382"
+    },
+    {
+      "aadhar": "446772006201",
+      "address": "Prajapati Praheladbhai!37!nandanpark near anand party plot ranip Ranip!ahmedabad!Ahmedabad City-Ahmadabad City-Ahmedabad!Gujarat!382480",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Prajapati Praheladbhai",
+      "name": "Prajapati Bharatbhai",
+      "num": "9909417382"
+    }
+  ]
+}
