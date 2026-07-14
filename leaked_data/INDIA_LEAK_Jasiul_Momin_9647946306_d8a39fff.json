@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:26:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9647946306",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Jasim Momin!Kamalpur!.!Mothabari Malda!!MALDA!Malda!West Bengal!732207",
+      "alt": "7864885994",
+      "circle": "VI KOL & WB",
+      "email": "jasiulmomin648@gmail.com",
+      "fname": "Jasim Momin",
+      "name": "Jasiul Momin",
+      "num": "9647946306"
+    },
+    {
+      "aadhar": null,
+      "address": "Jasim Momin!Kamalpur!.!Mothabari Malda!!MALDA!Malda!West Bengal!732207",
+      "alt": "7864885994",
+      "circle": "VI KOL & WB",
+      "email": "jasiulmomin648@gmail.com",
+      "fname": "Jasim Momin",
+      "name": "Jasiul Momin",
+      "num": "9647946306"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Nasiruddin Momin!.!. Sadharitola!Sahabazpur Malda!Sadharitola!MALDA!Malda!West Bengal!732201",
+      "alt": "9647946306",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Nasiruddin Momin",
+      "name": "Samima Khatun",
+      "num": "8436298480"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Nasiruddin Momin!.!. Sadharitola!Sahabazpur Malda!Sadharitola!MALDA!Malda!West Bengal!732201",
+      "alt": "9647946306",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "C/O: Nasiruddin Momin",
+      "name": "Samima Khatun",
+      "num": "8436298480"
+    }
+  ]
+}
