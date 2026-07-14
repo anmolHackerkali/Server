@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:39:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7206509205",
+  "records": [
+    {
+      "aadhar": "233172042859",
+      "address": "RS DABAS!95!GOLDEN PARK AMBALA GPO PO!SHIV MANDIR!MAHESH NAGAR AMBALA!AMBALA!AMBALA!HARYANA!133001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RS DABAS",
+      "name": "RAVINDER SINGH DABAS",
+      "num": "7206509205"
+    },
+    {
+      "aadhar": "233172042859",
+      "address": "95 GOLDEN PARK AMBALA GPO PO SHIV MANDIR MAHESH NAGAR AMBALA AMBALA AMBALA HARYANA 133001",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RS DABAS",
+      "name": "RAVINDER SINGH DABAS",
+      "num": "7206509205"
+    }
+  ]
+}
