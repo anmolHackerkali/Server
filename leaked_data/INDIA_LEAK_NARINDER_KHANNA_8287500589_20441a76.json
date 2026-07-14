@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:37:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287500589",
+  "records": [
+    {
+      "aadhar": "817044751284",
+      "address": "!FLAT NO 106!DEVDOOT APARTMENT D-block near kamal public school!NA!vikas puri!New Delhi West West!NA!Delhi!110018",
+      "alt": "9868800696",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand lal khanna",
+      "name": "NARINDER KHANNA",
+      "num": "8287500589"
+    },
+    {
+      "aadhar": "817044751284",
+      "address": "!FLAT NO 106!DEVDOOT APARTMENTD-blocknear kamal public school!NA!vikas puri!New Delhi WestWest!NA!Delhi!110018",
+      "alt": "9868800696",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand lal khanna",
+      "name": "NARINDER KHANNA",
+      "num": "8287500589"
+    },
+    {
+      "aadhar": "817044751284",
+      "address": "!FLAT NO 106!DEVDOOT APARTMENTD-blocknear kamal public school!NA!vikas puri!New Delhi WestWest!NA!Delhi!110018",
+      "alt": "9868800696",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "nand lal khanna",
+      "name": "NARINDER KHANNA",
+      "num": "8287500589"
+    }
+  ]
+}
