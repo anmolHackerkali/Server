@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:22:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8435418165",
+  "records": [
+    {
+      "aadhar": "233746872895",
+      "address": "S/O  Prabhuram!! Mardana!NA!nagava!Nagava Barwaha Khargone!NA!Madhya Pradesh!451113",
+      "alt": "8435418165",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Prabhuram",
+      "name": "Jitendra",
+      "num": "9770379808"
+    },
+    {
+      "aadhar": "647225463068",
+      "address": "S/O Ramkishan!10!Khargone!Khargone!Dev Pipliyadeo KHARGONE!KHARGONE!KHARGONE!Madhya Pradesh!451221",
+      "alt": "8435418165",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ramkishan",
+      "name": "MR RADHESHYAM DAWAR",
+      "num": "8718820746"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Devgir Goswami!.!. jirbhar!. Khargone!jirbhar!KHARGONE!Khargone!Madhya Pradesh!451113",
+      "alt": "8435418165",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "C/O Devgir Goswami",
+      "name": "Suresh Goswami",
+      "num": "7447064721"
+    }
+  ]
+}
