@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:53:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9773500570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Vardhman Jain!K-52  DLF Park Place!Golf Course Road!DLF Phase 5  Sector 54 Gurgaon Sector 56!Gurgaon Sector 56 Gurgaon!Haryana!122011",
+      "alt": "1000000000",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vardhman",
+      "name": "Tripta",
+      "num": "9773500570"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Vardhman Jain!K-52 DLF Park Place!Golf Course Road!DLF Phase 5 Sector 54Gurgaon Sector 56!Gurgaon Sector 56Gurgaon!Haryana!122011",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vardhman",
+      "name": "Tripta",
+      "num": "9773500570"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Vardhman Jain!K-52 DLF Park Place!Golf Course Road!DLF Phase 5 Sector 54Gurgaon Sector 56!Gurgaon Sector 56Gurgaon!Haryana!122011",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vardhman",
+      "name": "Tripta",
+      "num": "9773500570"
+    }
+  ]
+}
