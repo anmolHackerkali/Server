@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:14:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299384252",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Deshraj Verma!!- - gram bhavasi bhagavanpur!-!Akabarpur Sitapur!Uttar Pradesh!261135",
+      "alt": "917339733755",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Deshraj Verma",
+      "name": "Khushbu Devi Verma",
+      "num": "8299384252"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Deshraj Verma!!- - gram bhavasi bhagavanpur!-!Akabarpur Sitapur!Uttar Pradesh!261135",
+      "alt": "917339733755",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Deshraj Verma",
+      "name": "Khushbu Devi Verma",
+      "num": "8299384252"
+    }
+  ]
+}
