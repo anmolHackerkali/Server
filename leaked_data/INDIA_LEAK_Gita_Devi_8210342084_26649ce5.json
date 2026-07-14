@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:56:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210342084",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O  Ramjit Yadav!!!Baijnathpur!Parghari Bhagalpur!Bihar!813210",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramjit Yadav",
+      "name": "Gita Devi",
+      "num": "8210342084"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O  Ramjit Yadav!!!Baijnathpur!Parghari Bhagalpur!Bihar!813210",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramjit Yadav",
+      "name": "Gita Devi",
+      "num": "8210342084"
+    }
+  ]
+}
