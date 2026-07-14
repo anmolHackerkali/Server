@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:51:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795708382",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Rajesh Gautam!hadirahi!hadirahi!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230136",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Rajesh Gautam",
+      "name": "Manish Kumar Gautam",
+      "num": "8795708382"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Rajesh Gautam!hadirahi!hadirahi!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230136",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Rajesh Gautam",
+      "name": "Manish Kumar Gautam",
+      "num": "8795708382"
+    }
+  ]
+}
