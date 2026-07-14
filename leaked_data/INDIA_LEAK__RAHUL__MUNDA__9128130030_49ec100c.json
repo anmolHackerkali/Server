@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:12:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9128130030",
+  "records": [
+    {
+      "aadhar": "227892475776",
+      "address": " S/O Bigal Munda BARATPUR  POST- HIRHI  PS- LOHARDAGA   WARD NO 10 BARANTPUR-LOHARDAGA JH 835302 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BIGAL MUNDA    ",
+      "name": " RAHUL  MUNDA ",
+      "num": "9128130030"
+    },
+    {
+      "aadhar": "227892475776",
+      "address": " S/O Bigal Munda BARATPUR  POST- HIRHI  PS- LOHARDAGA   WARD NO 10 BARANTPUR-LOHARDAGA JH 835302 ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " BIGAL MUNDA    ",
+      "name": " RAHUL  MUNDA ",
+      "num": "9128130030"
+    },
+    {
+      "aadhar": "406657614109",
+      "address": "!!- baratpur hirhi school!NA!lohardaga!Ranchi Lohardaga!NA!Jharkhand!835302",
+      "alt": "9128130030",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rahul munda",
+      "name": "ranjita munda",
+      "num": "9608577274"
+    },
+    {
+      "aadhar": "406657614109",
+      "address": "!!- baratpur hirhi school!NA!lohardaga!Ranchi Lohardaga!NA!Jharkhand!835302",
+      "alt": "9128130030",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rahul munda",
+      "name": "ranjita munda",
+      "num": "9608577274"
+    }
+  ]
+}
