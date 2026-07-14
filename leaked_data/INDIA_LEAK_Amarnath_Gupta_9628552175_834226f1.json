@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:29:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9628552175",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Janam Gupta!!!semarajpur semarajpur Ratanpura!Mau!Uttar Pradesh!221706",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Janam Gupta",
+      "name": "Amarnath Gupta",
+      "num": "9628552175"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Janam Gupta!!!semarajpur semarajpur Ratanpura!Mau!Uttar Pradesh!221706",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Janam Gupta",
+      "name": "Amarnath Gupta",
+      "num": "9628552175"
+    }
+  ]
+}
