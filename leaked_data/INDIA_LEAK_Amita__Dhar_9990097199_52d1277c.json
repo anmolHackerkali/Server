@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:23:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9990097199",
+  "records": [
+    {
+      "aadhar": "303859101879",
+      "address": "W/O Sushanta Kumar Dhar!House Number-425!! Sector-21D Faridabad !Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushanta Kumar Dhar",
+      "name": "Amita  Dhar",
+      "num": "9990097199"
+    },
+    {
+      "aadhar": "303859101879",
+      "address": "W/O Sushanta Kumar Dhar!House Number-425!!!Sector-21DFaridabad!Faridabad!!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushanta Kumar Dhar",
+      "name": "Amita  Dhar",
+      "num": "9990097199"
+    },
+    {
+      "aadhar": "303859101879",
+      "address": "W/O Sushanta Kumar Dhar!House Number-425!!Sector-21DFaridabad!Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushanta Kumar Dhar",
+      "name": "Amita  Dhar",
+      "num": "9990097199"
+    },
+    {
+      "aadhar": "303859101879",
+      "address": "W/O Sushanta Kumar Dhar!House Number-425!!Sector-21DFaridabad!Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Sushanta Kumar Dhar",
+      "name": "Amita  Dhar",
+      "num": "9990097199"
+    }
+  ]
+}
