@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:54:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8200461184",
+  "records": [
+    {
+      "aadhar": "806986723037",
+      "address": " gayatrinagar 27 l h road surat Surat Gujarat 395006",
+      "alt": "919824795011",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nurul Hoda",
+      "name": "Parvez Ali",
+      "num": "8200461184"
+    },
+    {
+      "aadhar": "806986723037",
+      "address": "!gayatrinagar!27 l h road!surat!Surat!Gujarat!395006",
+      "alt": "919824795011",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nurul Hoda",
+      "name": "Parvez Ali",
+      "num": "8200461184"
+    },
+    {
+      "aadhar": "806986723037",
+      "address": "!gayatrinagar!27 l h road!surat!Surat!Gujarat!395006",
+      "alt": "919824795011",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nurul Hoda",
+      "name": "Parvez Ali",
+      "num": "8200461184"
+    },
+    {
+      "aadhar": "959796413627",
+      "address": "!127!Shiva park soc varsha soc vibhag-2 pase!!matavari l h road!Surat!Surat!Gujarat!395006",
+      "alt": "8200461184",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Yusuf mlya",
+      "name": "Alauddin Miya",
+      "num": "8320861855"
+    },
+    {
+      "aadhar": "959796413627",
+      "address": "!127!Shiva park soc varsha soc vibhag-2 pase!!matavari l.h road!Surat!Surat!Gujarat!395006",
+      "alt": "8200461184",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Yusuf mlya",
+      "name": "Alauddin Miya",
+      "num": "8320861855"
+    },
+    {
+      "aadhar": "959796413627",
+      "address": "!127!Shiva park soc varsha soc vibhag-2 pase!!matavari l.h road!Surat!Surat!Gujarat!395006",
+      "alt": "8200461184",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Yusuf mlya",
+      "name": "Alauddin Miya",
+      "num": "8320861855"
+    }
+  ]
+}
