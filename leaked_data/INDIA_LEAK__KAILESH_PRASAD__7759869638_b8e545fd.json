@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:25:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7759869638",
+  "records": [
+    {
+      "aadhar": "644880015998",
+      "address": " KISHUNBAGH!JORAINAR!!Bettiah Bettiah Bettiah!West Champaran!West Champaran!Bihar!845438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Saty Narayan Prasad ",
+      "name": " KAILESH PRASAD ",
+      "num": "7759869638"
+    },
+    {
+      "aadhar": "644880015998",
+      "address": " KISHUNBAGH!JORAINAR!!Bettiah Bettiah Bettiah!West Champaran!West Champaran!Bihar!845438 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Saty Narayan Prasad ",
+      "name": " KAILESH PRASAD ",
+      "num": "7759869638"
+    }
+  ]
+}
