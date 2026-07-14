@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:49:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8581878589",
+  "records": [
+    {
+      "aadhar": "648049568447",
+      "address": " Barka Dhakaich Barka Dhakaich  BARAKA DHAKAICH-BUXAR 802133 BR Barka Dhakaich Barka Dhakaich  BARAKA DHAKAICH-BUXAR BR 802133 ",
+      "alt": "8210416844",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJDAYAL\tYADAV ",
+      "name": " VED PRAKASH YADAV ",
+      "num": "8581878589"
+    },
+    {
+      "aadhar": "648049568447",
+      "address": " Barka Dhakaich Barka Dhakaich  BARAKA DHAKAICH-BUXAR 802133 BR Barka Dhakaich Barka Dhakaich  BARAKA DHAKAICH-BUXAR BR 802133 ",
+      "alt": "8210416844",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJDAYAL\tYADAV ",
+      "name": " VED PRAKASH YADAV ",
+      "num": "8581878589"
+    }
+  ]
+}
