@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:49:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8258977584",
+  "records": [
+    {
+      "aadhar": "661831149861",
+      "address": "!D6!street no 6!near water tank!dayalpur!Delhi East!North East!Delhi!110094",
+      "alt": "9953678016",
+      "circle": "JIO DELHI",
+      "email": "nitinsharma11nov@gmail.com",
+      "fname": "Hom Nath Chetri",
+      "name": "Nikita Chetri",
+      "num": "8258977584"
+    },
+    {
+      "aadhar": "661831149861",
+      "address": "!D6!street no 6!near water tank!dayalpur!Delhi East!North East!Delhi!110094",
+      "alt": "9953678016",
+      "circle": "JIO DELHI",
+      "email": "nitinsharma11nov@gmail.com",
+      "fname": "Hom Nath Chetri",
+      "name": "Nikita Chetri",
+      "num": "8258977584"
+    },
+    {
+      "aadhar": "661831149861",
+      "address": "!D6!street no 6!near water tank!dayalpur!Delhi East!North East!Delhi!110094",
+      "alt": "9953678016",
+      "circle": "JIO DELHI",
+      "email": "nitinsharma11nov@gmail.com",
+      "fname": "Hom Nath Chetri",
+      "name": "Nikita Chetri",
+      "num": "8258977584"
+    }
+  ]
+}
