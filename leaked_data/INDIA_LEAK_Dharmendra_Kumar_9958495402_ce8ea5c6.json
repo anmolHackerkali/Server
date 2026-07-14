@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:18:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958495402",
+  "records": [
+    {
+      "aadhar": "496623324283",
+      "address": "!222!so!!haidarpur!Delhi!North West Delhi!Delhi!110088",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramugar Yadav",
+      "name": "Dharmendra Kumar",
+      "num": "9958495402"
+    },
+    {
+      "aadhar": "496623324283",
+      "address": "!222!so!!haidarpur!Delhi!North West Delhi!Delhi!110088",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramugar Yadav",
+      "name": "Dharmendra Kumar",
+      "num": "9958495402"
+    },
+    {
+      "aadhar": "496623324283",
+      "address": "!222!so!!haidarpur!Delhi!North West Delhi!Delhi!110088",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramugar Yadav",
+      "name": "Dharmendra Kumar",
+      "num": "9958495402"
+    }
+  ]
+}
