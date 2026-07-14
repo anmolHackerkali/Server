@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:57:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7607050302",
+  "records": [
+    {
+      "aadhar": "467371690090",
+      "address": "S/O: Shashi Kant Mishra!Rasulpur!!!Varanasi!Uttar Pradesh!221204",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Shashi Kant Mishra",
+      "name": "Sandeep Kumar Mishra",
+      "num": "7607050302"
+    },
+    {
+      "aadhar": "467371690090",
+      "address": "S/O: Shashi Kant Mishra!Rasulpur!!!Varanasi!Uttar Pradesh!221204",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Shashi Kant Mishra",
+      "name": "Sandeep Kumar Mishra",
+      "num": "7607050302"
+    }
+  ]
+}
