@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:05:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8948002442",
+  "records": [
+    {
+      "aadhar": "SKA0865428",
+      "address": "H NO 155!NAUSHAL RAMPURA!JALAUN!JALAUN!UTTAR PRADESH!205001",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "SARNAMSINGH",
+      "name": "SUJATA SINGH",
+      "num": "8948002442"
+    },
+    {
+      "aadhar": "SKA0865428",
+      "address": "H NO 155!NAUSHAL RAMPURA!JALAUN!JALAUN!UTTAR PRADESH!205001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "SARNAMSINGH",
+      "name": "SUJATA SINGH",
+      "num": "8948002442"
+    },
+    {
+      "aadhar": "SKA0865428",
+      "address": "H NO 155!NAUSHAL RAMPURA!JALAUN!JALAUN!UTTAR PRADESH!205001",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "SARNAMSINGH",
+      "name": "SUJATA SINGH",
+      "num": "8948002442"
+    }
+  ]
+}
