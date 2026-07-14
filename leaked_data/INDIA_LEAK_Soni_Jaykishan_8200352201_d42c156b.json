@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:41:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8200352201",
+  "records": [
+    {
+      "aadhar": "325478029477",
+      "address": "C/O   X-04 Ghanshyam Complex Near Dhanjibhai Na Kuva Chandlodia Ahmedabad Chandlodiya (Ahmedabad City) Ahmedabad Gujarat 382481",
+      "alt": "918401640545",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "balkrushna",
+      "name": "Soni Jaykishan",
+      "num": "8200352201"
+    },
+    {
+      "aadhar": "325478029477",
+      "address": "C/O !!X-04 Ghanshyam Complex Near Dhanjibhai Na Kuva Chandlodia!Ahmedabad!Chandlodiya (Ahmedabad City) Ahmedabad!Gujarat!382481",
+      "alt": "918401640545",
+      "circle": "JIO GUJARAT",
+      "email": "kishansoni979@gmail.com",
+      "fname": "balkrushna",
+      "name": "Soni Jaykishan",
+      "num": "8200352201"
+    },
+    {
+      "aadhar": "325478029477",
+      "address": "C/O !!X-04 Ghanshyam Complex Near Dhanjibhai Na Kuva Chandlodia!Ahmedabad!Chandlodiya (Ahmedabad City) Ahmedabad!Gujarat!382481",
+      "alt": "918401640545",
+      "circle": "JIO GUJARAT",
+      "email": "kishansoni979@gmail.com",
+      "fname": "balkrushna",
+      "name": "Soni Jaykishan",
+      "num": "8200352201"
+    },
+    {
+      "aadhar": "325478029477",
+      "address": "X-04 Ghanshyam Complex!Near Dhanjibhai Kuva Ahmedabad Near Dhanjibhai Kuva!Near Dhanjibhai Kuva!Ahmedabad Chandlodia GANDHINAGAR!AHMEDABAD!GANDHINAGAR!Gujarat!382481",
+      "alt": "8200352201",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Balkrushn Soni",
+      "name": "MR JAYKISHAN SONI",
+      "num": "9512078975"
+    },
+    {
+      "aadhar": "344333265089",
+      "address": "s/o chandrakant! 19 new yogikrupa society!New YogiKrupa Society Ranip!opp ranip nagar palika office!ranip ranip!ahmedabad city Ahmadabad City!ahmedabad!Gujarat!382480",
+      "alt": "8200352201",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chandrakant",
+      "name": "Soni Sanjay Chandrakant",
+      "num": "9316017910"
+    },
+    {
+      "aadhar": "325478029477",
+      "address": "S/O Balkrushn!X-04 Ghanshyam Complex!Near Dhanjibhai Kuva Ahmedabad Near Dhanjibhai Kuva!Near Dhanjibhai Kuva!Ahmedabad Chandlodia GANDHINAGAR!AHMEDABAD!GANDHINAGAR!Gujarat!382481",
+      "alt": "8200352201",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Balkrushn Soni",
+      "name": "MR JAYKISHAN SONI",
+      "num": "9512078975"
+    },
+    {
+      "aadhar": "344333265089",
+      "address": "s/o chandrakant! 19 new yogikrupa society!New YogiKrupa Society Ranip!opp ranip nagar palika office!ranip ranip!ahmedabad city Ahmadabad City!ahmedabad!Gujarat!382480",
+      "alt": "8200352201",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chandrakant",
+      "name": "Soni Sanjay Chandrakant",
+      "num": "9316017910"
+    },
+    {
+      "aadhar": "325478029477",
+      "address": "S/O Balkrushn!X-04 Ghanshyam Complex!Near Dhanjibhai Kuva Ahmedabad Near Dhanjibhai Kuva!Near Dhanjibhai Kuva!Ahmedabad Chandlodia GANDHINAGAR!AHMEDABAD!GANDHINAGAR!Gujarat!382481",
+      "alt": "8200352201",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Balkrushn Soni",
+      "name": "MR JAYKISHAN SONI",
+      "num": "9512078975"
+    },
+    {
+      "aadhar": "344333265089",
+      "address": "s/o chandrakant! 19 new yogikrupa society!New YogiKrupa Society Ranip!opp ranip nagar palika office!ranip ranip!ahmedabad city Ahmadabad City!ahmedabad!Gujarat!382480",
+      "alt": "8200352201",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chandrakant",
+      "name": "Soni Sanjay Chandrakant",
+      "num": "9316017910"
+    }
+  ]
+}
