@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:42:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9350432419",
+  "records": [
+    {
+      "aadhar": "599920607562",
+      "address": "S/O  Hazari Lal!!523rambagh RoadAmbala GP!NA!Housing board Colony!AmbalaBararaAmbala!NA!Haryana!133001",
+      "alt": "8901482693",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hazari Lal",
+      "name": "Suraj Bhan",
+      "num": "9350432419"
+    }
+  ]
+}
