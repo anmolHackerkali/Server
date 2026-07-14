@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:39:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9687634501",
+  "records": [
+    {
+      "aadhar": "229428557607",
+      "address": "8 Prestige Bunglows Amraiwadi Ahmedabad City Ahmedabad",
+      "alt": "9687634501",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vinod",
+      "name": "Jogi  Nimaben",
+      "num": "7600594501"
+    },
+    {
+      "aadhar": "229428557607",
+      "address": "8 Prestige Bunglows Amraiwadi Ahmedabad City Ahmedabad",
+      "alt": "9687634501",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Vinod",
+      "name": "Jogi  Nimaben",
+      "num": "7600594501"
+    }
+  ]
+}
