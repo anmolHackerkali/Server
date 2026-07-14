@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:07:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9800086215",
+  "records": [
+    {
+      "aadhar": "964527557975",
+      "address": "PALITA  Palita Palita Nanoor  Birbhum Birbhum West Bengal 731215",
+      "alt": "9800086215",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "MD BARKATULLAH JINNAH",
+      "name": "Md Safayatullah Jinnah",
+      "num": "9800086215"
+    },
+    {
+      "aadhar": "964527557975",
+      "address": "!PALITA!!Palita !Birbhum Palita Nanoor!West Bengal!731215",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "MD BARKATULLAH JINNAH",
+      "name": "Md Safayatullah Jinnah",
+      "num": "9800086215"
+    },
+    {
+      "aadhar": "964527557975",
+      "address": "!PALITA!!Palita !Birbhum Palita Nanoor!West Bengal!731215",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "MD BARKATULLAH JINNAH",
+      "name": "Md Safayatullah Jinnah",
+      "num": "9800086215"
+    },
+    {
+      "aadhar": "964527557975",
+      "address": "PALITA  Palita Palita Nanoor  Birbhum Birbhum West Bengal 731215",
+      "alt": "9800086215",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "MD BARKATULLAH JINNAH",
+      "name": "Md Safayatullah Jinnah",
+      "num": "9800086215"
+    },
+    {
+      "aadhar": "964527557975\"9800086214",
+      "address": "PALITA  Palita Palita Nanoor  Birbhum Birbhum West Bengal 731215",
+      "alt": "9800086215",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "MD BARKATULLAH JINNAH",
+      "name": "Md Safayatullah Jinnah",
+      "num": null
+    },
+    {
+      "aadhar": "857620650664",
+      "address": " !!Palita!PALITA!!Palita Nanoor!Birbhum!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "johad sk",
+      "name": "Sk Zakir Hossain",
+      "num": "9933018406"
+    },
+    {
+      "aadhar": "763898082802",
+      "address": " S/O  Sekh Jordis!!Palita!!!Palita Nanoor!Birbhum!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sekh Jordis",
+      "name": "Sekh Ansar Ali",
+      "num": "9832692562"
+    },
+    {
+      "aadhar": "AEM1962117",
+      "address": " ! Palita!Palita!!GRAM-PALITA PART PALITA NANOOR BIR BHUM!Birbhum!Birbhum!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sk Anower",
+      "name": "SK MASARUL HAQUE",
+      "num": "9832168112"
+    },
+    {
+      "aadhar": "638794368165",
+      "address": " S/O Sekh Khyarul Alam!!04 PALITA Palita!NA!!Palita Nanoor Birbhum!NA!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Sekh Khyarul Alam",
+      "name": "Sekh Rejaul Haque",
+      "num": "9749441267"
+    },
+    {
+      "aadhar": "927538788438",
+      "address": " S/O SEKH KABEL!!PALITA Palita!NA!!Palita Nanoor Birbhum!NA!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "SEKH KABEL",
+      "name": "SUFIYAR RAHAMAN",
+      "num": "9749394936"
+    },
+    {
+      "aadhar": "468335703067",
+      "address": " S/O Md Anarul Haque!!Palita!PALITA!palita!Palita Nanoor!Birbhum!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Md Anarul Haque",
+      "name": "Md Azizul Haque",
+      "num": "9734702164"
+    },
+    {
+      "aadhar": "771433122451",
+      "address": " S/O  Md Gazi Rahaman!! Palita!NA!!Palita Nanoor Birbhum!NA!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Md Gazi Rahaman",
+      "name": "Md Rashidul Khair",
+      "num": "9734501311"
+    },
+    {
+      "aadhar": "739787296508",
+      "address": " D/O Md Mokkerabin!!Palita!PALITA!PALITA Palita!Palita Nanoor!Birbhum!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Md Mokkerabin",
+      "name": "Rekha Sultana",
+      "num": "9733962666"
+    },
+    {
+      "aadhar": "534061330159",
+      "address": " S/O Md Asraf Ali!!PALITA  Palita  Palita!NA!!Palita Nanoor Birbhum!NA!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Md Asraf Ali",
+      "name": "Nur Alam",
+      "num": "9732929550"
+    },
+    {
+      "aadhar": "531667139895",
+      "address": " S/O TAZEBAR HOSSEIN!!PALITA Palita!NA!PALITA Palita!Palita Nanoor Birbhum!NA!West Bengal!731215 ",
+      "alt": "9800086215",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "TAZEBAR HOSSEIN",
+      "name": "Asikul Islam",
+      "num": "9732381312"
+    }
+  ]
+}
