@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:59:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8475857750",
+  "records": [
+    {
+      "aadhar": "394011617426",
+      "address": "S/O: Rupanarayan01jwala nagarjwala nagarchah shiri RAMPURRAMPURRAMPURUTTAR PRADESH244901",
+      "alt": "9720247289",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rupanarayan",
+      "name": "MR DILEEP KUMAR",
+      "num": "8475857750"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Dileep Kumar!!!chahashiri!Rampur Rampur!Uttar Pradesh!244901",
+      "alt": "917617409744",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Dileep Kumar",
+      "name": "Preeti Devi",
+      "num": "8475857750"
+    },
+    {
+      "aadhar": "394011617426",
+      "address": "S/O: Rupanarayan01jwala nagarjwala nagarchah shiri RAMPURRAMPURRAMPURUTTAR PRADESH244901",
+      "alt": "9720247289",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rupanarayan",
+      "name": "MR DILEEP KUMAR",
+      "num": "8475857750"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Dileep Kumar!!!chahashiri!Rampur Rampur!Uttar Pradesh!244901",
+      "alt": "917617409744",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Dileep Kumar",
+      "name": "Preeti Devi",
+      "num": "8475857750"
+    }
+  ]
+}
