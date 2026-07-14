@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:49:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8115519812",
+  "records": [
+    {
+      "aadhar": "678639920935",
+      "address": "D/O Chandan Singh Adhikari!!99!Jageshwar Vihar Colony!Kalyanpur West Lucknow!Uttar Pradesh!226022",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandan Singh Adhikari",
+      "name": "Saumya Adhikari",
+      "num": "8115519812"
+    },
+    {
+      "aadhar": "678639920935",
+      "address": "D/O Chandan Singh Adhikari!!99!Jageshwar Vihar Colony!Kalyanpur West Lucknow!Uttar Pradesh!226022",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandan Singh Adhikari",
+      "name": "Saumya Adhikari",
+      "num": "8115519812"
+    }
+  ]
+}
