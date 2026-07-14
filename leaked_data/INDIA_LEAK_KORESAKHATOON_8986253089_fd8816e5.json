@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:56:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8986253089",
+  "records": [
+    {
+      "aadhar": "223311816891",
+      "address": "!ailahak manzil!suleman nagar bhadauni gondapur faixulbari road!!sulman nagar bhadauni!nawada!Nawada!BIHAR!805110",
+      "alt": "8271295649",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "MD AIlAHAK",
+      "name": "KORESAKHATOON",
+      "num": "8986253089"
+    },
+    {
+      "aadhar": "XXXXXXXX6891",
+      "address": " ailahak manzil  suleman nagar bhadauni gondapur faixulbari road sulman nagar bhadauni nawada  Nawada BIHAR 805110 ",
+      "alt": "8271295649",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MD AIlAHAK ",
+      "name": " KORESA  KHATOON ",
+      "num": "8986253089"
+    },
+    {
+      "aadhar": "XXXXXXXX6891",
+      "address": " ailahak manzil  suleman nagar bhadauni gondapur faixulbari road sulman nagar bhadauni nawada  Nawada BIHAR 805110 ",
+      "alt": "8271295649",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MD AIlAHAK ",
+      "name": " KORESA  KHATOON ",
+      "num": "8986253089"
+    },
+    {
+      "aadhar": "223311816891",
+      "address": "!ailahak manzil!suleman nagar bhadauni gondapur faixulbari road!!sulman nagar bhadauni!nawada!Nawada!BIHAR!805110",
+      "alt": "8271295649",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "MD AIlAHAK",
+      "name": "KORESAKHATOON",
+      "num": "8986253089"
+    },
+    {
+      "aadhar": "352825894054",
+      "address": "  NA Near haddi godam NAWADHA NAWADHA NEAR HADDI GODAM NAWADA NAWADA NAWADA 805110 BIHAR ",
+      "alt": "8986253089",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Abdul Jabbar ",
+      "name": " MR  MD AIlAHAK ",
+      "num": "7562099875"
+    },
+    {
+      "aadhar": "352825894054",
+      "address": "  NA Near haddi godam NAWADHA NAWADHA NEAR HADDI GODAM NAWADA NAWADA NAWADA 805110 BIHAR ",
+      "alt": "8986253089",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Abdul Jabbar ",
+      "name": " MR  MD AIlAHAK ",
+      "num": "7562099875"
+    }
+  ]
+}
