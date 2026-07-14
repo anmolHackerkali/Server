@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:50:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7607388874",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx7048",
+      "address": "S/O Moti!Bane Pur  baderiya!!!Ambedkar Nagar!Uttar Pradesh!224152",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Moti  ",
+      "name": "Brijlal  ",
+      "num": "7607388874"
+    },
+    {
+      "aadhar": "xxxxxxxx7048",
+      "address": "S/O Moti!Bane Pur  baderiya!!!Ambedkar Nagar!Uttar Pradesh!224152",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Moti  ",
+      "name": "Brijlal  ",
+      "num": "7607388874"
+    },
+    {
+      "aadhar": "xxxxxxxx7048",
+      "address": "S/O Moti!Bane Pur  baderiya!!!Ambedkar Nagar!Uttar Pradesh!224152",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Moti  ",
+      "name": "Brijlal  ",
+      "num": "7607388874"
+    },
+    {
+      "aadhar": "xxxxxxxx7048",
+      "address": "S/O Moti!Bane Pur  baderiya!!!Ambedkar Nagar!Uttar Pradesh!224152",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Moti  ",
+      "name": "Brijlal  ",
+      "num": "7607388874"
+    }
+  ]
+}
