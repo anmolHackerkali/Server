@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:51:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8815472312",
+  "records": [
+    {
+      "aadhar": "791054228094",
+      "address": "S/O  Shambhulal Sahu! 1676 dwarkapuri colony!dwarkapuri!!indore!Indore!Indore!Madhya Pradesh!452009",
+      "alt": "9575886155",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Shambhulal Sahu",
+      "name": "Govardhan Sahu",
+      "num": "8815472312"
+    },
+    {
+      "aadhar": null,
+      "address": " 1676 Dwarkapuri Indore  Indore Indore  Madhya Pradesh 452009",
+      "alt": "8815472312",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Govardhan Sahu",
+      "name": "nitesh sahu",
+      "num": "8962242312 "
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Govardhan Sahu!1676 Dwarkapuri!.!.Indore!!INDORE!Indore!Madhya Pradesh!452009",
+      "alt": "8815472312",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Govardhan Sahu",
+      "name": "Nitesh Sahu",
+      "num": "7772876467"
+    }
+  ]
+}
