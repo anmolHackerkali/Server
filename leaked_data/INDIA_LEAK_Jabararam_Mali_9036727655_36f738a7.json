@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:24:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9036727655",
+  "records": [
+    {
+      "aadhar": "355087359943",
+      "address": "! 394!thogari street k r mohalla!k r mohalla!mysore!Mysore!Mysore!Karnataka!570024",
+      "alt": "9986152620",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Deepa Ram ji",
+      "name": "Jabararam Mali",
+      "num": "9036727655"
+    },
+    {
+      "aadhar": "312977873065",
+      "address": "c/o jabararam mali! 395 2nd floor!thogari street!!k r mohalla mysore!krishna raja mohalla!mysuru!Karnataka!570024",
+      "alt": "9036727655",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "JABARARAM MALI",
+      "name": "Dadami Devi",
+      "num": "9164329988"
+    },
+    {
+      "aadhar": "355087359943",
+      "address": "s/o deepa ram ji!394!thogari street!Thogari street!Mysore!k r mohalla!mysore!Karnataka!570024",
+      "alt": "9036727655",
+      "circle": "JIO KARNATKA",
+      "email": "jabararamdeepaji.mali55@gmail.com",
+      "fname": "deepa ram ji",
+      "name": "Jabararam Mali",
+      "num": "8431894993"
+    },
+    {
+      "aadhar": "355087359943",
+      "address": "! 394!Thogari Street!!KR mohalla mysore!Mysore!Mysore!Karnataka!570024",
+      "alt": "9036727655",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Deepa ram ji",
+      "name": "Jabararam Mali",
+      "num": "7019906405"
+    }
+  ]
+}
