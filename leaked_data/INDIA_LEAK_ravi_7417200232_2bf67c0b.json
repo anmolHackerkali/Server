@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:41:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417200232",
+  "records": [
+    {
+      "aadhar": "UP1420160023835",
+      "address": "!161!kedar puri bhupendra puri modi nagar!kedar puri bhupendra puri modi nagar!etawah!Modinagar!Ghaziabad!Uttar Pradesh!201204",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "satendra kumar",
+      "name": "ravi",
+      "num": "7417200232"
+    },
+    {
+      "aadhar": "UP1420160023835",
+      "address": "!161!kedar puri bhupendra puri modi nagar!kedar puri bhupendra puri modi nagar!etawah!Modinagar!Ghaziabad!Uttar Pradesh!201204",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "satendra kumar",
+      "name": "ravi",
+      "num": "7417200232"
+    }
+  ]
+}
