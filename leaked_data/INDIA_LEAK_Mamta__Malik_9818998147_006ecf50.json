@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:32:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818998147",
+  "records": [
+    {
+      "aadhar": "790136462160",
+      "address": "W/O Jaswant Singh Malik!377 !!GANGOTRI APARTMENTS  SECTOR-12  POCKET-1  DWARKA NEW DELHI!South West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jaswant Singh Malik",
+      "name": "Mamta  Malik",
+      "num": "9818998147"
+    },
+    {
+      "aadhar": "790136462160",
+      "address": "W/O Jaswant Singh Malik!377!!GANGOTRI APARTMENTS SECTOR-12 POCKET-1 DWARKANEW DELHI!South West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jaswant Singh Malik",
+      "name": "Mamta  Malik",
+      "num": "9818998147"
+    },
+    {
+      "aadhar": "790136462160",
+      "address": "W/O Jaswant Singh Malik!377!!GANGOTRI APARTMENTS SECTOR-12 POCKET-1 DWARKANEW DELHI!South West Delhi!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jaswant Singh Malik",
+      "name": "Mamta  Malik",
+      "num": "9818998147"
+    }
+  ]
+}
