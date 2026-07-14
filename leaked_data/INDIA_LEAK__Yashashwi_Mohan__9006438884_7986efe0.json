@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:50:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9006438884",
+  "records": [
+    {
+      "aadhar": "BR0120210004757",
+      "address": " adarsh nagar!road no 03!phulwari patna!phulwari!Alampur Gonpura!Patna!Bihar!801505 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Santosh Kumar Pathak ",
+      "name": " Yashashwi Mohan ",
+      "num": "9006438884"
+    },
+    {
+      "aadhar": "BR0120210004757",
+      "address": " adarsh nagar!road no 03!phulwari patna!phulwari!Alampur Gonpura!Patna!Bihar!801505 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Santosh Kumar Pathak ",
+      "name": " Yashashwi Mohan ",
+      "num": "9006438884"
+    }
+  ]
+}
