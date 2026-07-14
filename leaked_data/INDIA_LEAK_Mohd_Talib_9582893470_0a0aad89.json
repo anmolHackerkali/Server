@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:35:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9582893470",
+  "records": [
+    {
+      "aadhar": "684256477240",
+      "address": "!H.No-237!Gali No-7 NEHRU VIHAR BIHARI PUR!!NORTH EAST DELHI!Delhi East!North East!Delhi!110094",
+      "alt": "9953836652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": " 684256477240 ",
+      "address": "S/O  Aslam ! house no 237 ! GALI N0. - 7BIHARI PUR EAST ! BIHARI PUR EAST ! NEHRU VIHARNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9953836652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR. MOHAMMAD TALIB",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "!HNo-237!Gali No-7 NEHRU VIHAR BIHARI PUR!!NORTH EAST DELHI!Delhi East!North East!Delhi!110094",
+      "alt": "9953836652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": " 684256477240 ",
+      "address": "S/O: Aslam ! house no 237 ! GALI N0. - 7BIHARI PUR EAST ! BIHARI PUR EAST ! NEHRU VIHARNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9953836652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHAMMAD TALIB",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "!HNo-237!Gali No-7 NEHRU VIHAR BIHARI PUR!!NORTH EAST DELHI!Delhi East!North East!Delhi!110094",
+      "alt": "9953836652",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": " 684256477240 ",
+      "address": "S/O: Aslam ! house no 237 ! GALI N0. - 7BIHARI PUR EAST ! BIHARI PUR EAST ! NEHRU VIHARNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110094",
+      "alt": "9953836652",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Aslam",
+      "name": "MR MOHAMMAD TALIB",
+      "num": "9582893470"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "!237!Gali NO-7!!Nehru Vihar Bihari Pur!Delhi East!North East!Delhi!110094",
+      "alt": "9582893470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9953836652"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "!237!Gali NO-7!!Nehru Vihar Bihari Pur!Delhi East!North East!Delhi!110094",
+      "alt": "9582893470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9953836652"
+    },
+    {
+      "aadhar": "684256477240",
+      "address": "!237!Gali NO-7!!Nehru Vihar Bihari Pur!Delhi East!North East!Delhi!110094",
+      "alt": "9582893470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Aslam",
+      "name": "Mohd Talib",
+      "num": "9953836652"
+    }
+  ]
+}
