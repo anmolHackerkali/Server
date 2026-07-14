@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:34:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206306640",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "!!Quarter- 855 STREET- 36!SECTOR- 9/D!Bokaro steel city Bokaro!Jharkhand!827009",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bistu Gorain",
+      "name": "Nepal Chandra Gorain",
+      "num": "6206306640"
+    },
+    {
+      "aadhar": "NA",
+      "address": "!!Quarter- 855 STREET- 36!SECTOR- 9/D!Bokaro steel city Bokaro!Jharkhand!827009",
+      "alt": "918873830511",
+      "circle": "JIO BHR&JHR",
+      "email": "dolikumari97@gmail.com",
+      "fname": "Bistu Gorain",
+      "name": "Nepal Chandra Gorain",
+      "num": "6206306640"
+    },
+    {
+      "aadhar": "NA",
+      "address": "!!Quarter- 855 STREET- 36!SECTOR- 9/D!Bokaro steel city Bokaro!Jharkhand!827009",
+      "alt": "918873830511",
+      "circle": "JIO BHR&JHR",
+      "email": "dolikumari97@gmail.com",
+      "fname": "Bistu Gorain",
+      "name": "Nepal Chandra Gorain",
+      "num": "6206306640"
+    },
+    {
+      "aadhar": "353276692498",
+      "address": "D/O  Kedar Prasad!! Pratappur!NA!vill jolah tetarya!Jolah Tetaria Pratappur Chatra!NA!Jharkhand!825404",
+      "alt": "6206306640",
+      "circle": "JIO BHR&JHR",
+      "email": "adityamehra021@gmail.com",
+      "fname": "Kedar Prasad",
+      "name": "Deepa Kumari",
+      "num": "9608153868"
+    },
+    {
+      "aadhar": "353276692498",
+      "address": "D/O  Kedar Prasad!! Pratappur!NA!vill jolah tetarya!Jolah Tetaria Pratappur Chatra!NA!Jharkhand!825404",
+      "alt": "6206306640",
+      "circle": "JIO BHR&JHR",
+      "email": "adityamehra021@gmail.com",
+      "fname": "Kedar Prasad",
+      "name": "Deepa Kumari",
+      "num": "9608153868"
+    }
+  ]
+}
