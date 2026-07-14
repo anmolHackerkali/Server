@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:35:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8866248640",
+  "records": [
+    {
+      "aadhar": "Ylx1495811",
+      "address": "19 Haveli Faliyu Anjar Anjar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Dhamendra  Sejpal",
+      "name": "Chandani Dhamendra Sejpal",
+      "num": "8866248640"
+    },
+    {
+      "aadhar": "Ylx1495811",
+      "address": "19 Haveli Faliyu Anjar Anjar",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Dhamendra  Sejpal",
+      "name": "Chandani Dhamendra Sejpal",
+      "num": "8866248640"
+    }
+  ]
+}
