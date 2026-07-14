@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 21:01:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9051796239",
+  "records": [
+    {
+      "aadhar": "787977080196",
+      "address": "W/O Shouvik Das!170/7A!LAKE GARDENS BONG BELLY RESTURENT!bong belly resturent!LAKE GARDENS KOLKATA!KOLKATA!Kolkata!WEST BENGAL!700045",
+      "alt": "6290636303",
+      "circle": "VI KOL",
+      "email": "ISHITADUTTA363@GMAIL.COM",
+      "fname": "Shouvik Das",
+      "name": "MRS ISHITA DUTTA",
+      "num": "9051796239"
+    },
+    {
+      "aadhar": "787977080196",
+      "address": "W/O Shouvik Das!170/7A!LAKE GARDENS BONG BELLY RESTURENT!bong belly resturent!LAKE GARDENS KOLKATA!KOLKATA!Kolkata!WEST BENGAL!700045",
+      "alt": "6290636303",
+      "circle": "VI KOL",
+      "email": "ISHITADUTTA363@GMAIL.COM",
+      "fname": "Shouvik Das",
+      "name": "MRS ISHITA DUTTA",
+      "num": "9051796239"
+    },
+    {
+      "aadhar": "401437003212",
+      "address": " !A 175!A 175  lake gardens!!LAKE GARDENS  Lake Gardens KOLKATA!KOLKATA!KOLKATA!West Bengal!700045 ",
+      "alt": "9051796239",
+      "circle": "VODAFONE KOLKATA",
+      "email": null,
+      "fname": "Dasugopal Mitra",
+      "name": "MR  TILOK MITRA",
+      "num": "9836214113"
+    },
+    {
+      "aadhar": "401437003212",
+      "address": "!A 175!A 175  lake gardens!A 175  lake gardens!LAKE GARDENS  Lake Gardens KOLKATA!KOLKATA!KOLKATA!West Bengal!700045",
+      "alt": "9051796239",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Dasugopal Mitra",
+      "name": "MR TILOK MITRA",
+      "num": "9836214113"
+    },
+    {
+      "aadhar": "401437003212",
+      "address": "!A 175!A 175  lake gardens!A 175  lake gardens!LAKE GARDENS  Lake Gardens KOLKATA!KOLKATA!KOLKATA!West Bengal!700045",
+      "alt": "9051796239",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Dasugopal Mitra",
+      "name": "MR TILOK MITRA",
+      "num": "9836214113"
+    }
+  ]
+}
