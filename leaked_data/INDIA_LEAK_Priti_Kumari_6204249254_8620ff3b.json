@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:03:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204249254",
+  "records": [
+    {
+      "aadhar": "687811982156",
+      "address": "d/o  rakesh sah!!ward no  05 Narga!!ward no  05 narnga uttari naranga!narga Parihar!sitamarhi!Bihar!843324",
+      "alt": "8873689180",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "rakesh sah",
+      "name": "Priti Kumari",
+      "num": "6204249254"
+    },
+    {
+      "aadhar": "687811982156",
+      "address": "d/o  rakesh sah!!ward no. 05 Narga!!ward no. 05 narnga uttari naranga!narga Parihar!sitamarhi!Bihar!843324",
+      "alt": "8873689180",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rakesh sah",
+      "name": "Priti Kumari",
+      "num": "6204249254"
+    },
+    {
+      "aadhar": "687811982156",
+      "address": "d/o  rakesh sah!!ward no. 05 Narga!!ward no. 05 narnga uttari naranga!narga Parihar!sitamarhi!Bihar!843324",
+      "alt": "8873689180",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rakesh sah",
+      "name": "Priti Kumari",
+      "num": "6204249254"
+    }
+  ]
+}
