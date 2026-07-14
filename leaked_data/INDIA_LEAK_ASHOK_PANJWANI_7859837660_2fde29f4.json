@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 13:12:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7859837660",
+  "records": [
+    {
+      "aadhar": "GJ1220080508164",
+      "address": "! DBZ SOUTH -82!GANDHIDHAM!NEAR CHAWLA CHOWK!GANDHIDHAM m!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9624978315",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "SIRUMAL PANJWANI",
+      "name": "ASHOK PANJWANI",
+      "num": "7859837660"
+    },
+    {
+      "aadhar": "GJ1220080508164",
+      "address": "! DBZ SOUTH -82!GANDHIDHAM!NEAR CHAWLA CHOWK!GANDHIDHAM m!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9624978315",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "SIRUMAL PANJWANI",
+      "name": "ASHOK PANJWANI",
+      "num": "7859837660"
+    },
+    {
+      "aadhar": "GJ1220080508164",
+      "address": "! DBZ SOUTH -82!GANDHIDHAM!NEAR CHAWLA CHOWK!GANDHIDHAM m!Kutch!Kachchh!Gujarat!370201",
+      "alt": "9624978315",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "SIRUMAL PANJWANI",
+      "name": "ASHOK PANJWANI",
+      "num": "7859837660"
+    }
+  ]
+}
