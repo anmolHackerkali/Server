@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:46:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8171574932",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd. Aslam!113!! Mahigran!Roorkee Haridwar!Uttarakhand!247667",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mohd. Aslam",
+      "name": "MOHD ABDUR REHMAN",
+      "num": "8171574932"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Mohd. Aslam!113!! Mahigran!Roorkee Haridwar!Uttarakhand!247667",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mohd. Aslam",
+      "name": "MOHD ABDUR REHMAN",
+      "num": "8171574932"
+    },
+    {
+      "aadhar": "458894767648",
+      "address": "W/O: Tejpal Garhi Sukkha Magna  Chhata  NAGLA GUKHRAULI-MATHURA UP 281301",
+      "alt": "8171574932",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Tejpal",
+      "name": "PIDUKA DEVI",
+      "num": "8881153177"
+    },
+    {
+      "aadhar": "458894767648",
+      "address": "W/O: Tejpal Garhi Sukkha Magna  Chhata  NAGLA GUKHRAULI-MATHURA UP 281301",
+      "alt": "8171574932",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "W/O: Tejpal",
+      "name": "PIDUKA DEVI",
+      "num": "8881153177"
+    }
+  ]
+}
