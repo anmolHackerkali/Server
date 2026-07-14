@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:37:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825039256",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "RAMESHWAR TRANSPORT CO!5 RAMESHWAR CHAMBERS OPP VONDOR POINT!CTM CHAR RASTA N H NO 8 AMRAIWADI!AHMEDABAD!GUJARAT!380026",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": "RTCVIBOD27@YAHOO.CO.IN",
+      "fname": null,
+      "name": "CO RAMESHWAR M JOGI",
+      "num": "9825039256"
+    },
+    {
+      "aadhar": null,
+      "address": "RAMESHWAR TRANSPORT CO!5 RAMESHWAR CHAMBERS OPP VONDOR POINT!CTM CHAR RASTA N H NO 8 AMRAIWADI!AHMEDABAD!GUJARAT!380026",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": "RTCVIBOD27@YAHOO.CO.IN",
+      "fname": null,
+      "name": "CO RAMESHWAR M JOGI",
+      "num": "9825039256"
+    },
+    {
+      "aadhar": "923298323886",
+      "address": "24 changodar sanand ahmedabad Ahmedabad",
+      "alt": "9825039256",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Babu Singh",
+      "name": "Pradeep Kumar Singh",
+      "num": "9725226764"
+    },
+    {
+      "aadhar": "923298323886",
+      "address": "24 changodar sanand ahmedabad Ahmedabad",
+      "alt": "9825039256",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Babu Singh",
+      "name": "Pradeep Kumar Singh",
+      "num": "9725226764"
+    }
+  ]
+}
