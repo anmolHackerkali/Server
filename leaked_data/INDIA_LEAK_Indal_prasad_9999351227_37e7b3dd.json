@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:45:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999351227",
+  "records": [
+    {
+      "aadhar": "WGL0323758",
+      "address": "! D-116!Block-D bilashpur camp!!Delhi!New Delhi South!South!Delhi!110044",
+      "alt": "9210865184",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lal chand",
+      "name": "Indal prasad",
+      "num": "9999351227"
+    },
+    {
+      "aadhar": "WGL0323758",
+      "address": "!D-116!Block-D bilashpur camp!!Delhi!New Delhi South!South!Delhi!110044",
+      "alt": "9210865184",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lal chand",
+      "name": "Indal prasad",
+      "num": "9999351227"
+    },
+    {
+      "aadhar": "WGL0323758",
+      "address": "!D-116!Block-D bilashpur camp!!Delhi!New Delhi South!South!Delhi!110044",
+      "alt": "9210865184",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Lal chand",
+      "name": "Indal prasad",
+      "num": "9999351227"
+    }
+  ]
+}
