@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:05:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7070369618",
+  "records": [
+    {
+      "aadhar": "477127883506",
+      "address": "!Ward No 5!!Haranatand Harnatanr!!West Champaran Harnatar Sidhaw!Bihar!845105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Safdar  Ali",
+      "name": "Sakil  Anshari",
+      "num": "7070369618"
+    },
+    {
+      "aadhar": "477127883506",
+      "address": "!Ward No 5!!Haranatand Harnatanr!!West Champaran Harnatar Sidhaw!Bihar!845105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Safdar  Ali",
+      "name": "Sakil  Anshari",
+      "num": "7070369618"
+    }
+  ]
+}
