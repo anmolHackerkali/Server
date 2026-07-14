@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:18:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8874258758",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Kallu!1854!. nikat hanuman mandir!police line karaundiya Sultanpur!nikat hanuman mandir!Sultanpur!UTTAR PRADESH!228001",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Kallu",
+      "name": "Raju ",
+      "num": "8874258758"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kallu!1854!. nikat hanuman mandir!police line karaundiya Sultanpur!nikat hanuman mandir!Sultanpur!UTTAR PRADESH!228001",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Kallu",
+      "name": "Raju ",
+      "num": "8874258758"
+    }
+  ]
+}
