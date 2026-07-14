@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:53:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8533834248",
+  "records": [
+    {
+      "aadhar": "ACKPM2099R",
+      "address": "!AGRA!AGRA!AGRA!Uttar Pradesh!283201",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "LAKSHMAN  PRASAD",
+      "name": "RAKESWH  MITTAL",
+      "num": "8533834248"
+    },
+    {
+      "aadhar": "ACKPM2099R",
+      "address": "!AGRA!AGRA!AGRA!Uttar Pradesh!283201",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "LAKSHMAN  PRASAD",
+      "name": "RAKESWH  MITTAL",
+      "num": "8533834248"
+    }
+  ]
+}
