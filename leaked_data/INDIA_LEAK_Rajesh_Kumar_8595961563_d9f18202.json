@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:06:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8595961563",
+  "records": [
+    {
+      "aadhar": "973163283458",
+      "address": "S/O raghuvir singh! R Z F-68!Nilothi!!NIHAL VIHAR!NANGLOI!West Delhi!Delhi!110041",
+      "alt": "9773686985",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "raghuvir singh",
+      "name": "Rajesh Kumar",
+      "num": "8595961563"
+    },
+    {
+      "aadhar": "973163283458",
+      "address": "S/O raghuvir singh!R Z F-68!Nilothi!!NIHAL VIHAR!NANGLOI!West Delhi!Delhi!110041",
+      "alt": "9773686985",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "raghuvir singh",
+      "name": "Rajesh Kumar",
+      "num": "8595961563"
+    },
+    {
+      "aadhar": "973163283458",
+      "address": "S/O raghuvir singh!R Z F-68!Nilothi!!NIHAL VIHAR!NANGLOI!West Delhi!Delhi!110041",
+      "alt": "9773686985",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "raghuvir singh",
+      "name": "Rajesh Kumar",
+      "num": "8595961563"
+    },
+    {
+      "aadhar": "312392477357",
+      "address": "c/o kishan kumar!rzf 68  nihal vihar!Nangloi!!West Delhi!nangloi!west delh!Delhi!110041",
+      "alt": "8595961563",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kishan Kumar",
+      "name": "Sangeeta Devi",
+      "num": "8383916021"
+    },
+    {
+      "aadhar": "312392477357",
+      "address": "c/o kishan kumar!rzf 68nihal vihar!Nangloi!!West Delhi!nangloi!west delh!Delhi!110041",
+      "alt": "8595961563",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kishan Kumar",
+      "name": "Sangeeta Devi",
+      "num": "8383916021"
+    },
+    {
+      "aadhar": "312392477357",
+      "address": "c/o kishan kumar!rzf 68nihal vihar!Nangloi!!West Delhi!nangloi!west delh!Delhi!110041",
+      "alt": "8595961563",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Kishan Kumar",
+      "name": "Sangeeta Devi",
+      "num": "8383916021"
+    }
+  ]
+}
