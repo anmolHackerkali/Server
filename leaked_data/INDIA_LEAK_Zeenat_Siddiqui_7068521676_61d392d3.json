@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:55:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7068521676",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Zahid Siddiqui!police ke samne!husain market!  Pratapgarh!Pratapgarh!Uttar Pradesh!230001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Zahid Siddiqui",
+      "name": "Zeenat Siddiqui",
+      "num": "7068521676"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Zahid Siddiqui!police ke samne!husain market!  Pratapgarh!Pratapgarh!Uttar Pradesh!230001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Zahid Siddiqui",
+      "name": "Zeenat Siddiqui",
+      "num": "7068521676"
+    }
+  ]
+}
