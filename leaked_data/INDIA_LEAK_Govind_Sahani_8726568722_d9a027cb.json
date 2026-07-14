@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 06:05:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8726568722",
+  "records": [
+    {
+      "aadhar": "RKI3009610",
+      "address": "!16  2/16kh!narayanpur aurai police station eakouna!!tahshil rudrapur district deoria!Deoria!Deoria!Uttar Pradesh!274204",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Brijesh Sahani",
+      "name": "Govind Sahani",
+      "num": "8726568722"
+    },
+    {
+      "aadhar": "RKI3009610",
+      "address": "!16  2/16kh!narayanpur aurai police station eakouna!!tahshil rudrapur district deoria!Deoria!Deoria!Uttar Pradesh!274204",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Brijesh Sahani",
+      "name": "Govind Sahani",
+      "num": "8726568722"
+    },
+    {
+      "aadhar": "365844026730",
+      "address": "!130!Bhirava Rudrapur!school!Rudrapur!Deoria!Deoria!Uttar Pradesh!274204",
+      "alt": "8726568722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jaysingh Yadav",
+      "name": "Baljeeven Jaysingh Yadav",
+      "num": "9026942351"
+    },
+    {
+      "aadhar": "365844026730",
+      "address": "!130!Bhirava Rudrapur!school!Rudrapur!Deoria!Deoria!Uttar Pradesh!274204",
+      "alt": "8726568722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jaysingh Yadav",
+      "name": "Baljeeven Jaysingh Yadav",
+      "num": "9026942351"
+    }
+  ]
+}
