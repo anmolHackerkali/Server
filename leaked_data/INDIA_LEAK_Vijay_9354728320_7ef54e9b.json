@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:40:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9354728320",
+  "records": [
+    {
+      "aadhar": "813587158393",
+      "address": "W/O  Vikash Sharma!House No-25!Gali No-3 Old Faridabad!!New Bhoor Colony!Kheri Kalan 113 Faridabad!Faridabad!Haryana!121002",
+      "alt": "7011131707",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vikash Sharma",
+      "name": "Vijay",
+      "num": "9354728320"
+    },
+    {
+      "aadhar": "813587158393",
+      "address": "W/O  Vikash Sharma!House No-25!Gali No-3Old Faridabad!!New Bhoor Colony!Kheri Kalan 113Faridabad!Faridabad!Haryana!121002",
+      "alt": "7011131707",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vikash Sharma",
+      "name": "Vijay",
+      "num": "9354728320"
+    },
+    {
+      "aadhar": "813587158393",
+      "address": "W/O  Vikash Sharma!House No-25!Gali No-3Old Faridabad!!New Bhoor Colony!Kheri Kalan 113Faridabad!Faridabad!Haryana!121002",
+      "alt": "7011131707",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vikash Sharma",
+      "name": "Vijay",
+      "num": "9354728320"
+    }
+  ]
+}
