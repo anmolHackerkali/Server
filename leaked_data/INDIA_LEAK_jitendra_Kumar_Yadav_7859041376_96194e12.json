@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:18:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7859041376",
+  "records": [
+    {
+      "aadhar": "785287600898",
+      "address": "S/O: Ram Ayodhya Yadav!!jogibir!near shiv mandir!bhojpur!Bhojpur!Bhojpur!Bihar!802183",
+      "alt": "9801176121",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "jitendra Kumar Yadav",
+      "num": "7859041376"
+    },
+    {
+      "aadhar": "785287600898",
+      "address": "S/O: Ram Ayodhya Yadav!!jogibir!near shiv mandir!bhojpur!Bhojpur!Bhojpur!Bihar!802183",
+      "alt": "9801176121",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "jitendra Kumar Yadav",
+      "num": "7859041376"
+    },
+    {
+      "aadhar": "785287600898",
+      "address": "S/O: Ram Ayodhya Yadav!!jogibir!near shiv mandir!bhojpur!Bhojpur!Bhojpur!Bihar!802183",
+      "alt": "9801176121",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "jitendra Kumar Yadav",
+      "num": "7859041376"
+    },
+    {
+      "aadhar": "785287600898",
+      "address": "s/o  ram ayodhya yadav!!JOGIBIR!!!Jogibir!Bhojpur!Bihar!802183",
+      "alt": "7859041376",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "Jitendra Kumar Yadav",
+      "num": "9801176121"
+    },
+    {
+      "aadhar": "785287600898",
+      "address": "s/o  ram ayodhya yadav!!JOGIBIR!!!Jogibir!Bhojpur!Bihar!802183",
+      "alt": "7859041376",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "Jitendra Kumar Yadav",
+      "num": "9801176121"
+    },
+    {
+      "aadhar": "785287600898",
+      "address": "s/o  ram ayodhya yadav!!JOGIBIR!!!Jogibir!Bhojpur!Bihar!802183",
+      "alt": "7859041376",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ram ayodhya yadav",
+      "name": "Jitendra Kumar Yadav",
+      "num": "9801176121"
+    }
+  ]
+}
