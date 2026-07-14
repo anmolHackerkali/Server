@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:29:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9964470374",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Manjunath G Revanakar F 12/ 8 8th Cross Road 2nd Stage Keshwaapur Hubli  Keshwapur Paarasawadi Hubli Keshwapur Dharwad Karnataka 580023",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "G  Revanakar",
+      "name": "Mahesh  Revankar",
+      "num": "9964470374"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Manjunath G Revanakar!!F 12/ 8 8th Cross Road 2nd Stage Paarasawadi!Keshwaapur Hubli!Keshwapur Dharwad!Karnataka!580023",
+      "alt": "919036535175",
+      "circle": "JIO KARNATKA",
+      "email": "mrevankar44@gmail.com",
+      "fname": "Govindaraya",
+      "name": "Mahesh Revankar",
+      "num": "9964470374"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O MANJUNATH G REVANAKAR F 12/ 8 8TH CROSS ROAD 2ND STAGE KESHWAAPUR HUBLI Keshwapur Keshwapur Karnataka 580023 Paarasawadi",
+      "alt": "9964470374",
+      "circle": "AIRTEL KARNATKA",
+      "email": "mrevankar44@gmail.com",
+      "fname": "MANJUNATH G REVANAKAR",
+      "name": "MAHESH  REVANKAR",
+      "num": "9036940236"
+    }
+  ]
+}
