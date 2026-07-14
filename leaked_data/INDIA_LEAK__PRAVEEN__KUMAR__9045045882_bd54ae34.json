@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 10:00:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9045045882",
+  "records": [
+    {
+      "aadhar": "360653781225",
+      "address": " !!!203/136 HARI NAGAR!mathura!UTTAR PRADESH!281004 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " DHRAMVEER SINGH SINGH ",
+      "name": " PRAVEEN  KUMAR ",
+      "num": "9045045882"
+    },
+    {
+      "aadhar": "360653781225",
+      "address": " !!!203/136 HARI NAGAR!mathura!UTTAR PRADESH!281004 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " DHRAMVEER SINGH SINGH ",
+      "name": " PRAVEEN  KUMAR ",
+      "num": "9045045882"
+    }
+  ]
+}
