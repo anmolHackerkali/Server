@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:29:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9691399273",
+  "records": [
+    {
+      "aadhar": "931337001658",
+      "address": "S/O  Sanman Singh!!Amadand!pankota!!Pankota Pendra!Bilaspur!Chhattisgarh!495119",
+      "alt": "8815649216",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Sanman Singh",
+      "name": "Ram Singh Ayam",
+      "num": "9691399273"
+    },
+    {
+      "aadhar": "647033731549",
+      "address": "S/O  Balveer Singh!!Jatga!ward 12!grampanchayat - jatga!Jatga Poundi Uproda!Korba!Chhattisgarh!495445",
+      "alt": "9691399273",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Balveer Singh",
+      "name": "Ashok Kumar",
+      "num": "6268984835"
+    }
+  ]
+}
