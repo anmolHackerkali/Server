@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:21:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8957960800",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Lakhan!!!Bhamai Husamganj post Diwanganj!Phulpur Allahabad!Uttar Pradesh!212402",
+      "alt": "918173059669",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Lakhan",
+      "name": "Harish Chandra",
+      "num": "8957960800"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Lakhan!!!Bhamai Husamganj post Diwanganj!Phulpur Allahabad!Uttar Pradesh!212402",
+      "alt": "918173059669",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Lakhan",
+      "name": "Harish Chandra",
+      "num": "8957960800"
+    },
+    {
+      "aadhar": "327547838723",
+      "address": "S/O VIJAY BAHADUR!00!lalgarh!!KOTHA NEWARHIYAPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503",
+      "alt": "8957960800",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Vijay Bahadur Yadav",
+      "name": "MR. VINAY KUMAR",
+      "num": "9517065864"
+    },
+    {
+      "aadhar": "514647956090",
+      "address": "!ADDRE SS W/O: ARUN KUMAR 14/28 A INDRA!DRUMOND ROAD DRUMOND ROAD DRUMOND ROADN!NEAR IVIOWER!ALLAHABADALLAHABAD!ALLAHABAD!UTTAR PRADESH!211001",
+      "alt": "8957960800",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Arun Kumar",
+      "name": "MS. SAVITA SAROJ",
+      "num": "7081293791"
+    },
+    {
+      "aadhar": "327547838723",
+      "address": "S/O VIJAY BAHADUR!00!lalgarh!!KOTHA NEWARHIYA PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503",
+      "alt": "8957960800",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vijay Bahadur Yadav",
+      "name": "MR VINAY KUMAR",
+      "num": "9517065864"
+    },
+    {
+      "aadhar": "437657946382",
+      "address": "s/o  gunai yadav!309!Aharaula!!shambhupur damdiyauna ahiraula!aharaula Burhanpur!azamgarh!Uttar Pradesh!223221",
+      "alt": "8957960800",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gunai yadav",
+      "name": "Vinod Yadav",
+      "num": "8896264701"
+    },
+    {
+      "aadhar": "514647956090",
+      "address": "!ADDRE SS  W/O: ARUN KUMAR  14/28 A INDRA!DRUMOND ROAD DRUMOND ROAD DRUMOND ROAD N!NEAR IVIOWER!ALLAHABAD ALLAHABAD!ALLAHABAD!UTTAR PRADESH!211001",
+      "alt": "8957960800",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Arun Kumar",
+      "name": "MS SAVITA SAROJ",
+      "num": "7081293791"
+    },
+    {
+      "aadhar": "810851672836",
+      "address": "S/O  Gangadeen! 48!Surapur!!lodipur!LodePur Akbarpur!Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": "8957960800",
+      "circle": "JIO UPE",
+      "email": "DWARIKAPRASAD@GMAIL.COM",
+      "fname": "Gangadeen",
+      "name": "Dwarika Prasad",
+      "num": "6307697970"
+    },
+    {
+      "aadhar": "327547838723",
+      "address": "S/O VIJAY BAHADUR!00!lalgarh!!KOTHA NEWARHIYA PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503",
+      "alt": "8957960800",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vijay Bahadur Yadav",
+      "name": "MR VINAY KUMAR",
+      "num": "9517065864"
+    },
+    {
+      "aadhar": "437657946382",
+      "address": "s/o  gunai yadav!309!Aharaula!!shambhupur damdiyauna ahiraula!aharaula Burhanpur!azamgarh!Uttar Pradesh!223221",
+      "alt": "8957960800",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gunai yadav",
+      "name": "Vinod Yadav",
+      "num": "8896264701"
+    },
+    {
+      "aadhar": "514647956090",
+      "address": "!ADDRE SS  W/O: ARUN KUMAR  14/28 A INDRA!DRUMOND ROAD DRUMOND ROAD DRUMOND ROAD N!NEAR IVIOWER!ALLAHABAD ALLAHABAD!ALLAHABAD!UTTAR PRADESH!211001",
+      "alt": "8957960800",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Arun Kumar",
+      "name": "MS SAVITA SAROJ",
+      "num": "7081293791"
+    },
+    {
+      "aadhar": "810851672836",
+      "address": "S/O  Gangadeen! 48!Surapur!!lodipur!LodePur Akbarpur!Ambedkar Nagar!Uttar Pradesh!224227",
+      "alt": "8957960800",
+      "circle": "JIO UPE",
+      "email": "DWARIKAPRASAD@GMAIL.COM",
+      "fname": "Gangadeen",
+      "name": "Dwarika Prasad",
+      "num": "6307697970"
+    }
+  ]
+}
