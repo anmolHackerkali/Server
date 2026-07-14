@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:23:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9411864565",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Mahendra Singh!!state bank Colony nadrai gate!!Kasganj Kasganj!Uttar Pradesh!207123",
+      "alt": "919887064565",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mahendra Singh",
+      "name": "Ramandeep Singh",
+      "num": "9411864565"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Mahendra Singh!!state bank Colony nadrai gate!!Kasganj Kasganj!Uttar Pradesh!207123",
+      "alt": "919887064565",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Mahendra Singh",
+      "name": "Ramandeep Singh",
+      "num": "9411864565"
+    }
+  ]
+}
