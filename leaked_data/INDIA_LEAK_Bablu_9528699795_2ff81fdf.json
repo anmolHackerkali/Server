@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:31:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9528699795",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O  Badan Singh!!KT 24!NH 2 karmyogi Nagar Techman City!Aduki Mathura!Uttar Pradesh!281006",
+      "alt": "917006524188",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Badan Singh",
+      "name": "Bablu",
+      "num": "9528699795"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Badan Singh!!KT 24!NH 2 karmyogi Nagar Techman City!Aduki Mathura!Uttar Pradesh!281006",
+      "alt": "917006524188",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Badan Singh",
+      "name": "Bablu",
+      "num": "9528699795"
+    },
+    {
+      "aadhar": "412088849421",
+      "address": "c/o  bablu!KT 24 NH2!karmyogi nagar!!kt 24 nh2 karmyogi nagar techmain city!aduki!mathura!Uttar Pradesh!281006",
+      "alt": "9528699795",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Bablu",
+      "name": "Saroj Kumari",
+      "num": "9548110665"
+    },
+    {
+      "aadhar": "412088849421",
+      "address": "c/o  bablu!KT 24 NH2!karmyogi nagar!!kt 24 nh2 karmyogi nagar techmain city!aduki!mathura!Uttar Pradesh!281006",
+      "alt": "9528699795",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Bablu",
+      "name": "Saroj Kumari",
+      "num": "9548110665"
+    }
+  ]
+}
