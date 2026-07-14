@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:46:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9905961698",
+  "records": [
+    {
+      "aadhar": "437316388808",
+      "address": "!na!bind nalanda bihar!bind bihar!nalanda bihar!Nalanda!Nalanda!Bihar!803107",
+      "alt": "9097211512",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay singh",
+      "name": "sharvan kumar",
+      "num": "9905961698"
+    },
+    {
+      "aadhar": "437316388808",
+      "address": "!na!bind nalanda bihar!bind bihar!nalanda bihar!Nalanda!Nalanda!Bihar!803107",
+      "alt": "9097211512",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay singh",
+      "name": "sharvan kumar",
+      "num": "9905961698"
+    }
+  ]
+}
