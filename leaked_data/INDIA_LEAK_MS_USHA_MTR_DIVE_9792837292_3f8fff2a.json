@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:52:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792837292",
+  "records": [
+    {
+      "aadhar": "265548812240",
+      "address": "W/O UMASHANKAR!KEWAL PURWA!KEWAL PURWA!!KEWAL PURWAKHERI!KHERI!UTTAR PRADESH!262728",
+      "alt": "9984679605",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Umashankar",
+      "name": "MS. USHA MTR DIVE",
+      "num": "9792837292"
+    },
+    {
+      "aadhar": "265548812240",
+      "address": "W/O UMASHANKAR!KEWAL PURWA!KEWAL PURWA!!KEWAL PURWA KHERI!KHERI!UTTAR PRADESH!262728",
+      "alt": "9984679605",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Umashankar",
+      "name": "MS USHA MTR DIVE",
+      "num": "9792837292"
+    },
+    {
+      "aadhar": "265548812240",
+      "address": "W/O UMASHANKAR!KEWAL PURWA!KEWAL PURWA!!KEWAL PURWA KHERI!KHERI!UTTAR PRADESH!262728",
+      "alt": "9984679605",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Umashankar",
+      "name": "MS USHA MTR DIVE",
+      "num": "9792837292"
+    }
+  ]
+}
