@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:31:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7087179729",
+  "records": [
+    {
+      "aadhar": "835925174322",
+      "address": "S/O NIRSU MISHRA!836!NEW RAJESH NAGAR GALI NO 4 BATALA ROAD!TUNGPAIAMRITSAR -I!AMRITSAR!PUNJAB!143001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "NIRSU MISHRA",
+      "name": "SUDHIR MISHRA",
+      "num": "7087179729"
+    }
+  ]
+}
