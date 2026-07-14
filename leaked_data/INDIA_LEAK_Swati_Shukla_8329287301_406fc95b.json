@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:24:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8329287301",
+  "records": [
+    {
+      "aadhar": "616407655199",
+      "address": "D/O  Ram Shukla!!248/155 baluaghat Allahabad City!NA!allahabad!Allahabad Allahabad Allahabad!NA!Uttar Pradesh!211003",
+      "alt": "8329287301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Shukla",
+      "name": "Swati Shukla",
+      "num": "9696352602"
+    },
+    {
+      "aadhar": "616407655199",
+      "address": "D/O  Ram Shukla!!248/155 baluaghat Allahabad City!NA!allahabad!Allahabad Allahabad Allahabad!NA!Uttar Pradesh!211003",
+      "alt": "8329287301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Shukla",
+      "name": "Swati Shukla",
+      "num": "9696352602"
+    }
+  ]
+}
