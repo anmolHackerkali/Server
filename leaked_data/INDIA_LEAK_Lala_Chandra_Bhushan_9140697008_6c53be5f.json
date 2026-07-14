@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:54:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140697008",
+  "records": [
+    {
+      "aadhar": "522455258727",
+      "address": "S/O  Lala Awadhesh Kumar Pandey!!113 millenium city colony Jungle mahuawa urf mohammadpur Near Karim Nagar Chauraha!PO Chargawan!Gorakhpur Gorakhpur!Uttar Pradesh!273013",
+      "alt": "919532600056",
+      "circle": "JIO UPE",
+      "email": "mastermind.i.acheiver@gmail.com",
+      "fname": "Lala Awadhesh Kumar Pandey",
+      "name": "Lala Chandra Bhushan Prasad Pandey",
+      "num": "9140697008"
+    },
+    {
+      "aadhar": "522455258727",
+      "address": "S/O  Lala Awadhesh Kumar Pandey!!113 millenium city colony Jungle mahuawa urf mohammadpur Near Karim Nagar Chauraha!PO Chargawan!Gorakhpur Gorakhpur!Uttar Pradesh!273013",
+      "alt": "919532600056",
+      "circle": "JIO UPE",
+      "email": "mastermind.i.acheiver@gmail.com",
+      "fname": "Lala Awadhesh Kumar Pandey",
+      "name": "Lala Chandra Bhushan Prasad Pandey",
+      "num": "9140697008"
+    }
+  ]
+}
