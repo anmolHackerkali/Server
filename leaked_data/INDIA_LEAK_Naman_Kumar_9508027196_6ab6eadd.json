@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:43:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508027196",
+  "records": [
+    {
+      "aadhar": "585857154195",
+      "address": "S/O Shrawan Kumar Bhagat! 12!sundarpur!m g college!darbhanga!Darbhanga!Darbhanga!Bihar!846004",
+      "alt": "7004545191",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shrawan Kumar Bhagat",
+      "name": "Naman Kumar",
+      "num": "9508027196"
+    },
+    {
+      "aadhar": "585857154195",
+      "address": "S/O Shrawan Kumar Bhagat! 12!sundarpur!m g college!darbhanga!Darbhanga!Darbhanga!Bihar!846004",
+      "alt": "7004545191",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shrawan Kumar Bhagat",
+      "name": "Naman Kumar",
+      "num": "9508027196"
+    },
+    {
+      "aadhar": "585857154195",
+      "address": "S/O Shrawan Kumar Bhagat! 12!sundarpur!m g college!darbhanga!Darbhanga!Darbhanga!Bihar!846004",
+      "alt": "7004545191",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shrawan Kumar Bhagat",
+      "name": "Naman Kumar",
+      "num": "9508027196"
+    }
+  ]
+}
