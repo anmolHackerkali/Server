@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:26:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7011200177",
+  "records": [
+    {
+      "aadhar": "238741251082",
+      "address": "C/O M L Kakkar!!22 /1 N H-5 Near Bhaki Bihari Mndir Faridabad Nit!N I T!Faridabad Faridabad!Haryana!121001",
+      "alt": "918800670290",
+      "circle": "JIO DELHI",
+      "email": "binugopi2000@yahoo.co.in",
+      "fname": "J gopinathan",
+      "name": "Binu G S",
+      "num": "7011200177"
+    },
+    {
+      "aadhar": "238741251082",
+      "address": "C/O M L Kakkar!!22 /1N H-5Near Bhaki Bihari MndirFaridabad Nit!N I T!FaridabadFaridabad!Haryana!121001",
+      "alt": "918800670290",
+      "circle": "JIO DELHI",
+      "email": "binugopi2000@yahoo.co.in",
+      "fname": "J gopinathan",
+      "name": "Binu G S",
+      "num": "7011200177"
+    },
+    {
+      "aadhar": "238741251082",
+      "address": "C/O M L Kakkar!!22 /1N H-5Near Bhaki Bihari MndirFaridabad Nit!N I T!FaridabadFaridabad!Haryana!121001",
+      "alt": "918800670290",
+      "circle": "JIO DELHI",
+      "email": "binugopi2000@yahoo.co.in",
+      "fname": "J gopinathan",
+      "name": "Binu G S",
+      "num": "7011200177"
+    }
+  ]
+}
