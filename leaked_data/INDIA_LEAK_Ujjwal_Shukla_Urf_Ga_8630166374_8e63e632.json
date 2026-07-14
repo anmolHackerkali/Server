@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 03:52:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8630166374",
+  "records": [
+    {
+      "aadhar": "958064549327",
+      "address": "S/O Shri Diwakar Shukla!!!THATHARAI MUHAL MAKAN-34!AuraiyaAuraiya!Uttar Pradesh!206122",
+      "alt": "+919236623177",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shri Diwakar Shukla",
+      "name": "Ujjwal Shukla Urf Gagan Shukla",
+      "num": "8630166374"
+    },
+    {
+      "aadhar": "958064549327",
+      "address": "S/O Shri Diwakar Shukla!!!THATHARAI MUHAL MAKAN-34!Auraiya Auraiya!Uttar Pradesh!206122",
+      "alt": "919236623177",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shri Diwakar Shukla",
+      "name": "Ujjwal Shukla Urf Gagan Shukla",
+      "num": "8630166374"
+    },
+    {
+      "aadhar": "958064549327",
+      "address": "S/O Shri Diwakar Shukla!!!THATHARAI MUHAL MAKAN-34!Auraiya Auraiya!Uttar Pradesh!206122",
+      "alt": "919236623177",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shri Diwakar Shukla",
+      "name": "Ujjwal Shukla Urf Gagan Shukla",
+      "num": "8630166374"
+    }
+  ]
+}
