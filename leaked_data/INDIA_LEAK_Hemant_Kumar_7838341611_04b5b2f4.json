@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 00:27:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7838341611",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Attar Singh!!Village bhankri!pali Faridabad!Pali13 Faridabad!Haryana!121004",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "7838341611"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Attar Singh!!Village bhankri!pali Faridabad!Pali13Faridabad!Haryana!121004",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "7838341611"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Attar Singh!!Village bhankri!pali Faridabad!Pali13Faridabad!Haryana!121004",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "7838341611"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!!11 bhankri pali pali!NA!faridabad!Faridabad Faridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!!11bhankri palipali!NA!faridabad!FaridabadFaridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!!11bhankri palipali!NA!faridabad!FaridabadFaridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    }
+  ]
+}
