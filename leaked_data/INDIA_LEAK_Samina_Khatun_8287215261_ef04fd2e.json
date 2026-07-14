@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 09:01:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287215261",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Mohd Ujjair!!House no-191!Jhandapur!I E Sahibabad Ghaziabad!Uttar Pradesh!201010",
+      "alt": "919835796380",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Ujjair",
+      "name": "Samina Khatun",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": "NWD4421052",
+      "address": "!699!MEHLA MOHALLA MADAN PUR KHADAR!!MEHLA MOHALLA MADAN PUR KHADAR!New Delhi South!South!Delhi!110076",
+      "alt": "9899899483",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramchandra Pandey",
+      "name": "Vinay Pandey",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Mohd Ujjair!!House no-191!Jhandapur!I E SahibabadGhaziabad!Uttar Pradesh!201010",
+      "alt": "919835796380",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Ujjair",
+      "name": "Samina Khatun",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": "NWD4421052",
+      "address": "!699!MEHLA MOHALLA MADAN PUR KHADAR!!MEHLA MOHALLA MADAN PUR KHADAR!New Delhi South!South!Delhi!110076",
+      "alt": "9899899483",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramchandra Pandey",
+      "name": "Vinay Pandey",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": "NWD4421052",
+      "address": "!699!MEHLA MOHALLA MADAN PUR KHADAR!!MEHLA MOHALLA MADAN PUR KHADAR!New Delhi South!South!Delhi!110076",
+      "alt": "9899899483",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramchandra Pandey",
+      "name": "Vinay Pandey",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Mohd Ujjair!!House no-191!Jhandapur!I E SahibabadGhaziabad!Uttar Pradesh!201010",
+      "alt": "919835796380",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Mohd Ujjair",
+      "name": "Samina Khatun",
+      "num": "8287215261"
+    },
+    {
+      "aadhar": "NWD4421052",
+      "address": "!699  mehla mohalla!madan pur khadar!!delhi!New Delhi South!South!Delhi!110076",
+      "alt": "8287215261",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ramchandra pandey",
+      "name": "VINAY PANDEY",
+      "num": "9899899483"
+    }
+  ]
+}
