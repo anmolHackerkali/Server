@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:48:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693473713",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx1687",
+      "address": "S/O Sohan Saw!Ghanoodih Coliary Office!!Post-Jharia Ps-Tisra Jharia!!Dhanbad!Jharkhand!828111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sohan  Saw",
+      "name": "Suresh Kumar Sao",
+      "num": "9693473713"
+    },
+    {
+      "aadhar": "xxxxxxxx1687",
+      "address": "S/O Sohan Saw!Ghanoodih Coliary Office!!Post-Jharia Ps-Tisra Jharia!!Dhanbad!Jharkhand!828111",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sohan  Saw",
+      "name": "Suresh Kumar Sao",
+      "num": "9693473713"
+    }
+  ]
+}
