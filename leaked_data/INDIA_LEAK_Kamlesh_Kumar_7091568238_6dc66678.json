@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:48:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7091568238",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Anil Chaudhari!gram- jota!!post- sheotar!!Jota!Gaya!Bihar!805109",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Anil Chaudhari",
+      "name": "Kamlesh Kumar",
+      "num": "7091568238"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Anil Chaudhari!gram- jota!!post- sheotar!!Jota!Gaya!Bihar!805109",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Anil Chaudhari",
+      "name": "Kamlesh Kumar",
+      "num": "7091568238"
+    }
+  ]
+}
