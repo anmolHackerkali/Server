@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:20:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7003148705",
+  "records": [
+    {
+      "aadhar": "222436869783",
+      "address": " !!SHYAMBANDHU PALZA -1 1/1 D - ROAD ANANDAPURI!!Barrackpore (m) North 24 Parganas!West Bengal!700122 ",
+      "alt": "918296469432",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "naresh Chandra lahiri",
+      "name": "Ajoy Kumar Lahiri",
+      "num": "7003148705"
+    },
+    {
+      "aadhar": "222436869783",
+      "address": " !!SHYAMBANDHU PALZA -1 1/1 D - ROAD ANANDAPURI!!Barrackpore (m) North 24 Parganas!West Bengal!700122 ",
+      "alt": "918296469432",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "naresh Chandra lahiri",
+      "name": "Ajoy Kumar Lahiri",
+      "num": "7003148705"
+    }
+  ]
+}
