@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 19:43:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9327028328",
+  "records": [
+    {
+      "aadhar": "H7122903",
+      "address": "A/78 JOGESHWARI PARK!AMRAIWADI!NR PURVADEEP SOC!AHMEDABAD!GUJARAT!380026",
+      "alt": "9979039757",
+      "circle": "VI GUJARAT",
+      "email": "RTCVINOD27@YAHOO.CO.IN",
+      "fname": "RAMESHKUMAR",
+      "name": "MR VINODKUMAR JOGI",
+      "num": "9327028328"
+    },
+    {
+      "aadhar": "H7122903",
+      "address": "A/78 JOGESHWARI PARK!AMRAIWADI!NR PURVADEEP SOC!AHMEDABAD!GUJARAT!380026",
+      "alt": "9979039757",
+      "circle": "VI GUJARAT",
+      "email": "RTCVINOD27@YAHOO.CO.IN",
+      "fname": "RAMESHKUMAR",
+      "name": "MR VINODKUMAR JOGI",
+      "num": "9327028328"
+    }
+  ]
+}
