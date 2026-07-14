@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 20:57:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9346746442",
+  "records": [
+    {
+      "aadhar": "520634223203",
+      "address": "W/O  Lalu!!2-29 bhavannapalem - Peddireddigudem!NA!bhavannapalem penuballi mandalam!Peddireddigudem Chandrugonda Khammam!NA!Andhra Pradesh!507316",
+      "alt": "9866547045",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Lalu",
+      "name": "Ravula Nagamani",
+      "num": "9346746442"
+    }
+  ]
+}
