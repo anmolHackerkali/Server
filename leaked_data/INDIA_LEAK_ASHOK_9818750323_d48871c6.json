@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:37:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818750323",
+  "records": [
+    {
+      "aadhar": "-",
+      "address": "TH 31 SARVODAYA CAMP KALKAJI NEW DELHI DELHI 110019! ! !!!",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "PHULLAN",
+      "name": "ASHOK",
+      "num": "9818750323"
+    },
+    {
+      "aadhar": null,
+      "address": "!TH 31 SARVODAYA CAMP KALKAJI NEW DELHI DELHI 110019!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "PHULLAN",
+      "name": "ASHOK",
+      "num": "9818750323"
+    },
+    {
+      "aadhar": null,
+      "address": "TH 31 SARVODAYA CAMP KALKAJI NEW DELHI DELHI 110019! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "PHULLAN",
+      "name": "ASHOK",
+      "num": "9818750323"
+    },
+    {
+      "aadhar": null,
+      "address": "TH 31 SARVODAYA CAMP KALKAJI NEW DELHI DELHI 110019! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "PHULLAN",
+      "name": "ASHOK",
+      "num": "9818750323"
+    }
+  ]
+}
