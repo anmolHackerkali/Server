@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 04:52:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8970692367",
+  "records": [
+    {
+      "aadhar": "677066554987",
+      "address": "S/O Basangouda!149/d 151/d!Atthugol oni!!Ankalgi Belgaum!Belagavi!BELAGAVI!Karnataka!591101",
+      "alt": "7259872367",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Basangouda ",
+      "name": "Shivangouda ",
+      "num": "8970692367"
+    },
+    {
+      "aadhar": "677066554987",
+      "address": "S/O Basangouda! 149/d 151/d!Atthugol oni!Ankalgi!Atthugol oni Ankalgi Belgaum!Gokak!Belgaum!Karnataka!591101",
+      "alt": "8970692367",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Basangouda",
+      "name": "Shivangouda",
+      "num": "9019284461"
+    },
+    {
+      "aadhar": "677066554987",
+      "address": " 149/d 151/d Atthugol oni Belgaum Ankalgi Belagavi BELAGAVI Karnataka 591101",
+      "alt": "8970692367",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Basangouda ",
+      "name": "Shivangouda",
+      "num": "7259872367"
+    },
+    {
+      "aadhar": "677066554987",
+      "address": "S/O Basangouda!149/d 151/d!Atthugol oni!temple!Ankalgi Belgaum!Belagavi!BELAGAVI!Karnataka!591101",
+      "alt": "8970692367",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Basangouda ",
+      "name": "Shivangouda ",
+      "num": "7204839499"
+    }
+  ]
+}
