@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 15:15:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906353341",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Ramnath Sharma!!mainaputthi sardhana!!Mainaputhi Meerut!Uttar Pradesh!250344",
+      "alt": "917037962648",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramnath Sharma",
+      "name": "Priya Sharma",
+      "num": "7906353341"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Ramnath Sharma!!mainaputthi sardhana!!Mainaputhi Meerut!Uttar Pradesh!250344",
+      "alt": "917037962648",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramnath Sharma",
+      "name": "Priya Sharma",
+      "num": "7906353341"
+    },
+    {
+      "aadhar": "945100548898",
+      "address": "!13!sarurpur KHURD SARURPUR KHURD SARDHANA!sardhana!sardhana!Meerut!Meerut!Uttar Pradesh!250344",
+      "alt": "7906353341",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "sunil",
+      "name": "Ankit Kumar  ",
+      "num": "9520151809"
+    }
+  ]
+}
