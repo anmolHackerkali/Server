@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:27:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8968941919",
+  "records": [
+    {
+      "aadhar": "591063060997",
+      "address": "Sanjeev Sarna!!Sarna Colony Ward No  10 City/District: S A S NagarMohali!Near Water Tank!DERA BASSI!PUNJAB!140507",
+      "alt": null,
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Sanjeev Sarna",
+      "name": "Sayna Sarna",
+      "num": "8968941919"
+    }
+  ]
+}
