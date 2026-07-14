@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 17:33:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9654593888",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "B2/319 ! GALI NO-2RAJVEER CLY GHAROLI !  ! Delhi ! DELHI ! 110096",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "MANORATH KUMAR SHARMA",
+      "num": "9654593888"
+    },
+    {
+      "aadhar": null,
+      "address": "B2/319 ! GALI NO-2RAJVEER CLY GHAROLI !  ! Delhi ! DELHI ! 110096",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "MANORATH KUMAR SHARMA",
+      "num": "9654593888"
+    },
+    {
+      "aadhar": null,
+      "address": "B2/319 ! GALI NO-2RAJVEER CLY GHAROLI !  ! Delhi ! DELHI ! 110096",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": null,
+      "name": "MANORATH KUMAR SHARMA",
+      "num": "9654593888"
+    }
+  ]
+}
