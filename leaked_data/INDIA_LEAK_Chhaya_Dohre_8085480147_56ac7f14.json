@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:06:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8085480147",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " haus no 05 piprai  Piprayi Ashok Nagar  Madhya Pradesh 473440",
+      "alt": "8085480147",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Mata Prasad Dohre",
+      "name": "Chhaya Dohre",
+      "num": "8085480147 "
+    },
+    {
+      "aadhar": "734213525766",
+      "address": "d/o  mata prasad dohre! haus no 05!piprai piprayi ashok nagar!!piprai!piprayi!ashok nagar!Madhya Pradesh!473440",
+      "alt": "8085480147",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "mata prasad dohre",
+      "name": "Chhaya Dohre",
+      "num": "6263853262"
+    }
+  ]
+}
