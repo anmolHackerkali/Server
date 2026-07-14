@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 08:32:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9427166304",
+  "records": [
+    {
+      "aadhar": "905651115384",
+      "address": "3437Munshi Mohallo Olpad Surat Surat Gujarat 394540",
+      "alt": "9909818694",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Zahur",
+      "name": "Razak Husain Zahur Ahmad Shaikh",
+      "num": "9427166304"
+    },
+    {
+      "aadhar": "905651115384",
+      "address": "3437Munshi Mohallo Olpad Surat Surat Gujarat 394540",
+      "alt": "9909818694",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Zahur",
+      "name": "Razak Husain Zahur Ahmad Shaikh",
+      "num": "9427166304"
+    }
+  ]
+}
