@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:05:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8052319045",
+  "records": [
+    {
+      "aadhar": "547881386804",
+      "address": " !!Gwalior Residency!117-B Adityapuram Bhind Road!LUCKNOW!Madhya Pradesh!474005",
+      "alt": "8052319045",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagannath Prasad",
+      "name": "Sarnam Singh",
+      "num": "8052319045"
+    },
+    {
+      "aadhar": "547881386804",
+      "address": " !!Gwalior Residency!117-B Adityapuram Bhind Road!LUCKNOW!Madhya Pradesh!474005",
+      "alt": "8052319045",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagannath Prasad",
+      "name": "Sarnam Singh",
+      "num": "8052319045"
+    },
+    {
+      "aadhar": "547881386804",
+      "address": " !!Gwalior Residency!117-B Adityapuram Bhind Road!LUCKNOW!Madhya Pradesh!474005",
+      "alt": "8052319045",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagannath Prasad",
+      "name": "Sarnam Singh",
+      "num": "8052319045"
+    },
+    {
+      "aadhar": "547881386804",
+      "address": " !!Gwalior Residency!117-B Adityapuram Bhind Road!LUCKNOW!Madhya Pradesh!474005",
+      "alt": "8052319045",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Jagannath Prasad",
+      "name": "Sarnam Singh",
+      "num": "8052319045"
+    }
+  ]
+}
