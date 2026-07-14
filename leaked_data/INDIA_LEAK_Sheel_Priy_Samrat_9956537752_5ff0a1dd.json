@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 07:03:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956537752",
+  "records": [
+    {
+      "aadhar": "579717814044",
+      "address": "!15!lalitpur!lalitpur!Jalaun!Uttar Pradesh!284403",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sarnam Singh",
+      "name": "Sheel Priy Samrat",
+      "num": "9956537752"
+    },
+    {
+      "aadhar": "579717814044",
+      "address": "!15!lalitpur!lalitpur!Jalaun!Uttar Pradesh!284403",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sarnam Singh",
+      "name": "Sheel Priy Samrat",
+      "num": "9956537752"
+    }
+  ]
+}
