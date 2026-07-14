@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 11:15:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8319775788",
+  "records": [
+    {
+      "aadhar": "658894116641",
+      "address": "S/O Bhagirath!!Makan N 100 Ward3!Tahsil Harsud!NISHANIYA MAL EAST NIMAR!Madhya Pradesh!450116",
+      "alt": "917089619099",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Bhagirath",
+      "name": "Dhiraj Chakarde",
+      "num": "8319775788"
+    }
+  ]
+}
