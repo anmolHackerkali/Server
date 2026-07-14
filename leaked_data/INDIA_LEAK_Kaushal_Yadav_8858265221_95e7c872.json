@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 02:19:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8858265221",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Bachole!!rakhma pur!unnao!Bihar Unnao!Uttar Pradesh!229504",
+      "alt": "917618482599",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bachole",
+      "name": "Kaushal Yadav",
+      "num": "8858265221"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Bachole!!rakhma pur!unnao!Bihar Unnao!Uttar Pradesh!229504",
+      "alt": "917618482599",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bachole",
+      "name": "Kaushal Yadav",
+      "num": "8858265221"
+    },
+    {
+      "aadhar": "915115477069",
+      "address": "!70!ghanshyamnagar street no 3!NA!l h road!Surat Surat!NA!Gujarat!395006",
+      "alt": "8858265221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bachole",
+      "name": "Kaushal Yadav",
+      "num": "7318482599"
+    },
+    {
+      "aadhar": "915115477069",
+      "address": "!0!rakhma pur!bihar!purwa!GANGAGHAT BIHAR!Unnao!Uttar Pradesh!229504",
+      "alt": "8858265221",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "bachole",
+      "name": "kaushal Yadav",
+      "num": "9555172693"
+    },
+    {
+      "aadhar": "860307298352",
+      "address": "!05!Rakhamapur!!Bihar  Bihar!Unnao!!Uttar Pradesh!229504",
+      "alt": "8858265221",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Brajesh  kumar",
+      "name": "Anita  ",
+      "num": "7068929766"
+    },
+    {
+      "aadhar": "915115477069",
+      "address": "!70!ghanshyamnagar street no 3!NA!l h road!Surat Surat!NA!Gujarat!395006",
+      "alt": "8858265221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bachole",
+      "name": "Kaushal Yadav",
+      "num": "7318482599"
+    },
+    {
+      "aadhar": "915115477069",
+      "address": "!0!rakhma pur!bihar!purwa!GANGAGHAT BIHAR!Unnao!Uttar Pradesh!229504",
+      "alt": "8858265221",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "bachole",
+      "name": "kaushal Yadav",
+      "num": "9555172693"
+    },
+    {
+      "aadhar": "860307298352",
+      "address": "!05!Rakhamapur!!Bihar  Bihar!Unnao!!Uttar Pradesh!229504",
+      "alt": "8858265221",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Brajesh  kumar",
+      "name": "Anita  ",
+      "num": "7068929766"
+    },
+    {
+      "aadhar": "915115477069",
+      "address": "!70!ghanshyamnagar street no 3!NA!l h road!Surat Surat!NA!Gujarat!395006",
+      "alt": "8858265221",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bachole",
+      "name": "Kaushal Yadav",
+      "num": "7318482599"
+    }
+  ]
+}
