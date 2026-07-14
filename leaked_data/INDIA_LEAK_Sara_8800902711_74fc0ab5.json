@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 05:43:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8800902711",
+  "records": [
+    {
+      "aadhar": "264971492433",
+      "address": "D/O Abdul Mannan!house NO-744 f!housing Board Colony!Police chowki Sector-21 DFaridabad!Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul Mannan",
+      "name": "Sara",
+      "num": "8800902711"
+    },
+    {
+      "aadhar": "264971492433",
+      "address": "D/O Abdul Mannan!house NO-744 f!housing Board Colony!Police chowki Sector-21 DFaridabad!Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul Mannan",
+      "name": "Sara",
+      "num": "8800902711"
+    },
+    {
+      "aadhar": "264971492433",
+      "address": "D/O Abdul Mannan!house NO-744 f!housing Board Colony!Police chowki Sector-21 DFaridabad!Faridabad!Haryana!121001",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul Mannan",
+      "name": "Sara",
+      "num": "8800902711"
+    }
+  ]
+}
