@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 12:09:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9427134465",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O Wankhede Brahmanand 435 geeta gram society bharatnagar 11/A Gandhidham",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Wankhede Brahmanand",
+      "name": "Wankhede Dheeraj",
+      "num": "9427134465"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Wankhede Brahmanand 435 geeta gram society bharatnagar 11/A Gandhidham",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Wankhede Brahmanand",
+      "name": "Wankhede Dheeraj",
+      "num": "9427134465"
+    },
+    {
+      "aadhar": "784642613246",
+      "address": "C/O Wankhede Brahmanand!435  geeta gram society  11/A!435  geeta gram society  11/A!435  geeta gram society  11/A!bharatnagar KACHCHH!GANDHIDHAM!KACHCHH!Gujarat!370240",
+      "alt": "9427134465",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Brahmanand Wankhede",
+      "name": "MR DHEERAJ WANKHEDE",
+      "num": "9081137106"
+    },
+    {
+      "aadhar": "784642613246",
+      "address": "C/O Wankhede Brahmanand!435  geeta gram society  11/A!435  geeta gram society  11/A KACHCHH!KACHCHH!bharatnagar KACHCHH!GANDHIDHAM!KACHCHH!Gujarat!370240",
+      "alt": "9427134465",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Brahmanand",
+      "name": "MR WANKHEDE DHEERAJ",
+      "num": "9081137103"
+    },
+    {
+      "aadhar": "784642613246",
+      "address": "C/O Wankhede Brahmanand!435  geeta gram society  11/A!435  geeta gram society  11/A!435  geeta gram society  11/A!bharatnagar KACHCHH!GANDHIDHAM!KACHCHH!Gujarat!370240",
+      "alt": "9427134465",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Brahmanand Wankhede",
+      "name": "MR DHEERAJ WANKHEDE",
+      "num": "9081137106"
+    },
+    {
+      "aadhar": "784642613246",
+      "address": "C/O Wankhede Brahmanand!435  geeta gram society  11/A!435  geeta gram society  11/A KACHCHH!KACHCHH!bharatnagar KACHCHH!GANDHIDHAM!KACHCHH!Gujarat!370240",
+      "alt": "9427134465",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Brahmanand",
+      "name": "MR WANKHEDE DHEERAJ",
+      "num": "9081137103"
+    }
+  ]
+}
