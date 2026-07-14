@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 01:34:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7984542080",
+  "records": [
+    {
+      "aadhar": "717686780257",
+      "address": "!!Ishra!!isra upleta!ishra Upleta!rajkot!Gujarat!360490",
+      "alt": "9879311526",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bhimabhai",
+      "name": "Nandaniya Vejabhai Bhimabhai",
+      "num": "7984542080"
+    },
+    {
+      "aadhar": "717686780257",
+      "address": "!!Ishra!!isra upleta!ishra Upleta!rajkot!Gujarat!360490",
+      "alt": "9879311526",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bhimabhai",
+      "name": "Nandaniya Vejabhai Bhimabhai",
+      "num": "7984542080"
+    },
+    {
+      "aadhar": "717686780257",
+      "address": "!!Ishra!!isra upleta!ishra Upleta!rajkot!Gujarat!360490",
+      "alt": "9879311526",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bhimabhai",
+      "name": "Nandaniya Vejabhai Bhimabhai",
+      "num": "7984542080"
+    }
+  ]
+}
