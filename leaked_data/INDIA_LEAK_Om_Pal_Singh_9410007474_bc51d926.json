@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-14 18:54:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9410007474",
+  "records": [
+    {
+      "aadhar": "226610407605",
+      "address": "S/O  Babu Lal Singh!!New Agra!!!Dayal Bagh!Agra!Uttar Pradesh!282005",
+      "alt": "7505829364",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Babu Lal Singh",
+      "name": "Om Pal Singh",
+      "num": "9410007474"
+    },
+    {
+      "aadhar": "226610407605",
+      "address": "S/O  Babu Lal Singh!!New Agra!!!Dayal Bagh!Agra!Uttar Pradesh!282005",
+      "alt": "7505829364",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Babu Lal Singh",
+      "name": "Om Pal Singh",
+      "num": "9410007474"
+    },
+    {
+      "aadhar": "961960898994",
+      "address": "A2/302 A2/302 ELDECO GOLF VIEW APARTMENT NULLLL greater noida Ansal Golf Links Ghaziabad Gautam Buddha Nagar UP 201310",
+      "alt": "9410007474",
+      "circle": "JIO DELHI",
+      "email": "dropsinghfso@gmail.com",
+      "fname": "Om Pal Singh",
+      "name": "Sanidhya Singh",
+      "num": "1203636194"
+    },
+    {
+      "aadhar": "961960898994",
+      "address": "A2/302 A2/302 ELDECO GOLF VIEW APARTMENT LL greater noida Ansal Golf Links Ghaziabad Gautam Buddha Nagar UP 201310",
+      "alt": "9410007474",
+      "circle": "JIO DELHI",
+      "email": "dropsinghfso@gmail.com",
+      "fname": "Om Pal Singh",
+      "name": "Sanidhya Singh",
+      "num": "1203636194"
+    },
+    {
+      "aadhar": "961960898994",
+      "address": "A2/302 A2/302 ELDECO GOLF VIEW APARTMENT LL greater noida Ansal Golf Links Ghaziabad Gautam Buddha Nagar UP 201310",
+      "alt": "9410007474",
+      "circle": "JIO DELHI",
+      "email": "dropsinghfso@gmail.com",
+      "fname": "Om Pal Singh",
+      "name": "Sanidhya Singh",
+      "num": "1203636194"
+    }
+  ]
+}
