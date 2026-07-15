@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:48:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7973200363",
+  "records": [
+    {
+      "aadhar": "306299158826",
+      "address": "!house no b23!bagpur roadnear mandir sataur!near mandir sataur!WO Surjit SinghHOSHIARPUR!HOSHIARPUR!HOSHIARPUR!PUNJAB!146001",
+      "alt": "8557840039",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Surjit Singh",
+      "name": "AKWINDER KAUR",
+      "num": "7973200363"
+    },
+    {
+      "aadhar": "306299158826",
+      "address": "W/O Surjit Singh!house no b23!dusay roadnear mandir!near mandir!sataurHOSHIARPUR!HOSHIARPUR!HOSHIARPUR!PUNJAB!146001",
+      "alt": "7973200363",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Surjit Singh",
+      "name": "AKWINDER KAUR",
+      "num": "9592676374"
+    }
+  ]
+}
