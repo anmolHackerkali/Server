@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:47:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9027818113",
+  "records": [
+    {
+      "aadhar": "711891676780",
+      "address": "!d 35!gopal vihar!mandir!sharda colony    rudrapur!Udham Singh Nagar!NAINITAL!Uttarakhand!263153",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "ram sagar",
+      "name": "Deepak Kumar Dubey",
+      "num": "9027818113"
+    },
+    {
+      "aadhar": "711891676780",
+      "address": "!d 35!gopal vihar!mandir!sharda colony    rudrapur!Udham Singh Nagar!NAINITAL!Uttarakhand!263153",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "ram sagar",
+      "name": "Deepak Kumar Dubey",
+      "num": "9027818113"
+    },
+    {
+      "aadhar": "211327495058",
+      "address": " S/O Raj Pal Sharma!baldev road!!  gaytri bihar colony Mathura  !Mathura!Uttar Pradesh!281001 ",
+      "alt": "9027818113",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Raj Pal Sharma ",
+      "name": " Sharvashw Kumar ",
+      "num": "9058018059"
+    },
+    {
+      "aadhar": "211327495058",
+      "address": " S/O Raj Pal Sharma!baldev road!!  gaytri bihar colony Mathura  !Mathura!Uttar Pradesh!281001 ",
+      "alt": "9027818113",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Raj Pal Sharma ",
+      "name": " Sharvashw Kumar ",
+      "num": "9058018059"
+    }
+  ]
+}
