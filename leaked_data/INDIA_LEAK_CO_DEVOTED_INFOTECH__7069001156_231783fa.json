@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:58:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7069001156",
+  "records": [
+    {
+      "aadhar": "AOHPN6286Q",
+      "address": "B-5 KANCHANJANGA FLAT!CG ROAD  AHMEDABAD!OPP JADEBLUE!AHMEDABAD!GUJARAT!380009",
+      "alt": "8980100200",
+      "circle": "VI GUJARAT",
+      "email": "ACC.DEVOTEDINFOTECH@GMAIL.COM",
+      "fname": "DEVOTED INFOTECH",
+      "name": "CO DEVOTED INFOTECH CO DHANJIBHAI VAGHELA",
+      "num": "7069001156"
+    },
+    {
+      "aadhar": "AOHPN6286Q",
+      "address": "B-5 KANCHANJANGA FLAT!CG ROAD  AHMEDABAD!OPP JADEBLUE!AHMEDABAD!GUJARAT!380009",
+      "alt": "8980100200",
+      "circle": "VI GUJARAT",
+      "email": "ACC.DEVOTEDINFOTECH@GMAIL.COM",
+      "fname": "DEVOTED INFOTECH",
+      "name": "CO DEVOTED INFOTECH CO DHANJIBHAI VAGHELA",
+      "num": "7069001156"
+    }
+  ]
+}
