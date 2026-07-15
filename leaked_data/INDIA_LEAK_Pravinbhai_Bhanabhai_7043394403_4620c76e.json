@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:32:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7043394403",
+  "records": [
+    {
+      "aadhar": "331067822221",
+      "address": "Raillway Station  Gardachal Station Same Navsari Navsari",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bhanabhai  Rathod",
+      "name": "Pravinbhai Bhanabhai Rathod",
+      "num": "7043394403"
+    },
+    {
+      "aadhar": "331067822221",
+      "address": "Raillway Station  Gardachal Station Same Navsari Navsari",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Bhanabhai  Rathod",
+      "name": "Pravinbhai Bhanabhai Rathod",
+      "num": "7043394403"
+    },
+    {
+      "aadhar": "227859469656",
+      "address": "D/O: Pravinbhai Rathod!1367!garda chal relwe station ni same!relwe station ni same!besaid anmol hotel  NAVSARI!NAVSARI!NAVSARI!Gujarat!396445",
+      "alt": "7043394403",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Pravinbhai Rathod",
+      "name": "MS ASHVINI PRAVINBHAI RATHOD",
+      "num": "7265005866"
+    },
+    {
+      "aadhar": "227859469656",
+      "address": "D/O: Pravinbhai Rathod!1367!garda chal relwe station ni same!relwe station ni same!besaid anmol hotel  NAVSARI!NAVSARI!NAVSARI!Gujarat!396445",
+      "alt": "7043394403",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Pravinbhai Rathod",
+      "name": "MS ASHVINI PRAVINBHAI RATHOD",
+      "num": "7265005866"
+    }
+  ]
+}
