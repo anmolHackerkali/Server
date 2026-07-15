@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:06:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9934725570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Amrendra Mishra!!!baliya!!Balia Ekduari!Saharsa!Bihar!852217",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amrendra Mishra",
+      "name": "Sudhanshu Kumar",
+      "num": "9934725570"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Amrendra Mishra!!!baliya!!Balia Ekduari!Saharsa!Bihar!852217",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amrendra Mishra",
+      "name": "Sudhanshu Kumar",
+      "num": "9934725570"
+    }
+  ]
+}
