@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:22:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8279757169",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Bihari!!!!Gawan Bahar Town Sambhal!Uttar Pradesh!202527",
+      "alt": "919193449072",
+      "circle": "JIO UPE UPW",
+      "email": "urmansaifi019@gmail.com",
+      "fname": "Bihari",
+      "name": "Sohan Lal",
+      "num": "8279757169"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Bihari!!!!Gawan Bahar Town Sambhal!Uttar Pradesh!202527",
+      "alt": "919193449072",
+      "circle": "JIO UPE UPW",
+      "email": "urmansaifi019@gmail.com",
+      "fname": "Bihari",
+      "name": "Sohan Lal",
+      "num": "8279757169"
+    }
+  ]
+}
