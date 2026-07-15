@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:50:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9060001972",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Najre Alam!!Rajkha ward no -03!post-Dilawarpur!Dilawarpur Darbhanga!Bihar!847101",
+      "alt": "918969122610",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Najre Alam",
+      "name": "Shabnam Khatun",
+      "num": "9060001972"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Najre Alam!!Rajkha ward no -03!post-Dilawarpur!Dilawarpur Darbhanga!Bihar!847101",
+      "alt": "918969122610",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Najre Alam",
+      "name": "Shabnam Khatun",
+      "num": "9060001972"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Najre Alam!!Rajkha ward no -03!post-Dilawarpur!Dilawarpur Darbhanga!Bihar!847101",
+      "alt": "918969122610",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Najre Alam",
+      "name": "Shabnam Khatun",
+      "num": "9060001972"
+    }
+  ]
+}
