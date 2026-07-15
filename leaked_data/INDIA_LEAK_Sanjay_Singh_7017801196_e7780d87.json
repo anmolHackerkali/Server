@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:40:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017801196",
+  "records": [
+    {
+      "aadhar": "883598798423",
+      "address": "S/O Shri Rajendra Singh!!!firoj nagar!AJITMALAuraiya!Uttar Pradesh!206121",
+      "alt": "+918394044202",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shri Rajendra Singh",
+      "name": "Sanjay Singh",
+      "num": "7017801196"
+    },
+    {
+      "aadhar": "883598798423",
+      "address": "S/O Shri Rajendra Singh!!!firoj nagar!AJITMAL Auraiya!Uttar Pradesh!206121",
+      "alt": "918394044202",
+      "circle": "JIO UPE UPW",
+      "email": "singhsanjay1982.ss@gmail.com",
+      "fname": "Shri Rajendra Singh",
+      "name": "Sanjay Singh",
+      "num": "7017801196"
+    },
+    {
+      "aadhar": "883598798423",
+      "address": "S/O Shri Rajendra Singh!!!firoj nagar!AJITMAL Auraiya!Uttar Pradesh!206121",
+      "alt": "918394044202",
+      "circle": "JIO UPE UPW",
+      "email": "singhsanjay1982.ss@gmail.com",
+      "fname": "Shri Rajendra Singh",
+      "name": "Sanjay Singh",
+      "num": "7017801196"
+    }
+  ]
+}
