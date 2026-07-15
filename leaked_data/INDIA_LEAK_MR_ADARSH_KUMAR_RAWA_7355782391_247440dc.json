@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:51:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7355782391",
+  "records": [
+    {
+      "aadhar": "859593609561",
+      "address": "!0!Lucknow village Gahdon!village Gahdon!Mall Malihabad Gahdon Gahndo LUCKNOW!LUCKNOW!UTTAR PRADESH!227115",
+      "alt": "7394072391",
+      "circle": "UPE",
+      "email": "adarshverma196565@gmail.com",
+      "fname": "Mahadev",
+      "name": "MR ADARSH KUMAR RAWAT",
+      "num": "7355782391"
+    },
+    {
+      "aadhar": "859593609561",
+      "address": "!0!Lucknow village Gahdon!village Gahdon!Mall Malihabad Gahdon Gahndo LUCKNOW!LUCKNOW!UTTAR PRADESH!227115",
+      "alt": "7394072391",
+      "circle": "UPE",
+      "email": "adarshverma196565@gmail.com",
+      "fname": "Mahadev",
+      "name": "MR ADARSH KUMAR RAWAT",
+      "num": "7355782391"
+    }
+  ]
+}
