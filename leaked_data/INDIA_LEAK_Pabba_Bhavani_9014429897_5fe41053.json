@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:35:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9014429897",
+  "records": [
+    {
+      "aadhar": "347336970941",
+      "address": "D/O Pabba Ramulu!!3-10-76 BAHARPET(HOUSING BOARD) BHUVANAGIRI Bhongir!NA!!Bhongir Bhongir Nalgonda!NA!Andhra Pradesh!508116",
+      "alt": "9014429897",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Pabba Ramulu",
+      "name": "Pabba Bhavani",
+      "num": "9014429897"
+    },
+    {
+      "aadhar": "347336970941",
+      "address": "D/O Pabba Ramulu!!3-10-76 BAHARPET(HOUSING BOARD) BHUVANAGIRI Bhongir!NA!!Bhongir Bhongir Nalgonda!NA!Andhra Pradesh!508116",
+      "alt": "9014429897",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Pabba Ramulu",
+      "name": "Pabba Bhavani",
+      "num": "9014429897"
+    }
+  ]
+}
