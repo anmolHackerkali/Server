@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:14:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9670730079",
+  "records": [
+    {
+      "aadhar": "433627938793",
+      "address": " ! !     City/District: Varanasi State Uttar Pradesh! !VARANASI!UTTAR PRADESH!221007",
+      "alt": "9415638679",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "shivshankar",
+      "name": "Durgawati Devi",
+      "num": "9670730079"
+    },
+    {
+      "aadhar": "433627938793",
+      "address": " ! !     City/District: Varanasi State Uttar Pradesh! !VARANASI!UTTAR PRADESH!221007",
+      "alt": "9415638679",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "shivshankar",
+      "name": "Durgawati Devi",
+      "num": "9670730079"
+    }
+  ]
+}
