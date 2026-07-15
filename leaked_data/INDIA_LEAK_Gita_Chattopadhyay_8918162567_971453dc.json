@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:25:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8918162567",
+  "records": [
+    {
+      "aadhar": "366511989407",
+      "address": " W/O  Krishna Chandra Chattopadhyay!!Dhatrigram!!DAKSHINPARA!Gramkalna Kalna - I!Barddhaman!West Bengal!713405 ",
+      "alt": "9733087381",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Krishna Chandra Chattopadhyay",
+      "name": "Gita Chattopadhyay",
+      "num": "8918162567"
+    },
+    {
+      "aadhar": "366511989407",
+      "address": " W/O  Krishna Chandra Chattopadhyay!!Dhatrigram!!DAKSHINPARA!Gramkalna Kalna - I!Barddhaman!West Bengal!713405 ",
+      "alt": "9733087381",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Krishna Chandra Chattopadhyay",
+      "name": "Gita Chattopadhyay",
+      "num": "8918162567"
+    },
+    {
+      "aadhar": "366511989407",
+      "address": " W/O  Krishna Chandra Chattopadhyay!!Dhatrigram!!DAKSHINPARA!Gramkalna Kalna - I!Barddhaman!West Bengal!713405 ",
+      "alt": "8918162567",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Krishna Chandra Chattopadhyay",
+      "name": "Gita Chattopadhyay",
+      "num": "9733087381"
+    },
+    {
+      "aadhar": "366511989407",
+      "address": " W/O  Krishna Chandra Chattopadhyay!!Dhatrigram!!DAKSHINPARA!Gramkalna Kalna - I!Barddhaman!West Bengal!713405 ",
+      "alt": "8918162567",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Krishna Chandra Chattopadhyay",
+      "name": "Gita Chattopadhyay",
+      "num": "9733087381"
+    }
+  ]
+}
