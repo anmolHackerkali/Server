@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:06:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9898937934",
+  "records": [
+    {
+      "aadhar": "963284128110",
+      "address": "rabari vas bavla  Bavla Bavla",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Merajbhai",
+      "name": "Rabari Punambhai",
+      "num": "9898937934"
+    },
+    {
+      "aadhar": "963284128110",
+      "address": "rabari vas bavla  Bavla Bavla",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Merajbhai",
+      "name": "Rabari Punambhai",
+      "num": "9898937934"
+    }
+  ]
+}
