@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:24:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9998177048",
+  "records": [
+    {
+      "aadhar": "Dmw1726918",
+      "address": "4 58 Rabari Vas Jasalpur Kadi",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Lallubhai  Rabari",
+      "name": "Ratanben Lallubhai Rabari",
+      "num": "9998177048"
+    },
+    {
+      "aadhar": "Dmw1726918",
+      "address": "4 58 Rabari Vas Jasalpur Kadi",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Lallubhai  Rabari",
+      "name": "Ratanben Lallubhai Rabari",
+      "num": "9998177048"
+    },
+    {
+      "aadhar": "555288422323",
+      "address": "Rabari Vas  Jasalpur Mahesana",
+      "alt": "9998177048",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Lallubhai",
+      "name": "Ratanben Lallubhai Rabari",
+      "num": "8511299825"
+    },
+    {
+      "aadhar": "555288422323",
+      "address": "Rabari Vas  Jasalpur Mahesana",
+      "alt": "9998177048",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Lallubhai",
+      "name": "Ratanben Lallubhai Rabari",
+      "num": "8511299825"
+    }
+  ]
+}
