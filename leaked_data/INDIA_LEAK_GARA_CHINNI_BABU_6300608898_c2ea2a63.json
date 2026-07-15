@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:01:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6300608898",
+  "records": [
+    {
+      "aadhar": "988059658779",
+      "address": "S/O Gara Jaya!Hno 25-85!payakaraopeta!!LINGALA COLONY 1ST LINE  PAYAKARAOPETA MANDAL   PAYAKARAOPETA  Payakaraopeta  Visakhapatnam!PAYAKARAO PETA-VISAKHAPATNAM!NA!AP!531126",
+      "alt": "6300608898",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "GARA  JAYA",
+      "name": "GARA CHINNI BABU",
+      "num": "9640991083"
+    },
+    {
+      "aadhar": "536438489358",
+      "address": "S/O Gara Ayyanna!!25-85 LT COLONY Payakaraopeta!NA!!Payakaraopeta Visakhapatnam!NA!Andhra Pradesh!531126",
+      "alt": "6300608898",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Gara Ayyanna",
+      "name": "GARA MANI PRAKASH RAO",
+      "num": "9014378816"
+    }
+  ]
+}
