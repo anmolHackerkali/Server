@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:59:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9793081706",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Satyadev Tivari!!!rari  Rari!Fatehpur!Uttar Pradesh!212658",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Satyadev Tivari",
+      "name": "Rajendra Tivari",
+      "num": "9793081706"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Satyadev Tivari!!!rari  Rari!Fatehpur!Uttar Pradesh!212658",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Satyadev Tivari",
+      "name": "Rajendra Tivari",
+      "num": "9793081706"
+    }
+  ]
+}
