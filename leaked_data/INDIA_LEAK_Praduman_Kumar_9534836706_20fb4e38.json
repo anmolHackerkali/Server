@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:47:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534836706",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!Rz 119!Vishnu garden!Khayala!New Delhi West West!Delhi!110018",
+      "alt": "918287078832",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Doman Saw",
+      "name": "Praduman Kumar",
+      "num": "9534836706"
+    },
+    {
+      "aadhar": null,
+      "address": "!Rz 119!Vishnu garden!Khayala!New Delhi West West!Delhi!110018",
+      "alt": "918287078832",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Doman Saw",
+      "name": "Praduman Kumar",
+      "num": "9534836706"
+    },
+    {
+      "aadhar": null,
+      "address": "!Rz 119!Vishnu garden!Khayala!New Delhi West West!Delhi!110018",
+      "alt": "918287078832",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Doman Saw",
+      "name": "Praduman Kumar",
+      "num": "9534836706"
+    }
+  ]
+}
