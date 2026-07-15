@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:17:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393764829",
+  "records": [
+    {
+      "aadhar": "876794642689",
+      "address": "S/O  Mahangu Prasad!!165 New Azad nagar Durga Chauraha Kidwai Nagar!Kanpur nagar!Kidwai Nagar Kanpur Kanpur Nagar!Uttar Pradesh!208011",
+      "alt": "917985379772",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahangu Prasad",
+      "name": "Vikas Prasad",
+      "num": "6393764829"
+    },
+    {
+      "aadhar": "876794642689",
+      "address": "S/O  Mahangu Prasad!!165 New Azad nagar Durga Chauraha Kidwai Nagar!Kanpur nagar!Kidwai Nagar Kanpur Kanpur Nagar!Uttar Pradesh!208011",
+      "alt": "917985379772",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahangu Prasad",
+      "name": "Vikas Prasad",
+      "num": "6393764829"
+    }
+  ]
+}
