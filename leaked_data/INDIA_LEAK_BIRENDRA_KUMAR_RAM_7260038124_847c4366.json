@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:46:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7260038124",
+  "records": [
+    {
+      "aadhar": "893303765993",
+      "address": "S/O  Chaturbhuj Ram!S/O  Chaturbhuj Ram!Mirzapur!Sirsia Buzurg  Kanti Near Kaparpura Station!MIRZAPUR-MUZAFFARPUR!BR!843108",
+      "alt": "7260038124",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "CHATURBHUJ RAM",
+      "name": "BIRENDRA KUMAR RAM",
+      "num": "9708094110"
+    },
+    {
+      "aadhar": "893303765993",
+      "address": "S/O  Chaturbhuj Ram!S/O  Chaturbhuj Ram!Mirzapur!Sirsia Buzurg  Kanti Near Kaparpura Station!MIRZAPUR-MUZAFFARPUR!BR!843108",
+      "alt": "7260038124",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "CHATURBHUJ RAM",
+      "name": "BIRENDRA KUMAR RAM",
+      "num": "9708094110"
+    }
+  ]
+}
