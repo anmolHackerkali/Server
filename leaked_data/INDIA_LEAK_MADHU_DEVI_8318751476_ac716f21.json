@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:40:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8318751476",
+  "records": [
+    {
+      "aadhar": "377521606302",
+      "address": "W/O: Kanhaiya Prasasd Gupta!!GUDARI BAZAR!!Ballia City Ballia!Uttar Pradesh!277001",
+      "alt": "919580519661",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kanhaiya Prasasd Gupta",
+      "name": "MADHU DEVI",
+      "num": "8318751476"
+    },
+    {
+      "aadhar": "377521606302",
+      "address": "W/O: Kanhaiya Prasasd Gupta!!GUDARI BAZAR!!Ballia City Ballia!Uttar Pradesh!277001",
+      "alt": "919580519661",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kanhaiya Prasasd Gupta",
+      "name": "MADHU DEVI",
+      "num": "8318751476"
+    }
+  ]
+}
