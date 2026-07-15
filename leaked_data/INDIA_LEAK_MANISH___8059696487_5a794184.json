@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:49:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8059696487",
+  "records": [
+    {
+      "aadhar": "789084824484",
+      "address": "S/O: Rajal h no 422 kakrana 104 RohtakRohtakROHTAK Minder Minder ROHTAK ROHTAK Haryana 124412",
+      "alt": "9728225624",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "RAJAL  ",
+      "name": "MANISH  ",
+      "num": "8059696487"
+    }
+  ]
+}
