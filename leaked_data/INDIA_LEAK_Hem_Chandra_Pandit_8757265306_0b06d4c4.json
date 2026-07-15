@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:12:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8757265306",
+  "records": [
+    {
+      "aadhar": "810764316303",
+      "address": "S/O  Shyamlal Pandit!!VILL - JERWA KHILKNALI Gumro!NA!PO - KBHOKTADIH THANA - MASALIYA!Gumro Masalia Dumka!NA!Jharkhand!814166",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shyamlal Pandit",
+      "name": "Hem Chandra Pandit",
+      "num": "8757265306"
+    },
+    {
+      "aadhar": "810764316303",
+      "address": "S/O  Shyamlal Pandit!!VILL - JERWA KHILKNALI Gumro!NA!PO - KBHOKTADIH THANA - MASALIYA!Gumro Masalia Dumka!NA!Jharkhand!814166",
+      "alt": "6207696842",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shyamlal Pandit",
+      "name": "Hem Chandra Pandit",
+      "num": "8757265306"
+    },
+    {
+      "aadhar": "810764316303",
+      "address": "S/O  Shyamlal Pandit!!VILL - JERWA KHILKNALI Gumro!NA!PO - KBHOKTADIH THANA - MASALIYA!Gumro Masalia Dumka!NA!Jharkhand!814166",
+      "alt": "6207696842",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shyamlal Pandit",
+      "name": "Hem Chandra Pandit",
+      "num": "8757265306"
+    }
+  ]
+}
