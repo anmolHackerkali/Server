@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:38:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8006505021",
+  "records": [
+    {
+      "aadhar": "229249360091",
+      "address": "S/O Tejpal Singh!00!village handa!!post khamriya pul!Pilibhit!Pilibhit!Uttar Pradesh!262001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tejpal Singh",
+      "name": "Uddeshya Gangwar",
+      "num": "8006505021"
+    },
+    {
+      "aadhar": "229249360091",
+      "address": "S/O Tejpal Singh!00!village handa!!post khamriya pul!Pilibhit!Pilibhit!Uttar Pradesh!262001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Tejpal Singh",
+      "name": "Uddeshya Gangwar",
+      "num": "8006505021"
+    }
+  ]
+}
