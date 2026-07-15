@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:39:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7355185663",
+  "records": [
+    {
+      "aadhar": "428047047615",
+      "address": "S/O  Tejpal Singh!!!bautha jamalpur poranmustpur buzurg!Bautha Jamalpur Shahjahanpur!Uttar Pradesh!242401",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Tejpal Singh",
+      "name": "Bhupendra Singh",
+      "num": "7355185663"
+    },
+    {
+      "aadhar": "428047047615",
+      "address": "S/O  Tejpal Singh!!!bautha jamalpur poranmustpur buzurg!Bautha Jamalpur Shahjahanpur!Uttar Pradesh!242401",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Tejpal Singh",
+      "name": "Bhupendra Singh",
+      "num": "7355185663"
+    },
+    {
+      "aadhar": "428047047615",
+      "address": "s/o  tejpal singh!!Powayan!!bautha jamalpur po.-ranmustpur buzurg powayan!bautha jamalpur Powayan!shahjahanpur!Uttar Pradesh!242401",
+      "alt": "7355185663",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "tejpal singh",
+      "name": "Bhupendra Singh",
+      "num": "9628074570"
+    },
+    {
+      "aadhar": "428047047615",
+      "address": "s/o  tejpal singh!!Powayan!!bautha jamalpur po.-ranmustpur buzurg powayan!bautha jamalpur Powayan!shahjahanpur!Uttar Pradesh!242401",
+      "alt": "7355185663",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "tejpal singh",
+      "name": "Bhupendra Singh",
+      "num": "9628074570"
+    }
+  ]
+}
