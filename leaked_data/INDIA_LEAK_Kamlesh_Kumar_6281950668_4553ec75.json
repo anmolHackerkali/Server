@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:47:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6281950668",
+  "records": [
+    {
+      "aadhar": "364008729892",
+      "address": "S/O  Padum Sav! 37!Aurangabad!near dev mandir!Erki Deo orangabad Bihar Bahuara Aurangabad BH!Gaya!Gaya!Bihar!824201",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "6281950668"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "S/O  Padum Sav!37!Aurangabad!near dev mandir!Erki Deo orangabad Bihar Bahuara Aurangabad BH!Gaya!Gaya!Bihar!824201",
+      "alt": "9470681822",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "6281950668"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "S/O  Padum Sav!37!Aurangabad!near dev mandir!Erki Deo orangabad Bihar Bahuara Aurangabad BH!Gaya!Gaya!Bihar!824201",
+      "alt": "9470681822",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "6281950668"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "!37  124!Erki deo Orangabad bihar!near dev mandir!Bahuara!Gaya aurangabad bh!Gaya!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9939016805"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "s/o  padum sav!37!Erki Deo!near dev mandir!erki deo orangabad bihar!bahuara!aurangabad bh!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9304309848"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "!37  124!Erki deo Orangabad bihar!near dev mandir!Bahuara!Gaya aurangabad bh!Gaya!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9939016805"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "s/o  padum sav!37!Erki Deo!near dev mandir!erki deo orangabad bihar!bahuara!aurangabad bh!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9304309848"
+    }
+  ]
+}
