@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:32:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8090578219",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Jitendra Prajapati!.!.!. gram inavbhar Nandaon!Azamgarh!Uttar Pradesh!276305",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jitendra Prajapati",
+      "name": "Satyam Prajapati",
+      "num": "8090578219"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Jitendra Prajapati!.!.!. gram inavbhar Nandaon!Azamgarh!Uttar Pradesh!276305",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jitendra Prajapati",
+      "name": "Satyam Prajapati",
+      "num": "8090578219"
+    }
+  ]
+}
