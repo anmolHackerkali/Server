@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:35:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6398709780",
+  "records": [
+    {
+      "aadhar": "560488740195",
+      "address": "s/o  man singh!!Keshpura!!fajilpur jarela keshpura!keshpuraJasrana!firozabad!Uttar Pradesh!205147",
+      "alt": "9027395167",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "man singh",
+      "name": "Sukendra",
+      "num": "6398709780"
+    },
+    {
+      "aadhar": "560488740195",
+      "address": "s/o  man singh!!Keshpura!!fajilpur jarela keshpura!keshpura Jasrana!firozabad!Uttar Pradesh!205147",
+      "alt": "9027395167",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "man singh",
+      "name": "Sukendra",
+      "num": "6398709780"
+    },
+    {
+      "aadhar": "560488740195",
+      "address": "s/o  man singh!!Keshpura!!fajilpur jarela keshpura!keshpura Jasrana!firozabad!Uttar Pradesh!205147",
+      "alt": "9027395167",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "man singh",
+      "name": "Sukendra",
+      "num": "6398709780"
+    },
+    {
+      "aadhar": "711443514795",
+      "address": "S/O Manpal!fajilpur jarela!Keshpura!!Firozabad!Firozabad!FIROZABAD!Uttar Pradesh!205147",
+      "alt": "6398709780",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Manpal",
+      "name": "Raghvendra",
+      "num": "7037230797"
+    },
+    {
+      "aadhar": "711443514795",
+      "address": "S/O Manpal!fajilpur jarela!Keshpura!!Firozabad!Firozabad!FIROZABAD!Uttar Pradesh!205147",
+      "alt": "6398709780",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Manpal",
+      "name": "Raghvendra",
+      "num": "7037230797"
+    }
+  ]
+}
