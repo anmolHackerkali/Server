@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:54:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9651962193",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8410",
+      "address": "W/O Ram Dhari!Mahuawa Khurd  caiptanganj!!!Kushinagar!Uttar Pradesh!274149",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram  Dhari",
+      "name": "Amaravati  Devi",
+      "num": "9651962193"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramdhari!.!.!caiptanganj Kushinagar!!Kushinagar!UTTAR PRADESH!274149",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Ramdhari",
+      "name": "Triyuggi Kumar",
+      "num": "9651962193"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramdhari!.!.!caiptanganj Kushinagar!!Kushinagar!UTTAR PRADESH!274149",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Ramdhari",
+      "name": "Triyuggi Kumar",
+      "num": "9651962193"
+    },
+    {
+      "aadhar": "xxxxxxxx8410",
+      "address": "W/O Ram Dhari!Mahuawa Khurd  caiptanganj!!!Kushinagar!Uttar Pradesh!274149",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram  Dhari",
+      "name": "Amaravati  Devi",
+      "num": "9651962193"
+    }
+  ]
+}
