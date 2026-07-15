@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:44:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004506434",
+  "records": [
+    {
+      "aadhar": "458734959262",
+      "address": "S/O  Baleshwar Kumar!!Dumari!Thana Simri Simari Village - Dumri!Dumri Buxar!Bihar!802120",
+      "alt": "918540070580",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baleshwar Kumar",
+      "name": "Kuldeep Kumar",
+      "num": "7004506434"
+    },
+    {
+      "aadhar": "458734959262",
+      "address": "S/O  Baleshwar Kumar!!Dumari!Thana Simri Simari Village - Dumri!Dumri Buxar!Bihar!802120",
+      "alt": "918540070580",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baleshwar Kumar",
+      "name": "Kuldeep Kumar",
+      "num": "7004506434"
+    },
+    {
+      "aadhar": "458734959262",
+      "address": "S/O  Baleshwar Kumar!!Dumari!Thana Simri Simari Village - Dumri!Dumri Buxar!Bihar!802120",
+      "alt": "918540070580",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Baleshwar Kumar",
+      "name": "Kuldeep Kumar",
+      "num": "7004506434"
+    },
+    {
+      "aadhar": "XXXXXXXX9262",
+      "address": " 000  Village Dumri Thana Simri Buxar  Buxar BIHAR 802120 ",
+      "alt": "7004506434",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " BALESHWAR KUMAR ",
+      "name": " KULDEEP  KUMAR ",
+      "num": "8540070580"
+    },
+    {
+      "aadhar": "XXXXXXXX9262",
+      "address": " 000  Village Dumri Thana Simri Buxar  Buxar BIHAR 802120 ",
+      "alt": "7004506434",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " BALESHWAR KUMAR ",
+      "name": " KULDEEP  KUMAR ",
+      "num": "8540070580"
+    }
+  ]
+}
