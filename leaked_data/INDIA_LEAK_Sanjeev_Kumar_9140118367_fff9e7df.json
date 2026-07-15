@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:11:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140118367",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Brajmohan!!!!Kailiya Khurd Jalaun!Uttar Pradesh!285205",
+      "alt": "919369162106",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Brajmohan",
+      "name": "Sanjeev Kumar",
+      "num": "9140118367"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Brajmohan!!!!Kailiya Khurd Jalaun!Uttar Pradesh!285205",
+      "alt": "919369162106",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Brajmohan",
+      "name": "Sanjeev Kumar",
+      "num": "9140118367"
+    }
+  ]
+}
