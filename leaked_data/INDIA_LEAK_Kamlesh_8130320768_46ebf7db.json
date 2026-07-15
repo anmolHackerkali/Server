@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:47:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8130320768",
+  "records": [
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!Delhi!Delhi!110039",
+      "alt": "8130969665",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "8130320768"
+    },
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!Delhi!Delhi!110039",
+      "alt": "8130969665",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "8130320768"
+    },
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!Delhi!Delhi!110039",
+      "alt": "8130969665",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "8130320768"
+    },
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!!Delhi!110039",
+      "alt": "8130320768",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "9958602509"
+    },
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!!Delhi!110039",
+      "alt": "8130320768",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "9958602509"
+    },
+    {
+      "aadhar": "871410330922",
+      "address": "!House No-257-D!Darwaja panna!Mungesh PurNorth West Delhi!!Delhi!110039",
+      "alt": "8130320768",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Ramesh  Chander",
+      "name": "Kamlesh",
+      "num": "9958602509"
+    }
+  ]
+}
