@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:47:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9638335563",
+  "records": [
+    {
+      "aadhar": "HFM1014166",
+      "address": "H NO 67 AHIRWAD!UMARSADI PARDI VALSAD!VALSAD!VALSAD!GUJARAT!396145",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "AJAYKUMAR",
+      "name": "DAXABEN AJAYKUMAR PATEL",
+      "num": "9638335563"
+    },
+    {
+      "aadhar": "HFM1014166",
+      "address": "H NO 67 AHIRWAD!UMARSADI PARDI VALSAD!VALSAD!VALSAD!GUJARAT!396145",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "AJAYKUMAR",
+      "name": "DAXABEN AJAYKUMAR PATEL",
+      "num": "9638335563"
+    },
+    {
+      "aadhar": "200650882515",
+      "address": "bhandarwad!KOTLAV Pardi Valsad!KOTLAV Pardi Valsad!BHANDARWAD PARDI!VALSAD!VALSAD!Gujarat!396125",
+      "alt": "9638335563",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ajaybhai patel",
+      "name": "MRS DAKSHABEN PATEL",
+      "num": "6359415615"
+    },
+    {
+      "aadhar": "200650882515",
+      "address": "bhandarwad!KOTLAV Pardi Valsad!KOTLAV Pardi Valsad!BHANDARWAD PARDI!VALSAD!VALSAD!Gujarat!396125",
+      "alt": "9638335563",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ajaybhai patel",
+      "name": "MRS DAKSHABEN PATEL",
+      "num": "6359415615"
+    },
+    {
+      "aadhar": "200650882515",
+      "address": "bhandarwad!KOTLAV Pardi Valsad!KOTLAV Pardi Valsad!BHANDARWAD PARDI!VALSAD!VALSAD!Gujarat!396125",
+      "alt": "9638335563",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ajaybhai patel",
+      "name": "MRS DAKSHABEN PATEL",
+      "num": "6359415615"
+    }
+  ]
+}
