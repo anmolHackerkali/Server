@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:18:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9170543944",
+  "records": [
+    {
+      "aadhar": "267315763756",
+      "address": "S/O Shyamlal Maurya!WARD NO 6!CHANDAULI!Temple!Chandauli!Chandauli!Chandauli!Uttar Pradesh!232104",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shyamlal Maurya",
+      "name": "Santosh Kumar Maurya",
+      "num": "9170543944"
+    },
+    {
+      "aadhar": "267315763756",
+      "address": "S/O Shyamlal Maurya!WARD NO 6!CHANDAULI!Temple!Chandauli!Chandauli!Chandauli!Uttar Pradesh!232104",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shyamlal Maurya",
+      "name": "Santosh Kumar Maurya",
+      "num": "9170543944"
+    },
+    {
+      "aadhar": "649058422627",
+      "address": "SANTOSH KUMAR!WARD NO  6!Indra nagar Mandir!Mandir!CHANDAULI VARANASI!CHANDAULI!UTTAR PRADESH!232104",
+      "alt": "9170543944",
+      "circle": "UPE",
+      "email": null,
+      "fname": "SANTOSH KUMAR",
+      "name": "MS ANCHAL SHAKYA",
+      "num": "7052232357"
+    },
+    {
+      "aadhar": "649058422627",
+      "address": "SANTOSH KUMAR!WARD NO  6!Indra nagar Mandir!Mandir!CHANDAULI VARANASI!CHANDAULI!UTTAR PRADESH!232104",
+      "alt": "9170543944",
+      "circle": "UPE",
+      "email": null,
+      "fname": "SANTOSH KUMAR",
+      "name": "MS ANCHAL SHAKYA",
+      "num": "7052232357"
+    }
+  ]
+}
