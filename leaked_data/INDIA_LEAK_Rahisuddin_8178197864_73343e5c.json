@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:42:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178197864",
+  "records": [
+    {
+      "aadhar": "224650423505",
+      "address": "S/O Md  Rafiq!!House N0-940 L-2  Gali n0-22 Near Shiv Mandir!Sangam Vihar!mehrauli South Delhi!Delhi!110062",
+      "alt": "919911292842",
+      "circle": "JIO DELHI",
+      "email": "simransaifi021@gmail.com",
+      "fname": "Md Rafiq",
+      "name": "Rahisuddin",
+      "num": "8178197864"
+    },
+    {
+      "aadhar": "224650423505",
+      "address": "S/O Md  Rafiq!!House N0-940L-2 Gali n0-22Near Shiv Mandir!Sangam Vihar!mehrauliSouth Delhi!Delhi!110062",
+      "alt": "918076644251",
+      "circle": "JIO DELHI",
+      "email": "simransaifi021@gmail.com",
+      "fname": "Md Rafiq",
+      "name": "Rahisuddin",
+      "num": "8178197864"
+    },
+    {
+      "aadhar": "224650423505",
+      "address": "S/O Md  Rafiq!!House N0-940L-2 Gali n0-22Near Shiv Mandir!Sangam Vihar!mehrauliSouth Delhi!Delhi!110062",
+      "alt": "918076644251",
+      "circle": "JIO DELHI",
+      "email": "simransaifi021@gmail.com",
+      "fname": "Md Rafiq",
+      "name": "Rahisuddin",
+      "num": "8178197864"
+    }
+  ]
+}
