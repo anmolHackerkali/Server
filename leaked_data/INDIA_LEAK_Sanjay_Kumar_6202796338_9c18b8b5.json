@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:43:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6202796338",
+  "records": [
+    {
+      "aadhar": "294379326594",
+      "address": "S/O  Chitnarayan Prasad!!chand chaura Gaya!godawari chuna bhatti!Gaya Gaya Gaya!Bihar!823001",
+      "alt": "919431263656",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Chitnarayan Prasad",
+      "name": "Sanjay Kumar",
+      "num": "6202796338"
+    },
+    {
+      "aadhar": "294379326594",
+      "address": "S/O  Chitnarayan Prasad!!chand chaura Gaya!godawari chuna bhatti!Gaya Gaya Gaya!Bihar!823001",
+      "alt": "919431263656",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Chitnarayan Prasad",
+      "name": "Sanjay Kumar",
+      "num": "6202796338"
+    },
+    {
+      "aadhar": "294379326594",
+      "address": "S/O  Chitnarayan Prasad!!chand chaura Gaya!godawari chuna bhatti!Gaya Gaya Gaya!Bihar!823001",
+      "alt": "919431263656",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Chitnarayan Prasad",
+      "name": "Sanjay Kumar",
+      "num": "6202796338"
+    }
+  ]
+}
