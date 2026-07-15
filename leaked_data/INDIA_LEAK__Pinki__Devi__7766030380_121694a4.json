@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:41:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7766030380",
+  "records": [
+    {
+      "aadhar": "464266092077",
+      "address": " .!ward no 5 AURADIH ALAMNAGAR DAKSHINI ALAMNAGAR MADHEPURA!!ward no 5 AURADIH ALAMNAGAR DAKSHINI ALAMNAGAR MADHEPURA!Madhepura!!Bihar!852210 ",
+      "alt": "8757630775",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Binod  Kumar ",
+      "name": " Pinki  Devi ",
+      "num": "7766030380"
+    },
+    {
+      "aadhar": "464266092077",
+      "address": " .!ward no 5 AURADIH ALAMNAGAR DAKSHINI ALAMNAGAR MADHEPURA!!ward no 5 AURADIH ALAMNAGAR DAKSHINI ALAMNAGAR MADHEPURA!Madhepura!!Bihar!852210 ",
+      "alt": "8757630775",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Binod  Kumar ",
+      "name": " Pinki  Devi ",
+      "num": "7766030380"
+    }
+  ]
+}
