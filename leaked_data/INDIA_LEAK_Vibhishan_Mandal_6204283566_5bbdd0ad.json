@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:42:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204283566",
+  "records": [
+    {
+      "aadhar": "916885977893",
+      "address": "S/O  Raju Mandal!!Jagdishpur!VILL-BADE HUSAINPURPOST-SINGHNAN!Jagdishpur Jagdishpur Bhagalpur!Bihar!813105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raju Mandal",
+      "name": "Vibhishan Mandal",
+      "num": "6204283566"
+    },
+    {
+      "aadhar": "916885977893",
+      "address": "S/O  Raju Mandal!!Jagdishpur!VILL-BADE HUSAINPURPOST-SINGHNAN!Jagdishpur Jagdishpur Bhagalpur!Bihar!813105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raju Mandal",
+      "name": "Vibhishan Mandal",
+      "num": "6204283566"
+    },
+    {
+      "aadhar": "916885977893",
+      "address": "S/O  Raju Mandal!!Jagdishpur!VILL-BADE HUSAINPURPOST-SINGHNAN!Jagdishpur Jagdishpur Bhagalpur!Bihar!813105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raju Mandal",
+      "name": "Vibhishan Mandal",
+      "num": "6204283566"
+    }
+  ]
+}
