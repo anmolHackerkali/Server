@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:33:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9779294798",
+  "records": [
+    {
+      "aadhar": "336965233197",
+      "address": "4OPP KAMAL JYOTI HIGH SCHOOLNEW AZAAD NAGARAMRITSARPUNJAB!",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "GOUTAM SACHDEVA",
+      "name": "MANI SACHDEVA",
+      "num": "9779294798"
+    },
+    {
+      "aadhar": "266619642732",
+      "address": "D/O ATMA SINGH!VILLAGE NURPUR CHATHATEHSIL NAKODARNURPUR CHATHA!!!JALANDHAR!PUNJAB!144040",
+      "alt": "9779294798",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "ATMA SINGH",
+      "name": "SIMARJIT KAUR",
+      "num": "7087086474"
+    }
+  ]
+}
