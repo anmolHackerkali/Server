@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:52:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8887582661",
+  "records": [
+    {
+      "aadhar": "720204927674",
+      "address": "!21 00!Parsipur!!Jayrampur!Sultanpur!Sultanpur!Uttar Pradesh!228155",
+      "alt": "8175054188",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Paras NathPandey",
+      "name": "Ramakant",
+      "num": "8887582661"
+    },
+    {
+      "aadhar": "720204927674",
+      "address": "!21 00!Parsipur!!Jayrampur!Sultanpur!Sultanpur!Uttar Pradesh!228155",
+      "alt": "8175054188",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Paras NathPandey",
+      "name": "Ramakant",
+      "num": "8887582661"
+    }
+  ]
+}
