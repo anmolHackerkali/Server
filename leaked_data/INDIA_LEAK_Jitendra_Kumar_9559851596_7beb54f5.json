@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:12:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9559851596",
+  "records": [
+    {
+      "aadhar": "208896096542",
+      "address": "S/O Sunil Kumar!Khire Garh!Kheri!!Khairigarh!Kheri!Kheri!Uttar Pradesh!262905",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Jitendra Kumar",
+      "num": "9559851596"
+    },
+    {
+      "aadhar": "208896096542",
+      "address": "S/O Sunil Kumar!Khire Garh!Kheri!!Khairigarh!Kheri!Kheri!Uttar Pradesh!262905",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Jitendra Kumar",
+      "num": "9559851596"
+    }
+  ]
+}
