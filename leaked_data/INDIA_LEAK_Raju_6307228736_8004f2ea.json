@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:00:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307228736",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Parashuram!!51 bachabali bujurg badaganw!jhansi!Badaganw Rural Jhansi!Uttar Pradesh!284121",
+      "alt": "919956657836",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Parashuram",
+      "name": "Raju",
+      "num": "6307228736"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Parashuram!!51 bachabali bujurg badaganw!jhansi!Badaganw Rural Jhansi!Uttar Pradesh!284121",
+      "alt": "919956657836",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Parashuram",
+      "name": "Raju",
+      "num": "6307228736"
+    }
+  ]
+}
