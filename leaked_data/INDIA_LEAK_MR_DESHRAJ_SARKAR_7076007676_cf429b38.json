@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:48:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7076007676",
+  "records": [
+    {
+      "aadhar": "813327883892",
+      "address": "Tapan!Near School  karai Chenchra!Dakshin Dinajpur Chechra!Chechra!KARAE Chenchra SOUTH DINAJPUR!SOUTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733127",
+      "alt": "9735226653",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Chhalimuddin Sarkar",
+      "name": "MR DESHRAJ SARKAR",
+      "num": "7076007676"
+    },
+    {
+      "aadhar": "813327883892",
+      "address": "Tapan!Near School  karai Chenchra!Dakshin Dinajpur Chechra!Chechra!KARAE Chenchra SOUTH DINAJPUR!SOUTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733127",
+      "alt": "9735226653",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Chhalimuddin Sarkar",
+      "name": "MR DESHRAJ SARKAR",
+      "num": "7076007676"
+    },
+    {
+      "aadhar": "WB6120190009471",
+      "address": "Chhilimuddin Sarkar!008!Karai chenchra!Karai chenchra!Karai chenchra SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733127",
+      "alt": "7076007676",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Chhilimuddin Sarkar",
+      "name": "MR DESHRAJ SARKAR",
+      "num": "9734309489"
+    },
+    {
+      "aadhar": "WB6120190009471",
+      "address": "Chhilimuddin Sarkar!008!Karai chenchra!Karai chenchra!Karai chenchra SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733127",
+      "alt": "7076007676",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Chhilimuddin Sarkar",
+      "name": "MR DESHRAJ SARKAR",
+      "num": "9734309489"
+    }
+  ]
+}
