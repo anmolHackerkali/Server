@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:20:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9904882787",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O  Vastabhai  148 rohit vas  rasam bavala Rasam  Bavla near chamunda matana mandir RASAM-AHMEDABAD GJ 382220 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MAKWANA SHAILESHKUMAR ",
+      "num": "9904882787"
+    },
+    {
+      "aadhar": "533605998444",
+      "address": "S/O: Vastabhai!S/O: Vastabhai  148!rohit vas  rasam bavala!Rasam  Bavla near chamunda matana mandir!RASAM-AHMEDABAD!GJ!382220",
+      "alt": "9924475805",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "VASTABHAI ",
+      "name": "MAKWANA SHAILESHKUMAR",
+      "num": "9904882787"
+    },
+    {
+      "aadhar": "533605998444",
+      "address": "S/O: Vastabhai!S/O: Vastabhai  148!rohit vas  rasam bavala!Rasam  Bavla near chamunda matana mandir!RASAM-AHMEDABAD!GJ!382220",
+      "alt": "9924475805",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "VASTABHAI ",
+      "name": "MAKWANA SHAILESHKUMAR",
+      "num": "9904882787"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O  Vastabhai  148 rohit vas  rasam bavala Rasam  Bavla near chamunda matana mandir RASAM-AHMEDABAD GJ 382220 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " MAKWANA SHAILESHKUMAR ",
+      "num": "9904882787"
+    }
+  ]
+}
