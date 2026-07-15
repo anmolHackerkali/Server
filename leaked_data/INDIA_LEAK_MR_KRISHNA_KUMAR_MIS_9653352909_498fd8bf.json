@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:57:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9653352909",
+  "records": [
+    {
+      "aadhar": "489376598889",
+      "address": "C/O HAUSILA PRASAD MISHRA!GRAM UMARIYA POST!GRAM UMARIYA POSTbasti!basti!UMARIABASTI!BASTI!UTTAR PRADESH!272301",
+      "alt": "9653352909",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Hausila Prasad",
+      "name": "MR. KRISHNA KUMAR MISHRA",
+      "num": "7570051681"
+    },
+    {
+      "aadhar": "489376598889",
+      "address": "C/O HAUSILA PRASAD MISHRA!GRAM UMARIYA  POST!GRAM UMARIYA  POST basti!basti!UMARIA BASTI!BASTI!UTTAR PRADESH!272301",
+      "alt": "9653352909",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hausila Prasad",
+      "name": "MR KRISHNA KUMAR MISHRA",
+      "num": "7570051681"
+    },
+    {
+      "aadhar": "489376598889",
+      "address": "C/O HAUSILA PRASAD MISHRA!GRAM UMARIYA  POST!GRAM UMARIYA  POST basti!basti!UMARIA BASTI!BASTI!UTTAR PRADESH!272301",
+      "alt": "9653352909",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hausila Prasad",
+      "name": "MR KRISHNA KUMAR MISHRA",
+      "num": "7570051681"
+    }
+  ]
+}
