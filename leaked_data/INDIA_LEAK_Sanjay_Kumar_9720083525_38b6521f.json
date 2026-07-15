@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:50:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9720083525",
+  "records": [
+    {
+      "aadhar": "488847054658",
+      "address": "207 padarat pur uday pur Afzalgarh  Afzalgarh-Dhampur-Bijnor Uttar Pradesh 246722",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Kshetra Pal Singh",
+      "name": "Sanjay Kumar",
+      "num": "9720083525"
+    },
+    {
+      "aadhar": "488847054658",
+      "address": "207 padarat pur uday pur Afzalgarh  Afzalgarh-Dhampur-Bijnor Uttar Pradesh 246722",
+      "alt": null,
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Kshetra Pal Singh",
+      "name": "Sanjay Kumar",
+      "num": "9720083525"
+    }
+  ]
+}
