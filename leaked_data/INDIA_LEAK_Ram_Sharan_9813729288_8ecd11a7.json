@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:55:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813729288",
+  "records": [
+    {
+      "aadhar": "730493447729",
+      "address": "!!near mandirGarhi Birbal!NA!indri!KarnalKarnal!NA!Haryana!132054",
+      "alt": "9813729288",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "joginder Singh",
+      "name": "Ram Sharan",
+      "num": "9306234344"
+    },
+    {
+      "aadhar": "241596703729",
+      "address": "!NA!GARHI BIRBAL32!!KARNAL TEMPLE KARNAL!!KARNAL!HARYANA!132054",
+      "alt": "9813729288",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "JOGINDER  SINGH",
+      "name": "RAMKARAN  ",
+      "num": "8571909288"
+    }
+  ]
+}
