@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:35:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508490270",
+  "records": [
+    {
+      "aadhar": "610360801527",
+      "address": "01!panchayat chatro gram Purnigdiya!deori giridih!post Chatro ps deori!Giridih!Giridh!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jitendra Kumar Swarnkar",
+      "name": "Rishu Kumar",
+      "num": "9508490270"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kapildev Ray!!!VILL-PURNIGADIYA-PO-CHATRO-PS-DEORI!Chatro Giridih!Jharkhand!815314",
+      "alt": "917520490270",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kapildev Ray",
+      "name": "Sachin Kumar Ray",
+      "num": "9508490270"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kapildev Ray!!!VILL-PURNIGADIYA-PO-CHATRO-PS-DEORI!Chatro Giridih!Jharkhand!815314",
+      "alt": "917520490270",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kapildev Ray",
+      "name": "Sachin Kumar Ray",
+      "num": "9508490270"
+    },
+    {
+      "aadhar": "610360801527",
+      "address": "01!panchayat chatro gram Purnigdiya!deori giridih!post Chatro ps deori!Giridih!Giridh!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jitendra Kumar Swarnkar",
+      "name": "Rishu Kumar",
+      "num": "9508490270"
+    }
+  ]
+}
