@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:34:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7870561425",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O  Rajesh Kumar!!!SADPURA  MILKY TOLA!!Musahri!Muzaffarpur!Bihar!842002",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajesh Kumar",
+      "name": "Honey Kumari",
+      "num": "7870561425"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Rajesh Kumar!!!SADPURA  MILKY TOLA!!Musahri!Muzaffarpur!Bihar!842002",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajesh Kumar",
+      "name": "Honey Kumari",
+      "num": "7870561425"
+    }
+  ]
+}
