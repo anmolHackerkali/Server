@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:27:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6201490816",
+  "records": [
+    {
+      "aadhar": "690367864753",
+      "address": "T1 Railway Colony Railway Station Adas Anand",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "0rahul1999ab@gmail.com",
+      "fname": "Naval Kishor",
+      "name": "Rahul Kumar",
+      "num": "6201490816"
+    },
+    {
+      "aadhar": "690367864753",
+      "address": "T1 Railway Colony Railway Station Adas Anand",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "0rahul1999ab@gmail.com",
+      "fname": "Naval Kishor",
+      "name": "Rahul Kumar",
+      "num": "6201490816"
+    }
+  ]
+}
