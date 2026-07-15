@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:57:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6386790776",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Babu Sachan!!!kuwankheda  Kuwa Khera!Kanpur Nagar!Uttar Pradesh!209206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Babu Sachan",
+      "name": "Alaukik Sachan",
+      "num": "6386790776"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Babu Sachan!!!kuwankheda  Kuwa Khera!Kanpur Nagar!Uttar Pradesh!209206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Babu Sachan",
+      "name": "Alaukik Sachan",
+      "num": "6386790776"
+    }
+  ]
+}
