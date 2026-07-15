@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:09:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792205486",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Basant Lal!!! Singarpur Gaddopur!Allahabad!Uttar Pradesh!211013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Basant Lal",
+      "name": "Vijay",
+      "num": "9792205486"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Basant Lal!!! Singarpur Gaddopur!Allahabad!Uttar Pradesh!211013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Basant Lal",
+      "name": "Vijay",
+      "num": "9792205486"
+    },
+    {
+      "aadhar": "784379372786",
+      "address": "s/o  basant lal! 00!singarpur gaddopur allahabad!!singarpur!gaddopur!allahabad!Uttar Pradesh!211013",
+      "alt": "9792205486",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "basant lal",
+      "name": "Vijay",
+      "num": "9793747059"
+    },
+    {
+      "aadhar": "784379372786",
+      "address": "s/o  basant lal! 00!singarpur gaddopur allahabad!!singarpur!gaddopur!allahabad!Uttar Pradesh!211013",
+      "alt": "9792205486",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "basant lal",
+      "name": "Vijay",
+      "num": "9793747059"
+    }
+  ]
+}
