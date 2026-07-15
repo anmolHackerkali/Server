@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:19:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6296726808",
+  "records": [
+    {
+      "aadhar": "810447220953",
+      "address": " S/O Bhupati Charan Jana!!Iswardahajalpai!!barsundra barsundra!iswardahajalpai Haldia!purba medinipur!West Bengal!721654 ",
+      "alt": "8967168093",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bhupati Charan Jana",
+      "name": "Narayan Chandra Jana",
+      "num": "6296726808"
+    },
+    {
+      "aadhar": "810447220953",
+      "address": " S/O Bhupati Charan Jana!!Iswardahajalpai!!barsundra barsundra!iswardahajalpai Haldia!purba medinipur!West Bengal!721654 ",
+      "alt": "8967168093",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bhupati Charan Jana",
+      "name": "Narayan Chandra Jana",
+      "num": "6296726808"
+    }
+  ]
+}
