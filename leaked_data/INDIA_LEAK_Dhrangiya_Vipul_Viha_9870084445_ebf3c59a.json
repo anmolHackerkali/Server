@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:47:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9870084445",
+  "records": [
+    {
+      "aadhar": "751916466334",
+      "address": "!!Sapakda!!sapakda!bhalgamda Halvad!surendra nagar!Gujarat!363330",
+      "alt": "8320828431",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Vihabhai",
+      "name": "Dhrangiya Vipul Vihabhai",
+      "num": "9870084445"
+    },
+    {
+      "aadhar": "751916466334",
+      "address": "!!Sapakda!!sapakda!bhalgamda Halvad!surendra nagar!Gujarat!363330",
+      "alt": "8320828431",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Vihabhai",
+      "name": "Dhrangiya Vipul Vihabhai",
+      "num": "9870084445"
+    },
+    {
+      "aadhar": "751916466334",
+      "address": "!!Sapakda!!sapakda!bhalgamda Halvad!surendra nagar!Gujarat!363330",
+      "alt": "8320828431",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Vihabhai",
+      "name": "Dhrangiya Vipul Vihabhai",
+      "num": "9870084445"
+    }
+  ]
+}
