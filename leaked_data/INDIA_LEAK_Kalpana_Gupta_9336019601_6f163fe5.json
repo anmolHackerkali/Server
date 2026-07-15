@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:24:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336019601",
+  "records": [
+    {
+      "aadhar": "812406449454",
+      "address": " !B706!AMBEDKAR VIHAR HOUSING SCHEME CHAUFATKA! !ALLAHABAD!UTTAR PRADESH!211001",
+      "alt": "7905466194",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Anil Kumar Gupta",
+      "name": "Kalpana Gupta",
+      "num": "9336019601"
+    },
+    {
+      "aadhar": "812406449454",
+      "address": " !B706!AMBEDKAR VIHAR HOUSING SCHEME CHAUFATKA! !ALLAHABAD!UTTAR PRADESH!211001",
+      "alt": "7905466194",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Anil Kumar Gupta",
+      "name": "Kalpana Gupta",
+      "num": "9336019601"
+    }
+  ]
+}
