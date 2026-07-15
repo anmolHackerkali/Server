@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:56:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9900000786",
+  "records": [
+    {
+      "aadhar": "738398846042",
+      "address": "No 06 Gm Peral 1st Stage Btm Layout 1st Phase Bangalore Bangalore Karnataka 560068~No 06 Gm Peral 1st Stage Btm Layout 1st Phase Bangalore Bangalore Karnataka 560068~",
+      "alt": null,
+      "circle": "AIRTEL KARNATKA",
+      "email": "a_akshaykumar.d@airtelworld.com",
+      "fname": null,
+      "name": "GM INFINITE DWELLING INDIA PRIVATE LIMITED",
+      "num": "9900000786"
+    }
+  ]
+}
