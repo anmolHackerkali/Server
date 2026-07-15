@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:08:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6267931089",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O W  Bira Singh!!11/2 Near Barwani plaza!Old Palasia!Indore Indore!Madhya Pradesh!452001",
+      "alt": null,
+      "circle": "JIO MP",
+      "email": "ngnewton96@gmail.com",
+      "fname": "W Bira Singh",
+      "name": "Wahengbam Priyabati",
+      "num": "6267931089"
+    }
+  ]
+}
