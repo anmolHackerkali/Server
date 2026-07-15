@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:15:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717010423",
+  "records": [
+    {
+      "aadhar": "Ubf0893529",
+      "address": "181 Blook-k Nihal Vihar Nangloi Jat   Delhi Delhi! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Virender",
+      "name": "Kanchan",
+      "num": "9717010423"
+    },
+    {
+      "aadhar": "Ubf0893529",
+      "address": "!181 Blookk Nihal Vihar Nangloi Jat   Delhi Delhi!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Virender",
+      "name": "Kanchan",
+      "num": "9717010423"
+    },
+    {
+      "aadhar": "Ubf0893529",
+      "address": "181 Blookk Nihal Vihar Nangloi Jat   Delhi Delhi! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Virender",
+      "name": "Kanchan",
+      "num": "9717010423"
+    },
+    {
+      "aadhar": "Ubf0893529",
+      "address": "181 Blookk Nihal Vihar Nangloi Jat   Delhi Delhi! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Virender",
+      "name": "Kanchan",
+      "num": "9717010423"
+    }
+  ]
+}
