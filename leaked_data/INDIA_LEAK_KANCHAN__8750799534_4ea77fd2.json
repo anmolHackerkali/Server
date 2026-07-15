@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:15:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8750799534",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "181 BLK K NIHAL VIHAR NANGLOI JAT ! WEST DELHI !  ! NEW DELHI ! Delhi ! 110041",
+      "alt": "9990181389",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRENDER .",
+      "name": "KANCHAN .",
+      "num": "8750799534"
+    },
+    {
+      "aadhar": null,
+      "address": "181 BLK K NIHAL VIHAR NANGLOI JAT ! WEST DELHI !  ! NEW DELHI ! Delhi ! 110041",
+      "alt": "9990181389",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRENDER ",
+      "name": "KANCHAN ",
+      "num": "8750799534"
+    },
+    {
+      "aadhar": null,
+      "address": "181 BLK K NIHAL VIHAR NANGLOI JAT ! WEST DELHI !  ! NEW DELHI ! Delhi ! 110041",
+      "alt": "9990181389",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRENDER ",
+      "name": "KANCHAN ",
+      "num": "8750799534"
+    }
+  ]
+}
