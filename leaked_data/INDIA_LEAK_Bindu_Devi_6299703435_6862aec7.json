@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:38:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299703435",
+  "records": [
+    {
+      "aadhar": "839510214146",
+      "address": "w/o  manoj mandal!!Tintanga!!bhim das tola tintanga!tintanga part in rangra chowk Gopalpur!bhagalpur!Bihar!853205",
+      "alt": "9128874746",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "manoj mandal",
+      "name": "Bindu Devi",
+      "num": "6299703435"
+    },
+    {
+      "aadhar": "839510214146",
+      "address": "w/o  manoj mandal!!Tintanga!!bhim das tola tintanga!tintanga part in rangra chowk Gopalpur!bhagalpur!Bihar!853205",
+      "alt": "9128874746",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "manoj mandal",
+      "name": "Bindu Devi",
+      "num": "6299703435"
+    },
+    {
+      "aadhar": "839510214146",
+      "address": "w/o  manoj mandal!!Tintanga!!bhim das tola tintanga!tintanga part in rangra chowk Gopalpur!bhagalpur!Bihar!853205",
+      "alt": "9128874746",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "manoj mandal",
+      "name": "Bindu Devi",
+      "num": "6299703435"
+    }
+  ]
+}
