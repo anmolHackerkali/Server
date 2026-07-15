@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:07:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9892101536",
+  "records": [
+    {
+      "aadhar": "686733239498",
+      "address": "! 2!Supaul Supaul Supaul Bihar!Punarwas Ward No 15!Supaul!Supaul!Supaul!Bihar!852131",
+      "alt": "9892101536",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mohamed Shafik",
+      "name": "Mohd Imtiyaz Ahmed",
+      "num": "9341560327"
+    },
+    {
+      "aadhar": "686733239498",
+      "address": "! 2!Supaul Supaul Supaul Bihar!Punarwas Ward No 15!Supaul!Supaul!Supaul!Bihar!852131",
+      "alt": "9892101536",
+      "circle": "JIO BHR&JHR",
+      "email": "naquiahmed1989@gmail.com",
+      "fname": "Mohamed Shafik",
+      "name": "Mohd Imtiyaz Ahmed",
+      "num": "9341560327"
+    },
+    {
+      "aadhar": "686733239498",
+      "address": "! 2!Supaul Supaul Supaul Bihar!Punarwas Ward No 15!Supaul!Supaul!Supaul!Bihar!852131",
+      "alt": "9892101536",
+      "circle": "JIO BHR&JHR",
+      "email": "naquiahmed1989@gmail.com",
+      "fname": "Mohamed Shafik",
+      "name": "Mohd Imtiyaz Ahmed",
+      "num": "9341560327"
+    }
+  ]
+}
