@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:13:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004462595",
+  "records": [
+    {
+      "aadhar": "255892316216",
+      "address": " Vill-Sadarpur!Amanwan!!Nalanda!Nalanda!Nalanda!Bihar!803107 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bangali Prasad ",
+      "name": " Sahil Kumar ",
+      "num": "7004462595"
+    },
+    {
+      "aadhar": "255892316216",
+      "address": " Vill-Sadarpur!Amanwan!!Nalanda!Nalanda!Nalanda!Bihar!803107 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Bangali Prasad ",
+      "name": " Sahil Kumar ",
+      "num": "7004462595"
+    }
+  ]
+}
