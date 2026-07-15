@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:22:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9518051131",
+  "records": [
+    {
+      "aadhar": "429229956125",
+      "address": "S/O Chhattar Singh!!NOGANWA!near jio tower!Noganwa 143!Nogawan!Jhajjar!Haryana!124106",
+      "alt": "9991594399",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Chhattar Singh",
+      "name": "Narender Singh",
+      "num": "9518051131"
+    }
+  ]
+}
