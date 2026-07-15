@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:58:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7668259437",
+  "records": [
+    {
+      "aadhar": "239739908452",
+      "address": "w/o bageecha singh!288k!Tapeda Udham Singh Nagar!Near Government School!Nanakmatta!nanakmatta!udlham singh nagar!Uttarakhand!262311",
+      "alt": "9690702416",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "bageecha singh",
+      "name": "Gurmeet Kaur  ",
+      "num": "7668259437"
+    },
+    {
+      "aadhar": "239739908452",
+      "address": "w/o bageecha singh!288k!Tapeda Udham Singh Nagar!Near Government School!Nanakmatta!nanakmatta!udlham singh nagar!Uttarakhand!262311",
+      "alt": "9690702416",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "bageecha singh",
+      "name": "Gurmeet Kaur  ",
+      "num": "7668259437"
+    }
+  ]
+}
