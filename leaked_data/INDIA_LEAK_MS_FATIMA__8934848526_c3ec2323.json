@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:53:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8934848526",
+  "records": [
+    {
+      "aadhar": "522669538915",
+      "address": "KALLU!JWALA GANJ!JWALA GANJ!!FATEHPURFATEHPUR!FATEHPUR!UTTAR PRADESH!212601",
+      "alt": "7084852124",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "kallu",
+      "name": "MS. FATIMA .",
+      "num": "8934848526"
+    },
+    {
+      "aadhar": "522669538915",
+      "address": "KALLU!JWALA GANJ!JWALA GANJ!!FATEHPUR FATEHPUR!FATEHPUR!UTTAR PRADESH!212601",
+      "alt": "7084852124",
+      "circle": "UPE",
+      "email": null,
+      "fname": "kallu",
+      "name": "MS FATIMA ",
+      "num": "8934848526"
+    },
+    {
+      "aadhar": "522669538915",
+      "address": "KALLU!JWALA GANJ!JWALA GANJ!!FATEHPUR FATEHPUR!FATEHPUR!UTTAR PRADESH!212601",
+      "alt": "7084852124",
+      "circle": "UPE",
+      "email": null,
+      "fname": "kallu",
+      "name": "MS FATIMA ",
+      "num": "8934848526"
+    }
+  ]
+}
