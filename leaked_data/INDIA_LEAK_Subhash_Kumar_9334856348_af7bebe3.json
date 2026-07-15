@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:29:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9334856348",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Jay Krishna Singh!!wrd no-11 maheshpur!!Tarapur Diara Munger!Bihar!811211",
+      "alt": "918104310612",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jay Krishna Singh",
+      "name": "Subhash Kumar",
+      "num": "9334856348"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jay Krishna Singh!!wrd no-11 maheshpur!!Tarapur Diara Munger!Bihar!811211",
+      "alt": "918104310612",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jay Krishna Singh",
+      "name": "Subhash Kumar",
+      "num": "9334856348"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jay Krishna Singh!!wrd no-11 maheshpur!!Tarapur Diara Munger!Bihar!811211",
+      "alt": "918104310612",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jay Krishna Singh",
+      "name": "Subhash Kumar",
+      "num": "9334856348"
+    }
+  ]
+}
