@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:28:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9341459909",
+  "records": [
+    {
+      "aadhar": "631272804640",
+      "address": "S/O Murari Prajapati!!Naudiha Bazar!vill-singhana!post-ps-naudiha bazar!Nawdiha Chhatarpur!Palamu!Jharkhand!822113",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Murari Prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "9341459909"
+    },
+    {
+      "aadhar": "631272804640",
+      "address": "S/O Murari Prajapati!!Naudiha Bazar!vill-singhana!post-ps-naudiha bazar!Nawdiha Chhatarpur!Palamu!Jharkhand!822113",
+      "alt": "7708643138",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Murari Prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "9341459909"
+    },
+    {
+      "aadhar": "631272804640",
+      "address": "S/O Murari Prajapati!!Naudiha Bazar!vill-singhana!post-ps-naudiha bazar!Nawdiha Chhatarpur!Palamu!Jharkhand!822113",
+      "alt": "7708643138",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Murari Prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "9341459909"
+    },
+    {
+      "aadhar": "631272804640",
+      "address": "s/o murari prajapati!!Naudiha Bazar!vill-singhana!vill-singhana post-ps-naudiha bazar naudiha bazar!nawdiha Chhatarpur!palamu!Jharkhand!822113",
+      "alt": "9341459909",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "murari prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "7708643138"
+    },
+    {
+      "aadhar": "631272804640",
+      "address": "s/o murari prajapati!!Naudiha Bazar!vill-singhana!vill-singhana post-ps-naudiha bazar naudiha bazar!nawdiha Chhatarpur!palamu!Jharkhand!822113",
+      "alt": "9341459909",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "murari prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "7708643138"
+    },
+    {
+      "aadhar": "631272804640",
+      "address": "s/o murari prajapati!!Naudiha Bazar!vill-singhana!vill-singhana post-ps-naudiha bazar naudiha bazar!nawdiha Chhatarpur!palamu!Jharkhand!822113",
+      "alt": "9341459909",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "murari prajapati",
+      "name": "Dev Kumar Prajapati",
+      "num": "7708643138"
+    }
+  ]
+}
