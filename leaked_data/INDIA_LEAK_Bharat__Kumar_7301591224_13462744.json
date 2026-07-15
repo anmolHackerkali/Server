@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:06:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7301591224",
+  "records": [
+    {
+      "aadhar": "728680568804",
+      "address": "!Bind!!!!Nalanda Bind Bind!Bihar!803107",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ajay  Kumar",
+      "name": "Bharat  Kumar",
+      "num": "7301591224"
+    },
+    {
+      "aadhar": "728680568804",
+      "address": "!Bind!!!!Nalanda Bind Bind!Bihar!803107",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ajay  Kumar",
+      "name": "Bharat  Kumar",
+      "num": "7301591224"
+    },
+    {
+      "aadhar": "941857598230",
+      "address": "!!VILL-BIND BENIPUR BIND!NA!BIND!Nalanda Nalanda!NA!Bihar!803107",
+      "alt": "7301591224",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "RAHIM KEVAT",
+      "name": "NAULESH KUMAR",
+      "num": "9708394700"
+    },
+    {
+      "aadhar": "941857598230",
+      "address": "!!VILL-BIND BENIPUR BIND!NA!BIND!Nalanda Nalanda!NA!Bihar!803107",
+      "alt": "7301591224",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "RAHIM KEVAT",
+      "name": "NAULESH KUMAR",
+      "num": "9708394700"
+    },
+    {
+      "aadhar": "941857598230",
+      "address": "!!VILL-BIND BENIPUR BIND!NA!BIND!Nalanda Nalanda!NA!Bihar!803107",
+      "alt": "7301591224",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "RAHIM KEVAT",
+      "name": "NAULESH KUMAR",
+      "num": "9708394700"
+    }
+  ]
+}
