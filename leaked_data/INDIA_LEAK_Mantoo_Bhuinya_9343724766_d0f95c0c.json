@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:21:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9343724766",
+  "records": [
+    {
+      "aadhar": "979099500078",
+      "address": "S/O  Jholar!ward NO. - 9!Ramanujganj!graam hariharpur!post - chattarpur!Ramanujganj Ramanujganj!Balrampur!Chhattisgarh!497220",
+      "alt": "7987547772",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Jholar",
+      "name": "Mantoo Bhuinya",
+      "num": "9343724766"
+    }
+  ]
+}
