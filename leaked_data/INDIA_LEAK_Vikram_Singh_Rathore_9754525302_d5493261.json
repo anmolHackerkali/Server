@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:00:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9754525302",
+  "records": [
+    {
+      "aadhar": "321672845178",
+      "address": "!!Post Jaora Tah Jaora Akyabeni Jaora Akyabeni!NA!Jaora!Jaora RATLAM!NA!Madhya Pradesh!457226",
+      "alt": "9752202276",
+      "circle": "JIO MP",
+      "email": "gs8139367@gmail.com",
+      "fname": "Hamer Singh Rathore",
+      "name": "Vikram Singh Rathore",
+      "num": "9754525302"
+    },
+    {
+      "aadhar": "321672845178",
+      "address": "s/o hamer singh rathore! makan no. 32!Akayabeni!post jaora!tah jaora akyabeni!akayabeni!ratlam!Madhya Pradesh!457226",
+      "alt": "9754525302",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "hamer singh rathore",
+      "name": "Vikram Singh Rathore",
+      "num": "9826664637"
+    }
+  ]
+}
