@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:23:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9934445405",
+  "records": [
+    {
+      "aadhar": "854881642545",
+      "address": " Village- Maksudpur!Police Station- Hayaghat!Hayaghat!Maksudpur Hayaghat Bilashpur!Darbhanga!Samastipur!Bihar!847301 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Vinod Das ",
+      "name": " Sunita Devi ",
+      "num": "9934445405"
+    },
+    {
+      "aadhar": "854881642545",
+      "address": " Village- Maksudpur!Police Station- Hayaghat!Hayaghat!Maksudpur Hayaghat Bilashpur!Darbhanga!Samastipur!Bihar!847301 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Vinod Das ",
+      "name": " Sunita Devi ",
+      "num": "9934445405"
+    }
+  ]
+}
