@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:53:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7324899136",
+  "records": [
+    {
+      "aadhar": "652916967841",
+      "address": "   ALMA-PURNEA 854315 BR   ALMA-PURNEA BR 854315 ",
+      "alt": "8789178408",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SAIDUR  RAHMAN ",
+      "name": " MO SHAHID ALAM ",
+      "num": "7324899136"
+    },
+    {
+      "aadhar": "652916967841",
+      "address": "   ALMA-PURNEA 854315 BR   ALMA-PURNEA BR 854315 ",
+      "alt": "8789178408",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SAIDUR  RAHMAN ",
+      "name": " MO SHAHID ALAM ",
+      "num": "7324899136"
+    }
+  ]
+}
