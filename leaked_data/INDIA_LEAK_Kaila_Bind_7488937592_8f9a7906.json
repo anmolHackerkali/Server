@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:12:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7488937592",
+  "records": [
+    {
+      "aadhar": "575657368859",
+      "address": "s/o  butai bind!!Bishunganj!!parawan thikrour bishunganj!parawan Ghoshi!jehanabad!Bihar!804405",
+      "alt": "7634858903",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "butai bind",
+      "name": "Kaila Bind",
+      "num": "7488937592"
+    },
+    {
+      "aadhar": "575657368859",
+      "address": "s/o  butai bind!!Bishunganj!!parawan thikrour bishunganj!parawan Ghoshi!jehanabad!Bihar!804405",
+      "alt": "7634858903",
+      "circle": "JIO BHR&JHR",
+      "email": "KAILABIND1994@GMAIL.COM",
+      "fname": "butai bind",
+      "name": "Kaila Bind",
+      "num": "7488937592"
+    },
+    {
+      "aadhar": "575657368859",
+      "address": "s/o  butai bind!!Bishunganj!!parawan thikrour bishunganj!parawan Ghoshi!jehanabad!Bihar!804405",
+      "alt": "7634858903",
+      "circle": "JIO BHR&JHR",
+      "email": "KAILABIND1994@GMAIL.COM",
+      "fname": "butai bind",
+      "name": "Kaila Bind",
+      "num": "7488937592"
+    },
+    {
+      "aadhar": "922644837021",
+      "address": "s/o  amar jamadar!   !gangapur kawa nalanda!Devi mandir!gangapur!kawa!nalanda!Bihar!801302",
+      "alt": "7488937592",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "amar jamadar",
+      "name": "Ramjivan Jamadar",
+      "num": "6205073695"
+    },
+    {
+      "aadhar": "922644837021",
+      "address": "s/o  amar jamadar!...!gangapur kawa nalanda!Devi mandir!gangapur!kawa!nalanda!Bihar!801302",
+      "alt": "7488937592",
+      "circle": "JIO BHR&JHR",
+      "email": "RAMJEEWAN.MRR7@GMAIL.COM",
+      "fname": "amar jamadar",
+      "name": "Ramjivan Jamadar",
+      "num": "6205073695"
+    },
+    {
+      "aadhar": "922644837021",
+      "address": "s/o  amar jamadar!...!gangapur kawa nalanda!Devi mandir!gangapur!kawa!nalanda!Bihar!801302",
+      "alt": "7488937592",
+      "circle": "JIO BHR&JHR",
+      "email": "RAMJEEWAN.MRR7@GMAIL.COM",
+      "fname": "amar jamadar",
+      "name": "Ramjivan Jamadar",
+      "num": "6205073695"
+    }
+  ]
+}
