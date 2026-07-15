@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:17:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9998187062",
+  "records": [
+    {
+      "aadhar": "253171452971",
+      "address": "285-8 Anand Park Soc Dholka dholka Maflipur Ahmadabad",
+      "alt": "9998187062",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Parmar Galabhai",
+      "name": "Parmar Sunilkumar Galabhai",
+      "num": "9998187062"
+    },
+    {
+      "aadhar": "253171452971",
+      "address": "285-8 Anand Park Soc Dholka dholka Maflipur Ahmadabad",
+      "alt": "9998187062",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Parmar Galabhai",
+      "name": "Parmar Sunilkumar Galabhai",
+      "num": "9998187062"
+    },
+    {
+      "aadhar": "253171452971",
+      "address": "285-8 Anand Park Soc Dholka dholka Maflipur Ahmadabad",
+      "alt": "9998187062",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Parmar Galabhai",
+      "name": "Parmar Sunilkumar Galabhai",
+      "num": "9998187062"
+    },
+    {
+      "aadhar": "253171452971",
+      "address": "285-8 Anand Park Soc Dholka dholka Maflipur Ahmadabad",
+      "alt": "9998187062",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Parmar Galabhai",
+      "name": "Parmar Sunilkumar Galabhai",
+      "num": "9998187062"
+    }
+  ]
+}
