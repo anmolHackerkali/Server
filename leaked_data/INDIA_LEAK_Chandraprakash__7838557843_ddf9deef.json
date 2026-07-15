@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:37:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7838557843",
+  "records": [
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62  bhagirath Apartment City/District  Gautam Buddha Nagar State Uttar Pradesh! !GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash ",
+      "num": "7838557843"
+    },
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62 bhagirath Apartment City/District: Gautam Buddha Nagar State Uttar Pradesh!!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash",
+      "num": "7838557843"
+    },
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62 bhagirath Apartment City/District: Gautam Buddha Nagar State Uttar Pradesh!!GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash",
+      "num": "7838557843"
+    },
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62 bhagirath Apartment City/District  Gautam Buddha Nagar State Uttar Pradesh!!Noida-Gautam Buddha Nagar-Gautam Buddha Nagar GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": "7838557843",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash .",
+      "num": "9643090163"
+    },
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62 bhagirath Apartment City/District  Gautam Buddha Nagar State Uttar Pradesh!!Noida-Gautam Buddha Nagar-Gautam Buddha Nagar GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": "7838557843",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash ",
+      "num": "9643090163"
+    },
+    {
+      "aadhar": "341091138193",
+      "address": "Bhaiyal Lal!B-9/14!Sector-62 bhagirath Apartment City/District  Gautam Buddha Nagar State Uttar Pradesh!!Noida-Gautam Buddha Nagar-Gautam Buddha Nagar GAUTAM BUDDHA NAGAR!UTTAR PRADESH!201301",
+      "alt": "7838557843",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Bhaiyal Lal",
+      "name": "Chandraprakash ",
+      "num": "9643090163"
+    }
+  ]
+}
