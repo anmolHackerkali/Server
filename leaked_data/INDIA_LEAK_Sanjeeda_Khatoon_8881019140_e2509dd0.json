@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:11:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8881019140",
+  "records": [
+    {
+      "aadhar": "702977232486",
+      "address": "W/O Md.Arif Ahamad Siddiki!00!narayanpur Narainpur!!Narainpur!Narayan Pur Mohammadabad!Ghazipur!Uttar Pradesh!233229",
+      "alt": "9120802143",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Md Arif ahamad siddiki",
+      "name": "Sanjeeda Khatoon",
+      "num": "8881019140"
+    },
+    {
+      "aadhar": "702977232486",
+      "address": "W/O Md.Arif Ahamad Siddiki!00!narayanpur Narainpur!!Narainpur!Narayan Pur Mohammadabad!Ghazipur!Uttar Pradesh!233229",
+      "alt": "9120802143",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Md Arif ahamad siddiki",
+      "name": "Sanjeeda Khatoon",
+      "num": "8881019140"
+    }
+  ]
+}
