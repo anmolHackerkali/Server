@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:59:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129381951",
+  "records": [
+    {
+      "aadhar": "204216666158",
+      "address": "S/O: Vishvnath!h no 276 piparkhad ao!!piparkhad Kachan!Sonbhadra!Uttar Pradesh!232221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vishvnath",
+      "name": "Munna Lal",
+      "num": "9129381951"
+    },
+    {
+      "aadhar": "204216666158",
+      "address": "S/O: Vishvnath!h no 276 piparkhad ao!!piparkhad Kachan!Sonbhadra!Uttar Pradesh!232221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Vishvnath",
+      "name": "Munna Lal",
+      "num": "9129381951"
+    }
+  ]
+}
