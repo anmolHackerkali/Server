@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:47:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8810766828",
+  "records": [
+    {
+      "aadhar": "772571019437",
+      "address": "S/O Ramnebanj! PATTI BEJANV!Suriyawan!S R N BHADOHI!!Patti Bejwa Bhadohi!Sant Ravidas Nagar!Uttar Pradesh!221404",
+      "alt": "9628441040",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramnebanj",
+      "name": "Ramashankar",
+      "num": "8810766828"
+    },
+    {
+      "aadhar": "772571019437",
+      "address": "S/O Ramnebanj! PATTI BEJANV!Suriyawan!S R N BHADOHI!!Patti Bejwa Bhadohi!Sant Ravidas Nagar!Uttar Pradesh!221404",
+      "alt": "9628441040",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramnebanj",
+      "name": "Ramashankar",
+      "num": "8810766828"
+    }
+  ]
+}
