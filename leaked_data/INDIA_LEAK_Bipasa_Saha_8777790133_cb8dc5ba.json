@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:48:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8777790133",
+  "records": [
+    {
+      "aadhar": "697599771958",
+      "address": "!!2/B LATAFATH HOSSAIN LANE!!KG Bose Sarani Kolkata!West Bengal!700085",
+      "alt": "918017952606",
+      "circle": "JIO KOL",
+      "email": "sahatrishu05@gmail.com",
+      "fname": "Biplab Saha",
+      "name": "Bipasa Saha",
+      "num": "8777790133"
+    },
+    {
+      "aadhar": "697599771958",
+      "address": "!!2/B LATAFATH HOSSAIN LANE!!KG Bose Sarani Kolkata!West Bengal!700085",
+      "alt": "918017952606",
+      "circle": "JIO KOL",
+      "email": "sahatrishu05@gmail.com",
+      "fname": "Biplab Saha",
+      "name": "Bipasa Saha",
+      "num": "8777790133"
+    }
+  ]
+}
