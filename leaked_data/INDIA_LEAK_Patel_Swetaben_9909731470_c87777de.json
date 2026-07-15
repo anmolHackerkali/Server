@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:05:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9909731470",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O: Patel Bharatbhai!!! Patan!!BECHARAJI!Patan!Gujarat!384225",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "D/O Patel Bharatbhai",
+      "name": "Patel Swetaben",
+      "num": "9909731470"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Patel Bharatbhai!!! Patan!!BECHARAJI!Patan!Gujarat!384225",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "D/O Patel Bharatbhai",
+      "name": "Patel Swetaben",
+      "num": "9909731470"
+    }
+  ]
+}
