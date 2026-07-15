@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:08:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9310222629",
+  "records": [
+    {
+      "aadhar": "950864315911",
+      "address": "!253!Sarhaul sector 18 near police station!!Gurgaon!Gurgaon!Gurgaon!Haryana!122015",
+      "alt": "9289085935",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "yamunadhar singh",
+      "name": "Himanshu singh",
+      "num": "9310222629"
+    },
+    {
+      "aadhar": "950864315911",
+      "address": "!253!Sarhaul sector 18 near police station!!Gurgaon!Gurgaon!Gurgaon!Haryana!122015",
+      "alt": "9289085935",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "yamunadhar singh",
+      "name": "Himanshu singh",
+      "num": "9310222629"
+    },
+    {
+      "aadhar": "950864315911",
+      "address": "!253!Sarhaul sector 18 near police station!!Gurgaon!Gurgaon!Gurgaon!Haryana!122015",
+      "alt": "9289085935",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "yamunadhar singh",
+      "name": "Himanshu singh",
+      "num": "9310222629"
+    }
+  ]
+}
