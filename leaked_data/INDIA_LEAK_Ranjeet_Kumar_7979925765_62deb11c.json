@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:04:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7979925765",
+  "records": [
+    {
+      "aadhar": "313624719156",
+      "address": "S/O Nand Kishor Pandey!!Pandey Niwas Dakhin Darwaza!Chandchoura!Gaya!Bihar!823001",
+      "alt": "918409228980",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Nand Kishor Pandey",
+      "name": "Ranjeet Kumar",
+      "num": "7979925765"
+    },
+    {
+      "aadhar": "313624719156",
+      "address": "S/O Nand Kishor Pandey!!Pandey Niwas Dakhin Darwaza!Chandchoura!Gaya!Bihar!823001",
+      "alt": "918409228980",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Nand Kishor Pandey",
+      "name": "Ranjeet Kumar",
+      "num": "7979925765"
+    },
+    {
+      "aadhar": "313624719156",
+      "address": "S/O Nand Kishor Pandey!!Pandey Niwas Dakhin Darwaza!Chandchoura!Gaya!Bihar!823001",
+      "alt": "918409228980",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Nand Kishor Pandey",
+      "name": "Ranjeet Kumar",
+      "num": "7979925765"
+    }
+  ]
+}
