@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:09:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8780249286",
+  "records": [
+    {
+      "aadhar": "292588000485",
+      "address": "S/O  Bhikhabhai  patel Street  Netrang Surat Gujarat 394180",
+      "alt": "919979237970",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhikhabhai",
+      "name": "Shura Bhupendra",
+      "num": "8780249286"
+    },
+    {
+      "aadhar": "292588000485",
+      "address": "S/O  Bhikhabhai  patel Street  Netrang Surat Gujarat 394180",
+      "alt": "919979237970",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhikhabhai",
+      "name": "Shura Bhupendra",
+      "num": "8780249286"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bhima Bhai!!PLOT NO. 46 D.C.5!!Gandhidham Kachchh!Gujarat!370205",
+      "alt": "919316355180",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhima Bhai",
+      "name": "Arjun Rabari",
+      "num": "8780249286"
+    },
+    {
+      "aadhar": "292588000485",
+      "address": "S/O  Bhikhabhai  patel Street  Netrang Surat Gujarat 394180",
+      "alt": "919979237970",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhikhabhai",
+      "name": "Shura Bhupendra",
+      "num": "8780249286"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Bhima Bhai!!PLOT NO. 46 D.C.5!!Gandhidham Kachchh!Gujarat!370205",
+      "alt": "919316355180",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhima Bhai",
+      "name": "Arjun Rabari",
+      "num": "8780249286"
+    }
+  ]
+}
