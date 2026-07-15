@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:58:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9891256290",
+  "records": [
+    {
+      "aadhar": "845340997216",
+      "address": "S/O  Attar Singh!S/O  Attar Singh C-20! Ranjeet Vihar  Nilothi Exetension!Punjabi Bagh Near SDM School!Nilothi-West Delhi!DL!110041",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "SUNNY SINGH",
+      "num": "9891256290"
+    },
+    {
+      "aadhar": "845340997216",
+      "address": "S/O: Attar Singh!S/O: Attar SinghC-20!Ranjeet Vihar Nilothi Exetension!Punjabi BaghNear SDM School!Nilothi-West Delhi!DL!110041",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "SUNNYSINGH",
+      "num": "9891256290"
+    },
+    {
+      "aadhar": "845340997216",
+      "address": "S/O: Attar Singh!S/O: Attar SinghC-20!Ranjeet Vihar Nilothi Exetension!Punjabi BaghNear SDM School!Nilothi-West Delhi!DL!110041",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "ATTAR SINGH",
+      "name": "SUNNYSINGH",
+      "num": "9891256290"
+    }
+  ]
+}
