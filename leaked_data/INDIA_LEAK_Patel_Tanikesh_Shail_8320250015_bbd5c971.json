@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:39:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8320250015",
+  "records": [
+    {
+      "aadhar": "807476078280",
+      "address": "bhag 2 ami society dipak hotal deesa deesa disa mukhya dak ghar Deesa",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "rajpatel7147@gmail.com",
+      "fname": "Shaileshbhai",
+      "name": "Patel Tanikesh Shaileshbhai",
+      "num": "8320250015"
+    },
+    {
+      "aadhar": "807476078280",
+      "address": "bhag 2 ami society dipak hotal deesa deesa disa mukhya dak ghar Deesa",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "rajpatel7147@gmail.com",
+      "fname": "Shaileshbhai",
+      "name": "Patel Tanikesh Shaileshbhai",
+      "num": "8320250015"
+    }
+  ]
+}
