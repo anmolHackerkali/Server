@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:51:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9878914689",
+  "records": [
+    {
+      "aadhar": "314748344441",
+      "address": "S/O: BARU RAM!1629!!SECTOR-15PANCHKULASECTOR 15 PANCHKULAPANCHKULA!PANCHKULA!HARYANA!134113",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "BARU RAM",
+      "name": "MUKHTIAR SINGH",
+      "num": "9878914689"
+    },
+    {
+      "aadhar": "525269908687",
+      "address": "!K 102 Exotica Fresco  Sector 137 Gautam Buddha Nagar Uttar Pradesh 201301!!!!!!!",
+      "alt": "9878914689",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "M S Chaudhary",
+      "name": "Piyush Chaudhary",
+      "num": "9915160907"
+    }
+  ]
+}
