@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:16:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6295577142",
+  "records": [
+    {
+      "aadhar": "370871188304",
+      "address": "!256!252 sehara!raina!Burdwan Barddhaman!West Bengal!713423",
+      "alt": "919546285806",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bameshwar Yadav",
+      "name": "Pavan Kumar",
+      "num": "6295577142"
+    },
+    {
+      "aadhar": "370871188304",
+      "address": "!256!252 sehara!raina!Burdwan Barddhaman!West Bengal!713423",
+      "alt": "919546285806",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bameshwar Yadav",
+      "name": "Pavan Kumar",
+      "num": "6295577142"
+    },
+    {
+      "aadhar": "370871188304",
+      "address": "C/O Bameshwar Singh!!Anti Angra Gaya!!anti angra!Angra!Gaya!Bihar!824116",
+      "alt": "6295577142",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bameshwar singh",
+      "name": "Kaushal Kumar",
+      "num": "9905139425"
+    },
+    {
+      "aadhar": "370871188304",
+      "address": "C/O Bameshwar Singh!!Anti Angra Gaya!!anti angra!Angra!Gaya!Bihar!824116",
+      "alt": "6295577142",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bameshwar singh",
+      "name": "Kaushal Kumar",
+      "num": "9905139425"
+    },
+    {
+      "aadhar": "370871188304",
+      "address": "C/O Bameshwar Singh!!Anti Angra Gaya!!anti angra!Angra!Gaya!Bihar!824116",
+      "alt": "6295577142",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bameshwar singh",
+      "name": "Kaushal Kumar",
+      "num": "9905139425"
+    }
+  ]
+}
