@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:55:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9985830272",
+  "records": [
+    {
+      "aadhar": "344702969459",
+      "address": "S/O MOHAMMED ABDUL HUSSAIN!2 - 9 - 1000!HANMAKONDA  WADDEPALLERURAL WADDEPALLI!WADDEPALLI!WADDEPALLY WARANGAL!WARANGAL!WARANGAL!Andhra Pradesh!506370",
+      "alt": "8179900272",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "Mohammed ABDUL HUSSAIN",
+      "name": "MR MOHAMMED SHABBEER HUSSAIN",
+      "num": "9985830272"
+    }
+  ]
+}
