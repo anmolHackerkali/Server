@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:08:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7549538229",
+  "records": [
+    {
+      "aadhar": "518242982281",
+      "address": "!Panchayat - Maharajpur!!Kishanpur   Post - Belwa   Purnea Belwa!!Purnia Belwa Purnia East!Bihar!854337",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Lal Yadav",
+      "name": "Ashok Kumar Yadav",
+      "num": "7549538229"
+    },
+    {
+      "aadhar": "518242982281",
+      "address": "!Panchayat - Maharajpur!!Kishanpur   Post - Belwa   Purnea Belwa!!Purnia Belwa Purnia East!Bihar!854337",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Lal Yadav",
+      "name": "Ashok Kumar Yadav",
+      "num": "7549538229"
+    },
+    {
+      "aadhar": "402943471248",
+      "address": "!panchayat - maharajp!ur  kishanpur   post - belwa   purnea!Belwa Purnia East!Purnia!Bihar!854337",
+      "alt": "7549538229",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Ashok Kumar Yadav",
+      "name": "Ankit Raj",
+      "num": "9473377100"
+    },
+    {
+      "aadhar": "518242982281",
+      "address": "S/O  Ram Lal Yadav!!kishanpur   post - belwa panchayat - maharajpur Belwa!NA!kishanpur post - belwa purnea!Belwa Purnia East Purnia!NA!Bihar!854337",
+      "alt": "7549538229",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Lal Yadav",
+      "name": "Ashok Kumar Yadav",
+      "num": "9334154424"
+    },
+    {
+      "aadhar": "402943471248",
+      "address": "  panchayat - maharajpur  kishanpur   post - belwa   purnea Belwa Purnia East Purnia Bihar 854337 ",
+      "alt": "7549538229",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Ashok Kumar Yadav ",
+      "name": " Ankit Raj . . ",
+      "num": "9473377100"
+    },
+    {
+      "aadhar": "518242982281",
+      "address": "S/O  Ram Lal Yadav!!kishanpur   post - belwa panchayat - maharajpur Belwa!NA!kishanpur post - belwa purnea!Belwa Purnia East Purnia!NA!Bihar!854337",
+      "alt": "7549538229",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Lal Yadav",
+      "name": "Ashok Kumar Yadav",
+      "num": "9334154424"
+    },
+    {
+      "aadhar": "402943471248",
+      "address": "  panchayat - maharajpur  kishanpur   post - belwa   purnea Belwa Purnia East Purnia Bihar 854337 ",
+      "alt": "7549538229",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Ashok Kumar Yadav ",
+      "name": " Ankit Raj . . ",
+      "num": "9473377100"
+    },
+    {
+      "aadhar": "518242982281",
+      "address": "S/O  Ram Lal Yadav!!kishanpur   post - belwa panchayat - maharajpur Belwa!NA!kishanpur post - belwa purnea!Belwa Purnia East Purnia!NA!Bihar!854337",
+      "alt": "7549538229",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Lal Yadav",
+      "name": "Ashok Kumar Yadav",
+      "num": "9334154424"
+    }
+  ]
+}
