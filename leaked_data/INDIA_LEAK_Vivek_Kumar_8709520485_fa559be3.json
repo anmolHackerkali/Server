@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:41:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709520485",
+  "records": [
+    {
+      "aadhar": "513172092562",
+      "address": "S/O: Ram Bihari Ram!!SECTOR-1/ B NEPALI COLONY POST-SECTOR-1!BOKARO STEEL CITY P S-SECTOR-1!BOKARO STEEL CITY BOKARO!Jharkhand!827001",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram Bihari Ram",
+      "name": "Vivek Kumar",
+      "num": "8709520485"
+    },
+    {
+      "aadhar": "513172092562",
+      "address": "S/O Ram Bihari Ram!!SECTOR-1/ B NEPALI COLONY POST-SECTOR-1!BOKARO STEEL CITY P.S-SECTOR-1!BOKARO STEEL CITY BOKARO!Jharkhand!827001",
+      "alt": "919431343098",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Bihari Ram",
+      "name": "Vivek Kumar",
+      "num": "8709520485"
+    },
+    {
+      "aadhar": "513172092562",
+      "address": "S/O Ram Bihari Ram!!SECTOR-1/ B NEPALI COLONY POST-SECTOR-1!BOKARO STEEL CITY P.S-SECTOR-1!BOKARO STEEL CITY BOKARO!Jharkhand!827001",
+      "alt": "919431343098",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ram Bihari Ram",
+      "name": "Vivek Kumar",
+      "num": "8709520485"
+    }
+  ]
+}
