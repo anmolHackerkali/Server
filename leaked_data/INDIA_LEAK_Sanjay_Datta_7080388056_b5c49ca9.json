@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:26:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7080388056",
+  "records": [
+    {
+      "aadhar": "952006592216",
+      "address": "S/O Javahar Datta!454!Bhagvanpur!mandir!Dhanwantari Nagar Samne Ghat Bhagawanpur!Varanasi!Varanasi!Uttar Pradesh!221005",
+      "alt": "8874431219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Javahar Datta",
+      "name": "Sanjay Datta",
+      "num": "7080388056"
+    },
+    {
+      "aadhar": "952006592216",
+      "address": "S/O Javahar Datta!454!Bhagvanpur!mandir!Dhanwantari Nagar Samne Ghat Bhagawanpur!Varanasi!Varanasi!Uttar Pradesh!221005",
+      "alt": "8874431219",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Javahar Datta",
+      "name": "Sanjay Datta",
+      "num": "7080388056"
+    }
+  ]
+}
