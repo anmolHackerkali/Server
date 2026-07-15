@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:54:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8508700063",
+  "records": [
+    {
+      "aadhar": "839035154806",
+      "address": "NA!HOUSE NUMBER 27!WARD NUMBER1 RARNGARH ROAD SAHNEWAL KALAN!!SAHNEWAL KHURD!LUDHIANA!LUDHIANA!PUNJAB!141120",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SUDHIR KUMAR",
+      "name": "NITIN",
+      "num": "8508700063"
+    }
+  ]
+}
