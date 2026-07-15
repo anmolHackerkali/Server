@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:14:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9616767608",
+  "records": [
+    {
+      "aadhar": "246256925850",
+      "address": "!00!Sevakrampur bigahiya post bamaila!!handia!Allahabad!Allahabad!Uttar Pradesh!221503",
+      "alt": "8595853899",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girja Shanker Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "9616767608"
+    },
+    {
+      "aadhar": "246256925850",
+      "address": "!00!Sevakrampur bigahiya post bamaila!!handia!Allahabad!Allahabad!Uttar Pradesh!221503",
+      "alt": "8595853899",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girja Shanker Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "9616767608"
+    },
+    {
+      "aadhar": "246256925850",
+      "address": "!21!Sevakrampur Bighiya bamaila!kallahawa!Banaila Handia Bamaila Allahabad!Allahabad!Allahabad!Uttar Pradesh!221503",
+      "alt": "9616767608",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girja Shanker Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "8595853899"
+    },
+    {
+      "aadhar": "246256925850",
+      "address": "!21!Sevakrampur Bighiya bamaila!kallahawa!Banaila Handia Bamaila Allahabad!Allahabad!Allahabad!Uttar Pradesh!221503",
+      "alt": "9616767608",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Girja Shanker Tiwari",
+      "name": "Anurag Tiwari",
+      "num": "8595853899"
+    }
+  ]
+}
