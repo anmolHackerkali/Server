@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:48:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6303810366",
+  "records": [
+    {
+      "aadhar": "936069099969",
+      "address": "KASHINATH!SAKHINI!SAKHINI KOTWA MISIR!KOTWA MISIR!SAKHINI   KOTWA   MISIR  DEORIA!DEORIA!UTTAR PRADESH!274404",
+      "alt": "6303810366",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kashinath",
+      "name": "MR VIJAY ",
+      "num": "9918816796"
+    },
+    {
+      "aadhar": "936069099969",
+      "address": "KASHINATH!SAKHINI!SAKHINIKOTWA MISIR!KOTWA MISIR!SAKHINI  KOTWA  MISIR DEORIA!DEORIA!UTTAR PRADESH!274404",
+      "alt": "6303810366",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Kashinath",
+      "name": "MR. VIJAY .",
+      "num": "9918816796"
+    },
+    {
+      "aadhar": "936069099969",
+      "address": "KASHINATH!SAKHINI!SAKHINI KOTWA MISIR!KOTWA MISIR!SAKHINI   KOTWA   MISIR  DEORIA!DEORIA!UTTAR PRADESH!274404",
+      "alt": "6303810366",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kashinath",
+      "name": "MR VIJAY ",
+      "num": "9918816796"
+    }
+  ]
+}
