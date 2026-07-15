@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:49:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9105638612",
+  "records": [
+    {
+      "aadhar": "791963237950",
+      "address": "!jaurasi!Zaurasi aht!Landhauara!Roorkee!Roorkee!Haridwar!Uttarakhand!247664",
+      "alt": "9528633309",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Dilshad",
+      "name": "Sahil Ansari  ",
+      "num": "9105638612"
+    }
+  ]
+}
