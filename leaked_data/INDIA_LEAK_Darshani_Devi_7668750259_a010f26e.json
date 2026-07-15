@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:24:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7668750259",
+  "records": [
+    {
+      "aadhar": "672053453593",
+      "address": "D/O Lutto!!Sangam Vihar HarrawaladehradunSangam ViharHarrawala!NA!!HarrawalaChakrataDehradun!NA!Uttarakhand!248001",
+      "alt": "9761697659",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Lutto",
+      "name": "Darshani Devi",
+      "num": "7668750259"
+    },
+    {
+      "aadhar": "672053453593",
+      "address": "D/O Lutto!!Sangam Vihar HarrawaladehradunSangam ViharHarrawala!NA!!HarrawalaChakrataDehradun!NA!Uttarakhand!248001",
+      "alt": "9761697659",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Lutto",
+      "name": "Darshani Devi",
+      "num": "7668750259"
+    }
+  ]
+}
