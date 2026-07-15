@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:58:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8009207071",
+  "records": [
+    {
+      "aadhar": "486977434624",
+      "address": "S/O Ram Sajeevan!garha kola Gadha Kola!!!Unnao!Uttar Pradesh!229503",
+      "alt": "9005847240",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Sajeevan",
+      "name": "Mohit Kumar",
+      "num": "8009207071"
+    },
+    {
+      "aadhar": "486977434624",
+      "address": "S/O Ram Sajeevan!garha kola Gadha Kola!!!Unnao!Uttar Pradesh!229503",
+      "alt": "9005847240",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Sajeevan",
+      "name": "Mohit Kumar",
+      "num": "8009207071"
+    }
+  ]
+}
