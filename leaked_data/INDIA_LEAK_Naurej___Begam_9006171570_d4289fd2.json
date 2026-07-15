@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:12:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9006171570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H No 77!Vill Garabhanadanga!Dighal Baink  Kishanganj!!!855101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ahamad Husain",
+      "name": "Naurej   Begam",
+      "num": "9006171570"
+    },
+    {
+      "aadhar": null,
+      "address": "H No 77!Vill Garabhanadanga!Dighal Baink  Kishanganj!!!855101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ahamad Husain",
+      "name": "Naurej   Begam",
+      "num": "9006171570"
+    }
+  ]
+}
