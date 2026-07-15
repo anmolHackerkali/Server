@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:22:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9909017203",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "12/B  BAZIGAR SOC !OPP VASTRAPUR RAILWAY STATION !NEAR NIRALI FLATS VEJALPUR !AHMEDABAD!GUJARAT!380051",
+      "alt": "9825097204",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "CHAVDA",
+      "name": "MR JAGDISHBHAI KALIDAS CHAVDA",
+      "num": "9909017203"
+    },
+    {
+      "aadhar": null,
+      "address": "12/B  BAZIGAR SOC !OPP VASTRAPUR RAILWAY STATION !NEAR NIRALI FLATS VEJALPUR !AHMEDABAD!GUJARAT!380051",
+      "alt": "9825097204",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "CHAVDA",
+      "name": "MR JAGDISHBHAI KALIDAS CHAVDA",
+      "num": "9909017203"
+    },
+    {
+      "aadhar": " Gj0120000516866 ",
+      "address": " ! 12 BAJIGAR SOCIETY PART 4 ! BH RAILWAY STATION   !   ! VEJALPUR AHMEDABAD ! AHMEDABAD ! Ahmedabad ! GUJARAT ! 380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "KALIDASH CHAVDA",
+      "name": "MR JAGADISHCHANDRA K CHAVDA",
+      "num": "9909017205"
+    },
+    {
+      "aadhar": " 203002202476 ",
+      "address": "S/O Kalidas ! 12  BAJIGAR SOCIETY PART-4 ! 12  BAJIGAR SOCIETY PART-4 BEHIND RAILWAY STATION ! Behind Railway Station ! VEJALPUR AHMEDABAD ! AHMEDABAD ! Ahmedabad ! GUJARAT ! 380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Kalidas chavada",
+      "name": "MR JAGADISHCHANDRA KALIDAS CHAVADA",
+      "num": "9537000399"
+    },
+    {
+      "aadhar": " gj0151686600 ",
+      "address": " ! B 12 BAJIGAR SOC ! OPP VASTRAPUR RAILWAY STATION NR DURGA FLAT ! nr durga flat ! SATELLITE AHMEDABAD ! AHMEDABAD ! satellite ahmedabad ! GUJARAT ! 380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "kalidas chavda",
+      "name": "MR JAGDISH CHAVDA",
+      "num": "8401718654"
+    },
+    {
+      "aadhar": "Gj0120000516866",
+      "address": "!12 BAJIGAR SOCIETY PART 4!BH RAILWAY STATION  ! !VEJALPUR AHMEDABAD!AHMEDABAD!Ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDISHCHAVDA595@GMAIL.COM",
+      "fname": "KALIDASH CHAVDA",
+      "name": "MR JAGADISHCHANDRA K CHAVDA",
+      "num": "9909017205"
+    },
+    {
+      "aadhar": "203002202476",
+      "address": "S/O Kalidas!12  BAJIGAR SOCIETY PART-4!12  BAJIGAR SOCIETY PART-4 BEHIND RAILWAY STATION!Behind Railway Station!VEJALPUR AHMEDABAD!AHMEDABAD!Ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDHISHCHAVDA595@GMAIL.COM",
+      "fname": "Kalidas chavada",
+      "name": "MR JAGADISHCHANDRA KALIDAS CHAVADA",
+      "num": "9537000399"
+    },
+    {
+      "aadhar": "gj0151686600",
+      "address": "!B 12 BAJIGAR SOC!OPP VASTRAPUR RAILWAY STATION NR DURGA FLAT!nr durga flat!SATELLITE AHMEDABAD!AHMEDABAD!satellite ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDISHCHAVDA595@GMAIL.COM",
+      "fname": "kalidas chavda",
+      "name": "MR JAGDISH CHAVDA",
+      "num": "8401718654"
+    },
+    {
+      "aadhar": "Gj0120000516866",
+      "address": "!12 BAJIGAR SOCIETY PART 4!BH RAILWAY STATION  ! !VEJALPUR AHMEDABAD!AHMEDABAD!Ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDISHCHAVDA595@GMAIL.COM",
+      "fname": "KALIDASH CHAVDA",
+      "name": "MR JAGADISHCHANDRA K CHAVDA",
+      "num": "9909017205"
+    },
+    {
+      "aadhar": "203002202476",
+      "address": "S/O Kalidas!12  BAJIGAR SOCIETY PART-4!12  BAJIGAR SOCIETY PART-4 BEHIND RAILWAY STATION!Behind Railway Station!VEJALPUR AHMEDABAD!AHMEDABAD!Ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDHISHCHAVDA595@GMAIL.COM",
+      "fname": "Kalidas chavada",
+      "name": "MR JAGADISHCHANDRA KALIDAS CHAVADA",
+      "num": "9537000399"
+    },
+    {
+      "aadhar": "gj0151686600",
+      "address": "!B 12 BAJIGAR SOC!OPP VASTRAPUR RAILWAY STATION NR DURGA FLAT!nr durga flat!SATELLITE AHMEDABAD!AHMEDABAD!satellite ahmedabad!GUJARAT!380015",
+      "alt": "9909017203",
+      "circle": "VI GUJARAT",
+      "email": "JAGDISHCHAVDA595@GMAIL.COM",
+      "fname": "kalidas chavda",
+      "name": "MR JAGDISH CHAVDA",
+      "num": "8401718654"
+    }
+  ]
+}
