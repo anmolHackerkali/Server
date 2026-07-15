@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:18:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9170629779",
+  "records": [
+    {
+      "aadhar": "755258127782",
+      "address": "S/O Meghnath!169 Gajendhra patti!Bhedaura Bhedaura!!Azamgarh!Azamgarh!Azamgarh!Uttar Pradesh!223223",
+      "alt": "9451656573",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Meghnath",
+      "name": "Vijay Kumar",
+      "num": "9170629779"
+    },
+    {
+      "aadhar": "755258127782",
+      "address": "S/O Meghnath!169 Gajendhra patti!Bhedaura Bhedaura!!Azamgarh!Azamgarh!Azamgarh!Uttar Pradesh!223223",
+      "alt": "9451656573",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Meghnath",
+      "name": "Vijay Kumar",
+      "num": "9170629779"
+    }
+  ]
+}
