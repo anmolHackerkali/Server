@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:34:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931465716",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!house no-GC15 pul pheladpur!Mittal chowk!New Delhi South South!Delhi!110044",
+      "alt": "917011617619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Md Rizwan",
+      "name": "Mohammad Shamim",
+      "num": "9931465716"
+    },
+    {
+      "aadhar": null,
+      "address": "!!house no-GC15 pul pheladpur!Mittal chowk!New Delhi South South!Delhi!110044",
+      "alt": "917011617619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Md Rizwan",
+      "name": "Mohammad Shamim",
+      "num": "9931465716"
+    },
+    {
+      "aadhar": null,
+      "address": "!!house no-GC15 pul pheladpur!Mittal chowk!New Delhi South South!Delhi!110044",
+      "alt": "917011617619",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Md Rizwan",
+      "name": "Mohammad Shamim",
+      "num": "9931465716"
+    },
+    {
+      "aadhar": "869409417333",
+      "address": "S/O  Md Rizwan!S/O  Md Rizwan!ward no-05!Satanpur  Ujiarpur !SATANPUR-SAMASTIPUR!BR!848132",
+      "alt": "9931465716",
+      "circle": "VODA BHR&JHR",
+      "email": "Shamimparwana2@gmail.com",
+      "fname": "MD RIZWAN",
+      "name": "MOHAMMAD SHAMIM",
+      "num": "9708338528"
+    },
+    {
+      "aadhar": "503156702867",
+      "address": "!semri samastipur 12!Ward 08!Shivmandir!Simri vidyapatinagar!Samastipur!Samastipur!Bihar!848503",
+      "alt": "9931465716",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Irafil",
+      "name": "Zarina Khatun",
+      "num": "7857930938"
+    },
+    {
+      "aadhar": "869409417333",
+      "address": "!!Satanpurward no05!Samastipur!!Samastipur!Bihar!848132",
+      "alt": "9931465716",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Rizwan",
+      "name": "Mohammad Shamim",
+      "num": "7050276123"
+    },
+    {
+      "aadhar": "869409417333",
+      "address": "S/O  Md Rizwan!S/O  Md Rizwan!ward no-05!Satanpur  Ujiarpur !SATANPUR-SAMASTIPUR!BR!848132",
+      "alt": "9931465716",
+      "circle": "VODA BHR&JHR",
+      "email": "Shamimparwana2@gmail.com",
+      "fname": "MD RIZWAN",
+      "name": "MOHAMMAD SHAMIM",
+      "num": "9708338528"
+    },
+    {
+      "aadhar": "503156702867",
+      "address": "!semri samastipur 12!Ward 08!Shivmandir!Simri vidyapatinagar!Samastipur!Samastipur!Bihar!848503",
+      "alt": "9931465716",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Irafil",
+      "name": "Zarina Khatun",
+      "num": "7857930938"
+    },
+    {
+      "aadhar": "869409417333",
+      "address": "!!Satanpurward no05!Samastipur!!Samastipur!Bihar!848132",
+      "alt": "9931465716",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Rizwan",
+      "name": "Mohammad Shamim",
+      "num": "7050276123"
+    }
+  ]
+}
