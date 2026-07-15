@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:54:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8565018311",
+  "records": [
+    {
+      "aadhar": "542322302830",
+      "address": "!na  ward no 10!azad nagar tamkuhi road sewrahi!mandir!tamkuhiraj!Kushinagar!Kushinagar!Uttar Pradesh!274406",
+      "alt": "9335935811",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "najir ahamad",
+      "name": "Abbas Ali",
+      "num": "8565018311"
+    },
+    {
+      "aadhar": "542322302830",
+      "address": "!na  ward no 10!azad nagar tamkuhi road sewrahi!mandir!tamkuhiraj!Kushinagar!Kushinagar!Uttar Pradesh!274406",
+      "alt": "9335935811",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "najir ahamad",
+      "name": "Abbas Ali",
+      "num": "8565018311"
+    },
+    {
+      "aadhar": "441283511881",
+      "address": "W/O M.D.Abbas Ali! nagar panchayat sewrahi!ward no. 10 azad nagar Seorahi!!!Sewrahi Tamkuhi Raj!Kushinagar!Uttar Pradesh!274406",
+      "alt": "8565018311",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "M d Abbas",
+      "name": "Jamila Khatoon",
+      "num": "9335935811"
+    },
+    {
+      "aadhar": "441283511881",
+      "address": "W/O M.D.Abbas Ali! nagar panchayat sewrahi!ward no. 10 azad nagar Seorahi!!!Sewrahi Tamkuhi Raj!Kushinagar!Uttar Pradesh!274406",
+      "alt": "8565018311",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "M d Abbas",
+      "name": "Jamila Khatoon",
+      "num": "9335935811"
+    }
+  ]
+}
