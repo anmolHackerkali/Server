@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:39:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142554278",
+  "records": [
+    {
+      "aadhar": "301750029939",
+      "address": "0!gayatri apts !gayatri apts !patidar jin  bardoli Bardoli Bardoli Surat!SURAT!SURAT!Gujarat!394601",
+      "alt": "9879554278",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ghanshyambhai prajapati",
+      "name": "MRS PRAJAPATI NEHA NEHA",
+      "num": "9142554278"
+    },
+    {
+      "aadhar": "301750029939",
+      "address": "!0!gayatri apts !gayatri apts !patidar jin  bardoli Bardoli Bardoli Surat!SURAT!SURAT!Gujarat!394601",
+      "alt": "9879554278",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ghanshyambhai prajapati",
+      "name": "MRS PRAJAPATI NEHA NEHA",
+      "num": "9142554278"
+    },
+    {
+      "aadhar": "301750029939",
+      "address": "!0!gayatri apts !gayatri apts !patidar jin  bardoli Bardoli Bardoli Surat!SURAT!SURAT!Gujarat!394601",
+      "alt": "9879554278",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "ghanshyambhai prajapati",
+      "name": "MRS PRAJAPATI NEHA NEHA",
+      "num": "9142554278"
+    }
+  ]
+}
