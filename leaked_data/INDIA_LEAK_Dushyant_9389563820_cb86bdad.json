@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:06:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389563820",
+  "records": [
+    {
+      "aadhar": "955878119712",
+      "address": "S/O Ram Avtar!makan no 191!ganv sarna post muradnagar sarnasarna murad nagar!!muradnagar!Ghaziabad!Ghaziabad!Uttar Pradesh!201206",
+      "alt": "7533914931",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ram Avtar",
+      "name": "Dushyant",
+      "num": "9389563820"
+    },
+    {
+      "aadhar": "955878119712",
+      "address": "S/O Ram Avtar! makan no 191!ganv sarna post muradnagar sarna sarna murad nagar!!muradnagar!Ghaziabad!Ghaziabad!Uttar Pradesh!201206",
+      "alt": "7533914931",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ram Avtar",
+      "name": "Dushyant",
+      "num": "9389563820"
+    },
+    {
+      "aadhar": "955878119712",
+      "address": "S/O Ram Avtar! makan no 191!ganv sarna post muradnagar sarna sarna murad nagar!!muradnagar!Ghaziabad!Ghaziabad!Uttar Pradesh!201206",
+      "alt": "7533914931",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ram Avtar",
+      "name": "Dushyant",
+      "num": "9389563820"
+    }
+  ]
+}
