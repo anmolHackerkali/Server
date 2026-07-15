@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:47:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9724871334",
+  "records": [
+    {
+      "aadhar": "472636026100",
+      "address": "768 shreeji apt!b/h khatri wad junathana!junathana!navsari Navsari!AMADPORE!Navsari!Gujarat!396445",
+      "alt": "9727420887",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Bharatbhai Mistry",
+      "name": "MS JENI MISTRY",
+      "num": "9724871334"
+    },
+    {
+      "aadhar": "472636026100",
+      "address": "D/O Bh Bharatbhaimistry!768 shreeji apt!b/h khatri wad junathana!junathana!navsari Navsari!AMADPORE!Navsari!Gujarat!396445",
+      "alt": "9727420887",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Bharatbhai Mistry",
+      "name": "MS JENI MISTRY",
+      "num": "9724871334"
+    },
+    {
+      "aadhar": "472636026100",
+      "address": "D/O Bh Bharatbhaimistry!768 shreeji apt!b/h khatri wad junathana!junathana!navsari Navsari!AMADPORE!Navsari!Gujarat!396445",
+      "alt": "9727420887",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Bharatbhai Mistry",
+      "name": "MS JENI MISTRY",
+      "num": "9724871334"
+    }
+  ]
+}
