@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:07:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8863017519",
+  "records": [
+    {
+      "aadhar": "878578566179",
+      "address": "!!Sirdilpur PatoriWard No10!Samastipur!!Samastipur!Bihar!848504",
+      "alt": "9122294106",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kamleshwari Prasad Roy",
+      "name": "Mukesh Kumar",
+      "num": "8863017519"
+    },
+    {
+      "aadhar": "878578566179",
+      "address": "!!Sirdilpur PatoriWard No10!Samastipur!!Samastipur!Bihar!848504",
+      "alt": "9122294106",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kamleshwari Prasad Roy",
+      "name": "Mukesh Kumar",
+      "num": "8863017519"
+    },
+    {
+      "aadhar": "521688247352",
+      "address": "w/o  purushotam kumar!!Sirdilpur Patory!!sirdilpur ward no-10 patory!patori Patori!samastipur!Bihar!848504",
+      "alt": "8863017519",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "purushotam kumar",
+      "name": "Ganita Devi",
+      "num": "6299618027"
+    },
+    {
+      "aadhar": "852783437168",
+      "address": " C/O  Abhas Kumar Roy Sirdilpur Sirdilpur SAMASTIPUR SAMASTIPUR Sirdilpur  Patory SAMASTIPUR SAMASTIPUR SAMASTIPUR 848504 BIHAR ",
+      "alt": "8863017519",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Abhas kumar roy ",
+      "name": " MR  AMAN KUMAR ",
+      "num": "8873170519"
+    },
+    {
+      "aadhar": "649436123769",
+      "address": " Sirdilpur Samastipur sirdilpur ward No-10  ADALPUR-SAMASTIPUR 848504 BR sirdilpur ward No-10  ADALPUR-SAMASTIPUR BR 848504 ",
+      "alt": "8863017519",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ASHOK  RAY ",
+      "name": " RAJA  KUMAR ",
+      "num": "8228009559"
+    },
+    {
+      "aadhar": "521688247352",
+      "address": "w/o  purushotam kumar!!Sirdilpur Patory!!sirdilpur ward no-10 patory!patori Patori!samastipur!Bihar!848504",
+      "alt": "8863017519",
+      "circle": "JIO BHR&JHR",
+      "email": "spk4536@gmail.com",
+      "fname": "purushotam kumar",
+      "name": "Ganita Devi",
+      "num": "6299618027"
+    },
+    {
+      "aadhar": "852783437168",
+      "address": " C/O  Abhas Kumar Roy Sirdilpur Sirdilpur SAMASTIPUR SAMASTIPUR Sirdilpur  Patory SAMASTIPUR SAMASTIPUR SAMASTIPUR 848504 BIHAR ",
+      "alt": "8863017519",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Abhas kumar roy ",
+      "name": " MR  AMAN KUMAR ",
+      "num": "8873170519"
+    },
+    {
+      "aadhar": "649436123769",
+      "address": " Sirdilpur Samastipur sirdilpur ward No-10  ADALPUR-SAMASTIPUR 848504 BR sirdilpur ward No-10  ADALPUR-SAMASTIPUR BR 848504 ",
+      "alt": "8863017519",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " ASHOK  RAY ",
+      "name": " RAJA  KUMAR ",
+      "num": "8228009559"
+    },
+    {
+      "aadhar": "521688247352",
+      "address": "w/o  purushotam kumar!!Sirdilpur Patory!!sirdilpur ward no-10 patory!patori Patori!samastipur!Bihar!848504",
+      "alt": "8863017519",
+      "circle": "JIO BHR&JHR",
+      "email": "spk4536@gmail.com",
+      "fname": "purushotam kumar",
+      "name": "Ganita Devi",
+      "num": "6299618027"
+    }
+  ]
+}
