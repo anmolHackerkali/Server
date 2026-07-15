@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:15:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368717139",
+  "records": [
+    {
+      "aadhar": "461630413255",
+      "address": "S/O  Sushil Kumar!!1217 A-BLOCK RAJEEV COLONY!!Mohan Nagar Ghaziabad!Uttar Pradesh!201007",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "sushilkumarkashyap66666@gmail.com",
+      "fname": "Sushil Kumar",
+      "name": "ROHIT KUMAR",
+      "num": "8368717139"
+    },
+    {
+      "aadhar": "461630413255",
+      "address": "S/O Sushil Kumar!!1217A-BLOCKRAJEEV COLONY!!Mohan NagarGhaziabad!Uttar Pradesh!201007",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "sushilkumarkashyap66666@gmail.com",
+      "fname": "Sushil Kumar",
+      "name": "ROHIT KUMAR",
+      "num": "8368717139"
+    },
+    {
+      "aadhar": "461630413255",
+      "address": "S/O Sushil Kumar!!1217A-BLOCKRAJEEV COLONY!!Mohan NagarGhaziabad!Uttar Pradesh!201007",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "sushilkumarkashyap66666@gmail.com",
+      "fname": "Sushil Kumar",
+      "name": "ROHIT KUMAR",
+      "num": "8368717139"
+    }
+  ]
+}
