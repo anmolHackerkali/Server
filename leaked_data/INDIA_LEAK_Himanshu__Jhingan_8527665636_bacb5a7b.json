@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:36:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8527665636",
+  "records": [
+    {
+      "aadhar": "245192674207",
+      "address": "! Flat No- 148  Pocket- 1  Sector- 9  Dda/Sfs Dwarka !!!South West Delhi!DELHI!110077",
+      "alt": "7503020930",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Madhav",
+      "name": "Himanshu  Jhingan",
+      "num": "8527665636"
+    },
+    {
+      "aadhar": "245192674207",
+      "address": "!Flat No- 148 Pocket- 1 Sector- 9 Dda/Sfs Dwarka South West AIRTEL DELHI AIRTEL DELHI 110077!!!!!!!",
+      "alt": "7503020930",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Madhav",
+      "name": "Himanshu  Jhingan",
+      "num": "8527665636"
+    },
+    {
+      "aadhar": "245192674207",
+      "address": "!Flat No- 148 Pocket- 1 Sector- 9 Dda/SfsDwarka!!!South West Delhi!DELHI!110077",
+      "alt": "7503020930",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Madhav",
+      "name": "Himanshu  Jhingan",
+      "num": "8527665636"
+    },
+    {
+      "aadhar": "245192674207",
+      "address": "!Flat No- 148 Pocket- 1 Sector- 9 Dda/SfsDwarka!!!South West Delhi!DELHI!110077",
+      "alt": "7503020930",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Madhav",
+      "name": "Himanshu  Jhingan",
+      "num": "8527665636"
+    }
+  ]
+}
