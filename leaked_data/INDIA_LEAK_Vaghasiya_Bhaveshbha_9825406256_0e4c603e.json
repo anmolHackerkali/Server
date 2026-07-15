@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:21:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9825406256",
+  "records": [
+    {
+      "aadhar": "728389552561",
+      "address": "! 89!laxmi dham soc!laxmikant ashram road!katargam!Surat!Surat!Gujarat!395004",
+      "alt": "9377155387",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Vaghasiya Bhaveshbhai Mansukhbhai",
+      "num": "9825406256"
+    },
+    {
+      "aadhar": "728389552561",
+      "address": "! 89!laxmi dham soc!laxmikant ashram road!katargam!Surat!Surat!Gujarat!395004",
+      "alt": "9377155387",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Vaghasiya Bhaveshbhai Mansukhbhai",
+      "num": "9825406256"
+    },
+    {
+      "aadhar": "728389552561",
+      "address": "! 89!laxmi dham soc!laxmikant ashram road!katargam!Surat!Surat!Gujarat!395004",
+      "alt": "9377155387",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mansukhbhai",
+      "name": "Vaghasiya Bhaveshbhai Mansukhbhai",
+      "num": "9825406256"
+    }
+  ]
+}
