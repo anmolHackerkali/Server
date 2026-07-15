@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:58:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9650616567",
+  "records": [
+    {
+      "aadhar": "975200347851",
+      "address": "!D-160!INDIRA KALYAN VIHAR!OKHLA PHASE-1 Okhla Industrial Estate Okhla Industrial Estate New DelhiSouth Delhi!!Delhi!110020",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mohan  Jha",
+      "name": "Santosh  Jha",
+      "num": "9650616567"
+    },
+    {
+      "aadhar": "975200347851",
+      "address": "!D-160!INDIRA KALYAN VIHAR!OKHLA PHASE-1Okhla Industrial Estate Okhla Industrial EstateNew DelhiSouth Delhi!!Delhi!110020",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mohan  Jha",
+      "name": "Santosh  Jha",
+      "num": "9650616567"
+    },
+    {
+      "aadhar": "975200347851",
+      "address": "!D-160!INDIRA KALYAN VIHAR!OKHLA PHASE-1Okhla Industrial Estate Okhla Industrial EstateNew DelhiSouth Delhi!!Delhi!110020",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Mohan  Jha",
+      "name": "Santosh  Jha",
+      "num": "9650616567"
+    }
+  ]
+}
