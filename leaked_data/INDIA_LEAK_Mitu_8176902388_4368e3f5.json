@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:39:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8176902388",
+  "records": [
+    {
+      "aadhar": "325946961714",
+      "address": "S/O Kuhanu!Sarosa!Sarosa Bharosa!Mohan road!Sadrauna!Lucknow!Lucknow!Uttar Pradesh!226008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kuhanu",
+      "name": "Mitu",
+      "num": "8176902388"
+    },
+    {
+      "aadhar": "325946961714",
+      "address": "S/O Kuhanu!Sarosa!Sarosa Bharosa!Mohan road!Sadrauna!Lucknow!Lucknow!Uttar Pradesh!226008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Kuhanu",
+      "name": "Mitu",
+      "num": "8176902388"
+    }
+  ]
+}
