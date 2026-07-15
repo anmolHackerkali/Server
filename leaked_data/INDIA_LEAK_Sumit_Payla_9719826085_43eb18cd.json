@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:07:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9719826085",
+  "records": [
+    {
+      "aadhar": "305184822841",
+      "address": "S/O Bhikam Singh!Kohla!Kaul!!Meerut Mawana!Meerut!Meerut!Uttar Pradesh!250401",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhikam Singh",
+      "name": "Sumit Payla",
+      "num": "9719826085"
+    },
+    {
+      "aadhar": "305184822841",
+      "address": "S/O Bhikam Singh!Kohla!Kaul!!Meerut Mawana!Meerut!Meerut!Uttar Pradesh!250401",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Bhikam Singh",
+      "name": "Sumit Payla",
+      "num": "9719826085"
+    }
+  ]
+}
