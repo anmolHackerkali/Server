@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:00:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8382966400",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!A98!A Block!ParkSaket!DelhiSouth!Delhi!110017",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "karnoldrum143@gmail com",
+      "fname": "K  Ngashitmi",
+      "name": "K  Arnold",
+      "num": "8382966400"
+    },
+    {
+      "aadhar": null,
+      "address": "!A98!A Block!ParkSaket!DelhiSouth!Delhi!110017",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "karnoldrum143@gmail.com",
+      "fname": "K Ngashitmi",
+      "name": "K Arnold",
+      "num": "8382966400"
+    },
+    {
+      "aadhar": "432721304849",
+      "address": "!8!asham!caint!Kanpur!Uttar Pradesh!208007",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "K Ngashitmi",
+      "name": "K Arnold",
+      "num": "8382966400"
+    },
+    {
+      "aadhar": null,
+      "address": "!A98!A Block!ParkSaket!DelhiSouth!Delhi!110017",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": "karnoldrum143@gmail.com",
+      "fname": "K Ngashitmi",
+      "name": "K Arnold",
+      "num": "8382966400"
+    },
+    {
+      "aadhar": "432721304849",
+      "address": "!8!asham!caint!Kanpur!Uttar Pradesh!208007",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "K Ngashitmi",
+      "name": "K Arnold",
+      "num": "8382966400"
+    }
+  ]
+}
