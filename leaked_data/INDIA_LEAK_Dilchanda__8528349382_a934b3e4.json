@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:22:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8528349382",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Jhinnu!.!. gajandhar patti bedaura!gajandhar patti ajagara Azamgarh!gajandhar patti bedaura!Azamgarh!UTTAR PRADESH!223223",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jhinnu",
+      "name": "Dilchanda ",
+      "num": "8528349382"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jhinnu!.!. gajandhar patti bedaura!gajandhar patti ajagara Azamgarh!gajandhar patti bedaura!Azamgarh!UTTAR PRADESH!223223",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Jhinnu",
+      "name": "Dilchanda ",
+      "num": "8528349382"
+    }
+  ]
+}
