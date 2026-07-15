@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:03:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417221669",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Mohammad Kamil Khan!H.N. 43!WARD N. 6!NEAR COCO COLA AGENCY!GULARGHATTI!Ramnagar Range!Nainital!Uttarakhand!244715 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mohammad Kamil Khan ",
+      "name": " Aman Khan ",
+      "num": "7417221669"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Mohammad Kamil Khan!H.N. 43!WARD N. 6!NEAR COCO COLA AGENCY!GULARGHATTI!Ramnagar Range!Nainital!Uttarakhand!244715 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Mohammad Kamil Khan ",
+      "name": " Aman Khan ",
+      "num": "7417221669"
+    }
+  ]
+}
