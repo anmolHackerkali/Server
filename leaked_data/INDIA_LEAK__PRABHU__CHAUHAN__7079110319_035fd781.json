@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:22:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7079110319",
+  "records": [
+    {
+      "aadhar": "937562943293",
+      "address": "   AGANDA-GAYA 804403 BR   AGANDA-GAYA BR 804403 ",
+      "alt": "6203955613",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUBHASH  CHAUHAN ",
+      "name": " PRABHU  CHAUHAN ",
+      "num": "7079110319"
+    },
+    {
+      "aadhar": "937562943293",
+      "address": "   AGANDA-GAYA 804403 BR   AGANDA-GAYA BR 804403 ",
+      "alt": "6203955613",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUBHASH  CHAUHAN ",
+      "name": " PRABHU  CHAUHAN ",
+      "num": "7079110319"
+    }
+  ]
+}
