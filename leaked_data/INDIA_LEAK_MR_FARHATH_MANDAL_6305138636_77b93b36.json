@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:26:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6305138636",
+  "records": [
+    {
+      "aadhar": "842771085905",
+      "address": "C/O MANJURUL MANDAL!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR DAKSHIN DINAJPUR!DAKSHIN DINAJPUR!KUMARGANJ SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733141",
+      "alt": "6305138636",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "ManjurUL Mandai",
+      "name": "MR FARHATH MANDAL",
+      "num": "7872789474"
+    },
+    {
+      "aadhar": "842771085905",
+      "address": "C/O MANJURUL MANDAL!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR!KUMARGANJ SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733141",
+      "alt": "6305138636",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Manjurul Mandal",
+      "name": "MR FARHATH MANDAL",
+      "num": "7872789437"
+    },
+    {
+      "aadhar": "842771085905",
+      "address": "C/O MANJURUL MANDAL!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR!KUMARGANJ SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733141",
+      "alt": "6305138636",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Manjurul Mandal",
+      "name": "MR FARHATH MANDAL",
+      "num": "7872789437"
+    },
+    {
+      "aadhar": "842771085905",
+      "address": "C/O MANJURUL MANDAL!KALNA  BHOLANATHPUR!KALNA  BHOLANATHPUR DAKSHIN DINAJPUR!DAKSHIN DINAJPUR!KUMARGANJ SOUTH DINAJPUR!NORTH DINAJPUR!SOUTH DINAJPUR!West Bengal!733141",
+      "alt": "6305138636",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "ManjurUL Mandai",
+      "name": "MR FARHATH MANDAL",
+      "num": "7872789474"
+    }
+  ]
+}
