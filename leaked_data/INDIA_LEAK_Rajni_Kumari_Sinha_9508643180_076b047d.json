@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:43:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508643180",
+  "records": [
+    {
+      "aadhar": "986842109581",
+      "address": "W/O  Akhouri Praveen Kumar Sinha!!Churamanpur!!!Churamanpur Barhampur!Buxar!Bihar!802116",
+      "alt": "9006116737",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Akhouri Praveen Kumar",
+      "name": "Rajni Kumari Sinha",
+      "num": "9508643180"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Bigan Karmali!!Village-Chatugada Post-Rohar!Panchayat-Mayapur!Rohar Bokaro!Jharkhand!829121",
+      "alt": "918969243777",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bigan Karmali",
+      "name": "Gori Kumari",
+      "num": "9508643180"
+    },
+    {
+      "aadhar": "986842109581",
+      "address": "W/O  Akhouri Praveen Kumar Sinha!!Churamanpur!!!Churamanpur Barhampur!Buxar!Bihar!802116",
+      "alt": "9006116737",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Akhouri Praveen Kumar",
+      "name": "Rajni Kumari Sinha",
+      "num": "9508643180"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Bigan Karmali!!Village-Chatugada Post-Rohar!Panchayat-Mayapur!Rohar Bokaro!Jharkhand!829121",
+      "alt": "918969243777",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bigan Karmali",
+      "name": "Gori Kumari",
+      "num": "9508643180"
+    },
+    {
+      "aadhar": "986842109581",
+      "address": "W/O  Akhouri Praveen Kumar Sinha!!Churamanpur!!!Churamanpur Barhampur!Buxar!Bihar!802116",
+      "alt": "9006116737",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Akhouri Praveen Kumar",
+      "name": "Rajni Kumari Sinha",
+      "num": "9508643180"
+    }
+  ]
+}
