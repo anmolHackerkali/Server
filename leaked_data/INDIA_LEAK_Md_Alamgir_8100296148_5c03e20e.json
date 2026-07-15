@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:18:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8100296148",
+  "records": [
+    {
+      "aadhar": "905158792764",
+      "address": " ! 23B!tiljala lane tiljala!!23b!tiljala!south 24 parganas!West Bengal!700039 ",
+      "alt": "8583937198",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Md Manan",
+      "name": "Md. Alamgir",
+      "num": "8100296148"
+    },
+    {
+      "aadhar": "905158792764",
+      "address": " ! 23B!tiljala lane tiljala!!23b!tiljala!south 24 parganas!West Bengal!700039 ",
+      "alt": "8583937198",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Md Manan",
+      "name": "Md. Alamgir",
+      "num": "8100296148"
+    },
+    {
+      "aadhar": "520545319177",
+      "address": "!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!TILJALA SOUTH 24 PARGANAS!KOLKA",
+      "alt": "8100296148",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Mustak Ahmed",
+      "name": "MS AZMERI KHATOON",
+      "num": "8100299437"
+    },
+    {
+      "aadhar": "520545319177",
+      "address": "!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!23 B  TILJALA LANE  TILJALA  SOUTH 24 PARGANAS  TILJALA!TILJALA SOUTH 24 PARGANAS!KOLKA",
+      "alt": "8100296148",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Mustak Ahmed",
+      "name": "MS AZMERI KHATOON",
+      "num": "8100299437"
+    }
+  ]
+}
