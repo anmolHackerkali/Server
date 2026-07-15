@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:59:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9876601173",
+  "records": [
+    {
+      "aadhar": "81TEL0839",
+      "address": "HNO 1426A!CHANDIGARH!SECTOR 39 B!CHANDIGARH!CHANDIGARH!160017",
+      "alt": "9915382021",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "PRITAMSINGH",
+      "name": "TILAK RAJ",
+      "num": "9876601173"
+    }
+  ]
+}
