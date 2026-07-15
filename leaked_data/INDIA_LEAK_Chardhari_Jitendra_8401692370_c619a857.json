@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:28:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8401692370",
+  "records": [
+    {
+      "aadhar": "288529589614",
+      "address": "S/O Nandkishor!!Haripadpal Opp Motel the village!NA!Plot vistar!Haripar Pal Rajkot!NA!Gujarat!360005",
+      "alt": "8735041673",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nandkishor",
+      "name": "Chardhari Jitendra",
+      "num": "8401692370"
+    },
+    {
+      "aadhar": "288529589614",
+      "address": "S/O Nandkishor!!Haripadpal Opp Motel the village!NA!Plot vistar!Haripar Pal Rajkot!NA!Gujarat!360005",
+      "alt": "8735041673",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nandkishor",
+      "name": "Chardhari Jitendra",
+      "num": "8401692370"
+    },
+    {
+      "aadhar": "288529589614",
+      "address": "S/O Nandkishor!!Haripadpal Opp Motel the village!NA!Plot vistar!Haripar Pal Rajkot!NA!Gujarat!360005",
+      "alt": "8735041673",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Nandkishor",
+      "name": "Chardhari Jitendra",
+      "num": "8401692370"
+    },
+    {
+      "aadhar": "288529589614",
+      "address": "S/O Nandkishor!Plot vistar!Plot vistar Opp. Motel the village!Opp. Motel the village!Haripadpal  Haripar Pal RAJKOT!HARIPAR PAL!RAJKOT!Gujarat!360005",
+      "alt": "8401692370",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Nandkishor Chardhari",
+      "name": "MR JITENDRA CHARDHARI",
+      "num": "7284891814"
+    },
+    {
+      "aadhar": "288529589614",
+      "address": "S/O Nandkishor!Plot vistar!Plot vistar Opp. Motel the village!Opp. Motel the village!Haripadpal  Haripar Pal RAJKOT!HARIPAR PAL!RAJKOT!Gujarat!360005",
+      "alt": "8401692370",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Nandkishor Chardhari",
+      "name": "MR JITENDRA CHARDHARI",
+      "num": "7284891814"
+    }
+  ]
+}
