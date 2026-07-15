@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:44:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9638576316",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx9196",
+      "address": " !   VELUNAGAR  JAYANT NAGAR NI PACHHAL City/District  Banas Kantha State Gujarat! !AJAPURA!385535",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Chhaganbhai Jesangbhai Prajapati",
+      "name": "Shaileshkumar Chhaganbhai Prajapati",
+      "num": "9638576316"
+    },
+    {
+      "aadhar": "xxxxxxxx9196",
+      "address": " !   VELUNAGAR  JAYANT NAGAR NI PACHHAL City/District  Banas Kantha State Gujarat! !AJAPURA!385535",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Chhaganbhai Jesangbhai Prajapati",
+      "name": "Shaileshkumar Chhaganbhai Prajapati",
+      "num": "9638576316"
+    },
+    {
+      "aadhar": "xxxxxxxx9196",
+      "address": " !   VELUNAGAR  JAYANT NAGAR NI PACHHAL City/District  Banas Kantha State Gujarat! !AJAPURA!385535",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Chhaganbhai Jesangbhai Prajapati",
+      "name": "Shaileshkumar Chhaganbhai Prajapati",
+      "num": "9638576316"
+    }
+  ]
+}
