@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:07:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8601522013",
+  "records": [
+    {
+      "aadhar": "339716561958",
+      "address": "!Ratanapur!Ratanapur!!Rajanapur!SHRAWASTI UP!UTTAR PRADESH!271801",
+      "alt": "9452532039",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Nankau prasad",
+      "name": "MR. PANKAJKUMAR PANKAJKUMAR KUMAR",
+      "num": "8601522013"
+    }
+  ]
+}
