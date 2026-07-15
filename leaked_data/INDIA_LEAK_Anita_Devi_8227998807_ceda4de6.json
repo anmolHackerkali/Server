@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:28:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8227998807",
+  "records": [
+    {
+      "aadhar": "474139950628",
+      "address": "! 6!sendhwan!post jhunathi!jhunathi!Jehanabad!Jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "brijananad chaudhary",
+      "name": "Anita Devi",
+      "num": "9341799137"
+    },
+    {
+      "aadhar": "850398728219",
+      "address": "s/o  vijay kumar!00!vill sendhawa post jhunthi p s paras bigha jehanabad!!vill sendhawa post jhunthi p s paras bigha jehanabad!jehanabad!jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vijay kumar",
+      "name": "Sahil Kumar",
+      "num": "9153806874"
+    },
+    {
+      "aadhar": "474139950628",
+      "address": "! 6!sendhwan!post jhunathi!jhunathi!Jehanabad!Jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "brijananad chaudhary",
+      "name": "Anita Devi",
+      "num": "9341799137"
+    },
+    {
+      "aadhar": "850398728219",
+      "address": "s/o  vijay kumar!00!vill sendhawa post jhunthi p s paras bigha jehanabad!!vill sendhawa post jhunthi p s paras bigha jehanabad!jehanabad!jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vijay kumar",
+      "name": "Sahil Kumar",
+      "num": "9153806874"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Vijay Kumar! ! !Village sendhwa Jehanabad!!JEHANABAD!Jehanabad!BIHAR!804429",
+      "alt": "8227998807",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Vijay Kumar",
+      "name": "Sahil Kumar",
+      "num": "9117593360"
+    },
+    {
+      "aadhar": "474139950628",
+      "address": "! 6!sendhwan!post jhunathi!jhunathi!Jehanabad!Jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "brijananad chaudhary",
+      "name": "Anita Devi",
+      "num": "9341799137"
+    },
+    {
+      "aadhar": "850398728219",
+      "address": "s/o  vijay kumar!00!vill sendhawa post jhunthi p s paras bigha jehanabad!!vill sendhawa post jhunthi p s paras bigha jehanabad!jehanabad!jehanabad!Bihar!804429",
+      "alt": "8227998807",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vijay kumar",
+      "name": "Sahil Kumar",
+      "num": "9153806874"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Vijay Kumar! ! !Village sendhwa Jehanabad!!JEHANABAD!Jehanabad!BIHAR!804429",
+      "alt": "8227998807",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Vijay Kumar",
+      "name": "Sahil Kumar",
+      "num": "9117593360"
+    }
+  ]
+}
