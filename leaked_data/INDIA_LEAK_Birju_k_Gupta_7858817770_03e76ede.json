@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:39:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7858817770",
+  "records": [
+    {
+      "aadhar": "637456337379",
+      "address": "S/O Kartik Gupta! 12 1!Gram Post Eraki!!Thana Deo ERKI!Erki!Aurangabad!Bihar!824202",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Kartik Gupta",
+      "name": "Birju k Gupta",
+      "num": "7858817770"
+    },
+    {
+      "aadhar": "637456337379",
+      "address": "S/O Kartik Gupta! 12 1!Gram Post Eraki!!Thana Deo ERKI!Erki!Aurangabad!Bihar!824202",
+      "alt": "7070648817",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kartik Gupta",
+      "name": "Birju k Gupta",
+      "num": "7858817770"
+    },
+    {
+      "aadhar": "637456337379",
+      "address": "S/O Kartik Gupta! 12 1!Gram Post Eraki!!Thana Deo ERKI!Erki!Aurangabad!Bihar!824202",
+      "alt": "7070648817",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Kartik Gupta",
+      "name": "Birju k Gupta",
+      "num": "7858817770"
+    }
+  ]
+}
