@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:19:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9889351797",
+  "records": [
+    {
+      "aadhar": "731314762230",
+      "address": "D/O Faheem Ahmad!khairabad!Maunath Bhanjan!mandir!Mau!Mau!Mau!Uttar Pradesh!275101",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faheem Ahmad",
+      "name": "Alia Faheem",
+      "num": "9889351797"
+    },
+    {
+      "aadhar": "731314762230",
+      "address": "D/O Faheem Ahmad!khairabad!Maunath Bhanjan!mandir!Mau!Mau!Mau!Uttar Pradesh!275101",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Faheem Ahmad",
+      "name": "Alia Faheem",
+      "num": "9889351797"
+    }
+  ]
+}
