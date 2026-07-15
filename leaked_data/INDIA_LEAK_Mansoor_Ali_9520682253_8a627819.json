@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:38:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9520682253",
+  "records": [
+    {
+      "aadhar": "552134004193",
+      "address": "S/O Buddha Shah!94!INDRA NAGAR SECTOR 9 RAGHURAJ NAGAR PATEL NAGAR!!Lucknow!Lucknow!Lucknow!Uttar Pradesh!226001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Buddha Shah",
+      "name": "Mansoor Ali",
+      "num": "9520682253"
+    },
+    {
+      "aadhar": "552134004193",
+      "address": "S/O Buddha Shah!94!INDRA NAGAR SECTOR 9 RAGHURAJ NAGAR PATEL NAGAR!!Lucknow!Lucknow!Lucknow!Uttar Pradesh!226001",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Buddha Shah",
+      "name": "Mansoor Ali",
+      "num": "9520682253"
+    }
+  ]
+}
