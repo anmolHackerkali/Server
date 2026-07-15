@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:17:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9386029278",
+  "records": [
+    {
+      "aadhar": "936926633696",
+      "address": "S/O Madan Prasad!village nanouk!!Biju Bigha!!Gaya Bijubigha Manpur!Bihar!823003",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Madan  Prasad",
+      "name": "Uttam  Kumar",
+      "num": "9386029278"
+    },
+    {
+      "aadhar": "936926633696",
+      "address": "S/O Madan Prasad!village nanouk!!Biju Bigha!!Gaya Bijubigha Manpur!Bihar!823003",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Madan  Prasad",
+      "name": "Uttam  Kumar",
+      "num": "9386029278"
+    },
+    {
+      "aadhar": "XXXXXXXX3996",
+      "address": " ... ... ... ... nanouk  Gaya District BIHAR 823003 ",
+      "alt": "9386029278",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MADAN PRASAD ",
+      "name": " UTTAM  KUMAR ",
+      "num": "8987113501"
+    },
+    {
+      "aadhar": "XXXXXXXX3996",
+      "address": " ... ... ... ... nanouk  Gaya District BIHAR 823003 ",
+      "alt": "9386029278",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MADAN PRASAD ",
+      "name": " UTTAM  KUMAR ",
+      "num": "8987113501"
+    }
+  ]
+}
