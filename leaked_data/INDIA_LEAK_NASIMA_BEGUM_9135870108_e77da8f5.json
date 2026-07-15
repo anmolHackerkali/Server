@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:05:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9135870108",
+  "records": [
+    {
+      "aadhar": "793844406867",
+      "address": "W/O  Md Phateh Alam!-HAJIPUR!ASHIYANAY COLONY - ASHIYANAY COLONY SACHIPATTI VAGMALI Hajipur VAISHALI!!!HAJIPUR!VAISHALI!Bihar!844101",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "MOHAMMAD RASID",
+      "name": "NASIMA BEGUM",
+      "num": "9135870108"
+    },
+    {
+      "aadhar": "793844406867",
+      "address": "W/O  Md Phateh Alam!-HAJIPUR!ASHIYANAY COLONY - ASHIYANAY COLONY SACHIPATTI VAGMALI Hajipur VAISHALI!!!HAJIPUR!VAISHALI!Bihar!844101",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "MOHAMMAD RASID",
+      "name": "NASIMA BEGUM",
+      "num": "9135870108"
+    },
+    {
+      "aadhar": "228120752772",
+      "address": "s/o  yougendra sah! ward-07!Malipur!malipur!ward-07 malipur malipur malipur!malipur Garhpura!begusarai!Bihar!848204",
+      "alt": "9135870108",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "yougendra sah",
+      "name": "Ram Pravesh Sah",
+      "num": "6201968541"
+    },
+    {
+      "aadhar": "228120752772",
+      "address": "s/o  yougendra sah! ward-07!Malipur!malipur!ward-07 malipur malipur malipur!malipur Garhpura!begusarai!Bihar!848204",
+      "alt": "9135870108",
+      "circle": "JIO BHR&JHR",
+      "email": "Sahnwajking25@gmil.com",
+      "fname": "yougendra sah",
+      "name": "Ram Pravesh Sah",
+      "num": "6201968541"
+    },
+    {
+      "aadhar": "228120752772",
+      "address": "s/o  yougendra sah! ward-07!Malipur!malipur!ward-07 malipur malipur malipur!malipur Garhpura!begusarai!Bihar!848204",
+      "alt": "9135870108",
+      "circle": "JIO BHR&JHR",
+      "email": "Sahnwajking25@gmil.com",
+      "fname": "yougendra sah",
+      "name": "Ram Pravesh Sah",
+      "num": "6201968541"
+    }
+  ]
+}
