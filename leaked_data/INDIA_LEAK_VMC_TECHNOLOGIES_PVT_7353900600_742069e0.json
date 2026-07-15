@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:59:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7353900600",
+  "records": [
+    {
+      "aadhar": "KA5039520607",
+      "address": "NO48-50  REGENT PRIME UNIT-107!1ST FLOOR  WHITEFIELD MAIN ROAD  CSI MEM!CHURCH  WHITEFIELD BANGALORE!BANGALORE!KARNATAKA!560066",
+      "alt": "9822012345",
+      "circle": "VI KARNATKA",
+      "email": "PAVAN.BYMANA@MCUBE.COM",
+      "fname": null,
+      "name": "VMC TECHNOLOGIES PVT LTD",
+      "num": "7353900600"
+    }
+  ]
+}
