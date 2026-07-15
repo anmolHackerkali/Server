@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:37:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9056159157",
+  "records": [
+    {
+      "aadhar": "642802975510",
+      "address": "S/O SAROOP CHAND!WARD NO 3!AHLUPUR!MANDIR!AHLUPUR!MANSA!MANSA!PUNJAB!151507",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SAROOP CHAND",
+      "name": "GURMIT SINGH",
+      "num": "9056159157"
+    },
+    {
+      "aadhar": "642802975510",
+      "address": "SO Saroop Chand!!ahlupur ahlupur mansa!!ward no 3MANSA!MANSA!MANSA!PUNJAB!151507",
+      "alt": "9056159157",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "Saroop Chand",
+      "name": "GURMIT SINGH",
+      "num": "6239025410"
+    }
+  ]
+}
