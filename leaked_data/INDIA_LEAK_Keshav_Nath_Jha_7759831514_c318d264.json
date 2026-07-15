@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:38:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7759831514",
+  "records": [
+    {
+      "aadhar": "Gyq0770834",
+      "address": "95!Ramai Ghoraghat!Forbesganj!Araria!Bihar!854318",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Gayanath Jha",
+      "name": "Keshav Nath Jha",
+      "num": "7759831514"
+    },
+    {
+      "aadhar": "Gyq0770834",
+      "address": "95!Ramai Ghoraghat!Forbesganj!Araria!Bihar!854318",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Gayanath Jha",
+      "name": "Keshav Nath Jha",
+      "num": "7759831514"
+    }
+  ]
+}
