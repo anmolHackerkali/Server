@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:20:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9889727509",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Suresh!.!.!argupurkalan Jaunpur!!Jaunpur!UTTAR PRADESH!222101",
+      "alt": "7303438796",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Suresh",
+      "name": "Sachin Vishwakarma",
+      "num": "9889727509"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Suresh!.!.!argupurkalan Jaunpur!!Jaunpur!UTTAR PRADESH!222101",
+      "alt": "7303438796",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Suresh",
+      "name": "Sachin Vishwakarma",
+      "num": "9889727509"
+    }
+  ]
+}
