@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:54:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9149293166",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Shahid!!129/7 4!purana rasoolpur!Firozabad Firozabad!Uttar Pradesh!283203",
+      "alt": "919536853537",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shahid",
+      "name": "Shareef",
+      "num": "9149293166"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shahid!!129/7 4!purana rasoolpur!Firozabad Firozabad!Uttar Pradesh!283203",
+      "alt": "919536853537",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shahid",
+      "name": "Shareef",
+      "num": "9149293166"
+    }
+  ]
+}
