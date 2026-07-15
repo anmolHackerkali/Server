@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:12:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9696433803",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Rajendra Prasad!!!Baspar Kothi!Barahara Baraipar Maharajganj!Uttar Pradesh!273306",
+      "alt": "919336261095",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Govind Bharti",
+      "num": "9696433803"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Rajendra Prasad!!!Baspar Kothi!Barahara Baraipar Maharajganj!Uttar Pradesh!273306",
+      "alt": "919336261095",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajendra Prasad",
+      "name": "Govind Bharti",
+      "num": "9696433803"
+    }
+  ]
+}
