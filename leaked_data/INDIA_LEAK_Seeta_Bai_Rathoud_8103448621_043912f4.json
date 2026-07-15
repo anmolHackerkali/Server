@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:56:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8103448621",
+  "records": [
+    {
+      "aadhar": "351338886094",
+      "address": "W/O Bherulal Rrathoud!!Makan N0-169 Ward N0-07 Tah-jaora Luhari!NA!Nichala!Luhari Ratlam!NA!Madhya Pradesh!457226",
+      "alt": "8965060091",
+      "circle": "JIO MP",
+      "email": "annuragrathod@gmail.com",
+      "fname": "Bherulal Rrathoud",
+      "name": "Seeta Bai Rathoud",
+      "num": "8103448621"
+    }
+  ]
+}
