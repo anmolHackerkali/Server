@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 23:58:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708205153",
+  "records": [
+    {
+      "aadhar": "769329689071",
+      "address": "S/O  Hosyar Singh!12!Nahri!!!Katlupur  233Kharkhoda!Sonipat!Haryana!131103",
+      "alt": "9350797994",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hosyar Singh",
+      "name": "Shivraj",
+      "num": "8708205153"
+    }
+  ]
+}
