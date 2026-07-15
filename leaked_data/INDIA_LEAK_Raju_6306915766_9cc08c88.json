@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:41:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6306915766",
+  "records": [
+    {
+      "aadhar": "515132464030",
+      "address": "S/O  Meghnath!!Jankhat!!chighkhApur!Jankhat Tirwa!Kannauj!Uttar Pradesh!209736",
+      "alt": "9695298049",
+      "circle": "JIO UPE",
+      "email": "VINAYIDEAJANKHAT@GMAIL.COM",
+      "fname": "Meghnath",
+      "name": "Raju",
+      "num": "6306915766"
+    },
+    {
+      "aadhar": "515132464030",
+      "address": "S/O  Meghnath!!Jankhat!!chighkhApur!Jankhat Tirwa!Kannauj!Uttar Pradesh!209736",
+      "alt": "9695298049",
+      "circle": "JIO UPE",
+      "email": "VINAYIDEAJANKHAT@GMAIL.COM",
+      "fname": "Meghnath",
+      "name": "Raju",
+      "num": "6306915766"
+    }
+  ]
+}
