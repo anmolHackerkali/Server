@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:10:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6205793418",
+  "records": [
+    {
+      "aadhar": "879952219610",
+      "address": "!!sikandarpur sikandarpur SHYAMBAJAR shyambazar SIKANDARPUR!NA!bounsi!Bhagalpur Banka!NA!Bihar!813104",
+      "alt": "9353096773",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jaykant ray",
+      "name": "ranjit ray",
+      "num": "6205793418"
+    },
+    {
+      "aadhar": "879952219610",
+      "address": "!!sikandarpur sikandarpur SHYAMBAJAR shyambazar SIKANDARPUR!NA!bounsi!Bhagalpur Banka!NA!Bihar!813104",
+      "alt": "9353096773",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "jaykant ray",
+      "name": "ranjit ray",
+      "num": "6205793418"
+    },
+    {
+      "aadhar": "XXXXXXXX7236",
+      "address": " bounsi at-sirayn bounsi at-sirayn Babhangawan  Banka BIHAR 813104 ",
+      "alt": "6205793418",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O ANTI YADAV ",
+      "name": " SHRIKANT YADAV  ... ",
+      "num": "9801063715"
+    },
+    {
+      "aadhar": "XXXXXXXX7236",
+      "address": " bounsi at-sirayn bounsi at-sirayn Babhangawan  Banka BIHAR 813104 ",
+      "alt": "6205793418",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O ANTI YADAV ",
+      "name": " SHRIKANT YADAV  ... ",
+      "num": "9801063715"
+    }
+  ]
+}
