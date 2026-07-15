@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:20:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6296259248",
+  "records": [
+    {
+      "aadhar": "893580678264",
+      "address": "!! Debipur!!Bara Dhamas Kalna - II Barddhaman!West Bengal!713146",
+      "alt": "917478386348",
+      "circle": "JIO WB",
+      "email": "pikukoyel@gmail.com",
+      "fname": "pranab chskrabarty",
+      "name": "PALLAB CHAKRABORTY",
+      "num": "6296259248"
+    },
+    {
+      "aadhar": "893580678264",
+      "address": "!! Debipur!!Bara Dhamas Kalna - II Barddhaman!West Bengal!713146",
+      "alt": "917478386348",
+      "circle": "JIO WB",
+      "email": "pikukoyel@gmail.com",
+      "fname": "pranab chskrabarty",
+      "name": "PALLAB CHAKRABORTY",
+      "num": "6296259248"
+    },
+    {
+      "aadhar": "893580678264",
+      "address": " S/O Pranab Chakraborty!!Debipur!!bara dhamas!debipur Kalna II!barddhaman!West Bengal!713146 ",
+      "alt": "6296259248",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Pranab Chakraborty",
+      "name": "Pallab Chakraborty",
+      "num": "9907156554"
+    },
+    {
+      "aadhar": "893580678264",
+      "address": " S/O Pranab Chakraborty!!Debipur!!bara dhamas!debipur Kalna II!barddhaman!West Bengal!713146 ",
+      "alt": "6296259248",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Pranab Chakraborty",
+      "name": "Pallab Chakraborty",
+      "num": "9907156554"
+    }
+  ]
+}
