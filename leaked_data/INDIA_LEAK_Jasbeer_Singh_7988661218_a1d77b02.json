@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:50:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7988661218",
+  "records": [
+    {
+      "aadhar": "928726826125",
+      "address": "S/O: Shamsher Singh!!27/1  devi dass pura!!PIPLI (PART)(360) KURUKSHETRA!Haryana!136131",
+      "alt": "+918295656500",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Shamsher Singh",
+      "name": "Jasbeer Singh",
+      "num": "7988661218"
+    }
+  ]
+}
