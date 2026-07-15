@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:14:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9717797682",
+  "records": [
+    {
+      "aadhar": "AAHPG6426H",
+      "address": "Kh  no -443! pole no 39!village nasirpur Nasirpur!Nasirpur!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "EXPERT ENGINEERS",
+      "num": "9717797682"
+    },
+    {
+      "aadhar": "INDL29973253964458T",
+      "address": "!Kh  no -443!!pole no 39!village nasirpur!Nasirpur!Nasirpur!Delhi!110045",
+      "alt": "-",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "EXPERT ENGINEERS",
+      "num": "9717797682"
+    },
+    {
+      "aadhar": "AAHPG6426H",
+      "address": "Kh  no  443! pole no 39!village nasirpur Nasirpur!Nasirpur!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "EXPERT ENGINEERS",
+      "num": "9717797682"
+    },
+    {
+      "aadhar": "AAHPG6426H",
+      "address": "Kh  no  443! pole no 39!village nasirpur Nasirpur!Nasirpur!Delhi!110045",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "EXPERT ENGINEERS",
+      "num": "9717797682"
+    }
+  ]
+}
