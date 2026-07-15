@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:56:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7069004827",
+  "records": [
+    {
+      "aadhar": "PIIFTWD100980264586",
+      "address": "24  RANCHHOD PARK SARASWATI!SOCIETY  BAROT NO KUWO!GEBANSHA PIR  VATVA ROAD!AHMEDABAD!GUJARAT!382440",
+      "alt": "7096160270",
+      "circle": "VI GUJARAT",
+      "email": "DMENTERPRISE1112@GMAIL.COM",
+      "fname": "CO KETAN DAVE",
+      "name": "CO D M ENTERPRISE CO KETAN DAVE",
+      "num": "7069004827"
+    },
+    {
+      "aadhar": "PIIFTWD100980264586",
+      "address": "24  RANCHHOD PARK SARASWATI!SOCIETY  BAROT NO KUWO!GEBANSHA PIR  VATVA ROAD!AHMEDABAD!GUJARAT!382440",
+      "alt": "7096160270",
+      "circle": "VI GUJARAT",
+      "email": "DMENTERPRISE1112@GMAIL.COM",
+      "fname": "CO KETAN DAVE",
+      "name": "CO D M ENTERPRISE CO KETAN DAVE",
+      "num": "7069004827"
+    }
+  ]
+}
