@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:23:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9262362457",
+  "records": [
+    {
+      "aadhar": "975712411410",
+      "address": "!13!village Nanouk!!Biju Bigha gaya!Gaya!Gaya!Bihar!823003",
+      "alt": "9955191355",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sudarshan Prasad",
+      "name": "Bal Mukund Prasad",
+      "num": "9262362457"
+    },
+    {
+      "aadhar": "975712411410",
+      "address": " village nanouk biju bigha!gaya!Nanouk!Bijubigha!Gaya!Gaya!Bihar!823003 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Sudarshan Prasad ",
+      "name": " Bal Mukund Prasad ",
+      "num": "9262362457"
+    },
+    {
+      "aadhar": "975712411410",
+      "address": " village nanouk biju bigha!gaya!Nanouk!Bijubigha!Gaya!Gaya!Bihar!823003 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Sudarshan Prasad ",
+      "name": " Bal Mukund Prasad ",
+      "num": "9262362457"
+    },
+    {
+      "aadhar": "698833792338",
+      "address": "s/o  harendra das!!Naudhariya!!gramm- naudhariya post-biju bigha!naudhariya!gaya!Bihar!823003",
+      "alt": "9262362457",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "harendra das",
+      "name": "Rambabu Kumar",
+      "num": "8521359103"
+    },
+    {
+      "aadhar": "698833792338",
+      "address": "s/o  harendra das!!Naudhariya!!gramm- naudhariya post-biju bigha!naudhariya!gaya!Bihar!823003",
+      "alt": "9262362457",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "harendra das",
+      "name": "Rambabu Kumar",
+      "num": "8521359103"
+    },
+    {
+      "aadhar": "698833792338",
+      "address": "s/o  harendra das!!Naudhariya!!gramm- naudhariya post-biju bigha!naudhariya!gaya!Bihar!823003",
+      "alt": "9262362457",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "harendra das",
+      "name": "Rambabu Kumar",
+      "num": "8521359103"
+    }
+  ]
+}
