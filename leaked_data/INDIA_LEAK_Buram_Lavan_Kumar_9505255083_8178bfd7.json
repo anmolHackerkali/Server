@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:38:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9505255083",
+  "records": [
+    {
+      "aadhar": "462111316199",
+      "address": "3-69 venkateshwara nagar!Godukondla!!Nalgonda!Nalgonda!Nalgonda!Telangana!508245",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Buram Madhavulu",
+      "name": "Buram Lavan Kumar",
+      "num": "9505255083"
+    },
+    {
+      "aadhar": "469886578985",
+      "address": "W/O!godkondla village chinthapally mandal Nalgonda dist!venkateswaarar nagar godukondla!godukondla!godkondla  NALGONDA!NALGONDA!NALGONDA!Andhra Pradesh!508250",
+      "alt": "9505255083",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "B ramulaiah",
+      "name": "MS B ANANTHAMMA",
+      "num": "9848064953"
+    }
+  ]
+}
