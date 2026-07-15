@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:10:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8090332537",
+  "records": [
+    {
+      "aadhar": "528503502087",
+      "address": "!jawahar lal!nai hanuman garhi!!chillupar  gorakhpur!Gorakhpur!!Uttar Pradesh!273402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "jawahar lal",
+      "name": "Reena Devi",
+      "num": "8090332537"
+    },
+    {
+      "aadhar": "528503502087",
+      "address": "!jawahar lal!nai hanuman garhi!!chillupar  gorakhpur!Gorakhpur!!Uttar Pradesh!273402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "jawahar lal",
+      "name": "Reena Devi",
+      "num": "8090332537"
+    }
+  ]
+}
