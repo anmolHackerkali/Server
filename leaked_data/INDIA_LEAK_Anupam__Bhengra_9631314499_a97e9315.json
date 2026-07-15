@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:17:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9631314499",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx4416",
+      "address": "S/O Premody Bhengra!Patpur  VILL HABO!!!!Khunti!Jharkhand!835227",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Premody  Bhengra",
+      "name": "Anupam  Bhengra",
+      "num": "9631314499"
+    },
+    {
+      "aadhar": "xxxxxxxx4416",
+      "address": "S/O Premody Bhengra!Patpur  VILL HABO!!!!Khunti!Jharkhand!835227",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Premody  Bhengra",
+      "name": "Anupam  Bhengra",
+      "num": "9631314499"
+    }
+  ]
+}
