@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:56:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7986430189",
+  "records": [
+    {
+      "aadhar": "579778520919",
+      "address": "S/O: Vijay Kumar!!waard no-6 block no-5 house no-519!zaildar mohalla!DorahaLudhiana!Punjab!141421",
+      "alt": "+918568806296",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Vijay Kumar",
+      "name": "Rajinder Kumar",
+      "num": "7986430189"
+    }
+  ]
+}
