@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:57:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6202490853",
+  "records": [
+    {
+      "aadhar": "216725892434",
+      "address": "!na!gram ismailpur post maldah badi ismailpur!barbigha!maldah maldah!Sheikhpura!Sheikhpura!Bihar!811101",
+      "alt": "7667145631",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Naresh prasad",
+      "name": "Dinesh Kumar",
+      "num": "6202490853"
+    },
+    {
+      "aadhar": "216725892434",
+      "address": "!na!gram ismailpur post maldah badi ismailpur!barbigha!maldah maldah!Sheikhpura!Sheikhpura!Bihar!811101",
+      "alt": "7667145631",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Naresh prasad",
+      "name": "Dinesh Kumar",
+      "num": "6202490853"
+    }
+  ]
+}
