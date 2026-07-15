@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:44:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9640041544",
+  "records": [
+    {
+      "aadhar": "287855519206",
+      "address": "S/O  Tejavath Somla!!4-138 mangalthanda - Eswaramadharam!NA!eswaramadaram!Eswaramadaram Kusumanchi Khammam!NA!Andhra Pradesh!507157",
+      "alt": "6305728398",
+      "circle": "JIO AP",
+      "email": null,
+      "fname": "Tejavath Somla",
+      "name": "Tejavath Ramsingh",
+      "num": "9640041544"
+    }
+  ]
+}
