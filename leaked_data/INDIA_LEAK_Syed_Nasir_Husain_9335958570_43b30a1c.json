@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:41:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9335958570",
+  "records": [
+    {
+      "aadhar": "297423512348",
+      "address": "S/O Syed Majid Husain! 235n/2a!narayanpuram karelabagh!!sadar!Allahabad!Allahabad!Uttar Pradesh!211016",
+      "alt": "9450609262",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syed Majid Husain",
+      "name": "Syed Nasir Husain",
+      "num": "9335958570"
+    },
+    {
+      "aadhar": "297423512348",
+      "address": "S/O Syed Majid Husain! 235n/2a!narayanpuram karelabagh!!sadar!Allahabad!Allahabad!Uttar Pradesh!211016",
+      "alt": "9450609262",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syed Majid Husain",
+      "name": "Syed Nasir Husain",
+      "num": "9335958570"
+    }
+  ]
+}
