@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 00:35:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9988254385",
+  "records": [
+    {
+      "aadhar": "346924320805",
+      "address": "Ram Darsh!2271 1/7!01 Focal Point!Shahid Bhagat Singh Colony!Focal Point-Ludhiana-Ludhiana!Punjab!141010",
+      "alt": null,
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Ram Darsh",
+      "name": "Ravi Shankar",
+      "num": "9988254385"
+    }
+  ]
+}
