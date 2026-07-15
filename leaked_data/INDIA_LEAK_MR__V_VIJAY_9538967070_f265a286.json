@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:02:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9538967070",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx1122",
+      "address": "S Venkatesh!S/O S VENKATESH   NO 36/48 SAPTAGIRI NILAYA   1ST MAIN 8TH CROSS!RAGHAVENDRA NAGAR   ANDRAHALLI !ANDRAHALLI MAIN ROAD!BANGALORE!KARNATAKA!560091",
+      "alt": "8892295710",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "S Venkatesh",
+      "name": "MR  V VIJAY",
+      "num": "9538967070"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O S Venkatesh!!no 36/48 sapthagiri nilaya 1st main 8th cross!raghavendra nagar andrahalli!Bangalore North Bengaluru!Karnataka!560091",
+      "alt": "919113557456",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "S Venkatesh",
+      "name": "V Vijay",
+      "num": "9538967070"
+    }
+  ]
+}
