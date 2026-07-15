@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:38:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9628465167",
+  "records": [
+    {
+      "aadhar": "875437049305",
+      "address": " ! !     City/District: Kushinagar State Uttar Pradesh! !KUSHINAGAR!UTTAR PRADESH!274406",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Ram Nath Prasad",
+      "name": "Sunil ",
+      "num": "9628465167"
+    },
+    {
+      "aadhar": "875437049305",
+      "address": " ! !     City/District: Kushinagar State Uttar Pradesh! !KUSHINAGAR!UTTAR PRADESH!274406",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Ram Nath Prasad",
+      "name": "Sunil ",
+      "num": "9628465167"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!JAMOHARA PIDARI KALA PIRAR KALAN SANT!JAMOHARA PIDARI KALA PIRAR KALAN SANT!!JAMOHARASANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR. RADHESHYAM RADHESHYAM",
+      "num": "9554212028"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!PIDARI KALA!PIRAR KALANF!F!F JamoharaSANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR. RADHESHYAM .",
+      "num": "6391715214"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!JAMOHARA  PIDARI KALA  PIRAR KALAN  SANT!JAMOHARA  PIDARI KALA  PIRAR KALAN  SANT!!JAMOHARA SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR RADHESHYAM RADHESHYAM",
+      "num": "9554212028"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!PIDARI KALA!PIRAR KALAN F!F!F Jamohara SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR RADHESHYAM ",
+      "num": "6391715214"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!JAMOHARA  PIDARI KALA  PIRAR KALAN  SANT!JAMOHARA  PIDARI KALA  PIRAR KALAN  SANT!!JAMOHARA SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR RADHESHYAM RADHESHYAM",
+      "num": "9554212028"
+    },
+    {
+      "aadhar": "857192195544",
+      "address": "S/O RAMSUBHAG F!PIDARI KALA!PIRAR KALAN F!F!F Jamohara SANT KABIR NAGAR!SANT KABIR NAGAR!UTTAR PRADESH!272271",
+      "alt": "9628465167",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "MR RADHESHYAM ",
+      "num": "6391715214"
+    }
+  ]
+}
