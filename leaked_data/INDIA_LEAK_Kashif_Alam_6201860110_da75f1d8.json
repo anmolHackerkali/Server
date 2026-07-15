@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:18:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6201860110",
+  "records": [
+    {
+      "aadhar": "345333967801",
+      "address": "VILL- FAKIRDIH!Gobindpur!School!Dhanbad!Dhanbad!Dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Aslam Parwez",
+      "name": "Kashif Alam",
+      "num": "6201860110"
+    },
+    {
+      "aadhar": "345333967801",
+      "address": "VILL- FAKIRDIH!Gobindpur!School!Dhanbad!Dhanbad!Dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Aslam Parwez",
+      "name": "Kashif Alam",
+      "num": "6201860110"
+    }
+  ]
+}
