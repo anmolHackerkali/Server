@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:04:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9910336852",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "Plot No-A-26 Sec-62 . Noida UP 201307! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Nihit  Sharda IBM India Private Limited",
+      "num": "9910336852"
+    },
+    {
+      "aadhar": null,
+      "address": "!Plot NoA26 Sec62 . Noida UP 201307!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Nihit  ShardaIBM India Private Limited",
+      "num": "9910336852"
+    },
+    {
+      "aadhar": null,
+      "address": "Plot NoA26 Sec62  Noida UP 201307! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Nihit  ShardaIBM India Private Limited",
+      "num": "9910336852"
+    },
+    {
+      "aadhar": null,
+      "address": "Plot NoA26 Sec62  Noida UP 201307! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": null,
+      "name": "Nihit  ShardaIBM India Private Limited",
+      "num": "9910336852"
+    },
+    {
+      "aadhar": "769059615996",
+      "address": "JM OR CHILD B-1406!SEC-76 -!OPP SEC-50 NOIDA!!UTTAR PRADESH!201301",
+      "alt": "9910336852",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "NISHITH KUMAR SHARDA",
+      "name": "Nihit  Sharda",
+      "num": "9555378437"
+    },
+    {
+      "aadhar": "769059615996",
+      "address": "!JM OR CHILD B1406!SEC76!!OPP SEC50!NOIDA!!UTTAR PRADESH!201301",
+      "alt": "9910336852",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NISHITH KUMAR SHARDA",
+      "name": "Nihit  Sharda",
+      "num": "9555378437"
+    },
+    {
+      "aadhar": "769059615996",
+      "address": "JM OR CHILD B 1406!SEC 76  !OPP SEC 50 NOIDA!!UTTAR PRADESH!201301",
+      "alt": "9910336852",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NISHITH KUMAR SHARDA",
+      "name": "Nihit  Sharda",
+      "num": "9555378437"
+    },
+    {
+      "aadhar": "769059615996",
+      "address": "JM OR CHILD B 1406!SEC 76  !OPP SEC 50 NOIDA!!UTTAR PRADESH!201301",
+      "alt": "9910336852",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "NISHITH KUMAR SHARDA",
+      "name": "Nihit  Sharda",
+      "num": "9555378437"
+    }
+  ]
+}
