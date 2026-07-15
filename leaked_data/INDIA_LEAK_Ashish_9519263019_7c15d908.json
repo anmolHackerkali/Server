@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:33:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9519263019",
+  "records": [
+    {
+      "aadhar": "238712937942",
+      "address": "!house no 159/5!ravidass nagar!!thanesar!Kurukshetra!Kurukshetra!Haryana!136118",
+      "alt": "9772363019",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "shri niwas",
+      "name": "Ashish",
+      "num": "9519263019"
+    },
+    {
+      "aadhar": "278941535003",
+      "address": "!176!SANAULI KALAN!!!SANAULI KHURD!PanipatPanipat!Haryana!132101",
+      "alt": "9519263019",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Laljeet",
+      "name": "Dhanratan",
+      "num": "9817834521"
+    }
+  ]
+}
