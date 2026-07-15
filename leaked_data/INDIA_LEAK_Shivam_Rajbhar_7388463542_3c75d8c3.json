@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:55:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388463542",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Vinod Kumar Rajbhar!02!gram sultanpur!post madiyapar Azamgarh!!Azamgarh!UTTAR PRADESH!223223",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Vinod Kumar Rajbhar",
+      "name": "Shivam Rajbhar",
+      "num": "7388463542"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Vinod Kumar Rajbhar!02!gram sultanpur!post madiyapar Azamgarh!!Azamgarh!UTTAR PRADESH!223223",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Vinod Kumar Rajbhar",
+      "name": "Shivam Rajbhar",
+      "num": "7388463542"
+    }
+  ]
+}
