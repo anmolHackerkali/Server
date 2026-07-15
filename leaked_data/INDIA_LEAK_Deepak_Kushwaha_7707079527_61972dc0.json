@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:29:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7707079527",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Javahir!!!!Kathinahia Kushinagar!Uttar Pradesh!274305",
+      "alt": "916375378764",
+      "circle": "JIO UPE",
+      "email": "shivamkushwaha364656@gmail.com",
+      "fname": "Javahir",
+      "name": "Deepak Kushwaha",
+      "num": "7707079527"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Javahir!!!!Kathinahia Kushinagar!Uttar Pradesh!274305",
+      "alt": "916375378764",
+      "circle": "JIO UPE",
+      "email": "shivamkushwaha364656@gmail.com",
+      "fname": "Javahir",
+      "name": "Deepak Kushwaha",
+      "num": "7707079527"
+    },
+    {
+      "aadhar": "770160564157",
+      "address": "s/o  rajdev kushwaha!!Madhubani!!devipur koiri tola taulaha!west champaran Madhubani!madhubani!Bihar!845404",
+      "alt": "7707079527",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "rajdev kushwaha",
+      "name": "Santosh Kushwaha",
+      "num": "9771235257"
+    },
+    {
+      "aadhar": "770160564157",
+      "address": "s/o  rajdev kushwaha!!Madhubani!!devipur koiri tola taulaha!west champaran Madhubani!madhubani!Bihar!845404",
+      "alt": "7707079527",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajdev kushwaha",
+      "name": "Santosh Kushwaha",
+      "num": "9771235257"
+    },
+    {
+      "aadhar": "770160564157",
+      "address": "s/o  rajdev kushwaha!!Madhubani!!devipur koiri tola taulaha!west champaran Madhubani!madhubani!Bihar!845404",
+      "alt": "7707079527",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "rajdev kushwaha",
+      "name": "Santosh Kushwaha",
+      "num": "9771235257"
+    }
+  ]
+}
