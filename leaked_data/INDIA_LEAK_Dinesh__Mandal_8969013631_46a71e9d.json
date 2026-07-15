@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:54:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8969013631",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "74!Sataghara   Jagdihspur!Bhagalpur!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramlal Mandal",
+      "name": "Dinesh  Mandal",
+      "num": "8969013631"
+    },
+    {
+      "aadhar": null,
+      "address": "74!Sataghara   Jagdihspur!Bhagalpur!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramlal Mandal",
+      "name": "Dinesh  Mandal",
+      "num": "8969013631"
+    }
+  ]
+}
