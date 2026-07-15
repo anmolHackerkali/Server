@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:29:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7838770304",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "D/O  S N Sharma!!261!VILLAGE MUKHMEL PUR!Mukhmel Pur North West Delhi!Delhi!110036",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "S N Sharma",
+      "name": "Indu Sharma",
+      "num": "7838770304"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  S N Sharma!!261!VILLAGE MUKHMEL PUR!Mukhmel PurNorth West Delhi!Delhi!110036",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "S N Sharma",
+      "name": "Indu Sharma",
+      "num": "7838770304"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  S N Sharma!!261!VILLAGE MUKHMEL PUR!Mukhmel PurNorth West Delhi!Delhi!110036",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "S N Sharma",
+      "name": "Indu Sharma",
+      "num": "7838770304"
+    }
+  ]
+}
