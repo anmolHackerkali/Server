@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:30:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8564971265",
+  "records": [
+    {
+      "aadhar": "354493118949",
+      "address": " !S/O: Omkar  barua tola!Auras  Hasanganj!. !AORAS-UNNAO!UP!241503",
+      "alt": "7355548438",
+      "circle": "UE",
+      "email": null,
+      "fname": "OMKAR  ",
+      "name": "ASHISH  KUMAR",
+      "num": "8564971265"
+    },
+    {
+      "aadhar": "354493118949",
+      "address": " !S/O: Omkar  barua tola!Auras  Hasanganj!. !AORAS-UNNAO!UP!241503",
+      "alt": "7355548438",
+      "circle": "UE",
+      "email": null,
+      "fname": "OMKAR  ",
+      "name": "ASHISH  KUMAR",
+      "num": "8564971265"
+    }
+  ]
+}
