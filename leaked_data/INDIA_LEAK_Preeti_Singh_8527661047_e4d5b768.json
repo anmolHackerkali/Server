@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:10:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8527661047",
+  "records": [
+    {
+      "aadhar": "283854102054",
+      "address": "6 Near N T P C Campus Sec 24 Noida  G B Nagar G B Nagar Uttar Pradesh 201301! ! !!!",
+      "alt": "9643043369",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Harish Kundar Singh",
+      "name": "Preeti Singh",
+      "num": "8527661047"
+    },
+    {
+      "aadhar": "283854102054",
+      "address": "!6 Near N T P C Campus Sec 24 Noida  G B Nagar G B Nagar Uttar Pradesh 201301!!!!!!!",
+      "alt": "9643043369",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Harish Kundar Singh",
+      "name": "Preeti Singh",
+      "num": "8527661047"
+    },
+    {
+      "aadhar": "283854102054",
+      "address": "6 Near N T P C Campus Sec 24 Noida  G B Nagar G B Nagar Uttar Pradesh 201301! ! !!!",
+      "alt": "9643043369",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Harish Kundar Singh",
+      "name": "Preeti Singh",
+      "num": "8527661047"
+    },
+    {
+      "aadhar": "283854102054",
+      "address": "6 Near N T P C Campus Sec 24 Noida  G B Nagar G B Nagar Uttar Pradesh 201301! ! !!!",
+      "alt": "9643043369",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Harish Kundar Singh",
+      "name": "Preeti Singh",
+      "num": "8527661047"
+    }
+  ]
+}
