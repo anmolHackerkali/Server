@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:09:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9399920230",
+  "records": [
+    {
+      "aadhar": "426233751231",
+      "address": "!61!kaithani singrauli post!kaithani singrauli!singrauli!Chitrangi!Singrauli!Madhya Pradesh!486882",
+      "alt": "9981151594",
+      "circle": "JIO MP",
+      "email": "imrazzchauhan05@gmail.com",
+      "fname": "vishvamochan singh Chauhan",
+      "name": "Raj Singh Chauhan",
+      "num": "9399920230"
+    },
+    {
+      "aadhar": "778808507563",
+      "address": "Galhori Basor!45!devri chitrangi chitrangi!chitrangi!DEVRI 2ND CHITRANGI CHITRANGI SIDHI!SIDHI!SIDHI!Madhya Pradesh!486882",
+      "alt": "9399920230",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Galhori Basor",
+      "name": "MR RAMGYAN BASOR",
+      "num": "8717985724"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O Vishvamochan Singh Chauhan!61!. village kaithani!post deora Singrauli!village kaithani!SIDHI!Singrauli!Madhya Pradesh!486882",
+      "alt": "9399920230",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "C/O Vishvamochan Singh Chauhan",
+      "name": "Raj Singh Chauhan",
+      "num": "7581882930"
+    }
+  ]
+}
