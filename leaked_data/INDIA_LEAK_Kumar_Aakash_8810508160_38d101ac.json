@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:51:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8810508160",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!1843 3rd FLOOR ARYA BASTI COMMUNITY CENTER!KOTLA MUBARAKPUR!Delhi South!Delhi!110003",
+      "alt": "917004968814",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Ojha",
+      "name": "Kumar Aakash",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": "936125462397",
+      "address": "s/o hari om goyal!n-60 b!gali no-14!near jain mandir!shahdara!goverdhan  bihari colony!north east delhi!Delhi!110032",
+      "alt": "9891762010",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hari om goyal",
+      "name": "Mohit Goel  ",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": "936125462397",
+      "address": "s/o hari om goyal!n-60 b!gali no-14!near jain mandir!shahdara!goverdhan  bihari colony!north east delhi!Delhi!110032",
+      "alt": "9891762010",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hari om goyal",
+      "name": "Mohit Goel  ",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": null,
+      "address": "!!1843 3rd FLOORARYA BASTICOMMUNITY CENTER!KOTLA MUBARAKPUR!DelhiSouth!Delhi!110003",
+      "alt": "917004968814",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Ojha",
+      "name": "Kumar Aakash",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": null,
+      "address": "!!1843 3rd FLOORARYA BASTICOMMUNITY CENTER!KOTLA MUBARAKPUR!DelhiSouth!Delhi!110003",
+      "alt": "917004968814",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ashok Kumar Ojha",
+      "name": "Kumar Aakash",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": "936125462397",
+      "address": "s/o hari om goyal!n-60 b!gali no-14!near jain mandir!shahdara!goverdhan  bihari colony!north east delhi!Delhi!110032",
+      "alt": "9891762010",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "hari om goyal",
+      "name": "Mohit Goel  ",
+      "num": "8810508160"
+    },
+    {
+      "aadhar": "810047055203",
+      "address": "S/O Satish!17-B DAIRY FARM AND ANIMAL HOSPITAL! MADANPUR KHADAR!!MADANPUR KHADAR-SOUTH DELHI!DL!110076",
+      "alt": "8810508160",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SATISH  .",
+      "name": "KRISHAN  .",
+      "num": "9990542577"
+    },
+    {
+      "aadhar": "810047055203",
+      "address": "S/O Satish!17-B DAIRY FARM AND ANIMAL HOSPITAL! MADANPUR KHADAR!!MADANPUR KHADAR-SOUTH DELHI!DL!110076",
+      "alt": "8810508160",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SATISH  ",
+      "name": "KRISHAN  ",
+      "num": "9990542577"
+    },
+    {
+      "aadhar": "810047055203",
+      "address": "S/O Satish!17-B DAIRY FARM AND ANIMAL HOSPITAL! MADANPUR KHADAR!!MADANPUR KHADAR-SOUTH DELHI!DL!110076",
+      "alt": "8810508160",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SATISH  ",
+      "name": "KRISHAN  ",
+      "num": "9990542577"
+    }
+  ]
+}
