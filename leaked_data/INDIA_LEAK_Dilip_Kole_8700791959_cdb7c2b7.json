@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:12:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700791959",
+  "records": [
+    {
+      "aadhar": "945279641895",
+      "address": "S/O K. K Kole!!!P-93/2 ME LINE JCO QTRS COD!DELHI CANTT SOUTH WEST DELHI!Delhi!110010",
+      "alt": "918527844830",
+      "circle": "JIO DELHI",
+      "email": "mascogian@gmail.com",
+      "fname": "K K Kole",
+      "name": "Dilip Kole",
+      "num": "8700791959"
+    },
+    {
+      "aadhar": "945279641895",
+      "address": "S/O K K Kole!!!P-93/2 ME LINE JCO QTRS COD!DELHI CANTT SOUTH WEST DELHI!Delhi!110010",
+      "alt": "918527844830",
+      "circle": "JIO DELHI",
+      "email": "mascogian@gmail.com",
+      "fname": "K K Kole",
+      "name": "Dilip Kole",
+      "num": "8700791959"
+    },
+    {
+      "aadhar": "945279641895",
+      "address": "S/O K K Kole!!!P-93/2 ME LINE JCO QTRS COD!DELHI CANTT SOUTH WEST DELHI!Delhi!110010",
+      "alt": "918527844830",
+      "circle": "JIO DELHI",
+      "email": "mascogian@gmail.com",
+      "fname": "K K Kole",
+      "name": "Dilip Kole",
+      "num": "8700791959"
+    }
+  ]
+}
