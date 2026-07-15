@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:32:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721853106",
+  "records": [
+    {
+      "aadhar": "462350298492",
+      "address": " !123!gangahara ke mathiya gangahara ke mathiya Cherueyan!!Cheruia-Rasra-Ballia!Uttar Pradesh!277503",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Radheshyam Giri",
+      "name": "Foola Devi",
+      "num": "9721853106"
+    },
+    {
+      "aadhar": "462350298492",
+      "address": " !123!gangahara ke mathiya gangahara ke mathiya Cherueyan!!Cheruia-Rasra-Ballia!Uttar Pradesh!277503",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Radheshyam Giri",
+      "name": "Foola Devi",
+      "num": "9721853106"
+    }
+  ]
+}
