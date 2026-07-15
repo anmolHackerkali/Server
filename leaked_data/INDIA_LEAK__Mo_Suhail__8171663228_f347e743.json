@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:12:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8171663228",
+  "records": [
+    {
+      "aadhar": "442122179313",
+      "address": " !SATHLA!!Sathla!Meerut!Uttar Pradesh!250402 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " shanawaz ",
+      "name": " Mo Suhail ",
+      "num": "8171663228"
+    },
+    {
+      "aadhar": "442122179313",
+      "address": " !SATHLA!!Sathla!Meerut!Uttar Pradesh!250402 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " shanawaz ",
+      "name": " Mo Suhail ",
+      "num": "8171663228"
+    },
+    {
+      "aadhar": "204050941480",
+      "address": "!SATHLA!Sathla!mandir!Sathla!Meerut!Meerut!Uttar Pradesh!250402",
+      "alt": "8171663228",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shahnawaj",
+      "name": "Mohd Uvaish",
+      "num": "8126465837"
+    },
+    {
+      "aadhar": "204050941480",
+      "address": "!SATHLA!Sathla!mandir!Sathla!Meerut!Meerut!Uttar Pradesh!250402",
+      "alt": "8171663228",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shahnawaj",
+      "name": "Mohd Uvaish",
+      "num": "8126465837"
+    }
+  ]
+}
