@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:52:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8360193265",
+  "records": [
+    {
+      "aadhar": "237968135039",
+      "address": "S/O Ravider Kumar!!House No  4042!SECTOR 25!ChandigarhChandigarh!Chandigarh!160015",
+      "alt": "+917508562809",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Ravider Kumar",
+      "name": "Ravi",
+      "num": "8360193265"
+    }
+  ]
+}
