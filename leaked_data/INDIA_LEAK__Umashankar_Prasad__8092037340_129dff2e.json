@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:24:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8092037340",
+  "records": [
+    {
+      "aadhar": "489081619657",
+      "address": " S/O MAHAVIR PRASAD!Fatehpur PO!vill aaropur!post tankuppa Aropur Tan Kuppa!Gaya!Gaya!Bihar!824232 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Mahavir Prasad ",
+      "name": " Umashankar Prasad ",
+      "num": "8092037340"
+    },
+    {
+      "aadhar": "489081619657",
+      "address": " S/O MAHAVIR PRASAD!Fatehpur PO!vill aaropur!post tankuppa Aropur Tan Kuppa!Gaya!Gaya!Bihar!824232 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Mahavir Prasad ",
+      "name": " Umashankar Prasad ",
+      "num": "8092037340"
+    }
+  ]
+}
