@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:18:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7001432549",
+  "records": [
+    {
+      "aadhar": "368228341746",
+      "address": " S/O Dulal Mridha!!Kalidaspur!Marichjhanpi Uttar Para!!Kalidaspur Gosaba!South 24 Parganas!West Bengal!743378 ",
+      "alt": "8346079850",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dulal Mridha",
+      "name": "Prasenjit Mridha",
+      "num": "7001432549"
+    },
+    {
+      "aadhar": "368228341746",
+      "address": " S/O Dulal Mridha!!Kalidaspur!Marichjhanpi Uttar Para!!Kalidaspur Gosaba!South 24 Parganas!West Bengal!743378 ",
+      "alt": "8346079850",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dulal Mridha",
+      "name": "Prasenjit Mridha",
+      "num": "7001432549"
+    },
+    {
+      "aadhar": "491429925536",
+      "address": "W/O Mahiuddin Ahammed Seikh!Kusumgram!!!Barddhaman!West Bengal!713422",
+      "alt": "7001432549",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Mahiuddin Ahammed Seikh",
+      "name": "Papiya  Seikh",
+      "num": "8116128327"
+    },
+    {
+      "aadhar": "491429925536",
+      "address": "W/O Mahiuddin Ahammed Seikh!Kusumgram!!!Barddhaman!West Bengal!713422",
+      "alt": "7001432549",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Mahiuddin Ahammed Seikh",
+      "name": "Papiya  Seikh",
+      "num": "8116128327"
+    }
+  ]
+}
