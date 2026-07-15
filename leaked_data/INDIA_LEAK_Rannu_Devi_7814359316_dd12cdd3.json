@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:39:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7814359316",
+  "records": [
+    {
+      "aadhar": "550961610477",
+      "address": "W/O  Gaji Deen Maurya!!purab ganv Kithawar!!!Purab Gaon Kunda!Pratapgarh!Uttar Pradesh!230503",
+      "alt": "7275194200",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Gaji Deen Maurya",
+      "name": "Rannu Devi",
+      "num": "7814359316"
+    },
+    {
+      "aadhar": "550961610477",
+      "address": "W/O  Gaji Deen Maurya!!purab ganv Kithawar!!!Purab Gaon Kunda!Pratapgarh!Uttar Pradesh!230503",
+      "alt": "7275194200",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Gaji Deen Maurya",
+      "name": "Rannu Devi",
+      "num": "7814359316"
+    },
+    {
+      "aadhar": "824920779861",
+      "address": "S/O  Ram Prasad Mishra!!Kithawar!!!Purab Gaon Kunda!Pratapgarh!Uttar Pradesh!230503",
+      "alt": "7814359316",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Prasad Mishra",
+      "name": "Ajad Mishra",
+      "num": "9452058667"
+    },
+    {
+      "aadhar": "824920779861",
+      "address": "S/O  Ram Prasad Mishra!!Kithawar!!!Purab Gaon Kunda!Pratapgarh!Uttar Pradesh!230503",
+      "alt": "7814359316",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Prasad Mishra",
+      "name": "Ajad Mishra",
+      "num": "9452058667"
+    }
+  ]
+}
