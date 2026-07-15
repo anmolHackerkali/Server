@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:29:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9135361934",
+  "records": [
+    {
+      "aadhar": "955393097562",
+      "address": "! ward no 01!chakrajaili!lagunia!patory!Samastipur!Samastipur!Bihar!848504",
+      "alt": "9708213815",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ram naresh ray",
+      "name": "Munna Kumar",
+      "num": "9135361934"
+    },
+    {
+      "aadhar": "955393097562",
+      "address": " Chakrajali!Ward No 01!Lagunia!Lagunia!Samastipur!Samastipur!Bihar!848504 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Naresh Ray ",
+      "name": " Munna Kumar ",
+      "num": "9135361934"
+    },
+    {
+      "aadhar": "955393097562",
+      "address": " Chakrajali!Ward No 01!Lagunia!Lagunia!Samastipur!Samastipur!Bihar!848504 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Naresh Ray ",
+      "name": " Munna Kumar ",
+      "num": "9135361934"
+    },
+    {
+      "aadhar": "955393097562",
+      "address": "!!ward no 01!!lagunia!samastipur!Samastipur!BIHAR!848504",
+      "alt": "9135361934",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "RAM NARESH RAY",
+      "name": "MUNNA KUMAR",
+      "num": "9431261923"
+    },
+    {
+      "aadhar": "XXXXXXXX7562",
+      "address": " .  ward no 01 lagunia samastipur  Samastipur BIHAR 848504 ",
+      "alt": "9135361934",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " RAM NARESH RAY ",
+      "name": " MUNNA KUMAR   ",
+      "num": "9431261923"
+    },
+    {
+      "aadhar": "955393097562",
+      "address": "!!ward no 01!!lagunia!samastipur!Samastipur!BIHAR!848504",
+      "alt": "9135361934",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "RAM NARESH RAY",
+      "name": "MUNNA KUMAR",
+      "num": "9431261923"
+    },
+    {
+      "aadhar": "XXXXXXXX7562",
+      "address": " .  ward no 01 lagunia samastipur  Samastipur BIHAR 848504 ",
+      "alt": "9135361934",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " RAM NARESH RAY ",
+      "name": " MUNNA KUMAR   ",
+      "num": "9431261923"
+    },
+    {
+      "aadhar": "955393097562",
+      "address": "!!ward no 01!!lagunia!samastipur!Samastipur!BIHAR!848504",
+      "alt": "9135361934",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "RAM NARESH RAY",
+      "name": "MUNNA KUMAR",
+      "num": "9431261923"
+    }
+  ]
+}
