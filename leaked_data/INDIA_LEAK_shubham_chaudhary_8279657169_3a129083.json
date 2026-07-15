@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:31:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8279657169",
+  "records": [
+    {
+      "aadhar": "527008541473",
+      "address": "!mig a54!ram ganga vihar phase 1!!moradabad!Moradabad!!Uttar Pradesh!244001",
+      "alt": "9457214686",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "uday pal singh",
+      "name": "shubham chaudhary",
+      "num": "8279657169"
+    },
+    {
+      "aadhar": "527008541473",
+      "address": "!mig a54!ram ganga vihar phase 1!!moradabad!Moradabad!!Uttar Pradesh!244001",
+      "alt": "9457214686",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "uday pal singh",
+      "name": "shubham chaudhary",
+      "num": "8279657169"
+    }
+  ]
+}
