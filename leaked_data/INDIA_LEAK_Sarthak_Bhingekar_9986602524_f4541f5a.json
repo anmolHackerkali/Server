@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:59:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9986602524",
+  "records": [
+    {
+      "aadhar": "351191183849",
+      "address": "s/o  ramesh! 229!gokul road!!manjunath nagar 2nd stage hubli!hubli!dharwad!Karnataka!580030",
+      "alt": "9880985905",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "ramesh",
+      "name": "Sarthak Bhingekar",
+      "num": "9986602524"
+    },
+    {
+      "aadhar": "KA2520110013928",
+      "address": "!h no 229!Manjunath Nagar 2nd stage gokul road!!hubli gokul road!Dharwad!Dharwad!Karnataka!580030",
+      "alt": "9986602524",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "RAMESH",
+      "name": "SARTHAK R BHINGEKAR",
+      "num": "9880985905"
+    }
+  ]
+}
