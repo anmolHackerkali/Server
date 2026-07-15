@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:43:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9868462663",
+  "records": [
+    {
+      "aadhar": "754688933823",
+      "address": "S/O  Bharath Prasad!S/O  Bharath PrasadB-133-134!1st FloorNehru Vihar!Delhi!Timarpur-North Delhi!DL!110054",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHARATH  PRASAD",
+      "name": "ARAVIND KUMAR YADAV",
+      "num": "9868462663"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "S/O  Bharath Prasad!S/O  Bharath PrasadB-133-134!1st FloorNehru Vihar!Delhi!Timarpur-North Delhi!DL!110054",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHARATH  PRASAD",
+      "name": "ARAVIND KUMAR YADAV",
+      "num": "9868462663"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "!FLAT NUMBER 301!VINAYAK VIHAR APARTMENT NEAR NAGAR CHAUR!Apartment near nagar chauraha!MAMFORDGANJ ALLAHABAD!ALLAHABAD!UTTAR PRADESH!211002",
+      "alt": "6393737037",
+      "circle": "UPE",
+      "email": "ARAVINDYADAV81@GMAIL.COM",
+      "fname": "Bharath Prasad",
+      "name": "MR ARAVIND KUMAR YADAV",
+      "num": "9868462663"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "S/O  Bharath Prasad!S/O  Bharath PrasadB-133-134!1st FloorNehru Vihar!Delhi!Timarpur-North Delhi!DL!110054",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "BHARATH  PRASAD",
+      "name": "ARAVIND KUMAR YADAV",
+      "num": "9868462663"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "!FLAT NUMBER 301!VINAYAK VIHAR APARTMENT NEAR NAGAR CHAUR!Apartment near nagar chauraha!MAMFORDGANJ ALLAHABAD!ALLAHABAD!UTTAR PRADESH!211002",
+      "alt": "6393737037",
+      "circle": "UPE",
+      "email": "ARAVINDYADAV81@GMAIL.COM",
+      "fname": "Bharath Prasad",
+      "name": "MR ARAVIND KUMAR YADAV",
+      "num": "9868462663"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "!11!SADAR!DURGA POOJA PARK!MADHO KUNJ!Allahabad!Allahabad!Uttar Pradesh!211002",
+      "alt": "9868462663",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bharath Prasad",
+      "name": "Aravind Kumar Yadav",
+      "num": "9569107474"
+    },
+    {
+      "aadhar": "754688933823",
+      "address": "!11!SADAR!DURGA POOJA PARK!MADHO KUNJ!Allahabad!Allahabad!Uttar Pradesh!211002",
+      "alt": "9868462663",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bharath Prasad",
+      "name": "Aravind Kumar Yadav",
+      "num": "9569107474"
+    }
+  ]
+}
