@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:17:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9905414211",
+  "records": [
+    {
+      "aadhar": "804786482681",
+      "address": "S/O Krishnadev Prasad! 76!gram samas bujurg Barbigha!post samas bujurg!post samas bujurg!Sanwas Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "8210549194",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Krishnadev Prasad",
+      "name": "Jayant Kumar",
+      "num": "9905414211"
+    },
+    {
+      "aadhar": "804786482681",
+      "address": "S/O Krishnadev Prasad! 76!gram samas bujurg Barbigha!post samas bujurg!post samas bujurg!Sanwas Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "8210549194",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Krishnadev Prasad",
+      "name": "Jayant Kumar",
+      "num": "9905414211"
+    },
+    {
+      "aadhar": "804786482681",
+      "address": "S/O Krishnadev Prasad! 76!gram samas bujurg Barbigha!post samas bujurg!post samas bujurg!Sanwas Barbigha!Sheikhpura!Bihar!811101",
+      "alt": "8210549194",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Krishnadev Prasad",
+      "name": "Jayant Kumar",
+      "num": "9905414211"
+    }
+  ]
+}
