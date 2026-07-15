@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:55:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818520523",
+  "records": [
+    {
+      "aadhar": "395582582366",
+      "address": "!277 1st floor!Saraswati street sector-5 vaishali!!I e Sahibabad Ghaziabad Uttar Pradesh!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "8860675302",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "9818520523"
+    },
+    {
+      "aadhar": "395582582366",
+      "address": "!277 1st floor!Saraswati street sector-5 vaishali!!I e Sahibabad Ghaziabad Uttar Pradesh!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "8860675302",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "9818520523"
+    },
+    {
+      "aadhar": "395582582366",
+      "address": "!277 1st floor!Saraswati street sector-5 vaishali!!I e Sahibabad Ghaziabad Uttar Pradesh!Ghaziabad!Ghaziabad!Uttar Pradesh!201010",
+      "alt": "8860675302",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "9818520523"
+    },
+    {
+      "aadhar": null,
+      "address": "277 Ist Floor ! Sector-5 ! Vaishali ! GHAZIABAD NCR ! UTTAR PRADESH ! 201010",
+      "alt": "9818520523",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "8860675302"
+    },
+    {
+      "aadhar": null,
+      "address": "277 Ist Floor ! Sector-5 ! Vaishali ! GHAZIABAD NCR ! UTTAR PRADESH ! 201010",
+      "alt": "9818520523",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "8860675302"
+    },
+    {
+      "aadhar": null,
+      "address": "277 Ist Floor ! Sector-5 ! Vaishali ! GHAZIABAD NCR ! UTTAR PRADESH ! 201010",
+      "alt": "9818520523",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Uma Kumari",
+      "num": "8860675302"
+    }
+  ]
+}
