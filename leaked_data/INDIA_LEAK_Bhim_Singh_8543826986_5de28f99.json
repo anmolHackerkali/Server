@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:09:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8543826986",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Chotelal!!! VILL RAJMILAN POST JARAHA PS BIJJPUR Jaraha!Sonbhadra!Uttar Pradesh!231223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chotelal",
+      "name": "Bhim Singh",
+      "num": "8543826986"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Chotelal!!! VILL RAJMILAN POST JARAHA PS BIJJPUR Jaraha!Sonbhadra!Uttar Pradesh!231223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chotelal",
+      "name": "Bhim Singh",
+      "num": "8543826986"
+    }
+  ]
+}
