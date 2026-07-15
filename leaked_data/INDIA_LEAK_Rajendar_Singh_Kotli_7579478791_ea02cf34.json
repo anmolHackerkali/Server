@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:31:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7579478791",
+  "records": [
+    {
+      "aadhar": "475318021982",
+      "address": "!m 32!old dlf colony sector 14!NA!gurgaon!Gurgaon Gurgaon!NA!Haryana!122001",
+      "alt": "9411140248",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "7579478791"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!m 32!old dlf colony sector 14!NA!gurgaon!GurgaonGurgaon!NA!Haryana!122001",
+      "alt": "9411140248",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "7579478791"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!m 32!old dlf colony sector 14!NA!gurgaon!GurgaonGurgaon!NA!Haryana!122001",
+      "alt": "9411140248",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "7579478791"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!234!sector 22 palam vihar!NA!gurgaon!Gurgaon Gurgaon!NA!Haryana!122001",
+      "alt": "7579478791",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bishan singh",
+      "name": "rajendra singh",
+      "num": "7900112222"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!265!sohna road!radhakrishnamandir!holi wala kuwa!Gurgaon!Gurgaon!Haryana!122101",
+      "alt": "7579478791",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "8595403296"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!265!sohna road!radhakrishnamandir!holi wala kuwa!Gurgaon!Gurgaon!Haryana!122101",
+      "alt": "7579478791",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "8595403296"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!234!sector 22 palam vihar!NA!gurgaon!GurgaonGurgaon!NA!Haryana!122001",
+      "alt": "7579478791",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bishan singh",
+      "name": "rajendra singh",
+      "num": "7900112222"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!265!sohna road!radhakrishnamandir!holi wala kuwa!Gurgaon!Gurgaon!Haryana!122101",
+      "alt": "7579478791",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Bishan Singh Kotliya",
+      "name": "Rajendar Singh Kotliya",
+      "num": "8595403296"
+    },
+    {
+      "aadhar": "475318021982",
+      "address": "!234!sector 22 palam vihar!NA!gurgaon!GurgaonGurgaon!NA!Haryana!122001",
+      "alt": "7579478791",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bishan singh",
+      "name": "rajendra singh",
+      "num": "7900112222"
+    }
+  ]
+}
