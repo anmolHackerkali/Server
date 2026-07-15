@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:32:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368342519",
+  "records": [
+    {
+      "aadhar": "758594728576",
+      "address": "D/O  Omvir Singh!House No-68!Loni!!Sadullabad Ward No-12!Loni Dehat Ghaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9716451898",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omvir Singh",
+      "name": "Sarita",
+      "num": "8368342519"
+    },
+    {
+      "aadhar": "758594728576",
+      "address": "D/O  Omvir Singh!House No-68!Loni!!Sadullabad Ward No-12!Loni DehatGhaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9716451898",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omvir Singh",
+      "name": "Sarita",
+      "num": "8368342519"
+    },
+    {
+      "aadhar": "758594728576",
+      "address": "D/O  Omvir Singh!House No-68!Loni!!Sadullabad Ward No-12!Loni DehatGhaziabad!Ghaziabad!Uttar Pradesh!201102",
+      "alt": "9716451898",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Omvir Singh",
+      "name": "Sarita",
+      "num": "8368342519"
+    }
+  ]
+}
