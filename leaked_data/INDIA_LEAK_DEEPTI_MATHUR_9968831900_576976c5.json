@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:32:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9968831900",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "B 227 NOIDA SEC 55 NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "9811926819",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SANJEEV MATHUR",
+      "name": "DEEPTI MATHUR",
+      "num": "9968831900"
+    },
+    {
+      "aadhar": null,
+      "address": "B 227 NOIDA SEC 55 NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "9811926819",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SANJEEV MATHUR",
+      "name": "DEEPTI MATHUR",
+      "num": "9968831900"
+    },
+    {
+      "aadhar": null,
+      "address": "B 227 NOIDA SEC 55 NOIDA ! GAUTAM BUDDHA NAGAR !  ! NOIDA ! Uttar Pradesh ! 201309",
+      "alt": "9811926819",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "SANJEEV MATHUR",
+      "name": "DEEPTI MATHUR",
+      "num": "9968831900"
+    }
+  ]
+}
