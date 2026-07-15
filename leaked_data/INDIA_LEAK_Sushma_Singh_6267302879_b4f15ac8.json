@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:17:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6267302879",
+  "records": [
+    {
+      "aadhar": "720927267604",
+      "address": "w/o  sahidool singh!!Belha!!gram-belaha tehsil-sihawal belha!belaha Sihawal!sidhi!Madhya Pradesh!486661",
+      "alt": "9981896884",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "sahidool singh",
+      "name": "Sushma Singh",
+      "num": "6267302879"
+    },
+    {
+      "aadhar": "636103898029",
+      "address": "S/O  Nanku Ram!! Sarga!NA!Vill-Gersa PO-Sarga!Gersa Sitapur Surguja!NA!Chhattisgarh!497111",
+      "alt": "6267302879",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Nanku Ram",
+      "name": "Sanak Say",
+      "num": "7067674255"
+    },
+    {
+      "aadhar": "823005213583",
+      "address": "S/O  Jal Ram!!Village-Gersa Post-Sarga  Sitapur!NA!Village-Gersa Post-Sarga!Gersa Sitapur Surguja!NA!Chhattisgarh!497111",
+      "alt": "6267302879",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Jal Ram",
+      "name": "Kundresh Kumar",
+      "num": "6265008396"
+    }
+  ]
+}
