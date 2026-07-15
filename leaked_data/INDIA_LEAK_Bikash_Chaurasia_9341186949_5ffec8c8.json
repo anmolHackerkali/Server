@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:29:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9341186949",
+  "records": [
+    {
+      "aadhar": "404092962785",
+      "address": "s/o  shyam kishor chourasiya! ward no 9!rampur kachahari!po lakhanpatti!chhaurahi!rampur!begusarai!Bihar!848204",
+      "alt": "7255835683",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shyam kishor chourasiya",
+      "name": "Bikash Chaurasia",
+      "num": "9341186949"
+    },
+    {
+      "aadhar": "404092962785",
+      "address": "s/o  shyam kishor chourasiya! ward no 9!rampur kachahari!po lakhanpatti!chhaurahi!rampur!begusarai!Bihar!848204",
+      "alt": "7255835683",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shyam kishor chourasiya",
+      "name": "Bikash Chaurasia",
+      "num": "9341186949"
+    },
+    {
+      "aadhar": "404092962785",
+      "address": "s/o  shyam kishor chourasiya! ward no 9!rampur kachahari!po lakhanpatti!chhaurahi!rampur!begusarai!Bihar!848204",
+      "alt": "7255835683",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shyam kishor chourasiya",
+      "name": "Bikash Chaurasia",
+      "num": "9341186949"
+    }
+  ]
+}
