@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:29:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9520309946",
+  "records": [
+    {
+      "aadhar": "911601676796",
+      "address": "C/O Anand Singh!Naugaon!Naugaon!!Bergaon!Almora!Almora!Uttarakhand!263678",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "Milan Singh",
+      "num": "9520309946"
+    },
+    {
+      "aadhar": "911601676796",
+      "address": "C/O Anand Singh!Naugaon!Naugaon!!Bergaon!Almora!Almora!Uttarakhand!263678",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "Milan Singh",
+      "num": "9520309946"
+    }
+  ]
+}
