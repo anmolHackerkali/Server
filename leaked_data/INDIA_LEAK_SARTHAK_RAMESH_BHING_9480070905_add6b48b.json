@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:58:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9480070905",
+  "records": [
+    {
+      "aadhar": "351191183849",
+      "address": "229 MANJUNATH NAGAR 2ND STAGE GOKUL ROAD HUBLI Dharwad KARNATAKA 580030",
+      "alt": "9880985905",
+      "circle": "KARNATAKA BSNL",
+      "email": null,
+      "fname": "RAMESH",
+      "name": "SARTHAK RAMESH BHINGEKAR",
+      "num": "9480070905"
+    },
+    {
+      "aadhar": "351191183849",
+      "address": "S/O Ramesh!NO 99 229!manjunath nagar HUBLI!UDYAMNAGAR!2ND STAGE GOKUL ROAD!Dharwad DHARWAD!Dharwad!Karnataka!580030",
+      "alt": "9880985905",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Ramesh",
+      "name": "Sarthak Bhingekar",
+      "num": "9480070905"
+    }
+  ]
+}
