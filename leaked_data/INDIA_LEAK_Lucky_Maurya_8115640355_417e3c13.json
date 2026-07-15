@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:05:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8115640355",
+  "records": [
+    {
+      "aadhar": "709688792708",
+      "address": "!Sultanpur Barahgawapipara(Usuri)!!!Mau!Uttar Pradesh!221603",
+      "alt": "7905280769",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash Maurya",
+      "name": "Lucky Maurya",
+      "num": "8115640355"
+    },
+    {
+      "aadhar": "709688792708",
+      "address": "!Sultanpur Barahgawapipara(Usuri)!!!Mau!Uttar Pradesh!221603",
+      "alt": "7905280769",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash Maurya",
+      "name": "Lucky Maurya",
+      "num": "8115640355"
+    },
+    {
+      "aadhar": "417693653217",
+      "address": "!00!Kath Taraon!!Madhuban!Azamgarh!!Uttar Pradesh!221602",
+      "alt": "8115640355",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babban  Yadav",
+      "name": "Deepak Kumar Yadav",
+      "num": "8858686615"
+    },
+    {
+      "aadhar": "319191787913",
+      "address": "s/o  omprakash maurya! 00!pipara usuri Sultanpur Barahgawa Mau!!pipara usuri!sultanpur barahgawa!mau!Uttar Pradesh!221603",
+      "alt": "8115640355",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "omprakash maurya",
+      "name": "Satyam Maurya",
+      "num": "8840983880"
+    },
+    {
+      "aadhar": "319191787913",
+      "address": "!00!pipra usuri!!sultanpur barahgawa  mau!Azamgarh!!Uttar Pradesh!221603",
+      "alt": "8115640355",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash  Maurya",
+      "name": "Satyam  Maurya",
+      "num": "7054057121"
+    },
+    {
+      "aadhar": "417693653217",
+      "address": "!00!Kath Taraon!!Madhuban!Azamgarh!!Uttar Pradesh!221602",
+      "alt": "8115640355",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Babban  Yadav",
+      "name": "Deepak Kumar Yadav",
+      "num": "8858686615"
+    },
+    {
+      "aadhar": "319191787913",
+      "address": "s/o  omprakash maurya! 00!pipara usuri Sultanpur Barahgawa Mau!!pipara usuri!sultanpur barahgawa!mau!Uttar Pradesh!221603",
+      "alt": "8115640355",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "omprakash maurya",
+      "name": "Satyam Maurya",
+      "num": "8840983880"
+    },
+    {
+      "aadhar": "319191787913",
+      "address": "!00!pipra usuri!!sultanpur barahgawa  mau!Azamgarh!!Uttar Pradesh!221603",
+      "alt": "8115640355",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Omprakash  Maurya",
+      "name": "Satyam  Maurya",
+      "num": "7054057121"
+    }
+  ]
+}
