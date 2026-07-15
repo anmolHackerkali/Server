@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:43:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8700887626",
+  "records": [
+    {
+      "aadhar": "462529089741",
+      "address": "S/O Shahbuddin!!H N0. F-30 Street N0-6!!BHAGIRATHI VIHAR NORTH EAST!Delhi!110094",
+      "alt": "918586076058",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shahbuddin",
+      "name": "Iqramuddin",
+      "num": "8700887626"
+    },
+    {
+      "aadhar": "462529089741",
+      "address": "S/O Shahbuddin!!H N0 F-30 Street N0-6!!BHAGIRATHI VIHAR NORTH EAST!Delhi!110094",
+      "alt": "918586076058",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shahbuddin",
+      "name": "Iqramuddin",
+      "num": "8700887626"
+    },
+    {
+      "aadhar": "462529089741",
+      "address": "S/O Shahbuddin!!H N0 F-30 Street N0-6!!BHAGIRATHI VIHAR NORTH EAST!Delhi!110094",
+      "alt": "918586076058",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Shahbuddin",
+      "name": "Iqramuddin",
+      "num": "8700887626"
+    }
+  ]
+}
