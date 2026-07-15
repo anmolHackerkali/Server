@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:39:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7439056137",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " S/O Sanaullah Shaikh!!!MOLLA PARA!Kumbhira Malda!West Bengal!732201 ",
+      "alt": "917585095916",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Sanaullah Shaikh",
+      "name": "Ahmad Iqbal",
+      "num": "7439056137"
+    },
+    {
+      "aadhar": null,
+      "address": " S/O Sanaullah Shaikh!!!MOLLA PARA!Kumbhira Malda!West Bengal!732201 ",
+      "alt": "917585095916",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Sanaullah Shaikh",
+      "name": "Ahmad Iqbal",
+      "num": "7439056137"
+    }
+  ]
+}
