@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:43:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9616384186",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ram Soorat Yadav!!555K /94 KANAUSI KALOOBIR MANDIR!MANAK NAGAR!manak nagar Lucknow!Uttar Pradesh!226011",
+      "alt": "917355338322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Soorat Yadav",
+      "name": "Ravindra Kumar Yadav",
+      "num": "9616384186"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ram Soorat Yadav!!555K /94 KANAUSI KALOOBIR MANDIR!MANAK NAGAR!manak nagar Lucknow!Uttar Pradesh!226011",
+      "alt": "917355338322",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Soorat Yadav",
+      "name": "Ravindra Kumar Yadav",
+      "num": "9616384186"
+    }
+  ]
+}
