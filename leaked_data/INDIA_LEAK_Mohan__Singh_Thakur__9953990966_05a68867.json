@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:45:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953990966",
+  "records": [
+    {
+      "aadhar": "Nej3216454",
+      "address": "222-223 Pkt 3 Sector 22 Rohini Near Begumpur Police Station New Delhi Delhi 110085! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Thakur Dayaram Verma",
+      "name": "Mohan  Singh Thakur Municipal Co Operation Of Delhi",
+      "num": "9953990966"
+    },
+    {
+      "aadhar": "Nej3216454",
+      "address": "!222223 Pkt 3 Sector 22 Rohini Near Begumpur Police Station New Delhi Delhi 110085!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Thakur Dayaram Verma",
+      "name": "Mohan  Singh ThakurMunicipal Co Operation Of Delhi",
+      "num": "9953990966"
+    },
+    {
+      "aadhar": "Nej3216454",
+      "address": "222223 Pkt 3 Sector 22 Rohini Near Begumpur Police Station New Delhi Delhi 110085! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Thakur Dayaram Verma",
+      "name": "Mohan  Singh ThakurMunicipal Co Operation Of Delhi",
+      "num": "9953990966"
+    },
+    {
+      "aadhar": "Nej3216454",
+      "address": "222223 Pkt 3 Sector 22 Rohini Near Begumpur Police Station New Delhi Delhi 110085! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Thakur Dayaram Verma",
+      "name": "Mohan  Singh ThakurMunicipal Co Operation Of Delhi",
+      "num": "9953990966"
+    }
+  ]
+}
