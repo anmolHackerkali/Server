@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:11:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9628445368",
+  "records": [
+    {
+      "aadhar": "948420373788",
+      "address": "s/o  ram kishor!ghar!NA!post singarsipur!gram ghaar!singrasipur!kanpur dehat!Uttar Pradesh!209208",
+      "alt": "7800449318",
+      "circle": "JIO UPE",
+      "email": "vkt0456@gmail.com",
+      "fname": "ram kishor",
+      "name": "Vikas Tiwari",
+      "num": "9628445368"
+    },
+    {
+      "aadhar": "948420373788",
+      "address": "s/o  ram kishor!ghar!NA!post singarsipur!gram ghaar!singrasipur!kanpur dehat!Uttar Pradesh!209208",
+      "alt": "7800449318",
+      "circle": "JIO UPE",
+      "email": "vkt0456@gmail.com",
+      "fname": "ram kishor",
+      "name": "Vikas Tiwari",
+      "num": "9628445368"
+    }
+  ]
+}
