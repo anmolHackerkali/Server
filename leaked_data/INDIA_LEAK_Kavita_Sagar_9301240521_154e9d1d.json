@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:31:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9301240521",
+  "records": [
+    {
+      "aadhar": "724386368557",
+      "address": "W/O Ashok Sagar! h.no. 567 durga nagar!C.T.T.Nagar!!H.No. 567 durga nagar!Huzur!Bhopal!Madhya Pradesh!462003",
+      "alt": "7224045891",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ashok Sagar",
+      "name": "Kavita Sagar",
+      "num": "9301240521"
+    },
+    {
+      "aadhar": null,
+      "address": " 267 KUMAR MOHALLA RAJ BHAVAN ROAD  NEW MARKET Huzur C T T Nagar Huzur Bhopal  Madhya Pradesh 462003",
+      "alt": "9301240521",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Munnalal Sagar",
+      "name": "Ashok Sagar",
+      "num": "9752092693 "
+    },
+    {
+      "aadhar": "783673405556",
+      "address": "S/O Munnalal Sagar!267 Kumar mohalla Raj bhavan!government school!government school!bhopal HOSHANGABAD!AERAN MIRZAPUR!HOSHANGABAD!Madhya Pradesh!462003",
+      "alt": "9301240521",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Munnalal Sagar",
+      "name": "MR ASHOK SAGAR",
+      "num": "9713610540"
+    },
+    {
+      "aadhar": "263090515756",
+      "address": "S/O Ashok!gram haidarganj ghansoda post muskara!ram mandir!ram mandir!Haidarganj SEHORE!SEHORE!SEHORE!Madhya Pradesh!466113",
+      "alt": "9301240521",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "AshokSagar",
+      "name": "MR AKASH SAGAR",
+      "num": "9713610268"
+    },
+    {
+      "aadhar": "263090515756",
+      "address": "S/O Ashok!gram haidarganj ghansoda post muskara!Ram mandir!Ram mandir!haidarganj SEHORE!SEHORE!SEHORE!Madhya Pradesh!466113",
+      "alt": "9301240521",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ashok",
+      "name": "MR AKASH SAGAR",
+      "num": "9713610165"
+    }
+  ]
+}
