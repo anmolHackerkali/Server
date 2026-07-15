@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:06:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9110980893",
+  "records": [
+    {
+      "aadhar": "995246488667",
+      "address": "S/O  Shantun Machuwa!!Chokahatu!!Vill-Chokahatu Po-Chokahatu Ps-Sonahatu!Chokahatu Sonahatu!Ranchi!Jharkhand!835225",
+      "alt": "8936886137",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shantun Machuwa",
+      "name": "Ganesh Machuwa",
+      "num": "9110980893"
+    },
+    {
+      "aadhar": "695666127029",
+      "address": " Chhipi tola!chauhatta!Vaishali!Vaishali!Vaishali!Vaishali!Bihar!844101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Yugal Kishore Chaudhary ",
+      "name": " Raj Kishor Chaudhary ",
+      "num": "9110980893"
+    },
+    {
+      "aadhar": "995246488667",
+      "address": "S/O  Shantun Machuwa!!Chokahatu!!Vill-Chokahatu Po-Chokahatu Ps-Sonahatu!Chokahatu Sonahatu!Ranchi!Jharkhand!835225",
+      "alt": "8936886137",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Shantun Machuwa",
+      "name": "Ganesh Machuwa",
+      "num": "9110980893"
+    },
+    {
+      "aadhar": "695666127029",
+      "address": " Chhipi tola!chauhatta!Vaishali!Vaishali!Vaishali!Vaishali!Bihar!844101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Yugal Kishore Chaudhary ",
+      "name": " Raj Kishor Chaudhary ",
+      "num": "9110980893"
+    }
+  ]
+}
