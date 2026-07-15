@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:56:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9996682239",
+  "records": [
+    {
+      "aadhar": "220436347497",
+      "address": "1452 URBAN ESTATE  SECTOR-5 THANESAR NA KURUKSHEHRA  KURUKSHETRA HARYANA 136118",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "HANS  RAJ",
+      "name": "ARVIND  KUMAR",
+      "num": "9996682239"
+    },
+    {
+      "aadhar": "220436347497",
+      "address": "!1452!URBAN ESTATE!!SECTOR-5 THANESAR NA KURUKSHEHRA!!KURUKSHETRA!HARYANA!136118",
+      "alt": "9992277698",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "HANS  RAJ",
+      "name": "ARVIND  KUMAR",
+      "num": "9996682239"
+    },
+    {
+      "aadhar": "HR0720110051654",
+      "address": "!hn 778!sec 7 u e!Urban estate!thanesar!Kurukshetra!Kurukshetra!Haryana!136118",
+      "alt": "9996682239",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hans raj",
+      "name": "Arvind kumar",
+      "num": "9812388669"
+    },
+    {
+      "aadhar": "220436347497",
+      "address": "S/O  Hans Raj!1452!sector 5 urban estateKurukshetra!urban estate!sector-5!ThanesarThanesar!Kurukshetra!Haryana!136118",
+      "alt": "9996682239",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hans Raj",
+      "name": "Arvind Kumar",
+      "num": "7988433877"
+    }
+  ]
+}
