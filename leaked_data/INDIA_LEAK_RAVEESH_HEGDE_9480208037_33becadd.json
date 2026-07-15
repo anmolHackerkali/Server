@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:00:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9480208037",
+  "records": [
+    {
+      "aadhar": "KA3120160003104",
+      "address": "!68 shri guru anugraha!sirsi uk!Sodalabaila!Ajjibala!Uttara Kannada!Uttara Kannada!Karnataka!581340",
+      "alt": "9606707300",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "VENKATRAMAN HEGDE",
+      "name": "RAVEESH HEGDE",
+      "num": "9480208037"
+    },
+    {
+      "aadhar": "KA3120160003104",
+      "address": "!68 shri guru anugraha!sodalabailu ajjibala!!sirsi!Sirsi!Uttara Kannada!Karnataka!581340",
+      "alt": "9480208037",
+      "circle": "JIO KARNATKA",
+      "email": "SWASTHIKMEDIA@GMAIL.COM",
+      "fname": "venkatraman hegde",
+      "name": "RAVEESH HEGDE",
+      "num": "9606707300"
+    }
+  ]
+}
