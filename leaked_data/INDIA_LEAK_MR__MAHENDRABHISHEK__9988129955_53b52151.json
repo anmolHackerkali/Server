@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:55:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9988129955",
+  "records": [
+    {
+      "aadhar": "433082366954",
+      "address": "S/O  Late Mahendra Nath Mishra!H No F 65!Gali No 7 near!near!Laxmi Nagar EAST DELHI!DELHI!EAST DELHI!Delhi!110092",
+      "alt": "9988129955",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Late Mahendra Nath Mishra",
+      "name": "MR  MAHENDRABHISHEK MISHRA",
+      "num": "7838270767"
+    },
+    {
+      "aadhar": "433082366954",
+      "address": "S/O: Late Mahendra Nath Mishra!H No F 65!Gali No 7near!near!Laxmi NagarEAST DELHI!DELHI!EAST DELHI!Delhi!110092",
+      "alt": "9988129955",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Late Mahendra Nath Mishra",
+      "name": "MR MAHENDRABHISHEK MISHRA",
+      "num": "7838270767"
+    },
+    {
+      "aadhar": "433082366954",
+      "address": "S/O: Late Mahendra Nath Mishra!H No F 65!Gali No 7near!near!Laxmi NagarEAST DELHI!DELHI!EAST DELHI!Delhi!110092",
+      "alt": "9988129955",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Late Mahendra Nath Mishra",
+      "name": "MR MAHENDRABHISHEK MISHRA",
+      "num": "7838270767"
+    }
+  ]
+}
