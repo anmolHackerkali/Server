@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:02:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7238031714",
+  "records": [
+    {
+      "aadhar": "871531936177",
+      "address": "!0!MANAKIDEVI!!RUDRAPUR SEETALMAJHA!Deoria!!Uttar Pradesh!274204",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "VINOD",
+      "name": "MANAKIDEVI",
+      "num": "7238031714"
+    },
+    {
+      "aadhar": "871531936177",
+      "address": "!0!MANAKIDEVI!!RUDRAPUR SEETALMAJHA!Deoria!!Uttar Pradesh!274204",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "VINOD",
+      "name": "MANAKIDEVI",
+      "num": "7238031714"
+    }
+  ]
+}
