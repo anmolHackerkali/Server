@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:54:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939716757",
+  "records": [
+    {
+      "aadhar": "890825779108",
+      "address": " NA!Hajipur PO!NA!SAPUR Hajipur Hajipur!Vaishali!Vaishali!Bihar!844101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Nagina Matho ",
+      "name": " Anil Kumar ",
+      "num": "9939716757"
+    },
+    {
+      "aadhar": "890825779108",
+      "address": " NA!Hajipur PO!NA!SAPUR Hajipur Hajipur!Vaishali!Vaishali!Bihar!844101 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Nagina Matho ",
+      "name": " Anil Kumar ",
+      "num": "9939716757"
+    },
+    {
+      "aadhar": "431109632191",
+      "address": "   AMASARI-BUXAR 802119 BR   AMASARI-BUXAR BR 802119 ",
+      "alt": "9939716757",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURDARSHAN  PASWAN ",
+      "name": " MANJAY  PASWAN ",
+      "num": "7352876689"
+    },
+    {
+      "aadhar": "431109632191",
+      "address": "   AMASARI-BUXAR 802119 BR   AMASARI-BUXAR BR 802119 ",
+      "alt": "9939716757",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURDARSHAN  PASWAN ",
+      "name": " MANJAY  PASWAN ",
+      "num": "7352876689"
+    }
+  ]
+}
