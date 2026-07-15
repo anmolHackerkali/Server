@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:50:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6355417679",
+  "records": [
+    {
+      "aadhar": "993590583171",
+      "address": "Road Faliyu!Road Faliyu KALOL!KALOL!Ambala PANCH MAHALS!PANCH MAHALS!PANCH MAHALS!Gujarat!389320",
+      "alt": "8511845297",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Vikramsinh Rathod",
+      "name": "MR HITESHKUMAR RATHOD",
+      "num": "6355417679"
+    },
+    {
+      "aadhar": "993590583171",
+      "address": "Road Faliyu!Road Faliyu KALOL!KALOL!Ambala PANCH MAHALS!PANCH MAHALS!PANCH MAHALS!Gujarat!389320",
+      "alt": "8511845297",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Vikramsinh Rathod",
+      "name": "MR HITESHKUMAR RATHOD",
+      "num": "6355417679"
+    },
+    {
+      "aadhar": "993590583171",
+      "address": "Road Faliyu!Road Faliyu KALOL!KALOL!Ambala PANCH MAHALS!PANCH MAHALS!PANCH MAHALS!Gujarat!389320",
+      "alt": "8511845297",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Vikramsinh Rathod",
+      "name": "MR HITESHKUMAR RATHOD",
+      "num": "6355417679"
+    }
+  ]
+}
