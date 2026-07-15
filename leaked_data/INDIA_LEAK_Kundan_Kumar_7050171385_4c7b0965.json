@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:41:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7050171385",
+  "records": [
+    {
+      "aadhar": "488424660301",
+      "address": "!!BishrampurBishrampur!Palamu!!Palamu!Jharkhand!822132",
+      "alt": "9608765256",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kanhai Ram",
+      "name": "Kundan Kumar",
+      "num": "7050171385"
+    },
+    {
+      "aadhar": "488424660301",
+      "address": "!!BishrampurBishrampur!Palamu!!Palamu!Jharkhand!822132",
+      "alt": "9608765256",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kanhai Ram",
+      "name": "Kundan Kumar",
+      "num": "7050171385"
+    }
+  ]
+}
