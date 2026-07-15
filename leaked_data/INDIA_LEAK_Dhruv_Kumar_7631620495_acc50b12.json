@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:40:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7631620495",
+  "records": [
+    {
+      "aadhar": "299181319651",
+      "address": "S/O  Brahamdev Mandal!!vil-teliya bathan post-kolwara thana-pasraha  Kolwara!NA!vill-teliya bathan post-kolwara thana-pasraha!Kalwara Parbatta Khagaria!NA!Bihar!851216",
+      "alt": "8987034671",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Brahamdev Mandal",
+      "name": "Dhruv Kumar",
+      "num": "7631620495"
+    },
+    {
+      "aadhar": "299181319651",
+      "address": "S/O  Brahamdev Mandal!!vil-teliya bathan post-kolwara thana-pasraha Kolwara!NA!vill-teliya bathan post-kolwara thana-pasraha!Kalwara Parbatta Khagaria!NA!Bihar!851216",
+      "alt": "8987034671",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Brahamdev Mandal",
+      "name": "Dhruv Kumar",
+      "num": "7631620495"
+    },
+    {
+      "aadhar": "299181319651",
+      "address": "S/O  Brahamdev Mandal!!vil-teliya bathan post-kolwara thana-pasraha Kolwara!NA!vill-teliya bathan post-kolwara thana-pasraha!Kalwara Parbatta Khagaria!NA!Bihar!851216",
+      "alt": "8987034671",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Brahamdev Mandal",
+      "name": "Dhruv Kumar",
+      "num": "7631620495"
+    },
+    {
+      "aadhar": "835637167143",
+      "address": "! ward no 09!teliya bathan madhyapuri tola teliya bathan!kolvara!kolavara!Khagaria!Khagaria!Bihar!851212",
+      "alt": "7631620495",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "kamli mandal",
+      "name": "Suraj Mandal",
+      "num": "7667255968"
+    },
+    {
+      "aadhar": "835637167143",
+      "address": "! ward no 09!teliya bathan madhyapuri tola teliya bathan!kolvara!kolavara!Khagaria!Khagaria!Bihar!851212",
+      "alt": "7631620495",
+      "circle": "JIO BHR&JHR",
+      "email": "surajmandal54@gmail.com",
+      "fname": "kamli mandal",
+      "name": "Suraj Mandal",
+      "num": "7667255968"
+    },
+    {
+      "aadhar": "835637167143",
+      "address": "! ward no 09!teliya bathan madhyapuri tola teliya bathan!kolvara!kolavara!Khagaria!Khagaria!Bihar!851212",
+      "alt": "7631620495",
+      "circle": "JIO BHR&JHR",
+      "email": "surajmandal54@gmail.com",
+      "fname": "kamli mandal",
+      "name": "Suraj Mandal",
+      "num": "7667255968"
+    }
+  ]
+}
