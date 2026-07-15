@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:37:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6297882306",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "!!!!Champahati South 24 Parganas!West Bengal!743330",
+      "alt": "918016001204",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bibhutibhusan Naskar",
+      "name": "Dipika Mondal",
+      "num": "6297882306"
+    },
+    {
+      "aadhar": "NA",
+      "address": "!!!!Champahati South 24 Parganas!West Bengal!743330",
+      "alt": "918016001204",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Bibhutibhusan Naskar",
+      "name": "Dipika Mondal",
+      "num": "6297882306"
+    }
+  ]
+}
