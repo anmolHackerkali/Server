@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:03:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7070206081",
+  "records": [
+    {
+      "aadhar": "283410412240",
+      "address": " kuddi!kuddi!kuddi bihar!kuddi kaimur bhabua!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Islam Ansari ",
+      "name": " Ibrar Ansari ",
+      "num": "7070206081"
+    },
+    {
+      "aadhar": "283410412240",
+      "address": " kuddi!kuddi!kuddi bihar!kuddi kaimur bhabua!Kaimur Bhabua!Rohtas!Bihar!821106 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Islam Ansari ",
+      "name": " Ibrar Ansari ",
+      "num": "7070206081"
+    }
+  ]
+}
