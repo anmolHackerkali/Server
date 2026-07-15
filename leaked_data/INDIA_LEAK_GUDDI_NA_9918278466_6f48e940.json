@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:44:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918278466",
+  "records": [
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "260555287295",
+      "address": "S/O Budhiram!NANDAV AJAMGADH!DARIYAPUR BASAHI!!Nandaon Saraimeer!Sarai Mir!Azamgarh!Uttar Pradesh!276305",
+      "alt": "9918278466",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Budhiram",
+      "name": "ARVIND",
+      "num": "8115591066"
+    },
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "FGL2610517",
+      "address": "H NO 27!VILL DARIYAPURA BASAHI!PS BARDAH!AZAMGARH!UTTAR PRADESH!276001",
+      "alt": "9918278466",
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "ABBUBAKAR",
+      "name": "GUDDI NA",
+      "num": "9918278466"
+    },
+    {
+      "aadhar": "260555287295",
+      "address": "S/O Budhiram!NANDAV AJAMGADH!DARIYAPUR BASAHI!!Nandaon Saraimeer!Sarai Mir!Azamgarh!Uttar Pradesh!276305",
+      "alt": "9918278466",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Budhiram",
+      "name": "ARVIND",
+      "num": "8115591066"
+    }
+  ]
+}
