@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:19:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7654076839",
+  "records": [
+    {
+      "aadhar": "541364862549",
+      "address": "s/o  sideshwar prasad! nanouk!Bijubigha!!nanouk!biju bigha Manpur!gaya!Bihar!823003",
+      "alt": "8434812018",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sideshwar prasad",
+      "name": "Shailendra Kumar",
+      "num": "7654076839"
+    },
+    {
+      "aadhar": "541364862549",
+      "address": "s/o  sideshwar prasad! nanouk!Bijubigha!!nanouk!biju bigha Manpur!gaya!Bihar!823003",
+      "alt": "8434812018",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sideshwar prasad",
+      "name": "Shailendra Kumar",
+      "num": "7654076839"
+    },
+    {
+      "aadhar": "541364862549",
+      "address": "s/o  sideshwar prasad! nanouk!Bijubigha!!nanouk!biju bigha Manpur!gaya!Bihar!823003",
+      "alt": "8434812018",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sideshwar prasad",
+      "name": "Shailendra Kumar",
+      "num": "7654076839"
+    },
+    {
+      "aadhar": "541364862549",
+      "address": "!!nanoukBiju Bigha!Gaya!!Gaya!Bihar!823003",
+      "alt": "7654076839",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sideshwar Prasad",
+      "name": "Shailendra Kumar",
+      "num": "7480837941"
+    },
+    {
+      "aadhar": "541364862549",
+      "address": "!!nanoukBiju Bigha!Gaya!!Gaya!Bihar!823003",
+      "alt": "7654076839",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sideshwar Prasad",
+      "name": "Shailendra Kumar",
+      "num": "7480837941"
+    }
+  ]
+}
