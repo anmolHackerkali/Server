@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:57:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9880905905",
+  "records": [
+    {
+      "aadhar": "773170279001",
+      "address": "S/O Venkateshappa!!Ganjigunte!GANJIGUNTE!ganjigunte g kurubarahalli ganjigunte!ganjigunte!chikkaballapur!Karnataka!563125",
+      "alt": "8088722611",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Venkateshappa",
+      "name": "Bairareddy",
+      "num": "9880905905"
+    },
+    {
+      "aadhar": "732882960253",
+      "address": "!GANJIGUNTE g kurabarahali!Ganjigunte!tempal!Ganjigunte Chikkabalapur!Chikkaballapur!CHIKKABALLAPUR!Karnataka!563125",
+      "alt": "9880905905",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "VENKATALAKSHAMAMMA ",
+      "name": "VENKATESHAPPA ",
+      "num": "7795789620"
+    }
+  ]
+}
