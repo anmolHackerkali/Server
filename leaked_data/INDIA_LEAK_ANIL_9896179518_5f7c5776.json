@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:53:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896179518",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "HNO 836 SEC-5 VILL AHA!TEH SAMALKHA!DISTT PANIPAT HNO 836 SEC-5 VILL AHA!PANIPAT!Haryana!NA",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ASHOK KUMAR",
+      "name": "ANIL",
+      "num": "9896179518"
+    },
+    {
+      "aadhar": "NA",
+      "address": "HNO 836 SEC-5 VILL AHA TEH SAMALKHA  DISTT PANIPAT HNO 836 SEC-5 VILL AHA  PANIPAT Haryana NA",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ASHOK KUMAR",
+      "name": "ANIL",
+      "num": "9896179518"
+    }
+  ]
+}
