@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:54:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8604337329",
+  "records": [
+    {
+      "aadhar": "470599114921",
+      "address": "D/O Jagdish Pandey!412 kh!binda nagar!Temple!shuklaganj Majhara Piper Khera gair Ehatmali!Unnao!Unnao!Uttar Pradesh!209861",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jagdish Pandey",
+      "name": "Mansi Pandey",
+      "num": "8604337329"
+    },
+    {
+      "aadhar": "470599114921",
+      "address": "D/O Jagdish Pandey!412 kh!binda nagar!Temple!shuklaganj Majhara Piper Khera gair Ehatmali!Unnao!Unnao!Uttar Pradesh!209861",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jagdish Pandey",
+      "name": "Mansi Pandey",
+      "num": "8604337329"
+    }
+  ]
+}
