@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:40:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9721775204",
+  "records": [
+    {
+      "aadhar": "524179934321",
+      "address": "D/O  Devtadeen Prajapati!77!Jafarganj!!Allipur Kodra Post Tara khurd!Alepur Kodra Akbarpur!Ambedkar Nagar!Uttar Pradesh!224146",
+      "alt": "9792803180",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devtadeen Prajapati",
+      "name": "Poonam Prajapati",
+      "num": "9721775204"
+    },
+    {
+      "aadhar": "524179934321",
+      "address": "D/O  Devtadeen Prajapati!77!Jafarganj!!Allipur Kodra Post Tara khurd!Alepur Kodra Akbarpur!Ambedkar Nagar!Uttar Pradesh!224146",
+      "alt": "9792803180",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devtadeen Prajapati",
+      "name": "Poonam Prajapati",
+      "num": "9721775204"
+    },
+    {
+      "aadhar": "524179934321",
+      "address": "D/O  Devtadeen Prajapati! 77!Allipur Kodra Post Tara khurd Jafarganj!!Allipur Kodra Post Tara khurd!Alepur Kodra Akbarpur!Ambedkar Nagar!Uttar Pradesh!224146",
+      "alt": "9721775204",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devtadeen Prajapati",
+      "name": "Poonam Prajapati",
+      "num": "8299026081"
+    },
+    {
+      "aadhar": "524179934321",
+      "address": "D/O  Devtadeen Prajapati! 77!Allipur Kodra Post Tara khurd Jafarganj!!Allipur Kodra Post Tara khurd!Alepur Kodra Akbarpur!Ambedkar Nagar!Uttar Pradesh!224146",
+      "alt": "9721775204",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Devtadeen Prajapati",
+      "name": "Poonam Prajapati",
+      "num": "8299026081"
+    }
+  ]
+}
