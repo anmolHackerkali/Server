@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:03:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9801464649",
+  "records": [
+    {
+      "aadhar": "878578566179",
+      "address": "S/O Kamleshwari Prasad Roy!Sirdilpur!!Ward No-10 Patori!!Samastipur!Bihar!848504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kamleshwari Prasad Roy",
+      "name": "Mukesh  Kumar",
+      "num": "9801464649"
+    },
+    {
+      "aadhar": "878578566179",
+      "address": "S/O Kamleshwari Prasad Roy!Sirdilpur!!Ward No-10 Patori!!Samastipur!Bihar!848504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kamleshwari Prasad Roy",
+      "name": "Mukesh  Kumar",
+      "num": "9801464649"
+    }
+  ]
+}
