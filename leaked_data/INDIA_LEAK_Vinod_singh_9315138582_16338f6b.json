@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:00:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315138582",
+  "records": [
+    {
+      "aadhar": "796193975173",
+      "address": "!!House no 2 Pandit Chock!NA!Mandawali!Delhi East East!NA!Delhi!110092",
+      "alt": "8130585230",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Blulle singh",
+      "name": "Vinod singh",
+      "num": "9315138582"
+    },
+    {
+      "aadhar": "796193975173",
+      "address": "!!House no 2Pandit Chock!NA!Mandawali!Delhi EastEast!NA!Delhi!110092",
+      "alt": "8130585230",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Blulle singh",
+      "name": "Vinod singh",
+      "num": "9315138582"
+    },
+    {
+      "aadhar": "796193975173",
+      "address": "!!House no 2Pandit Chock!NA!Mandawali!Delhi EastEast!NA!Delhi!110092",
+      "alt": "8130585230",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Blulle singh",
+      "name": "Vinod singh",
+      "num": "9315138582"
+    }
+  ]
+}
