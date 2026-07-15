@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:06:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7828633010",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Pankaj Kumar Giri!!LIG- 189 WARD NO -12 OLD NAGAR PALIKA!!Huzur Bhopal!Madhya Pradesh!462046",
+      "alt": "918770070240",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Pankaj Kumar Giri",
+      "name": "Rajeev Krishna Kamal Kant Giri",
+      "num": "7828633010"
+    }
+  ]
+}
