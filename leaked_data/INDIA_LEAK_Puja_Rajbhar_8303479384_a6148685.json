@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:18:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303479384",
+  "records": [
+    {
+      "aadhar": "813231726698",
+      "address": "d/o  brijraj rajbhar! 21!piprahi!piprahi post - naisara!post Naisara!nasara!ghazipur!Uttar Pradesh!233302",
+      "alt": "8001712430",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "brijraj rajbhar",
+      "name": "Puja Rajbhar",
+      "num": "8303479384"
+    },
+    {
+      "aadhar": "813231726698",
+      "address": "d/o  brijraj rajbhar! 21!piprahi!piprahi post - naisara!post Naisara!nasara!ghazipur!Uttar Pradesh!233302",
+      "alt": "8001712430",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "brijraj rajbhar",
+      "name": "Puja Rajbhar",
+      "num": "8303479384"
+    }
+  ]
+}
