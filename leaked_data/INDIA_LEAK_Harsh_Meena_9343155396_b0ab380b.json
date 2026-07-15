@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:16:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9343155396",
+  "records": [
+    {
+      "aadhar": "486683394029",
+      "address": "s/o  santosh kumar meena!!Penchi!GRAM PECHI!gram pechi tehsil chanchoda penchi!pechi Chachaura!guna!Madhya Pradesh!473115",
+      "alt": "7987567564",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "santosh kumar meena",
+      "name": "Harsh Meena",
+      "num": "9343155396"
+    }
+  ]
+}
