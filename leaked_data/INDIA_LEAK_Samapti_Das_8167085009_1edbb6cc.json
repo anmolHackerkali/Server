@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:12:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8167085009",
+  "records": [
+    {
+      "aadhar": "937005530454",
+      "address": " D/O Ajitkumar Majumdar!!PATHAKPARA Bankura!BANKURA!pathakpara bankura!bankura!bankura!West Bengal!722101 ",
+      "alt": "9851321573",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Ajitkumar Majumdar",
+      "name": "Samapti Das",
+      "num": "8167085009"
+    },
+    {
+      "aadhar": "937005530454",
+      "address": " D/O Ajitkumar Majumdar!!PATHAKPARA Bankura!BANKURA!pathakpara bankura!bankura!bankura!West Bengal!722101 ",
+      "alt": "9851321573",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Ajitkumar Majumdar",
+      "name": "Samapti Das",
+      "num": "8167085009"
+    },
+    {
+      "aadhar": "937005530454",
+      "address": " BANKURA;PATHAKPARA ;Bankura ;Bankura;West Bengal;722101",
+      "alt": "8167085009",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": null,
+      "name": "SAMAPTI DAS  ",
+      "num": "8759954101"
+    },
+    {
+      "aadhar": "937005530454",
+      "address": " BANKURA;PATHAKPARA ;Bankura ;Bankura;West Bengal;722101",
+      "alt": "8167085009",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": null,
+      "name": "SAMAPTI DAS  ",
+      "num": "8759954101"
+    }
+  ]
+}
