@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:49:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9985831439",
+  "records": [
+    {
+      "aadhar": "WKH2783561",
+      "address": "8-1-21/50!Surya Nagar Tolichowki!!Shaikpet Hyderabad!Hyderabad!HYDERABAD!Telangana!500008",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Inayatullah Khan",
+      "name": "Shakeerullah Khan",
+      "num": "9985831439"
+    },
+    {
+      "aadhar": "FYY0903534",
+      "address": "8-1-363/87!ADITYA NAGAR COLONY!SHAIKPET!HYDERABAD!Telangana!500008",
+      "alt": "9985831439",
+      "circle": "VI TELANGANA & AP",
+      "email": null,
+      "fname": "INAYATULLAHKHAN",
+      "name": "SHAKEERULLAH KHAN",
+      "num": "9885128786"
+    }
+  ]
+}
