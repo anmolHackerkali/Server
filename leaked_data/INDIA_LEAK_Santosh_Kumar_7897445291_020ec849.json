@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:08:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7897445291",
+  "records": [
+    {
+      "aadhar": "416699326612",
+      "address": "!0!Medical College!Police Choki!Medical!Gorakhpur!Gorakhpur!Uttar Pradesh!273013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bhushan Prasad",
+      "name": "Santosh Kumar",
+      "num": "7897445291"
+    },
+    {
+      "aadhar": "416699326612",
+      "address": "!0!Medical College!Police Choki!Medical!Gorakhpur!Gorakhpur!Uttar Pradesh!273013",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Bhushan Prasad",
+      "name": "Santosh Kumar",
+      "num": "7897445291"
+    },
+    {
+      "aadhar": "794426496527",
+      "address": "D/O Rajesh Gupta!TIWARIPUR!BARGAIYA TOLA JAYNAGAR Barhaj!POST BARHAJ!WARD no.4!Barhaj Barhaj!Deoria!Uttar Pradesh!274601",
+      "alt": "7897445291",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajesh Gupta",
+      "name": "Sakshi Gupta",
+      "num": "9076830286"
+    },
+    {
+      "aadhar": "794426496527",
+      "address": "D/O Rajesh Gupta!TIWARIPUR!BARGAIYA TOLA JAYNAGAR Barhaj!POST BARHAJ!WARD no.4!Barhaj Barhaj!Deoria!Uttar Pradesh!274601",
+      "alt": "7897445291",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Rajesh Gupta",
+      "name": "Sakshi Gupta",
+      "num": "9076830286"
+    }
+  ]
+}
