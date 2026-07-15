@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:36:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798700307",
+  "records": [
+    {
+      "aadhar": "342422405077",
+      "address": "S/O Dhananjoy Ojha!!Baghmara Bazar!!VILL-KHAS JAIRAMDIH PS-BAGHMARA!Lutipahari!Dhanbad!Jharkhand!828306",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Dhananjoy Ojha",
+      "name": "Deepak Kumar Ojha",
+      "num": "9798700307"
+    },
+    {
+      "aadhar": "342422405077",
+      "address": "S/O Dhananjoy Ojha!!Baghmara Bazar!!VILL-KHAS JAIRAMDIH PS-BAGHMARA!Lutipahari!Dhanbad!Jharkhand!828306",
+      "alt": "9835158227",
+      "circle": "JIO BHR&JHR",
+      "email": "khushiojha1628@gmail.com",
+      "fname": "Dhananjoy Ojha",
+      "name": "Deepak Kumar Ojha",
+      "num": "9798700307"
+    },
+    {
+      "aadhar": "342422405077",
+      "address": "S/O Dhananjoy Ojha!!Baghmara Bazar!!VILL-KHAS JAIRAMDIH PS-BAGHMARA!Lutipahari!Dhanbad!Jharkhand!828306",
+      "alt": "9835158227",
+      "circle": "JIO BHR&JHR",
+      "email": "khushiojha1628@gmail.com",
+      "fname": "Dhananjoy Ojha",
+      "name": "Deepak Kumar Ojha",
+      "num": "9798700307"
+    },
+    {
+      "aadhar": "356403315373",
+      "address": " W/O  Jitan Sah    maheshiya ward 10  Mahesia  Sahbajpur  Riga  ARAZI MAHDEWA-SITAMARHI 843327 BR maheshiya ward 10  Mahesia  Sahbajpur  Riga  ARAZI MAHDEWA-SITAMARHI BR 843327 ",
+      "alt": "9798700307",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " JITAN  SAH ",
+      "name": " SHANTI  DEVI ",
+      "num": "7654941562"
+    },
+    {
+      "aadhar": "585699206176",
+      "address": " D/O  Dinesh Sah ward no-10 Sitamarhi  vill-mehsiyan   shahbazar  ARAZI MAHDEWA-SITAMARHI SITAMARHI 843327 BIHAR ",
+      "alt": "9798700307",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " DINESH  SAH ",
+      "name": " MANISHA  KUMARI ",
+      "num": "7371009268"
+    },
+    {
+      "aadhar": "356403315373",
+      "address": " W/O  Jitan Sah    maheshiya ward 10  Mahesia  Sahbajpur  Riga  ARAZI MAHDEWA-SITAMARHI 843327 BR maheshiya ward 10  Mahesia  Sahbajpur  Riga  ARAZI MAHDEWA-SITAMARHI BR 843327 ",
+      "alt": "9798700307",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " JITAN  SAH ",
+      "name": " SHANTI  DEVI ",
+      "num": "7654941562"
+    },
+    {
+      "aadhar": "585699206176",
+      "address": " D/O  Dinesh Sah ward no-10 Sitamarhi  vill-mehsiyan   shahbazar  ARAZI MAHDEWA-SITAMARHI SITAMARHI 843327 BIHAR ",
+      "alt": "9798700307",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " DINESH  SAH ",
+      "name": " MANISHA  KUMARI ",
+      "num": "7371009268"
+    }
+  ]
+}
