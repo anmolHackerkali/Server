@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:49:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9380234304",
+  "records": [
+    {
+      "aadhar": "769898925807",
+      "address": "S/O Mabu Sab!house no 115!ward no 15  Indira Nagar!near guest house!Bellary Bellary!Ballari!Bellary!Karnataka!583101",
+      "alt": "9380234304",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Mabu Sab",
+      "name": "Jafar Sadik",
+      "num": "9380234304"
+    },
+    {
+      "aadhar": "769898925807",
+      "address": "S/O Mabu Sab!house no 115!ward no 15  Indira Nagar!near guest house!Bellary Bellary!Ballari!Bellary!Karnataka!583101",
+      "alt": "9380234304",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Mabu Sab",
+      "name": "Jafar Sadik",
+      "num": "9380234304"
+    }
+  ]
+}
