@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:40:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9980714624",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Y Prasad 13/36/47  hutti village  Medinapur near sharanabasaveshwar schooll Hutti  Lingasagur Raichur Karnataka 584115",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Y  Prasad",
+      "name": "Rashmi Y P",
+      "num": "9980714624"
+    }
+  ]
+}
