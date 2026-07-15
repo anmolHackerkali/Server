@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:22:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8130424694",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!247 gali no 3!new mustafabad!Delhi East North East!Delhi!110094",
+      "alt": "918287289929",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahrooddin",
+      "name": "Tabrej Alam",
+      "num": "8130424694"
+    },
+    {
+      "aadhar": null,
+      "address": "!!247gali no 3!new mustafabad!Delhi EastNorth East!Delhi!110094",
+      "alt": "918287289929",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahrooddin",
+      "name": "Tabrej Alam",
+      "num": "8130424694"
+    },
+    {
+      "aadhar": null,
+      "address": "!!247gali no 3!new mustafabad!Delhi EastNorth East!Delhi!110094",
+      "alt": "918287289929",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Jahrooddin",
+      "name": "Tabrej Alam",
+      "num": "8130424694"
+    }
+  ]
+}
