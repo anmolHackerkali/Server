@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:20:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9450509342",
+  "records": [
+    {
+      "aadhar": "229462129398",
+      "address": "W/O  Jitendra Kumar!23d/9e!ganga nagar Phaphamau!purana phaphamau!!Bahmalpur Soraon!Allahabad!Uttar Pradesh!211013",
+      "alt": "9450509342",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jitendra Kumar",
+      "name": "Dipiti Porwal",
+      "num": "9305531979"
+    },
+    {
+      "aadhar": "229462129398",
+      "address": "W/O  Jitendra Kumar!23d/9e!ganga nagar Phaphamau!purana phaphamau!!Bahmalpur Soraon!Allahabad!Uttar Pradesh!211013",
+      "alt": "9450509342",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jitendra Kumar",
+      "name": "Dipiti Porwal",
+      "num": "9305531979"
+    }
+  ]
+}
