@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:59:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9899135636",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "443 ! BICHLA PANNA MITRON VILL ! DELHI ! DELHI ! DELHI ! 110043",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DEVKINANDAN",
+      "name": "RAKESH .",
+      "num": "9899135636"
+    },
+    {
+      "aadhar": null,
+      "address": "443 ! BICHLA PANNA MITRON VILL ! DELHI ! DELHI ! DELHI ! 110043",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DEVKINANDAN",
+      "name": "RAKESH ",
+      "num": "9899135636"
+    },
+    {
+      "aadhar": null,
+      "address": "443 ! BICHLA PANNA MITRON VILL ! DELHI ! DELHI ! DELHI ! 110043",
+      "alt": null,
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "DEVKINANDAN",
+      "name": "RAKESH ",
+      "num": "9899135636"
+    }
+  ]
+}
