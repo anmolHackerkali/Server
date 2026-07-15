@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:52:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920191726",
+  "records": [
+    {
+      "aadhar": "692832980870",
+      "address": "D/O  Rambali!!209 Gali.No-8 Vijai Nagar!Ambedkar Nagar!Ghaziabad Ghaziabad Ghaziabad!Uttar Pradesh!201009",
+      "alt": "919958339084",
+      "circle": "JIO DELHI",
+      "email": "pratibhayadav9958339084@gmail.com",
+      "fname": "Rambali",
+      "name": "Pratibha",
+      "num": "8920191726"
+    },
+    {
+      "aadhar": "692832980870",
+      "address": "D/O  Rambali!!209GaliNo-8Vijai Nagar!Ambedkar Nagar!GhaziabadGhaziabadGhaziabad!Uttar Pradesh!201009",
+      "alt": "919958339084",
+      "circle": "JIO DELHI",
+      "email": "pratibhayadav9958339084@gmail.com",
+      "fname": "Rambali",
+      "name": "Pratibha",
+      "num": "8920191726"
+    },
+    {
+      "aadhar": "692832980870",
+      "address": "D/O  Rambali!!209GaliNo-8Vijai Nagar!Ambedkar Nagar!GhaziabadGhaziabadGhaziabad!Uttar Pradesh!201009",
+      "alt": "919958339084",
+      "circle": "JIO DELHI",
+      "email": "pratibhayadav9958339084@gmail.com",
+      "fname": "Rambali",
+      "name": "Pratibha",
+      "num": "8920191726"
+    },
+    {
+      "aadhar": "655977500576",
+      "address": "!hn no 120!Gali no 9!rathi meel!Vijay nagar!Ghaziabad!Ghaziabad!Uttar Pradesh!201009",
+      "alt": "8920191726",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "chamri rajk",
+      "name": "Jayagovinda Rajak",
+      "num": "7982983015"
+    },
+    {
+      "aadhar": "655977500576",
+      "address": "!hn no 120!Gali no 9!rathi meel!Vijay nagar!Ghaziabad!Ghaziabad!Uttar Pradesh!201009",
+      "alt": "8920191726",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "chamri rajk",
+      "name": "Jayagovinda Rajak",
+      "num": "7982983015"
+    }
+  ]
+}
