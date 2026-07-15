@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:04:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8382048748",
+  "records": [
+    {
+      "aadhar": "816259320517",
+      "address": "!3/2!chak babura naini allahabad!alimabad shaji ka pura!naini!Allahabad!Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "nanhu tiwari",
+      "name": "rajkumar tiwari",
+      "num": "8382048748"
+    },
+    {
+      "aadhar": "816259320517",
+      "address": "!3/2!chak babura naini allahabad!alimabad shaji ka pura!naini!Allahabad!Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "nanhu tiwari",
+      "name": "rajkumar tiwari",
+      "num": "8382048748"
+    }
+  ]
+}
