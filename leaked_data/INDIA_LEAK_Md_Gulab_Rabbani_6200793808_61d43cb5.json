@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:53:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200793808",
+  "records": [
+    {
+      "aadhar": "902088431548",
+      "address": "S/O  Md Sabumohammad!! Bhagwatpur!nauachak!Bhagwatpur Sarairanjan Samastipur!Bihar!848127",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Sabumohammad",
+      "name": "Md Gulab Rabbani",
+      "num": "6200793808"
+    },
+    {
+      "aadhar": "902088431548",
+      "address": "S/O  Md Sabumohammad!! Bhagwatpur!nauachak!Bhagwatpur Sarairanjan Samastipur!Bihar!848127",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Sabumohammad",
+      "name": "Md Gulab Rabbani",
+      "num": "6200793808"
+    },
+    {
+      "aadhar": "902088431548",
+      "address": "S/O  Md Sabumohammad!! Bhagwatpur!nauachak!Bhagwatpur Sarairanjan Samastipur!Bihar!848127",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Sabumohammad",
+      "name": "Md Gulab Rabbani",
+      "num": "6200793808"
+    }
+  ]
+}
