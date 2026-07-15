@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:38:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9724005817",
+  "records": [
+    {
+      "aadhar": "748077248123",
+      "address": "near old bus stand 122/7 main road  vyara Surat Vyara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Tailor Amit",
+      "name": "Dimple Amit Tailor",
+      "num": "9724005817"
+    },
+    {
+      "aadhar": "748077248123",
+      "address": "near old bus stand 122/7 main road  vyara Surat Vyara",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Tailor Amit",
+      "name": "Dimple Amit Tailor",
+      "num": "9724005817"
+    }
+  ]
+}
