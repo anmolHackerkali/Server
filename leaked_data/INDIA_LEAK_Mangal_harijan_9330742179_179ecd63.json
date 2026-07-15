@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:07:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9330742179",
+  "records": [
+    {
+      "aadhar": "352573429419",
+      "address": " ! 48!strand bank road!!posta bazaar!Calcutta!Kolkata!West Bengal!700007 ",
+      "alt": "7439792982",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Dholi harijan",
+      "name": "Mangal harijan",
+      "num": "9330742179"
+    },
+    {
+      "aadhar": "352573429419",
+      "address": " ! 48!strand bank road!!posta bazaar!Calcutta!Kolkata!West Bengal!700007 ",
+      "alt": "7439792982",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Dholi harijan",
+      "name": "Mangal harijan",
+      "num": "9330742179"
+    }
+  ]
+}
