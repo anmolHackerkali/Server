@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:17:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9305559023",
+  "records": [
+    {
+      "aadhar": "503507428936",
+      "address": "S/O  Vinod Kumar!!202  Girdharpur!NA!Seelhapur!Kunverpur Lachchha Misrikh Sitapur!NA!Uttar Pradesh!261141",
+      "alt": "7518755375",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vinod Kumar",
+      "name": "Hari Babu Mishra",
+      "num": "9305559023"
+    },
+    {
+      "aadhar": "503507428936",
+      "address": "S/O  Vinod Kumar!!202  Girdharpur!NA!Seelhapur!Kunverpur Lachchha Misrikh Sitapur!NA!Uttar Pradesh!261141",
+      "alt": "7518755375",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vinod Kumar",
+      "name": "Hari Babu Mishra",
+      "num": "9305559023"
+    },
+    {
+      "aadhar": "503507428936",
+      "address": "S/O  Vinod Kumar! 202!Girdharpur!!Seelhapur!Kunverpur Lachchha Misrikh!Sitapur!Uttar Pradesh!261141",
+      "alt": "9305559023",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vinod Kumar",
+      "name": "Hari Babu Mishra",
+      "num": "6394634732"
+    },
+    {
+      "aadhar": "503507428936",
+      "address": "S/O  Vinod Kumar! 202!Girdharpur!!Seelhapur!Kunverpur Lachchha Misrikh!Sitapur!Uttar Pradesh!261141",
+      "alt": "9305559023",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vinod Kumar",
+      "name": "Hari Babu Mishra",
+      "num": "6394634732"
+    }
+  ]
+}
