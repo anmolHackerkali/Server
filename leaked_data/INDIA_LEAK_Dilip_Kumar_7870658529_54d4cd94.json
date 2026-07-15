@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:01:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7870658529",
+  "records": [
+    {
+      "aadhar": "796689490030",
+      "address": "!!MasaurhaGramJalpura!Patna!!Patna!Bihar!801110",
+      "alt": "9546935649",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "bankey shah",
+      "name": "Dilip Kumar",
+      "num": "7870658529"
+    },
+    {
+      "aadhar": "796689490030",
+      "address": "!!MasaurhaGramJalpura!Patna!!Patna!Bihar!801110",
+      "alt": "9546935649",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "bankey shah",
+      "name": "Dilip Kumar",
+      "num": "7870658529"
+    }
+  ]
+}
