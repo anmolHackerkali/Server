@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:05:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905729565",
+  "records": [
+    {
+      "aadhar": "513626141854",
+      "address": "W/O: Maharudra Singh!!muradganj teachers colony near durga mandir!post- muradganj!Hussenabad Jaunpur!Uttar Pradesh!222002",
+      "alt": "919565227337",
+      "circle": "JIO UPE",
+      "email": "psparmar17190@gmail.com",
+      "fname": "Maharudra Singh",
+      "name": "Sameeksha Singh",
+      "num": "7905729565"
+    },
+    {
+      "aadhar": "513626141854",
+      "address": "W/O: Maharudra Singh!!muradganj teachers colony near durga mandir!post- muradganj!Hussenabad Jaunpur!Uttar Pradesh!222002",
+      "alt": "919565227337",
+      "circle": "JIO UPE",
+      "email": "psparmar17190@gmail.com",
+      "fname": "Maharudra Singh",
+      "name": "Sameeksha Singh",
+      "num": "7905729565"
+    },
+    {
+      "aadhar": "587029968770",
+      "address": "S/O  Ashok Kumar Singh! Ashok Kumar Singh!Baksha road!!bhivaraha Baksha Jaunpur!Buxa!Jaunpur!Uttar Pradesh!222108",
+      "alt": "7905729565",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ashok Kumar Singh",
+      "name": "Prashant Singh",
+      "num": "9653048556"
+    },
+    {
+      "aadhar": "587029968770",
+      "address": "S/O  Ashok Kumar Singh! Ashok Kumar Singh!Baksha road!!bhivaraha Baksha Jaunpur!Buxa!Jaunpur!Uttar Pradesh!222108",
+      "alt": "7905729565",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ashok Kumar Singh",
+      "name": "Prashant Singh",
+      "num": "9653048556"
+    }
+  ]
+}
