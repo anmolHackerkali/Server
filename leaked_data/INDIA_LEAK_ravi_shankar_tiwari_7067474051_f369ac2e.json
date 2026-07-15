@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:45:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7067474051",
+  "records": [
+    {
+      "aadhar": "691105918666",
+      "address": "!housh no jm 20 ward no 14!mandideep housing bord colony satlapur ward no 14!NA!abedhullaganj!Huzur mandideep BHOPAL!NA!Madhya Pradesh!462046",
+      "alt": "9009278186",
+      "circle": "JIO MP",
+      "email": "dubeyrajkamal307@gmail.com",
+      "fname": "ramsushil tiwari",
+      "name": "ravi shankar tiwari",
+      "num": "7067474051"
+    },
+    {
+      "aadhar": "929905723046",
+      "address": "Rajaram Prajapati!karsualal malga!churwahi karsualal malga mata madir!mata madir!singrauli SIDHI!SIDHI!SIDHI!Madhya Pradesh!486886",
+      "alt": "7067474051",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Rajaram Prajapati",
+      "name": "MR DINESH KUMAR PRAJAPATI",
+      "num": "8357032510"
+    }
+  ]
+}
