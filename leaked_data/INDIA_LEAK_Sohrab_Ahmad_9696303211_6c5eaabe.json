@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:47:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9696303211",
+  "records": [
+    {
+      "aadhar": "538160668239",
+      "address": "S/O Shakeel Ahmad!MOHALLA PURA RANI!POST MUBARAKPUR!!Mubarakpur Mubarak Pur!Azamgarh!Azamgarh!Uttar Pradesh!276404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shakeel Ahmad",
+      "name": "Sohrab Ahmad",
+      "num": "9696303211"
+    },
+    {
+      "aadhar": "538160668239",
+      "address": "S/O Shakeel Ahmad!MOHALLA PURA RANI!POST MUBARAKPUR!!Mubarakpur Mubarak Pur!Azamgarh!Azamgarh!Uttar Pradesh!276404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shakeel Ahmad",
+      "name": "Sohrab Ahmad",
+      "num": "9696303211"
+    }
+  ]
+}
