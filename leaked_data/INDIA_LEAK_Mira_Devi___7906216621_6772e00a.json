@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:48:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906216621",
+  "records": [
+    {
+      "aadhar": "280988170648",
+      "address": "w/o  ramnaresh!!Tundla!post salempur!nagla ajab tundlz tundla!tundlaTundla!firozabad!Uttar Pradesh!283204",
+      "alt": "8267920912",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ramnaresh",
+      "name": "Mira Devi  ",
+      "num": "7906216621"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ramnaresh!!post salempur!nagla ajab!Tundla Firozabad!Uttar Pradesh!283204",
+      "alt": "919760716817",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramnaresh",
+      "name": "Mira Devi",
+      "num": "7906216621"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Ramnaresh!!post salempur!nagla ajab!Tundla Firozabad!Uttar Pradesh!283204",
+      "alt": "919760716817",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ramnaresh",
+      "name": "Mira Devi",
+      "num": "7906216621"
+    },
+    {
+      "aadhar": "280988170648",
+      "address": "!!village Nagla ajab salempur!salempur!tundla!Tundla!Firozabad!Uttar Pradesh!283204",
+      "alt": "7906216621",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rammaresh",
+      "name": "Mira Devi",
+      "num": "8439600239"
+    },
+    {
+      "aadhar": "280988170648",
+      "address": "!!village Nagla ajab salempur!salempur!tundla!Tundla!Firozabad!Uttar Pradesh!283204",
+      "alt": "7906216621",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Rammaresh",
+      "name": "Mira Devi",
+      "num": "8439600239"
+    }
+  ]
+}
