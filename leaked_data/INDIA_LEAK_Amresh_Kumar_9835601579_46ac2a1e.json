@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:42:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9835601579",
+  "records": [
+    {
+      "aadhar": "791472619449",
+      "address": "!DIH!Barbigha Barbigha!Sheikhpura!Bihar!811101",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Late Shivnandan Prasad",
+      "name": "Amresh Kumar",
+      "num": "9835601579"
+    },
+    {
+      "aadhar": "791472619449",
+      "address": "    DIH Barbigha Barbigha Sheikhpura Bihar 811101 ",
+      "alt": "8210721155",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Late Shivnandan Prasad ",
+      "name": " Amresh Kumar . . ",
+      "num": "9835601579"
+    },
+    {
+      "aadhar": "791472619449",
+      "address": "    DIH Barbigha Barbigha Sheikhpura Bihar 811101 ",
+      "alt": "8210721155",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S/O: Late Shivnandan Prasad ",
+      "name": " Amresh Kumar . . ",
+      "num": "9835601579"
+    }
+  ]
+}
