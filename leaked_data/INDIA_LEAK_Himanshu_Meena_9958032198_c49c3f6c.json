@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:18:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958032198",
+  "records": [
+    {
+      "aadhar": "Zxd2457710",
+      "address": "719 Block-c Sangam Vihar Sangam Vihar   Delhi Delhi 110062! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kanahaya Lal",
+      "name": "Himanshu Meena",
+      "num": "9958032198"
+    },
+    {
+      "aadhar": "Zxd2457710",
+      "address": "!719 Block-c Sangam Vihar Sangam Vihar   Delhi Delhi 110062!!!!!!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kanahaya Lal",
+      "name": "Himanshu Meena",
+      "num": "9958032198"
+    },
+    {
+      "aadhar": "Zxd2457710",
+      "address": "719 Blockc Sangam Vihar Sangam Vihar   Delhi Delhi 110062! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kanahaya Lal",
+      "name": "Himanshu Meena",
+      "num": "9958032198"
+    },
+    {
+      "aadhar": "Zxd2457710",
+      "address": "719 Blockc Sangam Vihar Sangam Vihar   Delhi Delhi 110062! ! !!!",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Kanahaya Lal",
+      "name": "Himanshu Meena",
+      "num": "9958032198"
+    },
+    {
+      "aadhar": "861230366485",
+      "address": "!719 Block-C Sangam Vihar Pushpa Bhawan - South Delhi Delhi Delhi 110062!!!!!!!",
+      "alt": "9958032198",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kanhaya Lal",
+      "name": "Jaiveer Meena",
+      "num": "9818584056"
+    },
+    {
+      "aadhar": "861230366485",
+      "address": "!719 Block-C Sangam Vihar Pushpa Bhawan - South Delhi Delhi Delhi 110062!!!!!!!",
+      "alt": "9958032198",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kanhaya Lal",
+      "name": "Jaiveer Meena",
+      "num": "9818584056"
+    },
+    {
+      "aadhar": "861230366485",
+      "address": "!719 Block-C Sangam Vihar Pushpa Bhawan - South Delhi Delhi Delhi 110062!!!!!!!",
+      "alt": "9958032198",
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kanhaya Lal",
+      "name": "Jaiveer Meena",
+      "num": "9818584056"
+    }
+  ]
+}
