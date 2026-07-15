@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:42:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8368175781",
+  "records": [
+    {
+      "aadhar": "228015660041",
+      "address": "S/O Raj Pal Singh!!55 BMK!GIRI NAGAR KALKAJI!NEW DELHI South Delhi!Delhi!110019",
+      "alt": "919871355568",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Pal Singh",
+      "name": "Rajnish Kumar",
+      "num": "8368175781"
+    },
+    {
+      "aadhar": "228015660041",
+      "address": "S/O Raj Pal Singh!!55 BMK!GIRI NAGAR KALKAJI!NEW DELHISouth Delhi!Delhi!110019",
+      "alt": "919871355568",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Pal Singh",
+      "name": "Rajnish Kumar",
+      "num": "8368175781"
+    },
+    {
+      "aadhar": "228015660041",
+      "address": "S/O Raj Pal Singh!!55 BMK!GIRI NAGAR KALKAJI!NEW DELHISouth Delhi!Delhi!110019",
+      "alt": "919871355568",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Raj Pal Singh",
+      "name": "Rajnish Kumar",
+      "num": "8368175781"
+    }
+  ]
+}
