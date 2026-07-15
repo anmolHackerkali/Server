@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:47:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9415546328",
+  "records": [
+    {
+      "aadhar": "629462460153",
+      "address": " !140  VINAY NAGAR!INDRALOK  KRISHNA NAGAR!Amausi !KRISHNA NAGAR-LUCKNO!UP!226008",
+      "alt": "9415546328",
+      "circle": null,
+      "email": null,
+      "fname": "RAVI PRATAP Pratap SINGH",
+      "name": "SAURABH  SIMGH",
+      "num": "8808242632"
+    },
+    {
+      "aadhar": "629462460153",
+      "address": " !140  VINAY NAGAR!INDRALOK  KRISHNA NAGAR!Amausi !KRISHNA NAGAR-LUCKNO!UP!226008",
+      "alt": "9415546328",
+      "circle": null,
+      "email": null,
+      "fname": "RAVI PRATAP Pratap SINGH",
+      "name": "SAURABH  SIMGH",
+      "num": "8808242632"
+    }
+  ]
+}
