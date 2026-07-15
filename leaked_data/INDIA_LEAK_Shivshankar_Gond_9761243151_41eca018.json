@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9761243151",
+  "records": [
+    {
+      "aadhar": "968812578710",
+      "address": "S/O  Kashi Gond!village dhanauti ray post pipra!ramdhar!!!Salempur!Deoria!Uttar Pradesh!274509",
+      "alt": "7830063119",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kashi Gond",
+      "name": "Shivshankar Gond",
+      "num": "9761243151"
+    },
+    {
+      "aadhar": "968812578710",
+      "address": "S/O  Kashi Gond! village dhanauti ray post pipra!ramdhar!!!Salempur!Deoria!Uttar Pradesh!274509",
+      "alt": "7830063119",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kashi Gond",
+      "name": "Shivshankar Gond",
+      "num": "9761243151"
+    },
+    {
+      "aadhar": "968812578710",
+      "address": "S/O  Kashi Gond! village dhanauti ray post pipra!ramdhar!!!Salempur!Deoria!Uttar Pradesh!274509",
+      "alt": "7830063119",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kashi Gond",
+      "name": "Shivshankar Gond",
+      "num": "9761243151"
+    },
+    {
+      "aadhar": "968812578710",
+      "address": "S/O  Kashi Gond!!pipraSalaempur!!VILLAGE DHANAUTI RAY  POST PIPRA RAMDHAR!SalempurSalempur!Deoria!Uttar Pradesh!274509",
+      "alt": "9761243151",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kashi Gond",
+      "name": "Shivshankar Gond",
+      "num": "7819816751"
+    },
+    {
+      "aadhar": "968812578710",
+      "address": "S/O: Kashi Gond VILLAGE DHANAUTI RAY  POST PIPRA RAMDHAR Salaempur  Salempur  SALEMPUR-DEORIA UP 274509",
+      "alt": "9761243151",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Kashi Gond",
+      "name": "SHIVSHANKAR GOND",
+      "num": "9837791231"
+    },
+    {
+      "aadhar": "968812578710",
+      "address": "S/O: Kashi Gond VILLAGE DHANAUTI RAY  POST PIPRA RAMDHAR Salaempur  Salempur  SALEMPUR-DEORIA UP 274509",
+      "alt": "9761243151",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Kashi Gond",
+      "name": "SHIVSHANKAR GOND",
+      "num": "9837791231"
+    }
+  ]
+}
