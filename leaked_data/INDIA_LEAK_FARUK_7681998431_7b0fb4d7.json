@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:36:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7681998431",
+  "records": [
+    {
+      "aadhar": "526114839886",
+      "address": "NA!HNO 5!ADAMWAL!NEAR HDFC VANK!HOSHIARPUR!HOSHIARPUR!HOSHIARPUR!PUNJAB!146001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SAIJADE",
+      "name": "FARUK",
+      "num": "7681998431"
+    },
+    {
+      "aadhar": "526114839886",
+      "address": "NA!HNO 5!ADAMWAL!NEAR HDFC VANK!HOSHIARPUR!HOSHIARPUR!HOSHIARPUR!PUNJAB!146001",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "SAIJADE",
+      "name": "FARUK",
+      "num": "7681998431"
+    },
+    {
+      "aadhar": "967649576381",
+      "address": "S/O NATTHU ALI!UTAMA!budaun!!gulariaBUDAUN!BADAUN!UTTAR PRADESH!243601",
+      "alt": "7681998431",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Natthu Ali",
+      "name": "MR. ISALAMANAVI NO",
+      "num": "9839604649"
+    },
+    {
+      "aadhar": "967649576381",
+      "address": "S/O NATTHU ALI!UTAMA!budaun!!gularia BUDAUN!BADAUN!UTTAR PRADESH!243601",
+      "alt": "7681998431",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Natthu Ali",
+      "name": "MR ISALAMANAVI NO",
+      "num": "9839604649"
+    },
+    {
+      "aadhar": "967649576381",
+      "address": "S/O NATTHU ALI!UTAMA!budaun!!gularia BUDAUN!BADAUN!UTTAR PRADESH!243601",
+      "alt": "7681998431",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Natthu Ali",
+      "name": "MR ISALAMANAVI NO",
+      "num": "9839604649"
+    }
+  ]
+}
