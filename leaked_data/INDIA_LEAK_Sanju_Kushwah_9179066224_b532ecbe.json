@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:52:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9179066224",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Kamlesh Kushwah!.!.!Gram - Aamkheda Post Muradpur Guna!!GUNA!Guna!Madhya Pradesh!473110",
+      "alt": "6263262217",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Kamlesh Kushwah",
+      "name": "Sanju Kushwah",
+      "num": "9179066224"
+    }
+  ]
+}
