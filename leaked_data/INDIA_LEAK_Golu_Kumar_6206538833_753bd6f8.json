@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:41:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206538833",
+  "records": [
+    {
+      "aadhar": "615100419485",
+      "address": "s/o  prabhu sahni!!!!akhtiyarpur marwan!pakari pakohi Marwan!muzaffarpur!Bihar!843113",
+      "alt": "7562855220",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "prabhu sahni",
+      "name": "Golu Kumar",
+      "num": "6206538833"
+    },
+    {
+      "aadhar": "615100419485",
+      "address": "s/o  prabhu sahni!!!!akhtiyarpur marwan!pakari pakohi Marwan!muzaffarpur!Bihar!843113",
+      "alt": "7562855220",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "prabhu sahni",
+      "name": "Golu Kumar",
+      "num": "6206538833"
+    },
+    {
+      "aadhar": "615100419485",
+      "address": "s/o  prabhu sahni!!!!akhtiyarpur marwan!pakari pakohi Marwan!muzaffarpur!Bihar!843113",
+      "alt": "7562855220",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "prabhu sahni",
+      "name": "Golu Kumar",
+      "num": "6206538833"
+    }
+  ]
+}
