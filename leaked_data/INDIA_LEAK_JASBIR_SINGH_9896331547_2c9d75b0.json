@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:15:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896331547",
+  "records": [
+    {
+      "aadhar": "4626998",
+      "address": "H NO 253 DEVIDASSPURA KURUKSHETRA NA KURUKSHETRA Haryana 136118",
+      "alt": "NA",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "SHAMSHERSINGH",
+      "name": "JASBIR SINGH",
+      "num": "9896331547"
+    }
+  ]
+}
