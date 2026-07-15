@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:13:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9709442931",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8844",
+      "address": "S/O  Parameswar Mahato!!Rangatanr or Bidyadhangaapur!NA!!Rangatanr or Bidyadhangrapur East Singhbhum!NA!Jharkhand!832105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Parameswar Mahato",
+      "name": "Swapan Kumar Mahato",
+      "num": "9709442931"
+    },
+    {
+      "aadhar": "xxxxxxxx8844",
+      "address": "S/O  Parameswar Mahato!!Rangatanr or Bidyadhangaapur!NA!!Rangatanr or Bidyadhangrapur East Singhbhum!NA!Jharkhand!832105",
+      "alt": "9631990486",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Parameswar Mahato",
+      "name": "Swapan Kumar Mahato",
+      "num": "9709442931"
+    },
+    {
+      "aadhar": "xxxxxxxx8844",
+      "address": "S/O  Parameswar Mahato!!Rangatanr or Bidyadhangaapur!NA!!Rangatanr or Bidyadhangrapur East Singhbhum!NA!Jharkhand!832105",
+      "alt": "9631990486",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Parameswar Mahato",
+      "name": "Swapan Kumar Mahato",
+      "num": "9709442931"
+    }
+  ]
+}
