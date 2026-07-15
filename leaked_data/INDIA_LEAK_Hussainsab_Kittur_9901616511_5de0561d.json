@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:24:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9901616511",
+  "records": [
+    {
+      "aadhar": "634806067188",
+      "address": "s/o  jafar! 67!gokul road Hubli Udyamnagar!near masjid!ramalingeshwar nagar gokul!hubli udyamnagar Hubli!dharwad!Karnataka!580030",
+      "alt": "9113080820",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "jafar",
+      "name": "Hussainsab Kittur",
+      "num": "9901616511"
+    },
+    {
+      "aadhar": "384486922759",
+      "address": "W/O Mahmmedkhan!Ramalingeshwar Nagar!Gokul Road!!Hubli Hubli Udyamnagar!Dharwad!Dharwad!Karnataka!580030",
+      "alt": "9901616511",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Mahmmedkhan ",
+      "name": "Noorazan Bagewadi",
+      "num": "9591425655"
+    },
+    {
+      "aadhar": "634806067188",
+      "address": "S/O Jafar!67 Gokul Road!Near Masjid!!Ramalingeshwar Nagar Gokul Hubli Udyamnagar!Dharwad!Dharwad!Karnataka!580030",
+      "alt": "9901616511",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Jafar ",
+      "name": "Hussainsab Kittur",
+      "num": "8951277361"
+    },
+    {
+      "aadhar": "988690138704",
+      "address": "W/O Jafar!W/O Jafar  83!Gokul Road!Hubli Udyamnagar Ramalingeshwara Nagar Near Majid!HUBLI-DHARWAD!KA!580030",
+      "alt": "9901616511",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "JAFAR ",
+      "name": "NASEEMA KITTUR",
+      "num": "8494896090"
+    }
+  ]
+}
