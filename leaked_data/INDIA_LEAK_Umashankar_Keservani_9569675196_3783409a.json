@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:37:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569675196",
+  "records": [
+    {
+      "aadhar": "403956226315",
+      "address": "S/O Chirauji! Karma!Karma Bajar karma allahabad karchhana!!Karchhana!Karma!Allahabad!Uttar Pradesh!212301",
+      "alt": "8127653066",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chirauji",
+      "name": "Umashankar Keservani",
+      "num": "9569675196"
+    },
+    {
+      "aadhar": "403956226315",
+      "address": "S/O Chirauji! Karma!Karma Bajar karma allahabad karchhana!!Karchhana!Karma!Allahabad!Uttar Pradesh!212301",
+      "alt": "8127653066",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chirauji",
+      "name": "Umashankar Keservani",
+      "num": "9569675196"
+    }
+  ]
+}
