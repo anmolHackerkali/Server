@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:40:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8881923685",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Farmane Elahi!A 38/66 A F!. KONIYA!VARANASI Varanasi!KONIYA!Varanasi!UTTAR PRADESH!221001",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Farmane Elahi",
+      "name": "Arslan ",
+      "num": "8881923685"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Farmane Elahi!A 38/66 A F!. KONIYA!VARANASI Varanasi!KONIYA!Varanasi!UTTAR PRADESH!221001",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Farmane Elahi",
+      "name": "Arslan ",
+      "num": "8881923685"
+    }
+  ]
+}
