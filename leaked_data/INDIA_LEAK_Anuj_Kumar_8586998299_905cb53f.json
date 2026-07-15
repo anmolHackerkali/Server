@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:50:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8586998299",
+  "records": [
+    {
+      "aadhar": "792207043358",
+      "address": "Shital Parsad!HOUSE N0-2087/25 AB!PREM NAGAR  GALI N0-21 City/District  Central Delhi State Delhi! !CENTRAL DELHI!Delhi!110008",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shital Parsad",
+      "name": "Anuj Kumar",
+      "num": "8586998299"
+    },
+    {
+      "aadhar": "792207043358",
+      "address": "Shital Parsad!HOUSE N0-2087/25 AB!PREM NAGAR GALI N0-21 City/District: Central Delhi State Delhi!!CENTRAL DELHI!Delhi!110008",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shital Parsad",
+      "name": "AnujKumar",
+      "num": "8586998299"
+    },
+    {
+      "aadhar": "792207043358",
+      "address": "Shital Parsad!HOUSE N0-2087/25 AB!PREM NAGAR GALI N0-21 City/District: Central Delhi State Delhi!!CENTRAL DELHI!Delhi!110008",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shital Parsad",
+      "name": "AnujKumar",
+      "num": "8586998299"
+    }
+  ]
+}
