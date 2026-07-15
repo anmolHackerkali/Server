@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:19:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8882292433",
+  "records": [
+    {
+      "aadhar": "472403576696",
+      "address": "!!plot no 20 kh no 144.14 block zgali no 17!NA!swaroop nagar libas pur!Delhi NorthNorth West!NA!Delhi!110042",
+      "alt": "9759980192",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sohan veer",
+      "name": "babita  ",
+      "num": "8882292433"
+    },
+    {
+      "aadhar": "472403576696",
+      "address": "!!plot no 20 kh no 14414 block zgali no 17!NA!swaroop nagar libas pur!Delhi NorthNorth West!NA!Delhi!110042",
+      "alt": "9759980192",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sohan veer",
+      "name": "babita  ",
+      "num": "8882292433"
+    },
+    {
+      "aadhar": "206484777447",
+      "address": "!09!fool sunga!gangaour road!rudrapur!Udham Singh Nagar!NAINITAL!Uttarakhand!263153",
+      "alt": "7303811848",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "sohan veer",
+      "name": "Akshay",
+      "num": "8882292433"
+    },
+    {
+      "aadhar": "472403576696",
+      "address": "!!plot no 20 kh no 14414 block zgali no 17!NA!swaroop nagar libas pur!Delhi NorthNorth West!NA!Delhi!110042",
+      "alt": "9759980192",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "sohan veer",
+      "name": "babita  ",
+      "num": "8882292433"
+    },
+    {
+      "aadhar": "206484777447",
+      "address": "!09!fool sunga!gangaour road!rudrapur!Udham Singh Nagar!NAINITAL!Uttarakhand!263153",
+      "alt": "7303811848",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "sohan veer",
+      "name": "Akshay",
+      "num": "8882292433"
+    }
+  ]
+}
