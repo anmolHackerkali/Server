@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:21:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8579949433",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 38 JAGADARA TOWN/VILL JAGADARA ANCHAL BUXAR BUXAR   BUXAR-BUXAR 802118 BR      ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": null,
+      "name": " BALESARA  DEVI ",
+      "num": "8579949433"
+    },
+    {
+      "aadhar": null,
+      "address": " 38 JAGADARA TOWN/VILL JAGADARA ANCHAL BUXAR BUXAR   BUXAR-BUXAR 802118 BR      ",
+      "alt": null,
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": null,
+      "name": " BALESARA  DEVI ",
+      "num": "8579949433"
+    }
+  ]
+}
