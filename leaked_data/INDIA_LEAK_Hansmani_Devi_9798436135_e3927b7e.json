@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:24:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798436135",
+  "records": [
+    {
+      "aadhar": "291641434380",
+      "address": "W/O  Prem Paswan!!mohamdpur  PO-farda PO-farda Munger!NA!!Munger Bariarpur Munger!NA!Bihar!811201",
+      "alt": "9608898594",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Prem Paswan",
+      "name": "Hansmani Devi",
+      "num": "9798436135"
+    },
+    {
+      "aadhar": "291641434380",
+      "address": "W/O  Prem Paswan!!mohamdpur  PO-farda PO-farda Munger!NA!!Munger Bariarpur Munger!NA!Bihar!811201",
+      "alt": "9608898594",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Prem Paswan",
+      "name": "Hansmani Devi",
+      "num": "9798436135"
+    },
+    {
+      "aadhar": "291641434380",
+      "address": "W/O  Prem Paswan!!mohamdpur  PO-farda PO-farda Munger!NA!!Munger Bariarpur Munger!NA!Bihar!811201",
+      "alt": "9608898594",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Prem Paswan",
+      "name": "Hansmani Devi",
+      "num": "9798436135"
+    },
+    {
+      "aadhar": "300721243335",
+      "address": "s/o  ramchandra paswan!!Munger!post farda!gaon mohammadpur!munger Bariarpur!munger!Bihar!811201",
+      "alt": "9798436135",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ramchandra paswan",
+      "name": "Manoj Kumar Paswan",
+      "num": "9153422882"
+    },
+    {
+      "aadhar": "300721243335",
+      "address": "s/o  ramchandra paswan!!Munger!post farda!gaon mohammadpur!munger Bariarpur!munger!Bihar!811201",
+      "alt": "9798436135",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramchandra paswan",
+      "name": "Manoj Kumar Paswan",
+      "num": "9153422882"
+    },
+    {
+      "aadhar": "300721243335",
+      "address": "s/o  ramchandra paswan!!Munger!post farda!gaon mohammadpur!munger Bariarpur!munger!Bihar!811201",
+      "alt": "9798436135",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramchandra paswan",
+      "name": "Manoj Kumar Paswan",
+      "num": "9153422882"
+    }
+  ]
+}
