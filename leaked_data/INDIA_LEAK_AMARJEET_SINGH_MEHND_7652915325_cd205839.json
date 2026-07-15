@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:47:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7652915325",
+  "records": [
+    {
+      "aadhar": "832428722191",
+      "address": "S/O UDHAM SINGH!31!!S S T NAGARPATIALAM I G FLATS!PATIALA!PUNJAB!147001",
+      "alt": "9815398319",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "UDHAM SINGH",
+      "name": "AMARJEET SINGH MEHNDRU",
+      "num": "7652915325"
+    },
+    {
+      "aadhar": "832428722191",
+      "address": "S/O UDHAM SINGH!31!!S S T NAGARPATIALAM I G FLATS!PATIALA!PUNJAB!147001",
+      "alt": "9815398319",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "UDHAM SINGH",
+      "name": "AMARJEET SINGH MEHNDRU",
+      "num": "7652915325"
+    }
+  ]
+}
