@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:11:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9959936063",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "11-6-828!Red Hills!Nampally!Hyderabad!Andhra Pradesh!500004",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Jamaluddin Mohammad",
+      "name": "Kalam  Mohammad",
+      "num": "9959936063"
+    }
+  ]
+}
