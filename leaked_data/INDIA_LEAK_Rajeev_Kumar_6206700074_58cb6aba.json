@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:44:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206700074",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Shailesh Singh!!00 00!Toygarh!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shailesh Singh",
+      "name": "Rajeev Kumar",
+      "num": "6206700074"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Shailesh Singh!!00 00!Toygarh!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shailesh Singh",
+      "name": "Rajeev Kumar",
+      "num": "6206700074"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Shailesh Singh!!00 00!Toygarh!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shailesh Singh",
+      "name": "Rajeev Kumar",
+      "num": "6206700074"
+    }
+  ]
+}
