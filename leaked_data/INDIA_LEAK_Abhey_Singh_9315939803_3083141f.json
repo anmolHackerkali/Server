@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:09:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315939803",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!9f1/9 kishan garh vasant kunj gaushala!kishan garh vasant kunj!New Delhi South West South West!Delhi!110070",
+      "alt": "919818736671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Abhey Singh",
+      "num": "9315939803"
+    },
+    {
+      "aadhar": null,
+      "address": "!!9f1/9kishan garh vasant kunjgaushala!kishan garh vasant kunj!New Delhi South WestSouth West!Delhi!110070",
+      "alt": "919818736671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Abhey Singh",
+      "num": "9315939803"
+    },
+    {
+      "aadhar": null,
+      "address": "!!9f1/9kishan garh vasant kunjgaushala!kishan garh vasant kunj!New Delhi South WestSouth West!Delhi!110070",
+      "alt": "919818736671",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Abhey Singh",
+      "num": "9315939803"
+    },
+    {
+      "aadhar": "399628735644",
+      "address": "S/O  Virendra Jha!house number N 86/40!LAWRENCE ROAD IND  AREA NEAR RAILWAY CABIN!NEAR RAILWAY CABIN!RLY CROSSING kesev puram  NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Virendra Jha",
+      "name": "MR  KAILASH KUMAR JHA",
+      "num": "9818841544"
+    },
+    {
+      "aadhar": "399628735644",
+      "address": "S/O  Virendra Jha!house number N 86/40!LAWRENCE ROAD IND  AREA NEAR RAILWAY CABIN!NEAR RAILWAY CABIN!RLY CROSSING kesev puram  NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Virendra Jha",
+      "name": "MR  KAILASH KUMAR JHA",
+      "num": "9818841544"
+    },
+    {
+      "aadhar": "DL/03/017/126240",
+      "address": "!171 ram pura!ram pura!ram pura!ram pura NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Net Ram",
+      "name": "MR  RAM KISHAN SAINI",
+      "num": "9210946274"
+    },
+    {
+      "aadhar": "265108002315",
+      "address": "! 6339!jai mata market!onkar nagar!tri nagar!Delhi North!North West!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mohammed raisul rahaman",
+      "name": "Raji Ahmed",
+      "num": "9625641660"
+    },
+    {
+      "aadhar": " 950566235641 ",
+      "address": "S/O  Rebi Sah ! House Number 82 ! House Number 82onkar nagar ! onkar nagar ! Ram PuraNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110035",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Rebi Sah",
+      "name": "MR. PRASHAD SAH",
+      "num": "9818481390"
+    },
+    {
+      "aadhar": " 973062299072 ",
+      "address": "S/O. Ramashray ! 188 ! Main Roadshiv mandir ! shiv mandir ! Rampura North West DelhiNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110035",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ramashray",
+      "name": "MR. RAVINDRA KUMAR",
+      "num": "8745967347"
+    },
+    {
+      "aadhar": " 497502370756 ",
+      "address": "C/O Ram Balak ! 188 ! Main RoadShiv mandir ! Shiv mandir ! Rampura North West Delhi DelhiNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110035",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Ram Balak",
+      "name": "MR. PRADEEP ",
+      "num": "8745967087"
+    },
+    {
+      "aadhar": " 689246745401 ",
+      "address": "S/O Mahender Singh ! D-25 Manohar Park ! D-25 Manohar Park East Punjabi BaghPunjabi Bagh S.O West Delhi ! Punjabi Bagh S.O West Delhi ! East Punjabi Bagh Punjabi Bagh S.OWEST DELHI ! DELHI ! WEST DELH",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mahender Singh",
+      "name": "MR. YOGENDER PAL SINGH",
+      "num": "8744993038"
+    },
+    {
+      "aadhar": "265108002315",
+      "address": "!6339!mange ram building!rampura!rampura!Delhi North!North West!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "mohammed raisul rahaman",
+      "name": "Raji Ahmed",
+      "num": "8287633179"
+    },
+    {
+      "aadhar": " 516274044195 ",
+      "address": "S/O  Chandramani Dubey ! 166 ! Main Roadshiv mandir ! shiv mandir ! Rampura North West Delhi DelhiNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110035",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Chandramani Dubey",
+      "name": "MR. KRISHAN KUMAR DUBEY",
+      "num": "8512822150"
+    },
+    {
+      "aadhar": "265108002315",
+      "address": "!6339!jai mata market!onkar nagar!tri nagar!Delhi North!North West!Delhi!110035",
+      "alt": "9315939803",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mohammed raisul rahaman",
+      "name": "Raji Ahmed",
+      "num": "9625641660"
+    },
+    {
+      "aadhar": " DL/03/017/126240 ",
+      "address": "! 171 ram pura ! ram pura !  ! ram puraNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110035",
+      "alt": "9315939803",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Net Ram",
+      "name": "MR RAM KISHAN SAINI",
+      "num": "9210946274"
+    }
+  ]
+}
