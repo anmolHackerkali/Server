@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:35:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9933163800",
+  "records": [
+    {
+      "aadhar": "908275045799",
+      "address": " ! -!- Fulia Colony!KADAMPUR!-!Phulia Santipur!Nadia!West Bengal!741402 ",
+      "alt": "9064476421",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kalipada sarkar",
+      "name": "Santosh Sarkar",
+      "num": "9933163800"
+    },
+    {
+      "aadhar": "908275045799",
+      "address": " ! -!- Fulia Colony!KADAMPUR!-!Phulia Santipur!Nadia!West Bengal!741402 ",
+      "alt": "9064476421",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kalipada sarkar",
+      "name": "Santosh Sarkar",
+      "num": "9933163800"
+    }
+  ]
+}
