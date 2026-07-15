@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:26:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8511800707",
+  "records": [
+    {
+      "aadhar": "409582908397",
+      "address": "866/1!shyam nagar!shyam nagar!Shyam Nagar - 3  Vijalpor NAVSARI!NAVSARI!NAVSARI!Gujarat!396445",
+      "alt": "7359286906",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shatraugham Chaurasiya",
+      "name": "MR ALOK CHAURASIYA",
+      "num": "8511800707"
+    },
+    {
+      "aadhar": "409582908397",
+      "address": "S/O Shatraugham!866/1!shyam nagar!shyam nagar!Shyam Nagar - 3  Vijalpor NAVSARI!NAVSARI!NAVSARI!Gujarat!396445",
+      "alt": "7359286906",
+      "circle": "VI GUJARAT",
+      "email": "alok8511800707@gmail.com",
+      "fname": "Shatraugham Chaurasiya",
+      "name": "MR ALOK CHAURASIYA",
+      "num": "8511800707"
+    },
+    {
+      "aadhar": "409582908397",
+      "address": "S/O Shatraugham!866/1!shyam nagar!shyam nagar!Shyam Nagar - 3  Vijalpor NAVSARI!NAVSARI!NAVSARI!Gujarat!396445",
+      "alt": "7359286906",
+      "circle": "VI GUJARAT",
+      "email": "alok8511800707@gmail.com",
+      "fname": "Shatraugham Chaurasiya",
+      "name": "MR ALOK CHAURASIYA",
+      "num": "8511800707"
+    }
+  ]
+}
