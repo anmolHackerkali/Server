@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:51:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7482029755",
+  "records": [
+    {
+      "aadhar": "515450060475",
+      "address": "!10!56 chatar!NA!school!Hazaribagh Chatra!NA!Jharkhand!825401",
+      "alt": "7482029755",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jai Bahadur Prasad",
+      "name": "Upendra Prasad",
+      "num": "8102751814"
+    },
+    {
+      "aadhar": "646242692400",
+      "address": "!Jangi!!!!Chatra Delho!Jharkhand!825103",
+      "alt": "7482029755",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sarju  Yadav",
+      "name": "Prameshwar Kumar Yadav",
+      "num": "7739725484"
+    },
+    {
+      "aadhar": "515450060475",
+      "address": "!10!56 chatar!NA!school!Hazaribagh Chatra!NA!Jharkhand!825401",
+      "alt": "7482029755",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jai Bahadur Prasad",
+      "name": "Upendra Prasad",
+      "num": "8102751814"
+    },
+    {
+      "aadhar": "646242692400",
+      "address": "!Jangi!!!!Chatra Delho!Jharkhand!825103",
+      "alt": "7482029755",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sarju  Yadav",
+      "name": "Prameshwar Kumar Yadav",
+      "num": "7739725484"
+    }
+  ]
+}
