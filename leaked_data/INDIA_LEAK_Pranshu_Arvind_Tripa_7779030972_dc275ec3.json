@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:26:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7779030972",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx8289",
+      "address": "!!46!NA!ram nagar-3!Vijalpor Navsari!NA!Gujarat!396450",
+      "alt": "7600932933",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Arvind Tripathi",
+      "name": "Pranshu Arvind Tripathi",
+      "num": "7779030972"
+    },
+    {
+      "aadhar": "xxxxxxxx8289",
+      "address": "!!46!NA!ram nagar-3!Vijalpor Navsari!NA!Gujarat!396450",
+      "alt": "7600932933",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Arvind Tripathi",
+      "name": "Pranshu Arvind Tripathi",
+      "num": "7779030972"
+    },
+    {
+      "aadhar": "xxxxxxxx8289",
+      "address": "!!46!NA!ram nagar-3!Vijalpor Navsari!NA!Gujarat!396450",
+      "alt": "7600932933",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Arvind Tripathi",
+      "name": "Pranshu Arvind Tripathi",
+      "num": "7779030972"
+    },
+    {
+      "aadhar": "655701660983",
+      "address": "W/O Mahipratapsingh!!Ambaji mata Temple Navsari!NA!Ramnagar-2 vijalpor!Navsari Navsari!NA!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahipratapsingh",
+      "name": "Sumanben Rajput",
+      "num": "9033576189"
+    },
+    {
+      "aadhar": "360302989554",
+      "address": "bhai!navsari school!school!navsari Navsari!NAVSARI!Navsari!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shyamdev Tripathi",
+      "name": "MR SWAMINATH TRIPATHI",
+      "num": "7041152975"
+    },
+    {
+      "aadhar": "655701660983",
+      "address": "W/O Mahipratapsingh!!Ambaji mata Temple Navsari!NA!Ramnagar-2 vijalpor!Navsari Navsari!NA!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahipratapsingh",
+      "name": "Sumanben Rajput",
+      "num": "9033576189"
+    },
+    {
+      "aadhar": "360302989554",
+      "address": "paransu!bhai!navsari school!school!navsari Navsari!NAVSARI!Navsari!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shyamdev Tripathi",
+      "name": "MR SWAMINATH TRIPATHI",
+      "num": "7041152975"
+    },
+    {
+      "aadhar": "655701660983",
+      "address": "W/O Mahipratapsingh!!Ambaji mata Temple Navsari!NA!Ramnagar-2 vijalpor!Navsari Navsari!NA!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahipratapsingh",
+      "name": "Sumanben Rajput",
+      "num": "9033576189"
+    },
+    {
+      "aadhar": "360302989554",
+      "address": "paransu!bhai!navsari school!school!navsari Navsari!NAVSARI!Navsari!Gujarat!396445",
+      "alt": "7779030972",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shyamdev Tripathi",
+      "name": "MR SWAMINATH TRIPATHI",
+      "num": "7041152975"
+    }
+  ]
+}
