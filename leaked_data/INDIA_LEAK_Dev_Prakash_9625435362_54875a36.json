@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:31:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625435362",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Ramesh Pal Singh!!House No. - B-1/516 Street N0-19!!Harsh Vihar North East!Delhi!110093",
+      "alt": "919953742752",
+      "circle": "JIO DELHI",
+      "email": "bobby28091642@gmail.com",
+      "fname": "Ramesh Pal Singh",
+      "name": "Dev Prakash",
+      "num": "9625435362"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Ramesh Pal Singh!!House No. - B-1/516Street N0-19!!Harsh ViharNorth East!Delhi!110093",
+      "alt": "+919953742752",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramesh Pal Singh",
+      "name": "Dev Prakash  ",
+      "num": "9625435362"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Ramesh Pal Singh!!House No. - B-1/516Street N0-19!!Harsh ViharNorth East!Delhi!110093",
+      "alt": "+919953742752",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ramesh Pal Singh",
+      "name": "Dev Prakash  ",
+      "num": "9625435362"
+    }
+  ]
+}
