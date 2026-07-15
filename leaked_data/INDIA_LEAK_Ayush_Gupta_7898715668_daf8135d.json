@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:31:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7898715668",
+  "records": [
+    {
+      "aadhar": "797473203167",
+      "address": "C/O Pradeep Gupta!!!!MURWARA KATNI!Madhya Pradesh!483501",
+      "alt": "919575761134",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "pradeep gupta",
+      "name": "Ayush Gupta",
+      "num": "7898715668"
+    }
+  ]
+}
