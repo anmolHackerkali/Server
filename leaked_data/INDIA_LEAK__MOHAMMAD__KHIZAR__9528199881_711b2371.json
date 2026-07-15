@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:51:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9528199881",
+  "records": [
+    {
+      "aadhar": "851894795020",
+      "address": " !HOUSE NO224!!DADHERU KHURD!Dadheru Khurd!UTTAR PRADESH!251001 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " SHAMEEM AHMAD ",
+      "name": " MOHAMMAD  KHIZAR ",
+      "num": "9528199881"
+    },
+    {
+      "aadhar": "851894795020",
+      "address": " !HOUSE NO224!!DADHERU KHURD!Dadheru Khurd!UTTAR PRADESH!251001 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " SHAMEEM AHMAD ",
+      "name": " MOHAMMAD  KHIZAR ",
+      "num": "9528199881"
+    }
+  ]
+}
