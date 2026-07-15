@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:20:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9601294733",
+  "records": [
+    {
+      "aadhar": "Jbg1089986",
+      "address": "At Gujarat Housing Borad Opp Bus stand Maghiya Dholka Dholka",
+      "alt": "9601294233",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Mangabhai",
+      "name": "Galabhai Mangabhai Solanki",
+      "num": "9601294733"
+    },
+    {
+      "aadhar": "Jbg1089986",
+      "address": "At Gujarat Housing Borad Opp Bus stand Maghiya Dholka Dholka",
+      "alt": "9601294233",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Mangabhai",
+      "name": "Galabhai Mangabhai Solanki",
+      "num": "9601294733"
+    }
+  ]
+}
