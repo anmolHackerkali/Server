@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:53:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142075388",
+  "records": [
+    {
+      "aadhar": "408895939768",
+      "address": "! G-22!Irrigation Department kutku colony Daltonganj!!Abadganj Ward n0-22!Daltonganj Daltonganj!Palamau!Jharkhand!822101",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Let Shitaram saw",
+      "name": "Birendra Saw",
+      "num": "9142075388"
+    },
+    {
+      "aadhar": "408895939768",
+      "address": "!G-22!Irrigation Department kutku colony Daltonganj!!Abadganj Ward n0-22!Daltonganj Daltonganj!Palamau!Jharkhand!822101",
+      "alt": "7631070944",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Let Shitaram saw",
+      "name": "Birendra Saw",
+      "num": "9142075388"
+    },
+    {
+      "aadhar": "408895939768",
+      "address": "!G-22!Irrigation Department kutku colony Daltonganj!!Abadganj Ward n0-22!Daltonganj Daltonganj!Palamau!Jharkhand!822101",
+      "alt": "7631070944",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Let Shitaram saw",
+      "name": "Birendra Saw",
+      "num": "9142075388"
+    }
+  ]
+}
