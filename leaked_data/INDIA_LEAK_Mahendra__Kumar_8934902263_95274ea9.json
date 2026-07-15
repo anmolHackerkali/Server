@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:24:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8934902263",
+  "records": [
+    {
+      "aadhar": "902420947484",
+      "address": "S/O Ramsubhag!JAMOHARA!!pidari kala Pirar Kalan!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra  Kumar",
+      "num": "8934902263"
+    },
+    {
+      "aadhar": "902420947484",
+      "address": "S/O Ramsubhag!JAMOHARA!!pidari kala Pirar Kalan!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra  Kumar",
+      "num": "8934902263"
+    },
+    {
+      "aadhar": "902420947484",
+      "address": "!0!Jamohara Pidari Kala Pirar Kalan!!sant kabir nagar!Sant Kabir Nagar!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": "8934902263",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra Kumar",
+      "num": "8931072556"
+    },
+    {
+      "aadhar": "902420947484",
+      "address": "!0!Jamohara Pidari Kala Pirar Kalan!!sant kabir nagar!Sant Kabir Nagar!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": "8934902263",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra Kumar",
+      "num": "8931072556"
+    }
+  ]
+}
