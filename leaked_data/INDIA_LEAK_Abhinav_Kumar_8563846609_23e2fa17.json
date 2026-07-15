@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:28:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8563846609",
+  "records": [
+    {
+      "aadhar": "333363416269",
+      "address": "!N 10/70 G 12NEW COLONY KAKARMATTA Kakarmatta!!!Varanasi!Uttar Pradesh!221004",
+      "alt": "7275843220",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Indra Deo Prasad Singh",
+      "name": "Abhinav Kumar",
+      "num": "8563846609"
+    },
+    {
+      "aadhar": "333363416269",
+      "address": "!N 10/70 G 12NEW COLONY KAKARMATTA Kakarmatta!!!Varanasi!Uttar Pradesh!221004",
+      "alt": "7275843220",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Indra Deo Prasad Singh",
+      "name": "Abhinav Kumar",
+      "num": "8563846609"
+    },
+    {
+      "aadhar": "333363416269",
+      "address": " !N 10/70 G 1-2  NEW COLONY KAKARMATTA!  Kakarmatta!D.L.W. !VARANASI-VARANASI!UP!221004",
+      "alt": "8563846609",
+      "circle": null,
+      "email": null,
+      "fname": "INDRA DEOPRASAD DeoPrasad SINGH",
+      "name": "ABHINAV  KUMAR",
+      "num": "7052436553"
+    },
+    {
+      "aadhar": "333363416269",
+      "address": " !N 10/70 G 1-2  NEW COLONY KAKARMATTA!  Kakarmatta!D.L.W. !VARANASI-VARANASI!UP!221004",
+      "alt": "8563846609",
+      "circle": null,
+      "email": null,
+      "fname": "INDRA DEOPRASAD DeoPrasad SINGH",
+      "name": "ABHINAV  KUMAR",
+      "num": "7052436553"
+    }
+  ]
+}
