@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:54:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9879324690",
+  "records": [
+    {
+      "aadhar": "419916067811",
+      "address": "Govabhai ! PLOT NO 1 WARD NO 10 ! BC F6 OFFICE NO 106 ! OPP IFFCO MAIN GATE ! GANDHIDHAM ! GUJARAT ! 370201",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O  Govabhai",
+      "name": "Rathod Maheshkumar",
+      "num": "9879324690"
+    },
+    {
+      "aadhar": "419916067811",
+      "address": "Govabhai!PLOT NO 1 WARD NO 10!BC F6 OFFICE NO 106!OPP IFFCO MAIN GATE!GANDHIDHAM!GUJARAT!370201",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": "PRIYAMRATHOD2007@GMAIL.COM",
+      "fname": "S/O: Govabhai",
+      "name": "Rathod Maheshkumar",
+      "num": "9879324690"
+    },
+    {
+      "aadhar": "419916067811",
+      "address": "Govabhai!PLOT NO 1 WARD NO 10!BC F6 OFFICE NO 106!OPP IFFCO MAIN GATE!GANDHIDHAM!GUJARAT!370201",
+      "alt": "0",
+      "circle": "VI GUJARAT",
+      "email": "PRIYAMRATHOD2007@GMAIL.COM",
+      "fname": "S/O: Govabhai",
+      "name": "Rathod Maheshkumar",
+      "num": "9879324690"
+    }
+  ]
+}
