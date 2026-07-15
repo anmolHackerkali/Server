@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:11:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210534064",
+  "records": [
+    {
+      "aadhar": "975814797681",
+      "address": "S/O  Satyanarayan Pandit!!Ward no  10!Mohiuddinpur!Hansa Samastipur!Bihar!848101",
+      "alt": "918877427835",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyanarayan Pandit",
+      "name": "Ranjan Kumar",
+      "num": "8210534064"
+    },
+    {
+      "aadhar": "975814797681",
+      "address": "S/O  Satyanarayan Pandit!!Ward no  10!Mohiuddinpur!Hansa Samastipur!Bihar!848101",
+      "alt": "918877427835",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyanarayan Pandit",
+      "name": "Ranjan Kumar",
+      "num": "8210534064"
+    },
+    {
+      "aadhar": "507100777924",
+      "address": "s/o  ramchandra das!!Rampur Kushaiya!ward 02!ward 02 hajpurwa rampur kushaiya!hajpurwa Warisnagar!samastipur!Bihar!848301",
+      "alt": "8210534064",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "ramchandra das",
+      "name": "Ramu Kumar",
+      "num": "9304081149"
+    },
+    {
+      "aadhar": "507100777924",
+      "address": "s/o  ramchandra das!!Rampur Kushaiya!ward 02!ward 02 hajpurwa rampur kushaiya!hajpurwa Warisnagar!samastipur!Bihar!848301",
+      "alt": "8210534064",
+      "circle": "JIO BHR&JHR",
+      "email": "RAMUKUMAR854@GMAIL.COM",
+      "fname": "ramchandra das",
+      "name": "Ramu Kumar",
+      "num": "9304081149"
+    },
+    {
+      "aadhar": "507100777924",
+      "address": "s/o  ramchandra das!!Rampur Kushaiya!ward 02!ward 02 hajpurwa rampur kushaiya!hajpurwa Warisnagar!samastipur!Bihar!848301",
+      "alt": "8210534064",
+      "circle": "JIO BHR&JHR",
+      "email": "RAMUKUMAR854@GMAIL.COM",
+      "fname": "ramchandra das",
+      "name": "Ramu Kumar",
+      "num": "9304081149"
+    }
+  ]
+}
