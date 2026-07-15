@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:14:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9839202906",
+  "records": [
+    {
+      "aadhar": "875563183554",
+      "address": " !!Sirathu!tengai!Govindpur Goriyon-Si!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "Sanu",
+      "num": "9839202906"
+    },
+    {
+      "aadhar": "875563183554",
+      "address": " !!Sirathu!tengai!Govindpur Goriyon-Si!Uttar Pradesh!212217",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "Sanu",
+      "num": "9839202906"
+    },
+    {
+      "aadhar": "210102017371",
+      "address": "LAL!jalalpur!KAUSHAMBI!KAUSHAMBI!TENGAI KAUSHAMBI!KAUSHAMBHI!UTTAR PRADESH!212217",
+      "alt": "9839202906",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MR LAVKUSH ",
+      "num": "7233826084"
+    },
+    {
+      "aadhar": "210102017371",
+      "address": "LAL!jalalpur!KAUSHAMBI!KAUSHAMBI!TENGAI KAUSHAMBI!KAUSHAMBHI!UTTAR PRADESH!212217",
+      "alt": "9839202906",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "MR LAVKUSH ",
+      "num": "7233826084"
+    }
+  ]
+}
