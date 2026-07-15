@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:42:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8081919610",
+  "records": [
+    {
+      "aadhar": "752569952558",
+      "address": "s/o   jay pal!00!madaiyan post Bijora!near py puliya ke pas!gram madaiyan tah garutha!lladaiyan bhagwant pura bhagwantapura!jhansi!Uttar Pradesh!284204",
+      "alt": "9569350527",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "jay pal",
+      "name": "Anil Kumar",
+      "num": "8081919610"
+    },
+    {
+      "aadhar": "752569952558",
+      "address": "s/o   jay pal!00!madaiyan post Bijora!near py puliya ke pas!gram madaiyan tah garutha!lladaiyan bhagwant pura bhagwantapura!jhansi!Uttar Pradesh!284204",
+      "alt": "9569350527",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "jay pal",
+      "name": "Anil Kumar",
+      "num": "8081919610"
+    },
+    {
+      "aadhar": "583115926569",
+      "address": " !124/84  block- c!  Govind Nagar!Govind Nagar  Kanpur !KANPUR NAGAR-KANPUR !UP!208006",
+      "alt": "8081919610",
+      "circle": null,
+      "email": null,
+      "fname": "JAMUNA PRASAD Prasad AWSTHI",
+      "name": "PREM KUMAR AWASTHI",
+      "num": "9616805514"
+    },
+    {
+      "aadhar": "583115926569",
+      "address": " !124/84  block- c!  Govind Nagar!Govind Nagar  Kanpur !KANPUR NAGAR-KANPUR !UP!208006",
+      "alt": "8081919610",
+      "circle": null,
+      "email": null,
+      "fname": "JAMUNA PRASAD Prasad AWSTHI",
+      "name": "PREM KUMAR AWASTHI",
+      "num": "9616805514"
+    }
+  ]
+}
