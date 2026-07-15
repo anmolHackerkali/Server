@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:41:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6396463055",
+  "records": [
+    {
+      "aadhar": "291297939661",
+      "address": "D/O  Lakhan Singh!!Aheripur!Nagaria bujurg!Nagaria bujurg!AheripurBharthana!Etawah!Uttar Pradesh!206120",
+      "alt": "8178432088",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "RANJNA",
+      "num": "6396463055"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Pankaj Chaudhary!!109!!Eklaidi Bulandshahr!Uttar Pradesh!245402",
+      "alt": "918650428815",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Pankaj Chaudhary",
+      "name": "Rachana",
+      "num": "6396463055"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Pankaj Chaudhary!!109!!Eklaidi Bulandshahr!Uttar Pradesh!245402",
+      "alt": "918650428815",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Pankaj Chaudhary",
+      "name": "Rachana",
+      "num": "6396463055"
+    }
+  ]
+}
