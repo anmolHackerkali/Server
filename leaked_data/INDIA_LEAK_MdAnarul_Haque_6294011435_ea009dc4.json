@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:06:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6294011435",
+  "records": [
+    {
+      "aadhar": "812779987203",
+      "address": "!! Dakshin Alinagar!BALARAMPUR!Alinagar Maldah!West Bengal!732102",
+      "alt": "918116161600",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Arjed Ali",
+      "name": "MdAnarul Haque",
+      "num": "6294011435"
+    },
+    {
+      "aadhar": "812779987203",
+      "address": "!! Dakshin Alinagar!BALARAMPUR!Alinagar Maldah!West Bengal!732102",
+      "alt": "918116161600",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Arjed Ali",
+      "name": "MdAnarul Haque",
+      "num": "6294011435"
+    }
+  ]
+}
