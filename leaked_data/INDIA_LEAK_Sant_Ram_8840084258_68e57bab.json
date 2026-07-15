@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:40:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8840084258",
+  "records": [
+    {
+      "aadhar": "578057870527",
+      "address": "! h.n. 5/18/244!Faizabad!!bachhda sultanpur sahab ganj faizabad!faizabad!faizabad!Uttar Pradesh!224001",
+      "alt": "9935059353",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhagvan deen",
+      "name": "Sant Ram",
+      "num": "8840084258"
+    },
+    {
+      "aadhar": "578057870527",
+      "address": "! h.n. 5/18/244!Faizabad!!bachhda sultanpur sahab ganj faizabad!faizabad!faizabad!Uttar Pradesh!224001",
+      "alt": "9935059353",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhagvan deen",
+      "name": "Sant Ram",
+      "num": "8840084258"
+    }
+  ]
+}
