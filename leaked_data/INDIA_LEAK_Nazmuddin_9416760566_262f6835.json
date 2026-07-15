@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:49:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9416760566",
+  "records": [
+    {
+      "aadhar": "450048834008",
+      "address": "S/O Abdul Sattar!Sirohi 33!!!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul  Sattar",
+      "name": "Nazmuddin",
+      "num": "9416760566"
+    },
+    {
+      "aadhar": "450048834008",
+      "address": "S/O Abdul Sattar!Sirohi 33!!!!Faridabad!!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul  Sattar",
+      "name": "Nazmuddin",
+      "num": "9416760566"
+    },
+    {
+      "aadhar": "450048834008",
+      "address": "S/O Abdul Sattar!Sirohi 33!!!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul  Sattar",
+      "name": "Nazmuddin",
+      "num": "9416760566"
+    },
+    {
+      "aadhar": "450048834008",
+      "address": "S/O Abdul Sattar!Sirohi 33!!!FaridabadFaridabad!Haryana!121004",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Abdul  Sattar",
+      "name": "Nazmuddin",
+      "num": "9416760566"
+    }
+  ]
+}
