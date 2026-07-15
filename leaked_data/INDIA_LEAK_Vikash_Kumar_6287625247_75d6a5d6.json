@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:32:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6287625247",
+  "records": [
+    {
+      "aadhar": "702538128702",
+      "address": "c/o  rajendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "9835355919",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajendra Ram",
+      "name": "Vikash Kumar",
+      "num": "6287625247"
+    },
+    {
+      "aadhar": "702538128702",
+      "address": "c/o  rajendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "9835355919",
+      "circle": "JIO BHR&JHR",
+      "email": "vikashkumarvikashkumar07968@gmail.com",
+      "fname": "Rajendra Ram",
+      "name": "Vikash Kumar",
+      "num": "6287625247"
+    },
+    {
+      "aadhar": "702538128702",
+      "address": "c/o  rajendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "9835355919",
+      "circle": "JIO BHR&JHR",
+      "email": "vikashkumarvikashkumar07968@gmail.com",
+      "fname": "Rajendra Ram",
+      "name": "Vikash Kumar",
+      "num": "6287625247"
+    },
+    {
+      "aadhar": "758117664422",
+      "address": "c/o  mahendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "mahendra ram",
+      "name": "Raniya Devi",
+      "num": "9835745853"
+    },
+    {
+      "aadhar": "758878610592",
+      "address": "w/o  vinesh ram!!Kanbehari!!kanbehari!rajpur Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "vinesh ram",
+      "name": "Sushila Devi",
+      "num": "8521955516"
+    },
+    {
+      "aadhar": "758117664422",
+      "address": "c/o  mahendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mahendra ram",
+      "name": "Raniya Devi",
+      "num": "9835745853"
+    },
+    {
+      "aadhar": "758878610592",
+      "address": "w/o  vinesh ram!!Kanbehari!!kanbehari!rajpur Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "vinesh ram",
+      "name": "Sushila Devi",
+      "num": "8521955516"
+    },
+    {
+      "aadhar": "758117664422",
+      "address": "c/o  mahendra ram!!Kanbehari!rajpur bigha!rajpur bigha kanbehari!kanbehri Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mahendra ram",
+      "name": "Raniya Devi",
+      "num": "9835745853"
+    },
+    {
+      "aadhar": "758878610592",
+      "address": "w/o  vinesh ram!!Kanbehari!!kanbehari!rajpur Aurangabad!aurangabad!Bihar!824102",
+      "alt": "6287625247",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "vinesh ram",
+      "name": "Sushila Devi",
+      "num": "8521955516"
+    }
+  ]
+}
