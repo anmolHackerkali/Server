@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:50:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7983589104",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Kanchan Singh!!village nagla ajab!post salemapur!Tundla Firozabad!Uttar Pradesh!283204",
+      "alt": "919528585555",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kanchan Singh",
+      "name": "Satendra Singh",
+      "num": "7983589104"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Kanchan Singh!!village nagla ajab!post salemapur!Tundla Firozabad!Uttar Pradesh!283204",
+      "alt": "919528585555",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Kanchan Singh",
+      "name": "Satendra Singh",
+      "num": "7983589104"
+    }
+  ]
+}
