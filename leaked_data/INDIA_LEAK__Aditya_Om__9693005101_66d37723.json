@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:59:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693005101",
+  "records": [
+    {
+      "aadhar": "359430822421",
+      "address": " .!damaili!Panchayat bhawan  Damaili  Purnia!mirganj  Mirganj!Purnia!Purnia!Bihar!854304 ",
+      "alt": "8955882657",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Alok Kumar ",
+      "name": " Aditya Om ",
+      "num": "9693005101"
+    },
+    {
+      "aadhar": "359430822421",
+      "address": " .!damaili!Panchayat bhawan  Damaili  Purnia!mirganj  Mirganj!Purnia!Purnia!Bihar!854304 ",
+      "alt": "8955882657",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Alok Kumar ",
+      "name": " Aditya Om ",
+      "num": "9693005101"
+    }
+  ]
+}
