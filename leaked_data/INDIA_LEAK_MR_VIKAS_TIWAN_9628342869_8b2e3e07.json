@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:44:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9628342869",
+  "records": [
+    {
+      "aadhar": "948420373788",
+      "address": "S/O RAM KISHOR!GRAM GHAAR POST SINGARSIPUR DHAR KANPU!GRAM GHAAR POST SINGARSIPUR DHAR KANPU!!ghar singarsipurKANPUR DEHAT!KANPUR DEHAT!UTTAR PRADESH!209208",
+      "alt": "9580369358",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Kishor",
+      "name": "MR. VIKAS TIWAN",
+      "num": "9628342869"
+    },
+    {
+      "aadhar": "948420373788",
+      "address": "S/O RAM KISHOR!GRAM GHAAR  POST SINGARSIPUR DHAR  KANPU!GRAM GHAAR  POST SINGARSIPUR DHAR  KANPU!!ghar singarsipur KANPUR DEHAT!KANPUR DEHAT!UTTAR PRADESH!209208",
+      "alt": "9580369358",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Kishor",
+      "name": "MR VIKAS TIWAN",
+      "num": "9628342869"
+    },
+    {
+      "aadhar": "948420373788",
+      "address": "S/O RAM KISHOR!GRAM GHAAR  POST SINGARSIPUR DHAR  KANPU!GRAM GHAAR  POST SINGARSIPUR DHAR  KANPU!!ghar singarsipur KANPUR DEHAT!KANPUR DEHAT!UTTAR PRADESH!209208",
+      "alt": "9580369358",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Kishor",
+      "name": "MR VIKAS TIWAN",
+      "num": "9628342869"
+    }
+  ]
+}
