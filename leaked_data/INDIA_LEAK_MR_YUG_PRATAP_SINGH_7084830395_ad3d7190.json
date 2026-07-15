@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:55:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7084830395",
+  "records": [
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PURUNNAO!UNNAO!LaglaisraUNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR. YUG PRATAP SINGH",
+      "num": "7084830395"
+    },
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PUR UNNAO!UNNAO!Laglaisra UNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR YUG PRATAP SINGH",
+      "num": "7084830395"
+    },
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PUR UNNAO!UNNAO!Laglaisra UNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR YUG PRATAP SINGH",
+      "num": "7084830395"
+    }
+  ]
+}
