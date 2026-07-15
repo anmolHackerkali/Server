@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:10:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7404682589",
+  "records": [
+    {
+      "aadhar": "240484628892",
+      "address": "NA!619/11!JAGDISH COLONY!JAGDISH COLONY!HANSI!HISAR!HISAR!HARYANA!125033",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "VAJIR",
+      "name": "SONU",
+      "num": "7404682589"
+    },
+    {
+      "aadhar": "240484628892",
+      "address": "619/11 JAGDISH COLONY JAGDISH COLONY HANSI HISAR HISAR HARYANA 125033",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "VAJIR",
+      "name": "SONU",
+      "num": "7404682589"
+    }
+  ]
+}
