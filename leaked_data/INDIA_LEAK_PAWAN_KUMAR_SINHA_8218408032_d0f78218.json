@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:41:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8218408032",
+  "records": [
+    {
+      "aadhar": "362683829932",
+      "address": "S/O Shyam Mohan Sinha!!539Avas Vikas ColonyPilibhit!Tagore Nagar!PilibhitPilibhit!Uttar Pradesh!262001",
+      "alt": "+919411975863",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shyam Mohan Sinha",
+      "name": "PAWAN KUMAR SINHA",
+      "num": "8218408032"
+    },
+    {
+      "aadhar": "362683829932",
+      "address": "S/O Shyam Mohan Sinha!!539 Avas Vikas Colony Pilibhit!Tagore Nagar!Pilibhit Pilibhit!Uttar Pradesh!262001",
+      "alt": "919411975863",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shyam Mohan Sinha",
+      "name": "PAWAN KUMAR SINHA",
+      "num": "8218408032"
+    },
+    {
+      "aadhar": "362683829932",
+      "address": "S/O Shyam Mohan Sinha!!539 Avas Vikas Colony Pilibhit!Tagore Nagar!Pilibhit Pilibhit!Uttar Pradesh!262001",
+      "alt": "919411975863",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Shyam Mohan Sinha",
+      "name": "PAWAN KUMAR SINHA",
+      "num": "8218408032"
+    }
+  ]
+}
