@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:50:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7052708933",
+  "records": [
+    {
+      "aadhar": "616550010268",
+      "address": "s/o  suneel kumar!s/o suneel kumar dhokari safabad!!!dhokari saidabad!saifabad!allahabad!Uttar Pradesh!221508",
+      "alt": "9569579442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suneel kumar",
+      "name": "Akash Kumar Patel",
+      "num": "7052708933"
+    },
+    {
+      "aadhar": "616550010268",
+      "address": "s/o  suneel kumar!s/o suneel kumar dhokari safabad!!!dhokari saidabad!saifabad!allahabad!Uttar Pradesh!221508",
+      "alt": "9569579442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suneel kumar",
+      "name": "Akash Kumar Patel",
+      "num": "7052708933"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Lal Bahadur Patel!.!dhokari uparhar post dhokari!. Allahabad!post dhokari!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Lal Bahadur Patel",
+      "name": "Pradeep Kumar Patel",
+      "num": "9598426480"
+    },
+    {
+      "aadhar": "912608542675",
+      "address": "!SAIDABADP!dhokari uparhar Allahabad post dhokari!post dhokari!Saidabad Saifabad ALLAHABAD!ALLAHABAD!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Lal Bahadur Patel",
+      "name": "MR PRADEEP KUMAR PATEL",
+      "num": "9005535894"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Parsotam Yadav!.!dhokari!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Parsotam Yadav",
+      "name": "Umakant Yadav",
+      "num": "8604180951"
+    },
+    {
+      "aadhar": "391837524239",
+      "address": "Chintamani!365!Dhokari dhokari Saifabad!mandir!allahabad saidabad!Allahabad!Allahabad!Uttar Pradesh!221508",
+      "alt": "7052708933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "chintamani",
+      "name": "Saurabh",
+      "num": "8355039449"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Lal Bahadur Patel!.!dhokari uparhar post dhokari!. Allahabad!post dhokari!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Lal Bahadur Patel",
+      "name": "Pradeep Kumar Patel",
+      "num": "9598426480"
+    },
+    {
+      "aadhar": "912608542675",
+      "address": "!SAIDABADP!dhokari uparhar Allahabad post dhokari!post dhokari!Saidabad Saifabad ALLAHABAD!ALLAHABAD!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Lal Bahadur Patel",
+      "name": "MR PRADEEP KUMAR PATEL",
+      "num": "9005535894"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Parsotam Yadav!.!dhokari!. Allahabad!!Allahabad!UTTAR PRADESH!221508",
+      "alt": "7052708933",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Parsotam Yadav",
+      "name": "Umakant Yadav",
+      "num": "8604180951"
+    },
+    {
+      "aadhar": "391837524239",
+      "address": "Chintamani!365!Dhokari dhokari Saifabad!mandir!allahabad saidabad!Allahabad!Allahabad!Uttar Pradesh!221508",
+      "alt": "7052708933",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "chintamani",
+      "name": "Saurabh",
+      "num": "8355039449"
+    }
+  ]
+}
