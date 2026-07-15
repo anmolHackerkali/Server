@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:35:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203537700",
+  "records": [
+    {
+      "aadhar": "437964258981",
+      "address": "!!Thana Road PO PS Jehanabad!Thana Road Jehanabad!Thana Road Jehanabad!Jehanabad!Jehanabad!Bihar!804408",
+      "alt": "9471414406",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Santosh Kumar",
+      "name": "Shashank Kumar",
+      "num": "6203537700"
+    },
+    {
+      "aadhar": "437964258981",
+      "address": "!!Thana Road PO PS Jehanabad!Thana Road Jehanabad!Thana Road Jehanabad!Jehanabad!Jehanabad!Bihar!804408",
+      "alt": "9471414406",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Santosh Kumar",
+      "name": "Shashank Kumar",
+      "num": "6203537700"
+    },
+    {
+      "aadhar": "437964258981",
+      "address": "!!Thana Road PO PS Jehanabad!Thana Road Jehanabad!Thana Road Jehanabad!Jehanabad!Jehanabad!Bihar!804408",
+      "alt": "9471414406",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Santosh Kumar",
+      "name": "Shashank Kumar",
+      "num": "6203537700"
+    }
+  ]
+}
