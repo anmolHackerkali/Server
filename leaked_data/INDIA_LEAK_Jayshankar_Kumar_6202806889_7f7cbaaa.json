@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:28:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6202806889",
+  "records": [
+    {
+      "aadhar": "926645090702",
+      "address": "S/O Chandeshwar Tanti!!  Ward No-0034 Bawanbigha B Deoghar!NA!Near Maa Lalita Hospital!Deoghar Deoghar Deoghar!NA!Jharkhand!814112",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Chandeshwar Tanti",
+      "name": "Jayshankar Kumar",
+      "num": "6202806889"
+    },
+    {
+      "aadhar": "926645090702",
+      "address": "S/O Chandeshwar Tanti!!. Ward No-0034 Bawanbigha B Deoghar!NA!Near Maa Lalita Hospital!Deoghar Deoghar Deoghar!NA!Jharkhand!814112",
+      "alt": "7602381745",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Chandeshwar Tanti",
+      "name": "Jayshankar Kumar",
+      "num": "6202806889"
+    },
+    {
+      "aadhar": "926645090702",
+      "address": "S/O Chandeshwar Tanti!!. Ward No-0034 Bawanbigha B Deoghar!NA!Near Maa Lalita Hospital!Deoghar Deoghar Deoghar!NA!Jharkhand!814112",
+      "alt": "7602381745",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Chandeshwar Tanti",
+      "name": "Jayshankar Kumar",
+      "num": "6202806889"
+    }
+  ]
+}
