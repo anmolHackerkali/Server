@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:46:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207712625",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O  Md  Israfil Ansari!!Ward No 10!!Temuhan Begusarai!Bihar!851111",
+      "alt": "917549817404",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Israfil Ansari",
+      "name": "Sanjida Khatoon",
+      "num": "6207712625"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O  Md  Israfil Ansari!!Ward No 10!!Temuhan Begusarai!Bihar!851111",
+      "alt": "917549817404",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Israfil Ansari",
+      "name": "Sanjida Khatoon",
+      "num": "6207712625"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O  Md  Israfil Ansari!!Ward No 10!!Temuhan Begusarai!Bihar!851111",
+      "alt": "917549817404",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Israfil Ansari",
+      "name": "Sanjida Khatoon",
+      "num": "6207712625"
+    }
+  ]
+}
