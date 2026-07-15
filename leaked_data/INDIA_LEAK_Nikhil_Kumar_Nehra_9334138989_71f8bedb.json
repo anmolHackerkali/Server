@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:50:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9334138989",
+  "records": [
+    {
+      "aadhar": "857039052655",
+      "address": "S/O Arjun Prasad! A112 satyendra kumar badi bagicha!Mourya Vihar Colony kumharar Transport Nagar!Opposite Bank Of India Galipolice station agamkuan!Kumharar b h colony!Patna!Patna!Bihar!800026",
+      "alt": "7903663929",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arjun Prasad",
+      "name": "Nikhil Kumar Nehra",
+      "num": "9334138989"
+    },
+    {
+      "aadhar": "857039052655",
+      "address": "S/O Arjun Prasad! A112 satyendra kumar badi bagicha!Mourya Vihar Colony kumharar Transport Nagar!Opposite Bank Of India Galipolice station agamkuan!Kumharar b h colony!Patna!Patna!Bihar!800026",
+      "alt": "7903663929",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Prasad",
+      "name": "Nikhil Kumar Nehra",
+      "num": "9334138989"
+    },
+    {
+      "aadhar": "857039052655",
+      "address": "S/O Arjun Prasad! A112 satyendra kumar badi bagicha!Mourya Vihar Colony kumharar Transport Nagar!Opposite Bank Of India Galipolice station agamkuan!Kumharar b h colony!Patna!Patna!Bihar!800026",
+      "alt": "7903663929",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Prasad",
+      "name": "Nikhil Kumar Nehra",
+      "num": "9334138989"
+    }
+  ]
+}
