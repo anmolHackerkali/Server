@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:31:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8887920112",
+  "records": [
+    {
+      "aadhar": "350916087621",
+      "address": "s/o  paramhans chowdhary!!CHERUEYAN Cherueyan!!cherueyan cherueyan!cheruia Rasra!ballia!Uttar Pradesh!277503",
+      "alt": "8808759135",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "paramhans chowdhary",
+      "name": "Vashishth Kumar Chowdhary",
+      "num": "8887920112"
+    },
+    {
+      "aadhar": "350916087621",
+      "address": "s/o  paramhans chowdhary!!CHERUEYAN Cherueyan!!cherueyan cherueyan!cheruia Rasra!ballia!Uttar Pradesh!277503",
+      "alt": "8808759135",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "paramhans chowdhary",
+      "name": "Vashishth Kumar Chowdhary",
+      "num": "8887920112"
+    }
+  ]
+}
