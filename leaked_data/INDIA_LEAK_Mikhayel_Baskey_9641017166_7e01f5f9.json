@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:21:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9641017166",
+  "records": [
+    {
+      "aadhar": "820850843447",
+      "address": " S/O LALMOHAN BASKEY!! Amdapal!NA!!Chainsol West Midnapore!NA!West Bengal!721507 ",
+      "alt": "8597173145",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "LALMOHAN BASKEY",
+      "name": "Mikhayel Baskey",
+      "num": "9641017166"
+    },
+    {
+      "aadhar": "820850843447",
+      "address": " S/O LALMOHAN BASKEY!! Amdapal!NA!!Chainsol West Midnapore!NA!West Bengal!721507 ",
+      "alt": "8597173145",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "LALMOHAN BASKEY",
+      "name": "Mikhayel Baskey",
+      "num": "9641017166"
+    },
+    {
+      "aadhar": "617268320856",
+      "address": " S/O  Dhanaram Hansda!!Amdapal!!chainisole!Chainsol Gopiballavpur-II!Paschim Medinipur!West Bengal!721507 ",
+      "alt": "9641017166",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dhanaram Hansda",
+      "name": "Samir Hansda",
+      "num": "9883860690"
+    },
+    {
+      "aadhar": "617268320856",
+      "address": " S/O  Dhanaram Hansda!!Amdapal!!chainisole!Chainsol Gopiballavpur-II!Paschim Medinipur!West Bengal!721507 ",
+      "alt": "9641017166",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dhanaram Hansda",
+      "name": "Samir Hansda",
+      "num": "9883860690"
+    }
+  ]
+}
