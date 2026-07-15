@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:43:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8750382720",
+  "records": [
+    {
+      "aadhar": "408667138346",
+      "address": "S/O Gulam Rasul!H N0 - K - 484!Street N0 - 4 Near Khaddey Wali Masjid!Near Khaddey Wali Masjid!Gautam Vihar ghonda bhajan pura NORTH EAST!DELHI!NORTH EAST!Delhi!110053",
+      "alt": "9555552720",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Gulam Rasul",
+      "name": "MR  FAKHRE ALAM",
+      "num": "8750382720"
+    },
+    {
+      "aadhar": " 408667138346 ",
+      "address": "S/O Gulam Rasul ! H N0 - K - 484 ! Street N0 - 4Near Khaddey Wali Masjid ! Near Khaddey Wali Masjid ! Gautam Vihar ghonda bhajan puraNORTH EAST ! DELHI ! NORTH EAST ! Delhi ! 110053",
+      "alt": "9555552720",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Gulam Rasul",
+      "name": "MR. FAKHRE ALAM",
+      "num": "8750382720"
+    },
+    {
+      "aadhar": "408667138346",
+      "address": "S/O Gulam Rasul!H N0 - K - 484!Street N0 - 4Near Khaddey Wali Masjid!Near Khaddey Wali Masjid!Gautam Vihar ghonda bhajan puraNORTH EAST!DELHI!NORTH EAST!Delhi!110053",
+      "alt": "9555552720",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Gulam Rasul",
+      "name": "MR FAKHRE ALAM",
+      "num": "8750382720"
+    },
+    {
+      "aadhar": "408667138346",
+      "address": "S/O Gulam Rasul!H N0 - K - 484!Street N0 - 4Near Khaddey Wali Masjid!Near Khaddey Wali Masjid!Gautam Vihar ghonda bhajan puraNORTH EAST!DELHI!NORTH EAST!Delhi!110053",
+      "alt": "9555552720",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Gulam Rasul",
+      "name": "MR FAKHRE ALAM",
+      "num": "8750382720"
+    }
+  ]
+}
