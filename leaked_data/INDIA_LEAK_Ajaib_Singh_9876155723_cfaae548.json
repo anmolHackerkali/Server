@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:30:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9876155723",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Harmail Singh!!Q No 3133Type 1!D M W Railway Colony!PatialaPatiala!Punjab!147003",
+      "alt": null,
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Harmail Singh",
+      "name": "Ajaib Singh",
+      "num": "9876155723"
+    }
+  ]
+}
