@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:51:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8370080449",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Prakash Chandra Gupta!!ward no-09 near state bank main road!!Sohagpur Shahdol!Madhya Pradesh!484001",
+      "alt": "917748067741",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Prakash Chandra Gupta",
+      "name": "Ashish Gupta",
+      "num": "8370080449"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Man Singh!.!.!Tiwari Tola Post-Bamhani Anuppur!!ANUPPUR!Anuppur!Madhya Pradesh!484881",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Man Singh",
+      "name": "Prithviraj Singh",
+      "num": "8370080449"
+    }
+  ]
+}
