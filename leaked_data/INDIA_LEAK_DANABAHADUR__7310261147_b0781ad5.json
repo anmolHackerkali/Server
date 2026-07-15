@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:07:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7310261147",
+  "records": [
+    {
+      "aadhar": "UP49253063447",
+      "address": "H NO 151!VILL VISHUNPUR BASVAT TEH SADAR!JAUNPUR!JAUNPUR!UTTAR PRADESH!222133",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "VISHVANATH",
+      "name": "DANABAHADUR .",
+      "num": "7310261147"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Prahlad!!!para post jiwali!Jeewali Azamgarh!Uttar Pradesh!276301",
+      "alt": "919839602678",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Prahlad",
+      "name": "Anjali Kumari",
+      "num": "7310261147"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Prahlad!!!para post jiwali!Jeewali Azamgarh!Uttar Pradesh!276301",
+      "alt": "919839602678",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Prahlad",
+      "name": "Anjali Kumari",
+      "num": "7310261147"
+    },
+    {
+      "aadhar": "677264101071",
+      "address": "w/o  prahlad!!Jeoli!para post jiwali!jeoli!jeewali Lalganj!azamgarh!Uttar Pradesh!276301",
+      "alt": "7310261147",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "prahlad",
+      "name": "Manju",
+      "num": "9792446378"
+    },
+    {
+      "aadhar": "677264101071",
+      "address": "w/o  prahlad!!Jeoli!para post jiwali!jeoli!jeewali Lalganj!azamgarh!Uttar Pradesh!276301",
+      "alt": "7310261147",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "prahlad",
+      "name": "Manju",
+      "num": "9792446378"
+    }
+  ]
+}
