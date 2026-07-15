@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:55:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7545867001",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Md Sajit!!!badi khanjarpur  masjid lane!!Jagdishpur!Bhagalpur!Bihar!812001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Sajit",
+      "name": "Md Nayyar Alam",
+      "num": "7545867001"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Md Sajit!!!badi khanjarpur  masjid lane!!Jagdishpur!Bhagalpur!Bihar!812001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Sajit",
+      "name": "Md Nayyar Alam",
+      "num": "7545867001"
+    }
+  ]
+}
