@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:35:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7739256165",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "H No 56!Vill Godiya Pathti   Post Bagah!W Champaran!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Khedan Yadav",
+      "name": "Nandu  Yadav",
+      "num": "7739256165"
+    },
+    {
+      "aadhar": null,
+      "address": "H No 56!Vill Godiya Pathti   Post Bagah!W Champaran!!!",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Khedan Yadav",
+      "name": "Nandu  Yadav",
+      "num": "7739256165"
+    }
+  ]
+}
