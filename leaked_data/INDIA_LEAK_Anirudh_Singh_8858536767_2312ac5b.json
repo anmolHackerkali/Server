@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:56:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8858536767",
+  "records": [
+    {
+      "aadhar": "311359377366",
+      "address": "!Dhanhamadhopur!!!Maharajganj!Uttar Pradesh!273301",
+      "alt": "7005435157",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Hansraj Singh",
+      "name": "Anirudh Singh",
+      "num": "8858536767"
+    },
+    {
+      "aadhar": "311359377366",
+      "address": "!Dhanhamadhopur!!!Maharajganj!Uttar Pradesh!273301",
+      "alt": "7005435157",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Hansraj Singh",
+      "name": "Anirudh Singh",
+      "num": "8858536767"
+    }
+  ]
+}
