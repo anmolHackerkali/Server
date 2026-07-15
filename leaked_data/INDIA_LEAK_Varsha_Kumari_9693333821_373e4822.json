@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:57:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693333821",
+  "records": [
+    {
+      "aadhar": "235671312422",
+      "address": "! na!shiv durga mandir lane ratu road!ratu road!sukhdev nagar hehal!Ranchi!Ranchi!Jharkhand!834001",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sanjay kumar sahu",
+      "name": "Varsha Kumari",
+      "num": "9693333821"
+    },
+    {
+      "aadhar": "235671312422",
+      "address": "! na!shiv durga mandir lane ratu road!ratu road!sukhdev nagar hehal!Ranchi!Ranchi!Jharkhand!834001",
+      "alt": "7903448371",
+      "circle": "JIO BHR&JHR",
+      "email": "bhaskarkumar2604@gmail.com",
+      "fname": "sanjay kumar sahu",
+      "name": "Varsha Kumari",
+      "num": "9693333821"
+    },
+    {
+      "aadhar": "235671312422",
+      "address": "! na!shiv durga mandir lane ratu road!ratu road!sukhdev nagar hehal!Ranchi!Ranchi!Jharkhand!834001",
+      "alt": "7903448371",
+      "circle": "JIO BHR&JHR",
+      "email": "bhaskarkumar2604@gmail.com",
+      "fname": "sanjay kumar sahu",
+      "name": "Varsha Kumari",
+      "num": "9693333821"
+    },
+    {
+      "aadhar": "231273448262",
+      "address": "D/O Sanjay Kumar Sahu!!Shiv Durga mandir Lane Ratu Road!Post- Hehal!sukhdevnagar!ranchi!Ranchi!Jharkhand!834001",
+      "alt": "9693333821",
+      "circle": "JIO BHR&JHR",
+      "email": "anuradhasahu2405@gmail.com",
+      "fname": "Sanjay Kumar Sahu",
+      "name": "Anuradha Kumari",
+      "num": "6201243320"
+    },
+    {
+      "aadhar": "231273448262",
+      "address": "D/O Sanjay Kumar Sahu!!Shiv Durga mandir Lane Ratu Road!Post- Hehal!sukhdevnagar!ranchi!Ranchi!Jharkhand!834001",
+      "alt": "9693333821",
+      "circle": "JIO BHR&JHR",
+      "email": "anuradhasahu2405@gmail.com",
+      "fname": "Sanjay Kumar Sahu",
+      "name": "Anuradha Kumari",
+      "num": "6201243320"
+    }
+  ]
+}
