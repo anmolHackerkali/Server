@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:40:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007316062",
+  "records": [
+    {
+      "aadhar": "578057870527",
+      "address": "S/O  Bhagvan Deen!!H.N. 5/18/244 BACHHDA SULTANPUR SAHAB GANJ FAIZABAD Faizabad!!Faizabad Faizabad Faizabad!Uttar Pradesh!224001",
+      "alt": "917007316062",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhagvan Deen",
+      "name": "Sant Ram",
+      "num": "7007316062"
+    },
+    {
+      "aadhar": "578057870527",
+      "address": "S/O  Bhagvan Deen!!H.N. 5/18/244 BACHHDA SULTANPUR SAHAB GANJ FAIZABAD Faizabad!!Faizabad Faizabad Faizabad!Uttar Pradesh!224001",
+      "alt": "917007316062",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Bhagvan Deen",
+      "name": "Sant Ram",
+      "num": "7007316062"
+    }
+  ]
+}
