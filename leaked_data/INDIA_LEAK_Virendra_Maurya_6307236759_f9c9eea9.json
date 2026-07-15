@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:13:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307236759",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ramdev!!DANDUPUR!!Dandupur Varanasi!Uttar Pradesh!221003",
+      "alt": "917393018458",
+      "circle": "JIO UPE",
+      "email": "anandmaurya05092001@gmail.com",
+      "fname": "Ramdev",
+      "name": "Virendra Maurya",
+      "num": "6307236759"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ramdev!!DANDUPUR!!Dandupur Varanasi!Uttar Pradesh!221003",
+      "alt": "917393018458",
+      "circle": "JIO UPE",
+      "email": "anandmaurya05092001@gmail.com",
+      "fname": "Ramdev",
+      "name": "Virendra Maurya",
+      "num": "6307236759"
+    }
+  ]
+}
