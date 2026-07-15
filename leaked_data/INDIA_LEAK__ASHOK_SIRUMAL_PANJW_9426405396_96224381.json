@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:53:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9426405396",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 82 DBZ-S GANDHIDHAM KUTCH GUJ 370201 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " ASHOK SIRUMAL PANJWANI ",
+      "num": "9426405396"
+    },
+    {
+      "aadhar": null,
+      "address": " 82 DBZ-S GANDHIDHAM KUTCH GUJ 370201 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " ASHOK SIRUMAL PANJWANI ",
+      "num": "9426405396"
+    }
+  ]
+}
