@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:35:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9470681822",
+  "records": [
+    {
+      "aadhar": "364008729892",
+      "address": "37 near dev mandir!Erki Deo orangabad (Bihar)!Bahuara Deo!Aurangabad(BH)!Bihar!824201",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "9470681822"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "37 near dev mandir!Erki Deo orangabad (Bihar)!Bahuara Deo!Aurangabad(BH)!Bihar!824201",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "9470681822"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "37 near dev mandir!Erki Deo orangabad (Bihar)!Bahuara Deo!Aurangabad(BH)!Bihar!824201",
+      "alt": null,
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "9470681822"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "S/O  Padum Sav!37!Aurangabad!near dev mandir!Erki Deo orangabad Bihar Bahuara Aurangabad BH!Gaya!Gaya!Bihar!824201",
+      "alt": "9470681822",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "6281950668"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "S/O  Padum Sav!37!Aurangabad!near dev mandir!Erki Deo orangabad Bihar Bahuara Aurangabad BH!Gaya!Gaya!Bihar!824201",
+      "alt": "9470681822",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum Sav",
+      "name": "Kamlesh Kumar",
+      "num": "6281950668"
+    }
+  ]
+}
