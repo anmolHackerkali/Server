@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:52:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9162077126",
+  "records": [
+    {
+      "aadhar": "285170138880",
+      "address": "S/O Jagdish Goswami!BATHUA BAZAR!!Madho Math!!Gopalganj!Bihar!841425",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jagdish  Goswami",
+      "name": "Vinay  Goswami",
+      "num": "9162077126"
+    },
+    {
+      "aadhar": "285170138880",
+      "address": "S/O Jagdish Goswami!BATHUA BAZAR!!Madho Math!!Gopalganj!Bihar!841425",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Jagdish  Goswami",
+      "name": "Vinay  Goswami",
+      "num": "9162077126"
+    },
+    {
+      "aadhar": "505509910130",
+      "address": "S/O  Vinay Goswami!s/o vinay goswami!madho math Bathubazar!BATHUA BAZAR!BATHUA BAZAR Madho Math Gopalga!Madho Math Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vinay Goswami",
+      "name": "Avinash Kumar",
+      "num": "9835035721"
+    },
+    {
+      "aadhar": "305001459192",
+      "address": "! Gopalpur!Gopalpur!Gopalpur!Gopalpur!Gopalganj!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chanar ram",
+      "name": "Subalal Ram",
+      "num": "6206997837"
+    },
+    {
+      "aadhar": "505509910130",
+      "address": "S/O  Vinay Goswami!s/o vinay goswami!madho math Bathubazar!BATHUA BAZAR!BATHUA BAZAR Madho Math Gopalga!Madho Math Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vinay Goswami",
+      "name": "Avinash Kumar",
+      "num": "9835035721"
+    },
+    {
+      "aadhar": "730342249977",
+      "address": " 02Ratanpura Bikarmpur Bikarmpur Bikarmpur Bikarmpur AHIYAPUR-GOPALGANJ GOPALGANJ 841501 BR ",
+      "alt": "9162077126",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SHIVCHANDRA  CHAUHAN ",
+      "name": " NITESH  CHAUHAN ",
+      "num": "9117822067"
+    },
+    {
+      "aadhar": "285170138880",
+      "address": "S/O  Jagdish Goswami!S/O  Jagdish Goswami!Bathubazar  Phulwaria!  BATHUA BAZAR!MADHO MATH-GOPALGANJ!BR!841425",
+      "alt": "9162077126",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "JAGDISH GOSWAMI",
+      "name": "VINAY GOSWAMI",
+      "num": "8651040457"
+    },
+    {
+      "aadhar": "305001459192",
+      "address": "! Gopalpur!Gopalpur!Gopalpur!Gopalpur!Gopalganj!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chanar ram",
+      "name": "Subalal Ram",
+      "num": "6206997837"
+    },
+    {
+      "aadhar": "505509910130",
+      "address": "S/O  Vinay Goswami!s/o vinay goswami!madho math Bathubazar!BATHUA BAZAR!BATHUA BAZAR Madho Math Gopalga!Madho Math Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vinay Goswami",
+      "name": "Avinash Kumar",
+      "num": "9835035721"
+    },
+    {
+      "aadhar": "730342249977",
+      "address": " 02Ratanpura Bikarmpur Bikarmpur Bikarmpur Bikarmpur AHIYAPUR-GOPALGANJ GOPALGANJ 841501 BR ",
+      "alt": "9162077126",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SHIVCHANDRA  CHAUHAN ",
+      "name": " NITESH  CHAUHAN ",
+      "num": "9117822067"
+    },
+    {
+      "aadhar": "285170138880",
+      "address": "S/O  Jagdish Goswami!S/O  Jagdish Goswami!Bathubazar  Phulwaria!  BATHUA BAZAR!MADHO MATH-GOPALGANJ!BR!841425",
+      "alt": "9162077126",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "JAGDISH GOSWAMI",
+      "name": "VINAY GOSWAMI",
+      "num": "8651040457"
+    },
+    {
+      "aadhar": "305001459192",
+      "address": "! Gopalpur!Gopalpur!Gopalpur!Gopalpur!Gopalganj!Gopalganj!Bihar!841425",
+      "alt": "9162077126",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chanar ram",
+      "name": "Subalal Ram",
+      "num": "6206997837"
+    }
+  ]
+}
