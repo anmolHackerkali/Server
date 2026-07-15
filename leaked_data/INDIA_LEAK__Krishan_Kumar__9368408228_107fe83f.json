@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:15:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368408228",
+  "records": [
+    {
+      "aadhar": "751370842234",
+      "address": "   S/O Tarachand  !412!Krishna Colony!  Krishna Colony Muradnagar  !Ghaziabad!Uttar Pradesh!201206 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " tarachand ",
+      "name": " Krishan Kumar ",
+      "num": "9368408228"
+    },
+    {
+      "aadhar": "751370842234",
+      "address": "   S/O Tarachand  !412!Krishna Colony!  Krishna Colony Muradnagar  !Ghaziabad!Uttar Pradesh!201206 ",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " tarachand ",
+      "name": " Krishan Kumar ",
+      "num": "9368408228"
+    }
+  ]
+}
