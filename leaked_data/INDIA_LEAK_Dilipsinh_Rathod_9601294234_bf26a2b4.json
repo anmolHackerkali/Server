@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:21:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9601294234",
+  "records": [
+    {
+      "aadhar": "KSB3019213",
+      "address": "113 Motawas Rathodewas banaskantha memadpur  vadgam Mua po memdpur ta vadgam Banaskantha",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "dilipsinhahbhesinh@gamil.com",
+      "fname": "Abhesinh",
+      "name": "Dilipsinh Rathod",
+      "num": "9601294234"
+    },
+    {
+      "aadhar": "KSB3019213",
+      "address": "113 Motawas Rathodewas banaskantha memadpur  vadgam Mua po memdpur ta vadgam Banaskantha",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": "dilipsinhahbhesinh@gamil.com",
+      "fname": "Abhesinh",
+      "name": "Dilipsinh Rathod",
+      "num": "9601294234"
+    }
+  ]
+}
