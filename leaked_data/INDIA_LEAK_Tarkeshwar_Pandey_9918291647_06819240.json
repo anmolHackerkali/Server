@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:57:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9918291647",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Sadanand Pandey!!MAHUWAWA PANDEY!!Dumwalia Deoria!Uttar Pradesh!274509",
+      "alt": "918004789461",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sadanand Pandey",
+      "name": "Tarkeshwar Pandey",
+      "num": "9918291647"
+    },
+    {
+      "aadhar": "YAT0622829",
+      "address": "H NO 653!VILL JEYARA PS BANSGAON TEH BANSGAON!GORAKHPUR!GORAKHPUR!UTTAR PRADESH!273403",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAMASINGARE",
+      "name": "RAJMAL .",
+      "num": "9918291647"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Sadanand Pandey!!MAHUWAWA PANDEY!!Dumwalia Deoria!Uttar Pradesh!274509",
+      "alt": "918004789461",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sadanand Pandey",
+      "name": "Tarkeshwar Pandey",
+      "num": "9918291647"
+    },
+    {
+      "aadhar": "809506564584",
+      "address": "!0!mahuwawa pandey!!Dumwalia   Dumwalia!Deoria!Deoria!Uttar Pradesh!274509",
+      "alt": "9918291647",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "sadanand pandey",
+      "name": "Tarkeshwar Pandey",
+      "num": "8004789461"
+    },
+    {
+      "aadhar": "809506564584",
+      "address": "!0!mahuwawa pandey!!Dumwalia   Dumwalia!Deoria!Deoria!Uttar Pradesh!274509",
+      "alt": "9918291647",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "sadanand pandey",
+      "name": "Tarkeshwar Pandey",
+      "num": "8004789461"
+    }
+  ]
+}
