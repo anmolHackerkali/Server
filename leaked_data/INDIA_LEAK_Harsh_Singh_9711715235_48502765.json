@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:07:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9711715235",
+  "records": [
+    {
+      "aadhar": "938566136885",
+      "address": "S/O Ravindra Singh!!28/403  EAST END APARTMENTS!MAYUR VIHAR PHASE1 EXTENSION!NEW ASHOK NAGAR EAST DELHI!Delhi!110096",
+      "alt": "919999771505",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Singh",
+      "name": "Harsh Singh",
+      "num": "9711715235"
+    },
+    {
+      "aadhar": "938566136885",
+      "address": "S/O Ravindra Singh!!28/403 EAST END APARTMENTS!MAYUR VIHAR PHASE1 EXTENSION!NEW ASHOK NAGAR EAST DELHI!Delhi!110096",
+      "alt": "919999771505",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Singh",
+      "name": "Harsh Singh",
+      "num": "9711715235"
+    },
+    {
+      "aadhar": "938566136885",
+      "address": "S/O Ravindra Singh!!28/403 EAST END APARTMENTS!MAYUR VIHAR PHASE1 EXTENSION!NEW ASHOK NAGAR EAST DELHI!Delhi!110096",
+      "alt": "919999771505",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ravindra Singh",
+      "name": "Harsh Singh",
+      "num": "9711715235"
+    }
+  ]
+}
