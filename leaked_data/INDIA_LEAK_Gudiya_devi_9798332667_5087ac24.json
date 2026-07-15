@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:29:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798332667",
+  "records": [
+    {
+      "aadhar": "987981468134",
+      "address": "!!Badi milki Badi milki Rajgir!NA!Rajgir!Nalanda Nalanda!NA!Bihar!803116",
+      "alt": "9934345609",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jitendra kumar",
+      "name": "Gudiya devi",
+      "num": "9798332667"
+    },
+    {
+      "aadhar": "987981468134",
+      "address": "!!Badi milki Badi milki Rajgir!NA!Rajgir!Nalanda Nalanda!NA!Bihar!803116",
+      "alt": "9934345609",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jitendra kumar",
+      "name": "Gudiya devi",
+      "num": "9798332667"
+    },
+    {
+      "aadhar": "987981468134",
+      "address": "!!Badi milki Badi milki Rajgir!NA!Rajgir!Nalanda Nalanda!NA!Bihar!803116",
+      "alt": "9934345609",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jitendra kumar",
+      "name": "Gudiya devi",
+      "num": "9798332667"
+    },
+    {
+      "aadhar": "624626234983",
+      "address": "!12!Rajgir nawada!Rajgir!Rajgir!Nalanda bihar!Nalanda!Bihar!803116",
+      "alt": "9798332667",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Prasad singh",
+      "name": "Jitendra Kumar Singh",
+      "num": "9934345609"
+    },
+    {
+      "aadhar": "624626234983",
+      "address": "!12!Rajgir nawada!Rajgir!Rajgir!Nalanda bihar!Nalanda!Bihar!803116",
+      "alt": "9798332667",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Prasad singh",
+      "name": "Jitendra Kumar Singh",
+      "num": "9934345609"
+    }
+  ]
+}
