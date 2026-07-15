@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:00:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8651649491",
+  "records": [
+    {
+      "aadhar": "271862494011",
+      "address": " ward 4 kori!Kori!!Bhojpur Kori!Bhojpur!Bhojpur!Bihar!802164 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Saw ",
+      "name": " Ramnarayan Saw ",
+      "num": "8651649491"
+    },
+    {
+      "aadhar": "271862494011",
+      "address": " ward 4 kori!Kori!!Bhojpur Kori!Bhojpur!Bhojpur!Bihar!802164 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Lakshman Saw ",
+      "name": " Ramnarayan Saw ",
+      "num": "8651649491"
+    },
+    {
+      "aadhar": "292113073366",
+      "address": "! ward no 8!kori bhojpur bihar sandarpur ramasad chela surugapur sandesh!near school!sandesh!Bhojpur!Bhojpur!Bihar!802164",
+      "alt": "8651649491",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ramnarayan saw",
+      "name": "Shama Devi",
+      "num": "7808101757"
+    },
+    {
+      "aadhar": "292113073366",
+      "address": "! ward no 8!kori bhojpur bihar sandarpur ramasad chela surugapur sandesh!near school!sandesh!Bhojpur!Bhojpur!Bihar!802164",
+      "alt": "8651649491",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ramnarayan saw",
+      "name": "Shama Devi",
+      "num": "7808101757"
+    },
+    {
+      "aadhar": "292113073366",
+      "address": "! ward no 8!kori bhojpur bihar sandarpur ramasad chela surugapur sandesh!near school!sandesh!Bhojpur!Bhojpur!Bihar!802164",
+      "alt": "8651649491",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ramnarayan saw",
+      "name": "Shama Devi",
+      "num": "7808101757"
+    }
+  ]
+}
