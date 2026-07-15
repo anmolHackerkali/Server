@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:07:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210686154",
+  "records": [
+    {
+      "aadhar": "229188947650",
+      "address": "S/O  Ashok Kumar Pandey!!bairivanavas!thana raushanganj!Azamgarh Gaya!Bihar!824217",
+      "alt": "917463974188",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Kumar Pandey",
+      "name": "Pankaj Kumar Pandey",
+      "num": "8210686154"
+    },
+    {
+      "aadhar": "229188947650",
+      "address": "S/O  Ashok Kumar Pandey!!bairivanavas!thana raushanganj!Azamgarh Gaya!Bihar!824217",
+      "alt": "917463974188",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Kumar Pandey",
+      "name": "Pankaj Kumar Pandey",
+      "num": "8210686154"
+    },
+    {
+      "aadhar": "399218982614",
+      "address": "S/O Vijay Pandey! ghar hathiawan!hathiawan!shiv mandir!thana mahkar hathiawan!Jehanabad!Jehanabad!Bihar!804407",
+      "alt": "8210686154",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vijay Pandey",
+      "name": "Mukesh Pandey",
+      "num": "7061437174"
+    },
+    {
+      "aadhar": "399218982614",
+      "address": "S/O Vijay Pandey! ghar hathiawan!hathiawan!shiv mandir!thana mahkar hathiawan!Jehanabad!Jehanabad!Bihar!804407",
+      "alt": "8210686154",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Pandey",
+      "name": "Mukesh Pandey",
+      "num": "7061437174"
+    },
+    {
+      "aadhar": "399218982614",
+      "address": "S/O Vijay Pandey! ghar hathiawan!hathiawan!shiv mandir!thana mahkar hathiawan!Jehanabad!Jehanabad!Bihar!804407",
+      "alt": "8210686154",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Pandey",
+      "name": "Mukesh Pandey",
+      "num": "7061437174"
+    }
+  ]
+}
