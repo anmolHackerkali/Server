@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:25:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8877534386",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Prem Paswan! ! !mohammadpur Munger!!KHAGARIA!Munger!BIHAR!811202",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Prem Paswan",
+      "name": "Divakar Kumar",
+      "num": "8877534386"
+    },
+    {
+      "aadhar": "609373047288",
+      "address": " VILLAGE PO PIPRAUN  PS WORD NO - 10 VILLAGE PO PIPRAUN  PS WORD NO - 10 UMGAON KOTHI HARLAKHI MADHUBANI MADHUBANI MADHUBANI BIHAR 847240 ",
+      "alt": "9155551002",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Biptu Mahto ",
+      "name": " MR  TINKU KUMAR ",
+      "num": "8877534386"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Prem Paswan! ! !mohammadpur Munger!!KHAGARIA!Munger!BIHAR!811202",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Prem Paswan",
+      "name": "Divakar Kumar",
+      "num": "8877534386"
+    },
+    {
+      "aadhar": "609373047288",
+      "address": " VILLAGE PO PIPRAUN  PS WORD NO - 10 VILLAGE PO PIPRAUN  PS WORD NO - 10 UMGAON KOTHI HARLAKHI MADHUBANI MADHUBANI MADHUBANI BIHAR 847240 ",
+      "alt": "9155551002",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Biptu Mahto ",
+      "name": " MR  TINKU KUMAR ",
+      "num": "8877534386"
+    }
+  ]
+}
