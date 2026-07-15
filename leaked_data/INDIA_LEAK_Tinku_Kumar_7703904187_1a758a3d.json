@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:36:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7703904187",
+  "records": [
+    {
+      "aadhar": "878714105292",
+      "address": "!H. No. 921!c2!!Palam vihar!Gurgaon!Gurgaon!Haryana!122006",
+      "alt": "8092627336",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "anandi mandal",
+      "name": "Tinku Kumar",
+      "num": "7703904187"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ANKIT JAIN",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7703904187"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ANKIT JAIN",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7703904187"
+    },
+    {
+      "aadhar": "878714105292",
+      "address": "!H No 921!c2!!Palam vihar!Gurgaon!Gurgaon!Haryana!122006",
+      "alt": "8092627336",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "anandi mandal",
+      "name": "Tinku Kumar",
+      "num": "7703904187"
+    },
+    {
+      "aadhar": "878714105292",
+      "address": "!H No 921!c2!!Palam vihar!Gurgaon!Gurgaon!Haryana!122006",
+      "alt": "8092627336",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "anandi mandal",
+      "name": "Tinku Kumar",
+      "num": "7703904187"
+    },
+    {
+      "aadhar": "50200006154822",
+      "address": "271/18 NALA PAR!BALBIR NAGAR EXTN!!DELHI!Delhi!110093",
+      "alt": "9310002036",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "ANKIT JAIN",
+      "name": "SHREE JEE HOME FURNISHING",
+      "num": "7703904187"
+    }
+  ]
+}
