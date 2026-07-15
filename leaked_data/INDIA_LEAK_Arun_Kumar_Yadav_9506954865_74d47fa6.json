@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:56:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9506954865",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ganga Prasad Yadav!!! viviyapur Rasulabad!Faizabad!Uttar Pradesh!224172",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ganga Prasad Yadav",
+      "name": "Arun Kumar Yadav",
+      "num": "9506954865"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ganga Prasad Yadav!!! viviyapur Rasulabad!Faizabad!Uttar Pradesh!224172",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ganga Prasad Yadav",
+      "name": "Arun Kumar Yadav",
+      "num": "9506954865"
+    },
+    {
+      "aadhar": "915696361142",
+      "address": "!RAM KRISHAN YADAV  BIBIYAPUR  RASULABAD!FAIZABAD!FAIZABAD!RASULABAD FAIZABAD!FAIZABAD!UTTAR PRADESH!224172",
+      "alt": "9506954865",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Krishn Yadav",
+      "name": "MS SRISTI YADAV",
+      "num": "8419800185"
+    },
+    {
+      "aadhar": "915696361142",
+      "address": "!RAM KRISHAN YADAV  BIBIYAPUR  RASULABAD!FAIZABAD!FAIZABAD!RASULABAD FAIZABAD!FAIZABAD!UTTAR PRADESH!224172",
+      "alt": "9506954865",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Krishn Yadav",
+      "name": "MS SRISTI YADAV",
+      "num": "8419800185"
+    }
+  ]
+}
