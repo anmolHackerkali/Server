@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:28:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307228735",
+  "records": [
+    {
+      "aadhar": "568155153561",
+      "address": "s/o  bhuneshwar yadav! Bhuwal chhapra!Sripalpur!!bhuwal chhapra bhuwal chhapra sripalpur!bhuwal chhapra Bairia!ballia!Uttar Pradesh!277216",
+      "alt": "9335159134",
+      "circle": "JIO UPE",
+      "email": "azad.studio006@gmail.com",
+      "fname": "bhuneshwar yadav",
+      "name": "Dhiraj Kumar Yadav",
+      "num": "6307228735"
+    },
+    {
+      "aadhar": "568155153561",
+      "address": "s/o  bhuneshwar yadav! Bhuwal chhapra!Sripalpur!!bhuwal chhapra bhuwal chhapra sripalpur!bhuwal chhapra Bairia!ballia!Uttar Pradesh!277216",
+      "alt": "9335159134",
+      "circle": "JIO UPE",
+      "email": "azad.studio006@gmail.com",
+      "fname": "bhuneshwar yadav",
+      "name": "Dhiraj Kumar Yadav",
+      "num": "6307228735"
+    }
+  ]
+}
