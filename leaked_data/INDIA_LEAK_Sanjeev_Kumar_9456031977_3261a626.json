@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:20:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9456031977",
+  "records": [
+    {
+      "aadhar": "731203549378",
+      "address": "24 nikat prathama bank Guarau  Guaroo-Bilari-Moradabad Uttar Pradesh 202415",
+      "alt": "0",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "Sanjeev Kumar",
+      "num": "9456031977"
+    },
+    {
+      "aadhar": "731203549378",
+      "address": "24 nikat prathama bank Guarau  Guaroo-Bilari-Moradabad Uttar Pradesh 202415",
+      "alt": "0",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Rajpal Singh",
+      "name": "Sanjeev Kumar",
+      "num": "9456031977"
+    }
+  ]
+}
