@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:22:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709761794",
+  "records": [
+    {
+      "aadhar": "773896715149",
+      "address": "S/O  Mohammad Ainulll Haque!!ward no 07 udapatti!udapatti!BATHUA BUZRUG SAMASTIPUR!Bihar!848127",
+      "alt": "919534497517",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mohammad Ainulll Haque",
+      "name": "Md Maqsood Alam",
+      "num": "8709761794"
+    },
+    {
+      "aadhar": "773896715149",
+      "address": "S/O  Mohammad Ail Haque!!ward no 07 udapatti!udapatti!BATHUA BUZRUG SAMASTIPUR!Bihar!848127",
+      "alt": "919534497517",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mohammad Ail Haque",
+      "name": "Md Maqsood Alam",
+      "num": "8709761794"
+    },
+    {
+      "aadhar": "773896715149",
+      "address": "S/O  Mohammad Ail Haque!!ward no 07 udapatti!udapatti!BATHUA BUZRUG SAMASTIPUR!Bihar!848127",
+      "alt": "919534497517",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Mohammad Ail Haque",
+      "name": "Md Maqsood Alam",
+      "num": "8709761794"
+    }
+  ]
+}
