@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:22:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6287626776",
+  "records": [
+    {
+      "aadhar": "293752135640",
+      "address": "NA!Tandwa PO!NA!bakchoma Manatu Keredari!Chatra!Hazaribagh!Jharkhand!825321",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ganesh Mahto",
+      "name": "Manoj Kumar Mahto",
+      "num": "6287626776"
+    },
+    {
+      "aadhar": "293752135640",
+      "address": "NA!Tandwa PO!NA!bakchoma Manatu Keredari!Chatra!Hazaribagh!Jharkhand!825321",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ganesh Mahto",
+      "name": "Manoj Kumar Mahto",
+      "num": "6287626776"
+    },
+    {
+      "aadhar": "352074450238",
+      "address": "!!sikri!thana-simaria  sikri!Gram sikri panchayat pundra po Tutilawa!Chatra!Chatra!Jharkhand!825103",
+      "alt": "6287626776",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Manoj Kumar Mahto",
+      "name": "Yashoda Kumari",
+      "num": "9508775719"
+    },
+    {
+      "aadhar": "352074450238",
+      "address": "!!sikri!thana-simaria  sikri!Gram sikri panchayat pundra po Tutilawa!Chatra!Chatra!Jharkhand!825103",
+      "alt": "6287626776",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Manoj Kumar Mahto",
+      "name": "Yashoda Kumari",
+      "num": "9508775719"
+    }
+  ]
+}
