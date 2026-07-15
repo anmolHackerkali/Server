@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:46:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7654357017",
+  "records": [
+    {
+      "aadhar": "304616037135",
+      "address": "s/o md  zabir! 3245!pipradih!near imambada chowk!bokaro!chandarpura!bokaro!Jharkhand!828403",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md zabir",
+      "name": "Md Abushad",
+      "num": "7654357017"
+    },
+    {
+      "aadhar": "304616037135",
+      "address": "s/o md. zabir! 3245!pipradih!near imambada chowk!bokaro!chandarpura!bokaro!Jharkhand!828403",
+      "alt": "7050907826",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "md zabir",
+      "name": "Md Abushad",
+      "num": "7654357017"
+    },
+    {
+      "aadhar": "304616037135",
+      "address": "s/o md. zabir! 3245!pipradih!near imambada chowk!bokaro!chandarpura!bokaro!Jharkhand!828403",
+      "alt": "7050907826",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "md zabir",
+      "name": "Md Abushad",
+      "num": "7654357017"
+    },
+    {
+      "aadhar": "313723784839",
+      "address": "D/O  Md  Zabir!!Villag-Piparadih Villag-Piparadih Ghatiyari Chandrapura!NA!Chandrapura!Chandarpura Chandrapura Bokaro!NA!Jharkhand!828403",
+      "alt": "7654357017",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Zabir",
+      "name": "Sonam Perveen",
+      "num": "8434160228"
+    },
+    {
+      "aadhar": "852560624327",
+      "address": "S/O  Md  Kurban!!28 vill - Piparadih  Panchayat - ghatiyari Chandrapura!NA!Chandrapura!Chandarpura Chandrapura Bokaro!NA!Jharkhand!828403",
+      "alt": "7654357017",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Kurban",
+      "name": "Md Jabir",
+      "num": "8409490622"
+    },
+    {
+      "aadhar": "313723784839",
+      "address": "D/O  Md  Zabir!!Villag-Piparadih Villag-Piparadih Ghatiyari Chandrapura!NA!Chandrapura!Chandarpura Chandrapura Bokaro!NA!Jharkhand!828403",
+      "alt": "7654357017",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Zabir",
+      "name": "Sonam Perveen",
+      "num": "8434160228"
+    },
+    {
+      "aadhar": "852560624327",
+      "address": "S/O  Md  Kurban!!28 vill - Piparadih  Panchayat - ghatiyari Chandrapura!NA!Chandrapura!Chandarpura Chandrapura Bokaro!NA!Jharkhand!828403",
+      "alt": "7654357017",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Kurban",
+      "name": "Md Jabir",
+      "num": "8409490622"
+    }
+  ]
+}
