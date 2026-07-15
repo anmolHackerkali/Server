@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:15:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9555334721",
+  "records": [
+    {
+      "aadhar": "255279685287",
+      "address": "s/o  vishraam!!bhuddhuganj to majha Captainganj!harraiya!bhuddhuganj to majha post- garha gautam majha dubauli!captainganj Harraiya!basti!Uttar Pradesh!272131",
+      "alt": "9792282544",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vishraam",
+      "name": "Jagatram",
+      "num": "9555334721"
+    },
+    {
+      "aadhar": "255279685287",
+      "address": "s/o  vishraam!!bhuddhuganj to majha Captainganj!harraiya!bhuddhuganj to majha post- garha gautam majha dubauli!captainganj Harraiya!basti!Uttar Pradesh!272131",
+      "alt": "9792282544",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vishraam",
+      "name": "Jagatram",
+      "num": "9555334721"
+    }
+  ]
+}
