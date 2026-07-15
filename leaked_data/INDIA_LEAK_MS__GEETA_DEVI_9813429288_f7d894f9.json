@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:55:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813429288",
+  "records": [
+    {
+      "aadhar": "205043109025",
+      "address": "W/O Satbir Kumar House N0 883 Chhotu Ram Park Gali N0 4 Jhajjar Road  House N0 883JHAJJAR BAHADURGARH JHAJJAR HARYANA 124507",
+      "alt": "9466052644",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Satbir kumar",
+      "name": "MS  GEETA DEVI",
+      "num": "9813429288"
+    }
+  ]
+}
