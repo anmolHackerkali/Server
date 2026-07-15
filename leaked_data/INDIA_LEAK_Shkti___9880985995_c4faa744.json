@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:56:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9880985995",
+  "records": [
+    {
+      "aadhar": "503437918444",
+      "address": "3/5/176 Chitapur chittavali bahar peth  Gulbarga Kalaburagi Karnataka 585211",
+      "alt": "9606350761",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Sharanappa  Talavar",
+      "name": "Shkti  ",
+      "num": "9880985995"
+    }
+  ]
+}
