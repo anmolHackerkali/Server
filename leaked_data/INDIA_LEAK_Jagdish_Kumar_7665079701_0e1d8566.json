@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:39:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7665079701",
+  "records": [
+    {
+      "aadhar": "968263702088",
+      "address": "! A2 201 shashwat 3!Shivanand bunglow!!vastral!Ahmedabad City!Ahmadabad!Gujarat!382418",
+      "alt": "9724131170",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Jagdish Kumar",
+      "num": "7665079701"
+    },
+    {
+      "aadhar": "968263702088",
+      "address": "! A2 201 shashwat 3!Shivanand bunglow!!vastral!Ahmedabad City!Ahmadabad!Gujarat!382418",
+      "alt": "9724131170",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Jagdish Kumar",
+      "num": "7665079701"
+    },
+    {
+      "aadhar": "968263702088",
+      "address": "! A2 201 shashwat 3!Shivanand bunglow!!vastral!Ahmedabad City!Ahmadabad!Gujarat!382418",
+      "alt": "9724131170",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "mohanlal",
+      "name": "Jagdish Kumar",
+      "num": "7665079701"
+    }
+  ]
+}
