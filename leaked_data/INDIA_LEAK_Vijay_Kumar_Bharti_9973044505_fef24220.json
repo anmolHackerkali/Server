@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:59:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9973044505",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx0613",
+      "address": "S/O Nagina Bhuiyan!Barabagi  Vill Barabagi  Post Tatra  Ps Rajpur!!!!Chatra!Jharkhand!825401",
+      "alt": "8709704752",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nagina  Bhuiyan",
+      "name": "Vijay Kumar Bharti",
+      "num": "9973044505"
+    },
+    {
+      "aadhar": "xxxxxxxx0613",
+      "address": "S/O Nagina Bhuiyan!Barabagi  Vill Barabagi  Post Tatra  Ps Rajpur!!!!Chatra!Jharkhand!825401",
+      "alt": "8709704752",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nagina  Bhuiyan",
+      "name": "Vijay Kumar Bharti",
+      "num": "9973044505"
+    }
+  ]
+}
