@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:57:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8405050907",
+  "records": [
+    {
+      "aadhar": "474195225186",
+      "address": "!!ward no 03 Satanpur Satanpur!NA!Samastipur!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9709733304",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Upendra Sah",
+      "name": "Pawan Kumar",
+      "num": "8405050907"
+    },
+    {
+      "aadhar": "474195225186",
+      "address": "!!ward no 03 Satanpur Satanpur!NA!Samastipur!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9709733304",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Upendra Sah",
+      "name": "Pawan Kumar",
+      "num": "8405050907"
+    },
+    {
+      "aadhar": "474195225186",
+      "address": "!!ward no 03 Satanpur Satanpur!NA!Samastipur!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9709733304",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Upendra Sah",
+      "name": "Pawan Kumar",
+      "num": "8405050907"
+    },
+    {
+      "aadhar": "474195225186",
+      "address": "Upendra Sah!!Satanpur!ward no 3!Satanpur-Ujiarpur-Samastipur!Bihar!848132",
+      "alt": "8405050907",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Upendra Sah",
+      "name": "Pawan Kumar",
+      "num": "9709733304"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Moje Lal Ray!chaknizam!Ward-09!  Samastipur!!BELARI B O - SPR!Samastipur!BIHAR!848132",
+      "alt": "8405050907",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "D/O  Moje Lal Ray",
+      "name": "Nikki Kumari",
+      "num": "7349883484"
+    },
+    {
+      "aadhar": "474195225186",
+      "address": "Upendra Sah!!Satanpur!ward no 3!Satanpur-Ujiarpur-Samastipur!Bihar!848132",
+      "alt": "8405050907",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Upendra Sah",
+      "name": "Pawan Kumar",
+      "num": "9709733304"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O  Moje Lal Ray!chaknizam!Ward-09!  Samastipur!!BELARI B O - SPR!Samastipur!BIHAR!848132",
+      "alt": "8405050907",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "D/O  Moje Lal Ray",
+      "name": "Nikki Kumari",
+      "num": "7349883484"
+    }
+  ]
+}
