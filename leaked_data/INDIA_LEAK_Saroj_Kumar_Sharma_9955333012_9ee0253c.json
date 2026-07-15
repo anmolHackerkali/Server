@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:48:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955333012",
+  "records": [
+    {
+      "aadhar": "548280183585",
+      "address": "s/o  kanhaiya sharma!near patrol pump-amba!!near patrol pump- amba!!amba!aurangabad!Bihar!824111",
+      "alt": "9955333012",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "kanhaiya sharma",
+      "name": "Saroj Kumar Sharma",
+      "num": "7870642723"
+    },
+    {
+      "aadhar": "548280183585",
+      "address": "s/o  kanhaiya sharma!near patrol pump-amba!!near patrol pump- amba!!amba!aurangabad!Bihar!824111",
+      "alt": "9955333012",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "kanhaiya sharma",
+      "name": "Saroj Kumar Sharma",
+      "num": "7870642723"
+    },
+    {
+      "aadhar": "548280183585",
+      "address": "s/o  kanhaiya sharma!near patrol pump-amba!!near patrol pump- amba!!amba!aurangabad!Bihar!824111",
+      "alt": "9955333012",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "kanhaiya sharma",
+      "name": "Saroj Kumar Sharma",
+      "num": "7870642723"
+    }
+  ]
+}
