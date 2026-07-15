@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:19:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9638791793",
+  "records": [
+    {
+      "aadhar": "271567034843",
+      "address": "gidc dediyasan 2!mahesana dediyasan!mahesana!MAHESANA!384002",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "manoranjan",
+      "name": "Jaydeb Dey",
+      "num": "9638791793"
+    },
+    {
+      "aadhar": "271567034843",
+      "address": "gidc dediyasan 2!mahesana dediyasan!mahesana!MAHESANA!384002",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "manoranjan",
+      "name": "Jaydeb Dey",
+      "num": "9638791793"
+    },
+    {
+      "aadhar": "271567034843",
+      "address": "gidc dediyasan 2!mahesana dediyasan!mahesana!MAHESANA!384002",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "manoranjan",
+      "name": "Jaydeb Dey",
+      "num": "9638791793"
+    }
+  ]
+}
