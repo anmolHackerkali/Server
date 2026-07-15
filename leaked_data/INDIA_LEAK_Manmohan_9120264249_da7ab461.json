@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:52:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9120264249",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Maddeshiya!!pipra daula kadam!  Pipra Daulakadam!Deoria!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Nandlal Maddeshiya",
+      "name": "Manmohan",
+      "num": "9120264249"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Maddeshiya!.!pipra daula kadam!. Deoria!!Deoria!UTTAR PRADESH!274206",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Nandlal Maddeshiya",
+      "name": "Manmohan ",
+      "num": "9120264249"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Maddeshiya!.!pipra daula kadam!. Deoria!!Deoria!UTTAR PRADESH!274206",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Nandlal Maddeshiya",
+      "name": "Manmohan ",
+      "num": "9120264249"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Nandlal Maddeshiya!!pipra daula kadam!  Pipra Daulakadam!Deoria!Uttar Pradesh!274206",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Nandlal Maddeshiya",
+      "name": "Manmohan",
+      "num": "9120264249"
+    }
+  ]
+}
