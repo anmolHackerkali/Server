@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:20:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6396062037",
+  "records": [
+    {
+      "aadhar": "793149643380",
+      "address": "!0!kendki Saharanpur!!Roorkee!Saharanpur!Saharanpur!Uttar Pradesh!247554",
+      "alt": "6398003527",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Noor Mohammad",
+      "name": "Gufran  ",
+      "num": "6396062037"
+    },
+    {
+      "aadhar": "757461166067",
+      "address": "s/o  anvar!116!taiyyabpur bada jataul saharanpur!mandir!taiyabpur bada!jataul!saharanpur!Uttar Pradesh!247551",
+      "alt": "6396062037",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "anvar",
+      "name": "Gulfam  ",
+      "num": "9528623221"
+    }
+  ]
+}
