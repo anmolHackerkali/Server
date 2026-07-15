@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:00:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9041511189",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Hardeep Singh H NO-175!!RAIL VIHAR!Jalandhar - I Chogitti Jalandhar - I Jalandhar!Jalandhar - I!Punjab!144009",
+      "alt": "9779440041",
+      "circle": "Punjab",
+      "email": null,
+      "fname": "HARDEEP SINGH",
+      "name": "AMARPREET SINGH",
+      "num": "9041511189"
+    }
+  ]
+}
