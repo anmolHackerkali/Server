@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:47:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8279613105",
+  "records": [
+    {
+      "aadhar": "627844634954",
+      "address": "S/O  Babulal!!shyam nagar colonymorkuti ke peeche rajpur-2!mathura!Rajpur KhadarMathura!Uttar Pradesh!281121",
+      "alt": "+917500522876",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Babulal",
+      "name": "Prempal Singh",
+      "num": "8279613105"
+    },
+    {
+      "aadhar": "627844634954",
+      "address": "S/O  Babulal!!shyam nagar colony morkuti ke peeche rajpur-2!mathura!Rajpur Khadar Mathura!Uttar Pradesh!281121",
+      "alt": "917500522876",
+      "circle": "JIO UPE UPW",
+      "email": "premips786@gmail.com",
+      "fname": "Babulal",
+      "name": "Prempal Singh",
+      "num": "8279613105"
+    },
+    {
+      "aadhar": "627844634954",
+      "address": "S/O  Babulal!!shyam nagar colony morkuti ke peeche rajpur-2!mathura!Rajpur Khadar Mathura!Uttar Pradesh!281121",
+      "alt": "917500522876",
+      "circle": "JIO UPE UPW",
+      "email": "premips786@gmail.com",
+      "fname": "Babulal",
+      "name": "Prempal Singh",
+      "num": "8279613105"
+    }
+  ]
+}
