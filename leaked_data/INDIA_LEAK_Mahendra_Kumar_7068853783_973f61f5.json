@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:44:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7068853783",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ramsubhag!!!JAMOHARA pidari kala Pirar Kalan!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra Kumar",
+      "num": "7068853783"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ramsubhag!!!JAMOHARA pidari kala Pirar Kalan!Sant Kabir Nagar!Uttar Pradesh!272271",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramsubhag",
+      "name": "Mahendra Kumar",
+      "num": "7068853783"
+    }
+  ]
+}
