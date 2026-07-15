@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:48:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9873839088",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Samay Pal!G-12/89! !Sangam Vihar South Delhi!!DELHI!South Delhi!Delhi!110062",
+      "alt": "9999617356",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Samay Pal",
+      "name": "Sonu  ",
+      "num": "9873839088"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Samay Pal!G-12/89!!Sangam ViharSouth Delhi!!DELHI!South Delhi!Delhi!110062",
+      "alt": "9999617356",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Samay Pal",
+      "name": "Sonu ",
+      "num": "9873839088"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Samay Pal!G-12/89!!Sangam ViharSouth Delhi!!DELHI!South Delhi!Delhi!110062",
+      "alt": "9999617356",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Samay Pal",
+      "name": "Sonu ",
+      "num": "9873839088"
+    }
+  ]
+}
