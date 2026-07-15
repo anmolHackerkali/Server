@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:25:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6388159539",
+  "records": [
+    {
+      "aadhar": "228075352926",
+      "address": "S/O  Kanhaiyalal!!- Karaundi!NONDRA!Karnayi Pur Amethi Amethi!Uttar Pradesh!227413",
+      "alt": "919452002425",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kanhaiyalal",
+      "name": "RAVI SHANKAR",
+      "num": "6388159539"
+    },
+    {
+      "aadhar": "228075352926",
+      "address": "S/O  Kanhaiyalal!!- Karaundi!NONDRA!Karnayi Pur Amethi Amethi!Uttar Pradesh!227413",
+      "alt": "919452002425",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kanhaiyalal",
+      "name": "RAVI SHANKAR",
+      "num": "6388159539"
+    },
+    {
+      "aadhar": "340018983467",
+      "address": "S/O Kanhaiyalal!kanhaiyalalnondrakarnyipurkaraundiamethi!aamethiamethi!amethi!NONDRASultanpur!AMETHISULTANPUR!UTTAR PRADESH!227413",
+      "alt": "6388159539",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Kanhaiyalal",
+      "name": "MR. HARI SHANKAR",
+      "num": "9670117919"
+    },
+    {
+      "aadhar": "873948404503",
+      "address": "!H no315!Kawi road!Near bus stand!Madlauda!Panipat!Panipat!Haryana!132113",
+      "alt": "6388159539",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Mata Pher",
+      "name": "Maya Ram",
+      "num": "8708051251"
+    },
+    {
+      "aadhar": "340018983467",
+      "address": "S/O Kanhaiyalal!kanhaiyalalnondrakarnyipurkaraundiamethi!aamethi amethi!amethi!NONDRA Sultanpur!AMETHI SULTANPUR!UTTAR PRADESH!227413",
+      "alt": "6388159539",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kanhaiyalal",
+      "name": "MR HARI SHANKAR",
+      "num": "9670117919"
+    },
+    {
+      "aadhar": "340018983467",
+      "address": "S/O Kanhaiyalal!kanhaiyalalnondrakarnyipurkaraundiamethi!aamethi amethi!amethi!NONDRA Sultanpur!AMETHI SULTANPUR!UTTAR PRADESH!227413",
+      "alt": "6388159539",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kanhaiyalal",
+      "name": "MR HARI SHANKAR",
+      "num": "9670117919"
+    }
+  ]
+}
