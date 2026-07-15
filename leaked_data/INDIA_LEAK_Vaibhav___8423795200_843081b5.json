@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:33:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8423795200",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx1572",
+      "address": "S/O Gyanendra Kumar!Bhitargaon  bhitargaon!!!Kanpur Nagar!Uttar Pradesh!209209",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gyanendra  Kumar",
+      "name": "Vaibhav  ",
+      "num": "8423795200"
+    },
+    {
+      "aadhar": "xxxxxxxx1572",
+      "address": "S/O Gyanendra Kumar!Bhitargaon  bhitargaon!!!Kanpur Nagar!Uttar Pradesh!209209",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gyanendra  Kumar",
+      "name": "Vaibhav  ",
+      "num": "8423795200"
+    },
+    {
+      "aadhar": "718912241572",
+      "address": "s/o  gyanendra kumar!152!bhitargaon kanpur road!taalab!bhitargaon!bhitargaon!kanpur nagar!Uttar Pradesh!209209",
+      "alt": "8423795200",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gyanendra kumar",
+      "name": "Vaibhav",
+      "num": "7518436032"
+    },
+    {
+      "aadhar": "718912241572",
+      "address": "s/o  gyanendra kumar!152!bhitargaon kanpur road!taalab!bhitargaon!bhitargaon!kanpur nagar!Uttar Pradesh!209209",
+      "alt": "8423795200",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "gyanendra kumar",
+      "name": "Vaibhav",
+      "num": "7518436032"
+    }
+  ]
+}
