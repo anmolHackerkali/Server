@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:20:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693702279",
+  "records": [
+    {
+      "aadhar": "730311047043",
+      "address": "S/O  Thithar Miya!!Gobarsitha!NA!GOBARSITTHA!Kharsand Kalyanpur Samastipur!NA!Bihar!847301",
+      "alt": "8226834903",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Thithar Miya",
+      "name": "Md Irafan",
+      "num": "9693702279"
+    },
+    {
+      "aadhar": "730311047043",
+      "address": "S/O  Thithar Miya!!Gobarsitha!NA!GOBARSITTHA!Kharsand Kalyanpur Samastipur!NA!Bihar!847301",
+      "alt": "8226834903",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Thithar Miya",
+      "name": "Md Irafan",
+      "num": "9693702279"
+    },
+    {
+      "aadhar": "730311047043",
+      "address": "S/O  Thithar Miya!!Gobarsitha!NA!GOBARSITTHA!Kharsand Kalyanpur Samastipur!NA!Bihar!847301",
+      "alt": "8226834903",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Thithar Miya",
+      "name": "Md Irafan",
+      "num": "9693702279"
+    }
+  ]
+}
