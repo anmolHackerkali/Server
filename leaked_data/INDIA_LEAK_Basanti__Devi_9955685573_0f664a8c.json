@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:50:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955685573",
+  "records": [
+    {
+      "aadhar": "877337856185",
+      "address": "W/O: Rajendra Manjhi!Q NO 1198!!SECTOR 1/B Bokaro Steel City!!Bokaro!Jharkhand!827001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajendra  Manjhi",
+      "name": "Basanti  Devi",
+      "num": "9955685573"
+    },
+    {
+      "aadhar": "877337856185",
+      "address": "W/O: Rajendra Manjhi!Q NO 1198!!SECTOR 1/B Bokaro Steel City!!Bokaro!Jharkhand!827001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Rajendra  Manjhi",
+      "name": "Basanti  Devi",
+      "num": "9955685573"
+    },
+    {
+      "aadhar": "677124621367",
+      "address": "!!quarter no 1205 sector 1b bokaro steel city mandir!NA!sector 1b!Bokaro Steel City Bokaro!NA!Jharkhand!827001",
+      "alt": "9955685573",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ojhu Manjhi",
+      "name": "Rajendra Kumar Manjhi",
+      "num": "9693550917"
+    },
+    {
+      "aadhar": "677124621367",
+      "address": "!!quarter no 1205 sector 1b bokaro steel city mandir!NA!sector 1b!Bokaro Steel City Bokaro!NA!Jharkhand!827001",
+      "alt": "9955685573",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ojhu Manjhi",
+      "name": "Rajendra Kumar Manjhi",
+      "num": "9693550917"
+    }
+  ]
+}
