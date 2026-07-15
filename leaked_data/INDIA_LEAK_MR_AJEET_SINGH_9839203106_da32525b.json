@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:14:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9839203106",
+  "records": [
+    {
+      "aadhar": "926644263557",
+      "address": "VNJRAJ SINGH!H DUHAWA!H DUHAWA!!hariiyaBASTI!BASTI!UTTAR PRADESH!272163",
+      "alt": "6392604042",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Vrijraj Singh",
+      "name": "MR. AJEET SINGH",
+      "num": "9839203106"
+    },
+    {
+      "aadhar": "926644263557",
+      "address": "VNJRAJ SINGH!H  DUHAWA!H  DUHAWA!!hariiya BASTI!BASTI!UTTAR PRADESH!272163",
+      "alt": "6392604042",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vrijraj Singh",
+      "name": "MR AJEET SINGH",
+      "num": "9839203106"
+    },
+    {
+      "aadhar": "926644263557",
+      "address": "VNJRAJ SINGH!H  DUHAWA!H  DUHAWA!!hariiya BASTI!BASTI!UTTAR PRADESH!272163",
+      "alt": "6392604042",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Vrijraj Singh",
+      "name": "MR AJEET SINGH",
+      "num": "9839203106"
+    }
+  ]
+}
