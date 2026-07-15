@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:37:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9304384608",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Satynayaran Yadav!!village bhajanpatti!ward no-12!Kishunpur Saharsa!Bihar!852217",
+      "alt": "916202165220",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satynayaran Yadav",
+      "name": "Amod Kumar",
+      "num": "9304384608"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Satynayaran Yadav!!village bhajanpatti!ward no-12!Kishunpur Saharsa!Bihar!852217",
+      "alt": "916202165220",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satynayaran Yadav",
+      "name": "Amod Kumar",
+      "num": "9304384608"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Satynayaran Yadav!!village bhajanpatti!ward no-12!Kishunpur Saharsa!Bihar!852217",
+      "alt": "916202165220",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satynayaran Yadav",
+      "name": "Amod Kumar",
+      "num": "9304384608"
+    }
+  ]
+}
