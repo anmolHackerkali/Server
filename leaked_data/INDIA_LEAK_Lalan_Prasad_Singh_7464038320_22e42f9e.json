@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:41:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7464038320",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx2741",
+      "address": "S/O Keshori Prasad Singh!MOHALLA- TARDIH!!POST- BAIDACHAK  THANA- AMARPUR Tardih!GRAM PANCHYAT TARDIH!Banka!Bihar!813101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Keshori Prasad Singh",
+      "name": "Lalan Prasad Singh",
+      "num": "7464038320"
+    },
+    {
+      "aadhar": "xxxxxxxx2741",
+      "address": "S/O Keshori Prasad Singh!MOHALLA- TARDIH!!POST- BAIDACHAK  THANA- AMARPUR Tardih!GRAM PANCHYAT TARDIH!Banka!Bihar!813101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Keshori Prasad Singh",
+      "name": "Lalan Prasad Singh",
+      "num": "7464038320"
+    }
+  ]
+}
