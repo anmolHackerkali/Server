@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:37:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9120325950",
+  "records": [
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!199!kaiserganjhospital!hospital!kaiserganjBAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9532012019",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "meraj ansari",
+      "name": "MR. MOHD SHADAB ANSARI",
+      "num": "9120325950"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!199!kaiserganj hospital!hospital!kaiserganj BAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9532012019",
+      "circle": "UPE",
+      "email": null,
+      "fname": "meraj ansari",
+      "name": "MR MOHD SHADAB ANSARI",
+      "num": "9120325950"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!199!kaiserganj hospital!hospital!kaiserganj BAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9532012019",
+      "circle": "UPE",
+      "email": null,
+      "fname": "meraj ansari",
+      "name": "MR MOHD SHADAB ANSARI",
+      "num": "9120325950"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!0!dihwa Sher Bahadur singhschool!school!kaiserganjBAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9120325950",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Meraj Ansari",
+      "name": "MR. MOHD SHADAB ANSARI",
+      "num": "9455874758"
+    },
+    {
+      "aadhar": "620642786999",
+      "address": "S/O  Gangadin!!Naugoia!!bazarpurwa!Nawgaeya Kaiserganj!Bahraich!Uttar Pradesh!271903",
+      "alt": "9120325950",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Gangadin",
+      "name": "Pairu",
+      "num": "9569814609"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!0!dihwa Sher Bahadur singh school!school!kaiserganj BAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9120325950",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Meraj Ansari",
+      "name": "MR MOHD SHADAB ANSARI",
+      "num": "9455874758"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "s/o  meraj ansari!6!Dihawa Sher Bahadur Singh!School!Kaiserganj!dihawa sher bahadur singh!bahraich!Uttar Pradesh!271903",
+      "alt": "9120325950",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "meraj ansari",
+      "name": "Mohd Shadab Ansari",
+      "num": "7395038390"
+    },
+    {
+      "aadhar": "620642786999",
+      "address": "S/O  Gangadin!!Naugoia!!bazarpurwa!Nawgaeya Kaiserganj!Bahraich!Uttar Pradesh!271903",
+      "alt": "9120325950",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Gangadin",
+      "name": "Pairu",
+      "num": "9569814609"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "S/O MERAJ ANSARI!0!dihwa Sher Bahadur singh school!school!kaiserganj BAHRAICH!BAHRAICH!UTTAR PRADESH!271903",
+      "alt": "9120325950",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Meraj Ansari",
+      "name": "MR MOHD SHADAB ANSARI",
+      "num": "9455874758"
+    },
+    {
+      "aadhar": "601964266291",
+      "address": "s/o  meraj ansari!6!Dihawa Sher Bahadur Singh!School!Kaiserganj!dihawa sher bahadur singh!bahraich!Uttar Pradesh!271903",
+      "alt": "9120325950",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "meraj ansari",
+      "name": "Mohd Shadab Ansari",
+      "num": "7395038390"
+    }
+  ]
+}
