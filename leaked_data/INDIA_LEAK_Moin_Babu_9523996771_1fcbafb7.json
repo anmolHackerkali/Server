@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:15:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9523996771",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!h no 77 khandsa road!harinagar Gurgaon!Gurgaon Gurgaon!Haryana!122001",
+      "alt": "919006799092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Soyeb Alam",
+      "name": "Moin Babu",
+      "num": "9523996771"
+    },
+    {
+      "aadhar": null,
+      "address": "!!h no 77 khandsa road!harinagar Gurgaon!Gurgaon Gurgaon!Haryana!122001",
+      "alt": "919006799092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Soyeb Alam",
+      "name": "Moin Babu",
+      "num": "9523996771"
+    },
+    {
+      "aadhar": null,
+      "address": "!!h no 77 khandsa road!harinagar Gurgaon!Gurgaon Gurgaon!Haryana!122001",
+      "alt": "919006799092",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Soyeb Alam",
+      "name": "Moin Babu",
+      "num": "9523996771"
+    }
+  ]
+}
