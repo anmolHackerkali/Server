@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:18:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303562542",
+  "records": [
+    {
+      "aadhar": "856009503938",
+      "address": "s/o  roopram!!Bauri!!bauri!banthari Tilhar!shahjahanpur!Uttar Pradesh!242301",
+      "alt": "7007243536",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "roopram",
+      "name": "Sharedveer",
+      "num": "8303562542"
+    },
+    {
+      "aadhar": "856009503938",
+      "address": "s/o  roopram!!Bauri!!bauri!banthari Tilhar!shahjahanpur!Uttar Pradesh!242301",
+      "alt": "7007243536",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "roopram",
+      "name": "Sharedveer",
+      "num": "8303562542"
+    }
+  ]
+}
