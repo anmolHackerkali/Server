@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:16:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508270058",
+  "records": [
+    {
+      "aadhar": "729790300361",
+      "address": "W/O  Panchu Mahto! 25!Titahiyabank!Post- Madhupur!Thana-Madhupur Vill- Titahiyabank!Madhupur!Deoghar!Jharkhand!815353",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Panchu Mahto",
+      "name": "Prmila Devi",
+      "num": "9508270058"
+    },
+    {
+      "aadhar": "729790300361",
+      "address": "W/O  Panchu Mahto!25!Titahiyabank!Post- Madhupur!Thana-Madhupur Vill- Titahiyabank!Madhupur!Deoghar!Jharkhand!815353",
+      "alt": "7255807055",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Panchu Mahto",
+      "name": "Prmila Devi",
+      "num": "9508270058"
+    },
+    {
+      "aadhar": "729790300361",
+      "address": "W/O  Panchu Mahto!25!Titahiyabank!Post- Madhupur!Thana-Madhupur Vill- Titahiyabank!Madhupur!Deoghar!Jharkhand!815353",
+      "alt": "7255807055",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Panchu Mahto",
+      "name": "Prmila Devi",
+      "num": "9508270058"
+    }
+  ]
+}
