@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:28:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061483194",
+  "records": [
+    {
+      "aadhar": "862594897096",
+      "address": " ward no 09!paina!!Paina Paina!Madhepura!Madhepura!Bihar!852213 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Brahmdev Thakur ",
+      "name": " Sushila Devi ",
+      "num": "7061483194"
+    },
+    {
+      "aadhar": "862594897096",
+      "address": " ward no 09!paina!!Paina Paina!Madhepura!Madhepura!Bihar!852213 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Brahmdev Thakur ",
+      "name": " Sushila Devi ",
+      "num": "7061483194"
+    }
+  ]
+}
