@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:24:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6207343254",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Late Madi Oraon!!!Staff Bank Colony Hesal Piska More Ratu Road!Thana Sukhdev Nagar Ranchi!Jharkhand!834005",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Late Madi Oraon",
+      "name": "Pancham Oraon",
+      "num": "6207343254"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Late Madi Oraon!!!Staff Bank Colony Hesal Piska More Ratu Road!Thana Sukhdev Nagar Ranchi!Jharkhand!834005",
+      "alt": "918102633251",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Madi Oraon",
+      "name": "Pancham Oraon",
+      "num": "6207343254"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O Late Madi Oraon!!!Staff Bank Colony Hesal Piska More Ratu Road!Thana Sukhdev Nagar Ranchi!Jharkhand!834005",
+      "alt": "918102633251",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Madi Oraon",
+      "name": "Pancham Oraon",
+      "num": "6207343254"
+    },
+    {
+      "aadhar": "215608246438",
+      "address": "S/O Late Madi Oraon! 209!Ratu Road staff bank colony hesal piska more ratu road!Staff Bank Colony!Hesal Piska More thana sukhdev nagar ranchi!Thana Sukhdev Nagar!Ranchi!Jharkhand!834005",
+      "alt": "6207343254",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Madi Oraon",
+      "name": "Pancham Oraon",
+      "num": "8252767924"
+    },
+    {
+      "aadhar": "215608246438",
+      "address": "S/O Late Madi Oraon! 209!Ratu Road staff bank colony hesal piska more ratu road!Staff Bank Colony!Hesal Piska More thana sukhdev nagar ranchi!Thana Sukhdev Nagar!Ranchi!Jharkhand!834005",
+      "alt": "6207343254",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Late Madi Oraon",
+      "name": "Pancham Oraon",
+      "num": "8252767924"
+    }
+  ]
+}
