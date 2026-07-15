@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:25:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007391380",
+  "records": [
+    {
+      "aadhar": "261337568722",
+      "address": "S/O: Dayanand Ram!!!!Bhusuwa Mau!Uttar Pradesh!276402",
+      "alt": "917007188105",
+      "circle": "JIO UPE",
+      "email": "rknitishkumar7398@gmail.com",
+      "fname": "Dayanand Ram",
+      "name": "Amit Kumar",
+      "num": "7007391380"
+    },
+    {
+      "aadhar": "261337568722",
+      "address": "S/O: Dayanand Ram!!!!Bhusuwa Mau!Uttar Pradesh!276402",
+      "alt": "917007188105",
+      "circle": "JIO UPE",
+      "email": "rknitishkumar7398@gmail.com",
+      "fname": "Dayanand Ram",
+      "name": "Amit Kumar",
+      "num": "7007391380"
+    }
+  ]
+}
