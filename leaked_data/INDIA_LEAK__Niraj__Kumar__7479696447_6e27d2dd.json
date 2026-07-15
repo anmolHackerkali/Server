@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:55:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7479696447",
+  "records": [
+    {
+      "aadhar": "380173567872",
+      "address": " .!Mahammadpur!NEW CHANAKYA NAGAR Mahammadpur  BEGUSARAI MIRZAPUR BANDUAR!NEW CHANAKYA NAGAR  WARD 38  DOCTOR SANGITA SINHA!Begusarai!BEGUSARAI!Bihar!851129 ",
+      "alt": "8002877866",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " LATE Ram Badan Roy ",
+      "name": " Niraj  Kumar ",
+      "num": "7479696447"
+    },
+    {
+      "aadhar": "380173567872",
+      "address": " .!Mahammadpur!NEW CHANAKYA NAGAR Mahammadpur  BEGUSARAI MIRZAPUR BANDUAR!NEW CHANAKYA NAGAR  WARD 38  DOCTOR SANGITA SINHA!Begusarai!BEGUSARAI!Bihar!851129 ",
+      "alt": "8002877866",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " LATE Ram Badan Roy ",
+      "name": " Niraj  Kumar ",
+      "num": "7479696447"
+    },
+    {
+      "aadhar": "XXXXXXXX1738",
+      "address": " -  Gorgama Begusarai Gurganwan  Begusarai BIHAR 851211 ",
+      "alt": "7479696447",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " W/O: RAM VILASH SAH ",
+      "name": " VINA DEVI  ... ",
+      "num": "9471247994"
+    },
+    {
+      "aadhar": "XXXXXXXX1738",
+      "address": " -  Gorgama Begusarai Gurganwan  Begusarai BIHAR 851211 ",
+      "alt": "7479696447",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " W/O: RAM VILASH SAH ",
+      "name": " VINA DEVI  ... ",
+      "num": "9471247994"
+    }
+  ]
+}
