@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:01:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9024899918",
+  "records": [
+    {
+      "aadhar": "549656472908",
+      "address": "00!Gokuldham Scoetiy kalol!kalol!GIDC Chattar GANDHINAGAR!GANDHINAGAR!GANDHINAGAR!Gujarat!382721",
+      "alt": "9024899918",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Somaram",
+      "name": "MR GANAPAT LAL",
+      "num": "9326061589"
+    },
+    {
+      "aadhar": "549656472908",
+      "address": "S/O: Somaram!00!Gokuldham Scoetiy kalol!kalol!GIDC Chattar GANDHINAGAR!GANDHINAGAR!GANDHINAGAR!Gujarat!382721",
+      "alt": "9024899918",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Somaram",
+      "name": "MR GANAPAT LAL",
+      "num": "9326061589"
+    },
+    {
+      "aadhar": "549656472908",
+      "address": "S/O: Somaram!00!Gokuldham Scoetiy kalol!kalol!GIDC Chattar GANDHINAGAR!GANDHINAGAR!GANDHINAGAR!Gujarat!382721",
+      "alt": "9024899918",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Somaram",
+      "name": "MR GANAPAT LAL",
+      "num": "9326061589"
+    }
+  ]
+}
