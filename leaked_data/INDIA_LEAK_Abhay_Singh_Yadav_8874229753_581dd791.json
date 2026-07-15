@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:21:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8874229753",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "C/O: Krishna Chandra Yadav!.!.!Patahatiya Khurd Pratapgarh!!Pratapgarh!UTTAR PRADESH!230301",
+      "alt": "7309850832",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Krishna Chandra Yadav",
+      "name": "Abhay Singh Yadav",
+      "num": "8874229753"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Krishna Chandra Yadav!.!.!Patahatiya Khurd Pratapgarh!!Pratapgarh!UTTAR PRADESH!230301",
+      "alt": "7309850832",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Krishna Chandra Yadav",
+      "name": "Abhay Singh Yadav",
+      "num": "8874229753"
+    }
+  ]
+}
