@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:52:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9099080573",
+  "records": [
+    {
+      "aadhar": " 812938252659 ",
+      "address": "D/O Hiteshbhai Desai ! 12/110 GULABDAS WADI ! LUNSIKUI ROAD OPP SURBHI FLAT ! opp surbhi flat ! GULABDASWADI  LUNSIKUI  NAVSARI NAVSARI ! NAVSARI ! Navsari ! GUJARAT ! 396445",
+      "alt": "9913879017",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Hiteshbhai Desai",
+      "name": "MRS VINI HITESHBHAI DESAI",
+      "num": "9099080573"
+    },
+    {
+      "aadhar": "812938252659",
+      "address": "12/110 Gulabdaswadi Lunsikui  Navsari Navsari Navsari",
+      "alt": "9099080573",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Hiteshbhai  Desai",
+      "name": "Vini Hiteshbhai Desai",
+      "num": "9913879017"
+    },
+    {
+      "aadhar": "812938252659",
+      "address": "12/110 Gulabdaswadi Lunsikui  Navsari Navsari Navsari",
+      "alt": "9099080573",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Hiteshbhai  Desai",
+      "name": "Vini Hiteshbhai Desai",
+      "num": "9913879017"
+    }
+  ]
+}
