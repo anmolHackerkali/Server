@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:50:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8601105682",
+  "records": [
+    {
+      "aadhar": "514866470864",
+      "address": " !!prahit Machhali Shahar!gagariya!Machhlishahr-Machhli!Uttar Pradesh!222143",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hari Prasad",
+      "name": "Aneeta Devi Saroj",
+      "num": "8601105682"
+    },
+    {
+      "aadhar": "514866470864",
+      "address": " !!prahit Machhali Shahar!gagariya!Machhlishahr-Machhli!Uttar Pradesh!222143",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hari Prasad",
+      "name": "Aneeta Devi Saroj",
+      "num": "8601105682"
+    }
+  ]
+}
