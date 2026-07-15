@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:01:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8900677416",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX8837",
+      "address": "Barachingra;Barachingra Bankura;Bankura;Bankura;WEST BENGAL;722136",
+      "alt": "9434865358",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "SUJIT BANGAL",
+      "name": "PARTHA  BANGAL",
+      "num": "8900677416"
+    },
+    {
+      "aadhar": "XXXXXXXX8837",
+      "address": "Barachingra;Barachingra Bankura;Bankura;Bankura;WEST BENGAL;722136",
+      "alt": "9434865358",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "SUJIT BANGAL",
+      "name": "PARTHA  BANGAL",
+      "num": "8900677416"
+    },
+    {
+      "aadhar": "781137399233",
+      "address": " D/O BHIKHARI DAS!!BARACHINGRA  Kustora BARACHINGRA Barachingra!NA!!Kustora Bankura!NA!West Bengal!722136 ",
+      "alt": "8900677416",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "BHIKHARI DAS",
+      "name": "Kabita Das Bangal",
+      "num": "7908659604"
+    },
+    {
+      "aadhar": "781137399233",
+      "address": " D/O BHIKHARI DAS!!BARACHINGRA  Kustora BARACHINGRA Barachingra!NA!!Kustora Bankura!NA!West Bengal!722136 ",
+      "alt": "8900677416",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "BHIKHARI DAS",
+      "name": "Kabita Das Bangal",
+      "num": "7908659604"
+    }
+  ]
+}
