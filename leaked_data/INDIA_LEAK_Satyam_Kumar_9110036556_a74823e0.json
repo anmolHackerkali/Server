@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:46:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9110036556",
+  "records": [
+    {
+      "aadhar": "835175017430",
+      "address": "! 00!ganj bajitpur!mandir!rosan chak!Darbhanga!Darbhanga!Bihar!846009",
+      "alt": "8920102769",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "chandra dev sahu",
+      "name": "Satyam Kumar",
+      "num": "9110036556"
+    },
+    {
+      "aadhar": "835175017430",
+      "address": "! 00!ganj bajitpur!mandir!rosan chak!Darbhanga!Darbhanga!Bihar!846009",
+      "alt": "8920102769",
+      "circle": "JIO BHR&JHR",
+      "email": "talk2roshanbhai1509@gmail.com",
+      "fname": "chandra dev sahu",
+      "name": "Satyam Kumar",
+      "num": "9110036556"
+    },
+    {
+      "aadhar": "835175017430",
+      "address": "! 00!ganj bajitpur!mandir!rosan chak!Darbhanga!Darbhanga!Bihar!846009",
+      "alt": "8920102769",
+      "circle": "JIO BHR&JHR",
+      "email": "talk2roshanbhai1509@gmail.com",
+      "fname": "chandra dev sahu",
+      "name": "Satyam Kumar",
+      "num": "9110036556"
+    }
+  ]
+}
