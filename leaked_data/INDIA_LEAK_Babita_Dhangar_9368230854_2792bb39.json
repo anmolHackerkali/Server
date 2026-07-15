@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:15:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9368230854",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "W/O Ajay Kumar!!!411 naurangabad AS DI PHILD!EtawahEtawah!Uttar Pradesh!206001",
+      "alt": null,
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ajay Kumar",
+      "name": "Babita Dhangar",
+      "num": "9368230854"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O Ajay Kumar!!!411 naurangabad AS DI PHILD!Etawah Etawah!Uttar Pradesh!206001",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ajay Kumar",
+      "name": "Babita Dhangar",
+      "num": "9368230854"
+    },
+    {
+      "aadhar": "NA",
+      "address": "W/O Ajay Kumar!!!411 naurangabad AS DI PHILD!Etawah Etawah!Uttar Pradesh!206001",
+      "alt": null,
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Ajay Kumar",
+      "name": "Babita Dhangar",
+      "num": "9368230854"
+    }
+  ]
+}
