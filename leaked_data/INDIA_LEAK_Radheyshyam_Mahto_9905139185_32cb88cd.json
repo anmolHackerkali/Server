@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:22:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9905139185",
+  "records": [
+    {
+      "aadhar": "431573294321",
+      "address": "S/O  Paras Mahato!!M gopinathpur!GOPINATHPUR!MOTIPUR!Mahima Gopinath Baruraj motipur!Muzaffarpur!Bihar!843111",
+      "alt": "6205598426",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Paras Mahato",
+      "name": "Radheyshyam Mahto",
+      "num": "9905139185"
+    },
+    {
+      "aadhar": "431573294321",
+      "address": "S/O  Paras Mahato!!M gopinathpur!GOPINATHPUR!MOTIPUR!Mahima Gopinath Baruraj motipur!Muzaffarpur!Bihar!843111",
+      "alt": "6205598426",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Paras Mahato",
+      "name": "Radheyshyam Mahto",
+      "num": "9905139185"
+    },
+    {
+      "aadhar": "431573294321",
+      "address": "S/O  Paras Mahato!!M gopinathpur!GOPINATHPUR!MOTIPUR!Mahima Gopinath Baruraj motipur!Muzaffarpur!Bihar!843111",
+      "alt": "6205598426",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Paras Mahato",
+      "name": "Radheyshyam Mahto",
+      "num": "9905139185"
+    },
+    {
+      "aadhar": "606255728529",
+      "address": "s/o breeznandan kumar arun!!Mahima Gopinathpur!!gopinathpur ward 10!gopinathpur Motipur!muzaffarpur!Bihar!843111",
+      "alt": "9905139185",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "breeznandan kumar arun",
+      "name": "Parmanand Prabhakar",
+      "num": "7488976524"
+    },
+    {
+      "aadhar": "606255728529",
+      "address": "s/o breeznandan kumar arun!!Mahima Gopinathpur!!gopinathpur ward 10!gopinathpur Motipur!muzaffarpur!Bihar!843111",
+      "alt": "9905139185",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "breeznandan kumar arun",
+      "name": "Parmanand Prabhakar",
+      "num": "7488976524"
+    },
+    {
+      "aadhar": "606255728529",
+      "address": "s/o breeznandan kumar arun!!Mahima Gopinathpur!!gopinathpur ward 10!gopinathpur Motipur!muzaffarpur!Bihar!843111",
+      "alt": "9905139185",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "breeznandan kumar arun",
+      "name": "Parmanand Prabhakar",
+      "num": "7488976524"
+    }
+  ]
+}
