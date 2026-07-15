@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:41:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8123945424",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  A K Rao A-185  Sector-2  H M T Colony  Bangalore North  Bangalore  Jalahalli  Bangalore North  Karnataka  560013",
+      "alt": "9448151214",
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "AKRao",
+      "name": "A K S S Sonam Rao",
+      "num": "8123945424"
+    }
+  ]
+}
