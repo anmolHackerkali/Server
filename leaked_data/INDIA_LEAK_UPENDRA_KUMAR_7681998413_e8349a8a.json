@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:35:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7681998413",
+  "records": [
+    {
+      "aadhar": "619594399985",
+      "address": "NA!13!JODHAN!NEAR SCHOOL!PUNJAB!LUDHIANA!LUDHIANA!PUNJAB!142029",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "BUDHAI GOND",
+      "name": "UPENDRA KUMAR",
+      "num": "7681998413"
+    },
+    {
+      "aadhar": "619594399985",
+      "address": "NA!13!JODHAN!NEAR SCHOOL!PUNJAB!LUDHIANA!LUDHIANA!PUNJAB!142029",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "BUDHAI GOND",
+      "name": "UPENDRA KUMAR",
+      "num": "7681998413"
+    }
+  ]
+}
