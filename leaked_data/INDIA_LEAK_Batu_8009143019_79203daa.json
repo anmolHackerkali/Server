@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:43:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8009143019",
+  "records": [
+    {
+      "aadhar": "349163188748",
+      "address": "S/O: Ramswarup!village gobari seharihawa!!post badahara pachpedwa Pachperwa Ruaral!Balrampur!Uttar Pradesh!271206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramswarup",
+      "name": "Batu",
+      "num": "8009143019"
+    },
+    {
+      "aadhar": "349163188748",
+      "address": "S/O: Ramswarup!village gobari seharihawa!!post badahara pachpedwa Pachperwa Ruaral!Balrampur!Uttar Pradesh!271206",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramswarup",
+      "name": "Batu",
+      "num": "8009143019"
+    }
+  ]
+}
