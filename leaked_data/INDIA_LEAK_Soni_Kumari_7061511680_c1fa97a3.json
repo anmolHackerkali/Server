@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:47:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061511680",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Rajeev Prasad Singh!!gram-toygadh!!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajeev Prasad Singh",
+      "name": "Soni Kumari",
+      "num": "7061511680"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Rajeev Prasad Singh!!gram-toygadh!!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajeev Prasad Singh",
+      "name": "Soni Kumari",
+      "num": "7061511680"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Rajeev Prasad Singh!!gram-toygadh!!Toi Sheikhpura!Bihar!811101",
+      "alt": "916204856350",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajeev Prasad Singh",
+      "name": "Soni Kumari",
+      "num": "7061511680"
+    }
+  ]
+}
