@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:14:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8540879548",
+  "records": [
+    {
+      "aadhar": "561967817818",
+      "address": "!Nichli Kila Garhpar Bihar!!!!Nalanda Biharsharif Biharsharif!Bihar!803101",
+      "alt": "8210592424",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Arun  Prasad",
+      "name": "Gautam  Kumar",
+      "num": "8540879548"
+    },
+    {
+      "aadhar": "561967817818",
+      "address": "!Nichli Kila Garhpar Bihar!!!!Nalanda Biharsharif Biharsharif!Bihar!803101",
+      "alt": "8210592424",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Arun  Prasad",
+      "name": "Gautam  Kumar",
+      "num": "8540879548"
+    },
+    {
+      "aadhar": "987282729360",
+      "address": "!!Vill-Kamalvigha!Shiv Temple!Po-Bilari katrisarai!Nawadha!Nawada!Bihar!805130",
+      "alt": "8540879548",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rajeshwar Prasad",
+      "name": "Ranjan Kumar",
+      "num": "6201998235"
+    },
+    {
+      "aadhar": "XXXXXXXX8493",
+      "address": "!!!barandi!barandi!Barandi!Nalanda!BIHAR!803119",
+      "alt": "8540879548",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: LATE JAGAT PRASAD",
+      "name": "MONU KUMAR",
+      "num": "8986446339"
+    },
+    {
+      "aadhar": "987282729360",
+      "address": "!!Vill-Kamalvigha!Shiv Temple!Po-Bilari katrisarai!Nawadha!Nawada!Bihar!805130",
+      "alt": "8540879548",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajeshwar Prasad",
+      "name": "Ranjan Kumar",
+      "num": "6201998235"
+    },
+    {
+      "aadhar": "XXXXXXXX8493",
+      "address": "!!!barandi!barandi!Barandi!Nalanda!BIHAR!803119",
+      "alt": "8540879548",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S/O: LATE JAGAT PRASAD",
+      "name": "MONU KUMAR",
+      "num": "8986446339"
+    },
+    {
+      "aadhar": "987282729360",
+      "address": "!!Vill-Kamalvigha!Shiv Temple!Po-Bilari katrisarai!Nawadha!Nawada!Bihar!805130",
+      "alt": "8540879548",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rajeshwar Prasad",
+      "name": "Ranjan Kumar",
+      "num": "6201998235"
+    }
+  ]
+}
