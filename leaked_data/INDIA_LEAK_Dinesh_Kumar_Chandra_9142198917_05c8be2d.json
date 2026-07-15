@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:30:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9142198917",
+  "records": [
+    {
+      "aadhar": "764427973445",
+      "address": "S/O Arjun Chandravansi! 123!vill bijdih po pachadumar ps bhawanathpur!Bhawanathpur!ward no 009 Pachadumar!Pachadumar!Garhwa!Jharkhand!822112",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Arjun Chandravansi",
+      "name": "Dinesh Kumar Chandravansi",
+      "num": "9142198917"
+    },
+    {
+      "aadhar": "764427973445",
+      "address": "S/O Arjun Chandravansi! 123!vill bijdih po pachadumar ps bhawanathpur!Bhawanathpur!ward no 009 Pachadumar!Pachadumar!Garhwa!Jharkhand!822112",
+      "alt": "9060800899",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Chandravansi",
+      "name": "Dinesh Kumar Chandravansi",
+      "num": "9142198917"
+    },
+    {
+      "aadhar": "764427973445",
+      "address": "S/O Arjun Chandravansi! 123!vill bijdih po pachadumar ps bhawanathpur!Bhawanathpur!ward no 009 Pachadumar!Pachadumar!Garhwa!Jharkhand!822112",
+      "alt": "9060800899",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Arjun Chandravansi",
+      "name": "Dinesh Kumar Chandravansi",
+      "num": "9142198917"
+    }
+  ]
+}
