@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:05:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8574748471",
+  "records": [
+    {
+      "aadhar": "258620987585",
+      "address": "c/o  anil gond! word no.13!ward no.13 gupta gali Pipara Mau!!gupta gali Pipara!pipara!mau!Uttar Pradesh!221603",
+      "alt": "8318987396",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Anil Gond",
+      "name": "Sunny Gond",
+      "num": "8574748471"
+    },
+    {
+      "aadhar": "258620987585",
+      "address": "c/o  anil gond! word no.13!ward no.13 gupta gali Pipara Mau!!gupta gali Pipara!pipara!mau!Uttar Pradesh!221603",
+      "alt": "8318987396",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Anil Gond",
+      "name": "Sunny Gond",
+      "num": "8574748471"
+    },
+    {
+      "aadhar": "258620987585",
+      "address": "C/O ANIL GOND!WARD NO 13!Gupta gali pipara mau!!Gupta gali pipara mauMAU!MADHUBAN!UTTAR PRADESH!221603",
+      "alt": "8574748471",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Anil Gond",
+      "name": "MR. SUNNY GOND",
+      "num": "8318987396"
+    },
+    {
+      "aadhar": "258620987585",
+      "address": "C/O ANIL GOND!WARD NO 13!Gupta gali pipara mau!!Gupta gali pipara mau MAU!MADHUBAN!UTTAR PRADESH!221603",
+      "alt": "8574748471",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Anil Gond",
+      "name": "MR SUNNY GOND",
+      "num": "8318987396"
+    },
+    {
+      "aadhar": "258620987585",
+      "address": "C/O ANIL GOND!WARD NO 13!Gupta gali pipara mau!!Gupta gali pipara mau MAU!MADHUBAN!UTTAR PRADESH!221603",
+      "alt": "8574748471",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Anil Gond",
+      "name": "MR SUNNY GOND",
+      "num": "8318987396"
+    }
+  ]
+}
