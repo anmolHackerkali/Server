@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:57:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6306865299",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Indra Bhooshan!!390/3/211!patara danda post patara danda!Pateora Danda Hamirpur!Uttar Pradesh!210505",
+      "alt": "917880668833",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra Bhooshan",
+      "name": "Nikhil",
+      "num": "6306865299"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Indra Bhooshan!!390/3/211!patara danda post patara danda!Pateora Danda Hamirpur!Uttar Pradesh!210505",
+      "alt": "917880668833",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra Bhooshan",
+      "name": "Nikhil",
+      "num": "6306865299"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "INDRA BHOOSHAN!390/3/211 PATARA DANDA POST DANDA!390/3/211 PATARA DANDA POST DANDA!!PATARAHAMIRPUR!HAMIRPUR!UTTAR PRADESH!210505",
+      "alt": "6306865299",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Indra BhoosHAN",
+      "name": "MR. NIKHIL .",
+      "num": "7379838736"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "S/O  Indra Bhooshan!!390/3/211  Patara!NA!patara danda post patara danda!Pateora Danda Maudaha Hamirpur!NA!Uttar Pradesh!210505",
+      "alt": "6306865299",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra Bhooshan",
+      "name": "Nikhil",
+      "num": "9336343089"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "INDRA BHOOSHAN!390/3/211 PATARA DANDA POST DANDA!390/3/211 PATARA DANDA POST DANDA!!PATARA HAMIRPUR!HAMIRPUR!UTTAR PRADESH!210505",
+      "alt": "6306865299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Indra BhoosHAN",
+      "name": "MR NIKHIL ",
+      "num": "7379838736"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "!100!patara danda post patara danda pateora danda!temple!Hamirpur!Hamirpur!Hamirpur!Uttar Pradesh!210505",
+      "alt": "6306865299",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra bhooshan",
+      "name": "Nikhil",
+      "num": "6387969410"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "S/O  Indra Bhooshan!!390/3/211  Patara!NA!patara danda post patara danda!Pateora Danda Maudaha Hamirpur!NA!Uttar Pradesh!210505",
+      "alt": "6306865299",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra Bhooshan",
+      "name": "Nikhil",
+      "num": "9336343089"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "INDRA BHOOSHAN!390/3/211 PATARA DANDA POST DANDA!390/3/211 PATARA DANDA POST DANDA!!PATARA HAMIRPUR!HAMIRPUR!UTTAR PRADESH!210505",
+      "alt": "6306865299",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Indra BhoosHAN",
+      "name": "MR NIKHIL ",
+      "num": "7379838736"
+    },
+    {
+      "aadhar": "329687023746",
+      "address": "!100!patara danda post patara danda pateora danda!temple!Hamirpur!Hamirpur!Hamirpur!Uttar Pradesh!210505",
+      "alt": "6306865299",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Indra bhooshan",
+      "name": "Nikhil",
+      "num": "6387969410"
+    }
+  ]
+}
