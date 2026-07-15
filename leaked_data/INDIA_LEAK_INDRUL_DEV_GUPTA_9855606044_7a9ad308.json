@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:59:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9855606044",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "1711 10!BLOCK K!LABOUR COLONY NO 5!DISTT CHANDIGARH!PUNJAB!",
+      "alt": null,
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "S/O CHANDI GUPTA",
+      "name": "INDRUL DEV GUPTA",
+      "num": "9855606044"
+    }
+  ]
+}
