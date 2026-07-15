@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:11:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7318070332",
+  "records": [
+    {
+      "aadhar": "391659437362",
+      "address": "!65!padrauna!!padrauna!Kushinagar!!Uttar Pradesh!274304",
+      "alt": "8874759410",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mukati  Yadav",
+      "name": "Ramprasad  Yadav",
+      "num": "7318070332"
+    },
+    {
+      "aadhar": "391659437362",
+      "address": "!65!padrauna!!padrauna!Kushinagar!!Uttar Pradesh!274304",
+      "alt": "8874759410",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mukati  Yadav",
+      "name": "Ramprasad  Yadav",
+      "num": "7318070332"
+    }
+  ]
+}
