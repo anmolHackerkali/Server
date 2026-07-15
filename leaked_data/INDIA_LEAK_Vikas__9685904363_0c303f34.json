@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:36:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9685904363",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Girish Kumar!.!.!gram-haidarganjghansoda post muskara Sehore!!SEHORE!Sehore!Madhya Pradesh!466113",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Girish Kumar",
+      "name": "Vikas ",
+      "num": "9685904363"
+    },
+    {
+      "aadhar": "MWG1875970",
+      "address": "!gram haidarganj patelpura post muskara!ram mandir!ram mandir!Haidarganj SEHORE!SEHORE!SEHORE!Madhya Pradesh!466651",
+      "alt": "9685904363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RanjeetJangda",
+      "name": "MR KELASH JANGDA",
+      "num": "9713610263"
+    },
+    {
+      "aadhar": "750978928053",
+      "address": "S/O Girish Kumar!gram-haidarganjghansoda post Muskara!ram mandir!ram mandir!Haidarganj SEHORE!SEHORE!SEHORE!Madhya Pradesh!466113",
+      "alt": "9685904363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Girish Kumar",
+      "name": "MR VIKAS SAGAR",
+      "num": "9713610237"
+    },
+    {
+      "aadhar": "750978928053",
+      "address": "S/O Girish Kumar!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara SEHORE!SEHORE!SEHORE!Madhya Pradesh",
+      "alt": "9685904363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Girish Kumar",
+      "name": "MR VIKAS KASIYA",
+      "num": "8818973267"
+    },
+    {
+      "aadhar": "750978928053",
+      "address": "S/O Girish Kumar!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara!gram-haidarganjghansoda post muskara SEHORE!SEHORE!SEHORE!Madhya Pradesh",
+      "alt": "9685904363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Girish Kumar",
+      "name": "MR VIKAS KASIYA",
+      "num": "8818973267"
+    },
+    {
+      "aadhar": "750978928053",
+      "address": "Haidargnaj!haidargnaj!haidargnaj sehore l GRAM-HAIDARGANJGHANSODA!sehore l GRAM-HAIDARGANJGHANSODA!POST MUSKARA MUSKARA MUSKARA SEHORE!SEHORE!SEHORE!Madhya Pradesh!466113",
+      "alt": "9685904363",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Girsh",
+      "name": "MR VIKAS KASIYA",
+      "num": "7693845785"
+    }
+  ]
+}
