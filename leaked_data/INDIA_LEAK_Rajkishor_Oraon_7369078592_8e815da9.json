@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:38:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7369078592",
+  "records": [
+    {
+      "aadhar": "676184111399",
+      "address": "ward no-06!vill-kurse!!post-kurse thana-lohardaga Kurse Kurse!Lohardaga!Lohardaga!Jharkhand!835213",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laldev Oraon",
+      "name": "Rajkishor Oraon",
+      "num": "7369078592"
+    },
+    {
+      "aadhar": "676184111399",
+      "address": "ward no-06!vill-kurse!!post-kurse thana-lohardaga Kurse Kurse!Lohardaga!Lohardaga!Jharkhand!835213",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Laldev Oraon",
+      "name": "Rajkishor Oraon",
+      "num": "7369078592"
+    }
+  ]
+}
