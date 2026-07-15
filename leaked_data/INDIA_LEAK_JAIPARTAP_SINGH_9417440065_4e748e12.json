@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:32:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9417440065",
+  "records": [
+    {
+      "aadhar": "624694556371",
+      "address": "HNO 56!VPO BHULLAR!GURDASPUR GURDASPUR!GURDASPUR!PUNJAB!143505",
+      "alt": "7508321700",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "JARNAIL SINGH",
+      "name": "JAIPARTAP SINGH",
+      "num": "9417440065"
+    },
+    {
+      "aadhar": "624694556371",
+      "address": "NA! !V P O BHULLAR BHULLAR!!GURDASPUR BATALA!GURDASPUR!GURDASPUR!PUNJAB!143505",
+      "alt": "9417440065",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "JARNAIL SINGH",
+      "name": "JAIPARTAP SINGH",
+      "num": "7009039392"
+    }
+  ]
+}
