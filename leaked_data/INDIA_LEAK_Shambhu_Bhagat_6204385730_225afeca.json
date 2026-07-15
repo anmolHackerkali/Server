@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:52:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204385730",
+  "records": [
+    {
+      "aadhar": "800998675215",
+      "address": "S/O  Gauri Bhagat!!WARD 09 Sari!NA!Ramnagar!Sari Warisnagar Samastipur!NA!Bihar!848101",
+      "alt": "8541967475",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Gauri Bhagat",
+      "name": "Shambhu Bhagat",
+      "num": "6204385730"
+    },
+    {
+      "aadhar": "800998675215",
+      "address": "S/O  Gauri Bhagat!!WARD 09 Sari!NA!Ramnagar!Sari Warisnagar Samastipur!NA!Bihar!848101",
+      "alt": "8541967475",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Gauri Bhagat",
+      "name": "Shambhu Bhagat",
+      "num": "6204385730"
+    },
+    {
+      "aadhar": "800998675215",
+      "address": "S/O  Gauri Bhagat!!WARD 09 Sari!NA!Ramnagar!Sari Warisnagar Samastipur!NA!Bihar!848101",
+      "alt": "8541967475",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Gauri Bhagat",
+      "name": "Shambhu Bhagat",
+      "num": "6204385730"
+    }
+  ]
+}
