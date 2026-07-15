@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:46:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8757706659",
+  "records": [
+    {
+      "aadhar": "Tjg0522516",
+      "address": "109 Jafara!Jafara!Belaganj!Gaya!Bihar!804403",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Feku Sabji Faros",
+      "name": "Anjum  Khatun",
+      "num": "8757706659"
+    },
+    {
+      "aadhar": "Tjg0522516",
+      "address": "109 Jafara!Jafara!Belaganj!Gaya!Bihar!804403",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Feku Sabji Faros",
+      "name": "Anjum  Khatun",
+      "num": "8757706659"
+    }
+  ]
+}
