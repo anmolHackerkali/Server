@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:30:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7070850982",
+  "records": [
+    {
+      "aadhar": "910987376294",
+      "address": "S/O: Dinesh Prasad Gupta!Bishrampur!!!!Palamu Bishrampur Daltonganj!Jharkhand!822132",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinesh Prasad Gupta",
+      "name": "Pritam Prasad Gupta",
+      "num": "7070850982"
+    },
+    {
+      "aadhar": "910987376294",
+      "address": "S/O: Dinesh Prasad Gupta!Bishrampur!!!!Palamu Bishrampur Daltonganj!Jharkhand!822132",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinesh Prasad Gupta",
+      "name": "Pritam Prasad Gupta",
+      "num": "7070850982"
+    }
+  ]
+}
