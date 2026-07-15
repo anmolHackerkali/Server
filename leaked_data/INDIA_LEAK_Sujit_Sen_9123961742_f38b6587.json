@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:09:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9123961742",
+  "records": [
+    {
+      "aadhar": "721178164559",
+      "address": " S/O Ashoke Sen!!64 Shibnarayan Road S.R.A.Club Uttarpara!!Uttarpara Hugli!West Bengal!712258 ",
+      "alt": "918013283704",
+      "circle": "JIO KOL",
+      "email": "sensurajit118@gmail.com",
+      "fname": "Ashoke Sen",
+      "name": "Sujit Sen",
+      "num": "9123961742"
+    },
+    {
+      "aadhar": "721178164559",
+      "address": " S/O Ashoke Sen!!64 Shibnarayan Road S.R.A.Club Uttarpara!!Uttarpara Hugli!West Bengal!712258 ",
+      "alt": "918013283704",
+      "circle": "JIO KOL",
+      "email": "sensurajit118@gmail.com",
+      "fname": "Ashoke Sen",
+      "name": "Sujit Sen",
+      "num": "9123961742"
+    }
+  ]
+}
