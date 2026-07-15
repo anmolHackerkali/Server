@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 00:44:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9120059448",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Rajendra Prasad!.!.!gaharpur Allahabad!!Allahabad!UTTAR PRADESH!221502",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Rajendra Prasad",
+      "name": "Govind Kumar",
+      "num": "9120059448"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Rajendra Prasad!.!.!gaharpur Allahabad!!Allahabad!UTTAR PRADESH!221502",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Rajendra Prasad",
+      "name": "Govind Kumar",
+      "num": "9120059448"
+    }
+  ]
+}
