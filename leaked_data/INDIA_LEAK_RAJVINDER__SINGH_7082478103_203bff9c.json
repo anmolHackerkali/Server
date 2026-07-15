@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:13:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7082478103",
+  "records": [
+    {
+      "aadhar": "814594956388",
+      "address": "LALAUDA 82    LALAUDATOHANA   FATEHABAD HARYANA 125120",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHUPINDER  SINGH",
+      "name": "RAJVINDER  SINGH",
+      "num": "7082478103"
+    },
+    {
+      "aadhar": "814594956388",
+      "address": "S/O BHUPINDER SINGH!LALAUDA 82!! LALAUDATOHANA !FATEHABAD!HARYANA!125120",
+      "alt": "8901049182",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHUPINDER  SINGH",
+      "name": "RAJVINDER  SINGH",
+      "num": "7082478103"
+    }
+  ]
+}
