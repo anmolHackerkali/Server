@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:50:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6200294642",
+  "records": [
+    {
+      "aadhar": "308090641661",
+      "address": "!!q no 266 nichitpur towan ship ps-east basuriya bansjora!NA!basuriya!Dhanbad Dhanbad!NA!Jharkhand!828101",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Nawab jha",
+      "name": "Devendra jha",
+      "num": "6200294642"
+    },
+    {
+      "aadhar": "308090641661",
+      "address": "!!q no 266 nichitpur towan ship ps-east basuriya bansjora!NA!basuriya!Dhanbad Dhanbad!NA!Jharkhand!828101",
+      "alt": "8292935692",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nawab jha",
+      "name": "Devendra jha",
+      "num": "6200294642"
+    },
+    {
+      "aadhar": "308090641661",
+      "address": "!!q no 266 nichitpur towan ship ps-east basuriya bansjora!NA!basuriya!Dhanbad Dhanbad!NA!Jharkhand!828101",
+      "alt": "8292935692",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nawab jha",
+      "name": "Devendra jha",
+      "num": "6200294642"
+    },
+    {
+      "aadhar": "308090641661",
+      "address": "s/o nawab jha! 266!nichitpur towanship!mandir!q.no. 266 nichit pur towan ship ps - east basuriya!bansjora!dhanbad!Jharkhand!828101",
+      "alt": "6200294642",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "nawab jha",
+      "name": "Devendra Jha",
+      "num": "9798319231"
+    },
+    {
+      "aadhar": "308090641661",
+      "address": "s/o nawab jha! 266!nichitpur towanship!mandir!q.no. 266 nichit pur towan ship ps - east basuriya!bansjora!dhanbad!Jharkhand!828101",
+      "alt": "6200294642",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "nawab jha",
+      "name": "Devendra Jha",
+      "num": "9798319231"
+    }
+  ]
+}
