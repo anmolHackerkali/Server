@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:10:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7294994504",
+  "records": [
+    {
+      "aadhar": "805800851333",
+      "address": "VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!!VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!Gumla!Gumla!Jharkhand!835233",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Temba Oraon",
+      "name": "Babita Kumari",
+      "num": "7294994504"
+    },
+    {
+      "aadhar": "805800851333",
+      "address": "VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!!VILL-CHOTA PASNGA-PO -FORI-THANA-GUMLA Fori Gumla!Gumla!Gumla!Jharkhand!835233",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Temba Oraon",
+      "name": "Babita Kumari",
+      "num": "7294994504"
+    }
+  ]
+}
