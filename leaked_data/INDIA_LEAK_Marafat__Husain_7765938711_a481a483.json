@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:04:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7765938711",
+  "records": [
+    {
+      "aadhar": "337268303326",
+      "address": "!Fulbari Basantpur Po- Hatwar!Ward No 02!Daula!!Kishanganj Kishanganj Dighalbank!Bihar!855107",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Mohsin Ali",
+      "name": "Marafat  Husain",
+      "num": "7765938711"
+    },
+    {
+      "aadhar": "337268303326",
+      "address": "!Fulbari Basantpur Po- Hatwar!Ward No 02!Daula!!Kishanganj Kishanganj Dighalbank!Bihar!855107",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md Mohsin Ali",
+      "name": "Marafat  Husain",
+      "num": "7765938711"
+    },
+    {
+      "aadhar": "909920561389",
+      "address": "! Ward no 01!Phulwari!Post Hatwar!Daula!Kishanganj!Kishanganj!Bihar!855107",
+      "alt": "7765938711",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abul Husain",
+      "name": "Mojibur Rahman",
+      "num": "7667102100"
+    },
+    {
+      "aadhar": "564138052105",
+      "address": " 00 FULBARI BASANTPUR  KISHANGANJ Kishanganj BIHAR 855107 ",
+      "alt": "7765938711",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MARFAT HUSSAIN ",
+      "name": " TARIK  ALAM ",
+      "num": "8544155379"
+    },
+    {
+      "aadhar": "909920561389",
+      "address": "! Ward no 01!Phulwari!Post Hatwar!Daula!Kishanganj!Kishanganj!Bihar!855107",
+      "alt": "7765938711",
+      "circle": "JIO BHR&JHR",
+      "email": "MojiburRahman@gamil.com",
+      "fname": "Abul Husain",
+      "name": "Mojibur Rahman",
+      "num": "7667102100"
+    },
+    {
+      "aadhar": "406254182982",
+      "address": " W/O  Dip Nayan Ray W/O  Dip Nayan Ray  vill- doila post- mashrakh Masrakh  Mashrakh  MASHRAKH-SARAN BR 841417 ",
+      "alt": "7765938711",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " DIP NAYAN RAY    ",
+      "name": " DEV PATI KUWAR ",
+      "num": "7324036964"
+    },
+    {
+      "aadhar": "564138052105",
+      "address": " 00 FULBARI BASANTPUR  KISHANGANJ Kishanganj BIHAR 855107 ",
+      "alt": "7765938711",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " MARFAT HUSSAIN ",
+      "name": " TARIK  ALAM ",
+      "num": "8544155379"
+    },
+    {
+      "aadhar": "909920561389",
+      "address": "! Ward no 01!Phulwari!Post Hatwar!Daula!Kishanganj!Kishanganj!Bihar!855107",
+      "alt": "7765938711",
+      "circle": "JIO BHR&JHR",
+      "email": "MojiburRahman@gamil.com",
+      "fname": "Abul Husain",
+      "name": "Mojibur Rahman",
+      "num": "7667102100"
+    },
+    {
+      "aadhar": "406254182982",
+      "address": " W/O  Dip Nayan Ray W/O  Dip Nayan Ray  vill- doila post- mashrakh Masrakh  Mashrakh  MASHRAKH-SARAN BR 841417 ",
+      "alt": "7765938711",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " DIP NAYAN RAY    ",
+      "name": " DEV PATI KUWAR ",
+      "num": "7324036964"
+    }
+  ]
+}
