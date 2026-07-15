@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:43:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7417563610",
+  "records": [
+    {
+      "aadhar": "475523925767",
+      "address": "S/O Ravimdra Singh!pootan rajpura!Gaati!!Etawah Gati!Etawah!Etawah!Uttar Pradesh!206131",
+      "alt": "8279453610",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ravimdra Singh",
+      "name": "Pushpendra",
+      "num": "7417563610"
+    },
+    {
+      "aadhar": "475523925767",
+      "address": "S/O Ravimdra Singh!pootan rajpura!Gaati!!Etawah Gati!Etawah!Etawah!Uttar Pradesh!206131",
+      "alt": "8279453610",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Ravimdra Singh",
+      "name": "Pushpendra",
+      "num": "7417563610"
+    },
+    {
+      "aadhar": "414788122010",
+      "address": "S/O Atar Singh!House No.108!ater road bhind!bhind!Bindwa Khipona BHIND!BHIND!BHIND!Madhya Pradesh!477111",
+      "alt": "7417563610",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Atar Singh",
+      "name": "MR ANIL KUMAR",
+      "num": "8965036140"
+    }
+  ]
+}
