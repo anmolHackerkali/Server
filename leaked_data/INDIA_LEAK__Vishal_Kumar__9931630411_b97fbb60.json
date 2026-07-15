@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:28:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931630411",
+  "records": [
+    {
+      "aadhar": "506046280958",
+      "address": " rajpur bigha!Kanbehri!!Aurangabad!Aurangabad!Aurangabad!Bihar!824102 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajendra Ram ",
+      "name": " Vishal Kumar ",
+      "num": "9931630411"
+    },
+    {
+      "aadhar": "506046280958",
+      "address": " rajpur bigha!Kanbehri!!Aurangabad!Aurangabad!Aurangabad!Bihar!824102 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Rajendra Ram ",
+      "name": " Vishal Kumar ",
+      "num": "9931630411"
+    }
+  ]
+}
