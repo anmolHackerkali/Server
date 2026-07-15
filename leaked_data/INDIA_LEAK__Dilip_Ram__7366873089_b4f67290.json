@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:33:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7366873089",
+  "records": [
+    {
+      "aadhar": "903989850397",
+      "address": " Vill-Ramauli!post-Ramauli!!Ramauli Ramauli!Darbhanga!Darbhanga!Bihar!847201 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ballabh Ram ",
+      "name": " Dilip Ram ",
+      "num": "7366873089"
+    },
+    {
+      "aadhar": "903989850397",
+      "address": " Vill-Ramauli!post-Ramauli!!Ramauli Ramauli!Darbhanga!Darbhanga!Bihar!847201 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ballabh Ram ",
+      "name": " Dilip Ram ",
+      "num": "7366873089"
+    }
+  ]
+}
