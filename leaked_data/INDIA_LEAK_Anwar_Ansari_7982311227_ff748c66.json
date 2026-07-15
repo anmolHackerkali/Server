@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:43:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7982311227",
+  "records": [
+    {
+      "aadhar": "IBF0041590",
+      "address": "!56 block-m!J J COLONY-iii!!NANGLOI!New Delhi West!West!Delhi!110041",
+      "alt": "9899146879",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mohd Ali parwana",
+      "name": "Anwar Ansari",
+      "num": "7982311227"
+    },
+    {
+      "aadhar": "IBF0041590",
+      "address": "!56 block-m!J J COLONY-iii!!NANGLOI!New Delhi West!West!Delhi!110041",
+      "alt": "9899146879",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mohd Ali parwana",
+      "name": "Anwar Ansari",
+      "num": "7982311227"
+    },
+    {
+      "aadhar": "IBF0041590",
+      "address": "!56 block-m!J J COLONY-iii!!NANGLOI!New Delhi West!West!Delhi!110041",
+      "alt": "9899146879",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "mohd Ali parwana",
+      "name": "Anwar Ansari",
+      "num": "7982311227"
+    },
+    {
+      "aadhar": "UBF0041590",
+      "address": "!56 Block M!J J Colony 3 Nangloi!!West Delhi!New Delhi West!West!Delhi!110041",
+      "alt": "7982311227",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohd Ali Parwana",
+      "name": "Anwar Ansari  ",
+      "num": "9899146879"
+    },
+    {
+      "aadhar": "UBF0041590",
+      "address": "!56 Block M!J J Colony 3 Nangloi!!West Delhi!New Delhi West!West!Delhi!110041",
+      "alt": "7982311227",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohd Ali Parwana",
+      "name": "Anwar Ansari  ",
+      "num": "9899146879"
+    },
+    {
+      "aadhar": "UBF0041590",
+      "address": "!56 Block M!J J Colony 3 Nangloi!!West Delhi!New Delhi West!West!Delhi!110041",
+      "alt": "7982311227",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohd Ali Parwana",
+      "name": "Anwar Ansari  ",
+      "num": "9899146879"
+    }
+  ]
+}
