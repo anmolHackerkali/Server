@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:23:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6204210429",
+  "records": [
+    {
+      "aadhar": "214479707117",
+      "address": "s/o  saryu singh! holding no-42!rajput muhalla Jhumri Telaiya!ward no-20  gumo!holding no42 rajput muhalla ward no-20 gumo!jhumri telaiya Koderma!koderma!Jharkhand!825409",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "saryu singh",
+      "name": "Subhash Singh",
+      "num": "6204210429"
+    },
+    {
+      "aadhar": "214479707117",
+      "address": "s/o  saryu singh! holding no-42!rajput muhalla Jhumri Telaiya!ward no-20  gumo!holding no42 rajput muhalla ward no-20 gumo!jhumri telaiya Koderma!koderma!Jharkhand!825409",
+      "alt": "8873476815",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "saryu singh",
+      "name": "Subhash Singh",
+      "num": "6204210429"
+    },
+    {
+      "aadhar": "214479707117",
+      "address": "s/o  saryu singh! holding no-42!rajput muhalla Jhumri Telaiya!ward no-20  gumo!holding no42 rajput muhalla ward no-20 gumo!jhumri telaiya Koderma!koderma!Jharkhand!825409",
+      "alt": "8873476815",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "saryu singh",
+      "name": "Subhash Singh",
+      "num": "6204210429"
+    }
+  ]
+}
