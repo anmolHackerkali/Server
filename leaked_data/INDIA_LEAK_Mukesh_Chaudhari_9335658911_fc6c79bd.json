@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:50:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9335658911",
+  "records": [
+    {
+      "aadhar": "987582005398",
+      "address": "! 00!kumbhi!!taraunja!Raebareli!Raebareli!Uttar Pradesh!229308",
+      "alt": "9793324301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "javahar lal",
+      "name": "Mukesh Chaudhari",
+      "num": "9335658911"
+    },
+    {
+      "aadhar": "987582005398",
+      "address": "! 00!kumbhi!!taraunja!Raebareli!Raebareli!Uttar Pradesh!229308",
+      "alt": "9793324301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "javahar lal",
+      "name": "Mukesh Chaudhari",
+      "num": "9335658911"
+    },
+    {
+      "aadhar": "513996327794",
+      "address": "MOHAN LAL!00!Haidergarh Barabanki barabanki!barabanki!Haidergarh Barabanki SULTANPUR!GAURIGANJ SULTANPUR!UTTAR PRADESH!227801",
+      "alt": "9335658911",
+      "circle": "UPE",
+      "email": null,
+      "fname": "PANNELAL",
+      "name": "MS KESH KUMARI",
+      "num": "7860913847"
+    },
+    {
+      "aadhar": "513996327794",
+      "address": "MOHAN LAL!00!Barabanki bara anki!bara anki!petrol Tanki Haidergarh SULTANPUR!GAURIGANJ SULTANPUR!UTTAR PRADESH!227801",
+      "alt": "9335658911",
+      "circle": "UPE",
+      "email": null,
+      "fname": "PANNELAL",
+      "name": "MS KESH KUMARI",
+      "num": "7860491736"
+    },
+    {
+      "aadhar": "513996327794",
+      "address": "MOHAN LAL!00!Haidergarh Barabanki barabanki!barabanki!Haidergarh Barabanki SULTANPUR!GAURIGANJ SULTANPUR!UTTAR PRADESH!227801",
+      "alt": "9335658911",
+      "circle": "UPE",
+      "email": null,
+      "fname": "PANNELAL",
+      "name": "MS KESH KUMARI",
+      "num": "7860913847"
+    },
+    {
+      "aadhar": "513996327794",
+      "address": "MOHAN LAL!00!Barabanki bara anki!bara anki!petrol Tanki Haidergarh SULTANPUR!GAURIGANJ SULTANPUR!UTTAR PRADESH!227801",
+      "alt": "9335658911",
+      "circle": "UPE",
+      "email": null,
+      "fname": "PANNELAL",
+      "name": "MS KESH KUMARI",
+      "num": "7860491736"
+    }
+  ]
+}
