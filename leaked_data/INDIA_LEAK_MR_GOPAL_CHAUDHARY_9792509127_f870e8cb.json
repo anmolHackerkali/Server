@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:57:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792509127",
+  "records": [
+    {
+      "aadhar": "394637512621",
+      "address": "S/O RAMCHANDAR PRASAD!BANAKAT!BANAKAT!!KHUTAHIKUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274306",
+      "alt": "9129280720",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ramchandar Prasad",
+      "name": "MR. GOPAL CHAUDHARY",
+      "num": "9792509127"
+    },
+    {
+      "aadhar": "394637512621",
+      "address": "S/O RAMCHANDAR PRASAD!BANAKAT!BANAKAT!!KHUTAHI KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274306",
+      "alt": "9129280720",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramchandar Prasad",
+      "name": "MR GOPAL CHAUDHARY",
+      "num": "9792509127"
+    },
+    {
+      "aadhar": "394637512621",
+      "address": "S/O RAMCHANDAR PRASAD!BANAKAT!BANAKAT!!KHUTAHI KUSHINAGAR!KUSHINAGAR!UTTAR PRADESH!274306",
+      "alt": "9129280720",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ramchandar Prasad",
+      "name": "MR GOPAL CHAUDHARY",
+      "num": "9792509127"
+    }
+  ]
+}
