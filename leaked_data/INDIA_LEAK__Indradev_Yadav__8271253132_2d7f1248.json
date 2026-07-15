@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:15:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8271253132",
+  "records": [
+    {
+      "aadhar": "837246607839",
+      "address": " bela belhi!bela belhi!!Belhi!Madhubani!Madhubani!Bihar!847226 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ramashish Yadav ",
+      "name": " Indradev Yadav ",
+      "num": "8271253132"
+    },
+    {
+      "aadhar": "837246607839",
+      "address": " bela belhi!bela belhi!!Belhi!Madhubani!Madhubani!Bihar!847226 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ramashish Yadav ",
+      "name": " Indradev Yadav ",
+      "num": "8271253132"
+    }
+  ]
+}
