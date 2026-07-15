@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:39:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203541544",
+  "records": [
+    {
+      "aadhar": "614756444610",
+      "address": "S/O  Jagdeep Ram!!PO- DUGUL  Pirwan!NA!VILL - SONARCHAK PO- DUGUL PS - SALAIYA!Pirwan Madanpur Aurangabad!NA!Bihar!824205",
+      "alt": "9661852509",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Jagdeep Ram",
+      "name": "Prem Ram",
+      "num": "6203541544"
+    },
+    {
+      "aadhar": "614756444610",
+      "address": "S/O  Jagdeep Ram!!PO- DUGUL  Pirwan!NA!VILL - SONARCHAK PO- DUGUL PS - SALAIYA!Pirwan Madanpur Aurangabad!NA!Bihar!824205",
+      "alt": "9661852509",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jagdeep Ram",
+      "name": "Prem Ram",
+      "num": "6203541544"
+    },
+    {
+      "aadhar": "614756444610",
+      "address": "S/O  Jagdeep Ram!!PO- DUGUL  Pirwan!NA!VILL - SONARCHAK PO- DUGUL PS - SALAIYA!Pirwan Madanpur Aurangabad!NA!Bihar!824205",
+      "alt": "9661852509",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Jagdeep Ram",
+      "name": "Prem Ram",
+      "num": "6203541544"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Amarnath Singh! !  gram-bakhari Ke tola!  Siwan!gram-bakhari Ke tola!BANGRA B O - SWN!Siwan!BIHAR!841203",
+      "alt": "6203541544",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Amarnath Singh",
+      "name": "Rahul Kumar Singh",
+      "num": "8581944395"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Amarnath Singh! !  gram-bakhari Ke tola!  Siwan!gram-bakhari Ke tola!BANGRA B O - SWN!Siwan!BIHAR!841203",
+      "alt": "6203541544",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Amarnath Singh",
+      "name": "Rahul Kumar Singh",
+      "num": "8581944395"
+    }
+  ]
+}
