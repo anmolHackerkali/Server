@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:03:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7080727232",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!h No 123 gali no 5 swami shraddha nand colony!bhalaswa dairy!Delhi North North West!Delhi!110042",
+      "alt": "919310728032",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Ajabh Nath",
+      "name": "Vivek",
+      "num": "7080727232"
+    },
+    {
+      "aadhar": null,
+      "address": "Reeta Devi!Hno 1125!I Block!Jahangir PuriNORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ajabh Nath",
+      "name": "Vivek ",
+      "num": "7080727232"
+    },
+    {
+      "aadhar": null,
+      "address": "Reeta Devi!Hno 1125!I Block!Jahangir PuriNORTH WEST DELHI!!DELHI!NORTH WEST DELHI!Delhi!110033",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ajabh Nath",
+      "name": "Vivek ",
+      "num": "7080727232"
+    }
+  ]
+}
