@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:45:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9664668651",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Makvana Bharatbhai   vadi vistar Vallabhpar Kachchh Gujarat 370155",
+      "alt": "919664679014",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Makvana Bharatbhai",
+      "name": "Makvana Chetanbhai Bharatbhai",
+      "num": "9664668651"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Makvana Bharatbhai   vadi vistar Vallabhpar Kachchh Gujarat 370155",
+      "alt": "919664679014",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Makvana Bharatbhai",
+      "name": "Makvana Chetanbhai Bharatbhai",
+      "num": "9664668651"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Makvana Bharatbhai   vadi vistar Vallabhpar Kachchh Gujarat 370155",
+      "alt": "919664679014",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Makvana Bharatbhai",
+      "name": "Makvana Chetanbhai Bharatbhai",
+      "num": "9664668651"
+    }
+  ]
+}
