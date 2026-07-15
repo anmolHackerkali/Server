@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:57:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792756430",
+  "records": [
+    {
+      "aadhar": "651848625418",
+      "address": "W/O Jay Prakash Gautam!thana-machhalishahar!thana-machhalishaharpost-katahit khas!post-katahit khas!village-ismailaJaunpur!JAUNPUR!UTTAR PRADESH!222144",
+      "alt": "9919592841",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jay Prakash Gautam",
+      "name": "MS. SAVITRI DIVE .DIVE",
+      "num": "9792756430"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jay Prakash!!thana-machhalishahar!post-katahit khas vill-isamaila Kataka!Jaunpur!Uttar Pradesh!222144",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jay Prakash",
+      "name": "Raju Kumar",
+      "num": "9792756430"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Jay Prakash!!thana-machhalishahar!post-katahit khas vill-isamaila Kataka!Jaunpur!Uttar Pradesh!222144",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jay Prakash",
+      "name": "Raju Kumar",
+      "num": "9792756430"
+    }
+  ]
+}
