@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:53:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9426674623",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " A-503  Akash prithvi  Vadod  bhestan jiav  GUJARAT 395023 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " VARUN TIWARI     ",
+      "num": "9426674623"
+    },
+    {
+      "aadhar": null,
+      "address": " A-503  Akash prithvi  Vadod  bhestan jiav  GUJARAT 395023 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " VARUN TIWARI     ",
+      "num": "9426674623"
+    }
+  ]
+}
