@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:24:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7323032528",
+  "records": [
+    {
+      "aadhar": "886613361069",
+      "address": "S/O  Gauri Shankar Singh!S/O  Gauri Shankar Singh!chhitrauli!Piroi  Goraul !PIROI URF RASULPUR SHAMSHUDDIN-VAISHALI!BR!844114",
+      "alt": "9835670010",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "GAURI SHANKAR Shankar SINGH",
+      "name": "BRAJ KISHOR SINGH",
+      "num": "7323032528"
+    },
+    {
+      "aadhar": "886613361069",
+      "address": "S/O  Gauri Shankar Singh!S/O  Gauri Shankar Singh!chhitrauli!Piroi  Goraul !PIROI URF RASULPUR SHAMSHUDDIN-VAISHALI!BR!844114",
+      "alt": "9835670010",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "GAURI SHANKAR Shankar SINGH",
+      "name": "BRAJ KISHOR SINGH",
+      "num": "7323032528"
+    }
+  ]
+}
