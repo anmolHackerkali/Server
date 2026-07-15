@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:14:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8081412370",
+  "records": [
+    {
+      "aadhar": "243240960778",
+      "address": "w/o  vijaynarayan!ghar!Musa Nagar!!bamharauli bhognipur!musa nagar Bhognipur!kanpur dehat!Uttar Pradesh!209208",
+      "alt": "8960987500",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vijaynarayan",
+      "name": "Vitan",
+      "num": "8081412370"
+    },
+    {
+      "aadhar": "243240960778",
+      "address": "w/o  vijaynarayan!ghar!Musa Nagar!!bamharauli bhognipur!musa nagar Bhognipur!kanpur dehat!Uttar Pradesh!209208",
+      "alt": "8960987500",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "vijaynarayan",
+      "name": "Vitan",
+      "num": "8081412370"
+    }
+  ]
+}
