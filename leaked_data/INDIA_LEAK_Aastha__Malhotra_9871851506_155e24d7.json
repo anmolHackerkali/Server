@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:15:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871851506",
+  "records": [
+    {
+      "aadhar": "313872906229",
+      "address": "!K D-23 PITAM PURA!MIG FLATS  BLOCK KD!SOUTH PITAM PURANorth West Delhi!!Delhi!110088",
+      "alt": "0",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "P K Malhotra",
+      "name": "Aastha  Malhotra",
+      "num": "9871851506"
+    },
+    {
+      "aadhar": "313872906229",
+      "address": "!K D-23PITAM PURA!MIG FLATS  BLOCK KD!SOUTH PITAM PURANorth West Delhi!!Delhi!110088",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "P K Malhotra",
+      "name": "Aastha  Malhotra",
+      "num": "9871851506"
+    },
+    {
+      "aadhar": "313872906229",
+      "address": "!K D-23PITAM PURA!MIG FLATS  BLOCK KD!SOUTH PITAM PURANorth West Delhi!!Delhi!110088",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "P K Malhotra",
+      "name": "Aastha  Malhotra",
+      "num": "9871851506"
+    }
+  ]
+}
