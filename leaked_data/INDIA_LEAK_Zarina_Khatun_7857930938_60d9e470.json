@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:52:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7857930938",
+  "records": [
+    {
+      "aadhar": "503156702867",
+      "address": "!semri samastipur  12!Ward 08!Shivmandir!Simri vidyapatinagar!Samastipur!Samastipur!Bihar!848503",
+      "alt": "7765992498",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Md Irafil",
+      "name": "Zarina Khatun",
+      "num": "7857930938"
+    },
+    {
+      "aadhar": "503156702867",
+      "address": "!semri samastipur 12!Ward 08!Shivmandir!Simri vidyapatinagar!Samastipur!Samastipur!Bihar!848503",
+      "alt": "9931465716",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Irafil",
+      "name": "Zarina Khatun",
+      "num": "7857930938"
+    },
+    {
+      "aadhar": "503156702867",
+      "address": "!semri samastipur 12!Ward 08!Shivmandir!Simri vidyapatinagar!Samastipur!Samastipur!Bihar!848503",
+      "alt": "9931465716",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Md Irafil",
+      "name": "Zarina Khatun",
+      "num": "7857930938"
+    }
+  ]
+}
