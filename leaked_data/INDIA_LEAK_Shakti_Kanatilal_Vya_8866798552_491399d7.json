@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:48:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8866798552",
+  "records": [
+    {
+      "aadhar": "647546170243",
+      "address": "06!    City/District  Navsari!MAHADEV NAGAR!NAVSARI!396450",
+      "alt": "9376435667",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "kanatilal",
+      "name": "Shakti Kanatilal Vyas",
+      "num": "8866798552"
+    },
+    {
+      "aadhar": "647546170243",
+      "address": "!06!    City/District: Navsari!MAHADEV NAGAR!NAVSARI!Gujarat!396450",
+      "alt": "9376435667",
+      "circle": "VI GUJARAT",
+      "email": "shakti_vyas007@hotmail.com",
+      "fname": "kanatilal",
+      "name": "Shakti Kanatilal Vyas",
+      "num": "8866798552"
+    },
+    {
+      "aadhar": "647546170243",
+      "address": "!06!    City/District: Navsari!MAHADEV NAGAR!NAVSARI!Gujarat!396450",
+      "alt": "9376435667",
+      "circle": "VI GUJARAT",
+      "email": "shakti_vyas007@hotmail.com",
+      "fname": "kanatilal",
+      "name": "Shakti Kanatilal Vyas",
+      "num": "8866798552"
+    },
+    {
+      "aadhar": "390872675597",
+      "address": " !eru mahadev nagar society!eru char rasta!NAVSARI!396450",
+      "alt": "8866798552",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Madhavlal",
+      "name": "Kantilal Madhavlal Vyas",
+      "num": "9374668611"
+    },
+    {
+      "aadhar": "390872675597",
+      "address": "Madhavlal Vyas! !eru mahadev nagar society!eru char rasta!NAVSARI!Gujarat!396450",
+      "alt": "8866798552",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Madhavlal",
+      "name": "Kantilal Madhavlal Vyas",
+      "num": "9374668611"
+    },
+    {
+      "aadhar": "390872675597",
+      "address": "Madhavlal Vyas! !eru mahadev nagar society!eru char rasta!NAVSARI!Gujarat!396450",
+      "alt": "8866798552",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Madhavlal",
+      "name": "Kantilal Madhavlal Vyas",
+      "num": "9374668611"
+    }
+  ]
+}
