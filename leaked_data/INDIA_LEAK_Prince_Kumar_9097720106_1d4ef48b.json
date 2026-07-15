@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 23:15:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9097720106",
+  "records": [
+    {
+      "aadhar": "436106767375",
+      "address": "! ward no 12!maulabag!!Nawada arrah!Bhojpur!Bhojpur!Bihar!802301",
+      "alt": "6206841885",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Gautam yadav",
+      "name": "Prince Kumar",
+      "num": "9097720106"
+    },
+    {
+      "aadhar": "436106767375",
+      "address": "! ward no 12!maulabag!!Nawada arrah!Bhojpur!Bhojpur!Bihar!802301",
+      "alt": "6206841885",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Gautam yadav",
+      "name": "Prince Kumar",
+      "num": "9097720106"
+    },
+    {
+      "aadhar": "436106767375",
+      "address": "! ward no 12!maulabag!!Nawada arrah!Bhojpur!Bhojpur!Bihar!802301",
+      "alt": "6206841885",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Gautam yadav",
+      "name": "Prince Kumar",
+      "num": "9097720106"
+    }
+  ]
+}
