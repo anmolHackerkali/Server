@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:11:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9431183385",
+  "records": [
+    {
+      "aadhar": "944457126912",
+      "address": "S/O Late Sita Sahu!Shiv Durga Mandir Lane Ratu Road  Post- Hehal RANCHI!!!!Ranchi !Jharkhand!834005",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Sita Sahu",
+      "name": "Sanjay Kumar Sahu",
+      "num": "9431183385"
+    },
+    {
+      "aadhar": "944457126912",
+      "address": "S/O Late Sita Sahu!Shiv Durga Mandir Lane Ratu Road  Post- Hehal RANCHI!!!!Ranchi !Jharkhand!834005",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Sita Sahu",
+      "name": "Sanjay Kumar Sahu",
+      "num": "9431183385"
+    },
+    {
+      "aadhar": "944457126912",
+      "address": "s/o late sita sahu!.!SHIV DURGA MANDIR LANE!RATU ROAD!POST-HEHAL RANCHI ratu road post hehal!shiv durga mandir lane ratu road. post- hehal!ranchi!Jharkhand!834005",
+      "alt": "9431183385",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late sita sahu",
+      "name": "Sanjay Kumar Sahu",
+      "num": "9955160474"
+    },
+    {
+      "aadhar": "944457126912",
+      "address": "s/o late sita sahu!.!SHIV DURGA MANDIR LANE!RATU ROAD!POST-HEHAL RANCHI ratu road post hehal!shiv durga mandir lane ratu road. post- hehal!ranchi!Jharkhand!834005",
+      "alt": "9431183385",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late sita sahu",
+      "name": "Sanjay Kumar Sahu",
+      "num": "9955160474"
+    }
+  ]
+}
