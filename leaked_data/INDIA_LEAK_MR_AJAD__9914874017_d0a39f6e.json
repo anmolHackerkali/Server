@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:41:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9914874017",
+  "records": [
+    {
+      "aadhar": "777901792998",
+      "address": "!.!Gopalpur KUDDA Jaunpur.!.!Gopalpur KUDDA JaunpurJAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR. AJAD .",
+      "num": "6391304731"
+    },
+    {
+      "aadhar": "777901792998",
+      "address": "!GOPALPUR!Gopalpur KUDDA JaunpurKUDDA!KUDDA!Gopalpur KUDDA JaunpurJAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR. AJAD .",
+      "num": "6391304519"
+    },
+    {
+      "aadhar": "777901792998",
+      "address": "!.!Gopalpur KUDDA Jaunpur .!.!Gopalpur KUDDA Jaunpur JAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR AJAD ",
+      "num": "6391304731"
+    },
+    {
+      "aadhar": "777901792998",
+      "address": "!GOPALPUR!Gopalpur KUDDA Jaunpur KUDDA!KUDDA!Gopalpur KUDDA Jaunpur JAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR AJAD ",
+      "num": "6391304519"
+    },
+    {
+      "aadhar": "777901792998",
+      "address": "!.!Gopalpur KUDDA Jaunpur .!.!Gopalpur KUDDA Jaunpur JAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR AJAD ",
+      "num": "6391304731"
+    },
+    {
+      "aadhar": "777901792998",
+      "address": "!GOPALPUR!Gopalpur KUDDA Jaunpur KUDDA!KUDDA!Gopalpur KUDDA Jaunpur JAUNPUR!JAUNPUR!UTTAR PRADESH!222170",
+      "alt": "9914874017",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajpat",
+      "name": "MR AJAD ",
+      "num": "6391304519"
+    }
+  ]
+}
