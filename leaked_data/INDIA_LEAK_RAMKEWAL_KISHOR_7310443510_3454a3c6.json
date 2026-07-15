@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 00:26:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7310443510",
+  "records": [
+    {
+      "aadhar": "RZU1652558",
+      "address": "H NO 254!VILL RAMGANJ GAURIGANJ!AMETHI!AMETHI!UTTAR PRADESH!227405",
+      "alt": "NA",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "DEVDASKISHOR",
+      "name": "RAMKEWAL KISHOR",
+      "num": "7310443510"
+    },
+    {
+      "aadhar": "RZU1652558",
+      "address": "H NO 254!VILL RAMGANJ GAURIGANJ!AMETHI!AMETHI!UTTAR PRADESH!227405",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "DEVDASKISHOR",
+      "name": "RAMKEWAL KISHOR",
+      "num": "7310443510"
+    },
+    {
+      "aadhar": "RZU1652558",
+      "address": "H NO 254!VILL RAMGANJ GAURIGANJ!AMETHI!AMETHI!UTTAR PRADESH!227405",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "DEVDASKISHOR",
+      "name": "RAMKEWAL KISHOR",
+      "num": "7310443510"
+    },
+    {
+      "aadhar": "537649714446",
+      "address": "!House no 1865!Gali no 22!!old seelampur!Delhi East!East!Delhi!110031",
+      "alt": "7310443510",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "mo shamim",
+      "name": "Kafil  ",
+      "num": "7982465021"
+    },
+    {
+      "aadhar": "537649714446",
+      "address": "!House no 1865!Gali no 22!!old seelampur!Delhi East!East!Delhi!110031",
+      "alt": "7310443510",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "mo shamim",
+      "name": "Kafil  ",
+      "num": "7982465021"
+    },
+    {
+      "aadhar": "537649714446",
+      "address": "!House no 1865!Gali no 22!!old seelampur!Delhi East!East!Delhi!110031",
+      "alt": "7310443510",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "mo shamim",
+      "name": "Kafil  ",
+      "num": "7982465021"
+    }
+  ]
+}
