@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:57:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9118190009",
+  "records": [
+    {
+      "aadhar": "662895772988",
+      "address": "OM PRAKASH SINGH!SONWAL ANHARIPUR!SONWAL!SONWAL!Andhiyara GHAZIPUR!GHAZIPUR!UTTAR PRADESH!232336",
+      "alt": "9170056003",
+      "circle": "UPE",
+      "email": null,
+      "fname": "OM PRAKASH SINGH",
+      "name": "MR NAND KUMAR",
+      "num": "9118190009"
+    },
+    {
+      "aadhar": "662895772988",
+      "address": "OM PRAKASH SINGH!SONWAL ANHARIPUR!SONWAL!SONWAL!Andhiyara GHAZIPUR!GHAZIPUR!UTTAR PRADESH!232336",
+      "alt": "9170056003",
+      "circle": "UPE",
+      "email": null,
+      "fname": "OM PRAKASH SINGH",
+      "name": "MR NAND KUMAR",
+      "num": "9118190009"
+    },
+    {
+      "aadhar": "662895772988",
+      "address": "s/o  om prakash singh!s/o om prakash singh!sonwal andhiyara ghazipur!!sonwal!andhiyara!ghazipur!Uttar Pradesh!232336",
+      "alt": "9118190009",
+      "circle": "JIO UPE",
+      "email": "nngzp02@gmail.com",
+      "fname": "om prakash singh",
+      "name": "Nand Kumar",
+      "num": "9170056003"
+    },
+    {
+      "aadhar": "480550035781",
+      "address": "!222!anharipur!!Andhiyara!Ghazipur!!Uttar Pradesh!232336",
+      "alt": "9118190009",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Parshuram  Paswan",
+      "name": "Mantosh Kumar Paswan",
+      "num": "7388917077"
+    },
+    {
+      "aadhar": "662895772988",
+      "address": "s/o  om prakash singh!s/o om prakash singh!sonwal andhiyara ghazipur!!sonwal!andhiyara!ghazipur!Uttar Pradesh!232336",
+      "alt": "9118190009",
+      "circle": "JIO UPE",
+      "email": "nngzp02@gmail.com",
+      "fname": "om prakash singh",
+      "name": "Nand Kumar",
+      "num": "9170056003"
+    },
+    {
+      "aadhar": "480550035781",
+      "address": "!222!anharipur!!Andhiyara!Ghazipur!!Uttar Pradesh!232336",
+      "alt": "9118190009",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Parshuram  Paswan",
+      "name": "Mantosh Kumar Paswan",
+      "num": "7388917077"
+    }
+  ]
+}
