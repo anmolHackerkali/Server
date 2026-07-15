@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:13:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8840082754",
+  "records": [
+    {
+      "aadhar": "396359468433",
+      "address": "D/O: Arjun Yadav!!tikha!phephana!Fefana Ballia!Uttar Pradesh!277503",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Arjun Yadav",
+      "name": "Premlata Yadav",
+      "num": "8840082754"
+    },
+    {
+      "aadhar": "396359468433",
+      "address": "D/O: Arjun Yadav!!tikha!phephana!Fefana Ballia!Uttar Pradesh!277503",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Arjun Yadav",
+      "name": "Premlata Yadav",
+      "num": "8840082754"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O: Babban Yadav!RAMPUR CHIT!RAMPUR CHIT!!RAMPUR CHIT Rampur ChitBALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR. UPENDRA KUMAR YADAV",
+      "num": "9415223125"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O BABBAN YADAV!RAMPUR CHIT!RAMPUR CHITRAMPUR CHIT!RAMPUR CHIT!BalliaBALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR. UPENDRA KUMAR YADAV",
+      "num": "6390173117"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O: Babban Yadav!RAMPUR CHIT!RAMPUR CHIT!!RAMPUR CHIT  Rampur Chit BALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR UPENDRA KUMAR YADAV",
+      "num": "9415223125"
+    },
+    {
+      "aadhar": "205341745558",
+      "address": "W/O Ajay Giri!cheruiya!Cheruia!!Ballia Cherueyan!Ballia!Ballia!Uttar Pradesh!277503",
+      "alt": "8840082754",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ajay Giri",
+      "name": "Renu Kumari Giri",
+      "num": "8953103436"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O BABBAN YADAV!RAMPUR CHIT!RAMPUR CHIT RAMPUR CHIT!RAMPUR CHIT!Ballia BALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR UPENDRA KUMAR YADAV",
+      "num": "6390173117"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O: Babban Yadav!RAMPUR CHIT!RAMPUR CHIT!!RAMPUR CHIT  Rampur Chit BALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR UPENDRA KUMAR YADAV",
+      "num": "9415223125"
+    },
+    {
+      "aadhar": "205341745558",
+      "address": "W/O Ajay Giri!cheruiya!Cheruia!!Ballia Cherueyan!Ballia!Ballia!Uttar Pradesh!277503",
+      "alt": "8840082754",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ajay Giri",
+      "name": "Renu Kumari Giri",
+      "num": "8953103436"
+    },
+    {
+      "aadhar": "745578151751",
+      "address": "S/O BABBAN YADAV!RAMPUR CHIT!RAMPUR CHIT RAMPUR CHIT!RAMPUR CHIT!Ballia BALLIA!BALLIA!UTTAR PRADESH!277502",
+      "alt": "8840082754",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Babban Yadav",
+      "name": "MR UPENDRA KUMAR YADAV",
+      "num": "6390173117"
+    }
+  ]
+}
