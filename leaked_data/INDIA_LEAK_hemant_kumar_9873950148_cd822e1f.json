@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:13:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9873950148",
+  "records": [
+    {
+      "aadhar": "534984556886",
+      "address": "!!11 bhankri pali pali!NA!faridabad!Faridabad Faridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!!11bhankri palipali!NA!faridabad!FaridabadFaridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!!11bhankri palipali!NA!faridabad!FaridabadFaridabad!NA!Haryana!121004",
+      "alt": "7838341611",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "attar singh",
+      "name": "hemant kumar",
+      "num": "9873950148"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!13!Village- BHANKRI Pali Faridabad pali 13!!Village- BHANKRI Pali Faridabad pali 13!Faridabad!Faridabad!Haryana!121004",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar singh",
+      "name": "Hemant Kumar",
+      "num": "8287783462"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "1349 1349 1349 sector-21D sector-21D Faridabad Faridabad Faridabad HR 121012",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "1293548371"
+    },
+    {
+      "aadhar": null,
+      "address": "Hno-13 ! Vill-Bhankri ! Fbd ! FARIDABAD NCR ! HARYANA ! 121004",
+      "alt": "9873950148",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Jagmal Singh",
+      "name": "Attar Singh",
+      "num": "9891099685"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!13!Village- BHANKRI Pali Faridabad pali 13!!Village- BHANKRI Pali Faridabad pali 13!Faridabad!Faridabad!Haryana!121004",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar singh",
+      "name": "Hemant Kumar",
+      "num": "8287783462"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "1349 1349 1349 sector-21D sector-21D Faridabad Faridabad Faridabad HR 121012",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "1293548371"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "!13!Village- BHANKRI Pali Faridabad pali 13!!Village- BHANKRI Pali Faridabad pali 13!Faridabad!Faridabad!Haryana!121004",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Attar singh",
+      "name": "Hemant Kumar",
+      "num": "8287783462"
+    },
+    {
+      "aadhar": "534984556886",
+      "address": "1349 1349 1349 sector-21D sector-21D Faridabad Faridabad Faridabad HR 121012",
+      "alt": "9873950148",
+      "circle": "JIO DELHI",
+      "email": "hemant11@gmail.com",
+      "fname": "Attar Singh",
+      "name": "Hemant Kumar",
+      "num": "1293548371"
+    }
+  ]
+}
