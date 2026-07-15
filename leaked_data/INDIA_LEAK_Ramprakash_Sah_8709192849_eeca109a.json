@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:17:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709192849",
+  "records": [
+    {
+      "aadhar": "514062248059",
+      "address": "S/O  Bishram Sah! vill penullla mishara!bihar bihar bihar Bathubazar!!thana phulwariya!Bathua Bazar Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9262602240",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bishram Sah",
+      "name": "Ramprakash Sah",
+      "num": "8709192849"
+    },
+    {
+      "aadhar": "514062248059",
+      "address": "S/O  Bishram Sah! vill pela mishara!bihar bihar bihar Bathubazar!!thana phulwariya!Bathua Bazar Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9262602240",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bishram Sah",
+      "name": "Ramprakash Sah",
+      "num": "8709192849"
+    },
+    {
+      "aadhar": "514062248059",
+      "address": "S/O  Bishram Sah! vill pela mishara!bihar bihar bihar Bathubazar!!thana phulwariya!Bathua Bazar Phulwaria!Gopalganj!Bihar!841425",
+      "alt": "9262602240",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bishram Sah",
+      "name": "Ramprakash Sah",
+      "num": "8709192849"
+    }
+  ]
+}
