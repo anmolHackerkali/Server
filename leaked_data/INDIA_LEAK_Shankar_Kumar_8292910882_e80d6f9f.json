@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:08:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8292910882",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!House No181!Village Berka Post Office Sohna District Gurgaon!Mohan Ram MandirGURGAON!!GURGAON!GURGAON!HARYANA!122103",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Indradev Sahni",
+      "name": "Shankar Kumar",
+      "num": "8292910882"
+    },
+    {
+      "aadhar": "745662534575",
+      "address": "!Karara Karara!!!!Patna Karara Ghoswari!Bihar!803302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Indradev  Sahni",
+      "name": "Ranjit  Sahni",
+      "num": "8292910882"
+    },
+    {
+      "aadhar": null,
+      "address": "!House No181!Village Berka Post Office Sohna District Gurgaon!Mohan Ram MandirGURGAON!!GURGAON!GURGAON!HARYANA!122103",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Indradev Sahni",
+      "name": "Shankar Kumar",
+      "num": "8292910882"
+    },
+    {
+      "aadhar": "745662534575",
+      "address": "!Karara Karara!!!!Patna Karara Ghoswari!Bihar!803302",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Indradev  Sahni",
+      "name": "Ranjit  Sahni",
+      "num": "8292910882"
+    },
+    {
+      "aadhar": "407749106381",
+      "address": "!karara patna!karara patna!karara patna!karara patna!karara patna!Patna!BIHAR!803302",
+      "alt": "8292910882",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "RANADHIR RAN",
+      "name": "JITENDRAKUMAR",
+      "num": "8986238967"
+    },
+    {
+      "aadhar": "XXXXXXXX6381",
+      "address": " karara patna karara patna karara patna karara patna karara patna  Patna BIHAR 803302 ",
+      "alt": "8292910882",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " RANADHIR RAN ",
+      "name": " JITENDRA  KUMAR ",
+      "num": "8986238967"
+    },
+    {
+      "aadhar": "407749106381",
+      "address": "!karara patna!karara patna!karara patna!karara patna!karara patna!Patna!BIHAR!803302",
+      "alt": "8292910882",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "RANADHIR RAN",
+      "name": "JITENDRAKUMAR",
+      "num": "8986238967"
+    },
+    {
+      "aadhar": "XXXXXXXX6381",
+      "address": " karara patna karara patna karara patna karara patna karara patna  Patna BIHAR 803302 ",
+      "alt": "8292910882",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " RANADHIR RAN ",
+      "name": " JITENDRA  KUMAR ",
+      "num": "8986238967"
+    }
+  ]
+}
