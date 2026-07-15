@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:16:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8800608805",
+  "records": [
+    {
+      "aadhar": "832596201265",
+      "address": "S/O Vivek Jha!House No-158  Block-K!!Nihal Vihar Nilothi!West Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vivek  Jha",
+      "name": "Hariom  Jha",
+      "num": "8800608805"
+    },
+    {
+      "aadhar": "832596201265",
+      "address": "S/O Vivek Jha!House No-158 Block-K!!Nihal ViharNilothi!West Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vivek  Jha",
+      "name": "Hariom  Jha",
+      "num": "8800608805"
+    },
+    {
+      "aadhar": "832596201265",
+      "address": "S/O Vivek Jha!House No-158 Block-K!!Nihal ViharNilothi!West Delhi!Delhi!110041",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vivek  Jha",
+      "name": "Hariom  Jha",
+      "num": "8800608805"
+    }
+  ]
+}
