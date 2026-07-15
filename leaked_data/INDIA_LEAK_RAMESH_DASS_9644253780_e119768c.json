@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:27:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9644253780",
+  "records": [
+    {
+      "aadhar": "355858432866",
+      "address": "S/O Panna Lal!S/O Panna Lal  570!chambal sagar marg!Nagda !NAGDA-UJJAIN!MP!456335",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "PANNA LAL",
+      "name": "RAMESH DASS",
+      "num": "9644253780"
+    },
+    {
+      "aadhar": "379812634779",
+      "address": "w/o  ramesh das!chambal marg!chambal marg nagda!!nagda!nagda!ujjain!Madhya Pradesh!456335",
+      "alt": "9644253780",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "ramesh das",
+      "name": "Radha Bai",
+      "num": "9303786650"
+    },
+    {
+      "aadhar": null,
+      "address": " makan n 32 juggi jopadi  pipliyamandi akyapalra piplia mandsaur Mandsaur  Madhya Pradesh 458664",
+      "alt": "9644253780",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "dhanna lal",
+      "name": "Laxmi Kumari",
+      "num": "8602894256 "
+    },
+    {
+      "aadhar": "294147502247",
+      "address": "SOHAN!381  ISHWAR NAGAR Ratlam!381  ISHWAR NAGAR Ratlam Ratlam!Ratlam!381  ISHWAR NAGAR Ratlam RATLAM!RATLAM!RATLAM!Madhya Pradesh!457001",
+      "alt": "9644253780",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Sohan",
+      "name": "MR VICKY JI",
+      "num": "7748958370"
+    },
+    {
+      "aadhar": "741277471918",
+      "address": "!Chambal Marg Nagda!Chambal Marg Nagda Chambal Marg Nagda UJJAIN!Nagda!Nagda!AKYA NAJIK!UJJAIN!Madhya Pradesh!456335",
+      "alt": "9644253780",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAMESH DAS",
+      "name": "JYOTI JI",
+      "num": "7089079652"
+    }
+  ]
+}
