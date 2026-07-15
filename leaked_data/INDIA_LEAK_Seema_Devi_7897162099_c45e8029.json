@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:55:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7897162099",
+  "records": [
+    {
+      "aadhar": "471743089526",
+      "address": "w/o  shivshankar!!Pipara Ramdhar!!pipara ramdhar!dhanouti rai Salempur!deoria!Uttar Pradesh!274509",
+      "alt": "9559076659",
+      "circle": "JIO UPE",
+      "email": "rajnishkumargond7589@gmail.com",
+      "fname": "shivshankar",
+      "name": "Seema Devi",
+      "num": "7897162099"
+    },
+    {
+      "aadhar": "471743089526",
+      "address": "w/o  shivshankar!!Pipara Ramdhar!!pipara ramdhar!dhanouti rai Salempur!deoria!Uttar Pradesh!274509",
+      "alt": "9559076659",
+      "circle": "JIO UPE",
+      "email": "rajnishkumargond7589@gmail.com",
+      "fname": "shivshankar",
+      "name": "Seema Devi",
+      "num": "7897162099"
+    }
+  ]
+}
