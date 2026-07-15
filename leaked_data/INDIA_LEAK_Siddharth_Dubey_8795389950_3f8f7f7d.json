@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:02:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795389950",
+  "records": [
+    {
+      "aadhar": "367967732646",
+      "address": "s/o  suresh chndra dubey!!DHEMA Dhema!!dhema!dhema Badlapur!jaunpur!Uttar Pradesh!222125",
+      "alt": "6392130313",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suresh chndra dubey",
+      "name": "Siddharth Dubey",
+      "num": "8795389950"
+    },
+    {
+      "aadhar": "367967732646",
+      "address": "s/o  suresh chndra dubey!!DHEMA Dhema!!dhema!dhema Badlapur!jaunpur!Uttar Pradesh!222125",
+      "alt": "6392130313",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suresh chndra dubey",
+      "name": "Siddharth Dubey",
+      "num": "8795389950"
+    },
+    {
+      "aadhar": "WHE2599702",
+      "address": "!00!Allahabad Road!!Badlapur!Jaunpur!Jaunpur!Uttar Pradesh!222125",
+      "alt": "8795389950",
+      "circle": "JIO UPE",
+      "email": "VIJAYDAS@1234GAIL.COM",
+      "fname": "Firtudas manikpuri",
+      "name": "Vijaydas manikpuri",
+      "num": "6306959260"
+    },
+    {
+      "aadhar": "WHE2599702",
+      "address": "!00!Allahabad Road!!Badlapur!Jaunpur!Jaunpur!Uttar Pradesh!222125",
+      "alt": "8795389950",
+      "circle": "JIO UPE",
+      "email": "VIJAYDAS@1234GAIL.COM",
+      "fname": "Firtudas manikpuri",
+      "name": "Vijaydas manikpuri",
+      "num": "6306959260"
+    }
+  ]
+}
