@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:58:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7046456945",
+  "records": [
+    {
+      "aadhar": "297123859911",
+      "address": "!!Tatam!!at-tatam!Tatam Gadhada!Bhavnagar!Gujarat!364765",
+      "alt": "9723870375",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Dayabhai",
+      "name": "Jidiya Vijaybhai Dayabhai",
+      "num": "7046456945"
+    },
+    {
+      "aadhar": "297123859911",
+      "address": "!!Tatam!!at-tatam!Tatam Gadhada!Bhavnagar!Gujarat!364765",
+      "alt": "9723870375",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Dayabhai",
+      "name": "Jidiya Vijaybhai Dayabhai",
+      "num": "7046456945"
+    },
+    {
+      "aadhar": "297123859911",
+      "address": "!!Tatam!!at-tatam!Tatam Gadhada!Bhavnagar!Gujarat!364765",
+      "alt": "9723870375",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Dayabhai",
+      "name": "Jidiya Vijaybhai Dayabhai",
+      "num": "7046456945"
+    }
+  ]
+}
