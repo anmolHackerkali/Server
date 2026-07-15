@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:50:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9412556735",
+  "records": [
+    {
+      "aadhar": "485196506162",
+      "address": "!00!Auraiya birhuni!!Biruhuni  Birhuni!Auraiya!Auraiya!Uttar Pradesh!206129",
+      "alt": "9719209566",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Het Ram",
+      "name": "Ajay Kumar",
+      "num": "9412556735"
+    },
+    {
+      "aadhar": "485196506162",
+      "address": "!00!Auraiya birhuni!!Biruhuni  Birhuni!Auraiya!Auraiya!Uttar Pradesh!206129",
+      "alt": "9719209566",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Het Ram",
+      "name": "Ajay Kumar",
+      "num": "9412556735"
+    },
+    {
+      "aadhar": "485196506162",
+      "address": "S/O  Het Ram!!Birhuni!!Biruhuni!BirhuniBidhuna!Auraiya!Uttar Pradesh!206129",
+      "alt": "9412556735",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Het Ram",
+      "name": "Ajay Kumar",
+      "num": "8126802655"
+    },
+    {
+      "aadhar": "485196506162",
+      "address": "S/O  Het Ram!!Birhuni!!Biruhuni!Birhuni Bidhuna!Auraiya!Uttar Pradesh!206129",
+      "alt": "9412556735",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Het Ram",
+      "name": "Ajay Kumar",
+      "num": "8126802655"
+    },
+    {
+      "aadhar": "485196506162",
+      "address": "S/O  Het Ram!!Birhuni!!Biruhuni!Birhuni Bidhuna!Auraiya!Uttar Pradesh!206129",
+      "alt": "9412556735",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Het Ram",
+      "name": "Ajay Kumar",
+      "num": "8126802655"
+    }
+  ]
+}
