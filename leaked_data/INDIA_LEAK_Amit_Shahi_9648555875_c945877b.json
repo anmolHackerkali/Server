@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:38:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9648555875",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Sant Ram!5/18/244!near fulwari!bachhda sultanpur sahab ganj Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sant Ram",
+      "name": "Amit Shahi",
+      "num": "9648555875"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Sant Ram!5/18/244!near fulwari!bachhda sultanpur sahab ganj Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Sant Ram",
+      "name": "Amit Shahi",
+      "num": "9648555875"
+    },
+    {
+      "aadhar": "248116123879",
+      "address": "W/O  Sant Ram! H.N. 5/18/244!BACHHDA SULTANPUR FULWARI KE NIYAR Faizabad!SAHAB GANJ FAIZABAD!!Faizabad Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": "9648555875",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sant Ram",
+      "name": "ANITA DEVI",
+      "num": "9454436974"
+    },
+    {
+      "aadhar": "248116123879",
+      "address": "W/O  Sant Ram! H.N. 5/18/244!BACHHDA SULTANPUR FULWARI KE NIYAR Faizabad!SAHAB GANJ FAIZABAD!!Faizabad Faizabad!Faizabad!Uttar Pradesh!224001",
+      "alt": "9648555875",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sant Ram",
+      "name": "ANITA DEVI",
+      "num": "9454436974"
+    }
+  ]
+}
