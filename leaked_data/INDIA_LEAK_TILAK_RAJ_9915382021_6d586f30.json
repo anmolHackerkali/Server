@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:49:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9915382021",
+  "records": [
+    {
+      "aadhar": "NOTAVAILABLE",
+      "address": "HNO 1426/A SEC 39/B CHDCHANDIGARH CHANDIGARH (M CORP )CHANDIGARHPUNJAB160039!",
+      "alt": null,
+      "circle": "PB",
+      "email": null,
+      "fname": "PARITAM SINGH",
+      "name": "TILAK RAJ",
+      "num": "9915382021"
+    },
+    {
+      "aadhar": "81TEL0839",
+      "address": "HNO 1426A!CHANDIGARH!SECTOR 39 B!CHANDIGARH!CHANDIGARH!160017",
+      "alt": "9915382021",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "PRITAMSINGH",
+      "name": "TILAK RAJ",
+      "num": "9876601173"
+    }
+  ]
+}
