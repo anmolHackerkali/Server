@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:37:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007357038",
+  "records": [
+    {
+      "aadhar": "268342500907",
+      "address": "S/O  Arunesh Shukla!! Khairigarh!!Khire Garh Nighasan Kheri!Uttar Pradesh!262905",
+      "alt": "916386021718",
+      "circle": "JIO UPE",
+      "email": "lovejitendar@gmail.com",
+      "fname": "Arunesh Shukla",
+      "name": "Anupam Shukla",
+      "num": "7007357038"
+    },
+    {
+      "aadhar": "268342500907",
+      "address": "S/O  Arunesh Shukla!! Khairigarh!!Khire Garh Nighasan Kheri!Uttar Pradesh!262905",
+      "alt": "916386021718",
+      "circle": "JIO UPE",
+      "email": "lovejitendar@gmail.com",
+      "fname": "Arunesh Shukla",
+      "name": "Anupam Shukla",
+      "num": "7007357038"
+    }
+  ]
+}
