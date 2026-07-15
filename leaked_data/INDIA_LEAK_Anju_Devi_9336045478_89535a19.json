@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:20:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9336045478",
+  "records": [
+    {
+      "aadhar": "882346282689",
+      "address": "W/O  Mahesh! 13!village pidra!Post-Kadesar!Village-Pidra!Pidra!Deoria!Uttar Pradesh!274205",
+      "alt": "8948375150",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahesh",
+      "name": "Anju Devi",
+      "num": "9336045478"
+    },
+    {
+      "aadhar": "882346282689",
+      "address": "W/O  Mahesh! 13!village pidra!Post-Kadesar!Village-Pidra!Pidra!Deoria!Uttar Pradesh!274205",
+      "alt": "8948375150",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Mahesh",
+      "name": "Anju Devi",
+      "num": "9336045478"
+    }
+  ]
+}
