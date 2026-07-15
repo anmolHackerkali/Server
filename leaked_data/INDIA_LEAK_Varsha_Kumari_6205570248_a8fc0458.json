@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:07:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6205570248",
+  "records": [
+    {
+      "aadhar": "235671312422",
+      "address": "D/O Sanjay Kumar Sahu!!SHIV DURGA MANDIR LANE RATU ROAD!!Ratu Road!HEHAL!Ranchi!Jharkhand!834001",
+      "alt": "7903448371",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Kumar Sahu",
+      "name": "Varsha Kumari",
+      "num": "6205570248"
+    },
+    {
+      "aadhar": "235671312422",
+      "address": "D/O Sanjay Kumar Sahu!!SHIV DURGA MANDIR LANE RATU ROAD!!Ratu Road!HEHAL!Ranchi!Jharkhand!834001",
+      "alt": "7903448371",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Sanjay Kumar Sahu",
+      "name": "Varsha Kumari",
+      "num": "6205570248"
+    }
+  ]
+}
