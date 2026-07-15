@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:23:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9534824230",
+  "records": [
+    {
+      "aadhar": "318002399782",
+      "address": "Md Noorulhoda Ansari!!ward-06 Satanpur!!Satanpur-Ujiarpur-Samastipur!Bihar!848132",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Md Noorulhoda Ansari",
+      "name": "Md Perwez Ansari",
+      "num": "9534824230"
+    },
+    {
+      "aadhar": "318002399782",
+      "address": "Md Noorulhoda Ansari!!ward-06 Satanpur!!Satanpur-Ujiarpur-Samastipur!Bihar!848132",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Md Noorulhoda Ansari",
+      "name": "Md Perwez Ansari",
+      "num": "9534824230"
+    },
+    {
+      "aadhar": "318002399782",
+      "address": "!!ward no 06 satanpur nh28!NA!UJIARPUR!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9534824230",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "MD noorulhoda Ansari",
+      "name": "MD perwez Ansari",
+      "num": "7370037080"
+    },
+    {
+      "aadhar": "318002399782",
+      "address": "!!ward no 06 satanpur nh28!NA!UJIARPUR!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9534824230",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "MD noorulhoda Ansari",
+      "name": "MD perwez Ansari",
+      "num": "7370037080"
+    },
+    {
+      "aadhar": "318002399782",
+      "address": "!!ward no 06 satanpur nh28!NA!UJIARPUR!Samastipur Samastipur!NA!Bihar!848132",
+      "alt": "9534824230",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "MD noorulhoda Ansari",
+      "name": "MD perwez Ansari",
+      "num": "7370037080"
+    }
+  ]
+}
