@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:54:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8651058878",
+  "records": [
+    {
+      "aadhar": "213163003717",
+      "address": "W/O  Janak Yadav!W/O  Janak Yadav!Jaitpur purani kothi Jaitpur Bharwalia Manjhi SARAN!!JAITPUR!Bihar!841205",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "JANAK YADAV  ",
+      "name": "SARSWATI DEVI",
+      "num": "8651058878"
+    },
+    {
+      "aadhar": "213163003717",
+      "address": "W/O  Janak Yadav!W/O  Janak Yadav!Jaitpur purani kothi Jaitpur Bharwalia Manjhi SARAN!!JAITPUR!Bihar!841205",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "JANAK YADAV  ",
+      "name": "SARSWATI DEVI",
+      "num": "8651058878"
+    },
+    {
+      "aadhar": "213163003717",
+      "address": "W/O  Janak Yadav!!Jaitpur Bharwalia!!Jaitpur purani kothi!Jaitpur Manjhi!Saran!Bihar!841205",
+      "alt": "8651058878",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Janak Yadav",
+      "name": "Sarswati Devi",
+      "num": "8102518753"
+    },
+    {
+      "aadhar": "213163003717",
+      "address": "W/O  Janak Yadav!!Jaitpur Bharwalia!!Jaitpur purani kothi!Jaitpur Manjhi!Saran!Bihar!841205",
+      "alt": "8651058878",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Janak Yadav",
+      "name": "Sarswati Devi",
+      "num": "8102518753"
+    },
+    {
+      "aadhar": "213163003717",
+      "address": "W/O  Janak Yadav!!Jaitpur Bharwalia!!Jaitpur purani kothi!Jaitpur Manjhi!Saran!Bihar!841205",
+      "alt": "8651058878",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Janak Yadav",
+      "name": "Sarswati Devi",
+      "num": "8102518753"
+    }
+  ]
+}
