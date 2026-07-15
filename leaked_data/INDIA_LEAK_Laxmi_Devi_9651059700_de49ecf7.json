@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:03:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9651059700",
+  "records": [
+    {
+      "aadhar": "746163565546",
+      "address": "W/O Dileep!41!ward no 1 gadeva dakshini!Bajpaikhera!Unnao!Uttar Pradesh!229502",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dileep",
+      "name": "Laxmi Devi",
+      "num": "9651059700"
+    },
+    {
+      "aadhar": "746163565546",
+      "address": "W/O Dileep!41!ward no 1 gadeva dakshini!Bajpaikhera!Unnao!Uttar Pradesh!229502",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dileep",
+      "name": "Laxmi Devi",
+      "num": "9651059700"
+    }
+  ]
+}
