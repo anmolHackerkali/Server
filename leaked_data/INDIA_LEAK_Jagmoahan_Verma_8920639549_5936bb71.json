@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:57:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920639549",
+  "records": [
+    {
+      "aadhar": "891706241227",
+      "address": "S/O  Mohan Lal!!295/21  gali no.-5!madanpuri!Gurgaon!Haryana!122001",
+      "alt": "+918860100202",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "Jagmoahan Verma",
+      "num": "8920639549"
+    },
+    {
+      "aadhar": "891706241227",
+      "address": "S/O  Mohan Lal!!295/21  gali no-5!madanpuri!Gurgaon!Haryana!122001",
+      "alt": "+918860100202",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "Jagmoahan Verma",
+      "num": "8920639549"
+    },
+    {
+      "aadhar": "891706241227",
+      "address": "S/O  Mohan Lal!!295/21  gali no-5!madanpuri!Gurgaon!Haryana!122001",
+      "alt": "+918860100202",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Mohan Lal",
+      "name": "Jagmoahan Verma",
+      "num": "8920639549"
+    }
+  ]
+}
