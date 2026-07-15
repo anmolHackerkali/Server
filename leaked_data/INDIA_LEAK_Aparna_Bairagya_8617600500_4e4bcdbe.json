@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:24:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8617600500",
+  "records": [
+    {
+      "aadhar": "261615320054",
+      "address": " D/O Kanai Adhikari!!Bagnapara!BAGHNAPARA!baghnapara bagnapara!faringgachhi Kalna - I!barddhaman!West Bengal!713501 ",
+      "alt": "8145170280",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kanai Adhikari",
+      "name": "Aparna Bairagya",
+      "num": "8617600500"
+    },
+    {
+      "aadhar": "261615320054",
+      "address": " D/O Kanai Adhikari!!Bagnapara!BAGHNAPARA!baghnapara bagnapara!faringgachhi Kalna - I!barddhaman!West Bengal!713501 ",
+      "alt": "8145170280",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Kanai Adhikari",
+      "name": "Aparna Bairagya",
+      "num": "8617600500"
+    }
+  ]
+}
