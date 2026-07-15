@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:58:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7398205692",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Milan!gajendhar patti ajgara!!  Gajandhar Patti Bhedaura!Azamgarh!Uttar Pradesh!223223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Milan",
+      "name": "Krishnkant Yadav",
+      "num": "7398205692"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ram Milan!gajendhar patti ajgara!!  Gajandhar Patti Bhedaura!Azamgarh!Uttar Pradesh!223223",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Milan",
+      "name": "Krishnkant Yadav",
+      "num": "7398205692"
+    },
+    {
+      "aadhar": "563904851242",
+      "address": "OMPRAKASH!GAJENDHAR PATH AJAGARA GAJANDHAR PATH B!GAJENDHAR PATH AJAGARA GAJANDHAR PATH B!!ATARAULIAAZAMGARH!AZAMGARH!UTTAR PRADESH!223223",
+      "alt": "7398205692",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "MS. GENA .",
+      "num": "8009753494"
+    }
+  ]
+}
