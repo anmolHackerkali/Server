@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:18:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8970554153",
+  "records": [
+    {
+      "aadhar": "ZWF2511665",
+      "address": "265 M I G 9TH CROSS NAVANAGAR DHARWAD DHARWAD DHARWAD KARNATAKA 580025",
+      "alt": "7829891689",
+      "circle": "BSNL KARNATKA",
+      "email": null,
+      "fname": "GUDDAPPA",
+      "name": "JAGADISH GUDDAPPA GUDAGUR",
+      "num": "8970554153"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Guddappa 265 MIG 9th Cross Navanagar Hubli Dharwad  Karnataka 580025",
+      "alt": "8970554153",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Guddappa   ",
+      "name": "Jagadeesh  Gudagur",
+      "num": "7022347275"
+    }
+  ]
+}
