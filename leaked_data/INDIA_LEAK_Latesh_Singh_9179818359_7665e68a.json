@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:13:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9179818359",
+  "records": [
+    {
+      "aadhar": "912866372527",
+      "address": "! 01!nawgai!!nawgai surguja!Raigarh!Surguja!Chhattisgarh!497001",
+      "alt": "7067356809",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "hem narayan singh",
+      "name": "Latesh Singh",
+      "num": "9179818359"
+    },
+    {
+      "aadhar": null,
+      "address": "  01 Nawgai  Surguja Surguja  Chhattisgarh 497001  ",
+      "alt": "9179818359",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Hem Narayan Singh ",
+      "name": " Latesh Singh ",
+      "num": "9685434863"
+    },
+    {
+      "aadhar": null,
+      "address": "  Nawgai Darima  Surguja Ambikapur Surguja  Chhattisgarh 497001  ",
+      "alt": "9179818359",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Dheerendra Singh ",
+      "name": " Reependra Singh ",
+      "num": "8871490231"
+    },
+    {
+      "aadhar": null,
+      "address": "  01 nawgai  surguja Surguja  Chhattisgarh 497001  ",
+      "alt": "9179818359",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": " Hem Narayan Singh ",
+      "name": " Latesh Singh ",
+      "num": "7224809001"
+    }
+  ]
+}
