@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:04:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9584472987",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Rambal Singh!House-25!.!kalgasa Surguja!!AMBIKAPUR!Surguja!CHHATTISGARH!497001",
+      "alt": "8109164681",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Rambal Singh",
+      "name": "Ram Keshvar",
+      "num": "9584472987"
+    }
+  ]
+}
