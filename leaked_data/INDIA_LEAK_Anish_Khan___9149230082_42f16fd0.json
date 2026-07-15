@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:03:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9149230082",
+  "records": [
+    {
+      "aadhar": "210771290754",
+      "address": "S/O  Faijuddeen Khan!!Gajoo!!gram-garhi hariya post-kumha!GajuMat!Mathura!Uttar Pradesh!281206",
+      "alt": "7500387556",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Faijuddeen Khan",
+      "name": "Anish Khan  ",
+      "num": "9149230082"
+    },
+    {
+      "aadhar": "210771290754",
+      "address": "S/O  Faijuddeen Khan!!Gajoo!!gram-garhi hariya post-kumha!Gaju Mat!Mathura!Uttar Pradesh!281206",
+      "alt": "7500387556",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Faijuddeen Khan",
+      "name": "Anish Khan",
+      "num": "9149230082"
+    },
+    {
+      "aadhar": "210771290754",
+      "address": "S/O  Faijuddeen Khan!!Gajoo!!gram-garhi hariya post-kumha!Gaju Mat!Mathura!Uttar Pradesh!281206",
+      "alt": "7500387556",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Faijuddeen Khan",
+      "name": "Anish Khan",
+      "num": "9149230082"
+    },
+    {
+      "aadhar": "485021382739",
+      "address": "!!0mirjapadamandir!NA!sadabad!MathuraMahamaya Nagar!NA!Uttar Pradesh!281306",
+      "alt": "9149230082",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "alauddin",
+      "name": "jalaluddin",
+      "num": "7500387556"
+    },
+    {
+      "aadhar": "485021382739",
+      "address": "!.!0 mirjapada mandir!NA!SADABAD HATHRAS!Mathura Mahamaya Nagar!NA!Uttar Pradesh!281306",
+      "alt": "9149230082",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "alauddin",
+      "name": "jalaluddin",
+      "num": "7500387556"
+    },
+    {
+      "aadhar": "485021382739",
+      "address": "!.!0 mirjapada mandir!NA!SADABAD HATHRAS!Mathura Mahamaya Nagar!NA!Uttar Pradesh!281306",
+      "alt": "9149230082",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "alauddin",
+      "name": "jalaluddin",
+      "num": "7500387556"
+    }
+  ]
+}
