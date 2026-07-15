@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:51:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7524897895",
+  "records": [
+    {
+      "aadhar": "376058886958",
+      "address": "C/O JUGAL KISHOR!01 PURWE MITAI WARD!01 PURWE MITAI WARD!!BarabankiBARABANKI!BARABANKI!UTTAR PRADESH!227301",
+      "alt": "9984070854",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "jugal",
+      "name": "MR. NIRMAL KUMAR",
+      "num": "7524897895"
+    },
+    {
+      "aadhar": "376058886958",
+      "address": "C/O JUGAL KISHOR!01  PURWE MITAI  WARD!01  PURWE MITAI  WARD!!Barabanki BARABANKI!BARABANKI!UTTAR PRADESH!227301",
+      "alt": "9984070854",
+      "circle": "UPE",
+      "email": null,
+      "fname": "jugal",
+      "name": "MR NIRMAL KUMAR",
+      "num": "7524897895"
+    },
+    {
+      "aadhar": "376058886958",
+      "address": "C/O JUGAL KISHOR!01  PURWE MITAI  WARD!01  PURWE MITAI  WARD!!Barabanki BARABANKI!BARABANKI!UTTAR PRADESH!227301",
+      "alt": "9984070854",
+      "circle": "UPE",
+      "email": null,
+      "fname": "jugal",
+      "name": "MR NIRMAL KUMAR",
+      "num": "7524897895"
+    },
+    {
+      "aadhar": "800038143626",
+      "address": "!Bhadaura Tarchhapar!Ballia!bank!uttar pradeshbank!AHIRAULI-BALLIA!UP!221715",
+      "alt": "7524897895",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "RAMJEET  YADAV",
+      "name": "VINAY KUMAR YADAV",
+      "num": "8576902623"
+    }
+  ]
+}
