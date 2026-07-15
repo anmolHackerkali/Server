@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:06:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9670907051",
+  "records": [
+    {
+      "aadhar": "207711614333",
+      "address": "S/O  Budhai Ram!! Dhema!NA!!Kathar Badlapur Jaunpur!NA!Uttar Pradesh!222125",
+      "alt": "7080685582",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Budhai Ram",
+      "name": "Rakesh",
+      "num": "9670907051"
+    },
+    {
+      "aadhar": "207711614333",
+      "address": "S/O  Budhai Ram!! Dhema!NA!!Kathar Badlapur Jaunpur!NA!Uttar Pradesh!222125",
+      "alt": "7080685582",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Budhai Ram",
+      "name": "Rakesh",
+      "num": "9670907051"
+    },
+    {
+      "aadhar": "207711614333",
+      "address": "s/o  budhai ram!!Dhema!!dhema!kathar Badlapur!jaunpur!Uttar Pradesh!222125",
+      "alt": "9670907051",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "budhai ram",
+      "name": "Rakesh",
+      "num": "9140210154"
+    },
+    {
+      "aadhar": "207711614333",
+      "address": "s/o  budhai ram!!Dhema!!dhema!kathar Badlapur!jaunpur!Uttar Pradesh!222125",
+      "alt": "9670907051",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "budhai ram",
+      "name": "Rakesh",
+      "num": "9140210154"
+    }
+  ]
+}
