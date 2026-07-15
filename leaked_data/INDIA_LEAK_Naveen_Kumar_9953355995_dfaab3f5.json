@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:57:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9953355995",
+  "records": [
+    {
+      "aadhar": "648545044840",
+      "address": "Nafe Singh!02!man road auchind border!auchind!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nafe Singh",
+      "name": "Naveen Kumar",
+      "num": "9953355995"
+    },
+    {
+      "aadhar": "648545044840",
+      "address": "Nafe Singh!02!man roadauchind border!auchind!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nafe Singh",
+      "name": "NaveenKumar",
+      "num": "9953355995"
+    },
+    {
+      "aadhar": "648545044840",
+      "address": "Nafe Singh!02!man roadauchind border!auchind!NORTH WEST DELHI!Delhi!110039",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Nafe Singh",
+      "name": "NaveenKumar",
+      "num": "9953355995"
+    },
+    {
+      "aadhar": "648545044840",
+      "address": " 238 Nizampur Khurd 238 Kharkhoda Sonipat  near anoop niketan school SONIPAT  HARYANA 131402",
+      "alt": "9953355995",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Nafe Singh",
+      "name": "MR  NAVEEN KUMAR",
+      "num": "8396894346"
+    },
+    {
+      "aadhar": "648545044840",
+      "address": "S/O  Nafe Singh!!Kundal!near anoop niketan school!kundal!Nizampur Khurd  238Kharkhoda!Sonipat!Haryana!131402",
+      "alt": "9953355995",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Nafe Singh",
+      "name": "Naveen Kumar",
+      "num": "7988862827"
+    }
+  ]
+}
