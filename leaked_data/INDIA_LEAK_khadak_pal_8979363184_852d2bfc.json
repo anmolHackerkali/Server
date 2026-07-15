@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:11:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8979363184",
+  "records": [
+    {
+      "aadhar": "928553068423",
+      "address": "!56!jm building!Nearbrailway station!banbasa!Banbasa!Champawat!Uttarakhand!262310",
+      "alt": "9027107229",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "dharm pal",
+      "name": "khadak pal",
+      "num": "8979363184"
+    },
+    {
+      "aadhar": "928553068423",
+      "address": "!56!jm building!Nearbrailway station!banbasa!Banbasa!Champawat!Uttarakhand!262310",
+      "alt": "9027107229",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "dharm pal",
+      "name": "khadak pal",
+      "num": "8979363184"
+    }
+  ]
+}
