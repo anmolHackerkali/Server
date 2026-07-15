@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:17:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9389732494",
+  "records": [
+    {
+      "aadhar": "475417505984",
+      "address": "s/o  ratan singh!!Bergaon!!naugaun bergaon!bergaonAlmora!almora!Uttarakhand!263678",
+      "alt": "7668740391",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "ratan singh",
+      "name": "Anand Singh  ",
+      "num": "9389732494"
+    }
+  ]
+}
