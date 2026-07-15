@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:48:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599750381",
+  "records": [
+    {
+      "aadhar": "709333770786",
+      "address": "!D-725!!N D M C!South West Delhi!Delhi!110023",
+      "alt": "9910037955",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brij Mohan Sharma",
+      "name": "Randhir  Kumar",
+      "num": "9599750381"
+    },
+    {
+      "aadhar": "709333770786",
+      "address": "!D-725 N D M C Sarojini Nagar South West AIRTEL DELHI AIRTEL DELHI 110023!!!!!!!",
+      "alt": "9910037955",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brij Mohan Sharma",
+      "name": "Randhir  Kumar",
+      "num": "9599750381"
+    },
+    {
+      "aadhar": "709333770786",
+      "address": "!D-725!!N D M C!South West Delhi!Delhi!110023",
+      "alt": "9910037955",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brij Mohan Sharma",
+      "name": "Randhir  Kumar",
+      "num": "9599750381"
+    },
+    {
+      "aadhar": "709333770786",
+      "address": "!D-725!!N D M C!South West Delhi!Delhi!110023",
+      "alt": "9910037955",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Brij Mohan Sharma",
+      "name": "Randhir  Kumar",
+      "num": "9599750381"
+    },
+    {
+      "aadhar": "288447960553",
+      "address": "!5/D10!Shanti kunj!Vasant Kunj!!SOUTH DELHI!Delhi!Delhi!110070",
+      "alt": "9599750381",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "MunnaKumarSharma",
+      "name": "Rani Kumari",
+      "num": "7321999549"
+    }
+  ]
+}
