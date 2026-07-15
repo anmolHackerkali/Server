@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:05:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004964030",
+  "records": [
+    {
+      "aadhar": "644592209875",
+      "address": "!!Durga Mandir Bari Hat Purnia!Purnia!Purnia!Purnea!Purnea!Bihar!854301",
+      "alt": "9973712551",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Deepak Kumar Singh",
+      "name": "Manilal Singh",
+      "num": "7004964030"
+    },
+    {
+      "aadhar": "644592209875",
+      "address": "!!Durga Mandir Bari Hat Purnia!Purnia!Purnia!Purnea!Purnea!Bihar!854301",
+      "alt": "9973712551",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Deepak Kumar Singh",
+      "name": "Manilal Singh",
+      "num": "7004964030"
+    },
+    {
+      "aadhar": "644592209875",
+      "address": "!!Durga Mandir Bari Hat Purnia!Purnia!Purnia!Purnea!Purnea!Bihar!854301",
+      "alt": "9973712551",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Deepak Kumar Singh",
+      "name": "Manilal Singh",
+      "num": "7004964030"
+    }
+  ]
+}
