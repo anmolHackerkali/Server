@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:53:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8858855757",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Kumar Shukla!Shivni!Ka Purwa! Devarpatti Bihar Bhadri!Pratapgarh!Uttar Pradesh!230201",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shiv Kumar Shukla",
+      "name": "Ambuj Shukla",
+      "num": "8858855757"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Kumar Shukla!Shivni!Ka Purwa! Devarpatti Bihar Bhadri!Pratapgarh!Uttar Pradesh!230201",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Shiv Kumar Shukla",
+      "name": "Ambuj Shukla",
+      "num": "8858855757"
+    },
+    {
+      "aadhar": "641071524072",
+      "address": "S/O Shiv Kumar Shukla!!Shivni Ka Purwa Bhadri!NA!Devarpatti Bihar!Bhadri Kunda Pratapgarh!NA!Uttar Pradesh!230201",
+      "alt": "8858855757",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shiv Kumar Shukla",
+      "name": "Ambuj Shukla",
+      "num": "8081714863"
+    },
+    {
+      "aadhar": "333290821321",
+      "address": "! 00!shivni ka Purwa Dewar patti!00!00!Pratapgarh!Pratapgarh!Uttar Pradesh!230201",
+      "alt": "8858855757",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shiv kumar shukla",
+      "name": "Sarswati Shukla",
+      "num": "7068646591"
+    },
+    {
+      "aadhar": "641071524072",
+      "address": "S/O Shiv Kumar Shukla!!Shivni Ka Purwa Bhadri!NA!Devarpatti Bihar!Bhadri Kunda Pratapgarh!NA!Uttar Pradesh!230201",
+      "alt": "8858855757",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shiv Kumar Shukla",
+      "name": "Ambuj Shukla",
+      "num": "8081714863"
+    },
+    {
+      "aadhar": "333290821321",
+      "address": "! 00!shivni ka Purwa Dewar patti!00!00!Pratapgarh!Pratapgarh!Uttar Pradesh!230201",
+      "alt": "8858855757",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "shiv kumar shukla",
+      "name": "Sarswati Shukla",
+      "num": "7068646591"
+    }
+  ]
+}
