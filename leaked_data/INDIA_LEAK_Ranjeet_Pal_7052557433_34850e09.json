@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:40:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7052557433",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Daya Shankar Pal!.!nevada bausar sarsaul!Kanpur nagar Kanpur Nagar!sarsaul!Kanpur Nagar!UTTAR PRADESH!209402",
+      "alt": "7607688014",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Daya Shankar Pal",
+      "name": "Ranjeet Pal",
+      "num": "7052557433"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Daya Shankar Pal!.!nevada bausar sarsaul!Kanpur nagar Kanpur Nagar!sarsaul!Kanpur Nagar!UTTAR PRADESH!209402",
+      "alt": "7607688014",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Daya Shankar Pal",
+      "name": "Ranjeet Pal",
+      "num": "7052557433"
+    }
+  ]
+}
