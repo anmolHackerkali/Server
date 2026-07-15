@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:43:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920104775",
+  "records": [
+    {
+      "aadhar": "374356314979",
+      "address": "!H no 302!GTB Nagar Block 1!Hakikat Nagar!Delhi North West!Delhi!110009",
+      "alt": "+918826841327",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ashok Kumar",
+      "name": "Manish Tarun",
+      "num": "8920104775"
+    },
+    {
+      "aadhar": "374356314979",
+      "address": "!H no 302!GTB Nagar Block 1!Hakikat Nagar!Delhi North West!Delhi!110009",
+      "alt": "+918826841327",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ashok Kumar",
+      "name": "Manish Tarun",
+      "num": "8920104775"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Prem Kumar!!satish road!ashok nagar!!Begusarai!Begusarai!Bihar!851101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Prem Kumar",
+      "name": "Karmajeet Kumar",
+      "num": "8920104775"
+    },
+    {
+      "aadhar": "374356314979",
+      "address": "!H no 302!GTB Nagar Block 1!Hakikat Nagar!Delhi North West!Delhi!110009",
+      "alt": "+918826841327",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Ashok Kumar",
+      "name": "Manish Tarun",
+      "num": "8920104775"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Prem Kumar!!satish road!ashok nagar!!Begusarai!Begusarai!Bihar!851101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Prem Kumar",
+      "name": "Karmajeet Kumar",
+      "num": "8920104775"
+    }
+  ]
+}
