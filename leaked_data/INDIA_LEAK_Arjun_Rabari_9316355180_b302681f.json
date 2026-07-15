@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:10:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9316355180",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "PLOT NO  46!D C 5!  Kachchh!!GANDHIDHAM!Kachchh!Gujarat!370205",
+      "alt": "9054377179",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O  Bhima Bhai",
+      "name": "Arjun Rabari",
+      "num": "9316355180"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Bhima Bhai!PLOT NO 46!DC5! Kachchh!!GANDHIDHAM!Kachchh!Gujarat!370205",
+      "alt": "9054377179",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Bhima Bhai",
+      "name": "Arjun Rabari",
+      "num": "9316355180"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Bhima Bhai!PLOT NO 46!DC5! Kachchh!!GANDHIDHAM!Kachchh!Gujarat!370205",
+      "alt": "9054377179",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Bhima Bhai",
+      "name": "Arjun Rabari",
+      "num": "9316355180"
+    }
+  ]
+}
