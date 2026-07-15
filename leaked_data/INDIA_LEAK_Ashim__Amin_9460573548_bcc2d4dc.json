@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:08:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9460573548",
+  "records": [
+    {
+      "aadhar": "987698936670",
+      "address": "S/O Late Ban Bihari Amin!Harimandir Road!!Sreema Sarani  Lake Town Siliguri M Corp!Darjeeling!WBL3!734004",
+      "alt": "9460573548",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Late Ban Bihari Amin",
+      "name": "Ashim  Amin",
+      "num": "8101641935"
+    },
+    {
+      "aadhar": "987698936670",
+      "address": "S/O Late Ban Bihari Amin!Harimandir Road!!Sreema Sarani  Lake Town Siliguri M Corp!Darjeeling!WBL3!734004",
+      "alt": "9460573548",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Late Ban Bihari Amin",
+      "name": "Ashim  Amin",
+      "num": "8101641935"
+    }
+  ]
+}
