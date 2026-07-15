@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:40:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8863891487",
+  "records": [
+    {
+      "aadhar": "302594121272",
+      "address": " ward no-02 vill baruna post barhupar!thana kuchhila baruna!kaimur bhabua!kaimur bhabua!Kaimur Bhabua!ROHTAS!Bihar!802132 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kashi Nath Jayswal ",
+      "name": " Pradeep Jayswal ",
+      "num": "8863891487"
+    },
+    {
+      "aadhar": "302594121272",
+      "address": " ward no-02 vill baruna post barhupar!thana kuchhila baruna!kaimur bhabua!kaimur bhabua!Kaimur Bhabua!ROHTAS!Bihar!802132 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Kashi Nath Jayswal ",
+      "name": " Pradeep Jayswal ",
+      "num": "8863891487"
+    },
+    {
+      "aadhar": "314600561162",
+      "address": "!lane no 3 !chandmari patna!Kankarbag Sampatchak!Patna!Bihar!800020",
+      "alt": "8863891487",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "rambabu prasad",
+      "name": "Ravi Kumar",
+      "num": "9308401022"
+    },
+    {
+      "aadhar": "314600561162",
+      "address": "!lane no 3 !chandmari patna!Kankarbag Sampatchak!Patna!Bihar!800020",
+      "alt": "8863891487",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "rambabu prasad",
+      "name": "Ravi Kumar",
+      "num": "9308401022"
+    },
+    {
+      "aadhar": "314600561162",
+      "address": " .!LOHIA NAGAR!!patna   KANKARBAG   PATNA!Patna!PATNA!Bihar!800020 ",
+      "alt": "8863891487",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Late Rambabu Gupta ",
+      "name": " Ravi  Kumar ",
+      "num": "6201127017"
+    },
+    {
+      "aadhar": "314600561162",
+      "address": "!lane no 3 !chandmari patna!Kankarbag Sampatchak!Patna!Bihar!800020",
+      "alt": "8863891487",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "rambabu prasad",
+      "name": "Ravi Kumar",
+      "num": "9308401022"
+    },
+    {
+      "aadhar": "314600561162",
+      "address": " .!LOHIA NAGAR!!patna   KANKARBAG   PATNA!Patna!PATNA!Bihar!800020 ",
+      "alt": "8863891487",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Late Rambabu Gupta ",
+      "name": " Ravi  Kumar ",
+      "num": "6201127017"
+    }
+  ]
+}
