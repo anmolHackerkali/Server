@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:20:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8447491755",
+  "records": [
+    {
+      "aadhar": "815323152959",
+      "address": "W/O Ashok!IX/977!Prem Gali!Prem Gali!Gandhi Nagar  Multani Mohalla Gandhi nagar EAST DELHI!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8743077958",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok",
+      "name": "MS  RAMA SRIVASTAVA",
+      "num": "8447491755"
+    },
+    {
+      "aadhar": "815323152959",
+      "address": "W/O Ashok!IX/977!Prem Gali!Prem Gali!Gandhi Nagar Multani Mohalla Gandhi nagarEAST DELHI!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8743077958",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok",
+      "name": "MS RAMA SRIVASTAVA",
+      "num": "8447491755"
+    },
+    {
+      "aadhar": "815323152959",
+      "address": "W/O Ashok!IX/977!Prem Gali!Prem Gali!Gandhi Nagar Multani Mohalla Gandhi nagarEAST DELHI!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8743077958",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Ashok",
+      "name": "MS RAMA SRIVASTAVA",
+      "num": "8447491755"
+    }
+  ]
+}
