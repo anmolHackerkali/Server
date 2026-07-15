@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:41:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798141531",
+  "records": [
+    {
+      "aadhar": "UIA0233999",
+      "address": "!!00 Kalupakad kalu Pakad!NA!Fenahara!East Champaran Purba Champaran!NA!Bihar!845430",
+      "alt": "9835633399",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Bhuali Raut",
+      "name": "Arjun Raut",
+      "num": "9798141531"
+    },
+    {
+      "aadhar": "UIA0233999",
+      "address": "!!00 Kalupakad kalu Pakad!NA!Fenahara!East Champaran Purba Champaran!NA!Bihar!845430",
+      "alt": "9835633399",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bhuali Raut",
+      "name": "Arjun Raut",
+      "num": "9798141531"
+    },
+    {
+      "aadhar": "UIA0233999",
+      "address": "!!00 Kalupakad kalu Pakad!NA!Fenahara!East Champaran Purba Champaran!NA!Bihar!845430",
+      "alt": "9835633399",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Bhuali Raut",
+      "name": "Arjun Raut",
+      "num": "9798141531"
+    }
+  ]
+}
