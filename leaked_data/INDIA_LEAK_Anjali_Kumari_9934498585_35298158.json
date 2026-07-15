@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 21:54:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9934498585",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O Ranjeet Kumar Mahto!!!gram- mainjara!!Maijra!Nalanda!Bihar!803117",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet Kumar Mahto",
+      "name": "Anjali Kumari",
+      "num": "9934498585"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O Ranjeet Kumar Mahto!!!gram- mainjara!!Maijra!Nalanda!Bihar!803117",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet Kumar Mahto",
+      "name": "Anjali Kumari",
+      "num": "9934498585"
+    }
+  ]
+}
