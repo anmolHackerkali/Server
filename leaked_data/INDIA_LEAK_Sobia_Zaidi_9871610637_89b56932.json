@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:30:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871610637",
+  "records": [
+    {
+      "aadhar": "620261804033",
+      "address": "! flat no 16f sec 8 1st floor sector 8!dda ads flats okhla!!jasola vihar!New Delhi South!South!Delhi!110025",
+      "alt": "9871109136",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Yusuf izhar zaidi",
+      "name": "Sobia Zaidi",
+      "num": "9871610637"
+    },
+    {
+      "aadhar": "620261804033",
+      "address": "!flat no 16f sec 8 1st floor sector 8!dda ads flats okhla!!jasola vihar!New Delhi South!South!Delhi!110025",
+      "alt": "9871109136",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Yusuf izhar zaidi",
+      "name": "Sobia Zaidi",
+      "num": "9871610637"
+    },
+    {
+      "aadhar": "620261804033",
+      "address": "!flat no 16f sec 8 1st floor sector 8!dda ads flats okhla!!jasola vihar!New Delhi South!South!Delhi!110025",
+      "alt": "9871109136",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Yusuf izhar zaidi",
+      "name": "Sobia Zaidi",
+      "num": "9871610637"
+    }
+  ]
+}
