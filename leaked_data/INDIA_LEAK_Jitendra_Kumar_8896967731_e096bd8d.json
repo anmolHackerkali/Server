@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:56:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8896967731",
+  "records": [
+    {
+      "aadhar": "648351301272",
+      "address": " ! !    City/District: Unnao! !UNNAO!UTTAR PRADESH!241503",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Jagdeesh",
+      "name": "Jitendra Kumar",
+      "num": "8896967731"
+    },
+    {
+      "aadhar": "648351301272",
+      "address": " ! !    City/District: Unnao! !UNNAO!UTTAR PRADESH!241503",
+      "alt": null,
+      "circle": "UPE",
+      "email": "NA",
+      "fname": "Jagdeesh",
+      "name": "Jitendra Kumar",
+      "num": "8896967731"
+    }
+  ]
+}
