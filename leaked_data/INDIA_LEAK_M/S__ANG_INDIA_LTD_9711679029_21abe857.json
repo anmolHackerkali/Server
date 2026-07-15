@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:31:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9711679029",
+  "records": [
+    {
+      "aadhar": "NOT AVAILABLE",
+      "address": "PLOT NO 4!SECTOR 90 NOIDA!GAUTAM BUDDHA NAGAR!NOIDA!UTTAR PRADESH!201305",
+      "alt": "9873726125",
+      "circle": "VI DELHI",
+      "email": "INTERNET@ANG-INDIA.IN",
+      "fname": "Hem Kumar Gangwar",
+      "name": "M/S  ANG INDIA LTD",
+      "num": "9711679029"
+    },
+    {
+      "aadhar": "AADCA3493M",
+      "address": "PLOT NO 4!SECTOR 90 NOIDA!GAUTAM BUDDHA NAGAR!NOIDA!UTTAR PRADESH!201305",
+      "alt": "9873726125",
+      "circle": "VI DELHI",
+      "email": "INTERNET@ANG-INDIA.IN",
+      "fname": "Hem Kumar Gangwar",
+      "name": "M/S ANG INDIA LTD",
+      "num": "9711679029"
+    },
+    {
+      "aadhar": "AADCA3493M",
+      "address": "PLOT NO 4!SECTOR 90 NOIDA!GAUTAM BUDDHA NAGAR!NOIDA!UTTAR PRADESH!201305",
+      "alt": "9873726125",
+      "circle": "VI DELHI",
+      "email": "INTERNET@ANG-INDIA.IN",
+      "fname": "Hem Kumar Gangwar",
+      "name": "M/S ANG INDIA LTD",
+      "num": "9711679029"
+    }
+  ]
+}
