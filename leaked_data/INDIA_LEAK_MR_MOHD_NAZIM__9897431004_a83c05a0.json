@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:13:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9897431004",
+  "records": [
+    {
+      "aadhar": "642017533083",
+      "address": "105MeerutMeerutSATHLA  Sathla MEERUTMAWANA MEERUTMEERUTUTTAR PRADESH250402",
+      "alt": "9760401001",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Maqsood Ahmad",
+      "name": "MR MOHD NAZIM ",
+      "num": "9897431004"
+    },
+    {
+      "aadhar": "642017533083",
+      "address": "105MeerutMeerutSATHLA  Sathla MEERUTMAWANA MEERUTMEERUTUTTAR PRADESH250402",
+      "alt": "9760401001",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Maqsood Ahmad",
+      "name": "MR MOHD NAZIM ",
+      "num": "9897431004"
+    }
+  ]
+}
