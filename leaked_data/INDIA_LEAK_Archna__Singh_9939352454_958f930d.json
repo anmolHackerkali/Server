@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 02:06:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939352454",
+  "records": [
+    {
+      "aadhar": "671920389093",
+      "address": "W/O Dinesh Kumar!Ward No 26 H No 53 Samundra Sah Lane Nayatola!!Polyttecnic Collage Muzaffarpur!!Muzaffarpur!Bihar!842001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinesh  Kumar",
+      "name": "Archna  Singh",
+      "num": "9939352454"
+    },
+    {
+      "aadhar": "671920389093",
+      "address": "W/O Dinesh Kumar!Ward No 26 H No 53 Samundra Sah Lane Nayatola!!Polyttecnic Collage Muzaffarpur!!Muzaffarpur!Bihar!842001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dinesh  Kumar",
+      "name": "Archna  Singh",
+      "num": "9939352454"
+    }
+  ]
+}
