@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:58:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9770429622",
+  "records": [
+    {
+      "aadhar": "488953391725",
+      "address": "w/o  mehatab!!Choli!choli!choli choli choli!choli Maheshwar!khargone!Madhya Pradesh!451221",
+      "alt": "9617331391",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "mehatab",
+      "name": "Kiran Bai",
+      "num": "9770429622"
+    }
+  ]
+}
