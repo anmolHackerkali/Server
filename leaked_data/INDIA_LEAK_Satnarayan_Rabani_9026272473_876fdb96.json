@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:59:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9026272473",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!33!Chetganj!Tanpura!Banda Banda Banda!Uttar Pradesh!210001",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandrika Rabani",
+      "name": "Satnarayan Rabani",
+      "num": "9026272473"
+    },
+    {
+      "aadhar": null,
+      "address": "!33!Chetganj!Tanpura!Banda Banda Banda!Uttar Pradesh!210001",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandrika Rabani",
+      "name": "Satnarayan Rabani",
+      "num": "9026272473"
+    }
+  ]
+}
