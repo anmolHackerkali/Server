@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:55:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7571006691",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Rajendra Kumar!!tindawari road!nahar patri Gayatri nagar Baberu!Banda!Uttar Pradesh!210121",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Kumar",
+      "name": "Sharad",
+      "num": "7571006691"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Rajendra Kumar!!tindawari road!nahar patri Gayatri nagar Baberu!Banda!Uttar Pradesh!210121",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajendra Kumar",
+      "name": "Sharad",
+      "num": "7571006691"
+    }
+  ]
+}
