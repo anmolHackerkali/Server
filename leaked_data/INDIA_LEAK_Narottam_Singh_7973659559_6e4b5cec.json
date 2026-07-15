@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:30:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7973659559",
+  "records": [
+    {
+      "aadhar": "311413301131",
+      "address": "S/O: Hari Singh!!3366SECOTAR 32 A!JAMALPUR!Jamalpura AwanaLudhiana!Punjab!141010",
+      "alt": "+919888033614",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Hari Singh",
+      "name": "Narottam Singh",
+      "num": "7973659559"
+    }
+  ]
+}
