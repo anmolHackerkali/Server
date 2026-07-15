@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:19:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9712038837",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx0670",
+      "address": "w/o  patariya karsan! room no-264!Ganesh Nagar!!ganesh nagar sector-6!gandhidham!kachchh!Gujarat!370201",
+      "alt": "9662825618",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "patariya karsan",
+      "name": "Patariya Kesharbai Karsan",
+      "num": "9712038837"
+    },
+    {
+      "aadhar": "xxxxxxxx0670",
+      "address": "w/o  patariya karsan! room no-264!Ganesh Nagar!!ganesh nagar sector-6!gandhidham!kachchh!Gujarat!370201",
+      "alt": "9662825618",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "patariya karsan",
+      "name": "Patariya Kesharbai Karsan",
+      "num": "9712038837"
+    },
+    {
+      "aadhar": "xxxxxxxx0670",
+      "address": "w/o  patariya karsan! room no-264!Ganesh Nagar!!ganesh nagar sector-6!gandhidham!kachchh!Gujarat!370201",
+      "alt": "9662825618",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "patariya karsan",
+      "name": "Patariya Kesharbai Karsan",
+      "num": "9712038837"
+    }
+  ]
+}
