@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:26:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9851058428",
+  "records": [
+    {
+      "aadhar": "831021244379",
+      "address": "CHUAPUR ARYAPALLY Chaltia Chaltia Murshidabad   Murshidabad West Bengal 742165",
+      "alt": "9062977378",
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "GOURCHROY",
+      "name": "Gourab  Roy",
+      "num": "9851058428"
+    },
+    {
+      "aadhar": null,
+      "address": "!!- CHUAPUR ARYAPALLY!-!Chaltia Murshidabad!West Bengal!742165",
+      "alt": "919474643373",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "gour ch roy",
+      "name": "Gourab Roy",
+      "num": "9851058428"
+    },
+    {
+      "aadhar": null,
+      "address": "!!- CHUAPUR ARYAPALLY!-!Chaltia Murshidabad!West Bengal!742165",
+      "alt": "919474643373",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "gour ch roy",
+      "name": "Gourab Roy",
+      "num": "9851058428"
+    },
+    {
+      "aadhar": "XXXXXXXX4379",
+      "address": "... ARYAPALLY;- -;Chaltia;Murshidabad;WEST BENGAL;742165",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY  ",
+      "num": "9474775339"
+    },
+    {
+      "aadhar": "831021244379",
+      "address": "NA;CHUAPURARYAPALLY;CHALTIA;Murshidabad;WEST BENGAL;742101",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "LATE GOUR CHANDRA ROY",
+      "name": "GOURAB  ROY",
+      "num": "9474643373"
+    },
+    {
+      "aadhar": "xxxxxxxx4379",
+      "address": ".!.!- -! CHUAPUR ARYAPALLY!CHALTIA-MURSHIDABAD!WB!742165",
+      "alt": "9851058428",
+      "circle": "VI KOL & WB",
+      "email": "gourab.chandan.roy@gmail.com",
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY",
+      "num": "9062977378"
+    },
+    {
+      "aadhar": "XXXXXXXX4379",
+      "address": "0 -;- -;Chaltia;Murshidabad;WEST BENGAL;742165",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY  ",
+      "num": "7679004527"
+    },
+    {
+      "aadhar": "XXXXXXXX4379",
+      "address": "... ARYAPALLY;- -;Chaltia;Murshidabad;WEST BENGAL;742165",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY  ",
+      "num": "9474775339"
+    },
+    {
+      "aadhar": "831021244379",
+      "address": "NA;CHUAPURARYAPALLY;CHALTIA;Murshidabad;WEST BENGAL;742101",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "LATE GOUR CHANDRA ROY",
+      "name": "GOURAB  ROY",
+      "num": "9474643373"
+    },
+    {
+      "aadhar": "xxxxxxxx4379",
+      "address": ".!.!- -! CHUAPUR ARYAPALLY!CHALTIA-MURSHIDABAD!WB!742165",
+      "alt": "9851058428",
+      "circle": "VI KOL & WB",
+      "email": "gourab.chandan.roy@gmail.com",
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY",
+      "num": "9062977378"
+    },
+    {
+      "aadhar": "XXXXXXXX4379",
+      "address": "0 -;- -;Chaltia;Murshidabad;WEST BENGAL;742165",
+      "alt": "9851058428",
+      "circle": "WEST BENGAL TELECOM ",
+      "email": null,
+      "fname": "GOUR CH ROY",
+      "name": "GOURAB ROY  ",
+      "num": "7679004527"
+    }
+  ]
+}
