@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:47:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9793286683",
+  "records": [
+    {
+      "aadhar": "705672464500",
+      "address": "C/O Chhotaku!sengraha!dundi!!Sengaraha!Kaushambi!Kaushambi!Uttar Pradesh!212214",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chhotaku",
+      "name": "MULAYAM SINGH",
+      "num": "9793286683"
+    },
+    {
+      "aadhar": "705672464500",
+      "address": "C/O Chhotaku!sengraha!dundi!!Sengaraha!Kaushambi!Kaushambi!Uttar Pradesh!212214",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chhotaku",
+      "name": "MULAYAM SINGH",
+      "num": "9793286683"
+    }
+  ]
+}
