@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:49:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8449404115",
+  "records": [
+    {
+      "aadhar": "250730541085",
+      "address": "S/O  Shanti Swaroop!267!Village-RangpurRangpur!Tehshil-SHIKARPUR!!RangpurShikarpur!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8449404115",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shanti Swaroop",
+      "name": "Amit Goswami  ",
+      "num": "9870620467"
+    },
+    {
+      "aadhar": "250730541085",
+      "address": "S/O  Shanti Swaroop!267!Village-RangpurRangpur!Tehshil-SHIKARPUR!Vilage-Rangpur  Tehshi-SHIKARPUR  Rangpur  Rangpur!RangpurShikarpur!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8449404115",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Shanti Swaroop",
+      "name": "Amit Goswami",
+      "num": "6397905463"
+    },
+    {
+      "aadhar": "250730541085",
+      "address": "S/O  Shanti Swaroop!267!Village-Rangpur Rangpur!Tehshil-SHIKARPUR!!Rangpur Shikarpur!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8449404115",
+      "circle": "JIO UPE UPW",
+      "email": "AMITGOSWAMI1987@gmail.com",
+      "fname": "Shanti Swaroop",
+      "name": "Amit Goswami",
+      "num": "9870620467"
+    },
+    {
+      "aadhar": "250730541085",
+      "address": "S/O  Shanti Swaroop!267!Village-Rangpur Rangpur!Tehshil-SHIKARPUR!!Rangpur Shikarpur!Bulandshahr!Uttar Pradesh!203001",
+      "alt": "8449404115",
+      "circle": "JIO UPE UPW",
+      "email": "AMITGOSWAMI1987@gmail.com",
+      "fname": "Shanti Swaroop",
+      "name": "Amit Goswami",
+      "num": "9870620467"
+    }
+  ]
+}
