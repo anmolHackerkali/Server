@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:16:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9026706578",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Jitendra Sahani!.!.!maryadpur Mau!!Mau!UTTAR PRADESH!221602",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Jitendra Sahani",
+      "name": "Hemlata Sahani",
+      "num": "9026706578"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Jitendra Sahani!.!.!maryadpur Mau!!Mau!UTTAR PRADESH!221602",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Jitendra Sahani",
+      "name": "Hemlata Sahani",
+      "num": "9026706578"
+    }
+  ]
+}
