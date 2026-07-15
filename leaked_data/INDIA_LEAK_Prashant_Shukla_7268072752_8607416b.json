@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:51:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7268072752",
+  "records": [
+    {
+      "aadhar": "804047117847",
+      "address": "!shukla ganjsri nagar poni road!!!Unnao!Uttar Pradesh!209861",
+      "alt": "8948286935",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajjan Shukla",
+      "name": "Prashant Shukla",
+      "num": "7268072752"
+    },
+    {
+      "aadhar": "804047117847",
+      "address": "!shukla ganjsri nagar poni road!!!Unnao!Uttar Pradesh!209861",
+      "alt": "8948286935",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajjan Shukla",
+      "name": "Prashant Shukla",
+      "num": "7268072752"
+    },
+    {
+      "aadhar": "804047117847",
+      "address": "!shukla ganjsri nagar poni road!!!Unnao!Uttar Pradesh!209861",
+      "alt": "8948286935",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajjan Shukla",
+      "name": "Prashant Shukla",
+      "num": "7268072752"
+    },
+    {
+      "aadhar": "804047117847",
+      "address": "!shukla ganjsri nagar poni road!!!Unnao!Uttar Pradesh!209861",
+      "alt": "8948286935",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajjan Shukla",
+      "name": "Prashant Shukla",
+      "num": "7268072752"
+    }
+  ]
+}
