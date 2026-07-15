@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:09:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7309490941",
+  "records": [
+    {
+      "aadhar": "694540135009",
+      "address": "S/O UDAYRAJ!MANGOLPUR POST BIRHAR KHAS!MANGOLPUR POST BIRHAR KHASrampur saray!rampur saray ram!RAM NAGARAMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "8090438111",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Udayraj",
+      "name": "MR. AKASH KUMAR",
+      "num": "7309490941"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Uday Raj!!Mangolpur!post Birhar khas!Rampur Saray Ambedkar Nagar!Uttar Pradesh!224181",
+      "alt": "919506946839",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Uday raj",
+      "name": "Akash",
+      "num": "7309490941"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O  Uday Raj!!Mangolpur!post Birhar khas!Rampur Saray Ambedkar Nagar!Uttar Pradesh!224181",
+      "alt": "919506946839",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Uday raj",
+      "name": "Akash",
+      "num": "7309490941"
+    },
+    {
+      "aadhar": "665581186681",
+      "address": "RAM SURESH!SARAY NIL KANTH POST KAWAHI ANJANPUR!SARAY NIL KANTH POST KAWAHI ANJANPUR!!RAM NAGARAMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Suresh",
+      "name": "MR. ABHISHEK KUMAR",
+      "num": "9648496114"
+    },
+    {
+      "aadhar": "856828783043",
+      "address": "S/O HASAN RAJA!GRAM BANGALPUR!GRAM BANGALPURbangalpur!bangalpur!JAINTIAMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224147",
+      "alt": "7309490941",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Hasan Raja",
+      "name": "MR. HASIM .",
+      "num": "9628059407"
+    },
+    {
+      "aadhar": "694540135009",
+      "address": "UDAY RAJ!MANGOLPUR POST KHAS!MANGOLPUR POST KHAS!!BIDHARAMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Uday Raj",
+      "name": "MR. AKASH AKASH",
+      "num": "7310054117"
+    },
+    {
+      "aadhar": "694540135009",
+      "address": "S/O UDAYRAJ!MANGOLPUR POST KHAS!MANGOLPUR POST KHAS!!BIDHARAMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Udayraj",
+      "name": "MR. AKASH AKASH",
+      "num": "7309490960"
+    },
+    {
+      "aadhar": "665581186681",
+      "address": "RAM SURESH!SARAY NIL KANTH  POST KAWAHI ANJANPUR!SARAY NIL KANTH  POST KAWAHI ANJANPUR!!RAM NAGAR AMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Suresh",
+      "name": "MR ABHISHEK KUMAR",
+      "num": "9648496114"
+    },
+    {
+      "aadhar": "856828783043",
+      "address": "S/O HASAN RAJA!GRAM BANGALPUR!GRAM BANGALPUR bangalpur!bangalpur!JAINTI AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224147",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hasan Raja",
+      "name": "MR HASIM ",
+      "num": "9628059407"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Uday Raj!.!. Mangolpur!post Birhar khas Ambedkar Nagar!Mangolpur!Ambedkar Nagar!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Uday Raj",
+      "name": "Akash ",
+      "num": "9506946839"
+    },
+    {
+      "aadhar": "694540135009",
+      "address": "UDAY RAJ!MANGOLPUR  POST KHAS!MANGOLPUR  POST KHAS!!BIDHAR AMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Uday Raj",
+      "name": "MR AKASH AKASH",
+      "num": "7310054117"
+    },
+    {
+      "aadhar": "694540135009",
+      "address": "S/O UDAYRAJ!MANGOLPUR  POST KHAS!MANGOLPUR  POST KHAS!!BIDHAR AMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Udayraj",
+      "name": "MR AKASH AKASH",
+      "num": "7309490960"
+    },
+    {
+      "aadhar": "665581186681",
+      "address": "RAM SURESH!SARAY NIL KANTH  POST KAWAHI ANJANPUR!SARAY NIL KANTH  POST KAWAHI ANJANPUR!!RAM NAGAR AMBEDKAR NAGAR!ALAPUR!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Suresh",
+      "name": "MR ABHISHEK KUMAR",
+      "num": "9648496114"
+    },
+    {
+      "aadhar": "856828783043",
+      "address": "S/O HASAN RAJA!GRAM BANGALPUR!GRAM BANGALPUR bangalpur!bangalpur!JAINTI AMBEDKAR NAGAR!AMBEDKAR NAGAR!UTTAR PRADESH!224147",
+      "alt": "7309490941",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hasan Raja",
+      "name": "MR HASIM ",
+      "num": "9628059407"
+    },
+    {
+      "aadhar": null,
+      "address": "C/O: Uday Raj!.!. Mangolpur!post Birhar khas Ambedkar Nagar!Mangolpur!Ambedkar Nagar!UTTAR PRADESH!224181",
+      "alt": "7309490941",
+      "circle": null,
+      "email": null,
+      "fname": "C/O: Uday Raj",
+      "name": "Akash ",
+      "num": "9506946839"
+    }
+  ]
+}
