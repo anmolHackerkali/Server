@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:55:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7837248023",
+  "records": [
+    {
+      "aadhar": "CH0120080004313",
+      "address": "NA!1181!PHASE 1 RAMDARBAR!NEAR SCHOOL!RAMDARBAR CHANDIGARH!CHANDIGARH!CHANDIGHAR!CHANDIGARH!160002",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KANHI RAM",
+      "name": "SUMAN KUMARI",
+      "num": "7837248023"
+    },
+    {
+      "aadhar": "442688227751",
+      "address": "D/O KANHI RAM!NEAR HIGH SCHOOL!!1181 PHASE-1RAMDARBARIND AREA CHANDIGARH!CHANDIGARH!CHANDIGARH!160002",
+      "alt": "7837248023",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KANHI RAM",
+      "name": "SUMAN KUMARI",
+      "num": "8427991758"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O KANHI RAM!NEAR HIGH SCHOOL!!1181 PHASE 1RAMDARBAR!CHANDIGARH!CHANDIGARH!160002",
+      "alt": "7837248023",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "KANHI RAM",
+      "name": "NARESH KUMAR",
+      "num": "8054118121"
+    }
+  ]
+}
