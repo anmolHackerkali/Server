@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:36:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8160614570",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Tandel Khandubhai!!89 laxminagar-2 gopalnagar!vijlpore!Vijalpor Navsari!Gujarat!396450",
+      "alt": "919723848241",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Tandel Khandubhai",
+      "name": "Tandel Snehal Khadubhai",
+      "num": "8160614570"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Tandel Khandubhai!!89 laxminagar-2 gopalnagar!vijlpore!Vijalpor Navsari!Gujarat!396450",
+      "alt": "919723848241",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Tandel Khandubhai",
+      "name": "Tandel Snehal Khadubhai",
+      "num": "8160614570"
+    },
+    {
+      "aadhar": "368107214000",
+      "address": " .!village/Towan /city Nandpali district siwan po bhaisakhal!!Bhaisakhal!Siwan!KHAGARIA!Bihar!841245 ",
+      "alt": "8160614570",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " shardanand Gond ",
+      "name": " Shailesh Kumar Gond ",
+      "num": "9006417154"
+    },
+    {
+      "aadhar": "368107214000",
+      "address": " .!village/Towan /city Nandpali district siwan po bhaisakhal!!Bhaisakhal!Siwan!KHAGARIA!Bihar!841245 ",
+      "alt": "8160614570",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " shardanand Gond ",
+      "name": " Shailesh Kumar Gond ",
+      "num": "9006417154"
+    }
+  ]
+}
