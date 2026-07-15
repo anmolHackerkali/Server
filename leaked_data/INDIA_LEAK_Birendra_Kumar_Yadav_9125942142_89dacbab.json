@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:07:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9125942142",
+  "records": [
+    {
+      "aadhar": "586773483008",
+      "address": "s/o  ramnakshtra yadav! 00!balua!!bhatparrani!balua!deoria!Uttar Pradesh!274704",
+      "alt": "8299069895",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramnakshtra yadav",
+      "name": "Birendra Kumar Yadav",
+      "num": "9125942142"
+    },
+    {
+      "aadhar": "586773483008",
+      "address": "s/o  ramnakshtra yadav! 00!balua!!bhatparrani!balua!deoria!Uttar Pradesh!274704",
+      "alt": "8299069895",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramnakshtra yadav",
+      "name": "Birendra Kumar Yadav",
+      "num": "9125942142"
+    },
+    {
+      "aadhar": "586773483008",
+      "address": " !S/O: Ramnakshtra Yadav!Balua  Bhatpar Rani!. !BALUA-DEORIA!UP!274704",
+      "alt": "9125942142",
+      "circle": null,
+      "email": null,
+      "fname": "RAMNAKSHTRA YADAV  ",
+      "name": "BIRENDRA KUMAR YADAV",
+      "num": "9506933422"
+    },
+    {
+      "aadhar": "586773483008",
+      "address": " !S/O: Ramnakshtra Yadav!Balua  Bhatpar Rani!. !BALUA-DEORIA!UP!274704",
+      "alt": "9125942142",
+      "circle": null,
+      "email": null,
+      "fname": "RAMNAKSHTRA YADAV  ",
+      "name": "BIRENDRA KUMAR YADAV",
+      "num": "9506933422"
+    }
+  ]
+}
