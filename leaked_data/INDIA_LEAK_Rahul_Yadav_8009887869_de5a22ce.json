@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:19:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8009887869",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Shyam Singh Yadav!lapkan!shahpur!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230304",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Shyam Singh Yadav",
+      "name": "Rahul Yadav",
+      "num": "8009887869"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Shyam Singh Yadav!lapkan!shahpur!. Pratapgarh!!Pratapgarh!UTTAR PRADESH!230304",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O Shyam Singh Yadav",
+      "name": "Rahul Yadav",
+      "num": "8009887869"
+    },
+    {
+      "aadhar": "517657498563",
+      "address": "Ram Naresh Yadav!00KALIMURADPUR BELAHATI!KALIMURADPUR BELAHATIKALIMURADPUR BELAH!KALIMURADPUR BELAHATI!KATARAULIPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230301",
+      "alt": "8009887869",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Ram Naresh Yadav",
+      "name": "MR. AKASH KUMAR YADAV",
+      "num": "9554316626"
+    },
+    {
+      "aadhar": "375330898572",
+      "address": "!LAPKAN SHAHPUR SHAHPUR LAPKAN PRATAPGARH!SHAHPUR SHAHPUR SHAHPUR LAPKAN PRATAPGAR!!SHAHPUR SHAHPUR LAPKAN PRATAPGARHPRATAP!PRATAPGARH!UTTAR PRADESH!230304",
+      "alt": "8009887869",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Shyam Singh Yadav",
+      "name": "MR. RAHUL YADAV",
+      "num": "8808392439"
+    },
+    {
+      "aadhar": "517657498563",
+      "address": "Ram Naresh Yadav!00KALIMURADPUR BELAHATI!KALIMURADPUR BELAHATI KALIMURADPUR BELAH!KALIMURADPUR BELAHATI!KATARAULI PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230301",
+      "alt": "8009887869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Naresh Yadav",
+      "name": "MR AKASH KUMAR YADAV",
+      "num": "9554316626"
+    },
+    {
+      "aadhar": "375330898572",
+      "address": "!LAPKAN SHAHPUR SHAHPUR LAPKAN PRATAPGARH!SHAHPUR SHAHPUR SHAHPUR LAPKAN PRATAPGAR!!SHAHPUR SHAHPUR LAPKAN PRATAPGARH PRATAP!PRATAPGARH!UTTAR PRADESH!230304",
+      "alt": "8009887869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shyam Singh Yadav",
+      "name": "MR RAHUL YADAV",
+      "num": "8808392439"
+    },
+    {
+      "aadhar": "375330898572",
+      "address": "S/O Syam Singh!76!lapkan SHAHPUR PALKAN PRATAPGARH SHAHPUR!shahpur!RANIGANJ PRATAPGARH!Pratapgarh!Pratapgarh!Uttar Pradesh!230304",
+      "alt": "8009887869",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syam Singh YADAV",
+      "name": "Rahul Yadav",
+      "num": "7905928488"
+    },
+    {
+      "aadhar": "517657498563",
+      "address": "Ram Naresh Yadav!00KALIMURADPUR BELAHATI!KALIMURADPUR BELAHATI KALIMURADPUR BELAH!KALIMURADPUR BELAHATI!KATARAULI PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230301",
+      "alt": "8009887869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Ram Naresh Yadav",
+      "name": "MR AKASH KUMAR YADAV",
+      "num": "9554316626"
+    },
+    {
+      "aadhar": "375330898572",
+      "address": "!LAPKAN SHAHPUR SHAHPUR LAPKAN PRATAPGARH!SHAHPUR SHAHPUR SHAHPUR LAPKAN PRATAPGAR!!SHAHPUR SHAHPUR LAPKAN PRATAPGARH PRATAP!PRATAPGARH!UTTAR PRADESH!230304",
+      "alt": "8009887869",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Shyam Singh Yadav",
+      "name": "MR RAHUL YADAV",
+      "num": "8808392439"
+    },
+    {
+      "aadhar": "375330898572",
+      "address": "S/O Syam Singh!76!lapkan SHAHPUR PALKAN PRATAPGARH SHAHPUR!shahpur!RANIGANJ PRATAPGARH!Pratapgarh!Pratapgarh!Uttar Pradesh!230304",
+      "alt": "8009887869",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Syam Singh YADAV",
+      "name": "Rahul Yadav",
+      "num": "7905928488"
+    }
+  ]
+}
