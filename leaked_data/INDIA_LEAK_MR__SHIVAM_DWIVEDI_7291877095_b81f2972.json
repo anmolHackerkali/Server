@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:12:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7291877095",
+  "records": [
+    {
+      "aadhar": "718926184917",
+      "address": "S/O  Shri Rakesh Dwivedi!D47!Street No5!Street No5!Hari Nagar SOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!Delhi!110064",
+      "alt": "7291877095",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shri Rakesh Dwivedi",
+      "name": "MR  SHIVAM DWIVEDI",
+      "num": "9718738770"
+    },
+    {
+      "aadhar": "718926184917",
+      "address": "S/O  Shri Rakesh Dwivedi!D47!Street No5!Street No5!Hari Nagar SOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!Delhi!110064",
+      "alt": "7291877095",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shri Rakesh Dwivedi",
+      "name": "MR  SHIVAM DWIVEDI",
+      "num": "9718738770"
+    },
+    {
+      "aadhar": "718926184917",
+      "address": "S/O: Shri Rakesh Dwivedi!D47!Street No5!Street No5!Hari NagarSOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!Delhi!110064",
+      "alt": "7291877095",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shri Rakesh Dwivedi",
+      "name": "MR SHIVAM DWIVEDI",
+      "num": "9718738770"
+    },
+    {
+      "aadhar": "718926184917",
+      "address": "S/O: Shri Rakesh Dwivedi!D47!Street No5!Street No5!Hari NagarSOUTH WEST DELHI!DELHI!SOUTH WEST DELHI!Delhi!110064",
+      "alt": "7291877095",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Shri Rakesh Dwivedi",
+      "name": "MR SHIVAM DWIVEDI",
+      "num": "9718738770"
+    }
+  ]
+}
