@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:31:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8130225677",
+  "records": [
+    {
+      "aadhar": "231325196831",
+      "address": "A1201 Pralok Laxmi Sec 120 Noida  Gautam Buddah Nagar Gautam Buddah Nagar Uttar Pradesh 201301! ! !!!",
+      "alt": "78382221220",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vishnu Dayal Agarawal",
+      "name": "Manoj  Kumar Agarawal",
+      "num": "8130225677"
+    },
+    {
+      "aadhar": "231325196831",
+      "address": "!A1201 Pralok Laxmi Sec 120 Noida  Gautam Buddah Nagar Gautam Buddah Nagar Uttar Pradesh 201301!!!!!!!",
+      "alt": "78382221220",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vishnu Dayal Agarawal",
+      "name": "Manoj  Kumar Agarawal",
+      "num": "8130225677"
+    },
+    {
+      "aadhar": "231325196831",
+      "address": "A1201 Pralok Laxmi Sec 120 Noida  Gautam Buddah Nagar Gautam Buddah Nagar Uttar Pradesh 201301       ",
+      "alt": "78382221220",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vishnu Dayal Agarawal",
+      "name": "Manoj  Kumar Agarawal",
+      "num": "8130225677"
+    },
+    {
+      "aadhar": "231325196831",
+      "address": "A1201 Pralok Laxmi Sec 120 Noida  Gautam Buddah Nagar Gautam Buddah Nagar Uttar Pradesh 201301       ",
+      "alt": "78382221220",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vishnu Dayal Agarawal",
+      "name": "Manoj  Kumar Agarawal",
+      "num": "8130225677"
+    }
+  ]
+}
