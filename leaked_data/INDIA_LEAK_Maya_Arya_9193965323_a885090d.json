@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:06:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9193965323",
+  "records": [
+    {
+      "aadhar": "780067436736",
+      "address": "D/O Mohan Ram!gram khauri!post khatiyola!!Danya Dania!Almora!Almora!Uttarakhand!263622",
+      "alt": "9193965323",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shanti Devi",
+      "name": "Maya Arya",
+      "num": "9193965323"
+    },
+    {
+      "aadhar": "780067436736",
+      "address": "D/O Mohan Ram!gram khauri!post khatiyola!!Danya Dania!Almora!Almora!Uttarakhand!263622",
+      "alt": "9193965323",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shanti Devi",
+      "name": "Maya Arya",
+      "num": "9193965323"
+    },
+    {
+      "aadhar": "780067436736",
+      "address": "D/O Mohan Ram!gram khauri!post khatiyola!!Danya Dania!Almora!Almora!Uttarakhand!263622",
+      "alt": "9193965323",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shanti Devi",
+      "name": "Maya Arya",
+      "num": "9193965323"
+    },
+    {
+      "aadhar": "780067436736",
+      "address": "D/O Mohan Ram!gram khauri!post khatiyola!!Danya Dania!Almora!Almora!Uttarakhand!263622",
+      "alt": "9193965323",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Shanti Devi",
+      "name": "Maya Arya",
+      "num": "9193965323"
+    }
+  ]
+}
