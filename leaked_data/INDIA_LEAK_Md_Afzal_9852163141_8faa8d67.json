@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:25:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9852163141",
+  "records": [
+    {
+      "aadhar": "383935596265",
+      "address": "S/O  Md Sultan!!Ramsagar Road Gaya!!Nadraganj Near Masjid!Gaya Gaya!Gaya!Bihar!823001",
+      "alt": "7322844501",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "MdSultan",
+      "name": "Md Afzal",
+      "num": "9852163141"
+    },
+    {
+      "aadhar": "383935596265",
+      "address": "S/O  Md Sultan!!Ramsagar Road Gaya!!Nadraganj Near Masjid!Gaya Gaya!Gaya!Bihar!823001",
+      "alt": "7322844501",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "MdSultan",
+      "name": "Md Afzal",
+      "num": "9852163141"
+    },
+    {
+      "aadhar": "383935596265",
+      "address": "S/O  Md Sultan!!Ramsagar Road Gaya!!Nadraganj Near Masjid!Gaya Gaya!Gaya!Bihar!823001",
+      "alt": "7322844501",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "MdSultan",
+      "name": "Md Afzal",
+      "num": "9852163141"
+    },
+    {
+      "aadhar": "XXXXXXXX6265",
+      "address": "!NADRAGANJ RAMSAGAR!Ramsagar Road!Nadraganj Near Masjid!Nadraganj Near Masjid!Gaya!Gaya District!BIHAR!823001",
+      "alt": "9852163141",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": "S O MD SULTAN",
+      "name": "MD AFZL",
+      "num": "9472644969"
+    },
+    {
+      "aadhar": "XXXXXXXX6265",
+      "address": " NADRAGANJ RAMSAGAR  Nadraganj Near Masjid Ramsagar Road Nadraganj Near Masjid Gaya  Gaya District BIHAR 823001 ",
+      "alt": "9852163141",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O MD SULTAN ",
+      "name": " MD AFZL  ... ",
+      "num": "9472644969"
+    },
+    {
+      "aadhar": "XXXXXXXX6265",
+      "address": " NADRAGANJ RAMSAGAR  Nadraganj Near Masjid Ramsagar Road Nadraganj Near Masjid Gaya  Gaya District BIHAR 823001 ",
+      "alt": "9852163141",
+      "circle": "BIHAR BSNL",
+      "email": null,
+      "fname": " S O MD SULTAN ",
+      "name": " MD AFZL  ... ",
+      "num": "9472644969"
+    }
+  ]
+}
