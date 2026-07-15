@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 23:59:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7988924149",
+  "records": [
+    {
+      "aadhar": "910529614034",
+      "address": "S/O  Bhim Singh!!house no 25/675 Bahadurgarh!ranjeet colony Bahadurgarh!Bahadurgarh Jhajjar!Haryana!124507",
+      "alt": "+919416527002",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Bhim Singh",
+      "name": "Bhoop Singh",
+      "num": "7988924149"
+    }
+  ]
+}
