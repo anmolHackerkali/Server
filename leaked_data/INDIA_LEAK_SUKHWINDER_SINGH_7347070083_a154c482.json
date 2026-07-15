@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:53:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7347070083",
+  "records": [
+    {
+      "aadhar": "324803019151",
+      "address": "S/O BANT RAM!44!WARD NO-8!!MOHALLA KASI AN WALA BIR SANAUR!PATIALA!PATIALA!PUNJAB!147103",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "BANT RAM",
+      "name": "SUKHWINDER SINGH",
+      "num": "7347070083"
+    }
+  ]
+}
