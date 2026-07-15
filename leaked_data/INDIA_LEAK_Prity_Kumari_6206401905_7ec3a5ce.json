@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:28:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6206401905",
+  "records": [
+    {
+      "aadhar": "716835740447",
+      "address": "D/O  Satyendra Prasad!!Andi!!muftipur!Andi Asthawan!Nalanda!Bihar!803107",
+      "alt": "8603350162",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Satyendra Prasad",
+      "name": "Prity Kumari",
+      "num": "6206401905"
+    },
+    {
+      "aadhar": "716835740447",
+      "address": "D/O  Satyendra Prasad!!Andi!!muftipur!Andi Asthawan!Nalanda!Bihar!803107",
+      "alt": "8603350162",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Satyendra Prasad",
+      "name": "Prity Kumari",
+      "num": "6206401905"
+    },
+    {
+      "aadhar": "716835740447",
+      "address": "D/O  Satyendra Prasad!!Andi!!muftipur!Andi Asthawan!Nalanda!Bihar!803107",
+      "alt": "8603350162",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Satyendra Prasad",
+      "name": "Prity Kumari",
+      "num": "6206401905"
+    }
+  ]
+}
