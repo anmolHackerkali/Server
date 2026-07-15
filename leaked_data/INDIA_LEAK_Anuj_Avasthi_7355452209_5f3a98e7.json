@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:40:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7355452209",
+  "records": [
+    {
+      "aadhar": "446631045647",
+      "address": "S/O  Shyam Sundar Avasthi!!6C/658 Vrindravan Colony!Telibag!Lucknow Lucknow!Uttar Pradesh!226029",
+      "alt": "919452146404",
+      "circle": "JIO UPE",
+      "email": "preetiawasthi1004@gmail.com",
+      "fname": "Shyam Sundar Avasthi",
+      "name": "Anuj Avasthi",
+      "num": "7355452209"
+    },
+    {
+      "aadhar": "446631045647",
+      "address": "S/O  Shyam Sundar Avasthi!!6C/658 Vrindravan Colony!Telibag!Lucknow Lucknow!Uttar Pradesh!226029",
+      "alt": "919452146404",
+      "circle": "JIO UPE",
+      "email": "preetiawasthi1004@gmail.com",
+      "fname": "Shyam Sundar Avasthi",
+      "name": "Anuj Avasthi",
+      "num": "7355452209"
+    }
+  ]
+}
