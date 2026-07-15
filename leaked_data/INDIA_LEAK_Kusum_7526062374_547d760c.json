@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:14:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7526062374",
+  "records": [
+    {
+      "aadhar": "429293304087",
+      "address": "W/O Suresh!pursauli Rajpur!!!Gorakhpur!Uttar Pradesh!273411",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Kusum",
+      "num": "7526062374"
+    },
+    {
+      "aadhar": "429293304087",
+      "address": "W/O Suresh!pursauli Rajpur!!!Gorakhpur!Uttar Pradesh!273411",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Suresh",
+      "name": "Kusum",
+      "num": "7526062374"
+    }
+  ]
+}
