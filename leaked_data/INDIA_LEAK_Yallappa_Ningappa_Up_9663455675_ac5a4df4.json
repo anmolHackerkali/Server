@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:22:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9663455675",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ningappa Uppar 127  Uppar Oni  Chikkumbi  Chikkumbi  Parasgad Belgaum Karnataka 591110",
+      "alt": null,
+      "circle": "KARNATAKA AIRTEL",
+      "email": null,
+      "fname": "Ningappa  Uppar",
+      "name": "Yallappa Ningappa Uppar",
+      "num": "9663455675"
+    }
+  ]
+}
