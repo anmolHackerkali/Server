@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:50:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7319964473",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Abdul Satar!!!Village -Salimapur  Post -Salimapur!!Marhaura!Saran!Bihar!841418",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Abdul Satar",
+      "name": "Azmat Ali",
+      "num": "7319964473"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Abdul Satar!!!Village -Salimapur  Post -Salimapur!!Marhaura!Saran!Bihar!841418",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Abdul Satar",
+      "name": "Azmat Ali",
+      "num": "7319964473"
+    }
+  ]
+}
