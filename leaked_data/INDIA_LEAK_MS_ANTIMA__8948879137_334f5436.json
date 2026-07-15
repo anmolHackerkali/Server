@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:39:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8948879137",
+  "records": [
+    {
+      "aadhar": "756875108652",
+      "address": "0",
+      "alt": "8948879137",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Sanjay Yadav",
+      "name": "MS. ANTIMA .",
+      "num": "8795562132"
+    },
+    {
+      "aadhar": "756875108652",
+      "address": "!-!-shekhupur urf pathanpur THEKMA!THEKMA!SHEKHUPUR URF PATHANPUR THEKMA THEKMA AZ!AZAMGARH!UTTAR PRADESH!276303",
+      "alt": "8948879137",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Sanjay Yadav",
+      "name": "MS ANTIMA ",
+      "num": "8795562132"
+    },
+    {
+      "aadhar": "756875108652",
+      "address": "!-!-shekhupur urf pathanpur THEKMA!THEKMA!SHEKHUPUR URF PATHANPUR THEKMA THEKMA AZ!AZAMGARH!UTTAR PRADESH!276303",
+      "alt": "8948879137",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Sanjay Yadav",
+      "name": "MS ANTIMA ",
+      "num": "8795562132"
+    }
+  ]
+}
