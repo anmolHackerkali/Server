@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:40:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8320590015",
+  "records": [
+    {
+      "aadhar": "695738744111",
+      "address": "S/O  Mahendrabhai Vaghela! 247 Bhagat Chhapra!B/H Chamunda Dairy Char Rasta Navrangpura!!Navrangpura!Ahmedabad City Ahmadabad City!Ahmedabad!Gujarat!380009",
+      "alt": "9898754452",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Mahendrabhai Vaghela",
+      "name": "Gautam Vaghela",
+      "num": "8320590015"
+    },
+    {
+      "aadhar": "695738744111",
+      "address": "S/O  Mahendrabhai Vaghela! 247 Bhagat Chhapra!B/H Chamunda Dairy Char Rasta Navrangpura!!Navrangpura!Ahmedabad City Ahmadabad City!Ahmedabad!Gujarat!380009",
+      "alt": "9898754452",
+      "circle": "JIO GUJARAT",
+      "email": "abc@gmail.com",
+      "fname": "Mahendrabhai Vaghela",
+      "name": "Gautam Vaghela",
+      "num": "8320590015"
+    },
+    {
+      "aadhar": "695738744111",
+      "address": "S/O  Mahendrabhai Vaghela! 247 Bhagat Chhapra!B/H Chamunda Dairy Char Rasta Navrangpura!!Navrangpura!Ahmedabad City Ahmadabad City!Ahmedabad!Gujarat!380009",
+      "alt": "9898754452",
+      "circle": "JIO GUJARAT",
+      "email": "abc@gmail.com",
+      "fname": "Mahendrabhai Vaghela",
+      "name": "Gautam Vaghela",
+      "num": "8320590015"
+    }
+  ]
+}
