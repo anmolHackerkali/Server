@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:08:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9162990840",
+  "records": [
+    {
+      "aadhar": "240085210259",
+      "address": " NA!Bhatsara PO!PIRNIA!ward 12 kalambag Bhatsara Barhara!Purnia!Purnia!Bihar!854203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ranjit mandal ",
+      "name": " Sushila Devi ",
+      "num": "9162990840"
+    },
+    {
+      "aadhar": "240085210259",
+      "address": " NA!Bhatsara PO!PIRNIA!ward 12 kalambag Bhatsara Barhara!Purnia!Purnia!Bihar!854203 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ranjit mandal ",
+      "name": " Sushila Devi ",
+      "num": "9162990840"
+    },
+    {
+      "aadhar": "480982407077",
+      "address": "S/O  Ravindra Yadav!!Bhatsara!!ward 10!Bhatsara Barhara!Purnia!Bihar!854203",
+      "alt": "9162990840",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ravindra Yadav",
+      "name": "Gourav Kumar",
+      "num": "9905467152"
+    },
+    {
+      "aadhar": "480982407077",
+      "address": "S/O  Ravindra Yadav!!Bhatsara!!ward 10!Bhatsara Barhara!Purnia!Bihar!854203",
+      "alt": "9162990840",
+      "circle": "JIO BHR&JHR",
+      "email": "9905467152@GMAIL.COM",
+      "fname": "Ravindra Yadav",
+      "name": "Gourav Kumar",
+      "num": "9905467152"
+    },
+    {
+      "aadhar": "480982407077",
+      "address": "S/O  Ravindra Yadav!!Bhatsara!!ward 10!Bhatsara Barhara!Purnia!Bihar!854203",
+      "alt": "9162990840",
+      "circle": "JIO BHR&JHR",
+      "email": "9905467152@GMAIL.COM",
+      "fname": "Ravindra Yadav",
+      "name": "Gourav Kumar",
+      "num": "9905467152"
+    }
+  ]
+}
