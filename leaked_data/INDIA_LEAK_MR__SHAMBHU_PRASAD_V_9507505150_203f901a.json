@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:08:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9507505150",
+  "records": [
+    {
+      "aadhar": "XXXXXXXX1683",
+      "address": "S/O LATE SARYU MAHTO!VILL - NAYAKDIH PO - CHATRO PS -!VILL - NAYAKDIH PO - CHATRO PS -!VILL - NAYAKDIH PO - CHATRO PS -!giridih GIRIDIH!BAIRIA B O - GIR!GIRIDIH!JHARKHAND!815314",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Late Saryu Mahto",
+      "name": "MR  SHAMBHU PRASAD VERMA",
+      "num": "9507505150"
+    },
+    {
+      "aadhar": "XXXXXXXX1683",
+      "address": "S/O LATE SARYU MAHTO!VILL - NAYAKDIH PO - CHATRO PS -!VILL - NAYAKDIH PO - CHATRO PS -!VILL - NAYAKDIH PO - CHATRO PS -!giridih GIRIDIH!BAIRIA B O - GIR!GIRIDIH!JHARKHAND!815314",
+      "alt": null,
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "Late Saryu Mahto",
+      "name": "MR  SHAMBHU PRASAD VERMA",
+      "num": "9507505150"
+    }
+  ]
+}
