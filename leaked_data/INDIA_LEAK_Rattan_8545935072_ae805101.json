@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:12:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8545935072",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Ramprit!!!Gram Digahi Post Gadaura Digahi!Maharajganj!Uttar Pradesh!273305",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramprit",
+      "name": "Rattan",
+      "num": "8545935072"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Ramprit!!!Gram Digahi Post Gadaura Digahi!Maharajganj!Uttar Pradesh!273305",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramprit",
+      "name": "Rattan",
+      "num": "8545935072"
+    }
+  ]
+}
