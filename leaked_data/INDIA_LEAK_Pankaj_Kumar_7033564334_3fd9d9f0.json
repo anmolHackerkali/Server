@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:56:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7033564334",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Sakindra Yadav!!!post office virnama!gram jangli bigha!Chorbar!Sheikhpura!Bihar!811105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sakindra Yadav",
+      "name": "Pankaj Kumar",
+      "num": "7033564334"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Sakindra Yadav!!!post office virnama!gram jangli bigha!Chorbar!Sheikhpura!Bihar!811105",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sakindra Yadav",
+      "name": "Pankaj Kumar",
+      "num": "7033564334"
+    }
+  ]
+}
