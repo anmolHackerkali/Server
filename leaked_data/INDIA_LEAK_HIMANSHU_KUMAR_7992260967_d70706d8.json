@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:09:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7992260967",
+  "records": [
+    {
+      "aadhar": "469833594177",
+      "address": "!00!Emmambraha Road obra obra Aurangabad!devi mandir!Emmambraha Road obra obra Aurangabad!Aurangabad Bihar!Aurangabad!Bihar!824124",
+      "alt": "8789923109",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shailendra Tiwari",
+      "name": "HIMANSHU KUMAR",
+      "num": "7992260967"
+    },
+    {
+      "aadhar": "469833594177",
+      "address": "!00!Emmambraha Road obra obra Aurangabad!devi mandir!Emmambraha Road obra obra Aurangabad!Aurangabad Bihar!Aurangabad!Bihar!824124",
+      "alt": "8789923109",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shailendra Tiwari",
+      "name": "HIMANSHU KUMAR",
+      "num": "7992260967"
+    },
+    {
+      "aadhar": "469833594177",
+      "address": "!00!Emmambraha Road obra obra Aurangabad!devi mandir!Emmambraha Road obra obra Aurangabad!Aurangabad Bihar!Aurangabad!Bihar!824124",
+      "alt": "8789923109",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shailendra Tiwari",
+      "name": "HIMANSHU KUMAR",
+      "num": "7992260967"
+    },
+    {
+      "aadhar": "469833594177",
+      "address": "s/o  shailendra tiwari! 00!Emmambraha Road obra obra obra Aurangabad!Devi mandir!Emmambraha Road obra obra obra Aurangabad!obra!aurangabad!Bihar!824124",
+      "alt": "7992260967",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "shailendra tiwari",
+      "name": "Himanshu Kumar",
+      "num": "9122936745"
+    },
+    {
+      "aadhar": "469833594177",
+      "address": "s/o  shailendra tiwari! 00!Emmambraha Road obra obra obra Aurangabad!Devi mandir!Emmambraha Road obra obra obra Aurangabad!obra!aurangabad!Bihar!824124",
+      "alt": "7992260967",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shailendra tiwari",
+      "name": "Himanshu Kumar",
+      "num": "9122936745"
+    },
+    {
+      "aadhar": "469833594177",
+      "address": "s/o  shailendra tiwari! 00!Emmambraha Road obra obra obra Aurangabad!Devi mandir!Emmambraha Road obra obra obra Aurangabad!obra!aurangabad!Bihar!824124",
+      "alt": "7992260967",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "shailendra tiwari",
+      "name": "Himanshu Kumar",
+      "num": "9122936745"
+    }
+  ]
+}
