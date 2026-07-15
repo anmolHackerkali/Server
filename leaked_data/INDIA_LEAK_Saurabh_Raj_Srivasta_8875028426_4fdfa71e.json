@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:03:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8875028426",
+  "records": [
+    {
+      "aadhar": "823159805589",
+      "address": "! 50!Arora Colony Mandsaur!!Mandsaur!Mandsaur!MANDSAUR!Madhya Pradesh!458001",
+      "alt": "8875028426",
+      "circle": "JIO MP",
+      "email": "srs2004@gmail.com",
+      "fname": "Vinod Kumar srivastava",
+      "name": "Saurabh Raj Srivastava",
+      "num": "8319032194"
+    }
+  ]
+}
