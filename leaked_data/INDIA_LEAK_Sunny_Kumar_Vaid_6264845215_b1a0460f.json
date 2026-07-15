@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:10:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6264845215",
+  "records": [
+    {
+      "aadhar": "317160562433",
+      "address": "S/O  Ambika Prasad Vaid!!101 Shanti Para Camp 01 Supela Bhilai!ward 21!Supela Bhilai Durg Durg!Chhattisgarh!490023",
+      "alt": "918109111203",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ambika Prasad Vaid",
+      "name": "Sunny Kumar Vaid",
+      "num": "6264845215"
+    },
+    {
+      "aadhar": "317160562433",
+      "address": "S/O  Ambika Prasad Vaid!!101 Shanti Para Camp 01 Supela Bhilai!NA!ward 21!Supela Bhilai Durg Durg!NA!Chhattisgarh!490023",
+      "alt": "6264845215",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ambika Prasad Vaid",
+      "name": "Sunny Kumar Vaid",
+      "num": "8269503985"
+    }
+  ]
+}
