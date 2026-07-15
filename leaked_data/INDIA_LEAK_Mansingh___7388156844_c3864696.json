@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 23:19:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7388156844",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx5173",
+      "address": "S/O Chote Lal!216!!Dhanaura Dhanaura!Jalaun!Uttar Pradesh!285205",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chote  Lal",
+      "name": "Mansingh  ",
+      "num": "7388156844"
+    },
+    {
+      "aadhar": "xxxxxxxx5173",
+      "address": "S/O Chote Lal!216!!Dhanaura Dhanaura!Jalaun!Uttar Pradesh!285205",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Chote  Lal",
+      "name": "Mansingh  ",
+      "num": "7388156844"
+    }
+  ]
+}
