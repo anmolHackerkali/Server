@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:16:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8778733831",
+  "records": [
+    {
+      "aadhar": "685872706330",
+      "address": "!-  shivapriya layout road!anekal tq neralur!NEAR HANUMAN TEMPLE!H NO 657/M NEAR TEMPLE 21ST MAIN BANGARAPPA LINE BANAGIRINAGAR!Channapatna!Bangalore!Karnataka!562107",
+      "alt": "8778733831",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "ram singh",
+      "name": "Nisha Devi Ram Singh",
+      "num": "7975956910"
+    }
+  ]
+}
