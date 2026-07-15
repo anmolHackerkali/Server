@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:40:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9711369594",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!3567!Gali No 5!Old Seelampur EAST DELHI!!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8115300457",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Chhedaan",
+      "name": "Shaan Mohmmad",
+      "num": "9711369594"
+    },
+    {
+      "aadhar": null,
+      "address": "!3567!Gali No 5!Old SeelampurEAST DELHI!!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8115300457",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Chhedaan",
+      "name": "Shaan Mohmmad",
+      "num": "9711369594"
+    },
+    {
+      "aadhar": null,
+      "address": "!3567!Gali No 5!Old SeelampurEAST DELHI!!DELHI!EAST DELHI!Delhi!110031",
+      "alt": "8115300457",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Chhedaan",
+      "name": "Shaan Mohmmad",
+      "num": "9711369594"
+    }
+  ]
+}
