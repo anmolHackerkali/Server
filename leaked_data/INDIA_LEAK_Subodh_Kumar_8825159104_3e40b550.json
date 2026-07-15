@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:07:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8825159104",
+  "records": [
+    {
+      "aadhar": "422369103681",
+      "address": "S/O  Raja Ram Sahni!!!ward no 11!Raepur Samastipur!Bihar!848132",
+      "alt": "919835316658",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raja Ram Sahni",
+      "name": "Subodh Kumar",
+      "num": "8825159104"
+    },
+    {
+      "aadhar": "422369103681",
+      "address": "S/O  Raja Ram Sahni!!!ward no 11!Raepur Samastipur!Bihar!848132",
+      "alt": "919835316658",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raja Ram Sahni",
+      "name": "Subodh Kumar",
+      "num": "8825159104"
+    },
+    {
+      "aadhar": "422369103681",
+      "address": "S/O  Raja Ram Sahni!!!ward no 11!Raepur Samastipur!Bihar!848132",
+      "alt": "919835316658",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raja Ram Sahni",
+      "name": "Subodh Kumar",
+      "num": "8825159104"
+    },
+    {
+      "aadhar": "471827564509",
+      "address": " .!RAYPUR!RAYPUR!WARD 11 MADHOPUR SAMASTIPUR!Samastipur!!Bihar!848132 ",
+      "alt": "8825159104",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " surendra  sahni ",
+      "name": " rajesh kumar sahni ",
+      "num": "7543919361"
+    },
+    {
+      "aadhar": "471827564509",
+      "address": " .!RAYPUR!RAYPUR!WARD 11 MADHOPUR SAMASTIPUR!Samastipur!!Bihar!848132 ",
+      "alt": "8825159104",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " surendra  sahni ",
+      "name": " rajesh kumar sahni ",
+      "num": "7543919361"
+    }
+  ]
+}
