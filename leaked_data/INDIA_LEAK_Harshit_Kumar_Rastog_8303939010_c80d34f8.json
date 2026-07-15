@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:12:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303939010",
+  "records": [
+    {
+      "aadhar": "377311383574",
+      "address": "S/O  Ram Shnkar Rastogi!!raniganj Raniganj Bazar!NA!raniganj!Rahta Ramnagar Bara Banki!NA!Uttar Pradesh!225304",
+      "alt": "9453217666",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Shnkar Rastogi",
+      "name": "Harshit Kumar Rastogi",
+      "num": "8303939010"
+    },
+    {
+      "aadhar": "377311383574",
+      "address": "S/O  Ram Shnkar Rastogi!!raniganj Raniganj Bazar!NA!raniganj!Rahta Ramnagar Bara Banki!NA!Uttar Pradesh!225304",
+      "alt": "9453217666",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Shnkar Rastogi",
+      "name": "Harshit Kumar Rastogi",
+      "num": "8303939010"
+    }
+  ]
+}
