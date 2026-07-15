@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:36:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8851596576",
+  "records": [
+    {
+      "aadhar": "989514798096",
+      "address": "!sector 6 house 68!C/O mohanmanesar!NA!naharpur!GurgaonGurgaon!NA!Haryana!122051",
+      "alt": "8383869230",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Parameshvar",
+      "name": "SOMNATH",
+      "num": "8851596576"
+    },
+    {
+      "aadhar": "989514798096",
+      "address": "!sector 6 house 68!C/O mohanmanesar!NA!naharpur!GurgaonGurgaon!NA!Haryana!122051",
+      "alt": "8383869230",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Parameshvar",
+      "name": "SOMNATH",
+      "num": "8851596576"
+    },
+    {
+      "aadhar": "989514798096",
+      "address": "!sector 6 house 68!C/O mohanmanesar!NA!naharpur!GurgaonGurgaon!NA!Haryana!122051",
+      "alt": "8383869230",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Parameshvar",
+      "name": "SOMNATH",
+      "num": "8851596576"
+    }
+  ]
+}
