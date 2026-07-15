@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:53:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9793261478",
+  "records": [
+    {
+      "aadhar": "619578737176",
+      "address": "S/O Ramdas Pandey!31!januaa!salempur Lar!Deoria!Uttar Pradesh!274502",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramdas  Pandey",
+      "name": "Jagdish  Pandey",
+      "num": "9793261478"
+    },
+    {
+      "aadhar": "619578737176",
+      "address": "S/O Ramdas Pandey!31!januaa!salempur Lar!Deoria!Uttar Pradesh!274502",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ramdas  Pandey",
+      "name": "Jagdish  Pandey",
+      "num": "9793261478"
+    }
+  ]
+}
