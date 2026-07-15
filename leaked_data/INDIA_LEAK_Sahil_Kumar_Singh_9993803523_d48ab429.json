@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:05:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9993803523",
+  "records": [
+    {
+      "aadhar": "463080991972",
+      "address": "s/o  kalamdhari!!Darima!MAHADEV PARA!mahadev para gram - koteya darima!koleya Ambikapur!surguja!Chhattisgarh!497001",
+      "alt": "7509163523",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "kalamdhari",
+      "name": "Sahil Kumar Singh",
+      "num": "9993803523"
+    },
+    {
+      "aadhar": "463080991972",
+      "address": "s/o  kalamdhari!!Darima!MAHADEV PARA!mahadev para gram - koteya darima!koteya Ambikapur!surguja!Chhattisgarh!497001",
+      "alt": "9993803523",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "kalamdhari",
+      "name": "Sahil Kumar Singh",
+      "num": "7509163523"
+    }
+  ]
+}
