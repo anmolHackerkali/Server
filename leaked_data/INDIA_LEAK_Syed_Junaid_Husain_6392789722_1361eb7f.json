@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:38:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6392789722",
+  "records": [
+    {
+      "aadhar": "338082749226",
+      "address": "S/O Syed Nasir Husain!!235N/2A  GB!NARAYANPURAM KARELABAGH!Allahabad Allahabad!Uttar Pradesh!211016",
+      "alt": "916386755782",
+      "circle": "JIO UPE",
+      "email": "993666junaid@gmail.com",
+      "fname": "Syed Nasir Husain",
+      "name": "Syed Junaid Husain",
+      "num": "6392789722"
+    },
+    {
+      "aadhar": "338082749226",
+      "address": "S/O Syed Nasir Husain!!235N/2A  GB!NARAYANPURAM KARELABAGH!Allahabad Allahabad!Uttar Pradesh!211016",
+      "alt": "916386755782",
+      "circle": "JIO UPE",
+      "email": "993666junaid@gmail.com",
+      "fname": "Syed Nasir Husain",
+      "name": "Syed Junaid Husain",
+      "num": "6392789722"
+    }
+  ]
+}
