@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:40:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8567078226",
+  "records": [
+    {
+      "aadhar": "241203918187",
+      "address": "S/O: Brijender Khan Duri!S/O: Brijender Khan Duri HOUSE NO HJ 609!WARD NO 44 HOUSING BOARD COLONY!Rajguru Nagar LudhianaB R S NAGAR!RAJGURU NAGAR-LUDHIANA!PB!141012",
+      "alt": null,
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "BRIJENDER KHAN DURI",
+      "name": "ABHISHEK KHANDURI",
+      "num": "8567078226"
+    },
+    {
+      "aadhar": "340026732498",
+      "address": "!E 1/47 mdda colony!mdda road!defence colony!kedrpuram!Dehradun!Dehradun!Uttarakhand!248001",
+      "alt": "8567078226",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "brijender khanduri",
+      "name": "Akhil Khanduri  ",
+      "num": "8630963596"
+    }
+  ]
+}
