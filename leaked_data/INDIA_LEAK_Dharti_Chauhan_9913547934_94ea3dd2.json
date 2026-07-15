@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:18:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9913547934",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx1595",
+      "address": "5/7!   Barvigha City/District  Anand State Gujarat!Near New Police Line!ANAND!388001",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shantilal Chauhan",
+      "name": "Dharti Chauhan",
+      "num": "9913547934"
+    },
+    {
+      "aadhar": "xxxxxxxx1595",
+      "address": "Shantilal Chauhan!5/7!   Barvigha City/District: Anand State Gujarat!Near New Police Line!ANAND!Gujarat!388001",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shantilal Chauhan",
+      "name": "Dharti Chauhan",
+      "num": "9913547934"
+    },
+    {
+      "aadhar": "xxxxxxxx1595",
+      "address": "Shantilal Chauhan!5/7!   Barvigha City/District: Anand State Gujarat!Near New Police Line!ANAND!Gujarat!388001",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shantilal Chauhan",
+      "name": "Dharti Chauhan",
+      "num": "9913547934"
+    }
+  ]
+}
