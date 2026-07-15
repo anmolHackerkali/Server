@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:02:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7319703857",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Suresh Singh!!50 saakan pidi!vill-sakanpidi post-patan thana-patan palamu!Sakanpirhi Palamu!Jharkhand!822123",
+      "alt": "917319819899",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Suresh Singh",
+      "name": "Ekta Kumari",
+      "num": "7319703857"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Suresh Singh!!50 saakan pidi!vill-sakanpidi post-patan thana-patan palamu!Sakanpirhi Palamu!Jharkhand!822123",
+      "alt": "917319819899",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Suresh Singh",
+      "name": "Ekta Kumari",
+      "num": "7319703857"
+    },
+    {
+      "aadhar": "933082214659",
+      "address": "!100!MAIN GALI!NARNONS HISAR MAIN BAZAR!HISAR!HARYANA!125033",
+      "alt": "7319703857",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "SUDHAN  ",
+      "name": "RAM BHAROS MAJHI",
+      "num": "7082716523"
+    }
+  ]
+}
