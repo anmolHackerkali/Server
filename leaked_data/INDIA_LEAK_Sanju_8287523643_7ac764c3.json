@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:00:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8287523643",
+  "records": [
+    {
+      "aadhar": "971311010530",
+      "address": "!WG-22-273!dheeraj nagar!NA!Faridabad!Faridabad  Faridabad!NA!Haryana!121003",
+      "alt": "7827624401",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhurelal",
+      "name": "Sanju",
+      "num": "8287523643"
+    },
+    {
+      "aadhar": "971311010530",
+      "address": "!WG-22-273!dheeraj nagar!NA!Faridabad!Faridabad Faridabad!NA!Haryana!121003",
+      "alt": "7827624401",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhurelal",
+      "name": "Sanju",
+      "num": "8287523643"
+    },
+    {
+      "aadhar": "971311010530",
+      "address": "!WG-22-273!dheeraj nagar!NA!Faridabad!Faridabad Faridabad!NA!Haryana!121003",
+      "alt": "7827624401",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Bhurelal",
+      "name": "Sanju",
+      "num": "8287523643"
+    }
+  ]
+}
