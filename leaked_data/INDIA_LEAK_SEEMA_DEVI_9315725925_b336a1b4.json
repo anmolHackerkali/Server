@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:05:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9315725925",
+  "records": [
+    {
+      "aadhar": "204795715598",
+      "address": "W/O: Vinod Kumar W/O: Vinod Kumar 645/25 WARD 18 TohanaAMBEDKAR CHOK jamlpur ROAD TOHANA-FATEHABAD HR 125120",
+      "alt": "9050471998",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "VINOD KUMAR  ",
+      "name": "SEEMA DEVI",
+      "num": "9315725925"
+    },
+    {
+      "aadhar": "332391941142",
+      "address": "!H NO 645!WARD  NO 18!!AMBEDKAR CHOK JAMLPUR ROAD TOHANA NA FATEHABAD!!FATEHABAD!HARYANA!125120",
+      "alt": "9315725925",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "VINOD  ",
+      "name": "ASHWANI  KUMAR",
+      "num": "9729927347"
+    }
+  ]
+}
