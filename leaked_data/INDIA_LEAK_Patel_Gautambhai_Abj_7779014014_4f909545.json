@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:46:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7779014014",
+  "records": [
+    {
+      "aadhar": "972036757286",
+      "address": "! 12!uma darshan society Bardoli!ten-talav!bardoli!Ten Bardoli!Surat!Gujarat!394601",
+      "alt": "9825217614",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Abjibhai",
+      "name": "Patel Gautambhai Abjibhai",
+      "num": "7779014014"
+    },
+    {
+      "aadhar": "972036757286",
+      "address": "! 12!uma darshan society Bardoli!ten-talav!bardoli!Ten Bardoli!Surat!Gujarat!394601",
+      "alt": "9825217614",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Abjibhai",
+      "name": "Patel Gautambhai Abjibhai",
+      "num": "7779014014"
+    },
+    {
+      "aadhar": "972036757286",
+      "address": "! 12!uma darshan society Bardoli!ten-talav!bardoli!Ten Bardoli!Surat!Gujarat!394601",
+      "alt": "9825217614",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Abjibhai",
+      "name": "Patel Gautambhai Abjibhai",
+      "num": "7779014014"
+    }
+  ]
+}
