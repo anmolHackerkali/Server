@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:00:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9997720421",
+  "records": [
+    {
+      "aadhar": "982424326230",
+      "address": "!-!MUDELI!POST CHARUBETA - Mundeli!Udham Singh Nagar Khatima Khatima!Uttarakhand!262308",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "priya",
+      "name": "PRIYA",
+      "num": "9997720421"
+    },
+    {
+      "aadhar": "982424326230",
+      "address": "!-!MUDELI!POST CHARUBETA - Mundeli!Udham Singh Nagar Khatima Khatima!Uttarakhand!262308",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "priya",
+      "name": "PRIYA",
+      "num": "9997720421"
+    }
+  ]
+}
