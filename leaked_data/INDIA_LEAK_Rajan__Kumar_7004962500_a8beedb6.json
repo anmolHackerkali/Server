@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:35:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7004962500",
+  "records": [
+    {
+      "aadhar": "476099245157",
+      "address": "S/O Shankar Roy!Azad Nagar!!Ward No-6 Mohanpur!!Behind Brb College Samastipur Samastipur Samastipur!Bihar!848101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shankar  Roy",
+      "name": "Rajan  Kumar",
+      "num": "7004962500"
+    },
+    {
+      "aadhar": "476099245157",
+      "address": "S/O Shankar Roy!Azad Nagar!!Ward No-6 Mohanpur!!Behind Brb College Samastipur Samastipur Samastipur!Bihar!848101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Shankar  Roy",
+      "name": "Rajan  Kumar",
+      "num": "7004962500"
+    },
+    {
+      "aadhar": "339202037509",
+      "address": "d/o uday kumar ray!ward-1!hajpurwa Rampur Kushaiya!!ward-1 hajpurwa hajpurwa warisnagar!rampur kushaiya Warisnagar!samastipur!Bihar!848301",
+      "alt": "7004962500",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "uday kumar ray",
+      "name": "Pooja Kumari",
+      "num": "7858922241"
+    },
+    {
+      "aadhar": "339202037509",
+      "address": "d/o uday kumar ray!ward-1!hajpurwa Rampur Kushaiya!!ward-1 hajpurwa hajpurwa warisnagar!rampur kushaiya Warisnagar!samastipur!Bihar!848301",
+      "alt": "7004962500",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "uday kumar ray",
+      "name": "Pooja Kumari",
+      "num": "7858922241"
+    },
+    {
+      "aadhar": "339202037509",
+      "address": "d/o uday kumar ray!ward-1!hajpurwa Rampur Kushaiya!!ward-1 hajpurwa hajpurwa warisnagar!rampur kushaiya Warisnagar!samastipur!Bihar!848301",
+      "alt": "7004962500",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "uday kumar ray",
+      "name": "Pooja Kumari",
+      "num": "7858922241"
+    }
+  ]
+}
