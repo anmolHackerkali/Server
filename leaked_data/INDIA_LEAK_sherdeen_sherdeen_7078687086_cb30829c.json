@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:41:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7078687086",
+  "records": [
+    {
+      "aadhar": "768176420395",
+      "address": "!68/5!double storey!!modinagar   sara!Modinagar!!Uttar Pradesh!201201",
+      "alt": "8650344598",
+      "circle": "AIRTEL UPW",
+      "email": "sherdeen@gmail.com",
+      "fname": "fahimuddin",
+      "name": "sherdeen sherdeen",
+      "num": "7078687086"
+    },
+    {
+      "aadhar": "768176420395",
+      "address": "!68/5!double storey!!modinagar   sara!Modinagar!!Uttar Pradesh!201201",
+      "alt": "8650344598",
+      "circle": "AIRTEL UPW",
+      "email": "sherdeen@gmail.com",
+      "fname": "fahimuddin",
+      "name": "sherdeen sherdeen",
+      "num": "7078687086"
+    },
+    {
+      "aadhar": "561171414106",
+      "address": "w/o faimuddin!house no 68/5!Double StoryModi Nagar!Double Story!double story double story double story govindpuri!modinagar!ghaziabad!Uttar Pradesh!201204",
+      "alt": "7078687086",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "faimuddin",
+      "name": "Zeenat",
+      "num": "8650344598"
+    },
+    {
+      "aadhar": "561171414106",
+      "address": "w/o faimuddin!house no 68/5!Double StoryModi Nagar!Double Story!double story double story double story govindpuri!modinagar!ghaziabad!Uttar Pradesh!201204",
+      "alt": "7078687086",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "faimuddin",
+      "name": "Zeenat",
+      "num": "7906702188"
+    },
+    {
+      "aadhar": "561171414106",
+      "address": "w/o faimuddin! house no 68/5!Double Story Modi Nagar!Double Story!double story double story double story govindpuri!modinagar!ghaziabad!Uttar Pradesh!201204",
+      "alt": "7078687086",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "faimuddin",
+      "name": "Zeenat",
+      "num": "8650344598"
+    },
+    {
+      "aadhar": "561171414106",
+      "address": "w/o faimuddin! house no 68/5!Double Story Modi Nagar!Double Story!double story double story double story govindpuri!modinagar!ghaziabad!Uttar Pradesh!201204",
+      "alt": "7078687086",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "faimuddin",
+      "name": "Zeenat",
+      "num": "8650344598"
+    }
+  ]
+}
