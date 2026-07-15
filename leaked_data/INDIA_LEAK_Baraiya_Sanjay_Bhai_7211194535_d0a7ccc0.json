@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:52:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7211194535",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Baraiya Kanu Bhai!724! rajapura!gram - gutal Kheda!rajapura!BHUMEL!Kheda!Gujarat!387370",
+      "alt": "6353415817",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Baraiya Kanu Bhai",
+      "name": "Baraiya Sanjay Bhai",
+      "num": "7211194535"
+    },
+    {
+      "aadhar": null,
+      "address": " 724   rajapura gram - gutal Kheda rajapura BHUMEL Kheda Gujarat 387370 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " Baraiya Sanjay Bhai ",
+      "num": "7211194535"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Baraiya Kanu Bhai!724! rajapura!gram - gutal Kheda!rajapura!BHUMEL!Kheda!Gujarat!387370",
+      "alt": "6353415817",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "S/O Baraiya Kanu Bhai",
+      "name": "Baraiya Sanjay Bhai",
+      "num": "7211194535"
+    },
+    {
+      "aadhar": null,
+      "address": " 724   rajapura gram - gutal Kheda rajapura BHUMEL Kheda Gujarat 387370 ",
+      "alt": null,
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": null,
+      "name": " Baraiya Sanjay Bhai ",
+      "num": "7211194535"
+    }
+  ]
+}
