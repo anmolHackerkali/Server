@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:04:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8931084332",
+  "records": [
+    {
+      "aadhar": "428552634278",
+      "address": "!12!KITKARI KHEDA!!INDAIN!Aligarh!!Uttar Pradesh!202128",
+      "alt": "9205019615",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "MAHI PAL SINGH",
+      "name": "SHIKHA SINGH",
+      "num": "8931084332"
+    },
+    {
+      "aadhar": "428552634278",
+      "address": "!12!KITKARI KHEDA!!INDAIN!Aligarh!!Uttar Pradesh!202128",
+      "alt": "9205019615",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "MAHI PAL SINGH",
+      "name": "SHIKHA SINGH",
+      "num": "8931084332"
+    }
+  ]
+}
