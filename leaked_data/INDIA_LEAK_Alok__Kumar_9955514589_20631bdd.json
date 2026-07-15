@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:50:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9955514589",
+  "records": [
+    {
+      "aadhar": "882375182184",
+      "address": "S/O Lal Babu Singh!village-sahdullahpur post-sahdullahpur!!ward no-13 Sadullahpur!!Vaishali!Bihar!844102",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Lal Babu Singh",
+      "name": "Alok  Kumar",
+      "num": "9955514589"
+    },
+    {
+      "aadhar": "882375182184",
+      "address": "S/O Lal Babu Singh!village-sahdullahpur post-sahdullahpur!!ward no-13 Sadullahpur!!Vaishali!Bihar!844102",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Lal Babu Singh",
+      "name": "Alok  Kumar",
+      "num": "9955514589"
+    }
+  ]
+}
