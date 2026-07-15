@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:50:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9213161520",
+  "records": [
+    {
+      "aadhar": "824981831387",
+      "address": "S/O  Sat Pal Singh!!A-64 Police Colony Saraswati Vihar!Sarasvati Vihar!Pitampura Saraswati Vihar North West Delhi!Delhi!110034",
+      "alt": "919728973530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sat Pal Singh",
+      "name": "Vikas Chhillar",
+      "num": "9213161520"
+    },
+    {
+      "aadhar": "824981831387",
+      "address": "S/O  Sat Pal Singh!!A-64Police ColonySaraswati Vihar!Sarasvati Vihar!PitampuraSaraswati ViharNorth West Delhi!Delhi!110034",
+      "alt": "919728973530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sat Pal Singh",
+      "name": "Vikas Chhillar",
+      "num": "9213161520"
+    },
+    {
+      "aadhar": "824981831387",
+      "address": "S/O  Sat Pal Singh!!A-64Police ColonySaraswati Vihar!Sarasvati Vihar!PitampuraSaraswati ViharNorth West Delhi!Delhi!110034",
+      "alt": "919728973530",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sat Pal Singh",
+      "name": "Vikas Chhillar",
+      "num": "9213161520"
+    },
+    {
+      "aadhar": "359211257158",
+      "address": "!house no 450!gali no 2 Mohan nagar!!bahadurgarh!Jhajjar!Jhajjar!Haryana!124507",
+      "alt": "9213161520",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Kanwar Singh",
+      "name": "Poonam",
+      "num": "9518065013"
+    }
+  ]
+}
