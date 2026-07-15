@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:28:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307252818",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ramdev!!Bhanpur babu post- Bhanpur babu!!Bhanpur Basti!Uttar Pradesh!272194",
+      "alt": "919648393323",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramdev",
+      "name": "Gulab Rao",
+      "num": "6307252818"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramdev!!Bhanpur babu post- Bhanpur babu!!Bhanpur Basti!Uttar Pradesh!272194",
+      "alt": "919648393323",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ramdev",
+      "name": "Gulab Rao",
+      "num": "6307252818"
+    }
+  ]
+}
