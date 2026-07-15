@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:15:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7079683584",
+  "records": [
+    {
+      "aadhar": "269678245714",
+      "address": " Kdghjkkjj Fbmmncvv Ward No 25 Bangali Tola SAMASTIPUR SAMASTIPUR 848101 Bihar ",
+      "alt": "8271749824",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJU THAKUR ",
+      "name": " BABITA DEVI ",
+      "num": "7079683584"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Late Pramanand Thakur!!Bengali tola!ward no 25!!Samastipur!Samastipur!Bihar!848101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Pramanand Thakur",
+      "name": "Raju Kumar",
+      "num": "7079683584"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Late Pramanand Thakur!!Bengali tola!ward no 25!!Samastipur!Samastipur!Bihar!848101",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Late Pramanand Thakur",
+      "name": "Raju Kumar",
+      "num": "7079683584"
+    },
+    {
+      "aadhar": "269678245714",
+      "address": " Kdghjkkjj Fbmmncvv Ward No 25 Bangali Tola SAMASTIPUR SAMASTIPUR 848101 Bihar ",
+      "alt": "8271749824",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " RAJU THAKUR ",
+      "name": " BABITA DEVI ",
+      "num": "7079683584"
+    }
+  ]
+}
