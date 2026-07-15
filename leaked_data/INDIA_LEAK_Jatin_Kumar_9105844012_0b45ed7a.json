@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:21:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9105844012",
+  "records": [
+    {
+      "aadhar": "235875642509",
+      "address": "!nogawa taga naugawan taga!nogawan taga!!amroha!Moradabad!Jyotiba Phule Nagar!Uttar Pradesh!244251",
+      "alt": "9389931750",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Omkar singh",
+      "name": "Jatin Kumar",
+      "num": "9105844012"
+    },
+    {
+      "aadhar": "235875642509",
+      "address": "!nogawa taga naugawan taga!nogawan taga!!amroha!Moradabad!Jyotiba Phule Nagar!Uttar Pradesh!244251",
+      "alt": "9389931750",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Omkar singh",
+      "name": "Jatin Kumar",
+      "num": "9105844012"
+    },
+    {
+      "aadhar": "463137089041",
+      "address": "S/O  Jaypal Singh!!Nawgawan!!gram naugawan taga!AmrohaAmroha!Amroha!Uttar Pradesh!244251",
+      "alt": "9105844012",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jaypal Singh",
+      "name": "Manendra Singh",
+      "num": "9389931750"
+    },
+    {
+      "aadhar": "463137089041",
+      "address": "S/O  Jaypal Singh!!Nawgawan!!gram naugawan taga!Amroha Amroha!Amroha!Uttar Pradesh!244251",
+      "alt": "9105844012",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jaypal Singh",
+      "name": "Manendra Singh",
+      "num": "9389931750"
+    },
+    {
+      "aadhar": "604957359665",
+      "address": "S/O  Bihari Singh!!Nawgawan!!gram naugawan taga!Amroha Amroha!Amroha!Uttar Pradesh!244251",
+      "alt": "9105844012",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Bihari Singh",
+      "name": "Pradeep Kumar",
+      "num": "9027011928"
+    },
+    {
+      "aadhar": "463137089041",
+      "address": "S/O  Jaypal Singh!!Nawgawan!!gram naugawan taga!Amroha Amroha!Amroha!Uttar Pradesh!244251",
+      "alt": "9105844012",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jaypal Singh",
+      "name": "Manendra Singh",
+      "num": "9389931750"
+    },
+    {
+      "aadhar": "604957359665",
+      "address": "S/O  Bihari Singh!!Nawgawan!!gram naugawan taga!Amroha Amroha!Amroha!Uttar Pradesh!244251",
+      "alt": "9105844012",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Bihari Singh",
+      "name": "Pradeep Kumar",
+      "num": "9027011928"
+    }
+  ]
+}
