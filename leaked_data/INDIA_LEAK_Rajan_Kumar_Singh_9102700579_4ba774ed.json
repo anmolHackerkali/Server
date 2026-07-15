@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:57:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9102700579",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ramashankar Singh!!!!!Mathurapur!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramashankar Singh",
+      "name": "Rajan Kumar Singh",
+      "num": "9102700579"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ramashankar Singh!!!!!Mathurapur!Siwan!Bihar!841438",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ramashankar Singh",
+      "name": "Rajan Kumar Singh",
+      "num": "9102700579"
+    },
+    {
+      "aadhar": "822339109310",
+      "address": "..!GHAGHRA!!vill-goya ps-ghaghra  Belagara GUMLA BELAGARA!Gumla!GUMLA!Jharkhand!835208",
+      "alt": "9102700579",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Israil  Khan",
+      "name": "Kalemun  Bibi",
+      "num": "9523350788"
+    },
+    {
+      "aadhar": "822339109310",
+      "address": "..!GHAGHRA!!vill-goya ps-ghaghra  Belagara GUMLA BELAGARA!Gumla!GUMLA!Jharkhand!835208",
+      "alt": "9102700579",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Israil  Khan",
+      "name": "Kalemun  Bibi",
+      "num": "9523350788"
+    }
+  ]
+}
