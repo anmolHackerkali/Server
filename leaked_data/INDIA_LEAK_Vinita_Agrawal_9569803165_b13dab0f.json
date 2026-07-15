@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:44:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9569803165",
+  "records": [
+    {
+      "aadhar": "383788000763",
+      "address": "W/O Vikas Agrawal!!!vinay dery!sector 3/559 jankipuram vistar!Janki puram vistar!Lucknow!Uttar Pradesh!226021",
+      "alt": "9336624083",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vikas Agrawal",
+      "name": "Vinita Agrawal",
+      "num": "9569803165"
+    },
+    {
+      "aadhar": "383788000763",
+      "address": "W/O Vikas Agrawal!!!vinay dery!sector 3/559 jankipuram vistar!Janki puram vistar!Lucknow!Uttar Pradesh!226021",
+      "alt": "9336624083",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Vikas Agrawal",
+      "name": "Vinita Agrawal",
+      "num": "9569803165"
+    }
+  ]
+}
