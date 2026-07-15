@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:34:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8433292385",
+  "records": [
+    {
+      "aadhar": "269793590331",
+      "address": "!56/3!Almora!!Building No.56/3 Cant Area Almora  Almora!Almora!Almora!Uttarakhand!263601",
+      "alt": "9536840152",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Dungar Singh",
+      "name": "SONU ADHIKARI",
+      "num": "8433292385"
+    },
+    {
+      "aadhar": "269793590331",
+      "address": "!56/3!Almora!!Building No.56/3 Cant Area Almora  Almora!Almora!Almora!Uttarakhand!263601",
+      "alt": "9536840152",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Dungar Singh",
+      "name": "SONU ADHIKARI",
+      "num": "8433292385"
+    }
+  ]
+}
