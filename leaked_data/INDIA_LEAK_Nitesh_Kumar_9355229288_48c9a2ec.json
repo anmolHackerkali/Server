@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:20:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9355229288",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Mahabir Singh!HOUSE N0 292!GALI N0  6   BLOCK - C!NAJAFGARH South West Delhi!!DELHI!South West Delhi!Delhi!110043",
+      "alt": "8802936906",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Mahabir Singh",
+      "name": "Nitesh Kumar",
+      "num": "9355229288"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Mahabir Singh!HOUSE N0292!GALI N0 6  BLOCK - C!NAJAFGARHSouth West Delhi!!DELHI!South West Delhi!Delhi!110043",
+      "alt": "8802936906",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Mahabir Singh",
+      "name": "Nitesh Kumar",
+      "num": "9355229288"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Mahabir Singh!HOUSE N0292!GALI N0 6  BLOCK - C!NAJAFGARHSouth West Delhi!!DELHI!South West Delhi!Delhi!110043",
+      "alt": "8802936906",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O Mahabir Singh",
+      "name": "Nitesh Kumar",
+      "num": "9355229288"
+    }
+  ]
+}
