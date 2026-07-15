@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:23:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8904243450",
+  "records": [
+    {
+      "aadhar": "KA6320170003520",
+      "address": "!!97 NAVALLI PLOT NEAR PRIYADARSHINI COLONY!NA!GOKUL ROAD HUBBALLI!Dharwad Dharwad!NA!Karnataka!580031",
+      "alt": "7760218106",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "laxmikanth",
+      "name": "deepak ekbote",
+      "num": "8904243450"
+    },
+    {
+      "aadhar": "661783492428",
+      "address": "S/O laxmikant! 97!Navalli Plot Hubli Udyamnagar!Priyadarshini Colony!Gokul Road!Hubli!Dharwad!Karnataka!580030",
+      "alt": "8904243450",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "laxmikant",
+      "name": "Deepak L Ekbote",
+      "num": "9591708227"
+    },
+    {
+      "aadhar": "290710632190",
+      "address": "D/O  Laxmikant Ekbote! 97!Priyadarshini Colony Hubli Udyamnagar!Akshay Park Gokul Road!!Hubli Hubli!Dharwad!Karnataka!580030",
+      "alt": "8904243450",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Laxmikant Ekbote",
+      "name": "Amruta Ekbote",
+      "num": "8904413970"
+    },
+    {
+      "aadhar": "796044733073",
+      "address": "D/O  Laxmikant Ekbote! 97!Priyadarshini Colony Hubli Udyamnagar!Akshay Park Gokul Road!priyadarshini colony hubli udyamnagar!Hubli Hubli!Dharwad!Karnataka!580030",
+      "alt": "8904243450",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Laxmikant Ekbote",
+      "name": "Roopa Ekbote",
+      "num": "8904219970"
+    }
+  ]
+}
