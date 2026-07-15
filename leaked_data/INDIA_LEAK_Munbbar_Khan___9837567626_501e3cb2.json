@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:00:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9837567626",
+  "records": [
+    {
+      "aadhar": "944533107608",
+      "address": "!00!Bhitaura Sittarganj Udham Singh Nagar!Bhitaura Sittarganj Udham Singh Nagar!Sitarganj!Nainital!Udham Singh Nagar!Uttarakhand!262405",
+      "alt": "9837306472",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Bhoore Khan",
+      "name": "Munbbar Khan  ",
+      "num": "9837567626"
+    },
+    {
+      "aadhar": "944533107608",
+      "address": "!00!Bhitaura!Bhitaura!sittarganj!Nainital!Udham Singh Nagar!Uttarakhand!262405",
+      "alt": "9837567626",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Bhoore Khan",
+      "name": "Munbbar Khan",
+      "num": "9837306472"
+    }
+  ]
+}
