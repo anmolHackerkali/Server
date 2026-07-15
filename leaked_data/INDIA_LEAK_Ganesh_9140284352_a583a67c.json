@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:10:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9140284352",
+  "records": [
+    {
+      "aadhar": "472725789159",
+      "address": "S/O  Ramashankar!!Jamal Mirja Pur!!tilai bujurg!Tilai Buzurg Ghosi!Mau!Uttar Pradesh!275105",
+      "alt": "7985353841",
+      "circle": "JIO UPE",
+      "email": "GANESH123@GAMIL.COM",
+      "fname": "Ramashankar",
+      "name": "Ganesh",
+      "num": "9140284352"
+    },
+    {
+      "aadhar": "472725789159",
+      "address": "S/O  Ramashankar!!Jamal Mirja Pur!!tilai bujurg!Tilai Buzurg Ghosi!Mau!Uttar Pradesh!275105",
+      "alt": "7985353841",
+      "circle": "JIO UPE",
+      "email": "GANESH123@GAMIL.COM",
+      "fname": "Ramashankar",
+      "name": "Ganesh",
+      "num": "9140284352"
+    }
+  ]
+}
