@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:12:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7488271709",
+  "records": [
+    {
+      "aadhar": "268944024679",
+      "address": "!!vill bind!!po bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "8789661576",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Balaram prasad",
+      "name": "Nitish Kumar Niranjan",
+      "num": "7488271709"
+    },
+    {
+      "aadhar": "268944024679",
+      "address": "!!vill bind!!po bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "8789661576",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Balaram prasad",
+      "name": "Nitish Kumar Niranjan",
+      "num": "7488271709"
+    },
+    {
+      "aadhar": "268944024679",
+      "address": "!!vill bind!!po bind!Nalanda!Nalanda!Bihar!803107",
+      "alt": "8789661576",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Balaram prasad",
+      "name": "Nitish Kumar Niranjan",
+      "num": "7488271709"
+    },
+    {
+      "aadhar": "970626279835",
+      "address": "D/O  Ravindra Prasad!!vill usari Bhatta!NA!Post Bhatta Thana Pakribrawan!Bhatta Kashi Chak Nawada!NA!Bihar!805130",
+      "alt": "7488271709",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ravindra Prasad",
+      "name": "Soni Kumari",
+      "num": "7061329886"
+    },
+    {
+      "aadhar": "970626279835",
+      "address": "D/O  Ravindra Prasad!!vill usari Bhatta!NA!Post Bhatta Thana Pakribrawan!Bhatta Kashi Chak Nawada!NA!Bihar!805130",
+      "alt": "7488271709",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravindra Prasad",
+      "name": "Soni Kumari",
+      "num": "7061329886"
+    },
+    {
+      "aadhar": "970626279835",
+      "address": "D/O  Ravindra Prasad!!vill usari Bhatta!NA!Post Bhatta Thana Pakribrawan!Bhatta Kashi Chak Nawada!NA!Bihar!805130",
+      "alt": "7488271709",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ravindra Prasad",
+      "name": "Soni Kumari",
+      "num": "7061329886"
+    }
+  ]
+}
