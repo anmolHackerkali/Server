@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:58:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9719617130",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Suraj Giri!!ravli road!jeet pur!Muradnagar Ghaziabad!Uttar Pradesh!201206",
+      "alt": "918757545464",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Suraj Giri",
+      "name": "NIRVIKAR GIRI",
+      "num": "9719617130"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Suraj Giri!!ravli road!jeet pur!Muradnagar Ghaziabad!Uttar Pradesh!201206",
+      "alt": "918757545464",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Suraj Giri",
+      "name": "NIRVIKAR GIRI",
+      "num": "9719617130"
+    }
+  ]
+}
