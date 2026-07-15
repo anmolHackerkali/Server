@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:38:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7983202036",
+  "records": [
+    {
+      "aadhar": "464541141346",
+      "address": "S/O: Jagpal Singh!!E 2 sec-4c E-252shatabdi nagarhawai patti!!MeerutMeerut!Uttar Pradesh!250103",
+      "alt": "+918881005015",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Jagpal Singh",
+      "name": "Manish Chaudhary  ",
+      "num": "7983202036"
+    },
+    {
+      "aadhar": "464541141346",
+      "address": "S/O: Jagpal Singh!!E 2 sec-4c E-252 shatabdi nagar hawai patti!!Meerut Meerut!Uttar Pradesh!250103",
+      "alt": "918881005015",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagpal Singh",
+      "name": "Manish Chaudhary",
+      "num": "7983202036"
+    },
+    {
+      "aadhar": "464541141346",
+      "address": "S/O: Jagpal Singh!!E 2 sec-4c E-252 shatabdi nagar hawai patti!!Meerut Meerut!Uttar Pradesh!250103",
+      "alt": "918881005015",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Jagpal Singh",
+      "name": "Manish Chaudhary",
+      "num": "7983202036"
+    },
+    {
+      "aadhar": "464541141346",
+      "address": "!!E-252shatabdi nagerhawai patti sector 4cE!NA!meerut!MeerutMeerut!NA!Uttar Pradesh!250103",
+      "alt": "7983202036",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "jagpal singh",
+      "name": "Manish chaudhary",
+      "num": "8881005015"
+    },
+    {
+      "aadhar": "464541141346",
+      "address": "!!E-252 shatabdi nager hawai patti sector 4cE!NA!meerut!Meerut Meerut!NA!Uttar Pradesh!250103",
+      "alt": "7983202036",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "jagpal singh",
+      "name": "Manish chaudhary",
+      "num": "8881005015"
+    },
+    {
+      "aadhar": "464541141346",
+      "address": "!!E-252 shatabdi nager hawai patti sector 4cE!NA!meerut!Meerut Meerut!NA!Uttar Pradesh!250103",
+      "alt": "7983202036",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "jagpal singh",
+      "name": "Manish chaudhary",
+      "num": "8881005015"
+    }
+  ]
+}
