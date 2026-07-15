@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:41:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8880001302",
+  "records": [
+    {
+      "aadhar": "KA3620110010831",
+      "address": "7-2-25!W NO 17 GAJGAR PET!RAICHUR!RAICHUR!Karnataka!584101",
+      "alt": "8722585192",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "NAGARAJ KUMAR",
+      "name": "MAHESH KUMAR",
+      "num": "8880001302"
+    },
+    {
+      "aadhar": "346165290873",
+      "address": "s/o nagaraj k! 7-2-25!!!Gajagar Pet!gajagar pet!raichur!Karnataka!584101",
+      "alt": "8880001302",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "nagaraj k",
+      "name": "Mahesh Kumar K",
+      "num": "8884880001"
+    },
+    {
+      "aadhar": "346165290873",
+      "address": "s/o nagaraj k! 7-2-25!!!Gajagar Pet!gajagar pet!raichur!Karnataka!584101",
+      "alt": "8880001302",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "nagaraj k",
+      "name": "Mahesh Kumar K",
+      "num": "8884455600"
+    },
+    {
+      "aadhar": "346165290873",
+      "address": "S/O Nagaraj K!7-2-25!7-2-25!7-2-25!Gajagar Pet RAICHUR!RAICHUR!RAICHUR!Karnataka!584101",
+      "alt": "8880001302",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "Nagaraj",
+      "name": "MR MAHESH KUMAR K",
+      "num": "8884349683"
+    }
+  ]
+}
