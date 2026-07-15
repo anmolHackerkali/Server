@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:26:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9695314569",
+  "records": [
+    {
+      "aadhar": "239575520448",
+      "address": "!36!sadar bazar rasra!rasra!rasra!Ballia!Ballia!Uttar Pradesh!221712",
+      "alt": "9628294686",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajan",
+      "name": "Riya Singh",
+      "num": "9695314569"
+    },
+    {
+      "aadhar": "239575520448",
+      "address": "!36!sadar bazar rasra!rasra!rasra!Ballia!Ballia!Uttar Pradesh!221712",
+      "alt": "9628294686",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Rajan",
+      "name": "Riya Singh",
+      "num": "9695314569"
+    }
+  ]
+}
