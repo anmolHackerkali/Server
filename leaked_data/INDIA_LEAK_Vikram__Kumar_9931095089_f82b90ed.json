@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 22:07:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931095089",
+  "records": [
+    {
+      "aadhar": "968295518470",
+      "address": "S/O Mukesh Kumar!Sirdilpur!!Ward No-10 Patori!!Samastipur Patory Patori!Bihar!848504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mukesh  Kumar",
+      "name": "Vikram  Kumar",
+      "num": "9931095089"
+    },
+    {
+      "aadhar": "968295518470",
+      "address": "S/O Mukesh Kumar!Sirdilpur!!Ward No-10 Patori!!Samastipur Patory Patori!Bihar!848504",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Mukesh  Kumar",
+      "name": "Vikram  Kumar",
+      "num": "9931095089"
+    }
+  ]
+}
