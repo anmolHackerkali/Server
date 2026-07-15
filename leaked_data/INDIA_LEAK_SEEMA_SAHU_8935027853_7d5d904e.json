@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 07:19:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8935027853",
+  "records": [
+    {
+      "aadhar": "962070036029",
+      "address": "!97 97!AMBEFKAR NSGAR!!Abholi Suriyawan!Sant Ravidas nagar!Sant Ravidas Nagar!Uttar Pradesh!221404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "GOPAL DAS GUPTA",
+      "name": "SEEMA SAHU",
+      "num": "8935027853"
+    },
+    {
+      "aadhar": "962070036029",
+      "address": "!97 97!AMBEFKAR NSGAR!!Abholi Suriyawan!Sant Ravidas nagar!Sant Ravidas Nagar!Uttar Pradesh!221404",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "GOPAL DAS GUPTA",
+      "name": "SEEMA SAHU",
+      "num": "8935027853"
+    }
+  ]
+}
