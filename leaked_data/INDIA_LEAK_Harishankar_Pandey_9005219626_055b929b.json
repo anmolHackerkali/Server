@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:27:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9005219626",
+  "records": [
+    {
+      "aadhar": "951180103738",
+      "address": "!Sahjanwabhiti rawat!!!Gorakhpur!Uttar Pradesh!273209",
+      "alt": "9005219626",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Sureman",
+      "name": "Harishankar Pandey",
+      "num": "9120751278"
+    },
+    {
+      "aadhar": "951180103738",
+      "address": "!Sahjanwabhiti rawat!!!Gorakhpur!Uttar Pradesh!273209",
+      "alt": "9005219626",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Ram Sureman",
+      "name": "Harishankar Pandey",
+      "num": "9120751278"
+    }
+  ]
+}
