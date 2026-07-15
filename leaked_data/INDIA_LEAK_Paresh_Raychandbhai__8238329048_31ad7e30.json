@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 19:52:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8238329048",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Raychandbhai Parmar sonal app. shantadevi road navsari  Navsari",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Raychandbhai Parmar",
+      "name": "Paresh Raychandbhai Parmar",
+      "num": "8238329048"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Raychandbhai Parmar sonal app. shantadevi road navsari  Navsari",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Raychandbhai Parmar",
+      "name": "Paresh Raychandbhai Parmar",
+      "num": "8238329048"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Raychandbhai Parmar!sonal app!shantadevi road navsari! Navsari!navsari!NAVSARI!Navsari!Gujarat!396445",
+      "alt": "8238329048",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Raychandbhai Parmar",
+      "name": "Paresh Raychandbhai Parmar",
+      "num": "7283940294"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Raychandbhai Parmar!sonal app!shantadevi road navsari! Navsari!navsari!NAVSARI!Navsari!Gujarat!396445",
+      "alt": "8238329048",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Raychandbhai Parmar",
+      "name": "Paresh Raychandbhai Parmar",
+      "num": "7283940294"
+    }
+  ]
+}
