@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:43:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8114048744",
+  "records": [
+    {
+      "aadhar": "683731284915",
+      "address": "s/o  suresh kumar!!SAI KA PURWA Darshan Nagar!DARSHAN NAGAR!sai ka purwa darshan nagar kudha keshavpur uparhar!darshan nagar Faizabad!faizabad!Uttar Pradesh!224135",
+      "alt": "8795563056",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suresh kumar",
+      "name": "Anurag Kumar",
+      "num": "8114048744"
+    },
+    {
+      "aadhar": "683731284915",
+      "address": "s/o  suresh kumar!!SAI KA PURWA Darshan Nagar!DARSHAN NAGAR!sai ka purwa darshan nagar kudha keshavpur uparhar!darshan nagar Faizabad!faizabad!Uttar Pradesh!224135",
+      "alt": "8795563056",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "suresh kumar",
+      "name": "Anurag Kumar",
+      "num": "8114048744"
+    }
+  ]
+}
