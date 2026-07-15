@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:32:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7860882540",
+  "records": [
+    {
+      "aadhar": "374763052610",
+      "address": " !455  ambedkar nagar!malihabad  Mall!Mall  Malihabad !MALL-LUCKNOW!UP!227115",
+      "alt": "9936652352",
+      "circle": null,
+      "email": null,
+      "fname": "BABU  LAL",
+      "name": "LALTI  .",
+      "num": "7860882540"
+    },
+    {
+      "aadhar": "374763052610",
+      "address": " !455  ambedkar nagar!malihabad  Mall!Mall  Malihabad !MALL-LUCKNOW!UP!227115",
+      "alt": "9936652352",
+      "circle": null,
+      "email": null,
+      "fname": "BABU  LAL",
+      "name": "LALTI  .",
+      "num": "7860882540"
+    }
+  ]
+}
