@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:38:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9564564186",
+  "records": [
+    {
+      "aadhar": "775757143008",
+      "address": "Sanat Kumar Halder!!Gumukhberia!!Uttar Shukdebpur- -South Twenty Four Parganas!West Bengal!743332",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Sanat Kumar Halder",
+      "name": "SUPRIYA HALDER",
+      "num": "9564564186"
+    },
+    {
+      "aadhar": "775757143008",
+      "address": "Sanat Kumar Halder!!Gumukhberia!!Uttar Shukdebpur- -South Twenty Four Parganas!West Bengal!743332",
+      "alt": null,
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Sanat Kumar Halder",
+      "name": "SUPRIYA HALDER",
+      "num": "9564564186"
+    }
+  ]
+}
