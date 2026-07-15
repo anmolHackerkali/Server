@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:53:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7053467181",
+  "records": [
+    {
+      "aadhar": "844930642636",
+      "address": "S/O Brij Mohan Poddar!!!NA!HN-101MANGLA PURI PHASE 1!PALAM South West Delhi!NA!Delhi!110045",
+      "alt": "9625328964",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Brij Mohan Poddar",
+      "name": "Sushil Kumar Poddar",
+      "num": "7053467181"
+    },
+    {
+      "aadhar": "844930642636",
+      "address": "S/O Brij Mohan Poddar!!!NA!HN-101MANGLA PURI PHASE 1!PALAMSouth West Delhi!NA!Delhi!110045",
+      "alt": "9625328964",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Brij Mohan Poddar",
+      "name": "Sushil Kumar Poddar",
+      "num": "7053467181"
+    },
+    {
+      "aadhar": "844930642636",
+      "address": "S/O Brij Mohan Poddar!!!NA!HN-101MANGLA PURI PHASE 1!PALAMSouth West Delhi!NA!Delhi!110045",
+      "alt": "9625328964",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Brij Mohan Poddar",
+      "name": "Sushil Kumar Poddar",
+      "num": "7053467181"
+    }
+  ]
+}
