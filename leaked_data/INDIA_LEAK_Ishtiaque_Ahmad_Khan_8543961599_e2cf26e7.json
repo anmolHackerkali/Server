@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:35:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8543961599",
+  "records": [
+    {
+      "aadhar": "502763715533",
+      "address": "!Mahender!!!Ghazipur!Uttar Pradesh!233228",
+      "alt": "9919545305",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mumtaz Ahmad Khan",
+      "name": "Ishtiaque Ahmad Khan",
+      "num": "8543961599"
+    },
+    {
+      "aadhar": "502763715533",
+      "address": "!Mahender!!!Ghazipur!Uttar Pradesh!233228",
+      "alt": "9919545305",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Mumtaz Ahmad Khan",
+      "name": "Ishtiaque Ahmad Khan",
+      "num": "8543961599"
+    }
+  ]
+}
