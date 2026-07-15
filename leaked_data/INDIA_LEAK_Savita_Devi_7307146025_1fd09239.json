@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:08:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7307146025",
+  "records": [
+    {
+      "aadhar": "477322475746",
+      "address": "w/o  raman!!Madhu Ban!!usari madhu ban!sultanpur barahgawa Madhuban!mau!Uttar Pradesh!221603",
+      "alt": "9795701498",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raman",
+      "name": "Savita Devi",
+      "num": "7307146025"
+    },
+    {
+      "aadhar": "477322475746",
+      "address": "w/o  raman!!Madhu Ban!!usari madhu ban!sultanpur barahgawa Madhuban!mau!Uttar Pradesh!221603",
+      "alt": "9795701498",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raman",
+      "name": "Savita Devi",
+      "num": "7307146025"
+    }
+  ]
+}
