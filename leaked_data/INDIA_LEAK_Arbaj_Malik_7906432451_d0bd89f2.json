@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:13:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906432451",
+  "records": [
+    {
+      "aadhar": "959091338000",
+      "address": "S/O Mohd Asgar!!Ward No 02Jaspur Khurd kudeshwari road KashipurNear Malik Genral Store!Kashipur!Jaspur KhurdUdham Singh Nagar!Uttarakhand!244713",
+      "alt": "+919756222507",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mohd Asgar",
+      "name": "Arbaj Malik",
+      "num": "7906432451"
+    }
+  ]
+}
