@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:31:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9998839854",
+  "records": [
+    {
+      "aadhar": "435979972547",
+      "address": "D/7 Gujarat Bharuch Maktampur Navi Nagari Bharuch  Bharuch",
+      "alt": "9724424073",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Ramakant Ramakant Chauhan",
+      "name": "Sukdev Ramakant Chauhan",
+      "num": "9998839854"
+    },
+    {
+      "aadhar": "435979972547",
+      "address": "D/7 Gujarat Bharuch Maktampur Navi Nagari Bharuch  Bharuch",
+      "alt": "9724424073",
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Ramakant Ramakant Chauhan",
+      "name": "Sukdev Ramakant Chauhan",
+      "num": "9998839854"
+    },
+    {
+      "aadhar": "435979972547",
+      "address": "! 01!Maktampur Post Office Faliyu!!Near Zadeswar Road!Bharuch!Bharuch!Gujarat!392011",
+      "alt": "9998839854",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ramakant chauhan",
+      "name": "Sukdev",
+      "num": "9316367287"
+    },
+    {
+      "aadhar": "435979972547",
+      "address": "! 01!Maktampur Post Office Faliyu!!Near Zadeswar Road!Bharuch!Bharuch!Gujarat!392011",
+      "alt": "9998839854",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ramakant chauhan",
+      "name": "Sukdev",
+      "num": "9316367287"
+    },
+    {
+      "aadhar": "435979972547",
+      "address": "! 01!Maktampur Post Office Faliyu!!Near Zadeswar Road!Bharuch!Bharuch!Gujarat!392011",
+      "alt": "9998839854",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "ramakant chauhan",
+      "name": "Sukdev",
+      "num": "9316367287"
+    }
+  ]
+}
