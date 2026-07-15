@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 20:36:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8861319612",
+  "records": [
+    {
+      "aadhar": "259003420309",
+      "address": " 23 Kalyanaykana Thanda Temple Hiremegalageri Davangere Davangere Karnataka 583125",
+      "alt": "6361777408",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "Jayaram Nayak",
+      "name": "Lokyanayka ",
+      "num": "8861319612"
+    },
+    {
+      "aadhar": "537358602500",
+      "address": "!BASAVANAPATTANA!SHRUNGAR BAG THANDA!!Sringarabagu Basavapatna Davanagere!Davangere!Davangere!Karnataka!577551",
+      "alt": "8861319612",
+      "circle": "AIRTEL KARNATKA",
+      "email": null,
+      "fname": "RAJANAYKA ",
+      "name": "BABY BAI",
+      "num": "7411304922"
+    }
+  ]
+}
