@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:11:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7061995981",
+  "records": [
+    {
+      "aadhar": "917681725556",
+      "address": "S/O  Ganesh Hembram!!Kuina!!Vill- kuiyani Post- kuiyani!Kuiani Patamda!East Singhbhum!Jharkhand!832105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ganesh Hembram",
+      "name": "Sunil Hembram",
+      "num": "7061995981"
+    },
+    {
+      "aadhar": "762587178293",
+      "address": "s/o  dayanal hussain!781!madhuban!mela bazaar!gulwara madhuban!madhuban!east champaran!Bihar!845420",
+      "alt": "7738659987",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dayanat hussain",
+      "name": "Nasi akhatar mansuri",
+      "num": "7061995981"
+    },
+    {
+      "aadhar": "917681725556",
+      "address": "S/O  Ganesh Hembram!!Kuina!!Vill- kuiyani Post- kuiyani!Kuiani Patamda!East Singhbhum!Jharkhand!832105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ganesh Hembram",
+      "name": "Sunil Hembram",
+      "num": "7061995981"
+    },
+    {
+      "aadhar": "762587178293",
+      "address": "s/o  dayanal hussain!781!madhuban!mela bazaar!gulwara madhuban!madhuban!east champaran!Bihar!845420",
+      "alt": "7738659987",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "dayanat hussain",
+      "name": "Nasi akhatar mansuri",
+      "num": "7061995981"
+    },
+    {
+      "aadhar": "917681725556",
+      "address": "S/O  Ganesh Hembram!!Kuina!!Vill- kuiyani Post- kuiyani!Kuiani Patamda!East Singhbhum!Jharkhand!832105",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ganesh Hembram",
+      "name": "Sunil Hembram",
+      "num": "7061995981"
+    }
+  ]
+}
