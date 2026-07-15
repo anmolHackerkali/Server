@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:10:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7991691307",
+  "records": [
+    {
+      "aadhar": "623284424250",
+      "address": "W/O Jagarnath!NARAULI!SADAR!NARUALI Azamgarh!Azamgarh!Uttar Pradesh!276001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jagarnath",
+      "name": "Radhika Devi",
+      "num": "7991691307"
+    },
+    {
+      "aadhar": "623284424250",
+      "address": "W/O Jagarnath!NARAULI!SADAR!NARUALI Azamgarh!Azamgarh!Uttar Pradesh!276001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jagarnath",
+      "name": "Radhika Devi",
+      "num": "7991691307"
+    }
+  ]
+}
