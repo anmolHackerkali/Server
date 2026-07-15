@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:01:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931957213",
+  "records": [
+    {
+      "aadhar": "526750409837",
+      "address": "S/O Md Yakub!sarayranjan purvi!!ramchandrapur ward no 12 Karihara!!Samastipur!Bihar!848132",
+      "alt": "8873123968",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md  Yakub",
+      "name": "Md  Irshad",
+      "num": "9931957213"
+    },
+    {
+      "aadhar": "526750409837",
+      "address": "S/O Md Yakub!sarayranjan purvi!!ramchandrapur ward no 12 Karihara!!Samastipur!Bihar!848132",
+      "alt": "8873123968",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Md  Yakub",
+      "name": "Md  Irshad",
+      "num": "9931957213"
+    },
+    {
+      "aadhar": "526750409837",
+      "address": "s/o  md yakub!!karihara!!ramchandrapur ward no  12!karihara Ujiarpur!samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "md yakub",
+      "name": "Md Irshad",
+      "num": "7903215427"
+    },
+    {
+      "aadhar": "773716962560",
+      "address": "W/O Rupesh Kewat! ward - 01!satanpur Satanpur!post - satanpur!thana - ujiarpur!Satanpur Ujiarpur!Samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Rupesh Kewat",
+      "name": "Sulekha Devi",
+      "num": "7488251217"
+    },
+    {
+      "aadhar": "526750409837",
+      "address": "s/o  md yakub!!karihara!!ramchandrapur ward no. 12!karihara Ujiarpur!samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "JIO BHR&JHR",
+      "email": "royvikashkumar000@gmail.com",
+      "fname": "md yakub",
+      "name": "Md Irshad",
+      "num": "7903215427"
+    },
+    {
+      "aadhar": "773716962560",
+      "address": "W/O Rupesh Kewat! ward - 01!satanpur Satanpur!post - satanpur!thana - ujiarpur!Satanpur Ujiarpur!Samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rupesh Kewat",
+      "name": "Sulekha Devi",
+      "num": "7488251217"
+    },
+    {
+      "aadhar": "526750409837",
+      "address": "s/o  md yakub!!karihara!!ramchandrapur ward no. 12!karihara Ujiarpur!samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "JIO BHR&JHR",
+      "email": "royvikashkumar000@gmail.com",
+      "fname": "md yakub",
+      "name": "Md Irshad",
+      "num": "7903215427"
+    },
+    {
+      "aadhar": "773716962560",
+      "address": "W/O Rupesh Kewat! ward - 01!satanpur Satanpur!post - satanpur!thana - ujiarpur!Satanpur Ujiarpur!Samastipur!Bihar!848132",
+      "alt": "9931957213",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Rupesh Kewat",
+      "name": "Sulekha Devi",
+      "num": "7488251217"
+    }
+  ]
+}
