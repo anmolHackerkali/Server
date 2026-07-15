@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:23:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8768959033",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "D/O Dipen Nandi!!. .!Dantan!Bhabanipur Paschim Medinipur!West Bengal!721426",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dipen Nandi",
+      "name": "Malabika Nandi",
+      "num": "8768959033"
+    },
+    {
+      "aadhar": "NA",
+      "address": "D/O Dipen Nandi!!. .!Dantan!Bhabanipur Paschim Medinipur!West Bengal!721426",
+      "alt": null,
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Dipen Nandi",
+      "name": "Malabika Nandi",
+      "num": "8768959033"
+    }
+  ]
+}
