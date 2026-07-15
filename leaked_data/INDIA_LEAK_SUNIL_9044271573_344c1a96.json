@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:43:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9044271573",
+  "records": [
+    {
+      "aadhar": "696175038580",
+      "address": "Kallu!kallu!chak devanand Naini PO!chak devanand naini allahabad!Naini!Allahabad!Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "KALLU",
+      "name": "SUNIL",
+      "num": "9044271573"
+    },
+    {
+      "aadhar": "696175038580",
+      "address": "Kallu!kallu!chak devanand Naini PO!chak devanand naini allahabad!Naini!Allahabad!Allahabad!Uttar Pradesh!211008",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "KALLU",
+      "name": "SUNIL",
+      "num": "9044271573"
+    }
+  ]
+}
