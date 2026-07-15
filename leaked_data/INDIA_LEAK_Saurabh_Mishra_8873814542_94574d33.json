@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:39:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8873814542",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Kamleshwar Mishra!!!VILL SINGAKALA POST SEWADIH PS RANKA!Siroi Khurd Garhwa!Jharkhand!822125",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Kamleshwar Mishra",
+      "name": "Saurabh Mishra",
+      "num": "8873814542"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Kamleshwar Mishra!!!VILL SINGAKALA POST SEWADIH PS RANKA!Siroi Khurd Garhwa!Jharkhand!822125",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": "smsaurabh0161@gmail.com",
+      "fname": "Kamleshwar Mishra",
+      "name": "Saurabh Mishra",
+      "num": "8873814542"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Kamleshwar Mishra!!!VILL SINGAKALA POST SEWADIH PS RANKA!Siroi Khurd Garhwa!Jharkhand!822125",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": "smsaurabh0161@gmail.com",
+      "fname": "Kamleshwar Mishra",
+      "name": "Saurabh Mishra",
+      "num": "8873814542"
+    }
+  ]
+}
