@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:35:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7979700840",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Shankar Roy!!azad nagar behind brb college!ward no-6!Mohanpur Samastipur!Bihar!848101",
+      "alt": "919867577557",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shankar Roy",
+      "name": "Rajan Kumar",
+      "num": "7979700840"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Shankar Roy!!azad nagar behind brb college!ward no-6!Mohanpur Samastipur!Bihar!848101",
+      "alt": "919867577557",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shankar Roy",
+      "name": "Rajan Kumar",
+      "num": "7979700840"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Shankar Roy!!azad nagar behind brb college!ward no-6!Mohanpur Samastipur!Bihar!848101",
+      "alt": "919867577557",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Shankar Roy",
+      "name": "Rajan Kumar",
+      "num": "7979700840"
+    }
+  ]
+}
