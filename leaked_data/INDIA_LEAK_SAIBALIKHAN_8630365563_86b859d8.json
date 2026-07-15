@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 15:11:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8630365563",
+  "records": [
+    {
+      "aadhar": "309028342585",
+      "address": "S/O LIYAKAT!biharigarh aurangzeb pur biharigarh haridwar!roorkeeBiharigarh!BIHARIGARH!roorkee!Aurangzeb PurRoorkee!Haridwar!Uttarakhand!247662",
+      "alt": "9719102373",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "LIYAKAT",
+      "name": "SAIBALIKHAN",
+      "num": "8630365563"
+    },
+    {
+      "aadhar": "309028342585",
+      "address": "S/O LIYAKAT! biharigarh aurangzeb pur biharigarh haridwar!roorkee Biharigarh!BIHARIGARH!roorkee!Aurangzeb Pur Roorkee!Haridwar!Uttarakhand!247662",
+      "alt": "9719102373",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "LIYAKAT",
+      "name": "SAIBALIKHAN",
+      "num": "8630365563"
+    },
+    {
+      "aadhar": "309028342585",
+      "address": "S/O LIYAKAT! biharigarh aurangzeb pur biharigarh haridwar!roorkee Biharigarh!BIHARIGARH!roorkee!Aurangzeb Pur Roorkee!Haridwar!Uttarakhand!247662",
+      "alt": "9719102373",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "LIYAKAT",
+      "name": "SAIBALIKHAN",
+      "num": "8630365563"
+    },
+    {
+      "aadhar": "391992581597",
+      "address": "W/O  Vikram!!Muzaffrabad!Tandamjra!!Muzaffarpur Behat!Saharanpur!Uttar Pradesh!247129",
+      "alt": "8630365563",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vikram",
+      "name": "Sharno Devi",
+      "num": "9760220802"
+    },
+    {
+      "aadhar": "391992581597",
+      "address": "W/O  Vikram!!Muzaffrabad!Tandamjra!!Muzaffarpur Behat!Saharanpur!Uttar Pradesh!247129",
+      "alt": "8630365563",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Vikram",
+      "name": "Sharno Devi",
+      "num": "9760220802"
+    }
+  ]
+}
