@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 05:30:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9508699964",
+  "records": [
+    {
+      "aadhar": "812081158151",
+      "address": "S/O Raghunath Prasad Gupta!!main road!MAIN ROAD!VILL- HATGAMARIA PO-HATGAMARIA!HATGAMHARIA!Pashchimi Singhbhum!Jharkhand!833214",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raghunath Prasad Gupta",
+      "name": "Ashlesh Kumar",
+      "num": "9508699964"
+    },
+    {
+      "aadhar": "812081158151",
+      "address": "S/O Raghunath Prasad Gupta!!main road!MAIN ROAD!VILL- HATGAMARIA PO-HATGAMARIA!HATGAMHARIA!Pashchimi Singhbhum!Jharkhand!833214",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raghunath Prasad Gupta",
+      "name": "Ashlesh Kumar",
+      "num": "9508699964"
+    },
+    {
+      "aadhar": "812081158151",
+      "address": "S/O Raghunath Prasad Gupta!!main road!MAIN ROAD!VILL- HATGAMARIA PO-HATGAMARIA!HATGAMHARIA!Pashchimi Singhbhum!Jharkhand!833214",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Raghunath Prasad Gupta",
+      "name": "Ashlesh Kumar",
+      "num": "9508699964"
+    }
+  ]
+}
