@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:06:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9798479351",
+  "records": [
+    {
+      "aadhar": "780681576985",
+      "address": "S/O  Radhe Mandal!! Hasai!NA!Deodar!Hasai Dhuraiya Banka!NA!Bihar!813205",
+      "alt": "6204587713",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Radhe Mandal",
+      "name": "Mithun Kumar",
+      "num": "9798479351"
+    },
+    {
+      "aadhar": "780681576985",
+      "address": "S/O  Radhe Mandal!! Hasai!NA!Deodar!Hasai Dhuraiya Banka!NA!Bihar!813205",
+      "alt": "6204587713",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Radhe Mandal",
+      "name": "Mithun Kumar",
+      "num": "9798479351"
+    },
+    {
+      "aadhar": "780681576985",
+      "address": "S/O  Radhe Mandal!! Hasai!NA!Deodar!Hasai Dhuraiya Banka!NA!Bihar!813205",
+      "alt": "6204587713",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Radhe Mandal",
+      "name": "Mithun Kumar",
+      "num": "9798479351"
+    }
+  ]
+}
