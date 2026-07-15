@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 01:40:18",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939016805",
+  "records": [
+    {
+      "aadhar": "364008729892",
+      "address": "!37  124!Erki deo Orangabad bihar!near dev mandir!Bahuara!Gaya aurangabad bh!Gaya!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9939016805"
+    },
+    {
+      "aadhar": "364008729892",
+      "address": "!37  124!Erki deo Orangabad bihar!near dev mandir!Bahuara!Gaya aurangabad bh!Gaya!Bihar!824201",
+      "alt": "6281950668",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Padum sav",
+      "name": "Kamlesh Kumar",
+      "num": "9939016805"
+    }
+  ]
+}
