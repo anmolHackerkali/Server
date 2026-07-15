@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:41:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9931539279",
+  "records": [
+    {
+      "aadhar": "758105885384",
+      "address": "S/O Bachhan Choudhary!chhapiya buzurg Chhapiya Buzurg!!!!Siwan!Bihar!841226",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bachhan  Choudhary",
+      "name": "Krishna  Kumar",
+      "num": "9931539279"
+    },
+    {
+      "aadhar": "758105885384",
+      "address": "S/O Bachhan Choudhary!chhapiya buzurg Chhapiya Buzurg!!!!Siwan!Bihar!841226",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Bachhan  Choudhary",
+      "name": "Krishna  Kumar",
+      "num": "9931539279"
+    },
+    {
+      "aadhar": "758105885384",
+      "address": "!  !s/o bachhan choudhary chhapiya buzurg siwan!near by durga mandir!siwan!Siwan!Siwan!Bihar!841226",
+      "alt": "9931539279",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "bachhan choudhary",
+      "name": "Krishna Kumar",
+      "num": "6203686906"
+    },
+    {
+      "aadhar": "Fny1284330",
+      "address": "1!Ahardih Po Mirjaganj Ps 330!Giridih!Giridih!Jharkhand!815315",
+      "alt": "9931539279",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dular  Singh",
+      "name": "Ravindra  Singh",
+      "num": "7033234673"
+    },
+    {
+      "aadhar": "758105885384",
+      "address": "! .!s/o bachhan choudhary chhapiya buzurg siwan!near by durga mandir!siwan!Siwan!Siwan!Bihar!841226",
+      "alt": "9931539279",
+      "circle": "JIO BHR&JHR",
+      "email": "krishnakr9710@gmail.com",
+      "fname": "bachhan choudhary",
+      "name": "Krishna Kumar",
+      "num": "6203686906"
+    },
+    {
+      "aadhar": "Fny1284330",
+      "address": "1!Ahardih Po Mirjaganj Ps 330!Giridih!Giridih!Jharkhand!815315",
+      "alt": "9931539279",
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Dular  Singh",
+      "name": "Ravindra  Singh",
+      "num": "7033234673"
+    },
+    {
+      "aadhar": "758105885384",
+      "address": "! .!s/o bachhan choudhary chhapiya buzurg siwan!near by durga mandir!siwan!Siwan!Siwan!Bihar!841226",
+      "alt": "9931539279",
+      "circle": "JIO BHR&JHR",
+      "email": "krishnakr9710@gmail.com",
+      "fname": "bachhan choudhary",
+      "name": "Krishna Kumar",
+      "num": "6203686906"
+    }
+  ]
+}
