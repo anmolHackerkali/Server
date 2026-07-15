@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:14:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8439133108",
+  "records": [
+    {
+      "aadhar": "592909304715",
+      "address": "C/O  Chetan Kori!134!mohalla ghdhi mohalla garhi!mohalla garhi!Pikhuwa HAPUR GHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "7055673415",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chetan Kori",
+      "name": "MS  PUNAM  ",
+      "num": "8439133108"
+    },
+    {
+      "aadhar": "592909304715",
+      "address": "C/O: Chetan Kori!134!mohalla ghdhimohalla garhi!mohalla garhi!Pikhuwa HAPURGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "7055673415",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chetan Kori",
+      "name": "MS PUNAM ",
+      "num": "8439133108"
+    },
+    {
+      "aadhar": "592909304715",
+      "address": "C/O: Chetan Kori!134!mohalla ghdhimohalla garhi!mohalla garhi!Pikhuwa HAPURGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "7055673415",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chetan Kori",
+      "name": "MS PUNAM ",
+      "num": "8439133108"
+    },
+    {
+      "aadhar": "592909304715",
+      "address": "C/O  Chetan Kori!134!mohalla ghdhi!mohalla ghdhi!mohalla garhi Pikhuwa GHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chatan Kori",
+      "name": "MS  PUNAM  ",
+      "num": "8860383671"
+    },
+    {
+      "aadhar": "986841389982",
+      "address": "S/O  Harswar up !134 !mohalla ghdhi Pilkhuwa!mohalla ghdhi Pilkhuwa!Pilknu eha Ghazabad  GHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Harswarup",
+      "name": "MR  AKASH  ",
+      "num": "8860319037"
+    },
+    {
+      "aadhar": "592909304715",
+      "address": "C/O: Chetan Kori!134!mohalla ghdhi!mohalla ghdhi!mohalla garhi PikhuwaGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chatan Kori",
+      "name": "MS PUNAM ",
+      "num": "8860383671"
+    },
+    {
+      "aadhar": "986841389982",
+      "address": "S/O: Harswar up!134!mohalla ghdhi Pilkhuwa!mohalla ghdhi Pilkhuwa!Pilknu eha GhazabadGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Harswarup",
+      "name": "MR AKASH ",
+      "num": "8860319037"
+    },
+    {
+      "aadhar": "592909304715",
+      "address": "C/O: Chetan Kori!134!mohalla ghdhi!mohalla ghdhi!mohalla garhi PikhuwaGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Chatan Kori",
+      "name": "MS PUNAM ",
+      "num": "8860383671"
+    },
+    {
+      "aadhar": "986841389982",
+      "address": "S/O: Harswar up!134!mohalla ghdhi Pilkhuwa!mohalla ghdhi Pilkhuwa!Pilknu eha GhazabadGHAZIABAD!GHAZIABAD!GHAZIABAD!UTTAR PRADESH!245304",
+      "alt": "8439133108",
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "Harswarup",
+      "name": "MR AKASH ",
+      "num": "8860319037"
+    }
+  ]
+}
