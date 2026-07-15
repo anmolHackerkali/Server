@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:00:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9880060053",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Thimme Gowda K H!!No 21 11th Cross 2nd Main Road Behind Sri Krishna Bhavan Hotel!Muneshwara Badavane Laggere!Bangalore North Bengaluru!Karnataka!560058",
+      "alt": "919964491426",
+      "circle": "JIO KARNATKA",
+      "email": null,
+      "fname": "Thimme Gowda K H",
+      "name": "Chandrashekar K T",
+      "num": "9880060053"
+    }
+  ]
+}
