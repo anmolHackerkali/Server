@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 06:52:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9908234189",
+  "records": [
+    {
+      "aadhar": "925366418124",
+      "address": "Shaikh Kamaluddin 9-4-181!banjari darwaza seven tombs road golconda!!Golconda Hyderabad!Hyderabad!HYDERABAD!Telangana!500008",
+      "alt": null,
+      "circle": "AIRTEL TELANGANA & A",
+      "email": null,
+      "fname": "Shaikh Kamaluddin",
+      "name": "Shaik Zaheer Uddin",
+      "num": "9908234189"
+    }
+  ]
+}
