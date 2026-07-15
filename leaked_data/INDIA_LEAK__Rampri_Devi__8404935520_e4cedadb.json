@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:59:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8404935520",
+  "records": [
+    {
+      "aadhar": "238006451037",
+      "address": " naivachak!Bhagwatpur!!Samastipur Bhagwatpur!Samastipur!Samastipur!Bihar!848127 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajay Thakur ",
+      "name": " Rampri Devi ",
+      "num": "8404935520"
+    },
+    {
+      "aadhar": "238006451037",
+      "address": " naivachak!Bhagwatpur!!Samastipur Bhagwatpur!Samastipur!Samastipur!Bihar!848127 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ajay Thakur ",
+      "name": " Rampri Devi ",
+      "num": "8404935520"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ajay Thakur! ! !nauachak Samastipur!!MANIKPUR B O - SPR!Samastipur!BIHAR!848127",
+      "alt": "8404935520",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Ajay Thakur",
+      "name": "Amarnath Kumar",
+      "num": "8674899560"
+    },
+    {
+      "aadhar": "911204500727",
+      "address": " S/O Sukhdev Thakur 43naua chak  Bhagwatpur  Sarairanjan 43naua chak  Bhagwatpur  Sarairanjan naua chak  Bhagwatpur  Sarairanjan nauachak naua chak  Bhagwatpur  Sarairanjan BHAGWATPUR-SAMASTIPUR SAMAS",
+      "alt": "8404935520",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUKHDEV  THAKUR ",
+      "name": " RAM KARAN THAKUR ",
+      "num": "8317725535"
+    },
+    {
+      "aadhar": "911204500727",
+      "address": " S/O Sukhdev Thakur 43naua chak  Bhagwatpur  Sarairanjan 43naua chak  Bhagwatpur  Sarairanjan naua chak  Bhagwatpur  Sarairanjan nauachak naua chak  Bhagwatpur  Sarairanjan BHAGWATPUR-SAMASTIPUR SAMAS",
+      "alt": "8404935520",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUKHDEV  THAKUR ",
+      "name": " RAM KARAN THAKUR ",
+      "num": "8317725528"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ajay Thakur! ! !nauachak Samastipur!!MANIKPUR B O - SPR!Samastipur!BIHAR!848127",
+      "alt": "8404935520",
+      "circle": "VODA BHR&JHR",
+      "email": null,
+      "fname": "S/O  Ajay Thakur",
+      "name": "Amarnath Kumar",
+      "num": "8674899560"
+    },
+    {
+      "aadhar": "911204500727",
+      "address": " S/O Sukhdev Thakur 43naua chak  Bhagwatpur  Sarairanjan 43naua chak  Bhagwatpur  Sarairanjan naua chak  Bhagwatpur  Sarairanjan nauachak naua chak  Bhagwatpur  Sarairanjan BHAGWATPUR-SAMASTIPUR SAMAS",
+      "alt": "8404935520",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUKHDEV  THAKUR ",
+      "name": " RAM KARAN THAKUR ",
+      "num": "8317725535"
+    },
+    {
+      "aadhar": "911204500727",
+      "address": " S/O Sukhdev Thakur 43naua chak  Bhagwatpur  Sarairanjan 43naua chak  Bhagwatpur  Sarairanjan naua chak  Bhagwatpur  Sarairanjan nauachak naua chak  Bhagwatpur  Sarairanjan BHAGWATPUR-SAMASTIPUR SAMAS",
+      "alt": "8404935520",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SUKHDEV  THAKUR ",
+      "name": " RAM KARAN THAKUR ",
+      "num": "8317725528"
+    }
+  ]
+}
