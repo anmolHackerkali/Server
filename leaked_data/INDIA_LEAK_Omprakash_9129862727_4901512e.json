@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:13:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129862727",
+  "records": [
+    {
+      "aadhar": "971372596894",
+      "address": "!123!Bhaluwahi!!Badlapur!Jaunpur!Jaunpur!Uttar Pradesh!222125",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lal Ji",
+      "name": "Omprakash",
+      "num": "9129862727"
+    },
+    {
+      "aadhar": "971372596894",
+      "address": "!123!Bhaluwahi!!Badlapur!Jaunpur!Jaunpur!Uttar Pradesh!222125",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Lal Ji",
+      "name": "Omprakash",
+      "num": "9129862727"
+    }
+  ]
+}
