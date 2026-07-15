@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 18:05:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7060637331",
+  "records": [
+    {
+      "aadhar": "389745922704",
+      "address": "s/o kamil khan!near koka kola agency Gularghati!ramnagar range Nanital uttrakhnd!near koka kola agency!gularghatti!ramnagar range!nainital!Uttarakhand!244715",
+      "alt": "7820076900",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kamil khan",
+      "name": "Aamir Khan  ",
+      "num": "7060637331"
+    },
+    {
+      "aadhar": "389745922704",
+      "address": "s/o kamil khan!gularghatti Rammagar range nainital uttrakhanad!gularghatti Rammagar range nainital uttrakhanad!near koka kola agency!gularghatti Rammagar range nainital uttrakhanad!ramnagar range!nain",
+      "alt": "7060637331",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kamil khan",
+      "name": "Aamir Khan  ",
+      "num": "9548199447"
+    },
+    {
+      "aadhar": "679590544091",
+      "address": "s/o   kheem singh!!!!talla pali daula!pale!almora!Uttarakhand!263660",
+      "alt": "7060637331",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kheem singh",
+      "name": "Chandan Singh  ",
+      "num": "8630059206"
+    },
+    {
+      "aadhar": "389745922704",
+      "address": "s/o kamil khan!near koka kola agency Gularghatti Ramnagar Range nainital ut!near koka kola agency Gularghatti Ramnagar Range nainital ut!near koka kola agency Gularghatti Ramnagar Range nainital ut!gu",
+      "alt": "7060637331",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "kamil khan",
+      "name": "Aamir Khan  ",
+      "num": "7456037221"
+    }
+  ]
+}
