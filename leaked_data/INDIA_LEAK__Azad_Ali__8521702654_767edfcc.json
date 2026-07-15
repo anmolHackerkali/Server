@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:48:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8521702654",
+  "records": [
+    {
+      "aadhar": "225312638729",
+      "address": " Vill- Mahuwal bajar!Post Badram!!Mahual Badram!Siwan!Siwan!Bihar!841241 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Imtayaz Ali ",
+      "name": " Azad Ali ",
+      "num": "8521702654"
+    },
+    {
+      "aadhar": "225312638729",
+      "address": " Vill- Mahuwal bajar!Post Badram!!Mahual Badram!Siwan!Siwan!Bihar!841241 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Imtayaz Ali ",
+      "name": " Azad Ali ",
+      "num": "8521702654"
+    }
+  ]
+}
