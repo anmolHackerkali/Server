@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:44:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9726807577",
+  "records": [
+    {
+      "aadhar": "410861366733",
+      "address": "S/O  Bhaljibhai!!A 20 P N  Park Socyti Mandvi Mandvi Sr!NA!Mandvi!Mandvi Mandvi Surat!NA!Gujarat!394160",
+      "alt": "9925105491",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhaljibhai",
+      "name": "Chaudhari Sajitbhai",
+      "num": "9726807577"
+    },
+    {
+      "aadhar": "410861366733",
+      "address": "S/O  Bhaljibhai!!A 20 P.N .Park Socyti Mandvi Mandvi Sr!NA!Mandvi!Mandvi Mandvi Surat!NA!Gujarat!394160",
+      "alt": "9925105491",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhaljibhai",
+      "name": "Chaudhari Sajitbhai",
+      "num": "9726807577"
+    },
+    {
+      "aadhar": "410861366733",
+      "address": "S/O  Bhaljibhai!!A 20 P.N .Park Socyti Mandvi Mandvi Sr!NA!Mandvi!Mandvi Mandvi Surat!NA!Gujarat!394160",
+      "alt": "9925105491",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Bhaljibhai",
+      "name": "Chaudhari Sajitbhai",
+      "num": "9726807577"
+    }
+  ]
+}
