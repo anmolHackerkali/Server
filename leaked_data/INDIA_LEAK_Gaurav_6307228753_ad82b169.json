@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:38:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6307228753",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Jitendra Kumar!!chauk!jarwal kasba!JarwalGramin Bahraich!Uttar Pradesh!271904",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jitendra Kumar",
+      "name": "Gaurav",
+      "num": "6307228753"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Jitendra Kumar!!chauk!jarwal kasba!JarwalGramin Bahraich!Uttar Pradesh!271904",
+      "alt": null,
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jitendra Kumar",
+      "name": "Gaurav",
+      "num": "6307228753"
+    }
+  ]
+}
