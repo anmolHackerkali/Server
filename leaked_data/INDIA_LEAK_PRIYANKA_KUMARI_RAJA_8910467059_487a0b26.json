@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:34:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8910467059",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " D/O Mangru Rajak!!35/2/1 MADHUSUDAN PAL CHOUDHARY 1ST BYE LANE KADAMTALA!!Haora Corporation Haora!West Bengal!711101 ",
+      "alt": "918335921143",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mangru Rajak",
+      "name": "PRIYANKA KUMARI RAJAK",
+      "num": "8910467059"
+    },
+    {
+      "aadhar": null,
+      "address": " D/O Mangru Rajak!!35/2/1 MADHUSUDAN PAL CHOUDHARY 1ST BYE LANE KADAMTALA!!Haora Corporation Haora!West Bengal!711101 ",
+      "alt": "918335921143",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "Mangru Rajak",
+      "name": "PRIYANKA KUMARI RAJAK",
+      "num": "8910467059"
+    }
+  ]
+}
