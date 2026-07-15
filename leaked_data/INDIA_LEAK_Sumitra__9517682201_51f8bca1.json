@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 11:12:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9517682201",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Gopal!.!.!Asothar Fatehpur!!Fatehpur!UTTAR PRADESH!212620",
+      "alt": "9889894545",
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Gopal",
+      "name": "Sumitra ",
+      "num": "9517682201"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Gopal!.!.!Asothar Fatehpur!!Fatehpur!UTTAR PRADESH!212620",
+      "alt": "9889894545",
+      "circle": null,
+      "email": null,
+      "fname": "W/O: Gopal",
+      "name": "Sumitra ",
+      "num": "9517682201"
+    }
+  ]
+}
