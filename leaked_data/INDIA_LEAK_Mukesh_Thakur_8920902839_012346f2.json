@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 09:56:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8920902839",
+  "records": [
+    {
+      "aadhar": "357705504113",
+      "address": "!rza-10!phase 1 shivani enclave!!dwarka!New Delhi West!South West!Delhi!110078",
+      "alt": "9911964150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam sunder thakur",
+      "name": "Mukesh Thakur",
+      "num": "8920902839"
+    },
+    {
+      "aadhar": "357705504113",
+      "address": "!rza-10!phase 1 shivani enclave!!dwarka!New Delhi West!South West!Delhi!110078",
+      "alt": "9911964150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam sunder thakur",
+      "name": "Mukesh Thakur",
+      "num": "8920902839"
+    },
+    {
+      "aadhar": "357705504113",
+      "address": "!rza-10!phase 1 shivani enclave!!dwarka!New Delhi West!South West!Delhi!110078",
+      "alt": "9911964150",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shyam sunder thakur",
+      "name": "Mukesh Thakur",
+      "num": "8920902839"
+    },
+    {
+      "aadhar": "570306013129",
+      "address": "!127 Dwarka vihar!dharam pura gali no 3!!najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8920902839",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kailash chand",
+      "name": "Shalini",
+      "num": "9318326988"
+    },
+    {
+      "aadhar": "570306013129",
+      "address": "!127 Dwarka vihar!dharam pura gali no 3!!najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8920902839",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kailash chand",
+      "name": "Shalini",
+      "num": "9318326988"
+    },
+    {
+      "aadhar": "570306013129",
+      "address": "!127 Dwarka vihar!dharam pura gali no 3!!najafgarh!New Delhi West!South West!Delhi!110043",
+      "alt": "8920902839",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "kailash chand",
+      "name": "Shalini",
+      "num": "9318326988"
+    }
+  ]
+}
