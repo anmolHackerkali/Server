@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 10:26:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8927707633",
+  "records": [
+    {
+      "aadhar": "606807267095",
+      "address": "!Jamgeria!Banka!mandir!West Midnapore!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SANATAN GHOSH",
+      "name": "SOMNATH GHOSH",
+      "num": "8927707633"
+    },
+    {
+      "aadhar": "606807267095",
+      "address": "!Jamgeria!Banka!mandir!West Midnapore!Paschim Medinipur!WEST MIDNAPORE!West Bengal!721201",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "SANATAN GHOSH",
+      "name": "SOMNATH GHOSH",
+      "num": "8927707633"
+    }
+  ]
+}
