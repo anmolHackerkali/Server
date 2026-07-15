@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 16:33:45",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8236080249",
+  "records": [
+    {
+      "aadhar": "853256430205",
+      "address": "!H.NO.289!Jai Bhim nagar ki Jhuggiya Panchshil nagar!!Panchsheel nagar!Huzur!BHOPAL!Madhya Pradesh!462003",
+      "alt": "7049851579",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Kishanlal",
+      "name": "Sushil Kumar",
+      "num": "8236080249"
+    }
+  ]
+}
