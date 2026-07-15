@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 08:50:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9693768015",
+  "records": [
+    {
+      "aadhar": "507423376933",
+      "address": "haji niyajuddin tola!Jamnagar!!Sahebganj Jamnager!Sahibganj!Sahibganj!Jharkhand!816108",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sher Mohammad",
+      "name": "Shadeja Bibi",
+      "num": "9693768015"
+    },
+    {
+      "aadhar": "507423376933",
+      "address": "haji niyajuddin tola!Jamnagar!!Sahebganj Jamnager!Sahibganj!Sahibganj!Jharkhand!816108",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Sher Mohammad",
+      "name": "Shadeja Bibi",
+      "num": "9693768015"
+    }
+  ]
+}
