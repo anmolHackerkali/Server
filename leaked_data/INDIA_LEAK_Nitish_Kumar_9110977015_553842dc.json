@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 17:35:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9110977015",
+  "records": [
+    {
+      "aadhar": "671215252970",
+      "address": "S/O  Ashok Mandal! ward no 05!Shah Alam Nagar!!auradih!Alamnagar Alamnagar!Madhepura!Bihar!852210",
+      "alt": "8130562489",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ashok Mandal",
+      "name": "Nitish Kumar",
+      "num": "9110977015"
+    },
+    {
+      "aadhar": "671215252970",
+      "address": "S/O  Ashok Mandal! ward no 05!Shah Alam Nagar!!auradih!Alamnagar Alamnagar!Madhepura!Bihar!852210",
+      "alt": "8130562489",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ashok Mandal",
+      "name": "Nitish Kumar",
+      "num": "9110977015"
+    },
+    {
+      "aadhar": "671215252970",
+      "address": "S/O  Ashok Mandal! ward no 05!Shah Alam Nagar!!auradih!Alamnagar Alamnagar!Madhepura!Bihar!852210",
+      "alt": "8130562489",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ashok Mandal",
+      "name": "Nitish Kumar",
+      "num": "9110977015"
+    },
+    {
+      "aadhar": "776323786223",
+      "address": "S/O Mahendra Rajak!!jamalpur Satbahini Gamharia!!Po. Gamharia Thana- Adityapur!Gamharia!Seraikela-kharsawan!Jharkhand!832108",
+      "alt": "9110977015",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Mahendra Rajak",
+      "name": "Love Kishor Rajak",
+      "num": "7261841477"
+    },
+    {
+      "aadhar": "776323786223",
+      "address": "S/O Mahendra Rajak!!jamalpur Satbahini Gamharia!!Po. Gamharia Thana- Adityapur!Gamharia!Seraikela-kharsawan!Jharkhand!832108",
+      "alt": "9110977015",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Mahendra Rajak",
+      "name": "Love Kishor Rajak",
+      "num": "7261841477"
+    },
+    {
+      "aadhar": "776323786223",
+      "address": "S/O Mahendra Rajak!!jamalpur Satbahini Gamharia!!Po. Gamharia Thana- Adityapur!Gamharia!Seraikela-kharsawan!Jharkhand!832108",
+      "alt": "9110977015",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Mahendra Rajak",
+      "name": "Love Kishor Rajak",
+      "num": "7261841477"
+    },
+    {
+      "aadhar": "776323786223",
+      "address": "S/O Mahendra Rajak!!jamalpur Satbahini Gamharia!!Po. Gamharia Thana- Adityapur!Gamharia!Seraikela-kharsawan!Jharkhand!832108",
+      "alt": "9110977015",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Mahendra Rajak",
+      "name": "Love Kishor Rajak",
+      "num": "7261841477"
+    }
+  ]
+}
