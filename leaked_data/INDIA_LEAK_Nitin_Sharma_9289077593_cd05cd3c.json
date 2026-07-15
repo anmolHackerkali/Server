@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:08:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9289077593",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O J L  Sharma!C-801!Elite Homz!Sector-77!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "J L  Sharma",
+      "name": "Nitin Sharma",
+      "num": "9289077593"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O JL Sharma!C-801!Elite Homz!Sector-77!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "JL Sharma",
+      "name": "Nitin Sharma",
+      "num": "9289077593"
+    },
+    {
+      "aadhar": "819234522382",
+      "address": "!88!Kirti Nagar!!Kirti Nagar!Delhi!West Delhi!Delhi!110015",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Abdul Kalam",
+      "name": "Faim",
+      "num": "9289077593"
+    },
+    {
+      "aadhar": "819234522382",
+      "address": "!88!Kirti Nagar!!Kirti Nagar!Delhi!West Delhi!Delhi!110015",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Abdul Kalam",
+      "name": "Faim",
+      "num": "9289077593"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O JL Sharma!C-801!Elite Homz!Sector-77!NoidaGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "JL Sharma",
+      "name": "Nitin Sharma",
+      "num": "9289077593"
+    },
+    {
+      "aadhar": "819234522382",
+      "address": "!B17!Timber Market!!Kirti Nagar!New Delhi West!West!Delhi!110015",
+      "alt": "9289077593",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Abdul Kalam",
+      "name": "Faim  ",
+      "num": "7065275056"
+    },
+    {
+      "aadhar": "819234522382",
+      "address": "!B17!Timber Market!!Kirti Nagar!New Delhi West!West!Delhi!110015",
+      "alt": "9289077593",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Abdul Kalam",
+      "name": "Faim  ",
+      "num": "7065275056"
+    },
+    {
+      "aadhar": "819234522382",
+      "address": "!B17!Timber Market!!Kirti Nagar!New Delhi West!West!Delhi!110015",
+      "alt": "9289077593",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Abdul Kalam",
+      "name": "Faim  ",
+      "num": "7065275056"
+    }
+  ]
+}
