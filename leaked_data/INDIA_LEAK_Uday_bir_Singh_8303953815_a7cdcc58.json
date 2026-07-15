@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 04:55:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303953815",
+  "records": [
+    {
+      "aadhar": "260930708135",
+      "address": "!!0 Lahbar pur laglesra!NA!safipur!MIYAGANJ Unnao!NA!Uttar Pradesh!241503",
+      "alt": "9792737354",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ajarayal Singh",
+      "name": "Uday bir Singh",
+      "num": "8303953815"
+    },
+    {
+      "aadhar": "260930708135",
+      "address": "!!0 Lahbar pur laglesra!NA!safipur!MIYAGANJ Unnao!NA!Uttar Pradesh!241503",
+      "alt": "9792737354",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ajarayal Singh",
+      "name": "Uday bir Singh",
+      "num": "8303953815"
+    },
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PURUNNAO!UNNAO!LaglaisraUNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR. YUG PRATAP SINGH",
+      "num": "7084830395"
+    },
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PUR UNNAO!UNNAO!Laglaisra UNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR YUG PRATAP SINGH",
+      "num": "7084830395"
+    },
+    {
+      "aadhar": "530500046075",
+      "address": "!Laglaisra!LAHABAR PUR UNNAO!UNNAO!Laglaisra UNNAO!UNNAO!UTTAR PRADESH!241503",
+      "alt": "8303953815",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Udaibeer Singh",
+      "name": "MR YUG PRATAP SINGH",
+      "num": "7084830395"
+    }
+  ]
+}
