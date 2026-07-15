@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 14:38:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9924093101",
+  "records": [
+    {
+      "aadhar": "928149220254",
+      "address": "!disa mukhya dak ghar!kant road hanuman mandir pase Disa Mukhya Dak Ghar!!kant road hanuman mandir pase!deesa Deesa!banaskantha!Gujarat!385535",
+      "alt": "9712583888",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "amratlal",
+      "name": "Nirav Amartlal Kachhava",
+      "num": "9924093101"
+    },
+    {
+      "aadhar": "928149220254",
+      "address": "!disa mukhya dak ghar!kant road hanuman mandir pase Disa Mukhya Dak Ghar!!kant road hanuman mandir pase!deesa Deesa!banaskantha!Gujarat!385535",
+      "alt": "9712583888",
+      "circle": "JIO GUJARAT",
+      "email": "nirav.bhagwati@gmail.com",
+      "fname": "amratlal",
+      "name": "Nirav Amartlal Kachhava",
+      "num": "9924093101"
+    },
+    {
+      "aadhar": "928149220254",
+      "address": "!disa mukhya dak ghar!kant road hanuman mandir pase Disa Mukhya Dak Ghar!!kant road hanuman mandir pase!deesa Deesa!banaskantha!Gujarat!385535",
+      "alt": "9712583888",
+      "circle": "JIO GUJARAT",
+      "email": "nirav.bhagwati@gmail.com",
+      "fname": "amratlal",
+      "name": "Nirav Amartlal Kachhava",
+      "num": "9924093101"
+    }
+  ]
+}
