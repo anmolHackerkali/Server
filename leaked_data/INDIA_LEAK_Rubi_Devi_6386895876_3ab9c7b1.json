@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:36:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6386895876",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O: Dinesh!!! kamasin Kamasin!Banda!Uttar Pradesh!210125",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dinesh",
+      "name": "Rubi Devi",
+      "num": "6386895876"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O: Dinesh!!! kamasin Kamasin!Banda!Uttar Pradesh!210125",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dinesh",
+      "name": "Rubi Devi",
+      "num": "6386895876"
+    }
+  ]
+}
