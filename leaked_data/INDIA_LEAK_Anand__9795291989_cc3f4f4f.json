@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 12:03:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9795291989",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Shivchand!.!.!mahdaur ka pura Azamgarh!!Azamgarh!UTTAR PRADESH!276122",
+      "alt": "9795662906",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shivchand",
+      "name": "Anand ",
+      "num": "9795291989"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Shivchand!.!.!mahdaur ka pura Azamgarh!!Azamgarh!UTTAR PRADESH!276122",
+      "alt": "9795662906",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Shivchand",
+      "name": "Anand ",
+      "num": "9795291989"
+    }
+  ]
+}
