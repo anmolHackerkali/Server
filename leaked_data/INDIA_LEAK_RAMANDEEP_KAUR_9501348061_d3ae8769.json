@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 03:32:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9501348061",
+  "records": [
+    {
+      "aadhar": "610161763310",
+      "address": "D/O: DHANNA SINGH!BHAGTHALA KHURD!!!FARIDKOT!PUNJAB!151203",
+      "alt": "NA",
+      "circle": "PUNJAB",
+      "email": null,
+      "fname": "DHANNA SINGH",
+      "name": "RAMANDEEP KAUR",
+      "num": "9501348061"
+    },
+    {
+      "aadhar": "610161763310",
+      "address": "!D/O: Dhanna Singh !Bhagthala Khurd Bhagthala Kalan Faridkot!pco!Bhagthala Kalan Faridkotpco!AHIL-FARIDKOT!FARIDKOT!PB!151203",
+      "alt": "9501348061",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "DHANNA SINGH",
+      "name": "RAMANDEEP KAUR",
+      "num": "7527992013"
+    }
+  ]
+}
