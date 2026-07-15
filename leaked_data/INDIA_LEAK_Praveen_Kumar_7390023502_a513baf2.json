@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-15 13:30:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7390023502",
+  "records": [
+    {
+      "aadhar": "667244518053",
+      "address": "s/o  akhilesh kumar! DEVLI!LACHCHHIPUR!RAEBARELI!- devli lachchhipur raebareli!semari Lalganj!rae bareli!Uttar Pradesh!229211",
+      "alt": "9792544776",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "akhilesh kumar",
+      "name": "Praveen Kumar",
+      "num": "7390023502"
+    },
+    {
+      "aadhar": "667244518053",
+      "address": "s/o  akhilesh kumar! DEVLI!LACHCHHIPUR!RAEBARELI!- devli lachchhipur raebareli!semari Lalganj!rae bareli!Uttar Pradesh!229211",
+      "alt": "9792544776",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "akhilesh kumar",
+      "name": "Praveen Kumar",
+      "num": "7390023502"
+    },
+    {
+      "aadhar": "667244518053",
+      "address": "s/o  akhilesh kumar!DEVLI!LACHCHHIPUR!RAEBARELI!- devli lachchhipur raebareli!semari Lalganj!rae bareli!Uttar Pradesh!229211",
+      "alt": "7390023502",
+      "circle": "JIO UPE",
+      "email": "pravin73923502@gmail.com",
+      "fname": "akhilesh kumar",
+      "name": "Praveen Kumar",
+      "num": "9696949868"
+    },
+    {
+      "aadhar": "667244518053",
+      "address": "s/o  akhilesh kumar!DEVLI!LACHCHHIPUR!RAEBARELI!- devli lachchhipur raebareli!semari Lalganj!rae bareli!Uttar Pradesh!229211",
+      "alt": "7390023502",
+      "circle": "JIO UPE",
+      "email": "pravin73923502@gmail.com",
+      "fname": "akhilesh kumar",
+      "name": "Praveen Kumar",
+      "num": "9696949868"
+    }
+  ]
+}
