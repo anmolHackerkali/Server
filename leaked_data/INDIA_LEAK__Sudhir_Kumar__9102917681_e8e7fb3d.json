@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:01:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9102917681",
+  "records": [
+    {
+      "aadhar": "999405835273",
+      "address": " C/O Chandra Shekhar Lal Das!navtoliya sundar ban road R S Tank!!bahadurpur laheriasaray Balbhadarpur!Darbhanga!Darbhanga!Bihar!846001 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " chandra shekhar lal das ",
+      "name": " Sudhir Kumar ",
+      "num": "9102917681"
+    },
+    {
+      "aadhar": "999405835273",
+      "address": " C/O Chandra Shekhar Lal Das!navtoliya sundar ban road R S Tank!!bahadurpur laheriasaray Balbhadarpur!Darbhanga!Darbhanga!Bihar!846001 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " chandra shekhar lal das ",
+      "name": " Sudhir Kumar ",
+      "num": "9102917681"
+    }
+  ]
+}
