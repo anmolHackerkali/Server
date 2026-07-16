@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:36:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9026409264",
+  "records": [
+    {
+      "aadhar": "642746967085",
+      "address": "!00!manar lokaiyapur!lokaiyapur!kunda!Pratapgarh!Pratapgarh!Uttar Pradesh!230141",
+      "alt": "9569226643",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "janmejay pandey",
+      "name": "Akshay Pandey",
+      "num": "9026409264"
+    },
+    {
+      "aadhar": "642746967085",
+      "address": "!00!manar lokaiyapur!lokaiyapur!kunda!Pratapgarh!Pratapgarh!Uttar Pradesh!230141",
+      "alt": "9569226643",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "janmejay pandey",
+      "name": "Akshay Pandey",
+      "num": "9026409264"
+    }
+  ]
+}
