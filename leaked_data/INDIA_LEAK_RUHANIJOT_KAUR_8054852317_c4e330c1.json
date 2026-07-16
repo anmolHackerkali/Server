@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:01:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8054852317",
+  "records": [
+    {
+      "aadhar": "282281575689",
+      "address": "DO Pal Singh!vill partapgarh Patiala!patialapump!pump!Partapgarh PanjolaPATIALA!PATIALA!PATIALA!PUNJAB!147101",
+      "alt": "7986337613",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Pal Singh",
+      "name": "RUHANIJOT KAUR",
+      "num": "8054852317"
+    }
+  ]
+}
