@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:40:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6393170225",
+  "records": [
+    {
+      "aadhar": "233859479741",
+      "address": "S/O Jittan Singh!!Village Hajipur Post Hajipur Rauna Par!!Raunapar Sagri Azamgarh!Uttar Pradesh!276122",
+      "alt": "918573854951",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jittan Singh",
+      "name": "Pankaj Singh",
+      "num": "6393170225"
+    },
+    {
+      "aadhar": "233859479741",
+      "address": "S/O Jittan Singh!!Village Hajipur Post Hajipur Rauna Par!!Raunapar Sagri Azamgarh!Uttar Pradesh!276122",
+      "alt": "918573854951",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jittan Singh",
+      "name": "Pankaj Singh",
+      "num": "6393170225"
+    },
+    {
+      "aadhar": "346769690909",
+      "address": "!100!khetapur!!hajipur  hajpur!Azamgarh!!Uttar Pradesh!276122",
+      "alt": "6393170225",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "ramjit  ",
+      "name": "sheela  ",
+      "num": "8382823531"
+    },
+    {
+      "aadhar": "991425009430",
+      "address": "S/O  Jayram Patel!!gram hajipur post hajipur Haji Pur!NA!gram hajipur post hajipur!Hajipur Sagri Azamgarh!NA!Uttar Pradesh!276122",
+      "alt": "6393170225",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jayram Patel",
+      "name": "Ugrasen Singh",
+      "num": "6307439773"
+    },
+    {
+      "aadhar": "346769690909",
+      "address": "!100!khetapur!!hajipur  hajpur!Azamgarh!!Uttar Pradesh!276122",
+      "alt": "6393170225",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "ramjit  ",
+      "name": "sheela  ",
+      "num": "8382823531"
+    },
+    {
+      "aadhar": "991425009430",
+      "address": "S/O  Jayram Patel!!gram hajipur post hajipur Haji Pur!NA!gram hajipur post hajipur!Hajipur Sagri Azamgarh!NA!Uttar Pradesh!276122",
+      "alt": "6393170225",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Jayram Patel",
+      "name": "Ugrasen Singh",
+      "num": "6307439773"
+    }
+  ]
+}
