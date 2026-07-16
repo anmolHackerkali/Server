@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:36:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8603310910",
+  "records": [
+    {
+      "aadhar": "450956204933",
+      "address": "s/o mina devi!!ward no 22 barbad Madhupur!school!barbad!madhupur!deoghar!Jharkhand!815353",
+      "alt": "9122077746",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mina devi",
+      "name": "Dipak Kumar Saw",
+      "num": "8603310910"
+    },
+    {
+      "aadhar": "450956204933",
+      "address": "s/o mina devi!!ward no 22 barbad Madhupur!school!barbad!madhupur!deoghar!Jharkhand!815353",
+      "alt": "9122077746",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "mina devi",
+      "name": "Dipak Kumar Saw",
+      "num": "8603310910"
+    }
+  ]
+}
