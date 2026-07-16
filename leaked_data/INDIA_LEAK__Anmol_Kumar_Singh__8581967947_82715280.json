@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:46:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8581967947",
+  "records": [
+    {
+      "aadhar": "662811966949",
+      "address": " Ward.no-03!Brahampur Sotia PO!darbhanga!Brahampur Barhampur Jale!Darbhanga!Darbhanga!Bihar!847307 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Manavendra Prasad ",
+      "name": " Anmol Kumar Singh ",
+      "num": "8581967947"
+    },
+    {
+      "aadhar": "662811966949",
+      "address": " Ward.no-03!Brahampur Sotia PO!darbhanga!Brahampur Barhampur Jale!Darbhanga!Darbhanga!Bihar!847307 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Manavendra Prasad ",
+      "name": " Anmol Kumar Singh ",
+      "num": "8581967947"
+    }
+  ]
+}
