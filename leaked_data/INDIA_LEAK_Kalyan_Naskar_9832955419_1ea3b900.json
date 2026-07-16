@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:17:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9832955419",
+  "records": [
+    {
+      "aadhar": "644634510151",
+      "address": " S/O Gangaram Naskar!!Noridana!!KULBERIA!Ghoshpur Baora Baruipur!South 24 Parganas!West Bengal!743330 ",
+      "alt": "9775867205",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Gangaram Naskar",
+      "name": "Kalyan Naskar",
+      "num": "9832955419"
+    },
+    {
+      "aadhar": "644634510151",
+      "address": " S/O Gangaram Naskar!!Noridana!!KULBERIA!Ghoshpur Baora Baruipur!South 24 Parganas!West Bengal!743330 ",
+      "alt": "9775867205",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Gangaram Naskar",
+      "name": "Kalyan Naskar",
+      "num": "9832955419"
+    }
+  ]
+}
