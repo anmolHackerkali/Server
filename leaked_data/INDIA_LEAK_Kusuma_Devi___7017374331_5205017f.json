@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:36:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7017374331",
+  "records": [
+    {
+      "aadhar": "488049105695",
+      "address": "w/o  rambharasi!!hariha!hariha!hariha harha Firozabad!harha!firozabad!Uttar Pradesh!205141",
+      "alt": "7983792302",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "rambharasi",
+      "name": "Kusuma Devi  ",
+      "num": "7017374331"
+    },
+    {
+      "aadhar": "488049105695",
+      "address": "w/o  rambharasi!!hariha!hariha!hariha harha Firozabad!harha!firozabad!Uttar Pradesh!205141",
+      "alt": "7983792302",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "rambharasi",
+      "name": "Kusuma Devi",
+      "num": "7017374331"
+    },
+    {
+      "aadhar": "488049105695",
+      "address": "w/o  rambharasi!!hariha!hariha!hariha harha Firozabad!harha!firozabad!Uttar Pradesh!205141",
+      "alt": "7983792302",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "rambharasi",
+      "name": "Kusuma Devi",
+      "num": "7017374331"
+    }
+  ]
+}
