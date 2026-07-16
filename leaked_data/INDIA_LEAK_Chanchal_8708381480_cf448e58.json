@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:56:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708381480",
+  "records": [
+    {
+      "aadhar": "878182081174",
+      "address": "!147!Kharbla 99!NEAR SHIV MANDIR!Hansi!Hissar!Hisar!Haryana!125042",
+      "alt": "7206088079",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "Chanchal",
+      "num": "8708381480"
+    }
+  ]
+}
