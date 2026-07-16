@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:57:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9818893289",
+  "records": [
+    {
+      "aadhar": "375356045223",
+      "address": "W/O Manohar Lal!B-3/70!!PASCHIM VIHAR!West Delhi!Delhi!110063",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manohar Lal",
+      "name": "Promila",
+      "num": "9818893289"
+    },
+    {
+      "aadhar": "375356045223",
+      "address": "W/O Manohar Lal!B-3/70!!PASCHIM VIHAR!West Delhi!Delhi!110063",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manohar Lal",
+      "name": "Promila",
+      "num": "9818893289"
+    },
+    {
+      "aadhar": "375356045223",
+      "address": "W/O Manohar Lal!B-3/70!!PASCHIM VIHAR!West Delhi!Delhi!110063",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manohar Lal",
+      "name": "Promila",
+      "num": "9818893289"
+    },
+    {
+      "aadhar": "602472678620",
+      "address": "!!36 second floor pocket-1sector 22 ROHINI SULTANPURI C BLOCK!NA!rohini!Delhi North North West!NA!Delhi!110086",
+      "alt": "9818893289",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ALOK PAL",
+      "name": "Neha Jingala",
+      "num": "8882303978"
+    },
+    {
+      "aadhar": "602472678620",
+      "address": "!!36 second floor pocket-1sector 22 ROHINI SULTANPURI C BLOCK!NA!rohini!Delhi North North West!NA!Delhi!110086",
+      "alt": "9818893289",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ALOK PAL",
+      "name": "Neha Jingala",
+      "num": "8882303978"
+    },
+    {
+      "aadhar": "602472678620",
+      "address": "!!36 second floor pocket-1sector 22 ROHINI SULTANPURI C BLOCK!NA!rohini!Delhi North North West!NA!Delhi!110086",
+      "alt": "9818893289",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "ALOK PAL",
+      "name": "Neha Jingala",
+      "num": "8882303978"
+    }
+  ]
+}
