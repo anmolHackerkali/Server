@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:19:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792200722",
+  "records": [
+    {
+      "aadhar": "26275441688",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "M/S CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007139"
+    },
+    {
+      "aadhar": "26275441688",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "M/S CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007140"
+    },
+    {
+      "aadhar": "383156125736",
+      "address": "! 547ka/5k!pitambar khera!rajajipuram Lucknow!Lucknow!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": "9792200722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raja ram Sharma",
+      "name": "Dharmendra Sharma",
+      "num": "8887765084"
+    },
+    {
+      "aadhar": "383156125736",
+      "address": "!547 KA 05 K!PITAMBAR KHERA RAJAJIPURAM!!lucknow!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": "9792200722",
+      "circle": "JIO UPE",
+      "email": "dharmendra.sharma294@gmail.com",
+      "fname": "RAJA RAM SHARMA",
+      "name": "Dharmendra Sharma",
+      "num": "8765111111"
+    },
+    {
+      "aadhar": "ANQPS7181M",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "UPE",
+      "email": "CGPS2004@GMAIL.COM",
+      "fname": "M/S. CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007140"
+    },
+    {
+      "aadhar": "ANQPS7181M",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "UPE",
+      "email": "CGPS2004@GMAIL.COM",
+      "fname": "M/S. CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007139"
+    },
+    {
+      "aadhar": "26275441688",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "M/S CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007140"
+    },
+    {
+      "aadhar": "26275441688",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "M/S CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007139"
+    },
+    {
+      "aadhar": "383156125736",
+      "address": "! 547ka/5k!pitambar khera!rajajipuram Lucknow!Lucknow!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": "9792200722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "raja ram Sharma",
+      "name": "Dharmendra Sharma",
+      "num": "8887765084"
+    },
+    {
+      "aadhar": "383156125736",
+      "address": "!547 KA 05 K!PITAMBAR KHERA RAJAJIPURAM!!lucknow!Lucknow!Lucknow!Uttar Pradesh!226017",
+      "alt": "9792200722",
+      "circle": "JIO UPE",
+      "email": "dharmendra.sharma294@gmail.com",
+      "fname": "RAJA RAM SHARMA",
+      "name": "Dharmendra Sharma",
+      "num": "8765111111"
+    },
+    {
+      "aadhar": "ANQPS7181M",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "UPE",
+      "email": "CGPS2004@GMAIL.COM",
+      "fname": "M/S. CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007140"
+    },
+    {
+      "aadhar": "ANQPS7181M",
+      "address": "KHASRA NO 557!UTTAR PRADESH!MAURA DUBAGGA!LUCKNOW!UTTAR PRADESH!226001",
+      "alt": "9792200722",
+      "circle": "UPE",
+      "email": "CGPS2004@GMAIL.COM",
+      "fname": "M/S. CHARAK HEALTH AND RURAL DEV SO",
+      "name": "M/S CHARAK HEALTH AND RURAL DEV SOCI",
+      "num": "7704007139"
+    }
+  ]
+}
