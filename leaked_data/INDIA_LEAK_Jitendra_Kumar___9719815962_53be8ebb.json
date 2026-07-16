@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:10:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9719815962",
+  "records": [
+    {
+      "aadhar": "615681655775",
+      "address": "s/o  satveer singh!!Jauly Garh!!joligarh jauligarh jauly garh!bulandshahrBulandshahr!bulandshahr!Uttar Pradesh!203001",
+      "alt": "9997856006",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "satveer singh",
+      "name": "Jitendra Kumar  ",
+      "num": "9719815962"
+    },
+    {
+      "aadhar": "615681655775",
+      "address": "s/o  satveer singh!!Jauly Garh!!joligarh jauligarh jauly garh!bulandshahr Bulandshahr!bulandshahr!Uttar Pradesh!203001",
+      "alt": "9997856006",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "satveer singh",
+      "name": "Jitendra Kumar",
+      "num": "9719815962"
+    },
+    {
+      "aadhar": "615681655775",
+      "address": "s/o  satveer singh!!Jauly Garh!!joligarh jauligarh jauly garh!bulandshahr Bulandshahr!bulandshahr!Uttar Pradesh!203001",
+      "alt": "9997856006",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "satveer singh",
+      "name": "Jitendra Kumar",
+      "num": "9719815962"
+    }
+  ]
+}
