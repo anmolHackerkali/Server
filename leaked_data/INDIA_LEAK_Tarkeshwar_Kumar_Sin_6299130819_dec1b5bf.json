@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:30:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299130819",
+  "records": [
+    {
+      "aadhar": "WEW0470146",
+      "address": "!!Itwa Chhapra Garkha!NA!Saran!Saran Saran!NA!Bihar!841202",
+      "alt": "9431049181",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Vijay Kumar Singh",
+      "name": "Tarkeshwar Kumar Singh",
+      "num": "6299130819"
+    },
+    {
+      "aadhar": "WEW0470146",
+      "address": "!!Itwa Chhapra Garkha!NA!Saran!Saran Saran!NA!Bihar!841202",
+      "alt": "9431049181",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Kumar Singh",
+      "name": "Tarkeshwar Kumar Singh",
+      "num": "6299130819"
+    },
+    {
+      "aadhar": "WEW0470146",
+      "address": "!!Itwa Chhapra Garkha!NA!Saran!Saran Saran!NA!Bihar!841202",
+      "alt": "9431049181",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Vijay Kumar Singh",
+      "name": "Tarkeshwar Kumar Singh",
+      "num": "6299130819"
+    }
+  ]
+}
