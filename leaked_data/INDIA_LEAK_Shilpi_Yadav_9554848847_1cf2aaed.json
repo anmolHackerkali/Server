@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:02:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554848847",
+  "records": [
+    {
+      "aadhar": "747837613707",
+      "address": "D/O Surendra Yadav!Aurihar khurd!Aurihar Kala!!Ghazipur!Ghazipur!Ghazipur!Uttar Pradesh!233221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra Yadav",
+      "name": "Shilpi Yadav",
+      "num": "9554848847"
+    },
+    {
+      "aadhar": "747837613707",
+      "address": "D/O Surendra Yadav!Aurihar khurd!Aurihar Kala!!Ghazipur!Ghazipur!Ghazipur!Uttar Pradesh!233221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra Yadav",
+      "name": "Shilpi Yadav",
+      "num": "9554848847"
+    }
+  ]
+}
