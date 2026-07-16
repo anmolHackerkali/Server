@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:25:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9572489604",
+  "records": [
+    {
+      "aadhar": "635564733248",
+      "address": "W/O Amitesh Singh!Jokahri!!!!Bhojpur!Bihar!802316",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amitesh  Singh",
+      "name": "Sunita  Devi",
+      "num": "9572489604"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "W/O Amitesh Singh!Jokahri!!!!Bhojpur!Bihar!802316",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Amitesh  Singh",
+      "name": "Sunita  Devi",
+      "num": "9572489604"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "W/O  Amitesh Singh!!Mahulighat!!!Jokahri Barhara!Bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Amitesh Singh",
+      "name": "Sunita Devi",
+      "num": "6207264358"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "W/O  Amitesh Singh!!Mahulighat!!!Jokahri Barhara!Bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Amitesh Singh",
+      "name": "Sunita Devi",
+      "num": "6207264358"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "W/O  Amitesh Singh!!Mahulighat!!!Jokahri Barhara!Bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Amitesh Singh",
+      "name": "Sunita Devi",
+      "num": "6207264358"
+    }
+  ]
+}
