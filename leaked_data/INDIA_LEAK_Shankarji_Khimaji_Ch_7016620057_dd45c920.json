@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:24:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7016620057",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!!!Laxmipura Banaskantha!Gujarat!385535",
+      "alt": "919408945828",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "khemaji",
+      "name": "Shankarji Khimaji Chaudhary",
+      "num": "7016620057"
+    },
+    {
+      "aadhar": null,
+      "address": "!!!!Laxmipura Banaskantha!Gujarat!385535",
+      "alt": "919408945828",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "khemaji",
+      "name": "Shankarji Khimaji Chaudhary",
+      "num": "7016620057"
+    }
+  ]
+}
