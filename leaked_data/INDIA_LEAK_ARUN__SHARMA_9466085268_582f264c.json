@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:57:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9466085268",
+  "records": [
+    {
+      "aadhar": "980964500390",
+      "address": "568   BHIWANI ROADJIND GOPAL NAGAR JINDJIND  JIND HARYANA 126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "UMESH  KUMAR",
+      "name": "ARUN  SHARMA",
+      "num": "9466085268"
+    },
+    {
+      "aadhar": "980964500390",
+      "address": "S/O: Umesh Kumar!568!!BHIWANI ROADJIND GOPAL NAGAR JINDJIND!JIND!HARYANA!126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "UMESH  KUMAR",
+      "name": "ARUN  SHARMA",
+      "num": "9466085268"
+    },
+    {
+      "aadhar": "980964500390",
+      "address": " gopal nagar bhiwani road gopal nagar bhiwani roadJIND Near Devilal Chock Near Devilal Chock AHIRKA 83 JIND Haryana 126102",
+      "alt": "9466085268",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "UMESH SHARMA",
+      "name": "ARUN SHARMA",
+      "num": "9097951000"
+    }
+  ]
+}
