@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:42:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9589809597",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Shiv Pratap!house n. 32!.!kaithani Singrauli!!SIDHI!Singrauli!Madhya Pradesh!486882",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Shiv Pratap",
+      "name": "Rajendr Pratap",
+      "num": "9589809597"
+    },
+    {
+      "aadhar": null,
+      "address": "21 Kaithani devara singrauli  kaithani Sidhi  Madhya Pradesh 486882",
+      "alt": "9589809597",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "BAJRANGI",
+      "name": "LALDHARI",
+      "num": "8982749597 "
+    },
+    {
+      "aadhar": null,
+      "address": " Bamhan Dewa POST-rajawar naugai Singrauli  Singrauli Singrauli  Madhya Pradesh 486882",
+      "alt": "9589809597",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Lale Basor",
+      "name": "Anil Kumar Basor",
+      "num": "8463026687 "
+    },
+    {
+      "aadhar": null,
+      "address": " 61 gopla Chitrangi gopla  bhuidharwa singrauli Singrauli  Madhya Pradesh 486882",
+      "alt": "9589809597",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "dharmendra kumar singh",
+      "name": "Roobi Singh",
+      "num": "7415968538 "
+    }
+  ]
+}
