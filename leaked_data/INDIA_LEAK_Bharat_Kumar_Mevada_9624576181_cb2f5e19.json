@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:43:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9624576181",
+  "records": [
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7359652925",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "9624576181"
+    },
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7359652925",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "9624576181"
+    },
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7359652925",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "9624576181"
+    }
+  ]
+}
