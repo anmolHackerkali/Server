@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:09:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8057269583",
+  "records": [
+    {
+      "aadhar": "959035227632",
+      "address": "S/O: Faryadgaon syamiwalagaon syamiwala najibabad bhaguwalanajibabad bhaguwalaP.O. nangal soti BIJNORBIJNORBIJNORUTTAR PRADESH246749",
+      "alt": "9193621881",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Faryad",
+      "name": "MR ARBAJ ",
+      "num": "8057269583"
+    },
+    {
+      "aadhar": "959035227632",
+      "address": "S/O: Faryadgaon syamiwalagaon syamiwala najibabad bhaguwalanajibabad bhaguwalaP.O. nangal soti BIJNORBIJNORBIJNORUTTAR PRADESH246749",
+      "alt": "9193621881",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "Faryad",
+      "name": "MR ARBAJ ",
+      "num": "8057269583"
+    }
+  ]
+}
