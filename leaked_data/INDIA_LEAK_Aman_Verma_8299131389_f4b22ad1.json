@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:54:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299131389",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx9551",
+      "address": "S/O Pooran Lal Verma!Sitapur  indal bhawn vikas nagar colony khoobpur!!!Sitapur!Uttar Pradesh!261001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Pooran Lal Verma",
+      "name": "Aman Verma",
+      "num": "8299131389"
+    },
+    {
+      "aadhar": "xxxxxxxx9551",
+      "address": "S/O Pooran Lal Verma!Sitapur  indal bhawn vikas nagar colony khoobpur!!!Sitapur!Uttar Pradesh!261001",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Pooran Lal Verma",
+      "name": "Aman Verma",
+      "num": "8299131389"
+    }
+  ]
+}
