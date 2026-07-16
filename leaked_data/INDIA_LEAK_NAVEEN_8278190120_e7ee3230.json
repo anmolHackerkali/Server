@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:59:03",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8278190120",
+  "records": [
+    {
+      "aadhar": "457317009221",
+      "address": "S/O ANIL!BAJINA 47 BHIWANI!BAJINA 47 BHIWANI!!BAJINA 47 BHIWANI!BHIWANI!BHIWANI!HARYANA!127111",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ANIL",
+      "name": "NAVEEN",
+      "num": "8278190120"
+    },
+    {
+      "aadhar": "457317009221",
+      "address": "BAJINA 47 BHIWANI BAJINA 47 BHIWANI  BAJINA 47 BHIWANI BHIWANI BHIWANI HARYANA 127111",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ANIL",
+      "name": "NAVEEN",
+      "num": "8278190120"
+    },
+    {
+      "aadhar": "439112683779",
+      "address": "S/O Balwan Bajina 47 Bajina 47Bajina Bajina bajinaBHIWANI BHIWANI BHIWANI HARYANA 127111",
+      "alt": "8278190120",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Balwan",
+      "name": "MR  MANISH  ",
+      "num": "9728524216"
+    },
+    {
+      "aadhar": "457317009221",
+      "address": "Bajina 2311 bajina 47Bajina Bajina S/O AnilBHIWANI BHIWANI BHIWANI HARYANA 127111",
+      "alt": "8278190120",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Anil",
+      "name": "MR  NAVEEN  ",
+      "num": "7027815407"
+    }
+  ]
+}
