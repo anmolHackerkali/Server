@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:36:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8726465661",
+  "records": [
+    {
+      "aadhar": "229181479305",
+      "address": "!T 3!PHAPHAMAUBAZAR!BAZAR!PHAPHAMAU PHAPHAMAUALLAHABAD!ALLAHABAD!UTTAR PRADESH!211013",
+      "alt": "7784024077",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Deena Nath yadav",
+      "name": "MR. DINESH YADAV",
+      "num": "8726465661"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Deenanath Yadav!T 3!Phaphamau Bazar!  Pandila!Allahabad!Uttar Pradesh!211013",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Deenanath Yadav",
+      "name": "Dinesh Yadav",
+      "num": "8726465661"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Deenanath Yadav!T 3!Phaphamau Bazar!  Pandila!Allahabad!Uttar Pradesh!211013",
+      "alt": null,
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Deenanath Yadav",
+      "name": "Dinesh Yadav",
+      "num": "8726465661"
+    }
+  ]
+}
