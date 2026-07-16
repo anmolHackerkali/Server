@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:05:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7488961623",
+  "records": [
+    {
+      "aadhar": "794549097527",
+      "address": "s/o  late siddh narayan lal! -!- Telhan!!gram telhan   telhan!tethan Keotiranway!darbhanga!Bihar!847115",
+      "alt": "9431859687",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "late siddh narayan lal",
+      "name": "Sachchida Nand Lal",
+      "num": "7488961623"
+    },
+    {
+      "aadhar": "794549097527",
+      "address": "s/o  late siddh narayan lal! -!- Telhan!!gram telhan . telhan!tethan Keotiranway!darbhanga!Bihar!847115",
+      "alt": "9431859687",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late siddh narayan lal",
+      "name": "Sachchida Nand Lal",
+      "num": "7488961623"
+    },
+    {
+      "aadhar": "794549097527",
+      "address": "s/o  late siddh narayan lal! -!- Telhan!!gram telhan . telhan!tethan Keotiranway!darbhanga!Bihar!847115",
+      "alt": "9431859687",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "late siddh narayan lal",
+      "name": "Sachchida Nand Lal",
+      "num": "7488961623"
+    }
+  ]
+}
