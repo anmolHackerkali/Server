@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:02:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9984989413",
+  "records": [
+    {
+      "aadhar": "575622758112",
+      "address": "d/o  basudev gupta!!Dhanapur!sukhkha tiwari ka purva!sukhkha tiwari ka purva naraini dhanapur!dhanapur Amethi!amethi!Uttar Pradesh!227407",
+      "alt": "6386965734",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "basudev gupta",
+      "name": "Kalpana Gupta",
+      "num": "9984989413"
+    },
+    {
+      "aadhar": "575622758112",
+      "address": "d/o  basudev gupta!!Dhanapur!sukhkha tiwari ka purva!sukhkha tiwari ka purva naraini dhanapur!dhanapur Amethi!amethi!Uttar Pradesh!227407",
+      "alt": "6386965734",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "basudev gupta",
+      "name": "Kalpana Gupta",
+      "num": "9984989413"
+    },
+    {
+      "aadhar": "575622758112",
+      "address": "D/O  Basudev Gupta!!sukhkha tiwari ka purva Dhanapur!NA!naraini!Dhanapur Amethi Amethi!NA!Uttar Pradesh!227407",
+      "alt": "9984989413",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Basudev Gupta",
+      "name": "Kalpana Gupta",
+      "num": "6386965734"
+    },
+    {
+      "aadhar": "575622758112",
+      "address": "D/O  Basudev Gupta!!sukhkha tiwari ka purva Dhanapur!NA!naraini!Dhanapur Amethi Amethi!NA!Uttar Pradesh!227407",
+      "alt": "9984989413",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Basudev Gupta",
+      "name": "Kalpana Gupta",
+      "num": "6386965734"
+    }
+  ]
+}
