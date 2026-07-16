@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:34:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8878583661",
+  "records": [
+    {
+      "aadhar": "918691767783",
+      "address": "! 0!badadah badadhah shivpuri!badadhah!shivpuri!Narwar!SHIVPURI!Madhya Pradesh!473880",
+      "alt": "7222978376",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "kalyan singh",
+      "name": "hemant kushwah",
+      "num": "8878583661"
+    },
+    {
+      "aadhar": "945699517758",
+      "address": "S/O LAL SINGH RAWAT!DEVNKALAN  DEON!DEVNKALAN  DEON!DEVNKALAN  DEON!BHITARWAR GWALIOR!DUBAHA TANKA!GWALIOR!Madhya Pradesh!475220",
+      "alt": "8878583661",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Lal Singh Rawat",
+      "name": "MR KULDEEP RAWAT",
+      "num": "8223847152"
+    }
+  ]
+}
