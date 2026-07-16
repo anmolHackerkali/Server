@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:53:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9523349537",
+  "records": [
+    {
+      "aadhar": "950329792941",
+      "address": " 1 Ram Prit Ray!Ward no 14!Ward no 14 !Ratanpur Dhurlakh!Samastipur!Samastipur!Bihar!848301 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Prit Ray ",
+      "name": " Sandhya Rani ",
+      "num": "9523349537"
+    },
+    {
+      "aadhar": "950329792941",
+      "address": " 1 Ram Prit Ray!Ward no 14!Ward no 14 !Ratanpur Dhurlakh!Samastipur!Samastipur!Bihar!848301 ",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": " Ram Prit Ray ",
+      "name": " Sandhya Rani ",
+      "num": "9523349537"
+    }
+  ]
+}
