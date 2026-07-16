@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:41:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9499413110",
+  "records": [
+    {
+      "aadhar": " XXXXXXXX2552 ",
+      "address": " 47 Dhigana  jind Dhigana (47) Jind HARYANA 126114 ",
+      "alt": " 7015343774 ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " S/O: Mangeram ",
+      "name": " Dhoop Singh    ",
+      "num": "9499413110"
+    }
+  ]
+}
