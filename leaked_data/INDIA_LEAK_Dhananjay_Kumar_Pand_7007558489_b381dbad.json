@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:54:37",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7007558489",
+  "records": [
+    {
+      "aadhar": "647148247098",
+      "address": "S/O  Gokaran Nath Pandey!! Bhaluani!!Badhpurwa Barhaj Deoria!Uttar Pradesh!274182",
+      "alt": "919918448800",
+      "circle": "JIO UPE",
+      "email": "DHANANJAYPANDEY.SP@GMAIL.COM",
+      "fname": "Gokaran Nath Pandey",
+      "name": "Dhananjay Kumar Pandey",
+      "num": "7007558489"
+    },
+    {
+      "aadhar": "647148247098",
+      "address": "S/O  Gokaran Nath Pandey!! Bhaluani!!Badhpurwa Barhaj Deoria!Uttar Pradesh!274182",
+      "alt": "919918448800",
+      "circle": "JIO UPE",
+      "email": "DHANANJAYPANDEY.SP@GMAIL.COM",
+      "fname": "Gokaran Nath Pandey",
+      "name": "Dhananjay Kumar Pandey",
+      "num": "7007558489"
+    }
+  ]
+}
