@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:57:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7404024108",
+  "records": [
+    {
+      "aadhar": "408018389085",
+      "address": "D/O KURRA RAM!BUPP 178!BAPP!!SIRSA!SIRSA!SIRSA!HARYANA!125078",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KURRA RAM",
+      "name": "SAMITA",
+      "num": "7404024108"
+    },
+    {
+      "aadhar": "408018389085",
+      "address": "BUPP 178 BAPP  SIRSA SIRSA SIRSA HARYANA 125078",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KURRA RAM",
+      "name": "SAMITA",
+      "num": "7404024108"
+    }
+  ]
+}
