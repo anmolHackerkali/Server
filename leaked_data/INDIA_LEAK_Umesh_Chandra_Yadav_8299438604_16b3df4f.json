@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:09:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8299438604",
+  "records": [
+    {
+      "aadhar": "259403962126",
+      "address": "S/O: Bakelal Yadav!!khevasipur!karauti!Karauti Azamgarh!Uttar Pradesh!276204",
+      "alt": "919565686814",
+      "circle": "JIO UPE",
+      "email": "umeshchandra6814@gmail.com",
+      "fname": "Bakelal Yadav",
+      "name": "Umesh Chandra Yadav",
+      "num": "8299438604"
+    },
+    {
+      "aadhar": "259403962126",
+      "address": "S/O: Bakelal Yadav!!khevasipur!karauti!Karauti Azamgarh!Uttar Pradesh!276204",
+      "alt": "919565686814",
+      "circle": "JIO UPE",
+      "email": "umeshchandra6814@gmail.com",
+      "fname": "Bakelal Yadav",
+      "name": "Umesh Chandra Yadav",
+      "num": "8299438604"
+    }
+  ]
+}
