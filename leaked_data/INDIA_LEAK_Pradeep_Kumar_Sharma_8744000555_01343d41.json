@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 09:02:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8744000555",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!FLAT NO. A- 1103  TOWER- A MAHINDRA LUMINARE!SECTOR 59!Behrampur 100 Gurgaon!Haryana!122101",
+      "alt": "918744005555",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sovran sharma",
+      "name": "Pradeep Kumar Sharma",
+      "num": "8744000555"
+    },
+    {
+      "aadhar": null,
+      "address": "!!FLAT NO A- 1103 TOWER- AMAHINDRA LUMINARE!SECTOR 59!Behrampur 100Gurgaon!Haryana!122101",
+      "alt": "918744005555",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sovran sharma",
+      "name": "Pradeep Kumar Sharma",
+      "num": "8744000555"
+    },
+    {
+      "aadhar": null,
+      "address": "!!FLAT NO A- 1103 TOWER- AMAHINDRA LUMINARE!SECTOR 59!Behrampur 100Gurgaon!Haryana!122101",
+      "alt": "918744005555",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sovran sharma",
+      "name": "Pradeep Kumar Sharma",
+      "num": "8744000555"
+    }
+  ]
+}
