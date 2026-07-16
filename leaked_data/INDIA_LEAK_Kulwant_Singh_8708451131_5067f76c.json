@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:00:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8708451131",
+  "records": [
+    {
+      "aadhar": "223143208791",
+      "address": "S/O  Kela Singh Wishwasi!!57ward no 15bhuna road!partap colony!Tohana Rural96Fatehabad!Haryana!125120",
+      "alt": "+919416289343",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Kela Singh Wishwasi",
+      "name": "Kulwant Singh",
+      "num": "8708451131"
+    }
+  ]
+}
