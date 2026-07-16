@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:15:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9639670278",
+  "records": [
+    {
+      "aadhar": "597331063736",
+      "address": "!25!Vill Kimad!!Post Rithakhal!Kimar!Champawat!Uttarakhand!262580",
+      "alt": "9639670278",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Anand ballabh joshi",
+      "name": "Himanshu Joshi",
+      "num": "6397704362"
+    },
+    {
+      "aadhar": "570417103697",
+      "address": "S/O: Sumer Singh Gram. kirto nangli urf pehruwala post lakkuwala Kotwali  Nagina  KOTWALI-BIJNOR UP 246764",
+      "alt": "9639670278",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Sumer Singh",
+      "name": "KULDEEP KUMAR",
+      "num": "8193065721"
+    },
+    {
+      "aadhar": "570417103697",
+      "address": "S/O: Sumer Singh Gram. kirto nangli urf pehruwala post lakkuwala Kotwali  Nagina  KOTWALI-BIJNOR UP 246764",
+      "alt": "9639670278",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Sumer Singh",
+      "name": "KULDEEP KUMAR",
+      "num": "8193065721"
+    }
+  ]
+}
