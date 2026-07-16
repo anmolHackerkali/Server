@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:30:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8178513498",
+  "records": [
+    {
+      "aadhar": "756050932973",
+      "address": "!230!janta gali!!gandhi nagar!Delhi East!East!Delhi!110031",
+      "alt": "6386869032",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "samim",
+      "name": "Faishal  ",
+      "num": "8178513498"
+    },
+    {
+      "aadhar": "756050932973",
+      "address": "!230!janta gali!!gandhi nagar!Delhi East!East!Delhi!110031",
+      "alt": "6386869032",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "samim",
+      "name": "Faishal  ",
+      "num": "8178513498"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Samim!!!village jarauli sherpur  Jarauli Sherpur!Hardoi!Uttar Pradesh!241301",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samim",
+      "name": "Faishal",
+      "num": "8178513498"
+    },
+    {
+      "aadhar": "756050932973",
+      "address": "!230!janta gali!!gandhi nagar!Delhi East!East!Delhi!110031",
+      "alt": "6386869032",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "samim",
+      "name": "Faishal  ",
+      "num": "8178513498"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Samim!!!village jarauli sherpur  Jarauli Sherpur!Hardoi!Uttar Pradesh!241301",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Samim",
+      "name": "Faishal",
+      "num": "8178513498"
+    }
+  ]
+}
