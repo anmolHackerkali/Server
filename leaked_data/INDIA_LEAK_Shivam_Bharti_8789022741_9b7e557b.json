@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:02:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8789022741",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!C 88 Sadarpur sector 45 Gautam Buddha Nagar Noida Sadarpur sector 45 Gautam Buddha Nagar Noida!Sadarpur sector 45 Gautam Buddha Nagar Noida!Ghaziabad Gautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918278132470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!ward no 06!village nagar dih!near primary school!kaji bahera!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "7709276527",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": null,
+      "address": "!!C 88Sadarpur sector 45 Gautam Buddha Nagar NoidaSadarpur sector 45 Gautam Buddha Nagar Noida!Sadarpur sector 45 Gautam Buddha Nagar Noida!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918278132470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!ward no 06!village nagar dih!near primary school!kaji bahera!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "7709276527",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": null,
+      "address": "!!C 88Sadarpur sector 45 Gautam Buddha Nagar NoidaSadarpur sector 45 Gautam Buddha Nagar Noida!Sadarpur sector 45 Gautam Buddha Nagar Noida!GhaziabadGautam Buddha Nagar!Uttar Pradesh!201301",
+      "alt": "918278132470",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!ward no 06!village nagar dih!near primary school!kaji bahera!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "7709276527",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "8789022741"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!01!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "8789022741",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "6200696498"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!01!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "8789022741",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "6200696498"
+    },
+    {
+      "aadhar": "750272231705",
+      "address": "!01!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!ward no 06 village nagar dih Kaji Bahera Darbhanga!Darbhanga!Darbhanga!Bihar!847304",
+      "alt": "8789022741",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sushil Kumar Sah",
+      "name": "Shivam Bharti",
+      "num": "6200696498"
+    }
+  ]
+}
