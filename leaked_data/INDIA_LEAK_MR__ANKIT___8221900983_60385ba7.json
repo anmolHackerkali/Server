@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:05:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8221900983",
+  "records": [
+    {
+      "aadhar": "948618906975",
+      "address": "S/O Desraj Saroha 446/4 kaithal roadnear hanuman mandir near hanuman mandir raj nagarJIND JIND JIND HARYANA 126102",
+      "alt": "8221900983",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Desraj Saroha",
+      "name": "MR  ANKIT  ",
+      "num": "8221900983"
+    },
+    {
+      "aadhar": "948618906975",
+      "address": "S/O Desraj Saroha 446/4 kaithal roadnear hanuman mandir near hanuman mandir raj nagarJIND JIND JIND HARYANA 126102",
+      "alt": "8221900983",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Desraj Saroha",
+      "name": "MR  ANKIT  ",
+      "num": "8221900983"
+    }
+  ]
+}
