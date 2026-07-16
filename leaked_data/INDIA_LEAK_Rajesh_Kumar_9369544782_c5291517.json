@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:42:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9369544782",
+  "records": [
+    {
+      "aadhar": "432347556016",
+      "address": "!Munnuganj!ward no 12!gola kheri!gola kheri!Kheri!Kheri!Uttar Pradesh!262802",
+      "alt": "9554514227",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sunder lal",
+      "name": "Rajesh Kumar",
+      "num": "9369544782"
+    },
+    {
+      "aadhar": "432347556016",
+      "address": "!Munnuganj!ward no 12!gola kheri!gola kheri!Kheri!Kheri!Uttar Pradesh!262802",
+      "alt": "9554514227",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sunder lal",
+      "name": "Rajesh Kumar",
+      "num": "9369544782"
+    }
+  ]
+}
