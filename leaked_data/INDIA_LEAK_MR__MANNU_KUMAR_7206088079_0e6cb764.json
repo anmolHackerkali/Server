@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:58:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7206088079",
+  "records": [
+    {
+      "aadhar": "629611252492",
+      "address": "SO Lakhan Singh Vpo Kharbla 99 Vpo Kharbla 99  Vpo Kharbla 99HISAR HANSI HISAR HARYANA 125042",
+      "alt": "9817139094",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "MR  MANNU KUMAR",
+      "num": "7206088079"
+    },
+    {
+      "aadhar": "392358116175",
+      "address": "!!near guradawara VILL KHARBLA 99!!Hansi!Hissar!Hisar!Haryana!125042",
+      "alt": "7206088079",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "Banti",
+      "num": "9817139094"
+    },
+    {
+      "aadhar": "392358116175",
+      "address": " 56 chopalkharbla 99 kharbla 99 D/O: Lakhan SinghHISAR HANSI HISAR HARYANA 125042",
+      "alt": "7206088079",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "MS  BANTI  ",
+      "num": "8813099247"
+    },
+    {
+      "aadhar": "878182081174",
+      "address": "!147!Kharbla 99!NEAR SHIV MANDIR!Hansi!Hissar!Hisar!Haryana!125042",
+      "alt": "7206088079",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Lakhan Singh",
+      "name": "Chanchal",
+      "num": "8708381480"
+    },
+    {
+      "aadhar": "629611252492",
+      "address": " Kharbla99 Hisar Kharbla99 HisarMandir Mandir S/O: Lakhan SinghHISAR HANSI HISAR HARYANA 125042",
+      "alt": "7206088079",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Lakhan singh",
+      "name": "MR  MANNU  ",
+      "num": "8053880794"
+    }
+  ]
+}
