@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:51:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9467553767",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!!HOUSE NO 132 SECTOR 16 A faridabad!faridabad!Faridabad Faridabad!Haryana!121002",
+      "alt": "919911296057",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "Ankit",
+      "num": "9467553767"
+    },
+    {
+      "aadhar": " 307592003672 ",
+      "address": "Anand Singh ! House No. 132 ! 16 A FaridabadBDPO office ! BDPO office ! Sector 16AFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9466772868",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "MS. ANKIT .",
+      "num": "9467553767"
+    },
+    {
+      "aadhar": " 307592003672 ",
+      "address": "Anand Singh ! House No. 132 ! 16 A FaridabadBDPO office ! BDPO office ! Sector 16AFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9466772868",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "MS ANKIT ",
+      "num": "9467553767"
+    },
+    {
+      "aadhar": null,
+      "address": "!!HOUSE NO 132 SECTOR 16 Afaridabad!faridabad!FaridabadFaridabad!Haryana!121002",
+      "alt": "919911296057",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "Ankit",
+      "num": "9467553767"
+    },
+    {
+      "aadhar": null,
+      "address": "!!HOUSE NO 132 SECTOR 16 Afaridabad!faridabad!FaridabadFaridabad!Haryana!121002",
+      "alt": "919911296057",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "Ankit",
+      "num": "9467553767"
+    },
+    {
+      "aadhar": " 307592003672 ",
+      "address": "Anand Singh ! House No. 132 ! 16 A FaridabadBDPO office ! BDPO office ! Sector 16AFARIDABAD ! BALLABGARH ! FARIDABAD ! HARYANA ! 121004",
+      "alt": "9466772868",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Anand Singh",
+      "name": "MS ANKIT ",
+      "num": "9467553767"
+    }
+  ]
+}
