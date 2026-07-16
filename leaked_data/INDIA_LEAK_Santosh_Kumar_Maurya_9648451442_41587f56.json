@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:56:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9648451442",
+  "records": [
+    {
+      "aadhar": "992720084134",
+      "address": "S/O Babu Lal Maury!!Katra Medniganj!!!Khajohri!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "8354821904",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu Lal Maury",
+      "name": "Santosh Kumar Maurya",
+      "num": "9648451442"
+    },
+    {
+      "aadhar": "992720084134",
+      "address": "S/O Babu Lal Maury!!Katra Medniganj!!!Khajohri!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "8354821904",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Babu Lal Maury",
+      "name": "Santosh Kumar Maurya",
+      "num": "9648451442"
+    },
+    {
+      "aadhar": "306687495159",
+      "address": "S/O PRITHVI PAL! 30!DANUAPUR Katra Medniganj!KATRA BHEDNIGANJ!DANUAPUR KATRA BHEDNIGANJ Dhanipur!Dhanipur Kunda!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "PRITHVI PAL",
+      "name": "JEET LAL KANHAR",
+      "num": "9336745402"
+    },
+    {
+      "aadhar": "834642617216",
+      "address": "!65!puraili!school!Dherehana!Pratapgarh!!Uttar Pradesh!230002",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hublal  ",
+      "name": "Deepak  Bauddha",
+      "num": "9118893819"
+    },
+    {
+      "aadhar": "721695109565",
+      "address": "!67!bibiya pur!!BHUVALPUR kila   kunda!Pratapgarh!!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "mata badal",
+      "name": "brij lal",
+      "num": "9118893883"
+    },
+    {
+      "aadhar": "432382333617",
+      "address": "!56!bhadohi!!ghatampur!Pratapgarh!!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "NANHE LAL",
+      "name": "SHARDA",
+      "num": "9118893474"
+    },
+    {
+      "aadhar": "306687495159",
+      "address": "S/O PRITHVI PAL! 30!DANUAPUR Katra Medniganj!KATRA BHEDNIGANJ!DANUAPUR KATRA BHEDNIGANJ Dhanipur!Dhanipur Kunda!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "PRITHVI PAL",
+      "name": "JEET LAL KANHAR",
+      "num": "9336745402"
+    },
+    {
+      "aadhar": "721695109565",
+      "address": "!67!bibiya pur!!BHUVALPUR kila   kunda!Pratapgarh!!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "mata badal",
+      "name": "brij lal",
+      "num": "9118893883"
+    },
+    {
+      "aadhar": "834642617216",
+      "address": "!65!puraili!school!Dherehana!Pratapgarh!!Uttar Pradesh!230002",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Hublal  ",
+      "name": "Deepak  Bauddha",
+      "num": "9118893819"
+    },
+    {
+      "aadhar": "432382333617",
+      "address": "!56!bhadohi!!ghatampur!Pratapgarh!!Uttar Pradesh!230131",
+      "alt": "9648451442",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "NANHE LAL",
+      "name": "SHARDA",
+      "num": "9118893474"
+    }
+  ]
+}
