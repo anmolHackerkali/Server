@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:40:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9889168220",
+  "records": [
+    {
+      "aadhar": "719083877311",
+      "address": "S/O Sahadat Husain!muhamadnagar coloni!jangal tinkoniya no.1 padari bazar!Deoria!jangal tinkoniya no.1jangle dhusharGOR!26 BN VAHANI JI P A !UP!273014",
+      "alt": "8623085031",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "SAHADAT  HUSAIN",
+      "name": "MD OSAMA  .",
+      "num": "9889168220"
+    },
+    {
+      "aadhar": "719083877311",
+      "address": "S/O Sahadat Husain!muhamadnagar coloni!jangal tinkoniya no.1 padari bazar!Deoria!jangal tinkoniya no.1 jangle dhushar GOR!26 BN VAHANI JI P A !UP!273014",
+      "alt": "8623085031",
+      "circle": null,
+      "email": null,
+      "fname": "SAHADAT  HUSAIN",
+      "name": "MD OSAMA  ",
+      "num": "9889168220"
+    },
+    {
+      "aadhar": "719083877311",
+      "address": "S/O Sahadat Husain!muhamadnagar coloni!jangal tinkoniya no.1 padari bazar!Deoria!jangal tinkoniya no.1 jangle dhushar GOR!26 BN VAHANI JI P A !UP!273014",
+      "alt": "8623085031",
+      "circle": null,
+      "email": null,
+      "fname": "SAHADAT  HUSAIN",
+      "name": "MD OSAMA  ",
+      "num": "9889168220"
+    }
+  ]
+}
