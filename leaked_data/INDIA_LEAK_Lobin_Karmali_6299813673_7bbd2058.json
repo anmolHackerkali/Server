@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:16:33",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299813673",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Ranjeet Karmali!!!Nagedih!Ajaigarh Ranchi!Jharkhand!835102",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Ranjeet Karmali",
+      "name": "Lobin Karmali",
+      "num": "6299813673"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Ranjeet Karmali!!!Nagedih!Ajaigarh Ranchi!Jharkhand!835102",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet Karmali",
+      "name": "Lobin Karmali",
+      "num": "6299813673"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Ranjeet Karmali!!!Nagedih!Ajaigarh Ranchi!Jharkhand!835102",
+      "alt": null,
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Ranjeet Karmali",
+      "name": "Lobin Karmali",
+      "num": "6299813673"
+    }
+  ]
+}
