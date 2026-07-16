@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:35:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9996682289",
+  "records": [
+    {
+      "aadhar": "255375526067",
+      "address": "S/O BHIM SINGH!GHAR N 294!DUKHERI 161!!AMBALA!AMBALA!AMBALA!HARYANA!133004",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHIM SINGH",
+      "name": "YOGESH",
+      "num": "9996682289"
+    },
+    {
+      "aadhar": "255375526067",
+      "address": "GHAR N 294 DUKHERI 161  AMBALA AMBALA AMBALA HARYANA 133004",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHIM SINGH",
+      "name": "YOGESH",
+      "num": "9996682289"
+    },
+    {
+      "aadhar": "255375526067",
+      "address": "!GHAR N 294!DUKHERI 161!!DUKHERI MANDHIR AMBALA!!AMBALA!HARYANA!133004",
+      "alt": "9996682289",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHIM  SINGH",
+      "name": "YOGESH  ",
+      "num": "9996444596"
+    },
+    {
+      "aadhar": "255375526067",
+      "address": "S/O Bhim Singh 01 haryananear airtel tower near airtel tower dukheriAMBALA AMBALA AMBALA HARYANA 133004",
+      "alt": "9996682289",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Bhim Singh",
+      "name": "MR  YOGESH KUMAR",
+      "num": "9813029601"
+    },
+    {
+      "aadhar": "255375526067",
+      "address": "!GHAR N 294!DUKHERI 161!!DUKHERI MANDHIR AMBALA!!AMBALA!HARYANA!133004",
+      "alt": "9996682289",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHIM  SINGH",
+      "name": "YOGESH  ",
+      "num": "9996444596"
+    }
+  ]
+}
