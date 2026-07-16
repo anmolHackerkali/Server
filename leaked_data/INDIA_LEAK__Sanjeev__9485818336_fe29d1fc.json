@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:09:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9485818336",
+  "records": [
+    {
+      "aadhar": " 7582 ",
+      "address": " 31  Harsana Khurd (209) Sonipat Haryan 131001 ",
+      "alt": " 9050480530 ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " S/O: Subha ",
+      "name": " Sanjeev ",
+      "num": "9485818336"
+    }
+  ]
+}
