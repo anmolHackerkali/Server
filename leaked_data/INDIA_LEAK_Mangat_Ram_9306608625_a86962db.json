@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:57:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9306608625",
+  "records": [
+    {
+      "aadhar": "715193527998",
+      "address": "S/O  Kurda Ram!House Number 409!bupp 178Bapp!!bapp!Bupp 178Sirsa!Sirsa!Haryana!125078",
+      "alt": "8689097522",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Kurda Ram",
+      "name": "Mangat Ram",
+      "num": "9306608625"
+    }
+  ]
+}
