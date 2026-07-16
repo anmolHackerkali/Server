@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:00:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9956220961",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ramdas!Ahungi Kalan!!!Mirzapur!Uttar Pradesh!231211",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramdas  ",
+      "name": "Vijay  Kumar",
+      "num": "9956220961"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Ramdas!Ahungi Kalan!!!Mirzapur!Uttar Pradesh!231211",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramdas  ",
+      "name": "Vijay  Kumar",
+      "num": "9956220961"
+    }
+  ]
+}
