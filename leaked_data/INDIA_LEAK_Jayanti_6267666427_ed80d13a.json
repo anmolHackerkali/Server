@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:18:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6267666427",
+  "records": [
+    {
+      "aadhar": "882038278175",
+      "address": "c/o  rajesh yadav!mohanpur!gram mohanpur udaipur post tahsil udaipur manoharpur!!post- udaipur tahsil-udaipur manoharpur surguja!manoharpur!surguja!Chhattisgarh!497116",
+      "alt": "9302288767",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Rajesh yadav",
+      "name": "Jayanti",
+      "num": "6267666427"
+    },
+    {
+      "aadhar": "758506980521",
+      "address": "!S/O Bindu Goswami!sitapur Raikera Khadadorna Sitapur SURGUJA!!!KHADADORNA!!Chhattisgarh!497111",
+      "alt": "6267666427",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "BINDU GOSWAMI",
+      "name": "SATYENDRA KUMAR GOSWAMI",
+      "num": "8889125682"
+    },
+    {
+      "aadhar": "758506980521",
+      "address": "S/O Bindu Goswami!h.no. 20 bagbudaS/O Bindu Goswami!S/O Bindu Goswami sitapurS/O Bindu Goswami SURGUJA!!!KHADADORNA!SURGUJA!Chhattisgarh!497111",
+      "alt": "6267666427",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "BINDU GOSWAMI",
+      "name": "SATYENDRAKUMAR GOSWAMI",
+      "num": "8120375575"
+    },
+    {
+      "aadhar": "630557899076",
+      "address": "s/o baijnath patel!makan no. 22 ward no. 14!gram kumhiya post pahadi!gram kumhiya post pahadi!tahseel sihawal kumhiya sidhi!kumhiya!sidhi!Madhya Pradesh!486670",
+      "alt": "6267666427",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "baijnath patel",
+      "name": "Sanat Kumar Patel",
+      "num": "6263458819"
+    }
+  ]
+}
