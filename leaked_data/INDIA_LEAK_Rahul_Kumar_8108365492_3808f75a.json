@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:50:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8108365492",
+  "records": [
+    {
+      "aadhar": "329720945942",
+      "address": "S/O  Ram Laxn!!majhauwa khajuri majhauwa khajuri Saltauwa!NA!majhauwa khajuri!Majhaua Khaguri Bhanpur Basti!NA!Uttar Pradesh!272190",
+      "alt": "7233812492",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Laxn",
+      "name": "Rahul Kumar",
+      "num": "8108365492"
+    },
+    {
+      "aadhar": "329720945942",
+      "address": "S/O  Ram Laxn!!majhauwa khajuri majhauwa khajuri Saltauwa!NA!majhauwa khajuri!Majhaua Khaguri Bhanpur Basti!NA!Uttar Pradesh!272190",
+      "alt": "7233812492",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Laxn",
+      "name": "Rahul Kumar",
+      "num": "8108365492"
+    },
+    {
+      "aadhar": "408919775839",
+      "address": "S/O MURTAJA HUSEN!VILLAGE LOHARPURUWA POST - BISHUNPURWA!VILLAGE LOHARPURUWA POST - BISHUNPURWA!!BISHUNPURWABASTI!BASTI!UTTAR PRADESH!272190",
+      "alt": "8108365492",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Murtaja",
+      "name": "MR. JUBER JUBER",
+      "num": "7081162394"
+    },
+    {
+      "aadhar": "408919775839",
+      "address": "S/O MURTAJA HUSEN!VILLAGE LOHARPURUWA  POST - BISHUNPURWA!VILLAGE LOHARPURUWA  POST - BISHUNPURWA!!BISHUNPURWA BASTI!BASTI!UTTAR PRADESH!272190",
+      "alt": "8108365492",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Murtaja",
+      "name": "MR JUBER JUBER",
+      "num": "7081162394"
+    },
+    {
+      "aadhar": "408919775839",
+      "address": "S/O MURTAJA HUSEN!VILLAGE LOHARPURUWA  POST - BISHUNPURWA!VILLAGE LOHARPURUWA  POST - BISHUNPURWA!!BISHUNPURWA BASTI!BASTI!UTTAR PRADESH!272190",
+      "alt": "8108365492",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Murtaja",
+      "name": "MR JUBER JUBER",
+      "num": "7081162394"
+    }
+  ]
+}
