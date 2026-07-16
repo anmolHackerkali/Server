@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:07:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9598265213",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Doodh Nath Yadav!.!.!birapur Pratapgarh!!Pratapgarh!UTTAR PRADESH!230402",
+      "alt": "9670265213",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "9598265213"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Doodh Nath Yadav!.!.!birapur Pratapgarh!!Pratapgarh!UTTAR PRADESH!230402",
+      "alt": "9670265213",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "9598265213"
+    }
+  ]
+}
