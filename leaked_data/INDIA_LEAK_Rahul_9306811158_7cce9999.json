@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:56:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9306811158",
+  "records": [
+    {
+      "aadhar": "275136949915",
+      "address": "s/o  raja ram!!Paniwala Mota!!paniwala mola!panniwala mota 207Sirsa!sirsa!Haryana!125077",
+      "alt": "7015370133",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "raja ram",
+      "name": "Rahul",
+      "num": "9306811158"
+    }
+  ]
+}
