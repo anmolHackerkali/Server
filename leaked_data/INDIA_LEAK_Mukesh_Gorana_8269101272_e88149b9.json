@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:26:29",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8269101272",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " ward no 04 bhatrewas  Bhatrewas Afzalpur Mandsaur  Madhya Pradesh 458895",
+      "alt": "8269101272",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Kanheyalal",
+      "name": "Mukesh Gorana",
+      "num": "9926910801 "
+    },
+    {
+      "aadhar": null,
+      "address": " 88 gram -abhat revas gram bhatarevas  tehsil mandsaur distt mandsaur mp Mandsaur  Madhya Pradesh 458895",
+      "alt": "8269101272",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "mukesh",
+      "name": "kanya bai",
+      "num": "6262357240 "
+    }
+  ]
+}
