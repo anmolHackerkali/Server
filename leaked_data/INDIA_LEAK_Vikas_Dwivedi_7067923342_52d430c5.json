@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:21:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7067923342",
+  "records": [
+    {
+      "aadhar": "872916733089",
+      "address": "S/O  Ram Ji Dwivedi!!129  Teekar!NA!gram dihuli khas post teekar tah sihawal!Dihuli Khas Sihawal Sidhi!NA!Madhya Pradesh!486670",
+      "alt": "9977442398",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ram Ji Dwivedi",
+      "name": "Vikas Dwivedi",
+      "num": "7067923342"
+    },
+    {
+      "aadhar": "872916733089",
+      "address": "S/O Ram Ji Dwivedi!129!Sihawal gram dihuli khas post teekar tah sihawal!gram dihuli khas post teekar tah sihawal!Teekar Dihuli Khas SIDHI!SIDHI!SIDHI!Madhya Pradesh!486670",
+      "alt": "7067923342",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ram Ji Dwivedi",
+      "name": "MR VIKAS DWIVEDI",
+      "num": "7610331181"
+    }
+  ]
+}
