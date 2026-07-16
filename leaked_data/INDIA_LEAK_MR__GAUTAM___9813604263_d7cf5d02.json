@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:00:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813604263",
+  "records": [
+    {
+      "aadhar": "620379690200",
+      "address": "S/O: Jitender Kumar   KurukshetraBabain Kalwa Majri Kalwa 136 Kurukshetra Haryana Babain Kalwa Majri Kalwa 136 Kurukshetra Haryana KALWA majriKURUKSHETRA BABAIN KURUKSHETRA HARYANA 136156",
+      "alt": "9468158443",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Jitender KUMAR",
+      "name": "MR  GAUTAM  ",
+      "num": "9813604263"
+    }
+  ]
+}
