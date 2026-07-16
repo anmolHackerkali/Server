@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:51:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9136491824",
+  "records": [
+    {
+      "aadhar": "682771859423",
+      "address": "!House Number-181!.!!Darwaja Panna  Village Mungesh Pur Mungesh PurNorth West Delhi!Delhi!110039",
+      "alt": "9268990574",
+      "circle": "AIRTEL DELHI",
+      "email": "Manishkaushik0406@Gmail.Com",
+      "fname": "Jai Parkash",
+      "name": "Manish",
+      "num": "9136491824"
+    },
+    {
+      "aadhar": "682771859423",
+      "address": "!House Number-181  Darwaja Panna Village Mungesh PurMungesh Pur  North West AIRTEL DELHI QutabagarhNarela AIRTEL DELHI 110039!!!!!!!",
+      "alt": "9268990574",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Jai Parkash",
+      "name": "Manish",
+      "num": "9136491824"
+    },
+    {
+      "aadhar": "682771859423",
+      "address": "!House Number-181!!!Darwaja Panna Village Mungesh PurMungesh PurNorth West Delhi!Delhi!110039",
+      "alt": "9268990574",
+      "circle": "AIRTEL DELHI",
+      "email": "Manishkaushik0406@Gmail.Com",
+      "fname": "Jai Parkash",
+      "name": "Manish",
+      "num": "9136491824"
+    },
+    {
+      "aadhar": "682771859423",
+      "address": "!House Number-181!!!Darwaja Panna Village Mungesh PurMungesh PurNorth West Delhi!Delhi!110039",
+      "alt": "9268990574",
+      "circle": "AIRTEL DELHI",
+      "email": "Manishkaushik0406@Gmail.Com",
+      "fname": "Jai Parkash",
+      "name": "Manish",
+      "num": "9136491824"
+    }
+  ]
+}
