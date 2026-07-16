@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:03:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9690837350",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!H No 9!Gali No 5 Mustafabad!Mustafabad NORTH WEST DELHI!Mustafabad!DELHI!NORTH WEST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Abdul Gafur",
+      "name": "Gulfam  ",
+      "num": "9690837350"
+    },
+    {
+      "aadhar": "922024945172",
+      "address": "!!24 zamir husain colonymeerut!NA!meerut!MeerutMeerut!NA!Uttar Pradesh!250002",
+      "alt": "8430882115",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Abdul Gafur",
+      "name": "Gulfam",
+      "num": "9690837350"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 9!Gali No 5 Mustafabad!Mustafabad NORTH WEST DELHI!Mustafabad!DELHI!NORTH WEST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Abdul Gafur",
+      "name": "Gulfam  ",
+      "num": "9690837350"
+    },
+    {
+      "aadhar": null,
+      "address": "!H No 9!Gali No 5 Mustafabad!Mustafabad NORTH WEST DELHI!Mustafabad!DELHI!NORTH WEST DELHI!Delhi!110094",
+      "alt": null,
+      "circle": "VI DELHI",
+      "email": null,
+      "fname": "S/O  Abdul Gafur",
+      "name": "Gulfam  ",
+      "num": "9690837350"
+    },
+    {
+      "aadhar": "922024945172",
+      "address": "!h no 24 zakir husain colony!meerut!!meerut!Meerut!Meerut!Uttar Pradesh!250002",
+      "alt": "9690837350",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Abdul gafur",
+      "name": "Gulfam  ",
+      "num": "7983899604"
+    }
+  ]
+}
