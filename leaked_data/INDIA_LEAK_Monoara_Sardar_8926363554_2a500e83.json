@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:09:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8926363554",
+  "records": [
+    {
+      "aadhar": "537916765178",
+      "address": " !!Jibantala Sarangabad!!!Sarengabad Canning - II!South 24 Parganas!West Bengal!743376 ",
+      "alt": "9735816049",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "another ali molla",
+      "name": "Monoara Sardar",
+      "num": "8926363554"
+    },
+    {
+      "aadhar": "537916765178",
+      "address": " !!Jibantala Sarangabad!!!Sarengabad Canning - II!South 24 Parganas!West Bengal!743376 ",
+      "alt": "9735816049",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "another ali molla",
+      "name": "Monoara Sardar",
+      "num": "8926363554"
+    }
+  ]
+}
