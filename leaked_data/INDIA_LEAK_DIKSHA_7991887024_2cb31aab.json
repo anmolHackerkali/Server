@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:55:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7991887024",
+  "records": [
+    {
+      "aadhar": "599492758820",
+      "address": "!00 !shahjahan pur road shri nagar!!kaloni khoobpur sitapur sitapur !Sitapur!Sitapur!Uttar Pradesh!261001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra Shukla",
+      "name": "DIKSHA",
+      "num": "7991887024"
+    },
+    {
+      "aadhar": "599492758820",
+      "address": "!00 !shahjahan pur road shri nagar!!kaloni khoobpur sitapur sitapur !Sitapur!Sitapur!Uttar Pradesh!261001",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra Shukla",
+      "name": "DIKSHA",
+      "num": "7991887024"
+    }
+  ]
+}
