@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:46:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8377000508",
+  "records": [
+    {
+      "aadhar": "238686052568",
+      "address": "P No 257!Dsidc Nrl Narela!!NEW DELHI!Delhi!110040",
+      "alt": "7290048769",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@ADVANCEEPC.COM",
+      "fname": "MUKESH KUMAR",
+      "name": "Advance Panels And Switchgears Private Limited",
+      "num": "8377000508"
+    },
+    {
+      "aadhar": "791514905765",
+      "address": "P No 257 Dsidc Nrl Narela  NEW DELHI Delhi 110040",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Advance Panels And Switchgears Private Limited",
+      "name": "NEERAJ kumar PRASAD",
+      "num": "8377000508"
+    },
+    {
+      "aadhar": "238686052568",
+      "address": "P No 257!Dsidc Nrl Narela!!NEW DELHI!Delhi!110040",
+      "alt": "7290048769",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@ADVANCEEPC.COM",
+      "fname": "MUKESH KUMAR",
+      "name": "Advance Panels And Switchgears Private Limited",
+      "num": "8377000508"
+    },
+    {
+      "aadhar": "791514905765",
+      "address": "P No 257 Dsidc Nrl Narela  NEW DELHI Delhi 110040",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Advance Panels And Switchgears Private Limited",
+      "name": "NEERAJ kumar PRASAD",
+      "num": "8377000508"
+    },
+    {
+      "aadhar": "238686052568",
+      "address": "P No 257!Dsidc Nrl Narela!!NEW DELHI!Delhi!110040",
+      "alt": "7290048769",
+      "circle": "JIO DELHI",
+      "email": "ACCOUNTS@ADVANCEEPC.COM",
+      "fname": "MUKESH KUMAR",
+      "name": "Advance Panels And Switchgears Private Limited",
+      "num": "8377000508"
+    }
+  ]
+}
