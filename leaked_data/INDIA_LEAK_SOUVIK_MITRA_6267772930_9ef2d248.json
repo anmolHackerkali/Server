@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:42:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6267772930",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!206!Chuahi majhauli chuahi!majhauli!Shahdol Sidhi!Madhya Pradesh!486666",
+      "alt": "917893503370",
+      "circle": "JIO MP",
+      "email": "souvik.iiit@gmail.com",
+      "fname": "Tarun mitra",
+      "name": "SOUVIK MITRA",
+      "num": "6267772930"
+    },
+    {
+      "aadhar": "276839161142",
+      "address": "S/O Tarun Mitra!!moulana azad road!HRIDAYPUR!hridaypur barasat - i!hridaypur!north twenty four parganas!West Bengal!700127",
+      "alt": "6267772930",
+      "circle": "JIO KOLKATA",
+      "email": null,
+      "fname": "Tarun Mitra",
+      "name": "Souvik Mitra",
+      "num": "8240950354"
+    }
+  ]
+}
