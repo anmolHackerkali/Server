@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:00:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9812733811",
+  "records": [
+    {
+      "aadhar": "989073246520",
+      "address": "!159!IMLOTA!!TEH CH DADRI NA BHIWANI!!BHIWANI!HARYANA!127306",
+      "alt": "7015657807",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "MEHAR  SINGH",
+      "name": "PARMOD  KUMAR",
+      "num": "9812733811"
+    },
+    {
+      "aadhar": "989073246520",
+      "address": "159 IMLOTA  TEH CH DADRI NA BHIWANI  BHIWANI HARYANA 127306",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "MEHAR  SINGH",
+      "name": "PARMOD  KUMAR",
+      "num": "9812733811"
+    },
+    {
+      "aadhar": "989073246520",
+      "address": "Vill Imlota 159 Imlota!Vill Imlota 159 Imlota!Bhiwani  Bhiwani!Bhiwani!Haryana!127306",
+      "alt": "9812733811",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "Mehar  Singh",
+      "name": "Parmod  Kumar",
+      "num": "9896433810"
+    }
+  ]
+}
