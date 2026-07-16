@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:41:13",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9992587058",
+  "records": [
+    {
+      "aadhar": "990582428005",
+      "address": "D/O: Nil Kanwar D/O: Nil Kanwar 172/1 Jhajjar Jhajjar  sita ram gate JHAJJAR-JHAJJAR HR 124103",
+      "alt": "8053113541",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "NIL KANWAR  ",
+      "name": "YAKSHI  ",
+      "num": "9992587058"
+    },
+    {
+      "aadhar": "990582428005",
+      "address": "D/O: Nil Kanwar D/O: Nil Kanwar 172/1 Jhajjar Jhajjar  sita ram gate JHAJJAR-JHAJJAR HR 124103",
+      "alt": "8053113541",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "NIL KANWAR  ",
+      "name": "YAKSHI  ",
+      "num": "9992587058"
+    }
+  ]
+}
