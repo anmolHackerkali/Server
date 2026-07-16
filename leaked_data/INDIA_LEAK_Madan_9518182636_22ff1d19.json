@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:05:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9518182636",
+  "records": [
+    {
+      "aadhar": "624057978710",
+      "address": "S/O  Mahipal Singh!!Noonsar!villagebidhnoi!BidhnoiLoharuBhiwani!Haryana!127028",
+      "alt": "+919992459746",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Mahipal Singh",
+      "name": "Madan",
+      "num": "9518182636"
+    },
+    {
+      "aadhar": "xxxxxxxx8710",
+      "address": "c/o mahipal!!!!bidhnoi!Bidhnoi!Bhiwani!Haryana!127028",
+      "alt": "9518182636",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Mahipal",
+      "name": "Madan",
+      "num": "9992459746"
+    },
+    {
+      "aadhar": "624057978710",
+      "address": "c/o mahipal!!!!bidhnoi!noonsar!bhiwani!Haryana!127028",
+      "alt": "9518182636",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Mahipal",
+      "name": "Madan",
+      "num": "9350174549"
+    },
+    {
+      "aadhar": "xxxxxxxx8710",
+      "address": "c/o mahipal!!!!bidhnoi!Bidhnoi!Bhiwani!Haryana!127028",
+      "alt": "9518182636",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Mahipal",
+      "name": "Madan",
+      "num": "9992459746"
+    }
+  ]
+}
