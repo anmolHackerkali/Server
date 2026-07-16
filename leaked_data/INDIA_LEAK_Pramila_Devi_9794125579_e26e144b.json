@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:36:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9794125579",
+  "records": [
+    {
+      "aadhar": "391716896133",
+      "address": "W/O Dhirendra Sah!8u!ghaghwa jagdish mu Rakaba Junglepatti!mandir!Rakaba Junglepatti kushinagar rakaba junglepatti!Kushinagar!Kushinagar!Uttar Pradesh!274406",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dhirendra Sah",
+      "name": "Pramila Devi",
+      "num": "9794125579"
+    },
+    {
+      "aadhar": "391716896133",
+      "address": "W/O Dhirendra Sah!8u!ghaghwa jagdish mu Rakaba Junglepatti!mandir!Rakaba Junglepatti kushinagar rakaba junglepatti!Kushinagar!Kushinagar!Uttar Pradesh!274406",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Dhirendra Sah",
+      "name": "Pramila Devi",
+      "num": "9794125579"
+    }
+  ]
+}
