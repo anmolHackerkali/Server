@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:03:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9050832070",
+  "records": [
+    {
+      "aadhar": "934490871047",
+      "address": "S/O RANBIR SINGH!MANDIMANDI 82!!  MANDIISRANA!PANIPAT!HARYANA!132107",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RANBIR  SINGH",
+      "name": "LOKESH  KUMAR",
+      "num": "9050832070"
+    },
+    {
+      "aadhar": "934490871047",
+      "address": "MANDIMANDI 82     MANDIISRANA  PANIPAT HARYANA 132107",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RANBIR  SINGH",
+      "name": "LOKESH  KUMAR",
+      "num": "9050832070"
+    },
+    {
+      "aadhar": "934490871047",
+      "address": "S/O: Ranbir Singh S/O: Ranbir Singh mandi Mandi Israna MANDI 82-PANIPAT HR 132107",
+      "alt": "9050832070",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "RANBIR SINGH",
+      "name": "LOKESH KUMAR",
+      "num": "9992013616"
+    }
+  ]
+}
