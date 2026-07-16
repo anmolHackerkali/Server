@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:12:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8826853683",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx6706",
+      "address": "!rz 156a!gali no 3!raj ngr 2 palam!DelhiDelhi!Delhi!110077",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit  Singh",
+      "num": "8826853683"
+    },
+    {
+      "aadhar": "xxxxxxxx6706",
+      "address": "!rz 156a!gali no 3!!raj ngr 2 palam!AIRTEL DELHI!!AIRTEL DELHI!110077",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit  Singh",
+      "num": "8826853683"
+    },
+    {
+      "aadhar": "xxxxxxxx6706",
+      "address": "!rz 156a!gali no 3!raj ngr 2 palam!DelhiDelhi!Delhi!110077",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit  Singh",
+      "num": "8826853683"
+    },
+    {
+      "aadhar": "xxxxxxxx6706",
+      "address": "!rz 156a!gali no 3!raj ngr 2 palam!DelhiDelhi!Delhi!110077",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit  Singh",
+      "num": "8826853683"
+    },
+    {
+      "aadhar": "952716766706",
+      "address": "C/O CHANDRA BHAN SINGH!Kalyanpur!.!!Dhingwas PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230128",
+      "alt": "8826853683",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "MR. UDIT SINGH",
+      "num": "7081248826"
+    },
+    {
+      "aadhar": "952716766706",
+      "address": "S/O  Chandra Bhan Singh!!pure birabal Derwa!dhingawas!bhagautiganj!Dhingwas Lalganj!Pratapgarh!Uttar Pradesh!230128",
+      "alt": "8826853683",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit Singh",
+      "num": "9569575181"
+    },
+    {
+      "aadhar": "537594760342",
+      "address": "S/O: Shri Vijay Singh  garhi usara post- pamari Tundla  Tundla  TUNDLA-FIROZABAD UP 283204",
+      "alt": "8826853683",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Shri Vijay Singh",
+      "name": "VIJENDRA SINGH",
+      "num": "7500173721"
+    },
+    {
+      "aadhar": "952716766706",
+      "address": "C/O CHANDRA BHAN SINGH!Kalyanpur!.!!Dhingwas  PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230128",
+      "alt": "8826853683",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "MR UDIT SINGH",
+      "num": "7081248826"
+    },
+    {
+      "aadhar": "952716766706",
+      "address": "S/O  Chandra Bhan Singh!!pure birabal Derwa!dhingawas!bhagautiganj!Dhingwas Lalganj!Pratapgarh!Uttar Pradesh!230128",
+      "alt": "8826853683",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "Udit Singh",
+      "num": "9569575181"
+    },
+    {
+      "aadhar": "537594760342",
+      "address": "S/O: Shri Vijay Singh  garhi usara post- pamari Tundla  Tundla  TUNDLA-FIROZABAD UP 283204",
+      "alt": "8826853683",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Shri Vijay Singh",
+      "name": "VIJENDRA SINGH",
+      "num": "7500173721"
+    },
+    {
+      "aadhar": "952716766706",
+      "address": "C/O CHANDRA BHAN SINGH!Kalyanpur!.!!Dhingwas  PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230128",
+      "alt": "8826853683",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Chandra Bhan Singh",
+      "name": "MR UDIT SINGH",
+      "num": "7081248826"
+    }
+  ]
+}
