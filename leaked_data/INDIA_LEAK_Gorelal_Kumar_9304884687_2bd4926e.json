@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:51:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9304884687",
+  "records": [
+    {
+      "aadhar": "555851970531",
+      "address": "S/O  Siya Sharan Prasad!!S Marighgawa!village bholakurha Sirdala!Sanrh Majhganw Nawada!Bihar!805127",
+      "alt": "917631121923",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Siya Sharan Prasad",
+      "name": "Gorelal Kumar",
+      "num": "9304884687"
+    },
+    {
+      "aadhar": "555851970531",
+      "address": "S/O  Siya Sharan Prasad!!S Marighgawa!village bholakurha Sirdala!Sanrh Majhganw Nawada!Bihar!805127",
+      "alt": "917631121923",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Siya Sharan Prasad",
+      "name": "Gorelal Kumar",
+      "num": "9304884687"
+    },
+    {
+      "aadhar": "555851970531",
+      "address": "S/O  Siya Sharan Prasad!!S Marighgawa!village bholakurha Sirdala!Sanrh Majhganw Nawada!Bihar!805127",
+      "alt": "917631121923",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Siya Sharan Prasad",
+      "name": "Gorelal Kumar",
+      "num": "9304884687"
+    }
+  ]
+}
