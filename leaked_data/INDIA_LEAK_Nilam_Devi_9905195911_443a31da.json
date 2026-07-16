@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:12:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9905195911",
+  "records": [
+    {
+      "aadhar": "575234465249",
+      "address": "w/o  sunil kumar singh!!Ward No  13 Sherghati!sherghati!ward no  13 mohalla satsang nagar - thana sherghati!sherghati Sherghati!gaya!Bihar!824211",
+      "alt": "7061191598",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "sunil kumar singh",
+      "name": "Nilam Devi",
+      "num": "9905195911"
+    },
+    {
+      "aadhar": "575234465249",
+      "address": "w/o  sunil kumar singh!!Ward.No. 13 Sherghati!sherghati!ward.no. 13 mohalla satsang nagar - thana sherghati!sherghati Sherghati!gaya!Bihar!824211",
+      "alt": "7061191598",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sunil kumar singh",
+      "name": "Nilam Devi",
+      "num": "9905195911"
+    },
+    {
+      "aadhar": "575234465249",
+      "address": "w/o  sunil kumar singh!!Ward.No. 13 Sherghati!sherghati!ward.no. 13 mohalla satsang nagar - thana sherghati!sherghati Sherghati!gaya!Bihar!824211",
+      "alt": "7061191598",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "sunil kumar singh",
+      "name": "Nilam Devi",
+      "num": "9905195911"
+    }
+  ]
+}
