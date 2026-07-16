@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:43:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9999902177",
+  "records": [
+    {
+      "aadhar": "248570680822",
+      "address": "!c 3012!green field colony!faridabad!Gurgaon Gurgaon!Haryana!122003",
+      "alt": "919999951082",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vir Singh Choudhary",
+      "name": "Vishal Choudhary",
+      "num": "9999902177"
+    },
+    {
+      "aadhar": "248570680822",
+      "address": "!c 3012!green field colony!faridabad!GurgaonGurgaon!Haryana!122003",
+      "alt": "919999951082",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vir Singh Choudhary",
+      "name": "Vishal Choudhary",
+      "num": "9999902177"
+    },
+    {
+      "aadhar": "248570680822",
+      "address": "!c 3012!green field colony!faridabad!GurgaonGurgaon!Haryana!122003",
+      "alt": "919999951082",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Vir Singh Choudhary",
+      "name": "Vishal Choudhary",
+      "num": "9999902177"
+    },
+    {
+      "aadhar": null,
+      "address": "BARRACK OPERATION CELL ! SOUTH DISTRICT PUSHP VIHAR SEC IV ! DELHI ! DELHI ! DELHI ! 110017",
+      "alt": "9999902177",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRSINGH",
+      "name": "VISHAL CHOUDHARY",
+      "num": "9582614142"
+    },
+    {
+      "aadhar": null,
+      "address": "BARRACK OPERATION CELL ! SOUTH DISTRICT PUSHP VIHAR SEC IV ! DELHI ! DELHI ! DELHI ! 110017",
+      "alt": "9999902177",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRSINGH",
+      "name": "VISHAL CHOUDHARY",
+      "num": "9582614142"
+    },
+    {
+      "aadhar": null,
+      "address": "BARRACK OPERATION CELL ! SOUTH DISTRICT PUSHP VIHAR SEC IV ! DELHI ! DELHI ! DELHI ! 110017",
+      "alt": "9999902177",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "VIRSINGH",
+      "name": "VISHAL CHOUDHARY",
+      "num": "9582614142"
+    }
+  ]
+}
