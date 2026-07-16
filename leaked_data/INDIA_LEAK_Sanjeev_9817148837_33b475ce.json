@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:38:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9817148837",
+  "records": [
+    {
+      "aadhar": "938087324694",
+      "address": "S/O  Karan Singh!!village dhiganaDhigana!NA!teh jind!Dhigana 47JindJind!NA!Haryana!126114",
+      "alt": "9896259316",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Karan Singh",
+      "name": "Sanjeev",
+      "num": "9817148837"
+    }
+  ]
+}
