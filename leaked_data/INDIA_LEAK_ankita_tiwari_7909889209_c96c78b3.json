@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:27:41",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7909889209",
+  "records": [
+    {
+      "aadhar": "621133499065",
+      "address": "!!vill godhai post mangawan ward 3 mangawan sirmour rewa!NA!mangawan!Rewa Rewa!NA!Madhya Pradesh!486111",
+      "alt": "8827950603",
+      "circle": "JIO MP",
+      "email": "tiwariankita454@gmail.com",
+      "fname": "ramesh kumar tiwari",
+      "name": "ankita tiwari",
+      "num": "7909889209"
+    }
+  ]
+}
