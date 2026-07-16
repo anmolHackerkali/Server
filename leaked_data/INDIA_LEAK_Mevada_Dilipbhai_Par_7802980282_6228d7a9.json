@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:01:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7802980282",
+  "records": [
+    {
+      "aadhar": "766603603936",
+      "address": "!99/1 saibabanagar!bamroli road!!pandesara surat city!fatehnagar!surat!Gujarat!394220",
+      "alt": "9998615609",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshottambhai",
+      "name": "Mevada Dilipbhai Parshottambhai",
+      "num": "7802980282"
+    },
+    {
+      "aadhar": "766603603936",
+      "address": "!99/1 saibabanagar!bamroli road!!pandesara surat city!fatehnagar!surat!Gujarat!394220",
+      "alt": "9998615609",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshottambhai",
+      "name": "Mevada Dilipbhai Parshottambhai",
+      "num": "7802980282"
+    },
+    {
+      "aadhar": "766603603936",
+      "address": "!99/1 saibabanagar!bamroli road!!pandesara surat city!fatehnagar!surat!Gujarat!394220",
+      "alt": "9998615609",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Parshottambhai",
+      "name": "Mevada Dilipbhai Parshottambhai",
+      "num": "7802980282"
+    },
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7802980282",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "7359652925"
+    },
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7802980282",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "7359652925"
+    },
+    {
+      "aadhar": "475718626396",
+      "address": "S/O  Jagjivanbhai Mevada!!Udhna!near deep darshan school!kharvasa road new dindoli!Kharvasa!Surat!Gujarat!394210",
+      "alt": "7802980282",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Jagjivanbhai Mevada",
+      "name": "Bharat Kumar Mevada",
+      "num": "7359652925"
+    }
+  ]
+}
