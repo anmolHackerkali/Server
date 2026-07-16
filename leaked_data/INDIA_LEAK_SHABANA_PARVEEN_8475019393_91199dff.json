@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:47:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8475019393",
+  "records": [
+    {
+      "aadhar": "536914215427",
+      "address": "!--!WARD 10!EMALI CHAUK!ALLI KHAN!Udham Singh Nagar!!Uttarakhand!244713",
+      "alt": "8475019393",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "MOHD SHAREEF",
+      "name": "SHABANA PARVEEN",
+      "num": "7500545512"
+    },
+    {
+      "aadhar": "536914215427",
+      "address": "!--!WARD 10!EMALI CHAUK!ALLI KHAN!Udham Singh Nagar!!Uttarakhand!244713",
+      "alt": "8475019393",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "MOHD SHAREEF",
+      "name": "SHABANA PARVEEN",
+      "num": "7500545512"
+    }
+  ]
+}
