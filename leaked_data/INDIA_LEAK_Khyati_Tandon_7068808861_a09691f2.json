@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:54:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7068808861",
+  "records": [
+    {
+      "aadhar": "699288821591",
+      "address": "D/O Gautam Tandon!C-10!Near Holy Montessari School!holy Montessari!Sector-D Lucknow!Lucknow!Lucknow!Uttar Pradesh!226021",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gautam Tandon",
+      "name": "Khyati Tandon",
+      "num": "7068808861"
+    },
+    {
+      "aadhar": "699288821591",
+      "address": "D/O Gautam Tandon!C-10!Near Holy Montessari School!holy Montessari!Sector-D Lucknow!Lucknow!Lucknow!Uttar Pradesh!226021",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Gautam Tandon",
+      "name": "Khyati Tandon",
+      "num": "7068808861"
+    }
+  ]
+}
