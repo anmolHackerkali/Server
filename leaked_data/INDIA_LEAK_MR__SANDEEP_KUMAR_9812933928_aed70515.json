@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:09:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9812933928",
+  "records": [
+    {
+      "aadhar": "392267992355",
+      "address": "S/O: Ajit Singh jind road jind road brah khurd 73school school teh jind khark RamjiJIND JIND JIND HARYANA 126102",
+      "alt": "7027029409",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Ajit Singh",
+      "name": "MR  SANDEEP KUMAR",
+      "num": "9812933928"
+    }
+  ]
+}
