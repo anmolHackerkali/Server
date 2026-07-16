@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:34:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8303103354",
+  "records": [
+    {
+      "aadhar": "928417341963",
+      "address": "D/O  Sheetla Prasad!631/134!AJAY NAGAR  KAMTA  Lucknow  Chinhat AJAY NAGAR KAMTA Chinhat!NA!!Lucknow Bakshi Ka Talab Lucknow!NA!Uttar Pradesh!227105",
+      "alt": "8005173021",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sheetla Prasad",
+      "name": "Garima",
+      "num": "8303103354"
+    },
+    {
+      "aadhar": "928417341963",
+      "address": "D/O  Sheetla Prasad!631/134!AJAY NAGAR  KAMTA  Lucknow  Chinhat AJAY NAGAR KAMTA Chinhat!NA!!Lucknow Bakshi Ka Talab Lucknow!NA!Uttar Pradesh!227105",
+      "alt": "8005173021",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Sheetla Prasad",
+      "name": "Garima",
+      "num": "8303103354"
+    }
+  ]
+}
