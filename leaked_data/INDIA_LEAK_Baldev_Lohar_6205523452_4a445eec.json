@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:27:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6205523452",
+  "records": [
+    {
+      "aadhar": "673516553912",
+      "address": "NA!Chatro PO!Giridih!VILL-PURNIGADIYA-PO-CHATRO-PS-DEORI Chatro!Giridih!Giridih!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kulu Lohar",
+      "name": "Baldev Lohar",
+      "num": "6205523452"
+    },
+    {
+      "aadhar": "673516553912",
+      "address": "NA!Chatro PO!Giridih!VILL-PURNIGADIYA-PO-CHATRO-PS-DEORI Chatro!Giridih!Giridih!Jharkhand!815314",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kulu Lohar",
+      "name": "Baldev Lohar",
+      "num": "6205523452"
+    },
+    {
+      "aadhar": "774862267756",
+      "address": "  VILL -MANJHALADIH Vill Manjhaladih temple PO-CHATRO DEORI temple PO-CHATRO DEORI PS-DEORI CHATRO CHATRO GIRIDIH BAIRIA B.O - GIR GIRIDIH JHARKHAND 815314 ",
+      "alt": "6205523452",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sunil Rana ",
+      "name": " MS  RINA DEVI ",
+      "num": "8582041465"
+    },
+    {
+      "aadhar": "783923330733",
+      "address": "c/o ramdeo pandit!c/o ramdeo pandit  .!basmatta saroun tola basmata jamui!!basmatta saroun!tola basmata!jamui!Bihar!811303",
+      "alt": "6205523452",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramdeo pandit",
+      "name": "Sohit Shashi",
+      "num": "6203903658"
+    },
+    {
+      "aadhar": "774862267756",
+      "address": "  VILL -MANJHALADIH Vill Manjhaladih temple PO-CHATRO DEORI temple PO-CHATRO DEORI PS-DEORI CHATRO CHATRO GIRIDIH BAIRIA B.O - GIR GIRIDIH JHARKHAND 815314 ",
+      "alt": "6205523452",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " Sunil Rana ",
+      "name": " MS  RINA DEVI ",
+      "num": "8582041465"
+    },
+    {
+      "aadhar": "783923330733",
+      "address": "c/o ramdeo pandit!c/o ramdeo pandit  .!basmatta saroun tola basmata jamui!!basmatta saroun!tola basmata!jamui!Bihar!811303",
+      "alt": "6205523452",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "ramdeo pandit",
+      "name": "Sohit Shashi",
+      "num": "6203903658"
+    }
+  ]
+}
