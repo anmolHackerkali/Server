@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:17:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9621918775",
+  "records": [
+    {
+      "aadhar": "434729548125",
+      "address": "S/O: Nanga!87!atava east bhag 1!sandila Atwa Urf Madho Nagar!Hardoi!Uttar Pradesh!241204",
+      "alt": "9169697798",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nanga",
+      "name": "Vinod Kumar",
+      "num": "9621918775"
+    },
+    {
+      "aadhar": "434729548125",
+      "address": "S/O: Nanga!87!atava east bhag 1!sandila Atwa Urf Madho Nagar!Hardoi!Uttar Pradesh!241204",
+      "alt": "9169697798",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Nanga",
+      "name": "Vinod Kumar",
+      "num": "9621918775"
+    }
+  ]
+}
