@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:17:10",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8210681113",
+  "records": [
+    {
+      "aadhar": "872014788631",
+      "address": "D/O  Abhay Kumar!!!Shanti Nagar   Danapur Near Registray Office!DINAPUR-CUM-KHAGAUL PATNA!Bihar!800012",
+      "alt": "918083504256",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abhay Kumar",
+      "name": "Puja Kumari",
+      "num": "8210681113"
+    },
+    {
+      "aadhar": "872014788631",
+      "address": "D/O  Abhay Kumar!!!Shanti Nagar   Danapur Near Registray Office!DINAPUR-CUM-KHAGAUL PATNA!Bihar!800012",
+      "alt": "918083504256",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Abhay Kumar",
+      "name": "Puja Kumari",
+      "num": "8210681113"
+    }
+  ]
+}
