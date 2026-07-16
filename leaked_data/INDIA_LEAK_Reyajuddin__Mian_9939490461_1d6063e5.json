@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:00:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939490461",
+  "records": [
+    {
+      "aadhar": "563015367847",
+      "address": "S/O Nathuni Miya!Ward NO 11!!BANKAT Bankat!!Bankat!Bihar!845449",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nathuni Miya",
+      "name": "Reyajuddin  Mian",
+      "num": "9939490461"
+    },
+    {
+      "aadhar": "563015367847",
+      "address": "S/O Nathuni Miya!Ward NO 11!!BANKAT Bankat!!Bankat!Bihar!845449",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Nathuni Miya",
+      "name": "Reyajuddin  Mian",
+      "num": "9939490461"
+    },
+    {
+      "aadhar": "461529844836",
+      "address": "s/o reyajuddin miya! ward no 11!bankat!!bankat!puraina gosain!west champaran!Bihar!845449",
+      "alt": "9939490461",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "reyajuddin miya",
+      "name": "Md Imran",
+      "num": "6299448966"
+    },
+    {
+      "aadhar": "461529844836",
+      "address": "s/o reyajuddin miya! ward no 11!bankat!!bankat!puraina gosain!west champaran!Bihar!845449",
+      "alt": "9939490461",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "reyajuddin miya",
+      "name": "Md Imran",
+      "num": "6299448966"
+    },
+    {
+      "aadhar": "461529844836",
+      "address": "s/o reyajuddin miya! ward no 11!bankat!!bankat!puraina gosain!west champaran!Bihar!845449",
+      "alt": "9939490461",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "reyajuddin miya",
+      "name": "Md Imran",
+      "num": "6299448966"
+    }
+  ]
+}
