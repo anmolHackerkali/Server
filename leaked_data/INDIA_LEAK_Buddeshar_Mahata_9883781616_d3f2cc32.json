@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:10:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9883781616",
+  "records": [
+    {
+      "aadhar": "722291461983",
+      "address": " S/O Daman Mahata!!Bodhna!!bodhna!katchara damodarpur Jhargram!paschim medinipur!West Bengal!721507 ",
+      "alt": "8972322672",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Daman Mahata",
+      "name": "Buddeshar Mahata",
+      "num": "9883781616"
+    },
+    {
+      "aadhar": "722291461983",
+      "address": " S/O Daman Mahata!!Bodhna!!bodhna!katchara damodarpur Jhargram!paschim medinipur!West Bengal!721507 ",
+      "alt": "8972322672",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Daman Mahata",
+      "name": "Buddeshar Mahata",
+      "num": "9883781616"
+    }
+  ]
+}
