@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:33:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9431871347",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O  Akshy Kumr Mishra!!!Kachari chowk  Shiv Bhawan!!Jagdishpur!Bhagalpur!Bihar!812001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Akshy Kumr Mishra",
+      "name": "Archana Jha",
+      "num": "9431871347"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O  Akshy Kumr Mishra!!!Kachari chowk  Shiv Bhawan!!Jagdishpur!Bhagalpur!Bihar!812001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Akshy Kumr Mishra",
+      "name": "Archana Jha",
+      "num": "9431871347"
+    }
+  ]
+}
