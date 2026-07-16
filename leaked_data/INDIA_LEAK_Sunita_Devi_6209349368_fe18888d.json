@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:31:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6209349368",
+  "records": [
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    },
+    {
+      "aadhar": "635564733248",
+      "address": "w/o  amitesh singh!!Mahulighat!!!jokahri Barhara!bhojpur!Bihar!802316",
+      "alt": "9572489604",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "amitesh singh",
+      "name": "Sunita Devi",
+      "num": "6209349368"
+    }
+  ]
+}
