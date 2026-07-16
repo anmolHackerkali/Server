@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:24:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8795530829",
+  "records": [
+    {
+      "aadhar": "698586985617",
+      "address": "HANSRAJ VERMA!MAJHAUWA TOG!gaura chauki to keshav nagar!gaura chauki to keshav nagar!KESHAV NAGAR GRANT MADHAURA TAGE GONDA!GONDA!UTTAR PRADESH!271312",
+      "alt": "8948181239",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hansraj Verma",
+      "name": "MR SUDHAKAR VERMA",
+      "num": "8795530829"
+    },
+    {
+      "aadhar": "698586985617",
+      "address": "HANSRAJ VERMA!MAJHAUWA TOG!gaura chauki to keshav nagar!gaura chauki to keshav nagar!KESHAV NAGAR GRANT MADHAURA TAGE GONDA!GONDA!UTTAR PRADESH!271312",
+      "alt": "8948181239",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Hansraj Verma",
+      "name": "MR SUDHAKAR VERMA",
+      "num": "8795530829"
+    },
+    {
+      "aadhar": "940033020345",
+      "address": "MANGRU!808!gaura chauki to keshav nagar!gaura chauki to keshav nagar!KESHAU NAGAR GRINT GONDA!GONDA!UTTAR PRADESH!271312",
+      "alt": "8795530829",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MANGRU",
+      "name": "MS KUSMA ",
+      "num": "9335304115"
+    },
+    {
+      "aadhar": "940033020345",
+      "address": "MANGRU!808!gaura chauki to keshav nagar!gaura chauki to keshav nagar!KESHAU NAGAR GRINT GONDA!GONDA!UTTAR PRADESH!271312",
+      "alt": "8795530829",
+      "circle": "UPE",
+      "email": null,
+      "fname": "MANGRU",
+      "name": "MS KUSMA ",
+      "num": "9335304115"
+    }
+  ]
+}
