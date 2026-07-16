@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:55:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896603684",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "VILL SUNDERPUR!TEH JIND!DISTT JIND VILL SUNDERPUR!JIND!Haryana!NA",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BIJENDER SINGH",
+      "name": "AMAN KUMAR",
+      "num": "9896603684"
+    },
+    {
+      "aadhar": "NA",
+      "address": "VILL SUNDERPUR TEH JIND  DISTT JIND VILL SUNDERPUR  JIND Haryana NA",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BIJENDER SINGH",
+      "name": "AMAN KUMAR",
+      "num": "9896603684"
+    }
+  ]
+}
