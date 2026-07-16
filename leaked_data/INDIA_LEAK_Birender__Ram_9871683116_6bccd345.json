@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:03:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9871683116",
+  "records": [
+    {
+      "aadhar": "217397435949",
+      "address": "S/O Manehi Ram!Q NO-400  TYPE-1!H-BLOCK!POLICE COLONY  ASHOK VIHAR  PHASE-1 Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manehi  Ram",
+      "name": "Birender  Ram",
+      "num": "9871683116"
+    },
+    {
+      "aadhar": "217397435949",
+      "address": "S/O Manehi Ram!Q NO-400 TYPE-1!H-BLOCK!POLICE COLONY ASHOK VIHAR PHASE-1Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manehi  Ram",
+      "name": "Birender  Ram",
+      "num": "9871683116"
+    },
+    {
+      "aadhar": "217397435949",
+      "address": "S/O Manehi Ram!Q NO-400 TYPE-1!H-BLOCK!POLICE COLONY ASHOK VIHAR PHASE-1Ashok Vihar!North West Delhi!Delhi!110052",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Manehi  Ram",
+      "name": "Birender  Ram",
+      "num": "9871683116"
+    },
+    {
+      "aadhar": "xxxxxxxx4878",
+      "address": "W/O Birender Ram! Q NO 400 POLICE COLLONY H BLK  !! ASHOK VIHAR Ashok Vihar  !North West DelhiNorth West Delhi!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Birender  Ram",
+      "name": "Lalita",
+      "num": "9667775264"
+    },
+    {
+      "aadhar": "xxxxxxxx4878",
+      "address": "W/O Birender Ram!Q NO 400 POLICE COLLONY H BLK!!!ASHOK VIHARAshok Vihar !North West AIRTEL DELHI!!AIRTEL DELHI!110052",
+      "alt": "9871683116",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Birender  Ram",
+      "name": "Lalita",
+      "num": "9667775264"
+    },
+    {
+      "aadhar": "993860847927",
+      "address": "!quarer no 400!h police coloney!type first!ashok vihar!Delhi North!North West!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manehi Ram",
+      "name": "Surendra Ram  ",
+      "num": "8287789655"
+    },
+    {
+      "aadhar": "xxxxxxxx4878",
+      "address": "W/O Birender Ram!Q NO 400 POLICE COLLONY H BLK!!ASHOK VIHARAshok Vihar !North West DelhiNorth West Delhi!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Birender  Ram",
+      "name": "Lalita",
+      "num": "9667775264"
+    },
+    {
+      "aadhar": "993860847927",
+      "address": "!quarer no 400!h police coloney!type first!ashok vihar!Delhi North!North West!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manehi Ram",
+      "name": "Surendra Ram  ",
+      "num": "8287789655"
+    },
+    {
+      "aadhar": "xxxxxxxx4878",
+      "address": "W/O Birender Ram!Q NO 400 POLICE COLLONY H BLK!!ASHOK VIHARAshok Vihar !North West DelhiNorth West Delhi!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Birender  Ram",
+      "name": "Lalita",
+      "num": "9667775264"
+    },
+    {
+      "aadhar": "993860847927",
+      "address": "!quarer no 400!h police coloney!type first!ashok vihar!Delhi North!North West!Delhi!110052",
+      "alt": "9871683116",
+      "circle": "Delhi Jio",
+      "email": null,
+      "fname": "Manehi Ram",
+      "name": "Surendra Ram  ",
+      "num": "8287789655"
+    }
+  ]
+}
