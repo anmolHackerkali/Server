@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:05:32",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9670265213",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Doodh Nath Yadav!.!.!birapur Pratapgarh!!Pratapgarh!UTTAR PRADESH!230402",
+      "alt": "9670265213",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "9598265213"
+    },
+    {
+      "aadhar": "973758928624",
+      "address": "W/O  Kashiprasad!!Rajgarh!chandpur!!Rajgarh Kunda!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kashiprasad",
+      "name": "Rina",
+      "num": "8291195352"
+    },
+    {
+      "aadhar": "493523987890",
+      "address": "S/O Ashok Kumar Yadav! 0!Ghatampur bhadohi SADAR!!Ghatampur Bhadohi!Ghatampur!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ashok Kumar Yadav",
+      "name": "Abhishek Kumar Yadav",
+      "num": "7393976701"
+    },
+    {
+      "aadhar": "657515494037",
+      "address": "S/O  Doodh Nath Yadav!!Bhagwatganj!!birapur!Rampur Kunda!Pratapgarh!Uttar Pradesh!230402",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "7307842343"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Doodh Nath Yadav!.!.!birapur Pratapgarh!!Pratapgarh!UTTAR PRADESH!230402",
+      "alt": "9670265213",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "9598265213"
+    },
+    {
+      "aadhar": "973758928624",
+      "address": "W/O  Kashiprasad!!Rajgarh!chandpur!!Rajgarh Kunda!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Kashiprasad",
+      "name": "Rina",
+      "num": "8291195352"
+    },
+    {
+      "aadhar": "493523987890",
+      "address": "S/O Ashok Kumar Yadav! 0!Ghatampur bhadohi SADAR!!Ghatampur Bhadohi!Ghatampur!Pratapgarh!Uttar Pradesh!230131",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ashok Kumar Yadav",
+      "name": "Abhishek Kumar Yadav",
+      "num": "7393976701"
+    },
+    {
+      "aadhar": "657515494037",
+      "address": "S/O  Doodh Nath Yadav!!Bhagwatganj!!birapur!Rampur Kunda!Pratapgarh!Uttar Pradesh!230402",
+      "alt": "9670265213",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Doodh Nath Yadav",
+      "name": "Vikram Yadav",
+      "num": "7307842343"
+    }
+  ]
+}
