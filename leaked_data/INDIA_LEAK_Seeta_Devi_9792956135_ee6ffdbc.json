@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:07:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9792956135",
+  "records": [
+    {
+      "aadhar": "437294039332",
+      "address": " !PURE SUKKHA!- Dhanapur!PURE SUKKHA TIWARI!Dhanapur-Amethi-Amet!Uttar Pradesh!227407",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Sadanand",
+      "name": "Seeta Devi",
+      "num": "9792956135"
+    },
+    {
+      "aadhar": "437294039332",
+      "address": " !PURE SUKKHA!- Dhanapur!PURE SUKKHA TIWARI!Dhanapur-Amethi-Amet!Uttar Pradesh!227407",
+      "alt": null,
+      "circle": "UPE",
+      "email": null,
+      "fname": "Sadanand",
+      "name": "Seeta Devi",
+      "num": "9792956135"
+    }
+  ]
+}
