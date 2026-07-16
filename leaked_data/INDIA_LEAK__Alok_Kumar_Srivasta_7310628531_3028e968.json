@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:06:07",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7310628531",
+  "records": [
+    {
+      "aadhar": "221654012159",
+      "address": " S/O Amar Nath Srivastav!62!C D S nagar!Mathura!Mathura!Uttar Pradesh!281001 ",
+      "alt": "9456221177",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Amar Nath Srivastav ",
+      "name": " Alok Kumar Srivastav ",
+      "num": "7310628531"
+    },
+    {
+      "aadhar": "221654012159",
+      "address": " S/O Amar Nath Srivastav!62!C D S nagar!Mathura!Mathura!Uttar Pradesh!281001 ",
+      "alt": "9456221177",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": " Amar Nath Srivastav ",
+      "name": " Alok Kumar Srivastav ",
+      "num": "7310628531"
+    },
+    {
+      "aadhar": "604940275544",
+      "address": "!315!SAPTRISHI NAGAR!mandir!SAPTRISHI NAGAR mathura!Mathura!Mathura!Uttar Pradesh!281001",
+      "alt": "7310628531",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Aditya Saraswat",
+      "num": "9759774562"
+    },
+    {
+      "aadhar": "604940275544",
+      "address": "!315!SAPTRISHI NAGAR!mandir!SAPTRISHI NAGAR mathura!Mathura!Mathura!Uttar Pradesh!281001",
+      "alt": "7310628531",
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Aditya Saraswat",
+      "num": "9759774562"
+    }
+  ]
+}
