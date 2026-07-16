@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:52:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9625549400",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "!101!Huda plot sector 55!gurgaun!Gurgaon Gurgaon!Haryana!122011",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Leela Ram",
+      "name": "Shri Bhagwan",
+      "num": "9625549400"
+    },
+    {
+      "aadhar": null,
+      "address": "!101!Huda plotsector 55!gurgaun!GurgaonGurgaon!Haryana!122011",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Leela Ram",
+      "name": "Shri Bhagwan",
+      "num": "9625549400"
+    },
+    {
+      "aadhar": null,
+      "address": "!101!Huda plotsector 55!gurgaun!GurgaonGurgaon!Haryana!122011",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Leela Ram",
+      "name": "Shri Bhagwan",
+      "num": "9625549400"
+    },
+    {
+      "aadhar": "918367175153",
+      "address": " House No 123 Vpo Budin 31MahendragarhMAHENDRAGARH Mandir Mandir MAHENDRAGARH MAHENDRAGARH Haryana 123029",
+      "alt": "9625549400",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "LEELA RAM",
+      "name": "SHRI BHAGWAN",
+      "num": "8683017631"
+    }
+  ]
+}
