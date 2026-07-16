@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:12:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7905022258",
+  "records": [
+    {
+      "aadhar": "608310504903",
+      "address": "W/O: Nipun Jain!!325 Firoz Gandhi Nagar!Raebareli!Rae Bareli Rae Bareli!Uttar Pradesh!229001",
+      "alt": "918587800983",
+      "circle": "JIO UPE",
+      "email": "nehaj1805a@gmail.com",
+      "fname": "Nipun Jain",
+      "name": "Neha Jain",
+      "num": "7905022258"
+    },
+    {
+      "aadhar": "608310504903",
+      "address": "W/O: Nipun Jain!!325 Firoz Gandhi Nagar!Raebareli!Rae Bareli Rae Bareli!Uttar Pradesh!229001",
+      "alt": "918587800983",
+      "circle": "JIO UPE",
+      "email": "nehaj1805a@gmail.com",
+      "fname": "Nipun Jain",
+      "name": "Neha Jain",
+      "num": "7905022258"
+    }
+  ]
+}
