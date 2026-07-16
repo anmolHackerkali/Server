@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:05:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9354445804",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O Chand Ram!!!378 A BALBIR VIHAR!KIRARI SULEMAN NAGAR North West Delhi!Delhi!110086",
+      "alt": "919599601885",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chand Ram",
+      "name": "Ajeet Singh",
+      "num": "9354445804"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Chand Ram!!!378 A BALBIR VIHAR!KIRARI SULEMAN NAGARNorth West Delhi!Delhi!110086",
+      "alt": "919599601885",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chand Ram",
+      "name": "Ajeet Singh",
+      "num": "9354445804"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Chand Ram!!!378 A BALBIR VIHAR!KIRARI SULEMAN NAGARNorth West Delhi!Delhi!110086",
+      "alt": "919599601885",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "Chand Ram",
+      "name": "Ajeet Singh",
+      "num": "9354445804"
+    },
+    {
+      "aadhar": "870352650729",
+      "address": "s/o  jeewan ram!380!Jassaur Kheri!!kheri jasaur jassaur kher!kheri jasaur 18Bahadurgarh!jhajjar!Haryana!124505",
+      "alt": "9354445804",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "jeewan ram",
+      "name": "Suresh Kumar",
+      "num": "9306178506"
+    },
+    {
+      "aadhar": "870352650729",
+      "address": "S/O  Jeewan Ram!380!Jassaur Kheri!!Kheri Jasaur!Kheri Jasaur 18Bahadurgarh!Jhajjar!Haryana!124505",
+      "alt": "9354445804",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Jeewan Ram",
+      "name": "Suresh Kumar",
+      "num": "7027006236"
+    }
+  ]
+}
