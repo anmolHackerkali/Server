@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:42:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8685889337",
+  "records": [
+    {
+      "aadhar": "930350956947",
+      "address": "S/O RAJESH KUMAR!VILLAGE DHIGANA!TEH JIND!SCHOOL!DHIGANA 47 DHIGANA!JIND!KARNAL!HARYANA!126114",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJESH KUMAR",
+      "name": "SAHIL",
+      "num": "8685889337"
+    },
+    {
+      "aadhar": "930350956947",
+      "address": "VILLAGE DHIGANA TEH JIND SCHOOL DHIGANA 47 DHIGANA JIND KARNAL HARYANA 126114",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJESH KUMAR",
+      "name": "SAHIL",
+      "num": "8685889337"
+    }
+  ]
+}
