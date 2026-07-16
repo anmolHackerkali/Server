@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:35:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9696398891",
+  "records": [
+    {
+      "aadhar": "795119291982",
+      "address": "!!00 madrahva!NA!khorabar urf soobabazar!Gorakhpur Gorakhpur!NA!Uttar Pradesh!273008",
+      "alt": "8808690443",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramdulare",
+      "name": "sonmati",
+      "num": "9696398891"
+    },
+    {
+      "aadhar": "795119291982",
+      "address": "!!00 madrahva!NA!khorabar urf soobabazar!Gorakhpur Gorakhpur!NA!Uttar Pradesh!273008",
+      "alt": "8808690443",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "ramdulare",
+      "name": "sonmati",
+      "num": "9696398891"
+    }
+  ]
+}
