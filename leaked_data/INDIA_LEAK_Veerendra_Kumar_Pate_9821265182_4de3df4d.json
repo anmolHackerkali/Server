@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:23:44",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9821265182",
+  "records": [
+    {
+      "aadhar": "916036503912",
+      "address": "! 12!berawan!!berawan!Allahabad!Allahabad!Uttar Pradesh!229412",
+      "alt": "8004462383",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal pal",
+      "name": "Veerendra Kumar Patel",
+      "num": "9821265182"
+    },
+    {
+      "aadhar": "916036503912",
+      "address": "! 12!berawan!!berawan!Allahabad!Allahabad!Uttar Pradesh!229412",
+      "alt": "8004462383",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Nandlal pal",
+      "name": "Veerendra Kumar Patel",
+      "num": "9821265182"
+    },
+    {
+      "aadhar": "880007203545",
+      "address": "AMRENDRA PAL!BERAWAN URF NAWABGANJ!BERAWAN URF NAWABGANJ.!.!ATRAMPURALLAHABAD!ALLAHABAD!UTTAR PRADESH!229412",
+      "alt": "9821265182",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Amrendra Pal",
+      "name": "MR. ANKUR PAL",
+      "num": "8917891131"
+    },
+    {
+      "aadhar": "880007203545",
+      "address": "AMRENDRA PAL!BERAWAN  URF NAWABGANJ!BERAWAN  URF NAWABGANJ .!.!ATRAMPUR ALLAHABAD!ALLAHABAD!UTTAR PRADESH!229412",
+      "alt": "9821265182",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Amrendra Pal",
+      "name": "MR ANKUR PAL",
+      "num": "8917891131"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Amrendra Pal!.!.!.!!Allahabad!Allahabad!229412",
+      "alt": "9821265182",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Amrendra Pal",
+      "name": "Ankur Pal",
+      "num": "7309978935"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Amrendra Pal!.!.!berawan Allahabad!!Allahabad!UTTAR PRADESH!229412",
+      "alt": "9821265182",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Amrendra Pal",
+      "name": "Ankur Pal",
+      "num": "7084939651"
+    },
+    {
+      "aadhar": "880007203545",
+      "address": "AMRENDRA PAL!BERAWAN  URF NAWABGANJ!BERAWAN  URF NAWABGANJ .!.!ATRAMPUR ALLAHABAD!ALLAHABAD!UTTAR PRADESH!229412",
+      "alt": "9821265182",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Amrendra Pal",
+      "name": "MR ANKUR PAL",
+      "num": "8917891131"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Amrendra Pal!.!.!.!!Allahabad!Allahabad!229412",
+      "alt": "9821265182",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Amrendra Pal",
+      "name": "Ankur Pal",
+      "num": "7309978935"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Amrendra Pal!.!.!berawan Allahabad!!Allahabad!UTTAR PRADESH!229412",
+      "alt": "9821265182",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Amrendra Pal",
+      "name": "Ankur Pal",
+      "num": "7084939651"
+    }
+  ]
+}
