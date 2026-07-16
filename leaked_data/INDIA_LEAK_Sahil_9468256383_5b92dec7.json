@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:42:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9468256383",
+  "records": [
+    {
+      "aadhar": "814275514445",
+      "address": "S/O  Sunil Kumar!!Dhigana!NA!dhigana!Dhigana 47JindJind!NA!Haryana!126114",
+      "alt": "8708366984",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Sunil Kumar",
+      "name": "Sahil",
+      "num": "9468256383"
+    },
+    {
+      "aadhar": "425643642233",
+      "address": "D/O Anil Kumar Dhigana 47 Dhigana 47 JINDJind HaryanaJIND   JIND JIND Haryana 126114",
+      "alt": "9468256383",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "ANIL KUMAR",
+      "name": "JYOTI  ",
+      "num": "7056618523"
+    }
+  ]
+}
