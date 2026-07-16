@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:02:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7041155318",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Harshadbhai Patel 239  priyanka mega city godadara naher road gyan jyot school ni same  Surat City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harshadbhai Patel",
+      "name": "Patel Dakshaben Harshadbhai",
+      "num": "7041155318"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Harshadbhai Patel 239  priyanka mega city godadara naher road gyan jyot school ni same  Surat City",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "Harshadbhai Patel",
+      "name": "Patel Dakshaben Harshadbhai",
+      "num": "7041155318"
+    }
+  ]
+}
