@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:30:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9761872430",
+  "records": [
+    {
+      "aadhar": "R8024343",
+      "address": "!H No 140!Rajiv Colony!Gurgaon!Sector 33!Gurgaon!Gurgaon!Haryana!122004",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kunwar sen",
+      "name": "Surendra Pal Sharma",
+      "num": "9761872430"
+    },
+    {
+      "aadhar": "R8024343",
+      "address": "!H No 140!Rajiv Colony!Gurgaon!Sector 33!Gurgaon!Gurgaon!Haryana!122004",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kunwar sen",
+      "name": "Surendra Pal Sharma",
+      "num": "9761872430"
+    },
+    {
+      "aadhar": "R8024343",
+      "address": "!H No 140!Rajiv Colony!Gurgaon!Sector 33!Gurgaon!Gurgaon!Haryana!122004",
+      "alt": null,
+      "circle": "Airtel Delhi",
+      "email": null,
+      "fname": "Kunwar sen",
+      "name": "Surendra Pal Sharma",
+      "num": "9761872430"
+    }
+  ]
+}
