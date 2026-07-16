@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:37:43",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8607771552",
+  "records": [
+    {
+      "aadhar": "405379185928",
+      "address": "S/O: ISHWAR SINGH!BHURAN 16!!  KALWANSAFIDON!JIND!HARYANA!126113",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ISHWAR  SINGH",
+      "name": "SIDHARATH  KUNDU",
+      "num": "8607771552"
+    },
+    {
+      "aadhar": "405379185928",
+      "address": "BHURAN 16     KALWANSAFIDON  JIND HARYANA 126113",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "ISHWAR  SINGH",
+      "name": "SIDHARATH  KUNDU",
+      "num": "8607771552"
+    },
+    {
+      "aadhar": "405379185928",
+      "address": "S/O  Ishwar Singh!!Kalwan!!!Bhuran  16Safidon!Jind!Haryana!126113",
+      "alt": "8607771552",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Ishwar Singh",
+      "name": "Sidharath Kundu",
+      "num": "8168405188"
+    }
+  ]
+}
