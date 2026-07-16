@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:14:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9958324831",
+  "records": [
+    {
+      "aadhar": "596566296472",
+      "address": "D/O  Kheem Singh Negi!!Ranikhet!!village khaniya!RanikhetRanikhet!Almora!Uttarakhand!263645",
+      "alt": "8923148954",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kheem Singh Negi",
+      "name": "Ruchi Negi  ",
+      "num": "9958324831"
+    },
+    {
+      "aadhar": "596566296472",
+      "address": "D/O  Kheem Singh Negi!!Ranikhet!!village khaniya!RanikhetRanikhet!Almora!Uttarakhand!263645",
+      "alt": "8923148954",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Kheem Singh Negi",
+      "name": "Ruchi Negi  ",
+      "num": "9958324831"
+    }
+  ]
+}
