@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:12:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9909195911",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Patel Shaileshbhai  A-31 Nilamber Bunglows-3 Waghodiya Dabhoi Ring Road Vadodara Vadodara Gujarat 390025",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Shaileshbhai",
+      "name": "Patel Vashisht",
+      "num": "9909195911"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Patel Shaileshbhai!!A-31 Nilamber Bunglows-3!Waghodiya Dabhoi Ring Road!Vadodara Vadodara!Gujarat!390025",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Shaileshbhai",
+      "name": "Patel Vashisht",
+      "num": "9909195911"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Patel Shaileshbhai!!A-31 Nilamber Bunglows-3!Waghodiya Dabhoi Ring Road!Vadodara Vadodara!Gujarat!390025",
+      "alt": null,
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Shaileshbhai",
+      "name": "Patel Vashisht",
+      "num": "9909195911"
+    },
+    {
+      "aadhar": "GJ062010140012065",
+      "address": "A31!Dabhoi Ring Road Baroda Bunglows Iii Waghodia!Baroda Bunglows Iii Waghodia!Vadodara VADODARA!BARODA!VADODARA!Gujarat!390025",
+      "alt": "9909195911",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shaileshbhai Patel",
+      "name": "MR VASHISHT PATEL",
+      "num": "7069735911"
+    },
+    {
+      "aadhar": "GJ062010140012065",
+      "address": "A 31 Nilamber!A31!Dabhoi Ring Road Baroda Bunglows Iii Waghodia!Baroda Bunglows Iii Waghodia!Vadodara VADODARA!BARODA!VADODARA!Gujarat!390025",
+      "alt": "9909195911",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shaileshbhai Patel",
+      "name": "MR VASHISHT PATEL",
+      "num": "7069735911"
+    },
+    {
+      "aadhar": "GJ062010140012065",
+      "address": "A 31 Nilamber!A31!Dabhoi Ring Road Baroda Bunglows Iii Waghodia!Baroda Bunglows Iii Waghodia!Vadodara VADODARA!BARODA!VADODARA!Gujarat!390025",
+      "alt": "9909195911",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Shaileshbhai Patel",
+      "name": "MR VASHISHT PATEL",
+      "num": "7069735911"
+    }
+  ]
+}
