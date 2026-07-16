@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:21:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9219514655",
+  "records": [
+    {
+      "aadhar": "281259139299",
+      "address": "w/o  sanl lal!!Atrampur!!atrampur!khargapur Soraon!allahabad!Uttar Pradesh!229412",
+      "alt": "9621233439",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sanl lal",
+      "name": "Vitau",
+      "num": "9219514655"
+    },
+    {
+      "aadhar": "281259139299",
+      "address": "w/o  sanl lal!!Atrampur!!atrampur!khargapur Soraon!allahabad!Uttar Pradesh!229412",
+      "alt": "9621233439",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "sanl lal",
+      "name": "Vitau",
+      "num": "9219514655"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Santlal Yadav!.!Khargapur!. Allahabad!!Allahabad!UTTAR PRADESH!229412",
+      "alt": "9219514655",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Santlal Yadav",
+      "name": "Sachin Yadav",
+      "num": "7706805561"
+    },
+    {
+      "aadhar": "759988737553",
+      "address": "S/O: Kailash Nath Yadav!na!baba ka purwa Pratapgarh!baba ka purwa Pratapgarh!kunda Badgawan PRATAPGARH!KUNDA!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kailash Nath Yadav",
+      "name": "MR SANTOSH YADAV",
+      "num": "7617024205"
+    },
+    {
+      "aadhar": "759988737553",
+      "address": "S/O: Kailash Nath Yadav!na!baba ka purwa Pratapgarh!baba ka purwa Pratapgarh!kunda Badgawan PRATAPGARH!KUNDA!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kailash Nath Yadav",
+      "name": "MR SANTOSH YADAV",
+      "num": "7617024205"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Kailash Nath Yadav!.!baba ka purwa!kunda Pratapgarh!!Pratapgarh!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Kailash Nath Yadav",
+      "name": "Santosh Yadav",
+      "num": "7237874202"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Santlal Yadav!.!Khargapur!. Allahabad!!Allahabad!UTTAR PRADESH!229412",
+      "alt": "9219514655",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Santlal Yadav",
+      "name": "Sachin Yadav",
+      "num": "7706805561"
+    },
+    {
+      "aadhar": "759988737553",
+      "address": "S/O: Kailash Nath Yadav!na!baba ka purwa Pratapgarh!baba ka purwa Pratapgarh!kunda Badgawan PRATAPGARH!KUNDA!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kailash Nath Yadav",
+      "name": "MR SANTOSH YADAV",
+      "num": "7617024205"
+    },
+    {
+      "aadhar": "759988737553",
+      "address": "S/O: Kailash Nath Yadav!na!baba ka purwa Pratapgarh!baba ka purwa Pratapgarh!kunda Badgawan PRATAPGARH!KUNDA!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Kailash Nath Yadav",
+      "name": "MR SANTOSH YADAV",
+      "num": "7617024205"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Kailash Nath Yadav!.!baba ka purwa!kunda Pratapgarh!!Pratapgarh!UTTAR PRADESH!230204",
+      "alt": "9219514655",
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Kailash Nath Yadav",
+      "name": "Santosh Yadav",
+      "num": "7237874202"
+    }
+  ]
+}
