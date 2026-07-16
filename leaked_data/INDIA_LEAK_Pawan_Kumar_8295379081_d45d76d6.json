@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:06:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8295379081",
+  "records": [
+    {
+      "aadhar": "921662179259",
+      "address": "S/O  Kashmir Singh!!Dhigana!DHIGANA!Dhigana 47JindJind!Haryana!126114",
+      "alt": null,
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Kashmir Singh",
+      "name": "Pawan Kumar",
+      "num": "8295379081"
+    },
+    {
+      "aadhar": "921662179259",
+      "address": "S/O  Kashmir Singh!!Dhigana!NA!DHIGANA!Dhigana 47JindJind!NA!Haryana!126114",
+      "alt": "8295379081",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Kashmir Singh",
+      "name": "Pawan Kumar",
+      "num": "9817538030"
+    }
+  ]
+}
