@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:52:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9927289995",
+  "records": [
+    {
+      "aadhar": "678952112586",
+      "address": "S/O Mo Rasheed!WARD 10!EMLI CHAUK!mandir!ALLI KHAN Kashipur Kashipur!Udham Singh Nagar!NAINITAL!Uttarakhand!244713",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mo Rasheed",
+      "name": "Mo Yaseen",
+      "num": "9927289995"
+    },
+    {
+      "aadhar": "678952112586",
+      "address": "S/O Mo Rasheed!WARD 10!EMLI CHAUK!mandir!ALLI KHAN Kashipur Kashipur!Udham Singh Nagar!NAINITAL!Uttarakhand!244713",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Mo Rasheed",
+      "name": "Mo Yaseen",
+      "num": "9927289995"
+    },
+    {
+      "aadhar": "678952112586",
+      "address": "s/o mo rasheed!00!emli chauk alli khan kashipur!emli chauk!ward 10 emli chauk alli khan kashipur!kashipur!udham singh nagar!Uttarakhand!244713",
+      "alt": "9927289995",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "mo rasheed",
+      "name": "Mo Yaseen  ",
+      "num": "9012042934"
+    },
+    {
+      "aadhar": "678952112586",
+      "address": "0",
+      "alt": "9927289995",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Mo Rasheed",
+      "name": "Mo Yaseen",
+      "num": "8803913318"
+    }
+  ]
+}
