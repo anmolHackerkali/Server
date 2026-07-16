@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:02:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9541843445",
+  "records": [
+    {
+      "aadhar": "767665240778",
+      "address": "Jugti Ram   City/District: Rohtak  ROHTAK HARYANA 124112",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Jugti Ram",
+      "name": "Jai Bhagwan Sharma",
+      "num": "9541843445"
+    }
+  ]
+}
