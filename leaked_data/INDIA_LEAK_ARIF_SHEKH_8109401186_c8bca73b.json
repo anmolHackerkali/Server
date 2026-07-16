@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:20:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8109401186",
+  "records": [
+    {
+      "aadhar": "236931206368",
+      "address": "S/O Rashid Shekh!S/O Rashid Shekh!Stetion Road  Patel Ward Multai!Multai  Multai !MULATAI-BETUL!MP!460661",
+      "alt": "9407370819",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RASHID SHEKH",
+      "name": "ARIF SHEKH",
+      "num": "8109401186"
+    },
+    {
+      "aadhar": "236931206368",
+      "address": "S/O RASHID SHEKH!MAHAVEER WARD RARD NO  19 Betul Madhya Pradesh!MAHAVEER WARD RARD NO  19 Betul Madhya Pradesh!MAHAVEER WARD RARD NO  19 Betul Madhya Pradesh!MAHAVEER WARD RARD NO  19 Betul Madhya Pra",
+      "alt": "8109401186",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Rashid Shekh",
+      "name": "MR MOHGMMAD ANT",
+      "num": "9522301186"
+    },
+    {
+      "aadhar": "236931206368",
+      "address": "s/o rashid shekh!mahaveer ward tikari ward no 19 Betul!mahaveer ward tikari ward no 19 Betul!!mahaveer ward tikari ward no. 19!betul!betul!Madhya Pradesh!460001",
+      "alt": "8109401186",
+      "circle": "JIO MP",
+      "email": "AARIFSHEIKH590@GMAIL.COM",
+      "fname": "rashid shekh",
+      "name": "Mohammad Arif",
+      "num": "9303749007"
+    },
+    {
+      "aadhar": "487622196632",
+      "address": "!14/3 At Koylari Post Vijaygram!Vijaygram Vijaygaram BETUL mp BETUL!!!AMBHORI!BETUL!Madhya Pradesh!460225",
+      "alt": "8109401186",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "RAMRATAN TADILKAR",
+      "name": "SEEMA TADILKAR",
+      "num": "8462860108"
+    },
+    {
+      "aadhar": "236931206368",
+      "address": "S/O Rashid Shekh! ward no 19!mahaveer ward tikari betul!!betul!Betul!BETUL!Madhya Pradesh!460001",
+      "alt": "8109401186",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Rashid Shekh",
+      "name": "Mohammad Arif",
+      "num": "8319611677"
+    },
+    {
+      "aadhar": "236931206368",
+      "address": "s/o rashid shekh!ward no 19!mahaveer ward tikari ward no 19 Betul!!mahaveer ward tikari ward no. 19!betul!betul!Madhya Pradesh!460001",
+      "alt": "8109401186",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "rashid shekh",
+      "name": "Mohammad Arif",
+      "num": "8103063083"
+    }
+  ]
+}
