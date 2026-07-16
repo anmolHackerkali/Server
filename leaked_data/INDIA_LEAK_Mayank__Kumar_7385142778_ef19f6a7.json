@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:55:30",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7385142778",
+  "records": [
+    {
+      "aadhar": "206366459319",
+      "address": "!Third floor D66!Street No 2!Laxmi nagar!New DelhiNew Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Prem Sagar Ojha",
+      "name": "Mayank  Kumar",
+      "num": "7385142778"
+    },
+    {
+      "aadhar": "206366459319",
+      "address": "!Third floor D66!Street No 2!Laxmi nagar!!New AIRTEL DELHI!!AIRTEL DELHI!110092",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Prem Sagar Ojha",
+      "name": "Mayank  Kumar",
+      "num": "7385142778"
+    },
+    {
+      "aadhar": "206366459319",
+      "address": "!Third floor D66!Street No 2!Laxmi nagar!New DelhiNew Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Prem Sagar Ojha",
+      "name": "Mayank  Kumar",
+      "num": "7385142778"
+    },
+    {
+      "aadhar": "206366459319",
+      "address": "!Third floor D66!Street No 2!Laxmi nagar!New DelhiNew Delhi!Delhi!110092",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Prem Sagar Ojha",
+      "name": "Mayank  Kumar",
+      "num": "7385142778"
+    }
+  ]
+}
