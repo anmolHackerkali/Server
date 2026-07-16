@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:15:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906908613",
+  "records": [
+    {
+      "aadhar": "474255717479",
+      "address": "S/OAhmad Husain!!256Street No. 8Naseer Ganj!Galib Nagar!FirozabadFirozabad!Uttar Pradesh!283203",
+      "alt": "+918791334004",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Ahmad Husain",
+      "name": "Ahmad Manzar",
+      "num": "7906908613"
+    },
+    {
+      "aadhar": "474255717479",
+      "address": "S/O Ahmad Husain!!256 Street No. 8 Naseer Ganj!Galib Nagar!Firozabad Firozabad!Uttar Pradesh!283203",
+      "alt": "918791334004",
+      "circle": "JIO UPE UPW",
+      "email": "sidumamboss@gmail.com",
+      "fname": "Ahmad Husain",
+      "name": "Ahmad Manzar",
+      "num": "7906908613"
+    },
+    {
+      "aadhar": "474255717479",
+      "address": "S/O Ahmad Husain!!256 Street No. 8 Naseer Ganj!Galib Nagar!Firozabad Firozabad!Uttar Pradesh!283203",
+      "alt": "918791334004",
+      "circle": "JIO UPE UPW",
+      "email": "sidumamboss@gmail.com",
+      "fname": "Ahmad Husain",
+      "name": "Ahmad Manzar",
+      "num": "7906908613"
+    }
+  ]
+}
