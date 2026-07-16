@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:57:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7015183304",
+  "records": [
+    {
+      "aadhar": "841232582344",
+      "address": "S/O: Rajender Singh!!216/13!vishnu nagar!GohanaSonipat!Haryana!131301",
+      "alt": "+919253196567",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Rajender Singh",
+      "name": "Vishal",
+      "num": "7015183304"
+    },
+    {
+      "aadhar": "841232582344",
+      "address": "S/O RAJENDER SINGH!216/13!!VISHNU NAGARGOHANA  GOHANA!SONIPAT!HARYANA!131301",
+      "alt": "7015183304",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJENDER  SINGH",
+      "name": "VISHAL",
+      "num": "9253196567"
+    }
+  ]
+}
