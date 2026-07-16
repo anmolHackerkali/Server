@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:51:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9109769399",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O  Ayodhya Prasad Mishra!!!!Mahsua 516 Rewa!Madhya Pradesh!486114",
+      "alt": "919174524546",
+      "circle": "JIO MP",
+      "email": "nitilsharma154@gmail.com",
+      "fname": "Ayodhya Prasad Mishra",
+      "name": "Ragini Mishra",
+      "num": "9109769399"
+    },
+    {
+      "aadhar": "886218364256",
+      "address": "!mahsua 516!mahsua 516!!mahsua 516!Raipur - Karchuliyan!REWA!Madhya Pradesh!486114",
+      "alt": "9109769399",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ayodhya Prasad mishra",
+      "name": "Ragini Mishra",
+      "num": "8602676784"
+    },
+    {
+      "aadhar": "886218364256",
+      "address": "!mahsua 516!mahsua 516!!mahsua 516 rewa!Raipur - Karchuliyan!REWA!Madhya Pradesh!486114",
+      "alt": "9109769399",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ayodhya Prasad mishra",
+      "name": "Ragini Mishra",
+      "num": "6261690764"
+    }
+  ]
+}
