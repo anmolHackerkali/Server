@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:29:16",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8085232061",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Tantoo Khateek!!-!WARD NO 01 CHIKYANA MOHLLA AJAYGARH!Ajaigarh Panna!Madhya Pradesh!488220",
+      "alt": "918085845252",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Tantoo Khateek",
+      "name": "Ashu Khateek",
+      "num": "8085232061"
+    },
+    {
+      "aadhar": "371452413143",
+      "address": "s/o  tantoo khateek!ward no 01 chikyana mohlla ajaygarh!Ajaigarh!-!- ajaigarh!ajaigarh Ajaigarh!panna!Madhya Pradesh!488220",
+      "alt": "8085232061",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "tantoo khateek",
+      "name": "Ashu Khateek",
+      "num": "8815913909"
+    },
+    {
+      "aadhar": null,
+      "address": " 55 ward no 1 chikyana mohlla ajaygarh ajaigarh  WARD NO 01 CHIKYANA MOHLLA AJAYGARH Ajaigarh Ajaigarh Panna  Madhya Pradesh 488220",
+      "alt": "8085232061",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "tantoo khateek",
+      "name": "Ashu Khateek",
+      "num": "7880072061 "
+    }
+  ]
+}
