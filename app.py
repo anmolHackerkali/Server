@@ -238,7 +238,7 @@ HTML_TEMPLATE = """
 </div>
         
         <form method="POST">
-            <input type="text" name="phone" placeholder="9876543210" 
+            <input type="text" name="phone" placeholder="9" 
                    value="{{ phone or '' }}" required maxlength="10" pattern="[0-9]{10}">
             <button type="submit">⚡ Ditels </button>
         </form>
