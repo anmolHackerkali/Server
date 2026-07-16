@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:46:26",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9752900809",
+  "records": [
+    {
+      "aadhar": "215832595235",
+      "address": "! vill godhai post mangawan ward 3 mangawan sirmour rewa!Rewa!school!rewa!Rewa!Rewa!Madhya Pradesh!486111",
+      "alt": "9752900809",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Ramesh Kumar Tiwari",
+      "name": "Shri Niket Tiwari",
+      "num": "9329125499"
+    },
+    {
+      "aadhar": null,
+      "address": " vil- godhai post  mangawan ward 3 mangawan Sirmour Rewa Rewa  Madhya Pradesh 486111",
+      "alt": "9752900809",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Ramesh Kumar Tiwari",
+      "name": "Shri Niket Tiwari",
+      "num": "7869683435 "
+    },
+    {
+      "aadhar": "971969477797",
+      "address": "!!ward 04 mangawan basti mangawan sirmour!NA!mangawan!Raipur - Karchuliyan REWA!NA!Madhya Pradesh!486111",
+      "alt": "9752900809",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "m rafeek ansari",
+      "name": "mo shani ansari",
+      "num": "7067547047"
+    }
+  ]
+}
