@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:21:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6299813671",
+  "records": [
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharda Prasad Chaurasiya!!!vill- kanausi!Kanausi Belkhara Gaya!Bihar!824118",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharda Prasad Chaurasiya",
+      "name": "Amardeep Kumar",
+      "num": "6299813671"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharda Prasad Chaurasiya!!!vill- kanausi!Kanausi Belkhara Gaya!Bihar!824118",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharda Prasad Chaurasiya",
+      "name": "Amardeep Kumar",
+      "num": "6299813671"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O  Sharda Prasad Chaurasiya!!!vill- kanausi!Kanausi Belkhara Gaya!Bihar!824118",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Sharda Prasad Chaurasiya",
+      "name": "Amardeep Kumar",
+      "num": "6299813671"
+    }
+  ]
+}
