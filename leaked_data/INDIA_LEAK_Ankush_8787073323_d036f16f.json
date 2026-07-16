@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:32:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8787073323",
+  "records": [
+    {
+      "aadhar": "931755187808",
+      "address": "S/O: Ram Dheen!!- - OSIYA!bighapur!Bighapur ** Unnao!Uttar Pradesh!229503",
+      "alt": "917607287301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Dheen",
+      "name": "Ankush",
+      "num": "8787073323"
+    },
+    {
+      "aadhar": "931755187808",
+      "address": "S/O: Ram Dheen!!- - OSIYA!bighapur!Bighapur ** Unnao!Uttar Pradesh!229503",
+      "alt": "917607287301",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Dheen",
+      "name": "Ankush",
+      "num": "8787073323"
+    },
+    {
+      "aadhar": "267072785872",
+      "address": "!osiyan!- bighapur Aladadpur Ghatampur Kanpur Na!!OSIYAN!UNNAO!UTTAR PRADESH!229503",
+      "alt": "8787073323",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Mathura",
+      "name": "MRS. KAMLA DEVI",
+      "num": "7310261466"
+    },
+    {
+      "aadhar": "931755187808",
+      "address": "S/O Ram Dheen!OSIYA!!bighapur Bighapur **!Unnao!Uttar Pradesh!229503",
+      "alt": "8787073323",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Dheen",
+      "name": "Ankush",
+      "num": "7380636818"
+    },
+    {
+      "aadhar": "267072785872",
+      "address": "!osiyan!- bighapur Aladadpur Ghatampur Kanpur Na!!OSIYAN!UNNAO!UTTAR PRADESH!229503",
+      "alt": "8787073323",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mathura",
+      "name": "MRS KAMLA DEVI",
+      "num": "7310261466"
+    },
+    {
+      "aadhar": "931755187808",
+      "address": "S/O Ram Dheen!OSIYA!!bighapur Bighapur **!Unnao!Uttar Pradesh!229503",
+      "alt": "8787073323",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ram Dheen",
+      "name": "Ankush",
+      "num": "7380636818"
+    },
+    {
+      "aadhar": "267072785872",
+      "address": "!osiyan!- bighapur Aladadpur Ghatampur Kanpur Na!!OSIYAN!UNNAO!UTTAR PRADESH!229503",
+      "alt": "8787073323",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Mathura",
+      "name": "MRS KAMLA DEVI",
+      "num": "7310261466"
+    }
+  ]
+}
