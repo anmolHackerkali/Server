@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:52:50",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9729140474",
+  "records": [
+    {
+      "aadhar": "785612677596",
+      "address": "Dhigana 47!Jind!Jind  Jind!Jind!Haryana!126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "Hawa  Singh",
+      "name": "Baljeet  Singh",
+      "num": "9729140474"
+    },
+    {
+      "aadhar": "785612677596",
+      "address": "Dhigana 47 Jind  Jind  Jind  Jind Haryana 126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "Hawa  Singh",
+      "name": "Baljeet  Singh",
+      "num": "9729140474"
+    }
+  ]
+}
