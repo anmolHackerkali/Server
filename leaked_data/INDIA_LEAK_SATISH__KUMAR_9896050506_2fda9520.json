@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:51:53",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9896050506",
+  "records": [
+    {
+      "aadhar": "555606381316",
+      "address": "S/O: BHARAT SINGH!436!!MILAKPUR 74 NEAR GOVT HIGH SCHOOL MILAKPURNARNAUND!HISAR!HARYANA!125039",
+      "alt": "9896050506",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHARAT  SINGH",
+      "name": "SATISH  KUMAR",
+      "num": "9896050506"
+    },
+    {
+      "aadhar": "555606381316",
+      "address": "436   MILAKPUR 74 NEAR GOVT HIGH SCHOOL MILAKPURNARNAUND  HISAR HARYANA 125039",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHARAT  SINGH",
+      "name": "SATISH  KUMAR",
+      "num": "9896050506"
+    },
+    {
+      "aadhar": "555606381316",
+      "address": "S/O: BHARAT SINGH!436!!MILAKPUR 74 NEAR GOVT HIGH SCHOOL MILAKPURNARNAUND!HISAR!HARYANA!125039",
+      "alt": "9896050506",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "BHARAT  SINGH",
+      "name": "SATISH  KUMAR",
+      "num": "9896050506"
+    },
+    {
+      "aadhar": "555606381316",
+      "address": "S/O  Bharat Singh!!436NULLLNEAR GOVT HIGH SCHOOLMilakpur!NA!NULLL!Milakpur 74NarnaundHisar!NA!Haryana!125039",
+      "alt": "9896050506",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Bharat Singh",
+      "name": "Satish Kumar",
+      "num": "7082807300"
+    }
+  ]
+}
