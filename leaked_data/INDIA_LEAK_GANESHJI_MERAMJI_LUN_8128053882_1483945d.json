@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:22:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8128053882",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "11  JAT VAS DAMA DANTA  BANASKANTHA",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "MERAMJI",
+      "name": "GANESHJI MERAMJI LUNESH",
+      "num": "8128053882"
+    },
+    {
+      "aadhar": null,
+      "address": "11  JAT VAS DAMA DANTA  BANASKANTHA",
+      "alt": null,
+      "circle": "AIRTEL GUJARAT",
+      "email": null,
+      "fname": "MERAMJI",
+      "name": "GANESHJI MERAMJI LUNESH",
+      "num": "8128053882"
+    }
+  ]
+}
