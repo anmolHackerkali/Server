@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:01:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7814714629",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O: Suraj Yadav!.!Vill- Aurihar Khurd Post- Aurihar!. Ghazipur!!Ghazipur!UTTAR PRADESH!233221",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Suraj Yadav",
+      "name": "Vijay Yadav",
+      "num": "7814714629"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O: Suraj Yadav!.!Vill- Aurihar Khurd Post- Aurihar!. Ghazipur!!Ghazipur!UTTAR PRADESH!233221",
+      "alt": null,
+      "circle": null,
+      "email": null,
+      "fname": "S/O: Suraj Yadav",
+      "name": "Vijay Yadav",
+      "num": "7814714629"
+    },
+    {
+      "aadhar": "356331467365",
+      "address": "!Vill- Aurihar Khurd Post- Aurihar!Aurihar Khurd!school!Aurihar  GHAZIPURschool!AURIHAR-GHAZIPUR!UP!233221",
+      "alt": "7814714629",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "SURAJ  YADAV",
+      "name": "VIJAY  YADAV",
+      "num": "8726319508"
+    },
+    {
+      "aadhar": "356331467365",
+      "address": "!Vill- Aurihar Khurd Post- Aurihar!Aurihar  GHAZIPUR!!Aurihar!AURIHAR-GHAZIPUR!UP!233221",
+      "alt": "7814714629",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "SURAJ  YADAV",
+      "name": "VIJAY  YADAV",
+      "num": "8577909655"
+    },
+    {
+      "aadhar": "356331467365",
+      "address": "!Vill- Aurihar Khurd Post- Aurihar!Aurihar Khurd!school!Aurihar  GHAZIPUR school!AURIHAR-GHAZIPUR!UP!233221",
+      "alt": "7814714629",
+      "circle": null,
+      "email": null,
+      "fname": "SURAJ  YADAV",
+      "name": "VIJAY  YADAV",
+      "num": "8726319508"
+    },
+    {
+      "aadhar": "356331467365",
+      "address": "!Vill- Aurihar Khurd Post- Aurihar!Aurihar Khurd!school!Aurihar  GHAZIPUR school!AURIHAR-GHAZIPUR!UP!233221",
+      "alt": "7814714629",
+      "circle": null,
+      "email": null,
+      "fname": "SURAJ  YADAV",
+      "name": "VIJAY  YADAV",
+      "num": "8726319508"
+    }
+  ]
+}
