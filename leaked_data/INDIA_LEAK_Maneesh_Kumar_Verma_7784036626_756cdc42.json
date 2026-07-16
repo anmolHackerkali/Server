@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:01:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7784036626",
+  "records": [
+    {
+      "aadhar": "xxxxxxxx0228",
+      "address": "S/O Surendra Kumar!Bahera!!!Sitapur!Uttar Pradesh!261141",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra  Kumar",
+      "name": "Maneesh Kumar Verma",
+      "num": "7784036626"
+    },
+    {
+      "aadhar": "xxxxxxxx0228",
+      "address": "S/O Surendra Kumar!Bahera!!!Sitapur!Uttar Pradesh!261141",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Surendra  Kumar",
+      "name": "Maneesh Kumar Verma",
+      "num": "7784036626"
+    }
+  ]
+}
