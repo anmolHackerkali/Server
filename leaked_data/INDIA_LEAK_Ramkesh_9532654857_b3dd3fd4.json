@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:17:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9532654857",
+  "records": [
+    {
+      "aadhar": "393200432386",
+      "address": "S/O Ramsundar!vill-nariyawan gulraha!Katghar Nariyaw!!Ambedkar Nagar Jahangirganj!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224147",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsundar",
+      "name": "Ramkesh",
+      "num": "9532654857"
+    },
+    {
+      "aadhar": "393200432386",
+      "address": "S/O Ramsundar!vill-nariyawan gulraha!Katghar Nariyaw!!Ambedkar Nagar Jahangirganj!Ambedkar Nagar!FAIZABAD!Uttar Pradesh!224147",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Ramsundar",
+      "name": "Ramkesh",
+      "num": "9532654857"
+    }
+  ]
+}
