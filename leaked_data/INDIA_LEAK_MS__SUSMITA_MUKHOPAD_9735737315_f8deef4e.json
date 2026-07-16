@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:19:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9735737315",
+  "records": [
+    {
+      "aadhar": "773202009359",
+      "address": " W/O KANAILAL MUKHOPADHYAY!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!!Kolkata NORTH 24 PARGANAS!NORTH 24 PAR",
+      "alt": "9830420209",
+      "circle": "VODAFONE KOLKATA",
+      "email": null,
+      "fname": "Kanailal Mukhopadhyay",
+      "name": "MS  SUSMITA MUKHOPADHYAY",
+      "num": "9735737315"
+    },
+    {
+      "aadhar": "773202009359",
+      "address": "W/O KANAILAL MUKHOPADHYAY!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!4NO KULTI GOVT COLONY  B NARAYANPUR  NAR",
+      "alt": "9830420209",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Kanailal Mukhopadhyay",
+      "name": "MS SUSMITA MUKHOPADHYAY",
+      "num": "9735737315"
+    },
+    {
+      "aadhar": "773202009359",
+      "address": "W/O KANAILAL MUKHOPADHYAY!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!4NO KULTI GOVT COLONY  B NARAYANPUR  NARAYANPUR  SOUTH 24 PARGANAS!4NO KULTI GOVT COLONY  B NARAYANPUR  NAR",
+      "alt": "9830420209",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "Kanailal Mukhopadhyay",
+      "name": "MS SUSMITA MUKHOPADHYAY",
+      "num": "9735737315"
+    },
+    {
+      "aadhar": "773202009359",
+      "address": " D/O MANOHAR NASKAR!! Chakborali!NA!!Chak Barali Bhangar - I South 24 Parganas!NA!West Bengal!743502 ",
+      "alt": "9735737315",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "MANOHAR NASKAR",
+      "name": "SUSMITA MUKHERJEE",
+      "num": "9732648785"
+    },
+    {
+      "aadhar": "773202009359",
+      "address": " D/O MANOHAR NASKAR!! Chakborali!NA!!Chak Barali Bhangar - I South 24 Parganas!NA!West Bengal!743502 ",
+      "alt": "9735737315",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "MANOHAR NASKAR",
+      "name": "SUSMITA MUKHERJEE",
+      "num": "9732648785"
+    }
+  ]
+}
