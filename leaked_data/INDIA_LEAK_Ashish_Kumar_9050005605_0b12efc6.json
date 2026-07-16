@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:53:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9050005605",
+  "records": [
+    {
+      "aadhar": "322401192201",
+      "address": "S/O  Ramesh Kumar!!Jind!NA!julani!Julani 84JindJind!NA!Haryana!126102",
+      "alt": "8168067647",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Ramesh Kumar",
+      "name": "Ashish Kumar",
+      "num": "9050005605"
+    },
+    {
+      "aadhar": "322401192201",
+      "address": "!NA!JULANI84!!JULANIJIND NA JIND!!JIND!HARYANA!126102",
+      "alt": "9050005605",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMESH  KUMAR",
+      "name": "ASHISH  KUMAR",
+      "num": "9996806616"
+    },
+    {
+      "aadhar": "322401192201",
+      "address": "S/O  Ramesh Kumar!!Jind!!julani!Julani  84Jind!Jind!Haryana!126102",
+      "alt": "9050005605",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Ramesh Kumar",
+      "name": "Ashish Kumar",
+      "num": "8708316640"
+    }
+  ]
+}
