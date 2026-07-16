@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:04:24",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8607055416",
+  "records": [
+    {
+      "aadhar": "867143544689",
+      "address": "NA!HN 1780!DAVI MANDIR ROAD!NEAR MANDIR!DINANATH COLONY!PANIPAT!PANIPAT!HARYANA!132103",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KASHIRAM ANURAGI",
+      "name": "POORAN ANURAGI",
+      "num": "8607055416"
+    },
+    {
+      "aadhar": "867143544689",
+      "address": "HN 1780 DAVI MANDIR ROAD NEAR MANDIR DINANATH COLONY PANIPAT PANIPAT HARYANA 132103",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KASHIRAM ANURAGI",
+      "name": "POORAN ANURAGI",
+      "num": "8607055416"
+    }
+  ]
+}
