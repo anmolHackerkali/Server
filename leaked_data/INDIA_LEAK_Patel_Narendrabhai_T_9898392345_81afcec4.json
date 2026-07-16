@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:16:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9898392345",
+  "records": [
+    {
+      "aadhar": "350369264025",
+      "address": "S/O  Patel Tribhuvanbhai!!Dhavat!dhavat!karjan!Dhavat!Vadodara!Gujarat!391210",
+      "alt": "9409441452",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Tribhuvanbhai",
+      "name": "Patel Narendrabhai Tribhuvanbhai",
+      "num": "9898392345"
+    },
+    {
+      "aadhar": "350369264025",
+      "address": "S/O  Patel Tribhuvanbhai!!Dhavat!dhavat!karjan!Dhavat!Vadodara!Gujarat!391210",
+      "alt": "9409441452",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Tribhuvanbhai",
+      "name": "Patel Narendrabhai Tribhuvanbhai",
+      "num": "9898392345"
+    },
+    {
+      "aadhar": "350369264025",
+      "address": "S/O  Patel Tribhuvanbhai!!Dhavat!dhavat!karjan!Dhavat!Vadodara!Gujarat!391210",
+      "alt": "9409441452",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Patel Tribhuvanbhai",
+      "name": "Patel Narendrabhai Tribhuvanbhai",
+      "num": "9898392345"
+    }
+  ]
+}
