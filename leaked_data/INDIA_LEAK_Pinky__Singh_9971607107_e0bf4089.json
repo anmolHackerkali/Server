@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:11:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9971607107",
+  "records": [
+    {
+      "aadhar": "988859979484",
+      "address": "!B- 204!J J Colony  Phase-3 Near DPS Public School!Sector-3  Dwarka N S I T N S I T Dwarka Delhi CantonmentSouth West Delhi!!Delhi!110078",
+      "alt": " ",
+      "circle": "AIRTEL DELHI",
+      "email": " ",
+      "fname": "Vipin",
+      "name": "Pinky  Singh",
+      "num": "9971607107"
+    },
+    {
+      "aadhar": "988859979484",
+      "address": "!B- 204!J J Colony Phase-3 Near DPS Public School!Sector-3 DwarkaN S I T N S I T DwarkaDelhi CantonmentSouth West Delhi!!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vipin",
+      "name": "Pinky  Singh",
+      "num": "9971607107"
+    },
+    {
+      "aadhar": "988859979484",
+      "address": "!B- 204!J J Colony Phase-3 Near DPS Public School!Sector-3 DwarkaN S I T N S I T DwarkaDelhi CantonmentSouth West Delhi!!Delhi!110078",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "Vipin",
+      "name": "Pinky  Singh",
+      "num": "9971607107"
+    }
+  ]
+}
