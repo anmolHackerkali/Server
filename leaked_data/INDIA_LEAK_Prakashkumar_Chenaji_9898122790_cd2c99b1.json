@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:39:51",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9898122790",
+  "records": [
+    {
+      "aadhar": "348838358147",
+      "address": "!!Varnoda!!!Laxmipura Deesa!Banaskantha!Gujarat!385535",
+      "alt": "6353472102",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chenaji",
+      "name": "Prakashkumar Chenaji Chaudhari",
+      "num": "9898122790"
+    },
+    {
+      "aadhar": "348838358147",
+      "address": "!!Varnoda!!!Laxmipura Deesa!Banaskantha!Gujarat!385535",
+      "alt": "6353472102",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chenaji",
+      "name": "Prakashkumar Chenaji Chaudhari",
+      "num": "9898122790"
+    },
+    {
+      "aadhar": "348838358147",
+      "address": "!!Varnoda!!!Laxmipura Deesa!Banaskantha!Gujarat!385535",
+      "alt": "6353472102",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "chenaji",
+      "name": "Prakashkumar Chenaji Chaudhari",
+      "num": "9898122790"
+    },
+    {
+      "aadhar": "348838358147",
+      "address": "00!00!Laxmi pura!Laxmi pura!Laxmipura  Deesa BANASKANTHA!AJAPURA!BANASKANTHA!Gujarat!385535",
+      "alt": "9898122790",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Chenaji Chaudhari",
+      "name": "MR PRAKASHKUMAR CHAUDHARI",
+      "num": "7201832790"
+    },
+    {
+      "aadhar": "348838358147",
+      "address": "00!00!Laxmi pura!Laxmi pura!Laxmipura  Deesa BANASKANTHA!AJAPURA!BANASKANTHA!Gujarat!385535",
+      "alt": "9898122790",
+      "circle": "VI GUJARAT",
+      "email": null,
+      "fname": "Chenaji Chaudhari",
+      "name": "MR PRAKASHKUMAR CHAUDHARI",
+      "num": "7201832790"
+    }
+  ]
+}
