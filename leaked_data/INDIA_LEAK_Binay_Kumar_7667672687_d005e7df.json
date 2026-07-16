@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:36:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7667672687",
+  "records": [
+    {
+      "aadhar": "847511735216",
+      "address": "S/O Nandkishor Pandey! NA!Vill-Roushanganj Thana Roushanganj Gaya!School!Village Roushanganj Thana Roushanganj!Roshanganj!Gaya!Bihar!824217",
+      "alt": "9934215610",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Nandkishor Pandey",
+      "name": "Binay Kumar",
+      "num": "7667672687"
+    },
+    {
+      "aadhar": "847511735216",
+      "address": "S/O Nandkishor Pandey! NA!Vill-Roushanganj Thana Roushanganj Gaya!School!Village Roushanganj Thana Roushanganj!Roshanganj!Gaya!Bihar!824217",
+      "alt": "9934215610",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nandkishor Pandey",
+      "name": "Binay Kumar",
+      "num": "7667672687"
+    },
+    {
+      "aadhar": "847511735216",
+      "address": "S/O Nandkishor Pandey! NA!Vill-Roushanganj Thana Roushanganj Gaya!School!Village Roushanganj Thana Roushanganj!Roshanganj!Gaya!Bihar!824217",
+      "alt": "9934215610",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "Nandkishor Pandey",
+      "name": "Binay Kumar",
+      "num": "7667672687"
+    }
+  ]
+}
