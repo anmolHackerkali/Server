@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:59:02",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8398900684",
+  "records": [
+    {
+      "aadhar": "496694286266",
+      "address": "S/O RAM NARAYAN!NATHUSARI KALAN 21!SIRSA!!SIRSA!SIRSA!SIRSA!HARYANA!125110",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAM NARAYAN",
+      "name": "SHISH PAL",
+      "num": "8398900684"
+    },
+    {
+      "aadhar": "496694286266",
+      "address": "NATHUSARI KALAN 21 SIRSA  SIRSA SIRSA SIRSA HARYANA 125110",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAM NARAYAN",
+      "name": "SHISH PAL",
+      "num": "8398900684"
+    }
+  ]
+}
