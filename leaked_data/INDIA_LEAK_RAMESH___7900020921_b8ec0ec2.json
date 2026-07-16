@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:04:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7900020921",
+  "records": [
+    {
+      "aadhar": "HR0971336251",
+      "address": "UGALAN H NO 22 DIST HISAR NARNAUND NARNAUND Haryana 125038",
+      "alt": "NA",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "SUBE",
+      "name": "RAMESH  ",
+      "num": "7900020921"
+    },
+    {
+      "aadhar": "954029591602",
+      "address": "!NA!GANV UGALAN!!UGALAN 93 NA HISAR!!HISAR!HARYANA!125038",
+      "alt": "7900020921",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMESH  ",
+      "name": "SACHIN  ",
+      "num": "9729030921"
+    },
+    {
+      "aadhar": "954029591602",
+      "address": "S/O: Ramesh 00 93 Bhiwani roadganv ugalan ganv ugalan Ganv UgalanHISAR HANSI HISAR HARYANA 125038",
+      "alt": "7900020921",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Ramesh",
+      "name": "MR  SACHIN  ",
+      "num": "8813820921"
+    },
+    {
+      "aadhar": "954029591602",
+      "address": " Vpo Ugalan 93 Dist HisarHisarHISAR   BHAKLANA94 HISAR Haryana 125038",
+      "alt": "7900020921",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "RAMESH  ",
+      "name": "SACHIN  ",
+      "num": "8684020921"
+    },
+    {
+      "aadhar": "954029591602",
+      "address": "S/O: Ramesh 235 man road ugalan 93shiv mandir shiv mandir Ganv UgalanHISAR HANSI HISAR HARYANA 125038",
+      "alt": "7900020921",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Ramesh",
+      "name": "MR  SACHIN  ",
+      "num": "8396020921"
+    }
+  ]
+}
