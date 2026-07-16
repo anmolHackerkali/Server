@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:58:05",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7206191200",
+  "records": [
+    {
+      "aadhar": "892580244011",
+      "address": "S/O  Om Parkash!74 5!HAKIKAT NAGARJind!RAILWAY ROAD!Jind!JindJind!Jind!Haryana!126102",
+      "alt": "7988204569",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Om Parkash",
+      "name": "Rahul",
+      "num": "7206191200"
+    },
+    {
+      "aadhar": "892580244011",
+      "address": "S/O  Om Parkash!74 5!HAKIKAT NAGARJind!RAILWAY ROAD!!JindJind!Jind!Haryana!126102",
+      "alt": "7206191200",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Om Parkash",
+      "name": "Rahul",
+      "num": "9896561752"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O: Om Parkash 745 HAKIKAT NAGARRAILWAY ROAD  Jind JIND HARYANA 126102",
+      "alt": "7206191200",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "S/O: Om Parkash",
+      "name": "Rahul  ",
+      "num": "9053967977"
+    },
+    {
+      "aadhar": "NA",
+      "address": "S/O: Om Parkash 745 HAKIKAT NAGARRAILWAY ROAD  Jind JIND HARYANA 126102",
+      "alt": "7206191200",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "S/O: Om Parkash",
+      "name": "Rahul  ",
+      "num": "9053940470"
+    }
+  ]
+}
