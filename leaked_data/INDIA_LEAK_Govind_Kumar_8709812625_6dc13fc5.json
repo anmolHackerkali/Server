@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:46:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709812625",
+  "records": [
+    {
+      "aadhar": "983776642097",
+      "address": "S/O  Lalan Kumar Jha! house no  52!ward 12 Ughra!!ughara!Ughara Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "6203169855",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Lalan Kumar Jha",
+      "name": "Govind Kumar",
+      "num": "8709812625"
+    },
+    {
+      "aadhar": "983776642097",
+      "address": "S/O  Lalan Kumar Jha!house no. 52!ward 12 Ughra!!ughara!Ughara Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "6207451287",
+      "circle": "JIO BHR&JHR",
+      "email": "sakshipriya015@gmail.com",
+      "fname": "Lalan Kumar Jha",
+      "name": "Govind Kumar",
+      "num": "8709812625"
+    },
+    {
+      "aadhar": "983776642097",
+      "address": "S/O  Lalan Kumar Jha!house no. 52!ward 12 Ughra!!ughara!Ughara Bahadurpur!Darbhanga!Bihar!847101",
+      "alt": "6207451287",
+      "circle": "JIO BHR&JHR",
+      "email": "sakshipriya015@gmail.com",
+      "fname": "Lalan Kumar Jha",
+      "name": "Govind Kumar",
+      "num": "8709812625"
+    }
+  ]
+}
