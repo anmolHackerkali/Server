@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:08:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9554811021",
+  "records": [
+    {
+      "aadhar": "573989251554",
+      "address": " !h n0-351!VILLAGE- gondey bhawani nagar Gondey!post-gondey!Gonda-Kunda-Pratapga!Uttar Pradesh!230403",
+      "alt": "9956643912",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajesh Yadav",
+      "name": "Pooja Yadav",
+      "num": "9554811021"
+    },
+    {
+      "aadhar": "573989251554",
+      "address": " !h n0-351!VILLAGE- gondey bhawani nagar Gondey!post-gondey!Gonda-Kunda-Pratapga!Uttar Pradesh!230403",
+      "alt": "9956643912",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rajesh Yadav",
+      "name": "Pooja Yadav",
+      "num": "9554811021"
+    }
+  ]
+}
