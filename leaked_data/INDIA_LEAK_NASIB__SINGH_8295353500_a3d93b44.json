@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:13:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8295353500",
+  "records": [
+    {
+      "aadhar": "349800281472",
+      "address": "DEVI DASS PURAPIPLI PART 360     PIPLITHANESAR  KURUKSHETRA HARYANA 136131",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PRITAM  SINGH",
+      "name": "NASIB  SINGH",
+      "num": "8295353500"
+    },
+    {
+      "aadhar": "349800281472",
+      "address": "S/O: PRITAM SINGH!DEVI DASS PURAPIPLI PART 360!!  PIPLITHANESAR!KURUKSHETRA!HARYANA!136131",
+      "alt": "8295343400",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "PRITAM  SINGH",
+      "name": "NASIB  SINGH",
+      "num": "8295353500"
+    },
+    {
+      "aadhar": "NA",
+      "address": "SEC-5  DEVI DASSPURA POST PIPLI DISTT KURUKSHETRA!NEAR MUNICIPLE COUNCIL RESIDENCE!Kurukshetra!Kurukshetra!Haryana!135136",
+      "alt": "8295353500",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "NA",
+      "name": "NASIB  SINGH",
+      "num": "8295343400"
+    }
+  ]
+}
