@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:54:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9053863625",
+  "records": [
+    {
+      "aadhar": "951792563539",
+      "address": "S/O: Shamsher S/O: Shamsher bohat wala Dalamwala Jind BOHAT WALA 95-JIND HR 126110",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "SHAMSHER  ",
+      "name": "TEJBIR  ",
+      "num": "9053863625"
+    }
+  ]
+}
