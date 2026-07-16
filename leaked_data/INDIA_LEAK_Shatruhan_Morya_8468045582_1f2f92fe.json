@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:40:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8468045582",
+  "records": [
+    {
+      "aadhar": "649715566112",
+      "address": "s/o  parasnath! chandraava!Gilaula!!chandraava gilaula!gilaula Ikauna!shrawasti!Uttar Pradesh!271835",
+      "alt": "8354830722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "parasnath",
+      "name": "Shatruhan Morya",
+      "num": "8468045582"
+    },
+    {
+      "aadhar": "649715566112",
+      "address": "s/o  parasnath! chandraava!Gilaula!!chandraava gilaula!gilaula Ikauna!shrawasti!Uttar Pradesh!271835",
+      "alt": "8354830722",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "parasnath",
+      "name": "Shatruhan Morya",
+      "num": "8468045582"
+    }
+  ]
+}
