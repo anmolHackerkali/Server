@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:00:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8950052612",
+  "records": [
+    {
+      "aadhar": "753793137935",
+      "address": "W/O RAJ KUMAR!TALU 51!BHIWANI!!TALU!BHIWANI!BHIWANI!HARYANA!127041",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJ KUMAR",
+      "name": "MAINA",
+      "num": "8950052612"
+    },
+    {
+      "aadhar": "753793137935",
+      "address": "TALU 51 BHIWANI  TALU BHIWANI BHIWANI HARYANA 127041",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJ KUMAR",
+      "name": "MAINA",
+      "num": "8950052612"
+    }
+  ]
+}
