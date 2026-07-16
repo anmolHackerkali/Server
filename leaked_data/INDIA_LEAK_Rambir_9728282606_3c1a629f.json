@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:50:36",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9728282606",
+  "records": [
+    {
+      "aadhar": "642367504420",
+      "address": "c/o  rajbir!!village badala 102!NEAR SHIV MANDIR!Hisar!badala 102!hisar!Haryana!125042",
+      "alt": "8607767778",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Rajbir",
+      "name": "Rambir",
+      "num": "9728282606"
+    }
+  ]
+}
