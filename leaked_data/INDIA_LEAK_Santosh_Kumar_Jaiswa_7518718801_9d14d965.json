@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:51:58",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7518718801",
+  "records": [
+    {
+      "aadhar": "577057674439",
+      "address": "!00 !Mandhata PO!baispur!Mandhata Kunda!Pratapgarh!Pratapgarh!Uttar Pradesh!230402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Arjun Prasad Jaiswal",
+      "name": "Santosh Kumar Jaiswal",
+      "num": "7518718801"
+    },
+    {
+      "aadhar": "577057674439",
+      "address": "!00 !Mandhata PO!baispur!Mandhata Kunda!Pratapgarh!Pratapgarh!Uttar Pradesh!230402",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Arjun Prasad Jaiswal",
+      "name": "Santosh Kumar Jaiswal",
+      "num": "7518718801"
+    }
+  ]
+}
