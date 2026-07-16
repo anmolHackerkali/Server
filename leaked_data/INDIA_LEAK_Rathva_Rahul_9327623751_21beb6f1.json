@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:41:35",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9327623751",
+  "records": [
+    {
+      "aadhar": "460764018299",
+      "address": "s/o  bhimabhai!!Railway Stasion Nada!!railway stasion nada nada dabhoi!nada Dabhoi!vadodara!Gujarat!391210",
+      "alt": "9925949841",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bhimabhai",
+      "name": "Rathva Rahul",
+      "num": "9327623751"
+    },
+    {
+      "aadhar": "460764018299",
+      "address": "s/o  bhimabhai!!Railway Stasion Nada!!railway stasion nada nada dabhoi!nada Dabhoi!vadodara!Gujarat!391210",
+      "alt": "9925949841",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "bhimabhai",
+      "name": "Rathva Rahul",
+      "num": "9327623751"
+    }
+  ]
+}
