@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:37:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6280905304",
+  "records": [
+    {
+      "aadhar": "794764649046",
+      "address": "S/O Pritam Singh!!Haripur Khalsa!VILLAGE GANNA!PhillaurJalandhar!Punjab!144410",
+      "alt": "+919464542561",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Pritam Singh",
+      "name": "Surinder Singh",
+      "num": "6280905304"
+    },
+    {
+      "aadhar": "794764649046",
+      "address": "Surinder Singh S/O Pritam Singh!VILLAGE GANNA!Phillaur Road!!Phillaur haripur\tkhalsa!ACHAN CHAK-JALANDHAR!JALANDHAR!PB!144410",
+      "alt": "6280905304",
+      "circle": "IDEA PUNJAB",
+      "email": null,
+      "fname": "PRITAM SINGH",
+      "name": "SURINDER SINGH",
+      "num": "8196071809"
+    }
+  ]
+}
