@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:57:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7906402650",
+  "records": [
+    {
+      "aadhar": "910502832383",
+      "address": "S/O  Sadik!!Nagina!!nandpur!KhairullapurNagina!Bijnor!Uttar Pradesh!246762",
+      "alt": "7055151321",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "Sadik",
+      "name": "Mohammad Ali",
+      "num": "7906402650"
+    },
+    {
+      "aadhar": "910502832383",
+      "address": "S/O  Sadik!!Nagina!!nandpur!Khairullapur Nagina!Bijnor!Uttar Pradesh!246762",
+      "alt": "7055151321",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Sadik",
+      "name": "Mohammad Ali",
+      "num": "7906402650"
+    },
+    {
+      "aadhar": "910502832383",
+      "address": "S/O  Sadik!!Nagina!!nandpur!Khairullapur Nagina!Bijnor!Uttar Pradesh!246762",
+      "alt": "7055151321",
+      "circle": "JIO UPE UPW",
+      "email": null,
+      "fname": "Sadik",
+      "name": "Mohammad Ali",
+      "num": "7906402650"
+    },
+    {
+      "aadhar": "979196680559",
+      "address": "s/o  vahajuddin!!Nagina!!gram khairullapur nagina!naginaNagina!bijnor!Uttar Pradesh!246762",
+      "alt": "7906402650",
+      "circle": "JIO UPW",
+      "email": null,
+      "fname": "vahajuddin",
+      "name": "Mohd Faiz  ",
+      "num": "9027896482"
+    }
+  ]
+}
