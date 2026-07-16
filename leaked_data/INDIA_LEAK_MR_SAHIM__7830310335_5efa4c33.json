@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:24:25",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7830310335",
+  "records": [
+    {
+      "aadhar": "600876545479",
+      "address": "S/O Jalil!38!badullapurwa pure alast khanshankarpur!shankarpur!badullapurwaBahraich!BAHRAICH!UTTAR PRADESH!271875",
+      "alt": "7830310335",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Jalil",
+      "name": "MR. SAHIM .",
+      "num": "9670770165"
+    }
+  ]
+}
