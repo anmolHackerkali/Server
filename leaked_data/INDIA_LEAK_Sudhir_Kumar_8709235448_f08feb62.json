@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:12:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8709235448",
+  "records": [
+    {
+      "aadhar": "738271238108",
+      "address": "S/O  Suresh Prasad!!Vill - Dourma  P O - Dourma  P S - Anti  Dorma!!Daurawan Konch Gaya!Bihar!824116",
+      "alt": "919973598019",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Suresh Prasad",
+      "name": "Sudhir Kumar",
+      "num": "8709235448"
+    },
+    {
+      "aadhar": "738271238108",
+      "address": "S/O  Suresh Prasad!!Vill - Dourma  P O - Dourma  P S - Anti  Dorma!!Daurawan Konch Gaya!Bihar!824116",
+      "alt": "919973598019",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Suresh Prasad",
+      "name": "Sudhir Kumar",
+      "num": "8709235448"
+    },
+    {
+      "aadhar": "738271238108",
+      "address": "S/O  Suresh Prasad!!Vill - Dourma  P O - Dourma  P S - Anti  Dorma!!Daurawan Konch Gaya!Bihar!824116",
+      "alt": "919973598019",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Suresh Prasad",
+      "name": "Sudhir Kumar",
+      "num": "8709235448"
+    },
+    {
+      "aadhar": "978719418310",
+      "address": " S/O  Suresh Prasad Daurawan Gaya Daurawan  Daurawan  Gaya  AURANGABAD-AURANGABAD Gaya 824116 BIHAR ",
+      "alt": "8709235448",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURESH  PRASAD ",
+      "name": " DHARMVEER  KUMAR ",
+      "num": "9430613321"
+    },
+    {
+      "aadhar": "978719418310",
+      "address": " S/O  Suresh Prasad Daurawan Gaya Daurawan  Daurawan  Gaya  AURANGABAD-AURANGABAD Gaya 824116 BIHAR ",
+      "alt": "8709235448",
+      "circle": "BIHAR VODAFONE",
+      "email": null,
+      "fname": " SURESH  PRASAD ",
+      "name": " DHARMVEER  KUMAR ",
+      "num": "9430613321"
+    }
+  ]
+}
