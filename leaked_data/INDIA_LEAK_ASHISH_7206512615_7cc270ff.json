@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:59:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7206512615",
+  "records": [
+    {
+      "aadhar": "574642019522",
+      "address": "S/O KRISHAN!CHHATTAR!CHHATTAR!MANDIR!JIND!JIND!JIND!HARYANA!126116",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KRISHAN",
+      "name": "ASHISH",
+      "num": "7206512615"
+    },
+    {
+      "aadhar": "574642019522",
+      "address": "CHHATTAR CHHATTAR MANDIR JIND JIND JIND HARYANA 126116",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "KRISHAN",
+      "name": "ASHISH",
+      "num": "7206512615"
+    }
+  ]
+}
