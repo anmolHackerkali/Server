@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:10:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7565837872",
+  "records": [
+    {
+      "aadhar": "749806031316",
+      "address": "W/O ORN PRAKASH!KISHUN KUSALA KUSALLA SITAPUR MISNIKH!KISHUN KUSALA KUSALLA SITAPUR MISNIKH!sitapur!kusailaSITAPUR!SITAPUR!UTTAR PRADESH!261141",
+      "alt": "7408108723",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "MS. REKHA REKHA",
+      "num": "7565837872"
+    },
+    {
+      "aadhar": "749806031316",
+      "address": "W/O ORN PRAKASH!KISHUN KUSALA KUSALLA  SITAPUR  MISNIKH !KISHUN KUSALA KUSALLA  SITAPUR  MISNIKH !sitapur!kusaila SITAPUR!SITAPUR!UTTAR PRADESH!261141",
+      "alt": "7408108723",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "MS REKHA REKHA",
+      "num": "7565837872"
+    },
+    {
+      "aadhar": "749806031316",
+      "address": "W/O ORN PRAKASH!KISHUN KUSALA KUSALLA  SITAPUR  MISNIKH !KISHUN KUSALA KUSALLA  SITAPUR  MISNIKH !sitapur!kusaila SITAPUR!SITAPUR!UTTAR PRADESH!261141",
+      "alt": "7408108723",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Omprakash",
+      "name": "MS REKHA REKHA",
+      "num": "7565837872"
+    },
+    {
+      "aadhar": "373995750465",
+      "address": " !S/O: Hardev Chauhan  raishpur!Rampur Balbhadra  Jakhanian!. !RAMPUR BELBHADRA-GHA!UP!275203",
+      "alt": "7565837872",
+      "circle": null,
+      "email": null,
+      "fname": "HARDEV CHAUHAN  ",
+      "name": "SANJAY  CHAUHAN",
+      "num": "7052408164"
+    },
+    {
+      "aadhar": "373995750465",
+      "address": " !S/O: Hardev Chauhan  raishpur!Rampur Balbhadra  Jakhanian!. !RAMPUR BELBHADRA-GHA!UP!275203",
+      "alt": "7565837872",
+      "circle": null,
+      "email": null,
+      "fname": "HARDEV CHAUHAN  ",
+      "name": "SANJAY  CHAUHAN",
+      "num": "7052408164"
+    }
+  ]
+}
