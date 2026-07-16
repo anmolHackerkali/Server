@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:31:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8750048560",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Dinesh Kumar Pandey!!ward 14!gram gurhwa!Gurh Rewa!Madhya Pradesh!486553",
+      "alt": "917976734469",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Dinesh Kumar Pandey",
+      "name": "Anurag Pandey",
+      "num": "8750048560"
+    },
+    {
+      "aadhar": "415934456048",
+      "address": "S/O ASHOK KUMAR PATEL!M  K  D SCHOOL KE PASS SANSKAR CITY HOOSE NO 01 NARSINGHGWR!M  K  D SCHOOL KE PASS SANSKAR CITY HOOSE NO 01 NARSINGHGWR M  K  D SCHOOL!M  K  D SCHOOL!M  K  D SCHOOL  NARSIMHAPUR!",
+      "alt": "8750048560",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ashok Kumar Patel",
+      "name": "MR ANIKET PATEL",
+      "num": "9424935989"
+    },
+    {
+      "aadhar": "758567397482",
+      "address": "S/O DINESH KUMAR PANDEY!WARD 14  GRAM GURHWA!WARD 14  GRAM GURHWA R ewa!R ewa!GURH Rewa REWA!REWA!REWA!Madhya Pradesh!486553",
+      "alt": "8750048560",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Dinesh Kumar",
+      "name": "MR ANURAG PANDEY",
+      "num": "8982720383"
+    }
+  ]
+}
