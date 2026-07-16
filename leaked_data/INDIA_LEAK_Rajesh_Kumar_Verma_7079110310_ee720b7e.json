@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:45:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7079110310",
+  "records": [
+    {
+      "aadhar": "896271249878",
+      "address": " !312!Bf SALTLAKE!NA!sector 1!Kolkata East North Twenty Four Parganas!NA!West Bengal!700064 ",
+      "alt": "9835108613",
+      "circle": "JIO KOL",
+      "email": "rishabhraj@zoho.com",
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "7079110310"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": " !312!Bf SALTLAKE!NA!sector 1!Kolkata East North Twenty Four Parganas!NA!West Bengal!700064 ",
+      "alt": "9835108613",
+      "circle": "JIO KOL",
+      "email": "rishabhraj@zoho.com",
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "7079110310"
+    }
+  ]
+}
