@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:57:55",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9034523239",
+  "records": [
+    {
+      "aadhar": "563964888074",
+      "address": "S/O: RAMPHAL!772/6!SAVITARI NAGAR!JIND PATIALA CHOWK JINDJIND!JIND!HARYANA!126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMPHAL",
+      "name": "RAKESH",
+      "num": "9034523239"
+    },
+    {
+      "aadhar": "563964888074",
+      "address": "772/6 SAVITARI NAGAR  JIND PATIALA CHOWK JINDJIND  JIND HARYANA 126102",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAMPHAL",
+      "name": "RAKESH",
+      "num": "9034523239"
+    }
+  ]
+}
