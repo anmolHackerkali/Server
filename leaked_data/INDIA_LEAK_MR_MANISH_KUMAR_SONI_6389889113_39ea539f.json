@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:33:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6389889113",
+  "records": [
+    {
+      "aadhar": "721081232635",
+      "address": "!DULTHOK BABERSO 6 10 BANDA UTTAR PRADI!DULTHOK BABERSO 6 10 BANDA UTTAR PRADI!!BaberuBANDA!BANDA!UTTAR PRADESH!210121",
+      "alt": "9415569961",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "Rakesh Soni",
+      "name": "MR. MANISH KUMAR SONI",
+      "num": "6389889113"
+    },
+    {
+      "aadhar": "721081232635",
+      "address": "!DULTHOK  BABERSO 6 10 BANDA  UTTAR PRADI!DULTHOK  BABERSO 6 10 BANDA  UTTAR PRADI!!Baberu BANDA!BANDA!UTTAR PRADESH!210121",
+      "alt": "9415569961",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rakesh Soni",
+      "name": "MR MANISH KUMAR SONI",
+      "num": "6389889113"
+    },
+    {
+      "aadhar": "721081232635",
+      "address": "!DULTHOK  BABERSO 6 10 BANDA  UTTAR PRADI!DULTHOK  BABERSO 6 10 BANDA  UTTAR PRADI!!Baberu BANDA!BANDA!UTTAR PRADESH!210121",
+      "alt": "9415569961",
+      "circle": "UPE",
+      "email": null,
+      "fname": "Rakesh Soni",
+      "name": "MR MANISH KUMAR SONI",
+      "num": "6389889113"
+    }
+  ]
+}
