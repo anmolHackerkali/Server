@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:22:23",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7988329118",
+  "records": [
+    {
+      "aadhar": "321417846359",
+      "address": "S/O: Hari Kishan!!1741!Near bus stand!Dhamtan Sahib (60)Jind!Haryana!126116",
+      "alt": "+919813209440",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hari Kishan",
+      "name": "Nand Kishor",
+      "num": "7988329118"
+    }
+  ]
+}
