@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:19:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8720048560",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Ismaeel Kha!.!.!gram banskhedi aspalVidisha!!RAHELI!Vidisha!Madhya Pradesh!464228",
+      "alt": null,
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Ismaeel Kha",
+      "name": "Sohil Kha",
+      "num": "8720048560"
+    }
+  ]
+}
