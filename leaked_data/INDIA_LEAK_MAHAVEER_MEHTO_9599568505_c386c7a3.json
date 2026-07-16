@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:42:57",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599568505",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!B - 7 (CN - 23/3)!GALI NO 6!MASTER MOHLLALIBASPUR!Libas PurNorth West Delhi!Delhi!110042",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "anand mahto",
+      "name": "MAHAVEER MEHTO",
+      "num": "9599568505"
+    },
+    {
+      "aadhar": null,
+      "address": "!B - 7 (CN - 23/3)!GALI NO 6!MASTER MOHLLALIBASPUR!Libas PurNorth West Delhi!Delhi!110042",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "anand mahto",
+      "name": "MAHAVEER MEHTO",
+      "num": "9599568505"
+    },
+    {
+      "aadhar": null,
+      "address": "!B - 7 (CN - 23/3)!GALI NO 6!MASTER MOHLLALIBASPUR!Libas PurNorth West Delhi!Delhi!110042",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "anand mahto",
+      "name": "MAHAVEER MEHTO",
+      "num": "9599568505"
+    }
+  ]
+}
