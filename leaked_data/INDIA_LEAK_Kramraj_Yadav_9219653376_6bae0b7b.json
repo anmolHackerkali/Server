@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:13:28",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9219653376",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Kripal Yadav!!!tilkachua!Durga Pur Amethi!Uttar Pradesh!227816",
+      "alt": "919831503763",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Kripal Yadav",
+      "name": "Kramraj Yadav",
+      "num": "9219653376"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O  Ram Kripal Yadav!!!tilkachua!Durga Pur Amethi!Uttar Pradesh!227816",
+      "alt": "919831503763",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Ram Kripal Yadav",
+      "name": "Kramraj Yadav",
+      "num": "9219653376"
+    }
+  ]
+}
