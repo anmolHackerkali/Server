@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:52:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7829353755",
+  "records": [
+    {
+      "aadhar": "AAN3976917",
+      "address": "HIMAVANTHARAJU!71 HOLALKERE TQ!2MAIN 3RD CROSS SHIVA TEMPLE CHITRADURGA DIST!SHIVA TEMPLE CHITRADURGA DIST!SHIVAGANGA COLONY CHITRADURGA!CHITTAPUR!CHITRADURGA!Karnataka!577526",
+      "alt": "7795762247",
+      "circle": "VI KARNATKA",
+      "email": null,
+      "fname": "HIMAVANTHARAJU",
+      "name": "MR KOUSHIK A H",
+      "num": "7829353755"
+    },
+    {
+      "aadhar": "AAN3976917",
+      "address": "HIMAVANTHARAJU!71 HOLALKERE TQ!2MAIN 3RD CROSS SHIVA TEMPLE CHITRADURGA DIST!SHIVA TEMPLE CHITRADURGA DIST!SHIVAGANGA COLONY CHITRADURGA!CHITTAPUR!CHITRADURGA!Karnataka!577526",
+      "alt": "7795762247",
+      "circle": "KARNATAKA VI",
+      "email": null,
+      "fname": "HIMAVANTHARAJU",
+      "name": "MR  KOUSHIK A H",
+      "num": "7829353755"
+    },
+    {
+      "aadhar": "768009786029",
+      "address": "No 15 Shubh Enclave Haralur Main Road Bellandur Gate Sarjapur Road Near Icici Bank Bangalore Bangalore Karnataka 560102",
+      "alt": "7829353755",
+      "circle": "AIRTEL KARNATKA",
+      "email": "Shabrin7@gmail.com",
+      "fname": "Shaik Akthar Feroz",
+      "name": "Shabrin  Taj",
+      "num": "9535204068"
+    }
+  ]
+}
