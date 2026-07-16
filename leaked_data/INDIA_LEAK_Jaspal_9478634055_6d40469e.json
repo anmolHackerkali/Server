@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:38:52",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9478634055",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "NURMAHAL ROAD PHILLAUR MEHMI COLONY PHILLAUR Phillaur Jalandhar PUNJAB 144410 Jalandhar PUNJAB 144410",
+      "alt": null,
+      "circle": "BSNL PUNJAB",
+      "email": null,
+      "fname": null,
+      "name": "Jaspal",
+      "num": "9478634055"
+    }
+  ]
+}
