@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:57:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813471856",
+  "records": [
+    {
+      "aadhar": "991959186174",
+      "address": "!54!Near serdha Road VILLAGE MAJRA NAND KARAN!!kaithal!Kaithal!Kaithal!Haryana!136027",
+      "alt": "7015789575",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Rajender",
+      "name": "Aman",
+      "num": "9813471856"
+    },
+    {
+      "aadhar": "991959186174",
+      "address": "NA!NA!MAJRA NAND KARAN!NA!KAITHAL!KAITHAL!KURUKSHETRA!HARYANA!136027",
+      "alt": "9813471856",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "RAJENDER",
+      "name": "AMAN",
+      "num": "7082928856"
+    },
+    {
+      "aadhar": "991959186174",
+      "address": " hn 56 vpo majra nand karan  S/O: RajenderKAITHAL GUHLA KAITHAL HARYANA 136027",
+      "alt": "9813471856",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Rajender",
+      "name": "MR  AMAN KUMAR",
+      "num": "7015789575"
+    }
+  ]
+}
