@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:53:40",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7470510956",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Brijesh Kumar Pandey!!ward 14 gudwa!post gurh!Gurh Rewa!Madhya Pradesh!486553",
+      "alt": "919485784694",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Brijesh Kumar Pandey",
+      "name": "Sakshi Pandey",
+      "num": "7470510956"
+    }
+  ]
+}
