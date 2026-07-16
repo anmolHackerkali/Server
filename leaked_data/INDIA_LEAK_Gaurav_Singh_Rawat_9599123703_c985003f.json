@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:58:27",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9599123703",
+  "records": [
+    {
+      "aadhar": "571204433783",
+      "address": " T-241/A1 Iii flour  baljeet nagar near mcd school platel nagar west Delhi Central Delhi Delhi 110008",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "harish chabdra singh",
+      "name": "Gaurav Singh Rawat",
+      "num": "9599123703"
+    },
+    {
+      "aadhar": "571204433783",
+      "address": "!T-241/A1!Iii flour  baljeet nagar!near mcd school!platel nagar west!Delhi!Central Delhi!Delhi!110008",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "harish chabdra singh",
+      "name": "Gaurav Singh Rawat",
+      "num": "9599123703"
+    },
+    {
+      "aadhar": "571204433783",
+      "address": "!T-241/A1!Iii flour  baljeet nagar!near mcd school!platel nagar west!Delhi!Central Delhi!Delhi!110008",
+      "alt": null,
+      "circle": "AIRTEL DELHI",
+      "email": null,
+      "fname": "harish chabdra singh",
+      "name": "Gaurav Singh Rawat",
+      "num": "9599123703"
+    }
+  ]
+}
