@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:17:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9458371400",
+  "records": [
+    {
+      "aadhar": "518036632013",
+      "address": "S/O Dungar Dev Kuthari!Malla Sheera!Bhakura Malla!almora!Almora!Almora!Almora!Uttarakhand!263661",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Dungar Dev Kuthari",
+      "name": "Suresh Chandra Kuthari",
+      "num": "9458371400"
+    },
+    {
+      "aadhar": "518036632013",
+      "address": "S/O Dungar Dev Kuthari!Malla Sheera!Bhakura Malla!almora!Almora!Almora!Almora!Uttarakhand!263661",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "Dungar Dev Kuthari",
+      "name": "Suresh Chandra Kuthari",
+      "num": "9458371400"
+    }
+  ]
+}
