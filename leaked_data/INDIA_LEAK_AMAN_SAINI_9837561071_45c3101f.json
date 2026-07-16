@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:52:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9837561071",
+  "records": [
+    {
+      "aadhar": "350663320578",
+      "address": "S/O: Rajesh Saini  house no islamnagar Islamnagar  Nakur pulish chonki ISLAM NAGAR-SAHARANPUR UP 247451",
+      "alt": "9719100053",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Rajesh Saini",
+      "name": "AMAN SAINI",
+      "num": "9837561071"
+    },
+    {
+      "aadhar": "350663320578",
+      "address": "S/O: Rajesh Saini  house no islamnagar Islamnagar  Nakur pulish chonki ISLAM NAGAR-SAHARANPUR UP 247451",
+      "alt": "9719100053",
+      "circle": "VODA UPW",
+      "email": null,
+      "fname": "S/O: Rajesh Saini",
+      "name": "AMAN SAINI",
+      "num": "9837561071"
+    }
+  ]
+}
