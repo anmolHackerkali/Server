@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:01:34",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9416334811",
+  "records": [
+    {
+      "aadhar": "925947634407",
+      "address": "HOUSE NO 358 JAWAHAR NAGAR  WARD NO 18 NAI DABWALI 277 NA SIRSA  SIRSA HARYANA 125104",
+      "alt": "NA",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "SUKHMANDER  SINGH",
+      "name": "NAZAM  SINGH",
+      "num": "9416334811"
+    },
+    {
+      "aadhar": "925947634407",
+      "address": "!HOUSE NO 358!JAWAHAR NAGAR!!WARD NO 18 NAI DABWALI 277 NA SIRSA!!SIRSA!HARYANA!125104",
+      "alt": "9466267121",
+      "circle": "AIRTEL HARYANA",
+      "email": null,
+      "fname": "SUKHMANDER  SINGH",
+      "name": "NAZAM  SINGH",
+      "num": "9416334811"
+    }
+  ]
+}
