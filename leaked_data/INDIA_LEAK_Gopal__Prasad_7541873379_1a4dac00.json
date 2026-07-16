@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:46:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7541873379",
+  "records": [
+    {
+      "aadhar": "499991350811",
+      "address": "S/O Barho Prasad!64/68!!Chandchoura Gaya!!Gaya!Bihar!823001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Barho  Prasad",
+      "name": "Gopal  Prasad",
+      "num": "7541873379"
+    },
+    {
+      "aadhar": "499991350811",
+      "address": "S/O Barho Prasad!64/68!!Chandchoura Gaya!!Gaya!Bihar!823001",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Barho  Prasad",
+      "name": "Gopal  Prasad",
+      "num": "7541873379"
+    }
+  ]
+}
