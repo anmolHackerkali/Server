@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:38:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8839245952",
+  "records": [
+    {
+      "aadhar": "608408569108",
+      "address": "S/O Nagusingh Kushwah!!211 Shahin Nagar!Musakhedi Near Sankat Mochan Hanuman Mandir!INDORE!Madhya Pradesh!452001",
+      "alt": "919827036166",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "Nagusingh Kushwah",
+      "name": "Santosh Singh Kushwah",
+      "num": "8839245952"
+    },
+    {
+      "aadhar": "649679096142",
+      "address": "! 211 sahin nagar!ring rod!musakhedi!indore!Indore!INDORE!Madhya Pradesh!452001",
+      "alt": "8839245952",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "nagu singh",
+      "name": "Ishvar",
+      "num": "9424542504"
+    }
+  ]
+}
