@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:54:38",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7745918168",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " 126 gram badkhada post badkhada 739  Badkhada 739 sidhi Badkhara Sidhi  Madhya Pradesh 486771",
+      "alt": "7745918168",
+      "circle": "AIRTEL MP",
+      "email": null,
+      "fname": "Ashish Tiwari",
+      "name": "Pushpa Shukla",
+      "num": "9039261468 "
+    },
+    {
+      "aadhar": "935697023024",
+      "address": "d/o  indramani shukla!umariha!Dhanha!umariha!umariha umariha umariha!dhanha Rampur Naikin!sidhi!Madhya Pradesh!486771",
+      "alt": "7745918168",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "indramani shukla",
+      "name": "Akansha Shukla",
+      "num": "7987080136"
+    }
+  ]
+}
