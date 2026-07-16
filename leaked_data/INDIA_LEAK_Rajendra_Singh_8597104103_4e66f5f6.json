@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:04:56",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8597104103",
+  "records": [
+    {
+      "aadhar": "858942731100",
+      "address": "!00!Post Office Road!Dolma House!Salugara Bazar!Darjeeling!DARJILING!West Bengal!734008",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Nanua Singh",
+      "name": "Rajendra Singh",
+      "num": "8597104103"
+    },
+    {
+      "aadhar": "858942731100",
+      "address": "!00!Post Office Road!Dolma House!Salugara Bazar!Darjeeling!DARJILING!West Bengal!734008",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Nanua Singh",
+      "name": "Rajendra Singh",
+      "num": "8597104103"
+    }
+  ]
+}
