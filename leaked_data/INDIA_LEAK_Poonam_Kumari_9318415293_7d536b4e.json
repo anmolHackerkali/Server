@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:26:21",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9318415293",
+  "records": [
+    {
+      "aadhar": "545843698715",
+      "address": "!b 3!3 burari!kamal vihar!Delhi North North!Delhi!110084",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "switisswity15@gmail.com",
+      "fname": "Rash Bihari Ram",
+      "name": "Poonam Kumari",
+      "num": "9318415293"
+    },
+    {
+      "aadhar": "545843698715",
+      "address": "!b 3!3burari!kamal vihar!Delhi NorthNorth!Delhi!110084",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "switisswity15@gmail.com",
+      "fname": "Rash Bihari Ram",
+      "name": "Poonam Kumari",
+      "num": "9318415293"
+    },
+    {
+      "aadhar": "545843698715",
+      "address": "!b 3!3burari!kamal vihar!Delhi NorthNorth!Delhi!110084",
+      "alt": null,
+      "circle": "JIO DELHI",
+      "email": "switisswity15@gmail.com",
+      "fname": "Rash Bihari Ram",
+      "name": "Poonam Kumari",
+      "num": "9318415293"
+    },
+    {
+      "aadhar": "539549954751",
+      "address": "!59 duplex!rajpura gurmandi!!near rana pratap bagh!Delhi North!North!Delhi!110007",
+      "alt": "9318415293",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bharat ram",
+      "name": "Prem Shankar Kharwar",
+      "num": "7065162115"
+    },
+    {
+      "aadhar": "539549954751",
+      "address": "!59 duplex!rajpura gurmandi!!near rana pratap bagh!Delhi North!North!Delhi!110007",
+      "alt": "9318415293",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bharat ram",
+      "name": "Prem Shankar Kharwar",
+      "num": "7065162115"
+    },
+    {
+      "aadhar": "539549954751",
+      "address": "!59 duplex!rajpura gurmandi!!near rana pratap bagh!Delhi North!North!Delhi!110007",
+      "alt": "9318415293",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "bharat ram",
+      "name": "Prem Shankar Kharwar",
+      "num": "7065162115"
+    }
+  ]
+}
