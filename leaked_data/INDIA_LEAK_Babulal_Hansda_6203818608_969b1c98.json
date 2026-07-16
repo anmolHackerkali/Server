@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:40:19",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6203818608",
+  "records": [
+    {
+      "aadhar": "378839573338",
+      "address": "s/o lachhu manjhi!VILL GORANGDIH POST BHITIA P S GOVINDPUR!!vill gorangdih post bhitia p s govindpur!!gorangdih!dhanbad!Jharkhand!828109",
+      "alt": null,
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "lachhu manjhi",
+      "name": "Babulal Hansda",
+      "num": "6203818608"
+    },
+    {
+      "aadhar": "378839573338",
+      "address": "s/o lachhu manjhi!VILL GORANGDIH POST BHITIA P.S GOVINDPUR!!vill gorangdih post bhitia p.s govindpur!!gorangdih!dhanbad!Jharkhand!828109",
+      "alt": "7858869319",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "lachhu manjhi",
+      "name": "Babulal Hansda",
+      "num": "6203818608"
+    },
+    {
+      "aadhar": "378839573338",
+      "address": "s/o lachhu manjhi!VILL GORANGDIH POST BHITIA P.S GOVINDPUR!!vill gorangdih post bhitia p.s govindpur!!gorangdih!dhanbad!Jharkhand!828109",
+      "alt": "7858869319",
+      "circle": "JIO BHR&JHR",
+      "email": null,
+      "fname": "lachhu manjhi",
+      "name": "Babulal Hansda",
+      "num": "6203818608"
+    },
+    {
+      "aadhar": " 824750941739 ",
+      "address": "S/O  Mohammad Maisar ! Hno 230 ! Prem Gali Multani Mohalla !  ! Gandhi NagarEAST DELHI ! DELHI ! EAST DELHI ! Delhi ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohammad maisar",
+      "name": "MR. MOHAMMAD IMRAN NAJEER",
+      "num": "9911041125"
+    },
+    {
+      "aadhar": " 824750941739 ",
+      "address": "! Hno 220 ! Cinema gali !  ! Gandhi Nagar ! AJIT NAGAR-EAST DELHI ! EAST DELHI ! DL ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHAMMAD  MAISAR",
+      "name": "MOHAMMAD IMRAN NAJEER",
+      "num": "9911656331"
+    },
+    {
+      "aadhar": "824750941739",
+      "address": "! Hno 220 ! Cinema gali !  ! Gandhi Nagar ! AJIT NAGAR-EAST DELHI ! EAST DELHI ! DL ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHAMMAD  MAISAR",
+      "name": "MOHAMMAD IMRAN NAJEER",
+      "num": "9911656331"
+    },
+    {
+      "aadhar": " 824750941739 ",
+      "address": "S/O: Mohammad Maisar ! Hno 230 ! Prem Gali Multani Mohalla !  ! Gandhi NagarEAST DELHI ! DELHI ! EAST DELHI ! Delhi ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohammad maisar",
+      "name": "MR MOHAMMAD IMRAN NAJEER",
+      "num": "9911041125"
+    },
+    {
+      "aadhar": "824750941739",
+      "address": "! Hno 220 ! Cinema gali !  ! Gandhi Nagar ! AJIT NAGAR-EAST DELHI ! EAST DELHI ! DL ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "MOHAMMAD  MAISAR",
+      "name": "MOHAMMAD IMRAN NAJEER",
+      "num": "9911656331"
+    },
+    {
+      "aadhar": " 824750941739 ",
+      "address": "S/O: Mohammad Maisar ! Hno 230 ! Prem Gali Multani Mohalla !  ! Gandhi NagarEAST DELHI ! DELHI ! EAST DELHI ! Delhi ! 110031",
+      "alt": "6203818608",
+      "circle": "Delhi Voda",
+      "email": null,
+      "fname": "Mohammad maisar",
+      "name": "MR MOHAMMAD IMRAN NAJEER",
+      "num": "9911041125"
+    }
+  ]
+}
