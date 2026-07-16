@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:46:17",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8340277157",
+  "records": [
+    {
+      "aadhar": "896271249878",
+      "address": "S/O  Gopal Prasad!!Type-4/4!New DGMS ColonySaraidhela Opp- P K Roy College!DAMODARPUR DHANBAD!Jharkhand!826004",
+      "alt": "919835108613",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "8340277157"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": "S/O  Gopal Prasad!!Type-4/4!New DGMS ColonySaraidhela Opp- P K Roy College!DAMODARPUR DHANBAD!Jharkhand!826004",
+      "alt": "919835108613",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "8340277157"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": "S/O  Gopal Prasad!!Type-4/4!New DGMS ColonySaraidhela Opp- P K Roy College!DAMODARPUR DHANBAD!Jharkhand!826004",
+      "alt": "919835108613",
+      "circle": "BIHAR JIO",
+      "email": null,
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "8340277157"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": " !11!Af saltlkae!NA!sector 1!Kolkata East North Twenty Four Parganas!NA!West Bengal!700064 ",
+      "alt": "8340277157",
+      "circle": "JIO KOLKATA",
+      "email": null,
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "9835108613"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": " !11!Af saltlkae!NA!sector 1!Kolkata East North Twenty Four Parganas!NA!West Bengal!700064 ",
+      "alt": "8340277157",
+      "circle": "JIO KOL",
+      "email": "rajesh_pao@yahoo.com",
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "9835108613"
+    },
+    {
+      "aadhar": "896271249878",
+      "address": " !11!Af saltlkae!NA!sector 1!Kolkata East North Twenty Four Parganas!NA!West Bengal!700064 ",
+      "alt": "8340277157",
+      "circle": "JIO KOL",
+      "email": "rajesh_pao@yahoo.com",
+      "fname": "Gopal Prasad",
+      "name": "Rajesh Kumar Verma",
+      "num": "9835108613"
+    }
+  ]
+}
