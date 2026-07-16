@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:34:49",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9129105668",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "W/O: Upenarshah!!khairat!  Khairat!Deoria!Uttar Pradesh!274702",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Upenarshah",
+      "name": "Gyanti Devi",
+      "num": "9129105668"
+    },
+    {
+      "aadhar": null,
+      "address": "W/O: Upenarshah!!khairat!  Khairat!Deoria!Uttar Pradesh!274702",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Upenarshah",
+      "name": "Gyanti Devi",
+      "num": "9129105668"
+    }
+  ]
+}
