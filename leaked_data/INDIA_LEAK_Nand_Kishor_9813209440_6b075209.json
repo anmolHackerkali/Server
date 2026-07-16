@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 07:21:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9813209440",
+  "records": [
+    {
+      "aadhar": "321417846359",
+      "address": "!168!Near Bus Stand!!Dhamtan Sahib!Narwana!Jind!Haryana!126116",
+      "alt": "9991718877",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hari Krishan",
+      "name": "Nand Kishor",
+      "num": "9813209440"
+    },
+    {
+      "aadhar": "321417846359",
+      "address": "s/o hari krishan!1741!Dhamtan Sahib!near bus stand!Narwana!dhamtan sahib!jind!Haryana!126116",
+      "alt": "9813209440",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "hari krishan",
+      "name": "Nand Kishor",
+      "num": "9306343725"
+    },
+    {
+      "aadhar": "321417846359",
+      "address": "!890!dhamtan sahib!near bus stand!narwana!Narwana!Jind!Haryana!126116",
+      "alt": "9813209440",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Hari Krishan",
+      "name": "Nand Kishor",
+      "num": "8168898161"
+    }
+  ]
+}
