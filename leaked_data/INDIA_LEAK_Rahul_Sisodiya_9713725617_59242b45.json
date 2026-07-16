@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:39:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9713725617",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "S/O Rumalsingh Sisodiya!WARD NO 04!MAHALAXMI NAGAR!MAHESHWARKhargone!!KHARGONE!Khargone!Madhya Pradesh!451224",
+      "alt": "8827708579",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Rumalsingh Sisodiya",
+      "name": "Rahul Sisodiya",
+      "num": "9713725617"
+    },
+    {
+      "aadhar": "576529189226",
+      "address": "!WARD NO 04!MAHALAXMI NAGAR maheshwer!maheshwer!MAHESHWAR KHARGONE!KHARGONE!KHARGONE!Madhya Pradesh!451224",
+      "alt": "9713725617",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Rumalsingh Sisodiya",
+      "name": "MR RAHUL SISODIYA",
+      "num": "9993790735"
+    }
+  ]
+}
