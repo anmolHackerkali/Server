@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 06:58:01",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7501569247",
+  "records": [
+    {
+      "aadhar": "201322701613",
+      "address": "Ramdhari Psndit!nulll!AMUA!Sainthia  Mayureswar - II !AKNA-BIRBHUM!WB!731234",
+      "alt": "9932415150",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "RAMDHARI PSNDIT",
+      "name": "RAJESH PANDIT",
+      "num": "7501569247"
+    },
+    {
+      "aadhar": "201322701613",
+      "address": "Ramdhari Psndit!nulll!AMUA!Sainthia  Mayureswar - II !AKNA-BIRBHUM!WB!731234",
+      "alt": "9932415150",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "RAMDHARI PSNDIT",
+      "name": "RAJESH PANDIT",
+      "num": "7501569247"
+    },
+    {
+      "aadhar": "201322701613",
+      "address": "Ramdhari Psndit!nulll!AMUA!Sainthia  Mayureswar - II !AKNA-BIRBHUM!WB!731234",
+      "alt": "9932415150",
+      "circle": "VI KOL & WB",
+      "email": null,
+      "fname": "RAMDHARI PSNDIT",
+      "name": "RAJESH PANDIT",
+      "num": "7501569247"
+    },
+    {
+      "aadhar": "201322701613",
+      "address": "Ramdhari Psndit!nulll!AMUA!Sainthia  Mayureswar - II !AKNA-BIRBHUM!WB!731234",
+      "alt": "9932415150",
+      "circle": "JIO KOL",
+      "email": null,
+      "fname": "RAMDHARI PSNDIT",
+      "name": "RAJESH PANDIT",
+      "num": "7501569247"
+    }
+  ]
+}
