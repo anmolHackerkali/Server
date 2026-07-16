@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:45:46",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9517686877",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "D/O Shrikishan!!gram parehrapur post pukhrayan!!Pareharapur Kanpur Dehat!Uttar Pradesh!209111",
+      "alt": "918887289013",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shrikishan",
+      "name": "Roshani Devi",
+      "num": "9517686877"
+    },
+    {
+      "aadhar": null,
+      "address": "D/O Shrikishan!!gram parehrapur post pukhrayan!!Pareharapur Kanpur Dehat!Uttar Pradesh!209111",
+      "alt": "918887289013",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "Shrikishan",
+      "name": "Roshani Devi",
+      "num": "9517686877"
+    }
+  ]
+}
