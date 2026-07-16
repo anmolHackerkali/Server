@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 00:07:20",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "6260415482",
+  "records": [
+    {
+      "aadhar": "586497799494",
+      "address": "!!house no 72 gram NIPANIYA post AMRAHA AMRAHA!NA!sohagpur karuatal shahdol!Shahdol SHAHDOL!NA!Madhya Pradesh!484110",
+      "alt": "6260415482",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "mangi prasad patva",
+      "name": "ramdhar patva",
+      "num": "7879458872"
+    },
+    {
+      "aadhar": "551997083901",
+      "address": "s/o  ramadhar patva! house no 71 tehsil sohagpur gram nipaniya post amraha!karuataal singrampur!gram nipaniya post amraha!tehsil sohagpur!karuatal!shahdol!Madhya Pradesh!484110",
+      "alt": "6260415482",
+      "circle": "JIO MP",
+      "email": null,
+      "fname": "ramadhar patva",
+      "name": "Mahndr Kumar Patva",
+      "num": "6267987557"
+    }
+  ]
+}
