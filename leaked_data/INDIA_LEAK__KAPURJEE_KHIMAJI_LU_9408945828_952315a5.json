@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:23:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9408945828",
+  "records": [
+    {
+      "aadhar": null,
+      "address": " AT LAXMIPURA TA  DEESA ADD33 B K  STATE 385535 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " KAPURJEE KHIMAJI LUNESH ",
+      "num": "9408945828"
+    },
+    {
+      "aadhar": null,
+      "address": " AT LAXMIPURA TA  DEESA ADD33 B K  STATE 385535 ",
+      "alt": null,
+      "circle": "BSNL GUJRAT",
+      "email": null,
+      "fname": null,
+      "name": " KAPURJEE KHIMAJI LUNESH ",
+      "num": "9408945828"
+    },
+    {
+      "aadhar": "748467226191",
+      "address": "!! Varnoda!NA!!Laxmipura Deesa Banaskantha!NA!Gujarat!385535",
+      "alt": "9408945828",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Khimaji Lunesh",
+      "name": "Sankarji Khimaji Lunesh",
+      "num": "9510272122"
+    },
+    {
+      "aadhar": "748467226191",
+      "address": "!! Varnoda!NA!!Laxmipura Deesa Banaskantha!NA!Gujarat!385535",
+      "alt": "9408945828",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Khimaji Lunesh",
+      "name": "Sankarji Khimaji Lunesh",
+      "num": "9510272122"
+    },
+    {
+      "aadhar": "748467226191",
+      "address": "!! Varnoda!NA!!Laxmipura Deesa Banaskantha!NA!Gujarat!385535",
+      "alt": "9408945828",
+      "circle": "JIO GUJARAT",
+      "email": null,
+      "fname": "Khimaji Lunesh",
+      "name": "Sankarji Khimaji Lunesh",
+      "num": "9510272122"
+    }
+  ]
+}
