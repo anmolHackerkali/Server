@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:52:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8294606143",
+  "records": [
+    {
+      "aadhar": "556223647114",
+      "address": "S/O Ram Kumar Rai!ward no-07!!Post Office-Warisnagar Warisnagar!village-Dhanhar!Samastipur!Bihar!848133",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Kumar Rai",
+      "name": "Raushan  Kumar",
+      "num": "8294606143"
+    },
+    {
+      "aadhar": "556223647114",
+      "address": "S/O Ram Kumar Rai!ward no-07!!Post Office-Warisnagar Warisnagar!village-Dhanhar!Samastipur!Bihar!848133",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Ram Kumar Rai",
+      "name": "Raushan  Kumar",
+      "num": "8294606143"
+    }
+  ]
+}
