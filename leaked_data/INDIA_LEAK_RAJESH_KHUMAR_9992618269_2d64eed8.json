@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:51:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9992618269",
+  "records": [
+    {
+      "aadhar": "942379653831",
+      "address": "S/O: Dhoop Singh S/O: Dhoop Singh teh jind Dhigana Jindvillage dhigana DHIGANA 47-JIND HR 126114",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "DHOOP SINGH  ",
+      "name": "RAJESH KHUMAR",
+      "num": "9992618269"
+    },
+    {
+      "aadhar": "942379653831",
+      "address": "S/O: Dhoop Singh S/O: Dhoop Singh teh jind Dhigana Jindvillage dhigana DHIGANA 47-JIND HR 126114",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "DHOOP SINGH  ",
+      "name": "RAJESH KHUMAR",
+      "num": "9992618269"
+    }
+  ]
+}
