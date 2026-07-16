@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:05:11",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7565801679",
+  "records": [
+    {
+      "aadhar": "1022169477",
+      "address": "PLOT NO 119120121 PART BLOCK PT!KALPI ROAD FAZALGANJ!FAZALGANJ CHAURAHA!KANPUR CITY!UTTAR PRADESH!208012",
+      "alt": "8009595000",
+      "circle": "VODA UPE",
+      "email": null,
+      "fname": "M/S RSPL LIMITED",
+      "name": "M/S RSPL LIMITED",
+      "num": "7565801679"
+    },
+    {
+      "aadhar": "AADCS7820A",
+      "address": "PLOT NO 119 120 121 PART BLOCK PT!KALPI ROAD FAZALGANJ!FAZALGANJ CHAURAHA!KANPUR CITY!UTTAR PRADESH!208012",
+      "alt": "8009595000",
+      "circle": "UPE",
+      "email": "AMIT.OMER@RSPLGROUP.COM",
+      "fname": "M/S. RSPL LIMITED",
+      "name": "M/S RSPL LIMITED",
+      "num": "7565801679"
+    },
+    {
+      "aadhar": "AADCS7820A",
+      "address": "PLOT NO 119 120 121 PART BLOCK PT!KALPI ROAD FAZALGANJ!FAZALGANJ CHAURAHA!KANPUR CITY!UTTAR PRADESH!208012",
+      "alt": "8009595000",
+      "circle": "UPE",
+      "email": "AMIT.OMER@RSPLGROUP.COM",
+      "fname": "M/S. RSPL LIMITED",
+      "name": "M/S RSPL LIMITED",
+      "num": "7565801679"
+    }
+  ]
+}
