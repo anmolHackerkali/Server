@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:32:12",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9939322483",
+  "records": [
+    {
+      "aadhar": "673888848278",
+      "address": "S/O Kapil Singh!Jokahri!!!!Bhojpur Mahulighat Barhara!Bihar!802316",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kapil  Singh",
+      "name": "Satyendra  Singh",
+      "num": "9939322483"
+    },
+    {
+      "aadhar": "673888848278",
+      "address": "S/O Kapil Singh!Jokahri!!!!Bhojpur Mahulighat Barhara!Bihar!802316",
+      "alt": null,
+      "circle": "AIRTEL BHR&JHR",
+      "email": null,
+      "fname": "Kapil  Singh",
+      "name": "Satyendra  Singh",
+      "num": "9939322483"
+    }
+  ]
+}
