@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:47:59",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7888345098",
+  "records": [
+    {
+      "aadhar": "591793871995",
+      "address": "S/O Sahib Singh!!MASTER COLONY!WARD NUMBER 5!LEHRA GAGASangrur!Punjab!148031",
+      "alt": "+918968458455",
+      "circle": "AIRTEL PUNJAB",
+      "email": null,
+      "fname": "Sahib Singh",
+      "name": "Santosh Kumar",
+      "num": "7888345098"
+    }
+  ]
+}
