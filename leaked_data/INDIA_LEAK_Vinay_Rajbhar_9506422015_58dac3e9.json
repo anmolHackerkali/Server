@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:00:42",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9506422015",
+  "records": [
+    {
+      "aadhar": "315506326258",
+      "address": "S/O Jaynath!aurihar!Aurihar Khurd!!Aurihar Ghazipur!Ghazipur!Ghazipur!Uttar Pradesh!233221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jaynath",
+      "name": "Vinay Rajbhar",
+      "num": "9506422015"
+    },
+    {
+      "aadhar": "315506326258",
+      "address": "S/O Jaynath!aurihar!Aurihar Khurd!!Aurihar Ghazipur!Ghazipur!Ghazipur!Uttar Pradesh!233221",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Jaynath",
+      "name": "Vinay Rajbhar",
+      "num": "9506422015"
+    }
+  ]
+}
