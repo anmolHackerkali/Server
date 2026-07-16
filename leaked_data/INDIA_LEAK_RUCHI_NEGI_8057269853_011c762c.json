@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 01:11:06",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8057269853",
+  "records": [
+    {
+      "aadhar": "596566296472",
+      "address": "!H NO 5!02 JALANDHARNEAR GURUDWARA!NEAR GURUDWARA!ADAMPUR RAMA MANDI TEH AND DISTT JALANDHARJALANDHAR!JALANDHAR!JALANDHAR!PUNJAB!144001",
+      "alt": "8923148954",
+      "circle": "VODA PUNJAB",
+      "email": null,
+      "fname": "Kheem Singh Negi",
+      "name": "RUCHI NEGI",
+      "num": "8057269853"
+    }
+  ]
+}
