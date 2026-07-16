@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:53:54",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8927828450",
+  "records": [
+    {
+      "aadhar": null,
+      "address": "!! ILAMBAZAR!!Beloa Birbhum!West Bengal!731214",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Pradip Bhandari",
+      "name": "BAPAN BHANDARI",
+      "num": "8927828450"
+    },
+    {
+      "aadhar": null,
+      "address": "!! ILAMBAZAR!!Beloa Birbhum!West Bengal!731214",
+      "alt": null,
+      "circle": "AIRTEL WB",
+      "email": null,
+      "fname": "Pradip Bhandari",
+      "name": "BAPAN BHANDARI",
+      "num": "8927828450"
+    },
+    {
+      "aadhar": "839593107451",
+      "address": " S/O Pradip Bhandari!!Illambazar!ILAMBAZAR!!Beloa Illambazar!Birbhum!West Bengal!731214 ",
+      "alt": "8927828450",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Pradip Bhandari",
+      "name": "Bapan Bhandari",
+      "num": "8170098508"
+    },
+    {
+      "aadhar": "839593107451",
+      "address": " S/O Pradip Bhandari!!Illambazar!ILAMBAZAR!!Beloa Illambazar!Birbhum!West Bengal!731214 ",
+      "alt": "8927828450",
+      "circle": "JIO WB",
+      "email": null,
+      "fname": "Pradip Bhandari",
+      "name": "Bapan Bhandari",
+      "num": "8170098508"
+    }
+  ]
+}
