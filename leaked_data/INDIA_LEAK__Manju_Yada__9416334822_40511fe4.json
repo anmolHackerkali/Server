@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:01:31",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9416334822",
+  "records": [
+    {
+      "aadhar": " 983049348557 ",
+      "address": "  tumana road sadar gali Kosli Rewari Haryan 123302 ",
+      "alt": "  ",
+      "circle": " HARYANA ",
+      "email": null,
+      "fname": " W/O Vinod ",
+      "name": " Manju Yada ",
+      "num": "9416334822"
+    }
+  ]
+}
