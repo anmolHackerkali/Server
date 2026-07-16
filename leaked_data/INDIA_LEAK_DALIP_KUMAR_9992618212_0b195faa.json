@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:50:22",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9992618212",
+  "records": [
+    {
+      "aadhar": "xxxx-xxxx-9462",
+      "address": "S/O: Bihari Lal S/O: Bihari Lal2 A parshuram Nagar  AMBALA CITY-AMBALA HR 134003",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "BIHARI LAL",
+      "name": "DALIP KUMAR",
+      "num": "9992618212"
+    },
+    {
+      "aadhar": "xxxx-xxxx-9462",
+      "address": "S/O: Bihari Lal S/O: Bihari Lal2 A parshuram Nagar  AMBALA CITY-AMBALA HR 134003",
+      "alt": null,
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "BIHARI LAL",
+      "name": "DALIP KUMAR",
+      "num": "9992618212"
+    }
+  ]
+}
