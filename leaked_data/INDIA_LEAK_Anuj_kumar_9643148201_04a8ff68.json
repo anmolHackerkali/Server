@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:11:39",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9643148201",
+  "records": [
+    {
+      "aadhar": "792207043358",
+      "address": "!!2087/25 ab 21 nepali mandir!NA!prem nagar patel nagar so!New Delhi Central delhi West!NA!Delhi!110008",
+      "alt": "9953447294",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shital parsad",
+      "name": "Anuj kumar",
+      "num": "9643148201"
+    },
+    {
+      "aadhar": "792207043358",
+      "address": "!!2087/25 ab21nepali mandir!NA!prem nagar patel nagar so!New Delhi CentraldelhiWest!NA!Delhi!110008",
+      "alt": "9953447294",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shital parsad",
+      "name": "Anuj kumar",
+      "num": "9643148201"
+    },
+    {
+      "aadhar": "792207043358",
+      "address": "!!2087/25 ab21nepali mandir!NA!prem nagar patel nagar so!New Delhi CentraldelhiWest!NA!Delhi!110008",
+      "alt": "9953447294",
+      "circle": "JIO DELHI",
+      "email": null,
+      "fname": "shital parsad",
+      "name": "Anuj kumar",
+      "num": "9643148201"
+    }
+  ]
+}
