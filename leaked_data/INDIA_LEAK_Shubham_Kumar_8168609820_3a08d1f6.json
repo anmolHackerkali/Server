@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:55:09",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8168609820",
+  "records": [
+    {
+      "aadhar": "724248688920",
+      "address": "S/O: Dilip Kumar!!131/13!Sarswati Sugar Mill Colony!YAMUNA NAGAR YAMUNANAGAR!Haryana!135001",
+      "alt": "+918814048241",
+      "circle": "JIO HR",
+      "email": null,
+      "fname": "Dilip Kumar",
+      "name": "Shubham Kumar",
+      "num": "8168609820"
+    }
+  ]
+}
