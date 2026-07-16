@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:58:47",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7080115000",
+  "records": [
+    {
+      "aadhar": "803428845890",
+      "address": "!k no 124!geetapuri colony gomti nagar!near malesamau!extension malesemau lucnow!Lucknow!Lucknow!Uttar Pradesh!226010",
+      "alt": null,
+      "circle": "AIRTEL UP EAST",
+      "email": null,
+      "fname": "yadunath mishea",
+      "name": "Amar jeet Mishra",
+      "num": "7080115000"
+    },
+    {
+      "aadhar": "803428845890",
+      "address": "!K N0-124!geetapuri colony gomti nagar extension!Near Mandir!gomti nagar extension Malesemau!Lucknow!Lucknow!Uttar Pradesh!226010",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": "purabtv@gmail.com",
+      "fname": "Yadunath Mishra",
+      "name": "Amar Jeet Mishra",
+      "num": "7080115000"
+    },
+    {
+      "aadhar": "803428845890",
+      "address": "!K N0-124!geetapuri colony gomti nagar extension!Near Mandir!gomti nagar extension Malesemau!Lucknow!Lucknow!Uttar Pradesh!226010",
+      "alt": null,
+      "circle": "UP EAST",
+      "email": "purabtv@gmail.com",
+      "fname": "Yadunath Mishra",
+      "name": "Amar Jeet Mishra",
+      "num": "7080115000"
+    }
+  ]
+}
