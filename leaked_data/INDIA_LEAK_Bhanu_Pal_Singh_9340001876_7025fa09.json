@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:24:48",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9340001876",
+  "records": [
+    {
+      "aadhar": "319991638661",
+      "address": "S/O  Buddh Singh Parihar!!makan ward mohandra road PAWAI!PAWAI!Pawai Panna!Madhya Pradesh!488446",
+      "alt": "918085885471",
+      "circle": "JIO MP",
+      "email": "rp472618@gmail.com",
+      "fname": "Buddh Singh Parihar",
+      "name": "Bhanu Pal Singh",
+      "num": "9340001876"
+    },
+    {
+      "aadhar": "319991638661",
+      "address": "Buddh Singh!Makan ward mahendra road!mahendra road pawai!mahendra road pawai!pawai panna PANNA!PANNA!PANNA!Madhya Pradesh!488446",
+      "alt": "9340001876",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Buddh Singh PARIHAR",
+      "name": "MR BHANU PAL SINGH",
+      "num": "9644184835"
+    },
+    {
+      "aadhar": "463406405219",
+      "address": "s/o  bhola!makan!vard Pawai!post simri!vard graam pipriya mehgva pawai!pawai Pawai!panna!Madhya Pradesh!488446",
+      "alt": "9340001876",
+      "circle": "JIO MP",
+      "email": "JMP488446@GMAIL.COM",
+      "fname": "bhola",
+      "name": "Jahir Adivasi",
+      "num": "9329133409"
+    },
+    {
+      "aadhar": null,
+      "address": "S/O Buddh Singh Parihar!makan!ward mohandra road PAWAI!PAWAI Panna!mohandra road PAWAI!PANNA!Panna!Madhya Pradesh!488446",
+      "alt": "9340001876",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "S/O Buddh Singh Parihar",
+      "name": "Bhanu Pal Singh",
+      "num": "8889905368"
+    },
+    {
+      "aadhar": "319991638661",
+      "address": "Buddh Singh Parihar!makan ward Mohandra road!makan ward Mohandra road!makan ward Mohandra road!makan ward Mohandra road panna PANNA!PANNA!PANNA!Madhya Pradesh!488446",
+      "alt": "9340001876",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Buddh Singh Pal",
+      "name": "MR BHANU SINGH PAL",
+      "num": "8519054672"
+    }
+  ]
+}
