@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 08:53:14",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9639341930",
+  "records": [
+    {
+      "aadhar": "887068578569",
+      "address": "!c/o abdul haquim!alli khan ward no 10!!kashipur udham singh nagar!Udham Singh Nagar!NAINITAL!Uttarakhand!244713",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "abdul haquim",
+      "name": "Mohd Shamim",
+      "num": "9639341930"
+    },
+    {
+      "aadhar": "887068578569",
+      "address": "!c/o abdul haquim!alli khan ward no 10!!kashipur udham singh nagar!Udham Singh Nagar!NAINITAL!Uttarakhand!244713",
+      "alt": null,
+      "circle": "AIRTEL UPW",
+      "email": null,
+      "fname": "abdul haquim",
+      "name": "Mohd Shamim",
+      "num": "9639341930"
+    }
+  ]
+}
