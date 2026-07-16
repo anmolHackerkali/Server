@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 04:16:15",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "9695111105",
+  "records": [
+    {
+      "aadhar": "636434890733",
+      "address": "S/O: Jai Karan Singh!175B/3!Radhapuram!Kanpur Nagar Kidwai Nagar!Kanpur Nagar!Uttar Pradesh!208011",
+      "alt": "9140274063",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jai Karan Singh",
+      "name": "Mayank Singh Chauhan",
+      "num": "9695111105"
+    },
+    {
+      "aadhar": "636434890733",
+      "address": "S/O: Jai Karan Singh!175B/3!Radhapuram!Kanpur Nagar Kidwai Nagar!Kanpur Nagar!Uttar Pradesh!208011",
+      "alt": "9140274063",
+      "circle": "UPEAST",
+      "email": null,
+      "fname": "Jai Karan Singh",
+      "name": "Mayank Singh Chauhan",
+      "num": "9695111105"
+    }
+  ]
+}
