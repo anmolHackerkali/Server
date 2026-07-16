@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 05:33:00",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8962146866",
+  "records": [
+    {
+      "aadhar": "729892193090",
+      "address": "S/O Ishwari Prasad Pachori!S/O Ishwari Prasad Pachori!Geetanjali Colony By Pass  Chheer Ward Deori!Deori  Deori !CHHIR-SAGAR!MP!470226",
+      "alt": "8720892337",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "ISHWARI PRASAD Prasad PACHORI",
+      "name": "MOHIT PACHORI",
+      "num": "8962146866"
+    },
+    {
+      "aadhar": "729892193090",
+      "address": "S/O ISHWARI PRASAD PACHORI!GEETANJALI COLONY BY PASS  FRONT OF MANIKCHAND PETROL PAMP  CHHEER WARD DEORI!GEETANJALI COLONY BY PASS  FRONT OF MANIKCHAND PETROL PAMP  CHHEER WARD DEORI!GEETANJALI COLONY",
+      "alt": "8962146866",
+      "circle": "VI MP",
+      "email": null,
+      "fname": "Ishwari",
+      "name": "MR MOHIT PACHORI",
+      "num": "7049707718"
+    }
+  ]
+}
