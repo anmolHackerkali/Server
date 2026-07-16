@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 02:26:08",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "7398965163",
+  "records": [
+    {
+      "aadhar": "957387307110",
+      "address": "!Atrampur Urf Nawabganjram ji ka pura (jamua urf bhavanipur)!!!Allahabad!Uttar Pradesh!229412",
+      "alt": "9651863482",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Maharani Deen Dwivedi",
+      "name": "Arvind Kumar Dwivedi",
+      "num": "7398965163"
+    },
+    {
+      "aadhar": "957387307110",
+      "address": "!Atrampur Urf Nawabganjram ji ka pura (jamua urf bhavanipur)!!!Allahabad!Uttar Pradesh!229412",
+      "alt": "9651863482",
+      "circle": "UP EAST",
+      "email": null,
+      "fname": "Maharani Deen Dwivedi",
+      "name": "Arvind Kumar Dwivedi",
+      "num": "7398965163"
+    },
+    {
+      "aadhar": "957387307110",
+      "address": "s/o  maharani deen!!ram ji ka pura bhawanipur Atrampur!!ram ji ka pura bhawanipur atrampur!atrampur urf nawabganj Soraon!allahabad!Uttar Pradesh!229412",
+      "alt": "7398965163",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "maharani deen",
+      "name": "Arvind Kumar",
+      "num": "9839061183"
+    },
+    {
+      "aadhar": "957387307110",
+      "address": "s/o  maharani deen!!ram ji ka pura bhawanipur Atrampur!!ram ji ka pura bhawanipur atrampur!atrampur urf nawabganj Soraon!allahabad!Uttar Pradesh!229412",
+      "alt": "7398965163",
+      "circle": "JIO UPE",
+      "email": null,
+      "fname": "maharani deen",
+      "name": "Arvind Kumar",
+      "num": "9839061183"
+    }
+  ]
+}
