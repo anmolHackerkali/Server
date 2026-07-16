@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "source": "INDIAN_TELECOM_LEAK_2026",
+    "extracted_at": "2026-07-16 03:44:04",
+    "extracted_by": "PYAURA_ENGINE"
+  },
+  "target_phone": "8059392508",
+  "records": [
+    {
+      "aadhar": "452057995054",
+      "address": "W/O Parbhat 2654 Urban Estate JIND HaryanaUrban EstateJIND   JIND JIND Haryana 126102",
+      "alt": "9466452384",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "PARBHAT  ",
+      "name": "SEEMA  ",
+      "num": "8059392508"
+    },
+    {
+      "aadhar": "219615792908",
+      "address": "S/O Parbhat 2654 gohana road  Urban EstateJIND JIND JIND HARYANA 126102",
+      "alt": "8059392508",
+      "circle": "VI HAR",
+      "email": null,
+      "fname": "Parbhat",
+      "name": "MR  APURVE  ",
+      "num": "8199976584"
+    }
+  ]
+}
